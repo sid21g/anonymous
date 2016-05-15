@@ -11,10 +11,11 @@ root = tree.getroot()
 entries = root.findall('{http://www.w3.org/2005/Atom}entry')
 
 for entry in entries:
-    print(entry.getchildren())
+   entry_title = entry.find('{http://www.w3.org/2005/Atom}title')
+   entry_link = entry.find('{http://www.w3.org/2005/Atom}link')
+   entry_content = entry.find('{http://www.w3.org/2005/Atom}content')
+   print(entry_title.text)
+   print(entry_link.text)
+   print(entry_content.text)
 
-# print(list(root))
-
-# Shows all child tags and attributes
-# for child in root:
-# 	print(child.tag)
+#TODO: Get only the link for entry_link.attrib
