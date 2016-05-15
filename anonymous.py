@@ -7,6 +7,7 @@ conn = connect(r'C:\Temp\anon.db')
 curs = conn.cursor()
 
 # TODO: Create loop where will query all anonymous source phrases
+# TODO: Remove namespaces from ElementTree find calls
 url = 'https://www.google.com/alerts/feeds/00081205862505704902/11030700134857925288'
 local_file, headers = urllib.request.urlretrieve(url, "C:/Temp/anonymous.txt")
 
