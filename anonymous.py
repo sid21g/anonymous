@@ -15,7 +15,6 @@ for entry in entries:
    entry_link = entry.find('{http://www.w3.org/2005/Atom}link')
    entry_content = entry.find('{http://www.w3.org/2005/Atom}content')
    print(entry_title.text)
-   print(entry_link.attrib)
+   print(entry_link.attrib['href'])
    print(entry_content.text)
 
-#TODO: Get only the link for entry_link.attrib
