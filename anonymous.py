@@ -28,4 +28,3 @@ for entry in entries:
 results = curs.execute("SELECT * FROM anon")
 #TODO: Fix encoding error when printing in Visual Studio
 #print(results.fetchall())
-
