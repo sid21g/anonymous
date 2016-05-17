@@ -8,7 +8,7 @@ curs = conn.cursor()
 
 # TODO: Create loop where will query all anonymous source phrases
 # TODO: Remove namespaces from ElementTree find calls
-url = 'https://goo.gl/YNsX6Q'
+url = 'https://goo.gl/lxR5Ib'
 local_file, headers = urllib.request.urlretrieve(url, "C:/Temp/anonymous.txt")
 
 tree = ElementTree.parse(local_file)
@@ -22,8 +22,8 @@ entries = root.findall('{http://www.w3.org/2005/Atom}entry')
 for entry in entries:
     title = entry.find('{http://www.w3.org/2005/Atom}title')
     link = entry.find('{http://www.w3.org/2005/Atom}link')
-    content = entry.find('{http://www.w3.org/2005/Atom}content')
-    insert_values = [source, title.text, link.attrib['href'], content.text]
+    summary = entry.find('{http://www.w3.org/2005/Atom}summary')
+    insert_values = [source, title.text, link.attrib['href'], summary.text]
     curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?)", insert_values)
     conn.commit()
 results = curs.execute("SELECT * FROM anon")
