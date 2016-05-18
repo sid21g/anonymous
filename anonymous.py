@@ -6,6 +6,7 @@ conn = connect(r'C:\Temp\anon.db')
 curs = conn.cursor()
 
 # TODO: Remove namespaces from ElementTree find calls?
+# TODO: Handle when reach free query limit
 
 phrases = open("C:/Temp/anonymous-phrases.txt")
 for phrase in phrases:
@@ -13,11 +14,11 @@ for phrase in phrases:
     query = phrase.strip()
     base = 'https://www.googleapis.com/customsearch/v1?q='
     query = query
-    id = "&cx=012091639844104041986:munhfapni70&"
+    id = YOUR_ID
     restrict = "&dateRestrict=w2"
     exact = "&" + query
     language = "&hl=en"
-    key = "&key=AIzaSyA6N7CSdYpxd2V5yYrVk316XiV46ec5Cqg"
+    key = YOUR_KEY
     alt = "&alt=atom"
     url = (base + query + id + restrict + exact + language + key + alt)
 
