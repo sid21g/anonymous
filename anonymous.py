@@ -42,8 +42,5 @@ for phrase in phrases:
         source = link.attrib['title']
         summary = entry.find('{http://www.w3.org/2005/Atom}summary')
         insert_values = [source, phrase, title.text, link.attrib['href'], summary.text]
-        try:
-            curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?)", insert_values)
-            conn.commit()
-        except sqlite3.IntegrityError:
-            print("Dupe")
+        curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?)", insert_values)
+        conn.commit()
