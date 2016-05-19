@@ -1,12 +1,19 @@
 import urllib.request
 from xml.etree import ElementTree
 from sqlite3 import connect
-
-conn = connect(r'C:\Temp\anon.db')
-curs = conn.cursor()
+import configparser
 
 # TODO: Remove namespaces from ElementTree find calls?
 # TODO: Handle when reach free query limit
+
+config = configparser.ConfigParser()
+config.read("config.txt")
+
+YOUR_ID = config.get("Configuration", "id")
+YOUR_KEY = config.get("Configuration", "key")
+
+conn = connect(r'C:/Temp/anon.db')
+curs = conn.cursor()
 
 phrases = open("C:/Temp/anonymous-phrases.txt")
 for phrase in phrases:
@@ -21,6 +28,7 @@ for phrase in phrases:
     key = YOUR_KEY
     alt = "&alt=atom"
     url = (base + query + id + restrict + exact + language + key + alt)
+    print(url)
 
     file = "C:/Temp/anonymous.txt"
     local_file, headers = urllib.request.urlretrieve(url, file)
