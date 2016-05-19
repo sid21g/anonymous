@@ -1,5 +1,6 @@
 import urllib.request
 from xml.etree import ElementTree
+import sqlite3
 from sqlite3 import connect
 import configparser
 
@@ -8,19 +9,18 @@ import configparser
 
 config = configparser.ConfigParser()
 config.read("config.txt")
-
 YOUR_ID = config.get("Configuration", "id")
 YOUR_KEY = config.get("Configuration", "key")
 
-conn = connect(r'C:/Temp/anon.db')
+conn = connect(r'anon.db')
 curs = conn.cursor()
 
-phrases = open("C:/Temp/anonymous-phrases.txt")
+phrases = open("anonymous-phrases-test.txt")
+
 for phrase in phrases:
 
     query = phrase.strip()
     base = 'https://www.googleapis.com/customsearch/v1?q='
-    query = query
     id = YOUR_ID
     restrict = "&dateRestrict=w2"
     exact = "&" + query
@@ -28,20 +28,23 @@ for phrase in phrases:
     key = YOUR_KEY
     alt = "&alt=atom"
     url = (base + query + id + restrict + exact + language + key + alt)
-    print(url)
 
-    file = "C:/Temp/anonymous.txt"
+    # TODO: Clean up query phrase to remove quotes and + or urlencode?
+
+    file = "anonymous.txt"
     local_file, headers = urllib.request.urlretrieve(url, file)
     tree = ElementTree.parse(local_file)
     root = tree.getroot()
-    feed_title = root.find('{http://www.w3.org/2005/Atom}title')
     entries = root.findall('{http://www.w3.org/2005/Atom}entry')
-
     for entry in entries:
         title = entry.find('{http://www.w3.org/2005/Atom}title')
         link = entry.find('{http://www.w3.org/2005/Atom}link')
-        summary = entry.find('{http://www.w3.org/2005/Atom}summary')
         source = link.attrib['title']
-        insert_values = [source, title.text, link.attrib['href'], summary.text]
-        curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?)", insert_values)
-    conn.commit()
+        summary = entry.find('{http://www.w3.org/2005/Atom}summary')
+        insert_values = [source, phrase, title.text, link.attrib['href'], summary.text]
+        # Handle inserts that violate unique constraint
+        try:
+            curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?)", insert_values)
+            conn.commit()
+        except sqlite3.IntegrityError:
+            print("Dupe")
