@@ -31,8 +31,8 @@ for phrase in phrases:
     alt = "&alt=atom"
     url = (base + query + id + restrict + exact + language + key + alt)
 
-    file = "anonymous.txt"
-    local_file, headers = urllib.request.urlretrieve(url, file)
+    anon_file = "anonymous.txt"
+    local_file, headers = urllib.request.urlretrieve(url, anon_file)
     tree = ElementTree.parse(local_file)
     root = tree.getroot()
     entries = root.findall('{http://www.w3.org/2005/Atom}entry')
