@@ -1,4 +1,5 @@
 import urllib.request
+import urllib.parse
 from xml.etree import ElementTree
 import sqlite3
 from sqlite3 import connect
@@ -15,11 +16,12 @@ YOUR_KEY = config.get("Configuration", "key")
 conn = connect(r'anon.db')
 curs = conn.cursor()
 
-phrases = open("anonymous-phrases-test.txt")
+phrases = open("anonymous-phrases.txt")
 
 for phrase in phrases:
 
     query = phrase.strip()
+    query = urllib.parse.quote_plus(query)
     base = 'https://www.googleapis.com/customsearch/v1?q='
     id = YOUR_ID
     restrict = "&dateRestrict=w2"
@@ -28,8 +30,6 @@ for phrase in phrases:
     key = YOUR_KEY
     alt = "&alt=atom"
     url = (base + query + id + restrict + exact + language + key + alt)
-
-    # TODO: Clean up query phrase to remove quotes and + or urlencode?
 
     file = "anonymous.txt"
     local_file, headers = urllib.request.urlretrieve(url, file)
@@ -42,7 +42,6 @@ for phrase in phrases:
         source = link.attrib['title']
         summary = entry.find('{http://www.w3.org/2005/Atom}summary')
         insert_values = [source, phrase, title.text, link.attrib['href'], summary.text]
-        # Handle inserts that violate unique constraint
         try:
             curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?)", insert_values)
             conn.commit()
