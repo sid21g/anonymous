@@ -41,6 +41,6 @@ for phrase in phrases:
         link = entry.find('{http://www.w3.org/2005/Atom}link')
         source = link.attrib['title']
         summary = entry.find('{http://www.w3.org/2005/Atom}summary')
-        insert_values = [source, phrase, title.text, link.attrib['href'], summary.text]
+        insert_values = [source, phrase.strip(), title.text, link.attrib['href'], summary.text]
         curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?)", insert_values)
         conn.commit()
