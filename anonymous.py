@@ -4,6 +4,7 @@ from xml.etree import ElementTree
 from sqlite3 import connect
 from sqlite3 import Error
 import configparser
+from datetime import date
 
 # TODO: Remove namespaces from ElementTree find calls?
 
@@ -16,6 +17,8 @@ conn = connect(r'anon.db')
 curs = conn.cursor()
 
 phrases = open("anonymous-phrases.txt")
+
+today = date.today()
 
 for phrase in phrases:
 
@@ -40,9 +43,9 @@ for phrase in phrases:
         link = entry.find('{http://www.w3.org/2005/Atom}link')
         source = link.attrib['title']
         summary = entry.find('{http://www.w3.org/2005/Atom}summary')
-        insert_values = [source, phrase.strip(), title.text, link.attrib['href'], summary.text]
+        insert_values = [source, phrase.strip(), title.text, link.attrib['href'], summary.text, today]
         try:
-            curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?)", insert_values)
+            curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)", insert_values)
             conn.commit()
-        except sqlite3.Error as e:
-              print("Oops: ", e.args[0])
+        except Error as e:
+            print("Oops: ", e.args[0])
