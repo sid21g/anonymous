@@ -1,7 +1,33 @@
 <!doctype html>
+<head>
 <title>Anonymous Source Tracker</title>
-{% if name %}
-  <h1>Hello {{ name }}!</h1>
-{% else %}
-  <h1>Hello World!</h1>
-{% endif %}
+</head>
+<body>
+
+<br><h1 style="color: #E00000;font-size:62px;font-weight:normal;margin-bottom:0">Anonymous source tracker</h1>
+
+<p style="padding-bottom:20px">Continuously updated examples of the media's use of anonymous sources</p><br>
+
+<div id="anon_left">
+
+{% for entry in entries %}
+
+<b><a href="{{ entry.link }}">{{ entry.source|safe }}&nbsp;&mdash;&nbsp;{{ entry.title|safe }}</a></b>
+<br>
+<hr>
+{{ entry.content|safe }}
+<div class="timestamp">{{ entry.date_entered }}</div>
+<br><br><br>
+
+{% endfor %}
+
+</div> <!-- anon_left -->
+
+<div id="anon_right">
+
+<p>&nbsp;</p>
+
+</div> <!-- anon right -->
+
+</body>
+</html>

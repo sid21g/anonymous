@@ -13,7 +13,7 @@ config.read("config.txt")
 YOUR_ID = config.get("Configuration", "id")
 YOUR_KEY = config.get("Configuration", "key")
 
-conn = connect(r'anon.db')
+conn = connect(r"anon.db")
 curs = conn.cursor()
 
 phrases = open("anonymous-phrases.txt")
@@ -21,9 +21,9 @@ phrases = open("anonymous-phrases.txt")
 today = date.today()
 
 for phrase in phrases:
-
     query = phrase.strip()
     query = urllib.parse.quote_plus(query)
+
     base = 'https://www.googleapis.com/customsearch/v1?q='
     id = YOUR_ID
     restrict = "&dateRestrict=w2"
@@ -38,6 +38,7 @@ for phrase in phrases:
     tree = ElementTree.parse(local_file)
     root = tree.getroot()
     entries = root.findall('{http://www.w3.org/2005/Atom}entry')
+
     for entry in entries:
         title = entry.find('{http://www.w3.org/2005/Atom}title')
         link = entry.find('{http://www.w3.org/2005/Atom}link')
