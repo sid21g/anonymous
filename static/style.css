@@ -1,9 +1,7 @@
-/* All pages
--------------------------------------------------*/
+
 body {
     font-family: Libre Baskerville, Georgia, Verdana, Arial;
     font-size: 11pt;
-    /* background: #e6e6e6 url(/public/images/wretch-gradient.png) repeat-x; */
     text-align: center;
 }
 
@@ -33,7 +31,6 @@ h3 {
     margin-top: 0px;
 }
 
-
 #header {
     width: 100%;
 }
@@ -44,9 +41,6 @@ h3 {
     clear: both;
 }
 
-
-/* Logo
--------------------------------------------------*/
 #logo {
 
     padding-top: 20px;
@@ -88,7 +82,6 @@ a:visited {
 
 #anon_right a:visited {
     color: black;
-
 }
 
 #anon_right a:hover {

@@ -6,48 +6,37 @@
 <body>
 
 <div id="container">
+    <div id="content">
+        <br><h1 style="color: #E00000;font-size:62px;font-weight:normal;margin-bottom:0">Anonymous source tracker</h1>
+        <p style="padding-bottom:20px">Daily examples of the media's use of anonymous sources</p><br>
 
-<div id="content">
+        <div id="anon_left">
+            {% for entry in entries %}
+            <b><a href="{{ entry.link }}">{{ entry.source | name_source | safe }}&nbsp;&mdash;&nbsp;{{ entry.title|safe|clean_title }}</a></b>
+            <br>
+            <hr>
+            {{ entry.content|clean_content|safe }}
+            <div class="timestamp">{{ entry.date_entered | datetimeformat | safe }}</div>
+            <br><br><br>
+            {% endfor %}
+        </div> <!-- anon_left -->
 
-<br><h1 style="color: #E00000;font-size:62px;font-weight:normal;margin-bottom:0">Anonymous source tracker</h1>
-
-<p style="padding-bottom:20px">Daily examples of the media's use of anonymous sources</p><br>
-
-<div id="anon_left">
-
-{% for entry in entries %}
-
-<b><a href="{{ entry.link }}">{{ entry.source|safe }}&nbsp;&mdash;&nbsp;{{ entry.title|safe }}</a></b>
-<br>
-<hr>
-{{ entry.content|safe }}
-<div class="timestamp">{{ entry.date_entered | datetimeformat }}</div>
-<br><br><br>
-
-{% endfor %}
-
-</div> <!-- anon_left -->
-
-<div id="anon_right">
-
-    <h3>Outlets tracked:</h3>
-    <ul>
-        <li>New York Times</li>
-        <li>Washington Post</li>
-        <li>Wall Street Journal</li>
-        <li>USA Today</li>
-        <li>Reuters</li>
-        <li>Associated Press</li>
-        <li>Bloomberg</li>
-        <li>Politico</li>
-    </ul>
-
-</div> <!-- anon right -->
-
-</div><!-- content -->
-
-<div align="center" id="email"><a href="mailto:mark.schaver@gmail.com">Questions or suggestions</a></div>
-
+        <div id="anon_right">
+            <h3>Outlets tracked*:</h3>
+            <ul>
+                <li>New York Times</li>
+                <li>Washington Post</li>
+                <li>Wall Street Journal</li>
+                <li>USA Today</li>
+                <li>Reuters</li>
+                <li>Associated Press</li>
+                <li>Bloomberg</li>
+                <li>Politico</li>
+            </ul>
+            <p>* An outlet where an article was published isn't necessarily the outlet that produced it.</p>
+        </div> <!-- anon right -->
+    </div><!-- content -->
+    <div align="center" id="email"><a href="mailto:mark.schaver@gmail.com">Questions or suggestions</a></div>
 </div> <!-- container -->
 
 </body>
