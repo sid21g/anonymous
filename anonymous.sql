@@ -11,6 +11,8 @@ SELECT date_entered, count(date_entered) FROM anon GROUP BY date_entered ORDER B
 
 SELECT link, source, phrase, title, content, date_entered FROM anon ORDER BY date_entered DESC LIMIT 100;
 
+SELECT FROM anon WHERE content NOT LIKE "%<b>%";
+
 CREATE TABLE [anon] (
   [source]  NULL
 , [phrase]  NULL

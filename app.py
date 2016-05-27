@@ -5,6 +5,7 @@ import re
 
 app = Flask(__name__)
 app.config.from_object(__name__)
+extra_bold = re.compile("<\/b>.*?<b>", re.MULTILINE)
 
 
 def connect_db():
@@ -33,9 +34,6 @@ def query_db(query, args=(), one=False):
 def datetimeformat(value, date_format='%B %e, %Y'):
     d = datetime.strptime(value, '%Y-%m-%d')
     return d.strftime(date_format)
-
-
-extra_bold = re.compile("<\/b>.*?<b>", re.MULTILINE)
 
 
 @app.template_filter('clean_content')
