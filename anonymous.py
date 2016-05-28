@@ -5,8 +5,7 @@ from sqlite3 import connect
 from sqlite3 import Error
 import configparser
 from datetime import date
-
-# TODO: Remove namespaces from ElementTree find calls?
+import re
 
 config = configparser.ConfigParser()
 config.read("config.txt")
@@ -15,23 +14,23 @@ YOUR_KEY = config.get("Configuration", "key")
 
 conn = connect(r"anon.db")
 curs = conn.cursor()
-
 phrases = open("anonymous-phrases.txt")
-
 today = date.today()
+bold_tag = re.compile(r"<b>", re.MULTILINE)
+
 
 for phrase in phrases:
     query = phrase.strip()
     query = urllib.parse.quote_plus(query)
 
     base = 'https://www.googleapis.com/customsearch/v1?q='
-    id = YOUR_ID
+    google_id = YOUR_ID
     restrict = "&dateRestrict=w2"
     exact = "&" + query
     language = "&hl=en"
-    key = YOUR_KEY
+    google_key = YOUR_KEY
     alt = "&alt=atom"
-    url = (base + query + id + restrict + exact + language + key + alt)
+    url = (base + query + google_id + restrict + exact + language + google_key + alt)
 
     anon_file = "anonymous.txt"
     local_file, headers = urllib.request.urlretrieve(url, anon_file)
@@ -45,8 +44,12 @@ for phrase in phrases:
         source = link.attrib['title']
         summary = entry.find('{http://www.w3.org/2005/Atom}summary')
         insert_values = [source, phrase.strip(), title.text, link.attrib['href'], summary.text, today]
-        try:
-            curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)", insert_values)
-            conn.commit()
-        except Error as e:
-            print("Oops: ", e.args[0])
+        match = re.search(bold_tag, summary.text) # Skip entries with no identifiable phrase
+        if match:
+            try:
+                curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)", insert_values)
+                conn.commit()
+            except Error as e:
+                print("Oops: ", e.args[0])
+        else:
+            print("No phrase in entry")

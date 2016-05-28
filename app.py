@@ -1,11 +1,11 @@
-from flask import Flask, render_template, g
+from flask import Flask, render_template, g, request
 from sqlite3 import connect
 from datetime import datetime
 import re
 
 app = Flask(__name__)
 app.config.from_object(__name__)
-extra_bold = re.compile("<\/b>.*?<b>", re.MULTILINE)
+extra_bold = re.compile(r"</b>.*?<b>", re.MULTILINE)
 
 
 def connect_db():
@@ -46,40 +46,6 @@ def clean_content(content):
     return content
 
 
-@app.template_filter('clean_title')
-def clean_title(title):
-    title = title.replace(' - WSJ', '')
-    title = title.replace(' - Wsj.com', '')
-    title = title.replace(' - The', '')
-    title = title.replace(' | Reuters', '')
-    title = title.replace('| Reuters', '')
-    title = title.replace(' New York Times', '')
-    title = title.replace(' - POLITICO', '')
-    return title
-
-
-@app.template_filter('name_source')
-def name_source(source):
-    if source == 'www.washingtonpost.com':
-        return 'Washington Post'
-    elif source == 'www.wsj.com':
-        return 'Wall Street Journal'
-    elif source == 'www.reuters.com':
-        return 'Reuters'
-    elif source == 'www.usatoday.com':
-        return "USA Today"
-    elif source == 'www.bloomberg.com':
-        return "Bloomberg"
-    elif source == 'www.nytimes.com':
-        return "New York Times"
-    elif source == 'hosted.ap.org':
-        return "Associated Press"
-    elif source == 'www.politico.com':
-        return "Politico"
-    else:
-        return "Unknown source"
-
-
 @app.route('/')
 def index():
     results = query_db('SELECT '
@@ -93,45 +59,26 @@ def index():
                        'anon '
                        'ORDER BY '
                        'date_entered '
-                       'DESC LIMIT 100')
+                       'DESC LIMIT 500')
     return render_template('index.html', entries=results)
 
 
-@app.route('/date/<anon_date>')
-def get_date(anon_date):
-    results = query_db('SELECT '
-                       'link, '
-                       'source, '
-                       'phrase, '
-                       'title, '
-                       'content, '
-                       'date_entered '
-                       'FROM '
-                       'anon '
-                       'WHERE '
-                       'date_entered = ? '
-                       'ORDER BY '
-                       'date_entered '
-                       'DESC LIMIT 100', anon_date)
-    return render_template('date.html', entries=results)
-
-
-@app.route('/outlet/<outlet_name>')
-def fetch_outlet(outlet_name):
-    results = query_db('SELECT '
-                       'link, '
-                       'source, '
-                       'phrase, '
-                       'title, '
-                       'content, '
-                       'date_entered '
-                       'FROM '
-                       'anon '
-                       'WHERE '
-                       'source = ? '
-                       'ORDER BY '
-                       'date_entered '
-                       'DESC LIMIT 100', outlet_name)
+@app.route('/outlet/<outlet_name>', methods=['GET'])
+def outlet(outlet_name):
+    results = query_db("SELECT "
+                       "link, "
+                       "source, "
+                       "phrase, "
+                       "title, "
+                       "content, "
+                       "date_entered "
+                       "FROM "
+                       "anon "
+                       "WHERE "
+                       "anon.source = ? "
+                       "ORDER BY "
+                       "anon.date_entered "
+                       "DESC LIMIT 100", (outlet_name,))
     return render_template('outlet.html', entries=results)
 
 
