@@ -1,6 +1,6 @@
 
 body {
-    font-family: Libre Baskerville, Georgia, Verdana, Arial;
+    font-family: Libre Baskerville, Georgia, "Times New Roman", Arial, Serif;
     font-size: 11pt;
     text-align: center;
 }
@@ -13,7 +13,7 @@ hr + b {
 }
 
 h2 {
-    font-family: Libre Baskerville, Georgia;
+    font-family: Libre Baskerville, Georgia, "Times New Roman", Arial, Serif;
     font-size: 1.6em;
     color: #E00000;
 }
@@ -39,19 +39,6 @@ h3 {
 #content {
     padding: 0px 50px 20px 50px;
     clear: both;
-}
-
-#logo {
-    padding-top: 20px;
-    padding-left: 20px;
-    font-size: 24px;
-    font-weight: bold;
-    float:center;
-}
-
-#logo a {
-    color: black;
-    text-decoration: none;
 }
 
 a {
@@ -86,11 +73,6 @@ a:visited {
 #anon_right a:hover {
     text-decoration: underline;
     color: #E00000;
-}
-
-#email {
-    padding-top: 20px;
-    clear: both;
 }
 
 .timestamp {

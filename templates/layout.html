@@ -9,7 +9,7 @@
 <body>
 <div id="container">
     <div id="content">
-        <br><h1 style="color: #E00000;font-size:62px;font-weight:normal;margin-bottom:0">Anonymous source tracker</h1>
+        <br><h1 style="color: #E00000;font-size:55px;font-weight:normal;margin-bottom:0">Anonymous Source Tracker</h1>
         {% block content %}{% endblock %}
         <div id="anon_left">
             {% for entry in entries %}
@@ -23,7 +23,7 @@
         </div> <!-- anon_left -->
 
         <div id="anon_right">
-            <h3>Outlets tracked:</h3>
+            <h3>Media tracked:</h3>
             <ul>
                 <li><a href="{{ url_for('outlet', outlet_name='ABC+News') }}">ABC News</a></li>
                 <li><a href="{{ url_for('outlet', outlet_name='Associated+Press') }}">Associated Press</a></li>

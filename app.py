@@ -8,7 +8,7 @@ import sys
 
 app = Flask(__name__)
 app.config.from_object(__name__)
-app.config['FREEZER_DESTINATION'] = 'build'
+app.config['FREEZER_DESTINATION'] = 'C:/Users/schav_000/OneDrive/Projects/markschaver.github.io/anonymous'
 app.config['FREEZER_RELATIVE_URLS'] = True
 freezer = Freezer(app)
 extra_bold = re.compile(r"</b>.*?<b>", re.MULTILINE)
