@@ -3,9 +3,14 @@ from sqlite3 import connect
 from datetime import datetime
 import re
 from urllib import parse
+from flask_frozen import Freezer
+import sys
 
 app = Flask(__name__)
 app.config.from_object(__name__)
+app.config['FREEZER_DESTINATION'] = 'build'
+app.config['FREEZER_RELATIVE_URLS'] = True
+freezer = Freezer(app)
 extra_bold = re.compile(r"</b>.*?<b>", re.MULTILINE)
 
 
@@ -70,7 +75,7 @@ def index():
     return render_template('index.html', entries=results)
 
 
-@app.route('/outlet/<outlet_name>')
+@app.route('/outlet/<outlet_name>/')
 def outlet(outlet_name):
     masthead = parse.unquote_plus(outlet_name)
     outlet_name_dict = fetch_outlet_url(outlet_name)
@@ -93,4 +98,8 @@ def outlet(outlet_name):
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    if len(sys.argv) > 1 and sys.argv[1] == "build":
+        freezer.freeze()
+    else:
+        app.run(debug=True)
+

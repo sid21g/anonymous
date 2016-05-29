@@ -1,5 +1,5 @@
-import urllib.request
-import urllib.parse
+from urllib import parse
+from urllib import request
 from xml.etree import ElementTree
 from sqlite3 import connect
 from sqlite3 import Error
@@ -20,7 +20,7 @@ bold_tag = re.compile(r"<b>", re.MULTILINE)
 
 for phrase in phrases:
     query = phrase.strip()
-    query = urllib.parse.quote_plus(query)
+    query = parse.quote_plus(query)
 
     base = 'https://www.googleapis.com/customsearch/v1?q='
     google_id = YOUR_ID
@@ -32,7 +32,7 @@ for phrase in phrases:
     url = (base+query+google_id+restrict+exact+language+google_key+alt)
 
     anon_file = "anonymous.txt"
-    local_file, headers = urllib.request.urlretrieve(url, anon_file)
+    local_file, headers = request.urlretrieve(url, anon_file)
     tree = ElementTree.parse(local_file)
     root = tree.getroot()
     entries = root.findall('{http://www.w3.org/2005/Atom}entry')

@@ -17,7 +17,7 @@
             <br>
             <hr>
             {{ entry.content|clean_content|safe }}
-            <div class="timestamp">{{ entry.date_entered | datetimeformat | safe }}</div>
+            <div class="timestamp">{{ entry.source|safe }}&nbsp;&mdash;&nbsp;{{ entry.date_entered | datetimeformat | safe }}</div>
             <br><br><br>
             {% endfor %}
         </div> <!-- anon_left -->
@@ -25,23 +25,23 @@
         <div id="anon_right">
             <h3>Outlets tracked:</h3>
             <ul>
-                <li><a href="/outlet/ABC+News">ABC News</a></li>
-                <li><a href="/outlet/Associated+Press">Associated Press</a></li>
-                <li><a href="/outlet/Bloomberg">Bloomberg</a></li>
-                <li><a href="/outlet/Business+Insider">Business Insider</a></li>
-                <li><a href="/outlet/BuzzFeed">BuzzFeed</a></li>
-                <li><a href="/outlet/CBS+News">CBS News</a></li>
-                <li><a href="/outlet/CNN">CNN</a></li>
-                <li><a href="/outlet/ESPN">ESPN.com</a></li>
-                <li><a href="/outlet/Fox+News">Fox News</a></li>
-                <li><a href="/outlet/Huffington+Post">Huffington Post</a></li>
-                <li><a href="/outlet/NBC+News">NBC News</a></li>
-                <li><a href="/outlet/The+New+York+Times">New York Times</a></li>
-                <li><a href="/outlet/Politico">Politico</a></li>
-                <li><a href="/outlet/Reuters">Reuters</a></li>
-                <li><a href="/outlet/USA+Today">USA Today</a></li>
-                <li><a href="/outlet/Wall+Street+Journal">Wall Street Journal</a></li>
-                <li><a href="/outlet/Washington+Post">Washington Post</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='ABC+News') }}">ABC News</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='Associated+Press') }}">Associated Press</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='Bloomberg') }}">Bloomberg</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='Business+Insider') }}">Business Insider</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='BuzzFeed') }}">BuzzFeed</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='CBS+News') }}">CBS News</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='CNN') }}">CNN</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='ESPN') }}">ESPN.com</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='Fox+News') }}">Fox News</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='Huffington+Post') }}">Huffington Post</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='NBC+News') }}">NBC News</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='The+New+York+Times') }}">New York Times</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='Politico') }}">Politico</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='Reuters') }}">Reuters</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='USA+Today') }}">USA Today</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='Wall+Street+Journal') }}">Wall Street Journal</a></li>
+                <li><a href="{{ url_for('outlet', outlet_name='Washington+Post') }}">Washington Post</a></li>
             </ul>
         </div> <!-- anon right -->
     </div><!-- content -->
