@@ -1,4 +1,4 @@
-from flask import Flask, render_template, g, request
+from flask import Flask, render_template, g
 from sqlite3 import connect
 from datetime import datetime
 import re
@@ -28,6 +28,10 @@ def query_db(query, args=(), one=False):
     rv = [dict((cur.description[idx][0], value)
                for idx, value in enumerate(row)) for row in cur.fetchall()]
     return (rv[0] if rv else None) if one else rv
+
+
+def get_outlet(outlet_url):
+    return query_db("SELECT url FROM outlets WHERE name = ?", (outlet_url,))
 
 
 @app.template_filter('datetimeformat')
@@ -63,8 +67,10 @@ def index():
     return render_template('index.html', entries=results)
 
 
-@app.route('/outlet/<outlet_name>', methods=['GET'])
+@app.route('/outlet/<outlet_name>')
 def outlet(outlet_name):
+    txt = get_outlet(outlet_name)
+    txt = txt['url']
     results = query_db("SELECT "
                        "link, "
                        "source, "
@@ -78,8 +84,8 @@ def outlet(outlet_name):
                        "anon.source = ? "
                        "ORDER BY "
                        "anon.date_entered "
-                       "DESC LIMIT 100", (outlet_name,))
-    return render_template('outlet.html', entries=results)
+                       "DESC LIMIT 100", (txt,))
+    return render_template('outlet.html', entries=results, txt=txt)
 
 
 if __name__ == '__main__':
