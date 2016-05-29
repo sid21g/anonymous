@@ -1,27 +1,51 @@
+<!doctype html>
 <html>
 <head>
-<title>{{ title }}</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="static/site.css" rel="stylesheet" type="text/css">
-<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+{% block head %}
+<title>Anonymous Source Tracker</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+{% endblock %}
 </head>
-
 <body>
+<div id="container">
+    <div id="content">
+        <br><h1 style="color: #E00000;font-size:62px;font-weight:normal;margin-bottom:0">Anonymous source tracker</h1>
+        {% block content %}{% endblock %}
+        <div id="anon_left">
+            {% for entry in entries %}
+            <b><a href="{{ entry.link }}">{{ entry.title|safe}}</a></b>
+            <br>
+            <hr>
+            {{ entry.content|clean_content|safe }}
+            <div class="timestamp">{{ entry.date_entered | datetimeformat | safe }}</div>
+            <br><br><br>
+            {% endfor %}
+        </div> <!-- anon_left -->
 
-<div id="container" class="shadowbox">
-
-<div id="logo" align="center"><a href="/">Schaver.com</a></div>
-
-<div id="content">
-
-{{ content }}
-
-</div><!-- content -->
-
-<div align="center" id="email"><a href="mailto:mark.schaver@gmail.com">Questions or suggestions</a></div>
-
+        <div id="anon_right">
+            <h3>Outlets tracked:</h3>
+            <ul>
+                <li><a href="/outlet/ABC+News">ABC News</a></li>
+                <li><a href="/outlet/Associated+Press">Associated Press</a></li>
+                <li><a href="/outlet/Bloomberg">Bloomberg</a></li>
+                <li><a href="/outlet/Business+Insider">Business Insider</a></li>
+                <li><a href="/outlet/BuzzFeed">BuzzFeed</a></li>
+                <li><a href="/outlet/CBS+News">CBS News</a></li>
+                <li><a href="/outlet/CNN">CNN</a></li>
+                <li><a href="/outlet/ESPN">ESPN.com</a></li>
+                <li><a href="/outlet/Fox+News">Fox News</a></li>
+                <li><a href="/outlet/Huffington+Post">Huffington Post</a></li>
+                <li><a href="/outlet/NBC+News">NBC News</a></li>
+                <li><a href="/outlet/The+New+York+Times">New York Times</a></li>
+                <li><a href="/outlet/Politico">Politico</a></li>
+                <li><a href="/outlet/Reuters">Reuters</a></li>
+                <li><a href="/outlet/USA+Today">USA Today</a></li>
+                <li><a href="/outlet/Wall+Street+Journal">Wall Street Journal</a></li>
+                <li><a href="/outlet/Washington+Post">Washington Post</a></li>
+            </ul>
+        </div> <!-- anon right -->
+    </div><!-- content -->
 </div> <!-- container -->
-
 </body>
-
 </html>
+

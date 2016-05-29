@@ -18,7 +18,6 @@ phrases = open("anonymous-phrases.txt")
 today = date.today()
 bold_tag = re.compile(r"<b>", re.MULTILINE)
 
-
 for phrase in phrases:
     query = phrase.strip()
     query = urllib.parse.quote_plus(query)
@@ -30,7 +29,7 @@ for phrase in phrases:
     language = "&hl=en"
     google_key = YOUR_KEY
     alt = "&alt=atom"
-    url = (base + query + google_id + restrict + exact + language + google_key + alt)
+    url = (base+query+google_id+restrict+exact+language+google_key+alt)
 
     anon_file = "anonymous.txt"
     local_file, headers = urllib.request.urlretrieve(url, anon_file)
@@ -43,11 +42,14 @@ for phrase in phrases:
         link = entry.find('{http://www.w3.org/2005/Atom}link')
         source = link.attrib['title']
         summary = entry.find('{http://www.w3.org/2005/Atom}summary')
-        insert_values = [source, phrase.strip(), title.text, link.attrib['href'], summary.text, today]
-        match = re.search(bold_tag, summary.text) # Skip entries with no identifiable phrase
+        insert_values = [source, phrase.strip(), title.text,
+                         link.attrib['href'], summary.text, today]
+        match = re.search(
+            bold_tag, summary.text)  # Skip entries with no identifiable phrase
         if match:
             try:
-                curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)", insert_values)
+                curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
+                             insert_values)
                 conn.commit()
             except Error as e:
                 print("Oops: ", e.args[0])

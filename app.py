@@ -2,6 +2,7 @@ from flask import Flask, render_template, g
 from sqlite3 import connect
 from datetime import datetime
 import re
+from urllib import parse
 
 app = Flask(__name__)
 app.config.from_object(__name__)
@@ -30,8 +31,10 @@ def query_db(query, args=(), one=False):
     return (rv[0] if rv else None) if one else rv
 
 
-def get_outlet(outlet_url):
-    return query_db("SELECT url FROM outlets WHERE name = ?", (outlet_url,))
+def fetch_outlet_url(outlet_name):
+    outlet_name = parse.unquote_plus(outlet_name)
+    outlet_url = query_db("SELECT url FROM outlets WHERE name = ?", (outlet_name,), one=True)
+    return outlet_url
 
 
 @app.template_filter('datetimeformat')
@@ -69,8 +72,9 @@ def index():
 
 @app.route('/outlet/<outlet_name>')
 def outlet(outlet_name):
-    txt = get_outlet(outlet_name)
-    txt = txt['url']
+    masthead = parse.unquote_plus(outlet_name)
+    outlet_name_dict = fetch_outlet_url(outlet_name)
+    outlet_url = outlet_name_dict['url']
     results = query_db("SELECT "
                        "link, "
                        "source, "
@@ -84,8 +88,8 @@ def outlet(outlet_name):
                        "anon.source = ? "
                        "ORDER BY "
                        "anon.date_entered "
-                       "DESC LIMIT 100", (txt,))
-    return render_template('outlet.html', entries=results, txt=txt)
+                       "DESC LIMIT 500", (outlet_url,))
+    return render_template('outlet.html', entries=results, masthead=masthead)
 
 
 if __name__ == '__main__':

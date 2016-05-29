@@ -21,4 +21,4 @@ SELECT * FROM anon WHERE anon.source = 'www.nytimes.com';
 
 SELECT outlets.url FROM outlets WHERE name = 'New York Times';
 
-
+SELECT name FROM outlets WHERE url = 'www.nytimes.com';

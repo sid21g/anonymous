@@ -1,55 +1,5 @@
-<html>
-<head>
-<title>Anonymous Source Tracker</title>
-<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
-</head>
-<body>
+    {% extends "layout.html" %}
+    {% block content %}
+       <p style="padding-bottom:20px">Daily examples of the U.S. media's use of anonymous sources</p><br>
+    {% endblock %}
 
-<div id="container">
-    <div id="content">
-        <br><h1 style="color: #E00000;font-size:62px;font-weight:normal;margin-bottom:0">Anonymous source tracker</h1>
-        <p style="padding-bottom:20px">Daily examples of the U.S. media's use of anonymous sources</p><br>
-
-        <div id="anon_left">
-            {% for entry in entries %}
-            <b><a href="{{ entry.link }}">{{ entry.title|safe}}</a></b>
-            <br>
-            <hr>
-            {{ entry.content|clean_content|safe }}
-            <div class="timestamp">{{ entry.source | safe }}&nbsp;&mdash;&nbsp;{{ entry.date_entered | datetimeformat | safe }}</div>
-            <br><br><br>
-            {% endfor %}
-        </div> <!-- anon_left -->
-
-        <div id="anon_right">
-            <h3>Outlets tracked:</h3>
-            <ul>
-                <li>ABC News</li>
-                <li>Associated Press</li>
-                <li>Bleacher Report</li>
-                <li>Bloomberg</li>
-                <li>Business Insider</li>
-                <li>BuzzFeed</li>
-                <li>CBS News</li>
-                <li>CNN</li>
-                <li>ESPN.com</li>
-                <li>Fox News</li>
-                <li>Huffington Post</li>
-                <li>NBC News</li>
-                <li>New York Times</li>
-                <li>NPR</li>
-                <li>Politico</li>
-                <li>ProPublica</li>
-                <li>Reuters</li>
-                <li>The Intercept</li>
-                <li>USA Today</li>
-                <li>Wall Street Journal</li>
-                <li>Washington Post</li>
-            </ul>
-        </div> <!-- anon right -->
-    </div><!-- content -->
-    <div align="center" id="email"><a href="mailto:mark.schaver@gmail.com">Questions or suggestions</a></div>
-</div> <!-- container -->
-
-</body>
-</html>
