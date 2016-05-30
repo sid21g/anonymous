@@ -5,10 +5,15 @@ import re
 from urllib import parse
 from flask_frozen import Freezer
 import sys
+import configparser
+
+config = configparser.ConfigParser()
+config.read("config.txt")
+FREEZER_DESTINATION = config.get("Configuration", "freezer_destination")
 
 app = Flask(__name__)
+app.config['FREEZER_DESTINATION'] = FREEZER_DESTINATION
 app.config.from_object(__name__)
-app.config['FREEZER_DESTINATION'] = 'C:/Users/schav_000/OneDrive/Projects/markschaver.github.io/anonymous'
 app.config['FREEZER_RELATIVE_URLS'] = True
 freezer = Freezer(app)
 extra_bold = re.compile(r"</b>.*?<b>", re.MULTILINE)
