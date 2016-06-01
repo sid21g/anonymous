@@ -43,7 +43,10 @@ def query_db(query, args=(), one=False):
 
 def fetch_outlet_url(outlet_name):
     outlet_name = parse.unquote_plus(outlet_name)
-    outlet_url = query_db("SELECT url FROM outlets WHERE name = ?", (outlet_name,), one=True)
+    outlet_url = query_db(
+        "SELECT url FROM outlets WHERE name = ?",
+        (outlet_name,),
+        one=True)
     return outlet_url
 
 
@@ -107,4 +110,3 @@ if __name__ == '__main__':
         freezer.freeze()
     else:
         app.run(debug=True)
-
