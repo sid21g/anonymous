@@ -68,18 +68,21 @@ def clean_content(content):
 
 @app.route('/')
 def index():
-    results = query_db('SELECT '
-                       'link, '
-                       'source, '
-                       'phrase, '
-                       'title, '
-                       'content, '
-                       'date_entered '
+    results = query_db('SELECT anon.source, '
+                       'outlets.name, '
+                       'anon.phrase, '
+                       'anon.title, '
+                       'anon.link, '
+                       'anon.content, '
+                       'anon.date_entered '
                        'FROM '
                        'anon '
+                       'LEFT OUTER JOIN '
+                       'outlets '
+                       'ON '
+                       'anon.source = outlets.url '
                        'ORDER BY '
-                       'date_entered '
-                       'DESC LIMIT 500')
+                       'date_entered DESC')
     return render_template('index.html', entries=results)
 
 
@@ -89,19 +92,20 @@ def outlet(outlet_name):
     outlet_name_dict = fetch_outlet_url(outlet_name)
     outlet_url = outlet_name_dict['url']
     results = query_db("SELECT "
-                       "link, "
-                       "source, "
-                       "phrase, "
-                       "title, "
-                       "content, "
-                       "date_entered "
+                       "anon.link, "
+                       "outlets.name, "
+                       "anon.source, "
+                       "anon.phrase, "
+                       "anon.title, "
+                       "anon.content, "
+                       "anon.date_entered "
                        "FROM "
                        "anon "
-                       "WHERE "
-                       "anon.source = ? "
-                       "ORDER BY "
-                       "anon.date_entered "
-                       "DESC LIMIT 500", (outlet_url,))
+                       "LEFT OUTER JOIN outlets "
+                       "ON anon.source = outlets.url "
+                       "WHERE anon.source = ? "
+                       "ORDER BY anon.date_entered DESC "
+                       "LIMIT 500", (outlet_url,))
     return render_template('outlet.html', entries=results, masthead=masthead)
 
 
