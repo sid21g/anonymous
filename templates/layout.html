@@ -9,7 +9,7 @@
 <body>
 <div id="container">
     <div id="content">
-        <br><h1 style="color: #E00000;font-size:55px;font-weight:normal;margin-bottom:0">Anonymous Source Tracker</h1>
+        <br><span id="masthed"><h1 style="color: #E00000;font-size:55px;font-weight:normal;margin-bottom:0"><a href="http://schaver.com/anonymous/">Anonymous Source Tracker</a></h1></span>
         {% block content %}{% endblock %}
         <div id="anon_left">
             {% for entry in entries %}
@@ -17,8 +17,8 @@
             <br>
             <hr>
             {{ entry.content|clean_content|safe }}
-            <div class="timestamp">{{ entry.source|safe }}&nbsp;&mdash;&nbsp;{{ entry.date_entered | datetimeformat | safe }}</div>
-            <br><br><br>
+            <div class="timestamp">{{ entry.name|safe }}&nbsp;&mdash;&nbsp;{{ entry.date_entered | datetimeformat | safe }}</div>
+            <br><br><br><br>
             {% endfor %}
         </div> <!-- anon_left -->
 
