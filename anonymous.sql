@@ -16,3 +16,5 @@ DELETE FROM anon WHERE content NOT LIKE "%<b>%";
 CREATE TABLE anon (source, phrase, title, link PRIMARY KEY ON CONFLICT IGNORE, content, date_entered DATE);
 
 SELECT outlets.name FROM anon LEFT OUTER JOIN outlets on anon.source = outlets.url;
+
+SELECT anon.source, outlets.name, anon.phrase, anon.title, anon.link, anon.content, anon.date_entered FROM anon LEFT OUTER JOIN outlets ON anon.source = outlets.url;
