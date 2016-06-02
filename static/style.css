@@ -69,9 +69,18 @@ a:hover {
 }
 
 .timestamp {
-    font-size:8pt;
-    color: #808080;
+    font-size:10pt;
+    color: #696969;
     float: right;
     padding-top: 10px;
 }
 
+a:hover#masthed {
+    text-decoration: none;
+    color: #E00000;
+}
+
+#masthed a {
+    text-decoration: none;
+    color: #E00000;
+}
