@@ -29,8 +29,14 @@ for phrase in phrases:
     language = "&hl=en"
     google_key = YOUR_KEY
     alt = "&alt=atom"
-    url = (base+query+google_id+restrict+exact+language+google_key+alt)
-
+    url = (base +
+           query +
+           google_id +
+           restrict +
+           exact +
+           language +
+           google_key +
+           alt)
     anon_file = "anonymous.txt"
     local_file, headers = request.urlretrieve(url, anon_file)
     tree = ElementTree.parse(local_file)
