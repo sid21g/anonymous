@@ -57,6 +57,7 @@ for phrase in phrases:
                 curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
                              insert_values)
                 conn.commit()
+                print("New entry")
             except Error as e:
                 print("Oops: ", e.args[0])
         else:
