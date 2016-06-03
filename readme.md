@@ -7,7 +7,6 @@ The Anonymous Source Tracker leverages [Google Custom Search](https://cse.google
 
 Once a day it searches the websites of those organizations for [phrases commonly used to identify anonymous sources](https://github.com/markschaver/anonymous/blob/master/anonymous-phrases.txt).
 
-Examples are stored in a SQLite database that is [available for download](https://github.com/markschaver/anonymous/blob/master/anon.db).
-Only the 500 most recent examples are viewable on the website, but all examples since this iteration of the tracker are included in the database.
+Examples are stored in a SQLite database that is [available for download](https://github.com/markschaver/anonymous/blob/master/anon.db). Only the 250 most recent examples are viewable on the website, but all examples since this iteration of the tracker are included in the database.
 
 If you have questions or suggestions, you can [email me](mailto:mark.schaver@gmail.com).
