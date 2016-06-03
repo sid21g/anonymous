@@ -82,7 +82,8 @@ def index():
                        'ON '
                        'anon.source = outlets.url '
                        'ORDER BY '
-                       'date_entered DESC')
+                       'date_entered DESC '
+                       'LIMIT 250')
     return render_template('index.html', entries=results)
 
 
@@ -105,7 +106,7 @@ def outlet(outlet_name):
                        "ON anon.source = outlets.url "
                        "WHERE anon.source = ? "
                        "ORDER BY anon.date_entered DESC "
-                       "LIMIT 500", (outlet_url,))
+                       "LIMIT 250", (outlet_url,))
     return render_template('outlet.html', entries=results, masthead=masthead)
 
 
