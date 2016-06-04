@@ -84,7 +84,14 @@ def index():
                        'ORDER BY '
                        'date_entered DESC '
                        'LIMIT 250')
-    return render_template('index.html', entries=results)
+    outlets = query_db("SELECT DISTINCT "
+                       "outlets.name, "
+                       "outlets.url "
+                       "FROM outlets "
+                       "JOIN anon "
+                       "ON outlets.url = anon.source "
+                       "ORDER BY outlets.name")
+    return render_template('index.html', entries=results, outlets=outlets)
 
 
 @app.route('/outlet/<outlet_name>/')
@@ -107,7 +114,17 @@ def outlet(outlet_name):
                        "WHERE anon.source = ? "
                        "ORDER BY anon.date_entered DESC "
                        "LIMIT 250", (outlet_url,))
-    return render_template('outlet.html', entries=results, masthead=masthead)
+    outlets = query_db("SELECT DISTINCT "
+                       "outlets.name, "
+                       "outlets.url "
+                       "FROM outlets "
+                       "JOIN anon "
+                       "ON outlets.url = anon.source "
+                       "ORDER BY outlets.name")
+    return render_template('outlet.html',
+                           entries=results,
+                           masthead=masthead,
+                           outlets=outlets)
 
 
 if __name__ == '__main__':

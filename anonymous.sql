@@ -18,3 +18,9 @@ CREATE TABLE anon (source, phrase, title, link PRIMARY KEY ON CONFLICT IGNORE, c
 SELECT outlets.name FROM anon LEFT OUTER JOIN outlets on anon.source = outlets.url;
 
 SELECT anon.source, outlets.name, anon.phrase, anon.title, anon.link, anon.content, anon.date_entered FROM anon LEFT OUTER JOIN outlets ON anon.source = outlets.url;
+
+SELECT outlets.name, outlets.url FROM outlets ORDER BY outlets.name;
+
+SELECT DISTINCT anon.source, outlets.name FROM anon JOIN outlets ON anon.source = outlets.url ORDER BY outlets.name;
+
+SELECT DISTINCT anon.source FROM anon;

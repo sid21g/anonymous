@@ -23,26 +23,14 @@
         </div> <!-- anon_left -->
 
         <div id="anon_right">
-            <h3>Media tracked:</h3>
+            <h3>Media&nbsp;tracked</h3>
+            Click&nbsp;to&nbsp;view
             <ul>
-                <li><a href="{{ url_for('outlet', outlet_name='ABC+News') }}">ABC News</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='Associated+Press') }}">Associated Press</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='Bloomberg') }}">Bloomberg</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='Business+Insider') }}">Business Insider</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='BuzzFeed') }}">BuzzFeed</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='CBS+News') }}">CBS News</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='CNN') }}">CNN</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='ESPN') }}">ESPN.com</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='Fox+News') }}">Fox News</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='Huffington+Post') }}">Huffington Post</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='NBC+News') }}">NBC News</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='The+New+York+Times') }}">New York Times</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='Politico') }}">Politico</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='Reuters') }}">Reuters</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='USA+Today') }}">USA Today</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='Wall+Street+Journal') }}">Wall Street Journal</a></li>
-                <li><a href="{{ url_for('outlet', outlet_name='Washington+Post') }}">Washington Post</a></li>
+            {% for outlet in outlets %}
+            <li><a href="{{ url_for('outlet', outlet_name='%s' % (outlet.name)) }}">{{ outlet.name|safe }}</a></li>
+            {% endfor %}
             </ul>
+            <br>
             <h3>About this:</h3>
             <p>Learn more about the tracker and check out the code to see how it works <span style="text-decoration: underline;"><a href="https://github.com/markschaver/anonymous">on Github</a></span>.</p>
         </div> <!-- anon right -->

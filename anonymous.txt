@@ -1,19 +1,540 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "a Republican operative with ties to the White House"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="a Republican operative with ties to the White House"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-17T22:53:56.431Z</updated>
+ <title>Google Custom Search - "on condition of anonymity"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="on condition of anonymity"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-17T22:56:56.791Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a Republican operative with ties to the White House&quot;" totalResults="0" searchTerms="&quot;a Republican operative with ties to the White House&quot;" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w2"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;on condition of anonymity&quot;" totalResults="80500" searchTerms="&quot;on condition of anonymity&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w2"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;on condition of anonymity&quot;" totalResults="80500" searchTerms="&quot;on condition of anonymity&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w2"/>
+ <opensearch:totalResults>80500</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.345203</cse:searchTime>
-  <cse:formattedSearchTime>0.35</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.321613</cse:searchTime>
+  <cse:formattedSearchTime>0.32</cse:formattedSearchTime>
+  <cse:totalResults>80500</cse:totalResults>
+  <cse:formattedTotalResults>80,500</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.businessinsider.com/r-frances-sapin-says-government-will-stand-firm-on-labor-reform-2016-5</id>
+  <updated>1970-01-17T22:56:56.791Z</updated>
+  <title type="html">France&amp;#39;s Sapin says government will stand firm on labor reform &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="http://www.businessinsider.com/r-frances-sapin-says-government-will-stand-firm-on-labor-reform-2016-5" title="www.businessinsider.com"/>
+  <summary type="html">For all the government&amp;#39;s tough talk, another minister said, &lt;b&gt;on condition of&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;anonymity&lt;/b&gt;, that the government could not let the Euro championship be disrupted&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>ZC-nvVrU9uIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-frances-sapin-says-government-will-stand-firm- on-labor-reform-2016-5</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="date" value="2016-05-29"/>
+    <cse:Attribute name="sailthru.date" value="2016-05-29"/>
+    <cse:Attribute name="news_keywords" value="Reuters, Reuters World"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters, Reuters World"/>
+    <cse:Attribute name="sailthru.description" value="By Ingrid MelanderPARIS (Reuters) - A plan to..."/>
+    <cse:Attribute name="title" value="France&apos;s Sapin says government will stand firm on labor reform"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters World"/>
+    <cse:Attribute name="sailthru.title" value="France&apos;s Sapin says government will stand firm on labor reform"/>
+    <cse:Attribute name="tbi-image" value="http://static6.businessinsider.com/image/574a77585124c9672286a9f6/frances-sapin-says-government-will-stand-firm-on-labor-reform.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static6.businessinsider.com/image/574a77585124c9672286a9f6/frances-sapin-says-government-will-stand-firm-on-labor-reform.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static3.businessinsider.com/image/574a77585124c9672286a9f6-50-50/frances-sapin-says-government-will-stand-firm-on-labor-reform.jpg"/>
+    <cse:Attribute name="og:title" value="France&apos;s Sapin says government will stand firm on labor reform"/>
+    <cse:Attribute name="og:description" value="By Ingrid MelanderPARIS (Reuters) - A plan to..."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-frances-sapin-says-government-will-stand-firm-on-labor-reform-2016-5"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-frances-sapin-says-government-will-stand-firm-on-labor-reform-2016-5"/>
+    <cse:Attribute name="twitter:title" value="France&apos;s Sapin says government will stand firm on labor reform"/>
+    <cse:Attribute name="twitter:description" value="By Ingrid MelanderPARIS (Reuters) - A plan to..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://static4.businessinsider.com/image/574a77585124c9672286a9f6-506-253/frances-sapin-says-government-will-stand-firm-on-labor-reform.jpg"/>
+    <cse:Attribute name="og:image" value="http://static1.businessinsider.com/image/574a77585124c9672286a9f6-1190-625/frances-sapin-says-government-will-stand-firm-on-labor-reform.jpg"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="France&apos;s Sapin says government will stand firm on labor reform"/>
+    <cse:Attribute name="url" value="France&apos;s Sapin says government will stand firm on labor reform"/>
+    <cse:Attribute name="image" value="http://static4.businessinsider.com/image/574a77585124c9672286a9f6-506-253/frances-sapin-says-government-will-stand-firm-on-labor-reform.jpg"/>
+    <cse:Attribute name="description" value="By Ingrid MelanderPARIS (Reuters) - A plan to..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/574a77585124c9672286a9f6-1190-625/frances-sapin-says-government-will-stand-firm-on-labor-reform.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="295"/>
+    <cse:Attribute name="height" value="171"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuNiyrterla4FsR1tuhRNTLFGlGdMfIDtFka9lN2ckkPPTs7SueiEUzWdy"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.latimes.com/world/middleeast/la-fg-iraq-fallouja-20160531-snap-story.html</id>
+  <updated>1970-01-17T22:56:56.791Z</updated>
+  <title type="html">Iraqi forces press on in Fallouja as concerns rise over &amp;#39;human &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="http://www.latimes.com/world/middleeast/la-fg-iraq-fallouja-20160531-snap-story.html" title="www.latimes.com"/>
+  <summary type="html">They spoke &lt;b&gt;on condition of anonymity&lt;/b&gt; because they were not authorized to &lt;br&gt;
+release the information. In Iraq, pro-government forces close in on Fallouja.</summary>
+  <cse:cacheId>slaIdJeI08UJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.latimes.com/.../la-fg-iraq-fallouja-20160531-snap-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="lalvp14.13"/>
+    <cse:Attribute name="author" value="Los Angeles Times"/>
+    <cse:Attribute name="date" value="2016-05-31"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2016 Los Angeles Times"/>
+    <cse:Attribute name="news_keywords" value="Iraq Fallouja Fallujah Anbar Province Islamic State government fighting"/>
+    <cse:Attribute name="fb_title" value="Iraqi forces press on in Fallouja as concerns rise over &apos;human catastrophe&apos;"/>
+    <cse:Attribute name="og:title" value="Iraqi forces press on in Fallouja as concerns rise over &apos;human catastrophe&apos;"/>
+    <cse:Attribute name="og:description" value="As Iraqi forces pressed an offensive Tuesday to dislodge Islamic State militants from Fallouja, conditions are worsening for tens of thousands of civilians trapped in the city, and a leading aid group raised alarm over an unfolding “human catastrophe.” "/>
+    <cse:Attribute name="fb:page_id" value="5863113009"/>
+    <cse:Attribute name="fb:admins" value="100000786395051"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.latimes.com/world/middleeast/la-fg-iraq-fallouja-20160531-snap-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-574e038b/turbine/la-fg-iraq-fallouja-20160531-snap"/>
+    <cse:Attribute name="og:site_name" value="latimes.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@latimes"/>
+    <cse:Attribute name="y_key" value="cee2fe4077f8d050"/>
+    <cse:Attribute name="msvalidate.01" value="AAC9C18F70AC386BC4DCF4DDF9BF1786"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/deeplinkid/87410302"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="World"/>
+    <cse:Attribute name="headline" value="Iraqi forces press on in Fallouja as concerns rise over &apos;human catastrophe&apos;"/>
+    <cse:Attribute name="image" value="http://www.trbimg.com/img-574dfaeb/turbine/la-1464728442-snap-photo/650/650x366"/>
+    <cse:Attribute name="author" value="Associated Press"/>
+    <cse:Attribute name="datepublished" value="2016-05-31T14:19:00PDT"/>
+    <cse:Attribute name="articlebody" value="As Iraqi forces pressed an offensive Tuesday to dislodge Islamic State militants from Fallouja, conditions are worsening for tens of thousands of civilians trapped in the city, and a leading..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-574e038b/turbine/la-fg-iraq-fallouja-20160531-snap/200/200x113"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="160"/>
+    <cse:Attribute name="height" value="90"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnT5Em1mJZ8yJYB8HAFl611nv8gIZRbamvRP-elc403k_lctNNbqzmEw"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.huffingtonpost.com/entry/syria-offensive-manbij-pocket_us_574e759ae4b02912b241361e</id>
+  <updated>1970-01-17T22:56:56.791Z</updated>
+  <title type="html">Thousands Of U.S.-Backed Fighters Launch Offensive To Recapture &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="http://www.huffingtonpost.com/entry/syria-offensive-manbij-pocket_us_574e759ae4b02912b241361e" title="www.huffingtonpost.com"/>
+  <summary type="html">... acting as advisors and staying some distance back from the front lines, the &lt;br&gt;
+officials said, speaking &lt;b&gt;on condition of anonymity&lt;/b&gt; to discuss military planning.</summary>
+  <cse:cacheId>kABmPcrGGywJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.huffingtonpost.com/.../syria-offensive-manbij-pocket_us_ 574e759ae4b02912b241361e</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=1000"/>
+    <cse:Attribute name="og:title" value="U.S.-Backed Fighters Launch Offensive In Northern Syria"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://img.huffingtonpost.com/asset/2000_1000/574e76b81200002e00894f5b.jpeg?cache=jdqzvgo2kl"/>
+    <cse:Attribute name="og:url" value="http://www.huffingtonpost.com/entry/syria-offensive-manbij-pocket_us_574e759ae4b02912b241361e"/>
+    <cse:Attribute name="og:site_name" value="The Huffington Post"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:description" value="The operation aims to choke off Islamic State&apos;s access to the Syrian territory along the Turkish border that militants have long used as a logistics base."/>
+    <cse:Attribute name="article:tag" value="syria offensive manbij pocket,isis,Islamic State,manbij pocket"/>
+    <cse:Attribute name="article:section" value="WorldPost"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@TheWorldPost"/>
+    <cse:Attribute name="twitter:title" value="U.S.-Backed Fighters Launch Offensive In Northern Syria"/>
+    <cse:Attribute name="twitter:image" value="http://img.huffingtonpost.com/asset/2000_1000/574e76b81200002e00894f5b.jpeg?cache=jdqzvgo2kl"/>
+    <cse:Attribute name="twitter:image:width" value="2000"/>
+    <cse:Attribute name="twitter:image:height" value="1000"/>
+    <cse:Attribute name="twitter:description" value="The operation aims to choke off Islamic State&apos;s access to the Syrian territory along the Turkish border that militants have long used as a logistics base."/>
+    <cse:Attribute name="sailthru.date" value="2016-06-01 02:00:54 -0400"/>
+    <cse:Attribute name="sailthru.expire_date" value="2016-06-02 02:00:54 -0400"/>
+    <cse:Attribute name="article:published_time" value="2016-06-01 02:00:54 -0400"/>
+    <cse:Attribute name="article:modified_time" value="2016-06-01 02:00:54 -0400"/>
+    <cse:Attribute name="al:ios:url" value="huffpostnews:///?editionID=us&amp;entryID=us_574e759ae4b02912b241361e"/>
+    <cse:Attribute name="al:ios:app_store_id" value="306621789"/>
+    <cse:Attribute name="al:ios:app_name" value="The Huffington Post"/>
+    <cse:Attribute name="fb:app_id" value="46744042133"/>
+    <cse:Attribute name="taboola.category" value="world"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://img.huffingtonpost.com/asset/2000_1000/574e76b81200002e00894f5b.jpeg?cache=jdqzvgo2kl"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="318"/>
+    <cse:Attribute name="height" value="159"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLPwOyEH-nb3rrx3TsOy6ZLg6aotvKYuuc8KOnGYwbUSeoZwdnHJygYsY"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.chicagotribune.com/news/nationworld/ct-egyptair-crash-20160524-story.html</id>
+  <updated>1970-01-17T22:40:48.000Z</updated>
+  <title type="html">Forensic expert: Human remains from EgyptAir crash suggest &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="http://www.chicagotribune.com/news/nationworld/ct-egyptair-crash-20160524-story.html" title="www.chicagotribune.com"/>
+  <summary type="html">The official spoke &lt;b&gt;on condition of anonymity&lt;/b&gt; because he was not authorized to &lt;br&gt;
+talk to reporters. EgyptAir plane. Amr Nabil / Associated Press. An EgyptAir plane&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>hYgZWFhI7QUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-egyptair-crash-20160524-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="lalvp01.18"/>
+    <cse:Attribute name="author" value="Associated Press"/>
+    <cse:Attribute name="date" value="2016-05-24"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2016 Associated Press"/>
+    <cse:Attribute name="news_keywords" value="EgyptAir crash, EgyptAir Flight 804"/>
+    <cse:Attribute name="fb_title" value="Forensic expert: Human remains from EgyptAir crash suggest explosion"/>
+    <cse:Attribute name="og:title" value="Forensic expert: Human remains from EgyptAir crash suggest explosion"/>
+    <cse:Attribute name="og:description" value="Body parts recovered from the crash of EgyptAir Flight 804 showed signs of burns and were so small that they suggested the jet was brought down by an explosion, a member of the team examining the remains said Tuesday. But the idea of a blast was promptly dismissed by the head of Egypt&apos;s forensic agency as &quot;baseless&quot; speculation."/>
+    <cse:Attribute name="fb:page_id" value="5953023255"/>
+    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/nationworld/ct-egyptair-crash-20160524-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-574432d1/turbine/ct-egyptair-crash-20160524"/>
+    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/87309042"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="News"/>
+    <cse:Attribute name="headline" value="Forensic expert: Human remains from EgyptAir crash suggest explosion"/>
+    <cse:Attribute name="image" value="http://www.trbimg.com/img-574ee74d/turbine/ct-egyptair-flight-804-20160519/650/650x366"/>
+    <cse:Attribute name="author" value="Tribune news services"/>
+    <cse:Attribute name="datepublished" value="2016-05-24T14:33:00CDT"/>
+    <cse:Attribute name="articlebody" value="Body parts recovered from the crash of EgyptAir Flight 804 showed signs of burns and were so small that they suggested the jet was brought down by an explosion, a member of the team examining..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-574432d1/turbine/ct-egyptair-crash-20160524"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxf_PF_CqJs10fgRAqP7nIr7F71lnbHVrrGOQITGjizrNDIitmKGFzRkk"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cbsnews.com/news/spain-police-seek-fine-for-anti-cop-lettering-on-bag/</id>
+  <updated>1970-01-17T22:40:48.000Z</updated>
+  <title type="html">Anti-cop or pro-cat? Police seek fine for initials on bag - CBS News</title>
+  <link href="http://www.cbsnews.com/news/spain-police-seek-fine-for-anti-cop-lettering-on-bag/" title="www.cbsnews.com"/>
+  <summary type="html">He spoke &lt;b&gt;on condition of anonymity&lt;/b&gt; in keeping with police regulations. The &lt;br&gt;
+police department later issued a statement saying it had decided to further&amp;nbsp;...</summary>
+  <cse:cacheId>DBEYgCdp_vEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cbsnews.com/.../spain-police-seek-fine-for-anti-cop-lettering-on-bag/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width"/>
+    <cse:Attribute name="al:web:url" value="http://www.cbsnews.com/news/spain-police-seek-fine-for-anti-cop-lettering-on-bag/"/>
+    <cse:Attribute name="al:ios:app_name" value="CBS News"/>
+    <cse:Attribute name="al:ios:app_store_id" value="334256223"/>
+    <cse:Attribute name="al:ios:url" value="cbsnewsapp://news/spain-police-seek-fine-for-anti-cop-lettering-on-bag/"/>
+    <cse:Attribute name="al:android:app_name" value="CBS News"/>
+    <cse:Attribute name="al:android:package" value="com.treemolabs.apps.cbsnews"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.cbsnews.com/news/spain-police-seek-fine-for-anti-cop-lettering-on-bag/"/>
+    <cse:Attribute name="og:title" value="Anti-cop or pro-cat? Police seek fine for initials on bag"/>
+    <cse:Attribute name="og:description" value="Police interpreted A.C.A.B. to stand for &quot;All Cops Are Bastards&quot; and not &quot;All Cats Are Beautiful,&quot; based on the type and coloring of the bag&apos;s lettering"/>
+    <cse:Attribute name="og:image" value="http://cbsnews1.cbsistatic.com/hub/i/r/2015/11/03/9a8e81b0-a9a5-433b-8395-4d2be4035246/thumbnail/1200x630/d4110111212e82e323f6f40bb961367d/spainisisterrorarrests.jpg"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="630"/>
+    <cse:Attribute name="fb:app_id" value="1536620209892267"/>
+    <cse:Attribute name="twitter:app:country" value="US"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="CBS News"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="334256223"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="cbsnewsapp://news/spain-police-seek-fine-for-anti-cop-lettering-on-bag/"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="CBS News"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="334256223"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="cbsnewsapp://news/spain-police-seek-fine-for-anti-cop-lettering-on-bag/"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="CBS News"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.treemolabs.apps.cbsnews"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="http://www.cbsnews.com/news/spain-police-seek-fine-for-anti-cop-lettering-on-bag/"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@CBSNews"/>
+    <cse:Attribute name="twitter:title" value="Anti-cop or pro-cat? Police seek fine for initials on bag"/>
+    <cse:Attribute name="twitter:description" value="Police interpreted A.C.A.B. to stand for &quot;All Cops Are Bastards&quot; and not &quot;All Cats Are Beautiful,&quot; based on the type and coloring of the bag&apos;s lettering"/>
+    <cse:Attribute name="twitter:image" value="http://cbsnews1.cbsistatic.com/hub/i/r/2015/11/03/9a8e81b0-a9a5-433b-8395-4d2be4035246/thumbnail/1200x630/d4110111212e82e323f6f40bb961367d/spainisisterrorarrests.jpg"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/CBSNews"/>
+    <cse:Attribute name="news_keywords" value="gag law, spain, anti-police"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://cbsnews1.cbsistatic.com/hub/i/r/2015/11/03/9a8e81b0-a9a5-433b-8395-4d2be4035246/thumbnail/1200x630/d4110111212e82e323f6f40bb961367d/spainisisterrorarrests.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTywbKdLoGMDp7-BxDxR-mNTdLxOZP3nmh4_27dAGm28cmcklmDOK1316Po"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.boston.com/news/world-news/2016/05/22/amid-threats-egyptair-tightened-security</id>
+  <updated>1970-01-17T22:37:55.200Z</updated>
+  <title type="html">Amid threats, EgyptAir tightened its security</title>
+  <link href="https://www.boston.com/news/world-news/2016/05/22/amid-threats-egyptair-tightened-security" title="www.boston.com"/>
+  <summary type="html">The officials, who were interviewed separately and who spoke &lt;b&gt;on condition of&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;anonymity&lt;/b&gt; to describe the airline&amp;#39;s security procedures because they were not&amp;nbsp;...</summary>
+  <cse:cacheId>AwOiZc9Ne6gJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.boston.com/.../amid-threats-egyptair-tightened-security</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="twitter:widgets:csp" value="on"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://www.boston.com/wp-content/themes/bdc/images/favicons/smalltile.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://www.boston.com/wp-content/themes/bdc/images/favicons/mediumtile.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://www.boston.com/wp-content/themes/bdc/images/favicons/widetile.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://www.boston.com/wp-content/themes/bdc/images/favicons/largetile.png"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ffffff"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://www.boston.com/wp-content/themes/bdc/images/favicons/mstile-144x144.png"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Amid threats, EgyptAir tightened its security"/>
+    <cse:Attribute name="og:description" value="CAIRO — In an eerie coincidence, the EgyptAir jetliner that plunged into the Mediterranean on Thursday was once the target of political vandals who wrote in Arabic on its underside, “We will bring this plane down.” Three EgyptAir security officials said the threatening graffiti, which appeared about two years ago, had been the work of …"/>
+    <cse:Attribute name="og:url" value="https://www.boston.com/news/world-news/2016/05/22/amid-threats-egyptair-tightened-security"/>
+    <cse:Attribute name="og:site_name" value="Boston.com"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/boston"/>
+    <cse:Attribute name="article:tag" value="World News"/>
+    <cse:Attribute name="article:section" value="News"/>
+    <cse:Attribute name="article:published_time" value="2016-05-22T06:30:38-04:00"/>
+    <cse:Attribute name="article:modified_time" value="2016-05-21T23:48:18-04:00"/>
+    <cse:Attribute name="og:updated_time" value="2016-05-21T23:48:18-04:00"/>
+    <cse:Attribute name="og:image" value="https://www.boston.com/wp-content/uploads/2016/05/2a70be9a32104019841f7aaacee4a617-18a6895c285d44d986c7802bd9b53806-9-850x478.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:description" value="CAIRO — In an eerie coincidence, the EgyptAir jetliner that plunged into the Mediterranean on Thursday was once the target of political vandals who wrote in Arabic on its underside, “We will bring this plane down.” Three EgyptAir security officials said the threatening graffiti, which appeared about two years ago, had been the work of […]"/>
+    <cse:Attribute name="twitter:title" value="Amid threats, EgyptAir tightened its security"/>
+    <cse:Attribute name="twitter:site" value="@BostonDotCom"/>
+    <cse:Attribute name="twitter:image" value="http://cache.boston.com/universal/site_graphics/BDC_b_logo_transparent_background_og.jpg"/>
+    <cse:Attribute name="twitter:creator" value="@jd_waller"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://www.boston.com/wp-content/uploads/2016/05/2a70be9a32104019841f7aaacee4a617-18a6895c285d44d986c7802bd9b53806-9-850x478.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaZhD5OLRxF7CHXkgYESwQbvWPVv0wcyo2zJryiCZCeYS-dv4lFZcBdb0"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://hosted.ap.org/dynamic/stories/U/US_UCLA_SHOOTING_THE_LATEST_MNOL-?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT</id>
+  <updated>1970-01-17T22:56:56.791Z</updated>
+  <title type="html">The Latest</title>
+  <link href="http://hosted.ap.org/dynamic/stories/U/US_UCLA_SHOOTING_THE_LATEST_MNOL-?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" title="hosted.ap.org"/>
+  <summary type="html">The official was not authorized to publicly discuss the case and spoke &lt;b&gt;on&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;condition of anonymity&lt;/b&gt;. ---. Reporting by AP writer Amanda Lee Myers. ---. 7:45 &lt;br&gt;
+p.m..</summary>
+  <cse:cacheId>jGgkVUMfewQJ</cse:cacheId>
+  <cse:formattedUrl type="html">hosted.ap.org/.../US_UCLA_SHOOTING_THE_LATEST_MNOL-?...</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="hatomfeed"/>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://hosted.ap.org/photos/1/15bd059f3f19464a911dc4f7368d0b3d_0-small.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="143"/>
+    <cse:Attribute name="height" value="96"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTh-0G-g5sWAXLsjR-HDcXs6grldNc5-Ys5qrS21-2OB7KRF_Sf07NrB9M"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.latimes.com/world/la-fg-egyptair-plane-20160524-snap-story.html</id>
+  <updated>1970-01-17T22:40:48.000Z</updated>
+  <title type="html">Head of Egypt&amp;#39;s forensic agency calls plane crash explosion theories</title>
+  <link href="http://www.latimes.com/world/la-fg-egyptair-plane-20160524-snap-story.html" title="www.latimes.com"/>
+  <summary type="html">He spoke &lt;b&gt;on condition of anonymity&lt;/b&gt; because he was not authorized to release &lt;br&gt;
+the information. However, the head of the government&amp;#39;s forensic agency later&amp;nbsp;...</summary>
+  <cse:cacheId>RwWqJ3_hS_sJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.latimes.com/.../la-fg-egyptair-plane-20160524-snap-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="lalvp09.13"/>
+    <cse:Attribute name="author" value="Associated Press"/>
+    <cse:Attribute name="date" value="2016-05-24"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2016 Associated Press"/>
+    <cse:Attribute name="fb_title" value="Head of Egypt&apos;s forensic agency calls plane crash explosion theories &apos;baseless&apos;"/>
+    <cse:Attribute name="og:title" value="Head of Egypt&apos;s forensic agency calls plane crash explosion theories &apos;baseless&apos;"/>
+    <cse:Attribute name="og:description" value="Human remains retrieved from the crash site of EgyptAir Flight 804 have burn marks and are very small, suggesting an explosion on board may have downed the aircraft in the east Mediterranean, a senior Egyptian forensics official said Tuesday."/>
+    <cse:Attribute name="fb:page_id" value="5863113009"/>
+    <cse:Attribute name="fb:admins" value="100000786395051"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.latimes.com/world/la-fg-egyptair-plane-20160524-snap-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-574492af/turbine/la-fg-egyptair-plane-20160524-snap"/>
+    <cse:Attribute name="og:site_name" value="latimes.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@latimes"/>
+    <cse:Attribute name="y_key" value="cee2fe4077f8d050"/>
+    <cse:Attribute name="msvalidate.01" value="AAC9C18F70AC386BC4DCF4DDF9BF1786"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/deeplinkid/87308662"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="World"/>
+    <cse:Attribute name="headline" value="Head of Egypt&apos;s forensic agency calls plane crash explosion theories &apos;baseless&apos;"/>
+    <cse:Attribute name="image" value="http://www.trbimg.com/img-57441e48/turbine/la-1464082122-snap-photo/650/650x366"/>
+    <cse:Attribute name="author" value="Associated Press"/>
+    <cse:Attribute name="datepublished" value="2016-05-24T10:06:00PDT"/>
+    <cse:Attribute name="articlebody" value="Human remains retrieved from the crash site of EgyptAir Flight 804 have burn marks and are very small, suggesting an explosion on board may have downed the aircraft in the east Mediterranean,..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-574492af/turbine/la-fg-egyptair-plane-20160524-snap"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ70tO-56iWFcqwDt4i7X7vR-jMYQ0VCVsmYK7xSGsOofN6oReagRwDUJwC"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.boston.com/news/world-news/2016/06/01/egypt-says-signals-picked-doomed-planes-black-boxes</id>
+  <updated>1970-01-17T22:56:56.791Z</updated>
+  <title type="html">Egypt says signals picked up from doomed plane&amp;#39;s black box</title>
+  <link href="https://www.boston.com/news/world-news/2016/06/01/egypt-says-signals-picked-doomed-planes-black-boxes" title="www.boston.com"/>
+  <summary type="html">He spoke &lt;b&gt;on condition of anonymity&lt;/b&gt; because he wasn&amp;#39;t allowed to speak publicly &lt;br&gt;
+on the issue. Laplace&amp;#39;s equipment picked up the “signals from the seabed of&amp;nbsp;...</summary>
+  <cse:cacheId>8XVUbqq0UlEJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.boston.com/.../egypt-says-signals-picked-doomed-planes-black- boxes</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="twitter:widgets:csp" value="on"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://www.boston.com/wp-content/themes/bdc/images/favicons/smalltile.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://www.boston.com/wp-content/themes/bdc/images/favicons/mediumtile.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://www.boston.com/wp-content/themes/bdc/images/favicons/widetile.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://www.boston.com/wp-content/themes/bdc/images/favicons/largetile.png"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ffffff"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://www.boston.com/wp-content/themes/bdc/images/favicons/mstile-144x144.png"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Egypt says signals picked up from doomed plane&apos;s black box"/>
+    <cse:Attribute name="og:description" value="Egypt says a French ship has picked up signals from deep under the Mediterranean Sea, presumed to be from one of the black boxes of the EgyptAir plane that crashed last month, killing all 66 passengers and crew on board"/>
+    <cse:Attribute name="og:url" value="https://www.boston.com/news/world-news/2016/06/01/egypt-says-signals-picked-doomed-planes-black-boxes"/>
+    <cse:Attribute name="og:site_name" value="Boston.com"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/boston"/>
+    <cse:Attribute name="article:section" value="Culture"/>
+    <cse:Attribute name="article:published_time" value="2016-06-01T09:23:38-04:00"/>
+    <cse:Attribute name="article:modified_time" value="2016-06-01T09:26:59-04:00"/>
+    <cse:Attribute name="og:updated_time" value="2016-06-01T09:26:59-04:00"/>
+    <cse:Attribute name="og:image" value="https://www.boston.com/wp-content/uploads/2016/06/9964558f38db438eb25b3fe2948af885-850x478.jpeg"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:description" value="Egypt says a French ship has picked up signals from deep under the Mediterranean Sea, presumed to be from one of the black boxes of the EgyptAir plane that crashed last month, killing all 66 passengers and crew on board"/>
+    <cse:Attribute name="twitter:title" value="Egypt says signals picked up from doomed plane&apos;s black box"/>
+    <cse:Attribute name="twitter:site" value="@BostonDotCom"/>
+    <cse:Attribute name="twitter:image" value="http://cache.boston.com/universal/site_graphics/BDC_b_logo_transparent_background_og.jpg"/>
+    <cse:Attribute name="twitter:creator" value="@BostonDotCom"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://www.boston.com/wp-content/uploads/2016/06/9964558f38db438eb25b3fe2948af885-850x478.jpeg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQieihBnIFcpDoiGiYyoalZBCs5jaxAHNMVKKXlD9iX4tJfLL0DH-yO84"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.telegraph.co.uk/news/2016/06/03/schoolchildren-arrested-in-burundi-for-defacing-pictures-of-pres/</id>
+  <updated>1970-01-17T22:56:56.791Z</updated>
+  <title type="html">Schoolchildren arrested in Burundi for defacing pictures of President &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="http://www.telegraph.co.uk/news/2016/06/03/schoolchildren-arrested-in-burundi-for-defacing-pictures-of-pres/" title="www.telegraph.co.uk"/>
+  <summary type="html">&amp;quot;The prosecutor in Muramvya has just decided to detain 11... for insulting the &lt;br&gt;
+head of state,&amp;quot; the police official said, speaking &lt;b&gt;on condition of anonymity&lt;/b&gt;.</summary>
+  <cse:cacheId>qGNQU90S0RAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.telegraph.co.uk/.../schoolchildren-arrested-in-burundi-for-defacing- pictures-of-pres/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
+    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <cse:Attribute name="tmgads.channel" value="news"/>
+    <cse:Attribute name="tmgads.section" value="news-2016"/>
+    <cse:Attribute name="tmgads.zone" value="news.2016.06.03"/>
+    <cse:Attribute name="tmgads.articleid" value="AmF8Vvv81FDx"/>
+    <cse:Attribute name="tmgads.pagetype" value="story"/>
+    <cse:Attribute name="tmgads.level" value="5"/>
+    <cse:Attribute name="tmgads.geo" value="US"/>
+    <cse:Attribute name="tmgads.keywords" value="Africa,Standard,World News,Burundi,News"/>
+    <cse:Attribute name="dcsext.channel" value="news"/>
+    <cse:Attribute name="dcsext.category" value="2016"/>
+    <cse:Attribute name="dcsext.genre" value="06"/>
+    <cse:Attribute name="dcsext.mlc" value="/news/2016/06/03"/>
+    <cse:Attribute name="dcsext.articleid" value="AmF8Vvv81FDx"/>
+    <cse:Attribute name="dcsext.content_type" value="story"/>
+    <cse:Attribute name="dcsext.level" value="5"/>
+    <cse:Attribute name="dcsext.author" value="Agence France-Presse"/>
+    <cse:Attribute name="dcsext.articlefirstpublished" value="2016-06-03 22:24"/>
+    <cse:Attribute name="dcsext.cf" value="1"/>
+    <cse:Attribute name="dcsext.cd" value="0"/>
+    <cse:Attribute name="dcsext.cn" value="0"/>
+    <cse:Attribute name="dcsext.pd" value="1"/>
+    <cse:Attribute name="og:title" value="Schoolchildren arrested in Burundi for defacing pictures of President Pierre Nkurunziza"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="The Telegraph"/>
+    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2016/06/03/schoolchildren-arrested-in-burundi-for-defacing-pictures-of-pres/"/>
+    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/03/burundi1-xlarge_trans++utIaqbtdgycbjoKap7Ft8--43Hvx7QZU6i5pdEQ4CTg.jpg"/>
+    <cse:Attribute name="twitter:title" value="Schoolchildren arrested in Burundi for defacing pictures of President Pierre Nkurunziza"/>
+    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2016/06/03/schoolchildren-arrested-in-burundi-for-defacing-pictures-of-pres/"/>
+    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/03/burundi1-xlarge_trans++utIaqbtdgycbjoKap7Ft8--43Hvx7QZU6i5pdEQ4CTg.jpg"/>
+    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="tmgads.businesssegment" value="news"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Schoolchildren arrested in Burundi for defacing pictures of President Pierre Nkurunziza"/>
+    <cse:Attribute name="name" value="Schoolchildren arrested in Burundi for defacing pictures of President Pierre Nkurunziza"/>
+    <cse:Attribute name="datepublished" value="2016-06-03T22:22+0100"/>
+    <cse:Attribute name="articlebody" value="Eleven high school students in a city in central Burundi were detained and charged on Friday with defacing a photo of President Pierre Nkurunziza, a police official said, as three people were..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/03/burundi1-large_trans++utIaqbtdgycbjoKap7Ft8--43Hvx7QZU6i5pdEQ4CTg.jpg"/>
+    <cse:Attribute name="caption" value="President Pierre Nkurunziza inspects a guard of honour during the funeral of Jean-Baptiste Bagaza, president during the 1970s and 1980s, last month"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Agence France-Presse"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/03/97926539_Demonstrators_march_during_a_rally_in_Bujumbura_on_May_14_2016_commemorating_the_one-year_a-large_trans++N-IJhLaQEeagjjxwYxbEQnGH_sPIAWjrrdGM3cDjpbo.jpg"/>
+    <cse:Attribute name="caption" value="Demonstrators march during a rally in Bujumbura on May 14, 2016, commemorating the one-year anniversary of the failed attempt of a government coup"/>
+    <cse:Attribute name="copyrightholder" value="Credit: AFP"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2016/06/03/burundi1-large_trans++utIaqbtdgycbjoKap7Ft8--43Hvx7QZU6i5pdEQ4CTg.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="177"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmbYrbCCkUQ-kuVckvZ9PGX-foWobPhIr_32vjj-daPXvXdAHAkBbhH9c"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
 </feed>

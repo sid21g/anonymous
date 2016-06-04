@@ -50,8 +50,7 @@ for phrase in phrases:
         summary = entry.find('{http://www.w3.org/2005/Atom}summary')
         insert_values = [source, phrase.strip(), title.text,
                          link.attrib['href'], summary.text, today]
-        match = re.search(
-            bold_tag, summary.text)  # Skip entries with no identifiable phrase
+        match = re.search(bold_tag, summary.text)  # Skip entries with no identifiable phrase
         if match:
             try:
                 curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
