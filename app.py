@@ -66,6 +66,14 @@ def clean_content(content):
     return content
 
 
+# Makes for prettier URLs
+@app.template_filter('plus_for_spaces')
+def plus_for_spaces(content):
+    content = content.strip()
+    content = content.replace(' ', '+')
+    return content
+
+
 @app.route('/')
 def index():
     results = query_db('SELECT anon.source, '
