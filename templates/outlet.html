@@ -1,4 +1,4 @@
     {% extends "layout.html" %}
-    {% block content %}
-        <p><h2>{{ masthead|safe }}</h2></p><br>
-    {% endblock %}
+    {% block head %}<title>Anonymous Source Tracker | {{ masthead|safe }}</title>{% endblock %}
+    {% block content %}<p><h2>{{ masthead|safe }}</h2></p><br>{% endblock %}
+
