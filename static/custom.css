@@ -3,6 +3,10 @@ body {
     font-size: 2em;
 }
 
+h1 {
+    color: #E00000;
+}
+
 a {
     text-decoration: none;
     color: black;
@@ -22,5 +26,24 @@ hr + b {
 .jumbotron {
     padding-top: 15px;
     padding-bottom: 15px;
-    background-color: #c4e3f3;
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline; color: #E00000;
+}
+
+a:hover#masthed {
+    text-decoration: none;
+    color: #E00000;
+}
+
+#masthed a {
+    text-decoration: none;
+    color: #E00000;
 }

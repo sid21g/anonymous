@@ -24,7 +24,7 @@ for phrase in phrases:
 
     base = 'https://www.googleapis.com/customsearch/v1?q='
     google_id = YOUR_ID
-    restrict = "&dateRestrict=w2"
+    restrict = "&dateRestrict=w1"
     exact = "&" + query
     language = "&hl=en"
     google_key = YOUR_KEY
