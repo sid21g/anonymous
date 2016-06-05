@@ -1,0 +1,26 @@
+body {
+    font-family: Libre Baskerville, Georgia, "Times New Roman", serif;
+    font-size: 2em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+hr + b {
+    color:#000000;
+    background-color: yellow;
+    font-weight: normal;
+}
+
+.timestamp {
+    color: #696969;
+    float: right;
+}
+
+.jumbotron {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #c4e3f3;
+}
