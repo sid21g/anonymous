@@ -40,35 +40,35 @@ for phrase in phrases:
            google_key +
            alt)
     anon_file = "anonymous.txt"
-    # local_file, headers = request.urlretrieve(url, anon_file)
-    # tree = ElementTree.parse(local_file)
-    # root = tree.getroot()
-    # entries = root.findall('{http://www.w3.org/2005/Atom}entry')
+    local_file, headers = request.urlretrieve(url, anon_file)
+    tree = ElementTree.parse(local_file)
+    root = tree.getroot()
+    entries = root.findall('{http://www.w3.org/2005/Atom}entry')
 
-    # for entry in entries:
-    #     title = entry.find('{http://www.w3.org/2005/Atom}title')
-    #     link = entry.find('{http://www.w3.org/2005/Atom}link')
-    #     source = link.attrib['title']
-    #     summary = entry.find('{http://www.w3.org/2005/Atom}summary')
-    #     insert_values = [source,
-    #                      phrase.strip(),
-    #                      title.text,
-    #                      link.attrib['href'],
-    #                      summary.text,
-    #                      today]
-    #     match = re.search(
-    #         bold_tag,
-    #         summary.text)  # Skip entries with no identifiable phrase
-    #     if match:
-    #         try:
-    #             curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
-    #                          insert_values)
-    #             conn.commit()
-    #             print("New entry")
-    #         except Error as e:
-    #             print("Oops: ", e.args[0])
-    #     else:
-    #         print("No phrase in entry")
+    for entry in entries:
+        title = entry.find('{http://www.w3.org/2005/Atom}title')
+        link = entry.find('{http://www.w3.org/2005/Atom}link')
+        source = link.attrib['title']
+        summary = entry.find('{http://www.w3.org/2005/Atom}summary')
+        insert_values = [source,
+                         phrase.strip(),
+                         title.text,
+                         link.attrib['href'],
+                         summary.text,
+                         today]
+        match = re.search(
+            bold_tag,
+            summary.text)  # Skip entries with no identifiable phrase
+        if match:
+            try:
+                curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
+                             insert_values)
+                conn.commit()
+                print("New entry")
+            except Error as e:
+                print("Oops: ", e.args[0])
+        else:
+            print("No phrase in entry")
 
 
 f = open(CSV_FILE,
