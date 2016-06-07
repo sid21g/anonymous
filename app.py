@@ -9,7 +9,7 @@ import configparser
 
 config = configparser.ConfigParser()
 config.read("config.txt")
-FREEZER_DESTINATION = config.get("Configuration", "freezer_destination")
+FREEZER_DESTINATION = config.get("Configuration", "destination")
 
 app = Flask(__name__)
 app.config['FREEZER_DESTINATION'] = FREEZER_DESTINATION
