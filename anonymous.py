@@ -58,7 +58,7 @@ for phrase in phrases:
                          today]
         match = re.search(
             bold_tag,
-            summary.text)  # Skip entries with no identifiable phrase
+            summary.text)  # Skip entries with no phrase in summary
         if match:
             try:
                 curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
