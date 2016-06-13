@@ -29,6 +29,13 @@ SELECT anon.title, count(anon.title) FROM anon GROUP BY anon.title ORDER BY coun
 
 SELECT anon.source, anon.content, count(anon.content) FROM anon GROUP BY anon.content ORDER BY count(anon.content) DESC;
 
-DELETE FROM anon WHERE ROWID NOT IN (SELECT min(ROWID) FROM anon GROUP BY content);
+DELETE FROM anon WHERE ROWID NOT IN (SELECT min(ROWID) FROM anon GROUP BY source, content);
 
-SELECT min(ROWID) FROM anon GROUP BY source, content;
+DELETE FROM anon WHERE ROWID NOT IN (SELECT min(ROWID) FROM anon GROUP BY source, title);
+
+SELECT source, content, count(source) FROM anon GROUP BY source, content ORDER BY count(source) DESC;
+
+SELECT source, title, count(source) FROM anon GROUP BY source, title ORDER BY count(source) DESC;
+
+SELECT min(ROWID) FROM anon GROUP BY source, title;
+
