@@ -24,3 +24,11 @@ SELECT outlets.name, outlets.url FROM outlets ORDER BY outlets.name;
 SELECT DISTINCT anon.source, outlets.name FROM anon JOIN outlets ON anon.source = outlets.url ORDER BY outlets.name;
 
 SELECT DISTINCT anon.source FROM anon;
+
+SELECT anon.title, count(anon.title) FROM anon GROUP BY anon.title ORDER BY count(anon.title) DESC;
+
+SELECT anon.source, anon.content, count(anon.content) FROM anon GROUP BY anon.content ORDER BY count(anon.content) DESC;
+
+DELETE FROM anon WHERE ROWID NOT IN (SELECT min(ROWID) FROM anon GROUP BY content);
+
+SELECT min(ROWID) FROM anon GROUP BY source, content;
