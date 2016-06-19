@@ -1,19 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "an official involved in the negotiations"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="an official involved in the negotiations"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-17T23:19:06.767Z</updated>
+ <title>Google Custom Search - "declined to give her last name"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="declined to give her last name"&amp;cx=012091639844104041986:munhfapni70&amp;num=3&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-17T23:19:10.874Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;an official involved in the negotiations&quot;" totalResults="0" searchTerms="&quot;an official involved in the negotiations&quot;" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;declined to give her last name&quot;" totalResults="3" searchTerms="&quot;declined to give her last name&quot;" count="3" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>3</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.32273</cse:searchTime>
-  <cse:formattedSearchTime>0.32</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.349778</cse:searchTime>
+  <cse:formattedSearchTime>0.35</cse:formattedSearchTime>
+  <cse:totalResults>3</cse:totalResults>
+  <cse:formattedTotalResults>3</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.nydailynews.com/entertainment/gossip/taylor-swift-calvin-harris-grow-high-schoolers-article-1.2676669</id>
+  <updated>1970-01-17T23:19:10.874Z</updated>
+  <title type="html">Taylor Swift and Calvin Harris should grow up, high schoolers say &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="http://www.nydailynews.com/entertainment/gossip/taylor-swift-calvin-harris-grow-high-schoolers-article-1.2676669" title="www.nydailynews.com"/>
+  <summary type="html">&amp;quot;It is really petty,&amp;quot; opined 15-year-old Ava, who &lt;b&gt;declined to give her last name&lt;/b&gt;. &amp;quot;&lt;br&gt;
+It&amp;#39;s the kind of thing teenagers get away with because we&amp;#39;re teenagers and petty&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.nydailynews.com/.../taylor-swift-calvin-harris-grow-high-schoolers- article-1.2676669</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="nydn_section" value="Gossip"/>
+    <cse:Attribute name="fb:app_id" value="107464888913"/>
+    <cse:Attribute name="fb:admins" value="1594068001"/>
+    <cse:Attribute name="fb:pages" value="268914272540"/>
+    <cse:Attribute name="og:site_name" value="NY Daily News"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/NYDailyNews/"/>
+    <cse:Attribute name="msvalidate.01" value="02916AAC0DA8B068EFE01D721E03ED7E"/>
+    <cse:Attribute name="p:domain_verify" value="78efe4f5c9935744af497772f68a0ee7"/>
+    <cse:Attribute name="viewport" value="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@nydailynews"/>
+    <cse:Attribute name="twitter:url" value="http://www.nydailynews.com/entertainment/gossip/taylor-swift-calvin-harris-grow-high-schoolers-article-1.2676669"/>
+    <cse:Attribute name="twitter:title" value="Taylor Swift and Calvin Harris should grow up, high schoolers say"/>
+    <cse:Attribute name="twitter:description" value="Taylor Swift and Calvin Harris are less mature than high schoolers — literally."/>
+    <cse:Attribute name="sailthru.title" value="Taylor Swift and Calvin Harris should grow up, high schoolers say"/>
+    <cse:Attribute name="og:title" value="Taylor Swift and Calvin Harris should grow up, high schoolers say"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.nydailynews.com/entertainment/gossip/taylor-swift-calvin-harris-grow-high-schoolers-article-1.2676669"/>
+    <cse:Attribute name="news_keywords" value="taylor swift breakup, high schoolers, calvin harris twitter, taylor swift calvin harris photos, deleting photos, social media photos,"/>
+    <cse:Attribute name="sailthru.tags" value="taylor swift breakup, high schoolers, calvin harris twitter, taylor swift calvin harris photos, deleting photos, social media photos,"/>
+    <cse:Attribute name="og:image" value="http://assets.nydailynews.com/polopoly_fs/1.2676667.1466106887!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/social17f-1-web.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://assets.nydailynews.com/polopoly_fs/1.2676667.1466106887!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/social17f-1-web.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://assets.nydailynews.com/polopoly_fs/1.2676667.1466106887!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/social17f-1-web.jpg"/>
+    <cse:Attribute name="og:description" value="Taylor Swift and Calvin Harris are less mature than high schoolers — literally."/>
+    <cse:Attribute name="sailthru.description" value="Taylor Swift and Calvin Harris are less mature than high schoolers — literally."/>
+    <cse:Attribute name="sailthru.date" value="2016-06-16T15:55:15-0400"/>
+    <cse:Attribute name="nydn_tags" value="taylor swift, calvin harris, tom hiddleston, celebrity relationships"/>
+    <cse:Attribute name="nydn_byline" value="PETER SBLENDORIO"/>
+    <cse:Attribute name="sailthru.author" value="PETER SBLENDORIO"/>
+    <cse:Attribute name="sailthru.credits" value="NEW YORK DAILY NEWS"/>
+    <cse:Attribute name="parsely-title" value="Taylor Swift and Calvin Harris should grow up, high schoolers say"/>
+    <cse:Attribute name="parsely-link" value="http://www.nydailynews.com/entertainment/gossip/taylor-swift-calvin-harris-grow-high-schoolers-article-1.2676669"/>
+    <cse:Attribute name="parsely-type" value="article"/>
+    <cse:Attribute name="parsely-image-url" value="http://assets.nydailynews.com/polopoly_fs/1.2676667.1466106887!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/social17f-1-web.jpg"/>
+    <cse:Attribute name="parsely-pub-date" value="2016-06-16T19:55:15"/>
+    <cse:Attribute name="parsely-section" value="Gossip"/>
+    <cse:Attribute name="parsely-author" value="Peter Sblendorio"/>
+    <cse:Attribute name="parsely-tags" value="taylor swift, calvin harris, tom hiddleston, celebrity relationships"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Taylor Swift and Calvin Harris need to grow up, high schoolers say"/>
+    <cse:Attribute name="articlebody" value="Taylor Swift and Calvin Harris are less mature than high schoolers — literally. Fans around the world were stunned Wednesday when the recently separated stars erased every photo from their..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Taylor Swift and Calvin Harris deleted all their photos together on social media."/>
+    <cse:Attribute name="copyrightholder" value="(taylorswift via Instagram)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="She also removed this photo from last June."/>
+    <cse:Attribute name="copyrightholder" value="(taylorswift via Instagram)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Calvin Harris tweeted, then deleted, this post after photos of Swift kissing Tom Hiddleston emerged."/>
+    <cse:Attribute name="copyrightholder" value="(Calvin Harris via Twitter)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Calvin Harris took down this photo of him with Swift during a vacation in March."/>
+    <cse:Attribute name="copyrightholder" value="(calvinharris via Instagram)"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://assets.nydailynews.com/polopoly_fs/1.2676667.1466106887!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/social17f-1-web.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvc6rlq_iJ8jg4n3GQyN0K47XSA6FWUqSlDhR42-qG-X16BgeBvwdEkB3H"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://nypost.com/2016/06/14/health-obsessed-millennials-are-binge-watching-surgeries-on-snapchat/</id>
+  <updated>1970-01-17T23:19:10.874Z</updated>
+  <title type="html">Millennials are binge-watching surgeries on Snapchat | New York Post</title>
+  <link href="http://nypost.com/2016/06/14/health-obsessed-millennials-are-binge-watching-surgeries-on-snapchat/" title="nypost.com"/>
+  <summary type="html">(Jennifer &lt;b&gt;declined to give her last name&lt;/b&gt; for privacy reasons.) “I get a million views &lt;br&gt;
+on Snapchat per day,&amp;#39;&amp;#39; says Schulman, who specializes in body work.</summary>
+  <cse:cacheId>O5gdmsuIwOIJ</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/.../health-obsessed-millennials-are-binge-watching-surgeries-on- snapchat/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="copyright" value="Copyright 2016 NYP Holdings. All rights reserved."/>
+    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Millennials are binge-watching surgeries on Snapchat"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2016/06/14/health-obsessed-millennials-are-binge-watching-surgeries-on-snapchat/"/>
+    <cse:Attribute name="og:description" value="When Jennifer, a 28-year-old Manhattan high-school teacher, decided to have her body enhanced with breast implants and a Brazilian butt-lift six months ago, she agreed to let her plastic surgeon, D…"/>
+    <cse:Attribute name="article:published_time" value="2016-06-14T05:42:05+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2016-06-14T11:42:02+00:00"/>
+    <cse:Attribute name="og:site_name" value="New York Post"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="twitter:site" value="@nypost"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2016/06/surgerty1a.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:creator" value="@nypost"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
+    <cse:Attribute name="twitter:title" value="Millennials are binge-watching surgeries on Snapchat"/>
+    <cse:Attribute name="twitter:description" value="When Jennifer, a 28-year-old Manhattan high-school teacher, decided to have her body enhanced with breast implants and a Brazilian butt-lift six months ago, she agreed to let her plastic surgeon, Dr."/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2016/06/surgerty1a.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2016/06/surgerty1a.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i1.wp.com/thenypost.files.wordpress.com/2016/06/surgerty1a.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="sailthru.date" value="2016-06-14 01:42:05"/>
+    <cse:Attribute name="sailthru.title" value="Millennials are binge-watching surgeries on Snapchat"/>
+    <cse:Attribute name="sailthru.tags" value="instagram,medicine,snapchat,social-media,surgery,"/>
+    <cse:Attribute name="sailthru.description" value="When Jennifer, a 28-year-old Manhattan high-school teacher, decided to have her body enhanced with breast implants and a Brazilian butt-lift six months ago, she agreed to let her plastic surgeon, Dr."/>
+    <cse:Attribute name="sailthru.image.full" value="https://thenypost.files.wordpress.com/2016/06/surgerty1a.jpg?quality=90&amp;strip=all"/>
+    <cse:Attribute name="sailthru.image.thumb" value="https://thenypost.files.wordpress.com/2016/06/surgerty1a.jpg?quality=90&amp;strip=all&amp;w=231&amp;h=154&amp;crop=1"/>
+    <cse:Attribute name="nypost-section" value="Living"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10237803&quot;}"/>
+    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
+    <cse:Attribute name="fb:pages" value="134486075205"/>
+    <cse:Attribute name="application-name" value="New York Post"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2016/06/surgerty1a.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ59F3hTnGEHJli2N7Whmz0gywCfwg-RZ3MrY1SntdQnApSIAkSiy7N_I"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.buzzfeed.com/tamerragriffin/no-woman-ever</id>
+  <updated>1970-01-17T23:19:10.874Z</updated>
+  <title type="html">These Tweets About Street Harassment Will Make You Rage-Laugh &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="https://www.buzzfeed.com/tamerragriffin/no-woman-ever" title="www.buzzfeed.com"/>
+  <summary type="html">The 37-year-old, who &lt;b&gt;declined to give her last name&lt;/b&gt; for privacy reasons, told &lt;br&gt;
+BuzzFeed News that she felt that a lot of men on her Twitter timeline “were being&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>eJERkSYXWZMJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.buzzfeed.com/tamerragriffin/no-woman-ever</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="copyright" value="Copyright 2016 BuzzFeed, Inc. All rights reserved."/>
+    <cse:Attribute name="referrer" value="unsafe-url"/>
+    <cse:Attribute name="bf:buzzid" value="4282563"/>
+    <cse:Attribute name="bf:userid" value="2170678"/>
+    <cse:Attribute name="author" value="Tamerra Griffin"/>
+    <cse:Attribute name="news_keywords" value="No Woman Ever, cocoabutter, social news, street harassment, twitter"/>
+    <cse:Attribute name="sailthru.tags" value="No Woman Ever, cocoabutter, social news, street harassment, twitter"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=352969997, affiliate-data=at=10l3HP&amp;ct=Buzz/SmartBanner, app-argument=buzzfeed://buzz/tamerragriffin/no-woman-ever"/>
+    <cse:Attribute name="google-signin-clientid" value="895639880237-tcoheof19odpd88p676rjc70v0iqit0o.apps.googleusercontent.com"/>
+    <cse:Attribute name="google-signin-cookiepolicy" value="single_host_origin"/>
+    <cse:Attribute name="google-signin-requestvisibleactions" value="https://schemas.google.com/AddActivity"/>
+    <cse:Attribute name="google-signin-scope" value="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profile.emails.read"/>
+    <cse:Attribute name="fb:app_id" value="45075597673"/>
+    <cse:Attribute name="og:site_name" value="BuzzFeed"/>
+    <cse:Attribute name="title" value="Women Are Fighting Back Against Street Harassment With #NoWomanEver"/>
+    <cse:Attribute name="og:title" value="Women Are Fighting Back Against Street Harassment With #NoWomanEver"/>
+    <cse:Attribute name="og:description" value="“When he pulled my ear plug outta my ear for not responding? My heart melted.” #NoWomanEver"/>
+    <cse:Attribute name="og:url" value="https://www.buzzfeed.com/tamerragriffin/no-woman-ever"/>
+    <cse:Attribute name="twitter:creator" value="@tamerra_nikol"/>
+    <cse:Attribute name="article:tag" value="cocoabutter"/>
+    <cse:Attribute name="article:section" value="USNews"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/BuzzFeed"/>
+    <cse:Attribute name="og:image" value="https://img.buzzfeed.com/buzzfeed-static/static/2016-06/18/14/social_promotion/buzzfeed-prod-web10/facebook-social-promotion-11128-1466275131-1.jpg"/>
+    <cse:Attribute name="og:image:width" value="1045"/>
+    <cse:Attribute name="og:image:height" value="627"/>
+    <cse:Attribute name="og:image:url" value="https://img.buzzfeed.com/buzzfeed-static/static/2016-06/18/13/asset/buzzfeed-prod-web15/sub-buzz-31029-1466270943-2.png"/>
+    <cse:Attribute name="og:type" value="article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://img.buzzfeed.com/buzzfeed-static/static/2016-06/18/11/campaign_images/buzzfeed-prod-web08/grandparents-2-4240-1466263981-3.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="100"/>
+    <cse:Attribute name="height" value="66"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBZ6UthAMMnVChaTzXJ_HgXMelFSdNR1lC-nkco9mJBdSTnvEfPf1q"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
 </feed>
