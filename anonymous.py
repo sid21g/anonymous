@@ -71,6 +71,25 @@ for phrase in phrases:
             print("No phrase in entry")
 
 
+# Delete duplicates for the same outlet
+curs.execute('DELETE '
+             'FROM anon '
+             'WHERE ROWID '
+             'NOT IN '
+             '(SELECT min(ROWID) '
+             'FROM anon '
+             'GROUP BY source, content)')
+
+
+curs.execute('DELETE '
+             'FROM anon '
+             'WHERE ROWID '
+             'NOT IN '
+             '(SELECT min(ROWID) '
+             'FROM anon '
+             'GROUP BY source, title)')
+
+
 f = open(CSV_FILE,
          'w',
          encoding='utf-8')
@@ -97,24 +116,6 @@ for row in curs.fetchall():
                clean_content(row[4]),
                clean_content(row[5])]
     w.writerow(new_row)
-
-
-curs.execute('DELETE '
-             'FROM anon '
-             'WHERE ROWID '
-             'NOT IN '
-             '(SELECT min(ROWID) '
-             'FROM anon '
-             'GROUP BY source, content)')
-
-
-curs.execute('DELETE '
-             'FROM anon '
-             'WHERE ROWID '
-             'NOT IN '
-             '(SELECT min(ROWID) '
-             'FROM anon '
-             'GROUP BY source, title)')
 
 
 f.close()
