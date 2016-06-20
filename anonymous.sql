@@ -39,3 +39,4 @@ SELECT source, title, count(source) FROM anon GROUP BY source, title ORDER BY co
 
 SELECT min(ROWID) FROM anon GROUP BY source, title;
 
+SELECT source, title FROM anon GROUP BY source, title;
