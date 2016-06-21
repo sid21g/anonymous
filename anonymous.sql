@@ -40,3 +40,9 @@ SELECT source, title, count(source) FROM anon GROUP BY source, title ORDER BY co
 SELECT min(ROWID) FROM anon GROUP BY source, title;
 
 SELECT source, title FROM anon GROUP BY source, title;
+
+SELECT link FROM anon WHERE date_entered = '2016-06-20';
+
+SELECT * FROM anon;
+
+
