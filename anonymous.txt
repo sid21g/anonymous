@@ -1,19 +1,549 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - </title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q=&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-17T23:21:52.880Z</updated>
+ <title>Google Custom Search - "refused to give his name"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="refused to give his name"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-17T23:23:20.838Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - " totalResults="0" searchTerms="" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;refused to give his name&quot;" totalResults="1330" searchTerms="&quot;refused to give his name&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;refused to give his name&quot;" totalResults="1330" searchTerms="&quot;refused to give his name&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>1330</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.008972</cse:searchTime>
-  <cse:formattedSearchTime>0.01</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.223893</cse:searchTime>
+  <cse:formattedSearchTime>0.22</cse:formattedSearchTime>
+  <cse:totalResults>1330</cse:totalResults>
+  <cse:formattedTotalResults>1,330</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.latimes.com/world/la-fg-britain-jo-cox-20160618-snap-story.html</id>
+  <updated>1970-01-17T23:23:20.838Z</updated>
+  <title type="html">Suspect in slaying of British lawmaker tells court his name is &amp;#39;Death &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="http://www.latimes.com/world/la-fg-britain-jo-cox-20160618-snap-story.html" title="www.latimes.com"/>
+  <summary type="html">The man accused of killing British lawmaker Jo Cox defiantly &lt;b&gt;refused to give his&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;name&lt;/b&gt; in court Saturday, instead identifying himself as “Death to traitors, freedom&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>VRIrHHTCZ-0J</cse:cacheId>
+  <cse:formattedUrl type="html">www.latimes.com/.../la-fg-britain-jo-cox-20160618-snap-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="lalvp12.13"/>
+    <cse:Attribute name="author" value="Los Angeles Times"/>
+    <cse:Attribute name="date" value="2016-06-18"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2016 Los Angeles Times"/>
+    <cse:Attribute name="fb_title" value="Suspect in slaying of British lawmaker tells court his name is &apos;Death to traitors, freedom for Britain&apos;"/>
+    <cse:Attribute name="og:title" value="Suspect in slaying of British lawmaker tells court his name is &apos;Death to traitors, freedom for Britain&apos;"/>
+    <cse:Attribute name="og:description" value="The man accused of killing British lawmaker Jo Cox defiantly refused to give his name in court Saturday, instead identifying himself as “Death to traitors, freedom for Britain.” "/>
+    <cse:Attribute name="fb:page_id" value="5863113009"/>
+    <cse:Attribute name="fb:admins" value="100000786395051"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.latimes.com/world/la-fg-britain-jo-cox-20160618-snap-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-5765ce07/turbine/la-fg-britain-jo-cox-20160618-snap"/>
+    <cse:Attribute name="og:site_name" value="latimes.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@latimes"/>
+    <cse:Attribute name="y_key" value="cee2fe4077f8d050"/>
+    <cse:Attribute name="msvalidate.01" value="AAC9C18F70AC386BC4DCF4DDF9BF1786"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/deeplinkid/87611960"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="World"/>
+    <cse:Attribute name="headline" value="Suspect in slaying of British lawmaker tells court his name is &apos;Death to traitors, freedom for Britain&apos;"/>
+    <cse:Attribute name="image" value="http://www.trbimg.com/img-5765234d/turbine/la-1466246149-snap-photo/650/650x366"/>
+    <cse:Attribute name="author" value="Christina Boyle"/>
+    <cse:Attribute name="datepublished" value="2016-06-18T12:45:00PDT"/>
+    <cse:Attribute name="articlebody" value="The man accused of killing British lawmaker Jo Cox defiantly refused to give his name in court Saturday, instead identifying himself as “Death to traitors, freedom for Britain.” Thomas..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-5765ce07/turbine/la-fg-britain-jo-cox-20160618-snap"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5w2AYJedoSnrDE6e4SlOd3u_lhUXh18JE2nChP9cvRnbUP5jgDGYp2s"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.telegraph.co.uk/news/2016/06/20/jo-cox-death-mps-recalled-to-parliament-to-pay-tribute-to-murder/</id>
+  <updated>1970-01-17T23:23:20.838Z</updated>
+  <title type="html">Jo Cox death: Murdered MP&amp;#39;s husband, children and parents hold &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="http://www.telegraph.co.uk/news/2016/06/20/jo-cox-death-mps-recalled-to-parliament-to-pay-tribute-to-murder/" title="www.telegraph.co.uk"/>
+  <summary type="html">At an initial hearing at Westminster Magistrates&amp;#39; Court on Saturday, Mair &lt;b&gt;refused&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;to give his name&lt;/b&gt;, instead saying he was called &amp;quot;Death to traitors, freedom for&amp;nbsp;...</summary>
+  <cse:cacheId>-YfnF8xFGrcJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.telegraph.co.uk/.../jo-cox-death-mps-recalled-to-parliament-to-pay- tribute-to-murder/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
+    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <cse:Attribute name="tmgads.channel" value="news"/>
+    <cse:Attribute name="tmgads.section" value="news-2016"/>
+    <cse:Attribute name="tmgads.zone" value="news.2016.06.20"/>
+    <cse:Attribute name="tmgads.articleid" value="AmLRTNl76rHF"/>
+    <cse:Attribute name="tmgads.pagetype" value="live"/>
+    <cse:Attribute name="tmgads.level" value="5"/>
+    <cse:Attribute name="tmgads.geo" value="US"/>
+    <cse:Attribute name="tmgads.keywords" value="House of Commons,UK News,Crime,Labour Party,Jo Cox,West Yorkshire,News"/>
+    <cse:Attribute name="dcsext.channel" value="news"/>
+    <cse:Attribute name="dcsext.category" value="2016"/>
+    <cse:Attribute name="dcsext.genre" value="06"/>
+    <cse:Attribute name="dcsext.mlc" value="/news/2016/06/20"/>
+    <cse:Attribute name="dcsext.articleid" value="AmLRTNl76rHF"/>
+    <cse:Attribute name="dcsext.content_type" value="live"/>
+    <cse:Attribute name="dcsext.level" value="5"/>
+    <cse:Attribute name="dcsext.author" value="Leon Watson"/>
+    <cse:Attribute name="dcsext.articlefirstpublished" value="2016-06-20 17:08"/>
+    <cse:Attribute name="dcsext.cf" value="1"/>
+    <cse:Attribute name="dcsext.cd" value="0"/>
+    <cse:Attribute name="dcsext.cn" value="0"/>
+    <cse:Attribute name="dcsext.pd" value="1"/>
+    <cse:Attribute name="og:title" value="Jo Cox death: Murdered MP&apos;s husband, children and parents hold hands as emotionally-charged Commons pays tribute to colleague"/>
+    <cse:Attribute name="og:description" value="Jeremy Corbyn led an emotional series of tributes as MPs gathered at Westminster to pay tribute to Jo Cox who was killed as she prepared to hold a constituency surgery."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="The Telegraph"/>
+    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2016/06/20/jo-cox-death-mps-recalled-to-parliament-to-pay-tribute-to-murder/"/>
+    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/17/100874731RestrictedJoCox-xlarge_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg"/>
+    <cse:Attribute name="twitter:title" value="Jo Cox death: Murdered MP&apos;s husband, children and parents hold hands as emotionally-charged Commons pays tribute to colleague"/>
+    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2016/06/20/jo-cox-death-mps-recalled-to-parliament-to-pay-tribute-to-murder/"/>
+    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/17/100874731RestrictedJoCox-xlarge_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg"/>
+    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
+    <cse:Attribute name="twitter:description" value="Jeremy Corbyn led an emotional series of tributes as MPs gathered at Westminster to pay tribute to Jo Cox who was killed as she prepared to hold a constituency surgery."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="tmgads.businesssegment" value="news"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Jo Cox death: Murdered MP&apos;s husband, children and parents hold hands as emotionally-charged Commons pays tribute to colleague"/>
+    <cse:Attribute name="name" value="Jo Cox death: Murdered MP&apos;s husband, children and parents hold hands as emotionally-charged Commons pays tribute to colleague"/>
+    <cse:Attribute name="datepublished" value="2016-06-20T16:37+0100"/>
+    <cse:Attribute name="articlebody" value="MPs gather for special session in the Commons All wear a single white rose as mark of respect Jo Cox&apos;s family are there, holding hands Thomas Mair, 52, appears at the Old Bailey Jo Cox&apos;s husband..."/>
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/video_previews/j/x/jxb3g5nde6lgbpimfykjj5jpoxb7tjoj-large.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/17/100874731RestrictedJoCox-large_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg"/>
+    <cse:Attribute name="caption" value="MPs have been recalled to Parliament to pay respects to Jo Cox"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Julian Hughes"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Leon Watson"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/18/101055151_Date_18-06-16_PH__Nick_Edwards__Pictured__Flowers_and_tributes_for_Jo_Cox___Caption_Flower-large_trans++y81pHNlW26k7kWS-Prb1ColOLWOzRylj_AnLJvEY95k.jpg"/>
+    <cse:Attribute name="caption" value="Flowers and tributes in Parliament Square, feet away from where MPs and peers gather to give thanks for the life of Jo Cox MP"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Nick Edwards/Nick Edwards"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/20/101201390_Stephen_Kinnock-NEWS-large_trans++U4VkSCAP9sa0v0SswW6iKMrUVPpYNIQ7trOhWOE7qI4.jpg"/>
+    <cse:Attribute name="caption" value="Stephen Kinnock MP"/>
+    <cse:Attribute name="copyrightholder" value="Credit: BBC"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/20/101199823_Portcullis_House-NEWS-large_trans++piVx42joSuAkZ0bE9ijUnGH28ZiNHzwg9svuZLxrn1U.jpg"/>
+    <cse:Attribute name="caption" value="A Union flags flies at half mast over Portcullis House beside the clock face of Queen Elizabeth Tower"/>
+    <cse:Attribute name="copyrightholder" value="Credit: AFP PHOTO/Niklas HALLE&apos;NNIKLAS"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/20/101200124-Rachel_Reeves-NEWS-large_trans++aSjqqHf_SjbuelRlTwRaZIjVzm4LJqjL3Xh0i4eYZLA.png"/>
+    <cse:Attribute name="caption" value="Rachel Reeves"/>
+    <cse:Attribute name="copyrightholder" value="Credit: BBC"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/20/101199829-Cameron-Cox-NEWS-large_trans++gPyu34TAbeEPzQyLk_fdOBAwdj5-FVCI6lp_KvT9jCE.png"/>
+    <cse:Attribute name="caption" value="David Cameron paying tribute to Jo Cox"/>
+    <cse:Attribute name="copyrightholder" value="Credit: BBC"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/20/101199825-white-rose-NEWS-large_trans++_HG0d05H-G0CnwDDvOkuRVU_cqBc37wElxMWqxkYKhA.png"/>
+    <cse:Attribute name="caption" value="MPs in the house all wore a single white rose"/>
+    <cse:Attribute name="copyrightholder" value="Credit: BBC"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/20/101199435-Corbyn-NEWS-large_trans++A5xPpDXjI3R8PVWqlNgp0JEcd6j4l7hgiq7B8pf2fno.png"/>
+    <cse:Attribute name="caption" value="Jeremy Corbyn addressing the house"/>
+    <cse:Attribute name="copyrightholder" value="Credit: BBC"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/18/101029512_Mandatory_Credit_Photo_by_Amer_Ghazzal-REX-Shutterstock_5734341a__Jo_Cox_Fund_set_up_by_fr-large_trans++pdpCsDEHI-S5JwZr3nT67GymwfxgHQuryvrYAjO8QpY.jpg"/>
+    <cse:Attribute name="caption" value="The Jo Cox Fund set up by friends and family Jo Cox Fund"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Amer Ghazzal/REX/Shutterstock"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/20/101064313_Miners_at_Lofthouse_West_Yorkshire_remember_those_who_lost_their_lives_suffered_injuri-large_trans++uHA4qtcp5ppz4ibFW89vjsBpVgsxWeiQWLNEI1x-ZtQ.png"/>
+    <cse:Attribute name="caption" value="People will also honour Bernard Kenny, who stepped in to try and help Mrs Cox"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/18/Court_artist_sketch_by_Elizabeth_Cook_of_Thomas_Mair_in_the_dock_at_W-xlarge_trans++0Iim1wRawAAvJ9qCpH_XcsimS98hdv9aofnSgdowbOE.jpg"/>
+    <cse:Attribute name="caption" value="Court artist sketch of Thomas Mair in the dock at Westminster Magistrates&apos; Court in London"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Elizabeth Cook/PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/16/100864488_Jo-Cox-NEWS-xlarge_trans++aE4CQrYfJfgCxcl2ik4Et3nJshQy3W6-RWibPpbIHX4.jpg"/>
+    <cse:Attribute name="caption" value="Labour&apos;s Jo Cox who was murdered last week"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Julian Hughes/Mirrorpix"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2016/06/17/100874731RestrictedJoCox-large_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="177"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIIs1q_IMitDaFUOHZnmb-uZxfQ2zHeTGZ3UcJLvD2_Ffd9cEjeltvC-c"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.latimes.com/topic/crime-law-justice/crime/homicide/02001001-topic.html</id>
+  <updated>1970-01-17T23:23:20.838Z</updated>
+  <title type="html">Homicide Articles, Photos, and Videos - Los Angeles Times</title>
+  <link href="http://www.latimes.com/topic/crime-law-justice/crime/homicide/02001001-topic.html" title="www.latimes.com"/>
+  <summary type="html">The man accused of killing British lawmaker Jo Cox defiantly &lt;b&gt;refused to give his&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;name&lt;/b&gt; in court Saturday, instead identifying himself as “Death to traitors, freedom&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>5NYEMw0E__kJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.latimes.com/topic/crime-law-justice/.../02001001-topic.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="lalvp16.13"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/sectionfront/"/>
+    <cse:Attribute name="fb:page_id" value="5863113009"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.bbc.com/news/uk-england-leeds-36574451</id>
+  <updated>1970-01-17T23:23:20.838Z</updated>
+  <title type="html">Jo Cox MP death: Thomas Mair appears at Old Bailey - BBC News</title>
+  <link href="http://www.bbc.com/news/uk-england-leeds-36574451" title="www.bbc.com"/>
+  <summary type="html">At an initial hearing at Westminster Magistrates&amp;#39; Court on Saturday he &lt;b&gt;refused to&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;give his name&lt;/b&gt;, instead saying he was called &amp;quot;Death to traitors, freedom for&amp;nbsp;...</summary>
+  <cse:cacheId>w_566h_HDUYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.bbc.com/news/uk-england-leeds-36574451</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="x-country" value="us"/>
+    <cse:Attribute name="x-audience" value="US"/>
+    <cse:Attribute name="cps_audience" value="US"/>
+    <cse:Attribute name="cps_changequeueid" value="279605035"/>
+    <cse:Attribute name="og:title" value="Jo Cox MP death: Thomas Mair appears at Old Bailey - BBC News"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="A man charged with the murder of Labour MP Jo Cox appears before a judge at the Old Bailey."/>
+    <cse:Attribute name="og:site_name" value="BBC News"/>
+    <cse:Attribute name="og:locale" value="en_GB"/>
+    <cse:Attribute name="og:article:author" value="BBC News"/>
+    <cse:Attribute name="og:article:section" value="Leeds &amp; West Yorkshire"/>
+    <cse:Attribute name="og:url" value="http://www.bbc.com/news/uk-england-leeds-36574451"/>
+    <cse:Attribute name="og:image" value="http://ichef.bbci.co.uk/news/1024/cpsprodpb/16FBF/production/_90034149_thomas_mair.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@BBCWorld"/>
+    <cse:Attribute name="twitter:title" value="Jo Cox MP death: Thomas Mair appears at Old Bailey - BBC News"/>
+    <cse:Attribute name="twitter:description" value="A man charged with the murder of Labour MP Jo Cox appears before a judge at the Old Bailey."/>
+    <cse:Attribute name="twitter:creator" value="@BBCWorld"/>
+    <cse:Attribute name="twitter:image:src" value="http://ichef.bbci.co.uk/news/560/cpsprodpb/16FBF/production/_90034149_thomas_mair.jpg"/>
+    <cse:Attribute name="twitter:image:alt" value="Thomas Mair, sketched by a court artist"/>
+    <cse:Attribute name="twitter:domain" value="www.bbc.com"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="BBC News"/>
+    <cse:Attribute name="application-name" value="BBC News"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static.bbci.co.uk/news/1.132.1223/windows-eight-icon-144x144.png"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#bb1919"/>
+    <cse:Attribute name="mobile-web-app-capable" value="yes"/>
+    <cse:Attribute name="theme-color" value="#bb1919"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
+    <cse:Attribute name="fb:admins" value="100004154058350"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://ichef.bbci.co.uk/news/660/cpsprodpb/1EF3/production/_90032970_thomas_mair.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT13UZ1yxdEJSpNQR6tquVjvLvfOcROyblOn0zM7P9u0a9At64fz9TubPE"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.mirror.co.uk/news/uk-news/thomas-mair-appears-court-charged-8237007</id>
+  <updated>1970-01-17T23:23:20.838Z</updated>
+  <title type="html">Thomas Mair appears in court charged with murder of Labour MP Jo &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="http://www.mirror.co.uk/news/uk-news/thomas-mair-appears-court-charged-8237007" title="www.mirror.co.uk"/>
+  <summary type="html">At an initial hearing at Westminster Magistrates&amp;#39; Court on Saturday, Mair &lt;b&gt;refused&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;to give his name&lt;/b&gt;, instead saying he was called &amp;quot;Death to traitors, freedom for&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.mirror.co.uk/news/uk.../thomas-mair-appears-court-charged-8237007</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Jo Cox,Terrorism,Court case"/>
+    <cse:Attribute name="article:id" value="mirror-8237007"/>
+    <cse:Attribute name="author" value="Richard Wheatstone"/>
+    <cse:Attribute name="fb:page_id" value="6149699161"/>
+    <cse:Attribute name="fb:app_id" value="123792601022133"/>
+    <cse:Attribute name="og:site_name" value="mirror"/>
+    <cse:Attribute name="og:language" value="en"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Tommy Mair has new reply after being asked name again in second court hearing"/>
+    <cse:Attribute name="og:url" value="http://www.mirror.co.uk/news/uk-news/thomas-mair-appears-court-charged-8237007"/>
+    <cse:Attribute name="og:tags" value="Terrorism, Court case, Jo Cox"/>
+    <cse:Attribute name="article:tag" value="Terrorism"/>
+    <cse:Attribute name="og:description" value="Unlike Saturday&apos;s hearing at Westminster Magistrates Court - when asked to confirm he was Thomas Mair at the Old Bailey today, the 52-year-old replied: &quot;Yes, I am&quot;"/>
+    <cse:Attribute name="og:section" value="UK News"/>
+    <cse:Attribute name="og:image" value="http://i2.mirror.co.uk/incoming/article8210586.ece/ALTERNATES/s1200/13445482_844099719055934_1100750322181356669_n.jpg"/>
+    <cse:Attribute name="article:published_time" value="2016-06-20T14:25:17+01:00"/>
+    <cse:Attribute name="article:modified_time" value="2016-06-20T15:35:57+01:00"/>
+    <cse:Attribute name="article:expiration_time" value="2016-07-20T15:35:57+01:00"/>
+    <cse:Attribute name="article:section" value="UK News"/>
+    <cse:Attribute name="msvalidate.01" value="17DA4C91A126705A8B1E2A5FD7CAC9EF"/>
+    <cse:Attribute name="p:domain_verify" value="577b698d862f6a62889e9d497b953b65"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="News"/>
+    <cse:Attribute name="url" value="News"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="UK News"/>
+    <cse:Attribute name="url" value="UK News"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Jo Cox"/>
+    <cse:Attribute name="url" value="Jo Cox"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Thomas Mair appears in court charged with murder of Labour MP Jo Cox"/>
+    <cse:Attribute name="name" value="Thomas Mair appears in court charged with murder of Labour MP Jo Cox"/>
+    <cse:Attribute name="datepublished" value="2016-06-20T14:25+01:00"/>
+    <cse:Attribute name="datemodified" value="2016-06-20T15:35+01:00"/>
+    <cse:Attribute name="author" value="Richard Wheatstone"/>
+    <cse:Attribute name="description" value="Unlike Saturday&apos;s hearing at Westminster Magistrates Court - when asked to confirm he was Thomas Mair at the Old Bailey today, the 52-year-old replied: &quot;Yes, I am&quot;"/>
+    <cse:Attribute name="image" value="http://i3.mirror.co.uk/incoming/article8210586.ece/ALTERNATES/s615/13445482_844099719055934_1100750322181356669_n.jpg"/>
+    <cse:Attribute name="articlebody" value="The man accused of murdering Labour MP Jo Cox has been remanded in custody after appearing at the Old Bailey. Mrs Cox, 41, died after being shot and stabbed in the street outside her constituency..."/>
+   </cse:DataObject>
+   <cse:DataObject type="videoobject">
+    <cse:Attribute name="name" value="Tommy Mair arrives at Westminster Magistrates Court"/>
+    <cse:Attribute name="description" value="Shots of what is thought to be Thomas Mair, 52, from Birstall in West Yorkshire, arriving in a van at Westminster Magistrates&apos; Court in London charged with the murder of MP Jo Cox, who was..."/>
+    <cse:Attribute name="duration" value="PT0M30S"/>
+    <cse:Attribute name="thumbnailurl" value="http://brightcove01.brightcove.com/24/4221396001/201606/1920/4221396001_4953050972001_4952593836001-vs.jpg?pubId=4221396001"/>
+    <cse:Attribute name="uploaddate" value="2016-06-18T08:54:56Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.mirror.co.uk/incoming/article8210586.ece/ALTERNATES/s1200/13445482_844099719055934_1100750322181356669_n.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxFzTjSYJKv1w3ImqVayNniy6i7B_fNmAqHobFzbEBrbUmXKHEKKVCvL5j"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.msn.com/en-gb/news/uknews/jo-cox-murder-accused-makes-first-crown-court-appearance/ar-AAhkI9z</id>
+  <updated>1970-01-17T23:23:20.838Z</updated>
+  <title type="html">Jo Cox murder accused makes first crown court appearance</title>
+  <link href="http://www.msn.com/en-gb/news/uknews/jo-cox-murder-accused-makes-first-crown-court-appearance/ar-AAhkI9z" title="www.msn.com"/>
+  <summary type="html">At an initial hearing at Westminster Magistrates&amp;#39; Court on Saturday, Mair &lt;b&gt;refused&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;to give his name&lt;/b&gt;, instead saying he was called &amp;quot;Death to traitors, freedom for&amp;nbsp;...</summary>
+  <cse:cacheId>wO8Z9pYTrF8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.msn.com/en-gb/news/uknews/jo-cox.../ar-AAhkI9z</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="By Emily Pennink, Press Association"/>
+   </cse:DataObject>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="application-name" value="Jo Cox murder accused makes first crown court appearance"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#1e1e1e"/>
+    <cse:Attribute name="msapplication-tileimage" value="//static-entertainment-eus-s-msn-com.akamaized.net/sc/1f/08ced4.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <cse:Attribute name="sharing_url" value="http://a.msn.com/01/en-gb/AAhkI9z"/>
+    <cse:Attribute name="og:url" value="http://www.msn.com/en-gb/news/uknews/jo-cox-murder-accused-makes-first-crown-court-appearance/ar-AAhkI9z"/>
+    <cse:Attribute name="og:title" value="Jo Cox murder accused makes first crown court appearance"/>
+    <cse:Attribute name="og:description" value="The man accused of murdering Labour MP Jo Cox has been remanded in custody after appearing before a senior judge at the Old Bailey."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="MSN"/>
+    <cse:Attribute name="og:image" value="http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAhjyzh.img"/>
+    <cse:Attribute name="fb:app_id" value="1966743960216840"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Emily Pennink, Press Association"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlebody" value="© PA WIRE Jo Cox shooting The man accused of murdering Labour MP Jo Cox has been remanded in custody after appearing before a senior judge at the Old Bailey.Mrs Cox, 41, died after being shot..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAhjyzh.img"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.mirror.co.uk/news/uk-news/tommy-mair-set-appear-court-8234555</id>
+  <updated>1970-01-17T23:23:20.838Z</updated>
+  <title type="html">Tommy Mair set to appear in court charged with murder of Labour &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="http://www.mirror.co.uk/news/uk-news/tommy-mair-set-appear-court-8234555" title="www.mirror.co.uk"/>
+  <summary type="html">In a preliminary hearing at Westminster Magistrates&amp;#39; Court on Saturday, Mair &lt;br&gt;
+&lt;b&gt;refused to give his name&lt;/b&gt;, instead saying he was called &amp;quot;Death to traitors, freedom&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.mirror.co.uk/news/uk-news/tommy-mair-set-appear-court-8234555</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Jo Cox,Murder,Court case,Murder trial,Crime"/>
+    <cse:Attribute name="article:id" value="mirror-8234555"/>
+    <cse:Attribute name="author" value="Richard Wheatstone"/>
+    <cse:Attribute name="fb:page_id" value="6149699161"/>
+    <cse:Attribute name="fb:app_id" value="123792601022133"/>
+    <cse:Attribute name="og:site_name" value="mirror"/>
+    <cse:Attribute name="og:language" value="en"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Tommy Mair set to appear in court charged with murder of Labour MP Jo Cox"/>
+    <cse:Attribute name="og:url" value="http://www.mirror.co.uk/news/uk-news/tommy-mair-set-appear-court-8234555"/>
+    <cse:Attribute name="og:tags" value="Murder, Court case, Murder trial, Crime, Jo Cox"/>
+    <cse:Attribute name="article:tag" value="Murder"/>
+    <cse:Attribute name="og:description" value="The mum-of-two died after being shot and stabbed in the street outside her constituency surgery in Birstall, near Leeds, on Thursday"/>
+    <cse:Attribute name="og:section" value="UK News"/>
+    <cse:Attribute name="og:image" value="http://i2.mirror.co.uk/incoming/article8210586.ece/ALTERNATES/s1200/13445482_844099719055934_1100750322181356669_n.jpg"/>
+    <cse:Attribute name="article:published_time" value="2016-06-20T09:14:34+01:00"/>
+    <cse:Attribute name="article:modified_time" value="2016-06-20T09:16:01+01:00"/>
+    <cse:Attribute name="article:expiration_time" value="2016-07-20T09:16:01+01:00"/>
+    <cse:Attribute name="article:section" value="UK News"/>
+    <cse:Attribute name="msvalidate.01" value="17DA4C91A126705A8B1E2A5FD7CAC9EF"/>
+    <cse:Attribute name="p:domain_verify" value="577b698d862f6a62889e9d497b953b65"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="News"/>
+    <cse:Attribute name="url" value="News"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="UK News"/>
+    <cse:Attribute name="url" value="UK News"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Jo Cox"/>
+    <cse:Attribute name="url" value="Jo Cox"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Tommy Mair set to appear in court charged with murder of Labour MP Jo Cox"/>
+    <cse:Attribute name="name" value="Tommy Mair set to appear in court charged with murder of Labour MP Jo Cox"/>
+    <cse:Attribute name="datepublished" value="2016-06-20T09:14+01:00"/>
+    <cse:Attribute name="datemodified" value="2016-06-20T09:16+01:00"/>
+    <cse:Attribute name="author" value="Richard Wheatstone"/>
+    <cse:Attribute name="description" value="The mum-of-two died after being shot and stabbed in the street outside her constituency surgery in Birstall, near Leeds, on Thursday"/>
+    <cse:Attribute name="image" value="http://i3.mirror.co.uk/incoming/article8210586.ece/ALTERNATES/s615/13445482_844099719055934_1100750322181356669_n.jpg"/>
+    <cse:Attribute name="articlebody" value="A man is set to appear in court today accused of murdering Labour MP Jo Cox. The mum-of-two died after being shot and stabbed in the street outside her constituency surgery in Birstall, near..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.mirror.co.uk/incoming/article8226291.ece/ALTERNATES/s615b/18DEC_Thomas-Mair.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShCkZvysFYna8iV_7owBC2Cdc07yrLptIajJm54mmx4MFvDJOgOIESBcE"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.latimes.com/topic/crime-law-justice/crime/02001000-topic.html</id>
+  <updated>1970-01-17T23:23:20.838Z</updated>
+  <title type="html">Crime Articles, Photos, and Videos - Los Angeles Times</title>
+  <link href="http://www.latimes.com/topic/crime-law-justice/crime/02001000-topic.html" title="www.latimes.com"/>
+  <summary type="html">The man accused of killing British lawmaker Jo Cox defiantly &lt;b&gt;refused to give his&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;name&lt;/b&gt; in court Saturday, instead identifying himself as “Death to traitors, freedom&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>0zOVrR7goW8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.latimes.com/topic/crime-law-justice/.../02001000-topic.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="lalvp11.13"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/sectionfront/"/>
+    <cse:Attribute name="fb:page_id" value="5863113009"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.latimes.com/world/latest/</id>
+  <updated>1970-01-17T23:23:20.838Z</updated>
+  <title type="html">LATEST IN WORLD - Los Angeles Times</title>
+  <link href="http://www.latimes.com/world/latest/" title="www.latimes.com"/>
+  <summary type="html">The man accused of killing British lawmaker Jo Cox defiantly &lt;b&gt;refused to give his&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;name&lt;/b&gt; in court Saturday, instead identifying himself as “Death to traitors, freedom&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>fuWIWPu6G7oJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.latimes.com/world/latest/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="lalvp16.13"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/sectionfront/world/latest/"/>
+    <cse:Attribute name="fb:page_id" value="5863113009"/>
+    <cse:Attribute name="fb:admins" value="100000786395051"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-56fd643a/turbine/la-l-a-times-logo-20160331/600"/>
+    <cse:Attribute name="p:domain_verify" value="c5a826a91e9ecaaa414e2c708f25a0c6"/>
+    <cse:Attribute name="y_key" value="cee2fe4077f8d050"/>
+    <cse:Attribute name="msvalidate.01" value="AAC9C18F70AC386BC4DCF4DDF9BF1786"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-56fd643a/turbine/la-l-a-times-logo-20160331/600"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.bostonglobe.com/news/world/2016/06/17/justice-one-last-time-era-nazi-reckoning-comes-close/gEmpvILLEzrHlwoDcdAzLO/story.html</id>
+  <updated>1970-01-17T23:23:20.838Z</updated>
+  <title type="html">Justice, one last time, as era of Nazi reckoning comes to a close &lt;b&gt;...&lt;/b&gt;</title>
+  <link href="https://www.bostonglobe.com/news/world/2016/06/17/justice-one-last-time-era-nazi-reckoning-comes-close/gEmpvILLEzrHlwoDcdAzLO/story.html" title="www.bostonglobe.com"/>
+  <summary type="html">En route to that sentencing, I encountered a middle-aged West German man who&lt;br&gt;
+, like so many Germans still, &lt;b&gt;refused to give his name&lt;/b&gt;, but knew that he&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">https://www.bostonglobe.com/news/world/2016/06/17/.../story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="eomportal-instanceid" value="14"/>
+    <cse:Attribute name="eomportal-id" value="1420670"/>
+    <cse:Attribute name="eomportal-loid" value="4.1.4257501156"/>
+    <cse:Attribute name="eomportal-uuid" value="d77b9844-34ea-11e6-91d2-8a43fffdad75"/>
+    <cse:Attribute name="eomportal-lastupdate" value="Mon Jun 20 22:00:39 EDT 2016"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="DETMOLD, Germany — In many ways, it is fitting that Germany’s last trial of a former SS guard at Auschwitz played out far from the spotlight, in this pretty provincial town of some 70,000 souls."/>
+    <cse:Attribute name="og:title" value="Justice, one last time, as era of Nazi reckoning comes to a close - The Boston Globe"/>
+    <cse:Attribute name="og:site_name" value="BostonGlobe.com"/>
+    <cse:Attribute name="fb:admins" value="100001044693856"/>
+    <cse:Attribute name="fb:app_id" value="103933749691726"/>
+    <cse:Attribute name="fb:pages" value="5637143257"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/globe"/>
+    <cse:Attribute name="flashsale" value="false"/>
+    <cse:Attribute name="twitter:account_id" value="95431448"/>
+    <cse:Attribute name="news_keywords" value="Alison Smale, Leon  Schwarzbaum, Thomas  Walther, Adolf  Eichmann, John  Demjanjuk,New York Times, Mossad, Justice Department"/>
+    <cse:Attribute name="og:url" value="https://www.bostonglobe.com/news/world/2016/06/17/justice-one-last-time-era-nazi-reckoning-comes-close/gEmpvILLEzrHlwoDcdAzLO/story.html"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="BostonGlobe"/>
+    <cse:Attribute name="og:image" value="http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2016/06/17/BostonGlobe.com/Foreign/Images/05372492.jpg"/>
+    <cse:Attribute name="viewport" value="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="inlanguage" value="en-US"/>
+    <cse:Attribute name="genre" value="news"/>
+    <cse:Attribute name="articlesection" value="World"/>
+    <cse:Attribute name="headline" value="Justice, one last time, as era of Nazi reckoning comes to a close"/>
+    <cse:Attribute name="datepublished" value="2016-06-18 00:23"/>
+    <cse:Attribute name="articlebody" value="DETMOLD, Germany — In many ways, it is fitting that Germany’s last trial of a former SS guard at Auschwitz played out far from the spotlight, in this pretty provincial town of some 70,000..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2016/06/17/BostonGlobe.com/Foreign/Images/05372492.jpg"/>
+    <cse:Attribute name="creator" value="BERND THISSEN"/>
+    <cse:Attribute name="description" value="Former SS guard Reinhold Hanning, 94, was sentenced to five years in prison on Friday as an accessory to at least 170,000 deaths during his time at at the Auschwitz-Birkenau camp."/>
+    <cse:Attribute name="caption" value="Former SS guard Reinhold Hanning, 94, was sentenced to five years in prison on Friday as an accessory to at least 170,000 deaths during his time at at the Auschwitz-Birkenau camp."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2016/06/17/BostonGlobe.com/Foreign/Images/05372492.jpg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
 </feed>
