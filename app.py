@@ -1,4 +1,6 @@
 from flask import Flask, render_template, g
+from flask import Blueprint
+from flask.ext.paginate import Pagination
 from sqlite3 import connect
 from datetime import datetime
 import re
