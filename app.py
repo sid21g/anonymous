@@ -1,6 +1,5 @@
-from flask import Flask, render_template, g
-from flask import Blueprint
-from flask.ext.paginate import Pagination
+from flask import Flask, render_template, g, current_app, request
+from flask_paginate import Pagination
 from sqlite3 import connect
 from datetime import datetime
 import re
@@ -28,6 +27,7 @@ def connect_db():
 @app.before_request
 def before_request():
     g.db = connect_db()
+    g.cur = g.db.cursor()
 
 
 @app.teardown_request
@@ -58,7 +58,7 @@ def datetimeformat(value, date_format='%B %e, %Y'):
     return d.strftime(date_format)
 
 
-@app.template_filter('clean_content')
+@app.template_filter('x`')
 def clean_content(content):
     content = content.strip()
     content = content.replace('\n', ' ').replace('\r', '')
@@ -104,6 +104,46 @@ def index():
     return render_template('index.html', entries=results, outlets=outlets)
 
 
+@app.route('/page/')
+def pages():
+    g.cur.execute('select count(*) from anon')
+    total = g.cur.fetchone()[0]
+    page, per_page, offset = get_page_items()
+    sql = 'SELECT anon.source, ' \
+          'outlets.name, ' \
+          'anon.phrase, ' \
+          'anon.title, ' \
+          'anon.link, ' \
+          'anon.content, ' \
+          'anon.date_entered ' \
+          'FROM anon ' \
+          'LEFT OUTER JOIN outlets ' \
+          'ON anon.source = outlets.url ' \
+          'ORDER BY date_entered ' \
+          'DESC LIMIT {}, {}'.format(offset, per_page)
+    g.cur.execute(sql)
+    results = g.cur.fetchall()
+    pagination = get_pagination(page=page,
+                                per_page=per_page,
+                                total=total,
+                                record_name='results',
+                                format_total=True,
+                                format_number=True,
+                                )
+    outlets_sql = "SELECT DISTINCT outlets.name, " \
+                  "outlets.url FROM outlets " \
+                  "JOIN anon ON outlets.url = anon.source " \
+                  "ORDER BY outlets.name"
+    g.cur.execute(outlets_sql)
+    outlets = g.cur.fetchall()
+    return render_template('pages.html',
+                           entries=results,
+                           page=page,
+                           per_page=per_page,
+                           outlets=outlets,
+                           pagination=pagination)
+
+
 @app.route('/outlet/<outlet_name>/')
 def outlet(outlet_name):
     masthead = parse.unquote_plus(outlet_name)
@@ -135,6 +175,39 @@ def outlet(outlet_name):
                            entries=results,
                            masthead=masthead,
                            outlets=outlets)
+
+
+def get_css_framework():
+    return current_app.config.get('CSS_FRAMEWORK', 'bootstrap3')
+
+
+def get_link_size():
+    return current_app.config.get('LINK_SIZE', 'sm')
+
+
+def show_single_page_or_not():
+    return current_app.config.get('SHOW_SINGLE_PAGE', False)
+
+
+def get_page_items():
+    page = int(request.args.get('page', 1))
+    per_page = request.args.get('per_page')
+    if not per_page:
+        per_page = current_app.config.get('PER_PAGE', 10)
+    else:
+        per_page = int(per_page)
+
+    offset = (page - 1) * per_page
+    return page, per_page, offset
+
+
+def get_pagination(**kwargs):
+    kwargs.setdefault('record_name', 'records')
+    return Pagination(css_framework=get_css_framework(),
+                      link_size=get_link_size(),
+                      show_single_page=show_single_page_or_not(),
+                      **kwargs
+                      )
 
 
 if __name__ == '__main__':
