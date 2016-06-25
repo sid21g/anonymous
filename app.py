@@ -106,8 +106,7 @@ def index():
 
 @app.route('/page/')
 def pages():
-    g.cur.execute('select count(*) from anon')
-    total = g.cur.fetchone()[0]
+    total = query_db('select count(*) from anon')
     page, per_page, offset = get_page_items()
     sql = 'SELECT anon.source, ' \
           'outlets.name, ' \
