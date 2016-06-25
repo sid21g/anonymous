@@ -36,7 +36,7 @@ def teardown_request(exception):
         g.db.close()
 
 
-def query_db(query, args=(), one=False):
+def query_db(query, args=(), one=True):
     cur = g.db.execute(query, args)
     rv = [dict((cur.description[idx][0], value)
                for idx, value in enumerate(row)) for row in cur.fetchall()]
@@ -58,7 +58,7 @@ def datetimeformat(value, date_format='%B %e, %Y'):
     return d.strftime(date_format)
 
 
-@app.template_filter('x`')
+@app.template_filter('clean_content')
 def clean_content(content):
     content = content.strip()
     content = content.replace('\n', ' ').replace('\r', '')
@@ -78,6 +78,8 @@ def plus_for_spaces(content):
 
 @app.route('/')
 def index():
+    total = query_db('select count(*) from anon', '', one=True)
+    page, per_page, offset = get_page_items()
     results = query_db('SELECT anon.source, '
                        'outlets.name, '
                        'anon.phrase, '
@@ -93,7 +95,14 @@ def index():
                        'anon.source = outlets.url '
                        'ORDER BY '
                        'date_entered DESC '
-                       'LIMIT 250')
+                       'LIMIT ?, ?', (offset, per_page))
+    pagination = get_pagination(page=page,
+                                per_page=per_page,
+                                total=next(iter(total.values())),
+                                record_name='results',
+                                format_total=True,
+                                format_number=True,
+                                )
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
                        "outlets.url "
@@ -101,41 +110,7 @@ def index():
                        "JOIN anon "
                        "ON outlets.url = anon.source "
                        "ORDER BY outlets.name")
-    return render_template('index.html', entries=results, outlets=outlets)
-
-
-@app.route('/page/')
-def pages():
-    total = query_db('select count(*) from anon')
-    page, per_page, offset = get_page_items()
-    sql = 'SELECT anon.source, ' \
-          'outlets.name, ' \
-          'anon.phrase, ' \
-          'anon.title, ' \
-          'anon.link, ' \
-          'anon.content, ' \
-          'anon.date_entered ' \
-          'FROM anon ' \
-          'LEFT OUTER JOIN outlets ' \
-          'ON anon.source = outlets.url ' \
-          'ORDER BY date_entered ' \
-          'DESC LIMIT {}, {}'.format(offset, per_page)
-    g.cur.execute(sql)
-    results = g.cur.fetchall()
-    pagination = get_pagination(page=page,
-                                per_page=per_page,
-                                total=total,
-                                record_name='results',
-                                format_total=True,
-                                format_number=True,
-                                )
-    outlets_sql = "SELECT DISTINCT outlets.name, " \
-                  "outlets.url FROM outlets " \
-                  "JOIN anon ON outlets.url = anon.source " \
-                  "ORDER BY outlets.name"
-    g.cur.execute(outlets_sql)
-    outlets = g.cur.fetchall()
-    return render_template('pages.html',
+    return render_template('index.html',
                            entries=results,
                            page=page,
                            per_page=per_page,
