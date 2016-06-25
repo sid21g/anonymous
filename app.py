@@ -96,13 +96,6 @@ def index():
                        'ORDER BY '
                        'date_entered DESC '
                        'LIMIT ?, ?', (offset, per_page))
-    pagination = get_pagination(page=page,
-                                per_page=per_page,
-                                total=next(iter(total.values())),
-                                record_name='results',
-                                format_total=True,
-                                format_number=True,
-                                )
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
                        "outlets.url "
@@ -110,6 +103,13 @@ def index():
                        "JOIN anon "
                        "ON outlets.url = anon.source "
                        "ORDER BY outlets.name")
+    pagination = get_pagination(page=page,
+                                per_page=per_page,
+                                total=next(iter(total.values())),
+                                record_name='results',
+                                format_total=True,
+                                format_number=True,
+                                )
     return render_template('index.html',
                            entries=results,
                            page=page,

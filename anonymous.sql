@@ -45,4 +45,16 @@ SELECT link FROM anon WHERE date_entered = '2016-06-20';
 
 SELECT * FROM anon;
 
-
+SELECT
+  anon.source,
+  outlets.name,
+  anon.phrase,
+  anon.title,
+  anon.link,
+  anon.content,
+  anon.date_entered
+FROM anon
+  LEFT OUTER JOIN outlets ON anon.source = outlets.url
+ORDER BY date_entered
+  DESC
+LIMIT 100, 10;
