@@ -27,7 +27,6 @@ def connect_db():
 @app.before_request
 def before_request():
     g.db = connect_db()
-    g.cur = g.db.cursor()
 
 
 @app.teardown_request
@@ -36,12 +35,12 @@ def teardown_request(exception):
         g.db.close()
 
 
-def query_db(query, args=(), one=True):
+def query_db(query, args=(), one=False):
     cur = g.db.execute(query, args)
     rv = [dict((cur.description[idx][0], value)
                for idx, value in enumerate(row)) for row in cur.fetchall()]
     return (rv[0] if rv else None) if one else rv
-
+    
 
 def fetch_outlet_url(outlet_name):
     outlet_name = parse.unquote_plus(outlet_name)
@@ -106,9 +105,9 @@ def index():
     pagination = get_pagination(page=page,
                                 per_page=per_page,
                                 total=next(iter(total.values())),
-                                record_name='results',
                                 format_total=True,
                                 format_number=True,
+                                display_msg = '',
                                 )
     return render_template('index.html',
                            entries=results,
@@ -123,6 +122,8 @@ def outlet(outlet_name):
     masthead = parse.unquote_plus(outlet_name)
     outlet_name_dict = fetch_outlet_url(outlet_name)
     outlet_url = outlet_name_dict['url']
+    total = query_db('select count(*) from anon LEFT OUTER JOIN outlets ON anon.source = outlets.url WHERE anon.source = ?', (outlet_url,), one=True)
+    page, per_page, offset = get_page_items()
     results = query_db("SELECT "
                        "anon.link, "
                        "outlets.name, "
@@ -137,7 +138,7 @@ def outlet(outlet_name):
                        "ON anon.source = outlets.url "
                        "WHERE anon.source = ? "
                        "ORDER BY anon.date_entered DESC "
-                       "LIMIT 250", (outlet_url,))
+                       "LIMIT ?, ?", (outlet_url, offset, per_page))
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
                        "outlets.url "
@@ -145,10 +146,20 @@ def outlet(outlet_name):
                        "JOIN anon "
                        "ON outlets.url = anon.source "
                        "ORDER BY outlets.name")
+    pagination = get_pagination(page=page,
+                                per_page=per_page,
+                                total=next(iter(total.values())),
+                                format_total=True,
+                                format_number=True,
+                                display_msg=''
+                                )
     return render_template('outlet.html',
                            entries=results,
+                           page=page,
+                           per_page=per_page,
                            masthead=masthead,
-                           outlets=outlets)
+                           outlets=outlets,
+                           pagination=pagination)
 
 
 def get_css_framework():
@@ -167,7 +178,7 @@ def get_page_items():
     page = int(request.args.get('page', 1))
     per_page = request.args.get('per_page')
     if not per_page:
-        per_page = current_app.config.get('PER_PAGE', 10)
+        per_page = current_app.config.get('PER_PAGE', 20)
     else:
         per_page = int(per_page)
 
