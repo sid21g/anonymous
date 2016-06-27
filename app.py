@@ -75,6 +75,14 @@ def plus_for_spaces(content):
     return content
 
 
+@freezer.register_generator
+def index():
+    page, per_page, offset = get_page_items()
+    print(page)
+    page = '?page=' + str(page)
+    yield {'index': page }
+
+
 @app.route('/')
 def index():
     total = query_db('select count(*) from anon', '', one=True)
@@ -151,7 +159,7 @@ def outlet(outlet_name):
                                 total=next(iter(total.values())),
                                 format_total=True,
                                 format_number=True,
-                                display_msg=''
+                                display_msg='',
                                 )
     return render_template('outlet.html',
                            entries=results,
