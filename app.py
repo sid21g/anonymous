@@ -44,7 +44,7 @@ def query_db(query, args=(), one=False):
 def fetch_outlet_url(outlet_name):
     outlet_name = parse.unquote_plus(outlet_name)
     outlet_url = query_db(
-        "SELECT url FROM outlets WHERE name = ?",
+        "SELECT source FROM outlets WHERE name = ?",
         (outlet_name,),
         one=True)
     return outlet_url
@@ -88,16 +88,16 @@ def index():
                        'LEFT OUTER JOIN '
                        'outlets '
                        'ON '
-                       'anon.source = outlets.url '
+                       'anon.source = outlets.source '
                        'ORDER BY '
                        'date_entered DESC '
                        'LIMIT 250')
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
-                       "outlets.url "
+                       "outlets.source "
                        "FROM outlets "
                        "JOIN anon "
-                       "ON outlets.url = anon.source "
+                       "ON outlets.source = anon.source "
                        "ORDER BY outlets.name")
     return render_template('index.html', entries=results, outlets=outlets)
 
@@ -118,16 +118,16 @@ def outlet(outlet_name):
                        "FROM "
                        "anon "
                        "LEFT OUTER JOIN outlets "
-                       "ON anon.source = outlets.url "
+                       "ON anon.source = outlets.source "
                        "WHERE anon.source = ? "
                        "ORDER BY anon.date_entered DESC "
                        "LIMIT 250", (outlet_url,))
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
-                       "outlets.url "
+                       "outlets.source "
                        "FROM outlets "
                        "JOIN anon "
-                       "ON outlets.url = anon.source "
+                       "ON outlets.source = anon.source "
                        "ORDER BY outlets.name")
     return render_template('outlet.html',
                            entries=results,
