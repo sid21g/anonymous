@@ -126,10 +126,16 @@ def index():
                            pagination=pagination)
 
 
-@app.route('/page/<int:pg>/')
-def index_pages(pg):
+@app.route('/page/<int:page>/')
+def index_pages(page):
+#    page = int(request.args.get('page', 1))
+    per_page = request.args.get('per_page')
+    if not per_page:
+        per_page = current_app.config.get('PER_PAGE', 20)
+    else:
+        per_page = int(per_page)
+    offset = (page - 1) * per_page
     total = query_db('select count(*) from anon', '', one=True)
-    page, per_page, offset = get_page_items()
     results = query_db('SELECT anon.source, '
                        'outlets.name, '
                        'anon.phrase, '
@@ -153,7 +159,7 @@ def index_pages(pg):
                        "JOIN anon "
                        "ON outlets.url = anon.source "
                        "ORDER BY outlets.name")
-    pagination = get_pagination(page=pg,
+    pagination = get_pagination(page=page,
                                 per_page=per_page,
                                 total=next(iter(total.values())),
                                 format_total=True,
@@ -212,6 +218,9 @@ def outlet(outlet_name):
                            masthead=masthead,
                            outlets=outlets,
                            pagination=pagination)
+
+
+# TODO: Add paging for outlets
 
 
 def get_css_framework():
