@@ -76,11 +76,11 @@ def plus_for_spaces(content):
 
 
 @freezer.register_generator
-def index():
-    page, per_page, offset = get_page_items()
-    print(page)
-    page = '?page=' + str(page)
-    yield {'index': page }
+def index_pages():
+#    TODO: Figure out how to generate correct number of pages this way
+    yield '/page/2/'
+    yield '/page/3/'
+    yield '/page/4/'
 
 
 @app.route('/')
@@ -116,6 +116,50 @@ def index():
                                 format_total=True,
                                 format_number=True,
                                 display_msg = '',
+                                href='/page/{0}/'
+                                )
+    return render_template('index.html',
+                           entries=results,
+                           page=page,
+                           per_page=per_page,
+                           outlets=outlets,
+                           pagination=pagination)
+
+
+@app.route('/page/<int:pg>/')
+def index_pages(pg):
+    total = query_db('select count(*) from anon', '', one=True)
+    page, per_page, offset = get_page_items()
+    results = query_db('SELECT anon.source, '
+                       'outlets.name, '
+                       'anon.phrase, '
+                       'anon.title, '
+                       'anon.link, '
+                       'anon.content, '
+                       'anon.date_entered '
+                       'FROM '
+                       'anon '
+                       'LEFT OUTER JOIN '
+                       'outlets '
+                       'ON '
+                       'anon.source = outlets.url '
+                       'ORDER BY '
+                       'date_entered DESC '
+                       'LIMIT ?, ?', (offset, per_page))
+    outlets = query_db("SELECT DISTINCT "
+                       "outlets.name, "
+                       "outlets.url "
+                       "FROM outlets "
+                       "JOIN anon "
+                       "ON outlets.url = anon.source "
+                       "ORDER BY outlets.name")
+    pagination = get_pagination(page=pg,
+                                per_page=per_page,
+                                total=next(iter(total.values())),
+                                format_total=True,
+                                format_number=True,
+                                display_msg = '',
+                                href='/page/{0}/'
                                 )
     return render_template('index.html',
                            entries=results,
