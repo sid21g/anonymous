@@ -106,7 +106,7 @@ def index():
 def outlet(outlet_name):
     masthead = parse.unquote_plus(outlet_name)
     outlet_name_dict = fetch_outlet_url(outlet_name)
-    outlet_url = outlet_name_dict['url']
+    outlet_url = outlet_name_dict['source']
     results = query_db("SELECT "
                        "anon.link, "
                        "outlets.name, "
