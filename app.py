@@ -71,11 +71,29 @@ def get_outlet_name(outlet_url):
     return name
 
 
+# TODO: Hack to connect to db -- Consolidate with previous after freeze is working
+def get_freeze_outlet_name(outlet_url):
+    outlet_url = parse.unquote_plus(outlet_url)
+    g.db = connect_db()
+    results = query_db(
+        "SELECT name FROM outlets WHERE url= ?",
+        (outlet_url,),
+        one=True)
+    name=results['name']
+    name=plus_for_spaces(name)
+    g.db.close()
+    return name
+    
+
 def get_outlet_urls():
     g.db = connect_db()
     urls = query_db("SELECT DISTINCT url FROM outlets ORDER BY url")
     g.db.close()
     return urls
+#    Result: 
+#    {'url': 'abcnews.go.com'}
+#    {'url': 'bleacherreport.com'}
+#    {'url': 'elitedaily.com'}
 
 
 def get_outlet_names():
@@ -94,15 +112,15 @@ def get_total_anon_pages():
     g.db.close()
     return num_pages
 
-#
-#def get_total_outlet_pages(outlet_url): # Outlet should be in url form: www.nytimes.com
-#    g.db = connect_db()
-#    results = query_db('SELECT count(*) FROM anon where source = ?', (outlet_url,), one=True)
-#    total=int(next(iter(results.values())))
-#    num_pages = total/PER_PAGE
-#    num_pages = math.ceil(num_pages)
-#    g.db.close()
-#    return num_pages
+
+def get_total_outlet_pages(outlet_url): # Outlet should be in url form: www.nytimes.com
+    g.db = connect_db()
+    results = query_db('SELECT count(*) FROM anon where source = ?', (outlet_url,), one=True)
+    total=int(next(iter(results.values())))
+    num_pages = total/PER_PAGE
+    num_pages = math.ceil(num_pages)
+    g.db.close()
+    return num_pages
 
 
 # -----------------------------------------------------------------------------
@@ -176,17 +194,16 @@ def index_pages():
         yield '/page/' + str(page) + '/'
 
 
-#@freezer.register_generator
-#def outlet_pages():
-#    outlet_urls = get_outlet_urls()
-#    for outlet_url in outlet_urls:
-#        total_pages = get_total_outlet_pages(outlet_url['url'])
-#        print(total_pages)
-##        outlet_name = get_outlet_name(outlet_url['url'])
-##        outlet_name = plus_for_spaces(outlet_name)
-##        for page in range (1, int(total_pages)):
-##            yield '/outlet/' + outlet_name + '/page/' + str(page)
-    
+@freezer.register_generator
+def outlet_pages():
+    outlet_urls = get_outlet_urls()
+    for outlet_url in outlet_urls:
+        total_pages = get_total_outlet_pages(outlet_url['url'])
+        outlet_name = get_freeze_outlet_name(outlet_url['url'])
+        for page in range (1, int(total_pages)):
+            yield '/outlet/' + outlet_name + '/page/' + str(page) + '/'
+    #        yield '/outlet/' + outlet_name + '/page/' + str(page)
+
     
 # -----------------------------------------------------------------------------
 # ROUTES
@@ -384,7 +401,7 @@ if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == "build":
         freezer.freeze()
     else:
-#        app.run(debug=True)
-        freezer.run(debug=True)
+        app.run(debug=True)
+#        freezer.run(debug=True)
         
 
