@@ -159,3 +159,8 @@ SELECT count(*)
 FROM anon
   LEFT OUTER JOIN outlets ON anon.source = outlets.url
 WHERE anon.source = 'www.nytimes.com';
+
+SELECT count(*) FROM anon where source = 'www.nytimes.com';
+
+
+

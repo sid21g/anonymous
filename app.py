@@ -7,6 +7,7 @@ from urllib import parse
 from flask_frozen import Freezer
 import sys
 import configparser
+import math
 
 # -----------------------------------------------------------------------------
 # CONFIGURATION
@@ -50,7 +51,8 @@ def query_db(query, args=(), one=False):
     return (rv[0] if rv else None) if one else rv
     
 
-def fetch_outlet_url(outlet_name):
+# TODO: Change to return single url instead of dict with url
+def get_outlet_url(outlet_name):
     outlet_name = parse.unquote_plus(outlet_name)
     outlet_url = query_db(
         "SELECT url FROM outlets WHERE name = ?",
@@ -59,29 +61,14 @@ def fetch_outlet_url(outlet_name):
     return outlet_url
 
 
-def fetch_outlet_name(outlet_url):
+def get_outlet_name(outlet_url):
     outlet_url = parse.unquote_plus(outlet_url)
-    outlet_name = query_db(
+    results = query_db(
         "SELECT name FROM outlets WHERE url= ?",
         (outlet_url,),
         one=True)
-    return outlet_name
-
-
-def get_total_anon_pages():
-    g.db = connect_db() # Is this necessary? Pass in connection?
-    results = query_db("SELECT count(*) FROM anon", '', one=True)
-    total=int(next(iter(results.values())))
-    num_pages = total/PER_PAGE
-    g.db.close()
-    return num_pages
-
-
-def get_total_outlet_pages(outlet):
-    g.db = connect_db()
-    results = query_db('SELECT count(*) FROM anon where source = ?', (outlet,), one=True)
-    total=int(next(iter(results.values())))
-    return total
+    name=int(next(iter(results.values())))
+    return name
 
 
 def get_outlet_urls():
@@ -96,6 +83,26 @@ def get_outlet_names():
     names = query_db("SELECT DISTINCT name FROM outlets ORDER BY name")
     g.db.close()
     return names
+
+
+def get_total_anon_pages():
+    g.db = connect_db() # Is this necessary? Pass in connection?
+    results = query_db("SELECT count(*) FROM anon", '', one=True)
+    total=int(next(iter(results.values())))
+    num_pages = total/PER_PAGE
+    num_pages = math.ceil(num_pages)
+    g.db.close()
+    return num_pages
+
+#
+#def get_total_outlet_pages(outlet_url): # Outlet should be in url form: www.nytimes.com
+#    g.db = connect_db()
+#    results = query_db('SELECT count(*) FROM anon where source = ?', (outlet_url,), one=True)
+#    total=int(next(iter(results.values())))
+#    num_pages = total/PER_PAGE
+#    num_pages = math.ceil(num_pages)
+#    g.db.close()
+#    return num_pages
 
 
 # -----------------------------------------------------------------------------
@@ -159,13 +166,6 @@ def get_pagination(**kwargs):
                       **kwargs)
 
     
-def get_outlet_name(outlet):
-    g.db = connect_db()
-    results = query_db('SELECT name FROM outlets where url = ?', (outlet,), one=True)
-    name=int(next(iter(results.values())))
-    return name
-
-
 # -----------------------------------------------------------------------------
 # URL GENERATORS
 # -----------------------------------------------------------------------------
@@ -176,15 +176,16 @@ def index_pages():
         yield '/page/' + str(page) + '/'
 
 
-@freezer.register_generator
-def outlet_pages():
-    outlets = get_outlet_urls()
-    g.db = connect_db()
-    for each outlet in outlets:
-        results = query_db('SELECT count(*) FROM anon where source = ?', (outlet,), one=True)
-        total=int(next(iter(results.values())))
-        num_pages = total/PER_PAGE
-        yield '/outlet/' + outlet_name + '/page/' + str(page)
+#@freezer.register_generator
+#def outlet_pages():
+#    outlet_urls = get_outlet_urls()
+#    for outlet_url in outlet_urls:
+#        total_pages = get_total_outlet_pages(outlet_url['url'])
+#        print(total_pages)
+##        outlet_name = get_outlet_name(outlet_url['url'])
+##        outlet_name = plus_for_spaces(outlet_name)
+##        for page in range (1, int(total_pages)):
+##            yield '/outlet/' + outlet_name + '/page/' + str(page)
     
     
 # -----------------------------------------------------------------------------
@@ -285,7 +286,7 @@ def index_pages(page):
 @app.route('/outlet/<outlet_name>/')
 def outlet(outlet_name):
     masthead = parse.unquote_plus(outlet_name)
-    outlet_name_dict = fetch_outlet_url(outlet_name)
+    outlet_name_dict = get_outlet_url(outlet_name)
     outlet_url = outlet_name_dict['url']
     total = query_db('select count(*) from anon LEFT OUTER JOIN outlets ON anon.source = outlets.url WHERE anon.source = ?', (outlet_url,), one=True)
     page, per_page, offset = get_page_items()
@@ -331,7 +332,7 @@ def outlet(outlet_name):
 @app.route('/outlet/<outlet_name>/page/<int:page>/')
 def outlet_pages(outlet_name, page):
     masthead = parse.unquote_plus(outlet_name)
-    outlet_name_dict = fetch_outlet_url(outlet_name)
+    outlet_name_dict = get_outlet_url(outlet_name)
     outlet_url = outlet_name_dict['url']
     total = query_db('select count(*) from anon LEFT OUTER JOIN outlets ON anon.source = outlets.url WHERE anon.source = ?', (outlet_url,), one=True)
     per_page = request.args.get('per_page')
