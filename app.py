@@ -169,7 +169,7 @@ def get_page_items():
     page = int(request.args.get('page', 1))
     per_page = request.args.get('per_page')
     if not per_page:
-        per_page = PER_PAGE = 50;
+        per_page = PER_PAGE;
     else:
         per_page = int(per_page)
     offset = (page - 1) * per_page
@@ -191,7 +191,8 @@ def get_pagination(**kwargs):
 def index_pages():
     pages = get_total_anon_pages()
     for page in range (1, int(pages)):
-        yield '/page/' + str(page) + '/'
+        page_url = '/page/' + str(page) + '/'
+        yield page_url
 
 
 @freezer.register_generator
@@ -201,7 +202,8 @@ def outlet_pages():
         total_pages = get_total_outlet_pages(outlet_url['url'])
         outlet_name = get_freeze_outlet_name(outlet_url['url'])
         for page in range (1, int(total_pages)):
-            yield '/outlet/' + outlet_name + '/page/' + str(page) + '/'
+            page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
+            yield page_url
     #        yield '/outlet/' + outlet_name + '/page/' + str(page)
 
     
@@ -354,7 +356,7 @@ def outlet_pages(outlet_name, page):
     total = query_db('select count(*) from anon LEFT OUTER JOIN outlets ON anon.source = outlets.url WHERE anon.source = ?', (outlet_url,), one=True)
     per_page = request.args.get('per_page')
     if not per_page:
-        per_page = PER_PAGE = 50;
+        per_page = PER_PAGE;
     else:
         per_page = int(per_page)
     offset = (page - 1) * per_page
