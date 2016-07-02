@@ -105,7 +105,7 @@ def get_total_anon_pages():
 
 def get_total_outlet_pages(outlet_url):  # Outlet should be in url form: www.nytimes.com
     g.db = connect_db()
-    results = query_db('SELECT count(*) FROM anon WHERE source = ?', (outlet_url,), one=True)
+    results = query_db("SELECT count(*) FROM anon WHERE source = ?", (outlet_url,), one=True)
     total = int(next(iter(results.values())))
     num_pages = total / PER_PAGE
     num_pages = math.ceil(num_pages)
@@ -211,7 +211,7 @@ def index():
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href='/page/{0}/'
+                                href='/anonymous/page/{0}/'
                                 )
     return render_template('index.html',
                            entries=results,
@@ -259,7 +259,7 @@ def index_pages(page):
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href='/page/{0}/'
+                                href='/anonymous/page/{0}/'
                                 )
     return render_template('index.html',
                            entries=results,
@@ -309,7 +309,7 @@ def outlet(outlet_name):
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href="/outlet/" + outlet_name + "/page/{0}/"
+                                href="/anonymous/outlet/" + outlet_name + "/page/{0}/"
                                 )
     return render_template('outlet.html',
                            entries=results,
@@ -365,7 +365,7 @@ def outlet_pages(outlet_name, page):
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href="/outlet/" + outlet_name + "/page/{0}/"
+                                href="/anonymous/outlet/" + outlet_name + "/page/{0}/"
                                 )
     return render_template('outlet.html',
                            entries=results,
@@ -392,10 +392,11 @@ def index_pages():
 def outlet_pages():
     outlet_urls = get_outlet_urls()
     for outlet_url in outlet_urls:
-        total_pages = get_total_outlet_pages(outlet_url['url'])
+        pages = get_total_outlet_pages(outlet_url['url'])
         outlet_name = get_freeze_outlet_name(outlet_url['url'])
         # TODO: Fix spurious pages not frozen error
-        for page in range(1, int(total_pages)):
+        # TODO: Figure out why page count is one short
+        for page in range(1, int(pages)+1):
             page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
             yield page_url
 
