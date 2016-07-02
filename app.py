@@ -1,4 +1,4 @@
-from flask import Flask, render_template, g, current_app, request
+from flask import Flask, render_template, g, current_app, request, url_for
 from flask_paginate import Pagination
 from sqlite3 import connect
 from datetime import datetime
@@ -61,16 +61,6 @@ def get_outlet_url(outlet_name):
     return outlet_url
 
 
-def get_outlet_name(outlet_url):
-    outlet_url = parse.unquote_plus(outlet_url)
-    results = query_db(
-        "SELECT name FROM outlets WHERE url= ?",
-        (outlet_url,),
-        one=True)
-    name = int(next(iter(results.values())))
-    return name
-
-
 # TODO: Hack to connect to db -- Consolidate with previous after freeze is working
 def get_freeze_outlet_name(outlet_url):
     outlet_url = parse.unquote_plus(outlet_url)
@@ -90,10 +80,10 @@ def get_outlet_urls():
     urls = query_db("SELECT DISTINCT url FROM outlets ORDER BY url")
     g.db.close()
     return urls
-#    Result:
-#    {'url': 'abcnews.go.com'}
-#    {'url': 'bleacherreport.com'}
-#    {'url': 'elitedaily.com'}
+    #    Result:
+    #    {'url': 'abcnews.go.com'}
+    #    {'url': 'bleacherreport.com'}
+    #    {'url': 'elitedaily.com'}
 
 
 def get_outlet_names():
@@ -386,6 +376,7 @@ def outlet_pages(outlet_name, page):
                            pagination=pagination)
 
 
+# TODO: Should using functions in Url generator require opening db connections?
 # -----------------------------------------------------------------------------
 # URL GENERATORS
 # -----------------------------------------------------------------------------
@@ -403,21 +394,10 @@ def outlet_pages():
     for outlet_url in outlet_urls:
         total_pages = get_total_outlet_pages(outlet_url['url'])
         outlet_name = get_freeze_outlet_name(outlet_url['url'])
+        # TODO: Fix spurious pages not frozen error
         for page in range(1, int(total_pages)):
-            #            page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
-            #            yield page_url
-            #            FAILURES
-            #            yield '/outlet/' + outlet_name + '/page/' + str(page)
-            yield 'outlet_pages', {'outlet': outlet_name}
-            yield 'outlet_pages', {'page': str(page)}
-
-
-# yield 'outlet_pages', {'outlet': outlet_name}
-#            yield 'outlet_pages', {'page': str(page)}
-#            yield 'outlet_pages', {['outlet','page']: [outlet_name, str(page)]}
-#            yield 'outlet_pages', [{'outlet': outlet_name},{'page': str(page)}]  # url_for() argument after ** must be a mapping, not list
-#            yield 'outlet_pages', {'outlet': outlet_name},{'page': str(page)} # ValueError: too many values to unpack (expected 2)
-#            yield 'outlet_pages', {'outlet': outlet_name}{'page': str(page)} 
+            page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
+            yield page_url
 
 
 if __name__ == '__main__':
@@ -425,4 +405,4 @@ if __name__ == '__main__':
         freezer.freeze()
     else:
         app.run(debug=True)
-# freezer.run(debug=True)
+        # freezer.run(debug=True)
