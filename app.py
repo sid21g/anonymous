@@ -115,7 +115,7 @@ def get_total_anon_pages():
 
 def get_total_outlet_pages(outlet_url):  # Outlet should be in url form: www.nytimes.com
     g.db = connect_db()
-    results = query_db('SELECT count(*) FROM anon where source = ?', (outlet_url,), one=True)
+    results = query_db('SELECT count(*) FROM anon WHERE source = ?', (outlet_url,), one=True)
     total = int(next(iter(results.values())))
     num_pages = total / PER_PAGE
     num_pages = math.ceil(num_pages)
@@ -189,8 +189,8 @@ def get_pagination(**kwargs):
 # -----------------------------------------------------------------------------
 @app.route('/')
 def index():
-    total = query_db('select count(*) from anon', '', one=True)
-#   TODO: Find more elegant way to deal with per_page, offset, etc.
+    total = query_db('SELECT count(*) FROM anon', '', one=True)
+    #   TODO: Find more elegant way to deal with per_page, offset, etc.
     page, per_page, offset = get_page_items()
     results = query_db('SELECT anon.source, '
                        'outlets.name, '
@@ -239,7 +239,7 @@ def index_pages(page):
     else:
         per_page = int(per_page)
     offset = (page - 1) * per_page
-    total = query_db('select count(*) from anon', '', one=True)
+    total = query_db('SELECT count(*) FROM anon', '', one=True)
     results = query_db('SELECT anon.source, '
                        'outlets.name, '
                        'anon.phrase, '
@@ -284,7 +284,12 @@ def outlet(outlet_name):
     masthead = parse.unquote_plus(outlet_name)
     outlet_name_dict = get_outlet_url(outlet_name)
     outlet_url = outlet_name_dict['url']
-    total = query_db('select count(*) from anon LEFT OUTER JOIN outlets ON anon.source = outlets.url WHERE anon.source = ?', (outlet_url,), one=True)
+    total = query_db(
+        'SELECT count(*) '
+        'FROM anon '
+        'LEFT OUTER JOIN outlets ON anon.source = outlets.url '
+        'WHERE anon.source = ?',
+        (outlet_url,), one=True)
     page, per_page, offset = get_page_items()
     results = query_db("SELECT "
                        "anon.link, "
@@ -330,7 +335,12 @@ def outlet_pages(outlet_name, page):
     masthead = parse.unquote_plus(outlet_name)
     outlet_name_dict = get_outlet_url(outlet_name)
     outlet_url = outlet_name_dict['url']
-    total = query_db('select count(*) from anon LEFT OUTER JOIN outlets ON anon.source = outlets.url WHERE anon.source = ?', (outlet_url,), one=True)
+    total = query_db(
+        'SELECT count(*) '
+        'FROM anon '
+        'LEFT OUTER JOIN outlets ON anon.source = outlets.url '
+        'WHERE anon.source = ?',
+        (outlet_url,), one=True)
     per_page = request.args.get('per_page')
     if not per_page:
         per_page = PER_PAGE
@@ -383,8 +393,8 @@ def outlet_pages(outlet_name, page):
 def index_pages():
     pages = get_total_anon_pages()
     for page in range(1, int(pages)):
-        page_url = '/page/' + str(page) + '/'
-        yield page_url
+        #        yield '/page/' + str(page) + '/'
+        yield 'index_pages', {'page': str(page)}
 
 
 @freezer.register_generator
@@ -394,9 +404,20 @@ def outlet_pages():
         total_pages = get_total_outlet_pages(outlet_url['url'])
         outlet_name = get_freeze_outlet_name(outlet_url['url'])
         for page in range(1, int(total_pages)):
-            page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
-            yield page_url
-    #        yield '/outlet/' + outlet_name + '/page/' + str(page)
+            #            page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
+            #            yield page_url
+            #            FAILURES
+            #            yield '/outlet/' + outlet_name + '/page/' + str(page)
+            yield 'outlet_pages', {'outlet': outlet_name}
+            yield 'outlet_pages', {'page': str(page)}
+
+
+# yield 'outlet_pages', {'outlet': outlet_name}
+#            yield 'outlet_pages', {'page': str(page)}
+#            yield 'outlet_pages', {['outlet','page']: [outlet_name, str(page)]}
+#            yield 'outlet_pages', [{'outlet': outlet_name},{'page': str(page)}]  # url_for() argument after ** must be a mapping, not list
+#            yield 'outlet_pages', {'outlet': outlet_name},{'page': str(page)} # ValueError: too many values to unpack (expected 2)
+#            yield 'outlet_pages', {'outlet': outlet_name}{'page': str(page)} 
 
 
 if __name__ == '__main__':
@@ -404,5 +425,4 @@ if __name__ == '__main__':
         freezer.freeze()
     else:
         app.run(debug=True)
-#        freezer.run(debug=True)
-
+# freezer.run(debug=True)
