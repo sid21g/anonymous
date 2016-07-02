@@ -51,18 +51,16 @@ def query_db(query, args=(), one=False):
     return (rv[0] if rv else None) if one else rv
 
 
-# TODO: Change to return single url instead of dict with url
 def get_outlet_url(outlet_name):
     outlet_name = parse.unquote_plus(outlet_name)
     outlet_url = query_db(
         "SELECT url FROM outlets WHERE name = ?",
         (outlet_name,),
         one=True)
-    return outlet_url
+    return outlet_url['url']
 
 
-# TODO: Hack to connect to db -- Consolidate with previous after freeze is working
-def get_freeze_outlet_name(outlet_url):
+def get_outlet_name(outlet_url):
     outlet_url = parse.unquote_plus(outlet_url)
     g.db = connect_db()
     results = query_db(
@@ -90,7 +88,7 @@ def get_outlet_names():
 
 
 def get_total_anon_pages():
-    g.db = connect_db()  # Is this necessary? Pass in connection?
+    g.db = connect_db()
     results = query_db("SELECT count(*) FROM anon", '', one=True)
     total = int(next(iter(results.values())))
     num_pages = total / PER_PAGE
@@ -176,7 +174,6 @@ def get_pagination(**kwargs):
 @app.route('/')
 def index():
     total = query_db('SELECT count(*) FROM anon', '', one=True)
-    #   TODO: Find more elegant way to deal with per_page, offset, etc.
     page, per_page, offset = get_page_items()
     results = query_db('SELECT anon.source, '
                        'outlets.name, '
@@ -268,8 +265,7 @@ def index_pages(page):
 @app.route('/outlet/<outlet_name>/')
 def outlet(outlet_name):
     masthead = parse.unquote_plus(outlet_name)
-    outlet_name_dict = get_outlet_url(outlet_name)
-    outlet_url = outlet_name_dict['url']
+    outlet_url = get_outlet_url(outlet_name)
     total = query_db(
         'SELECT count(*) '
         'FROM anon '
@@ -319,8 +315,7 @@ def outlet(outlet_name):
 @app.route('/outlet/<outlet_name>/page/<int:page>/')
 def outlet_pages(outlet_name, page):
     masthead = parse.unquote_plus(outlet_name)
-    outlet_name_dict = get_outlet_url(outlet_name)
-    outlet_url = outlet_name_dict['url']
+    outlet_url = get_outlet_url(outlet_name)
     total = query_db(
         'SELECT count(*) '
         'FROM anon '
@@ -372,7 +367,6 @@ def outlet_pages(outlet_name, page):
                            pagination=pagination)
 
 
-# TODO: Should using functions in Url generator require opening db connections?
 # -----------------------------------------------------------------------------
 # URL GENERATORS
 # -----------------------------------------------------------------------------
@@ -380,7 +374,6 @@ def outlet_pages(outlet_name, page):
 def index_pages():
     pages = get_total_anon_pages()
     for page in range(1, int(pages)+1):
-        #        yield '/page/' + str(page) + '/'
         yield 'index_pages', {'page': str(page)}
 
 
@@ -389,9 +382,8 @@ def outlet_pages():
     outlet_urls = get_outlet_urls()
     for outlet_url in outlet_urls:
         pages = get_total_outlet_pages(outlet_url['url'])
-        outlet_name = get_freeze_outlet_name(outlet_url['url'])
+        outlet_name = get_outlet_name(outlet_url['url'])
         # TODO: Fix spurious pages not frozen error
-        # TODO: Figure out why page count is one short
         for page in range(1, int(pages)+1):
             page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
             yield page_url
@@ -402,4 +394,3 @@ if __name__ == '__main__':
         freezer.freeze()
     else:
         app.run(debug=True)
-        # freezer.run(debug=True)
