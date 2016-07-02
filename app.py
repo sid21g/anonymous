@@ -49,7 +49,7 @@ def query_db(query, args=(), one=False):
     rv = [dict((cur.description[idx][0], value)
                for idx, value in enumerate(row)) for row in cur.fetchall()]
     return (rv[0] if rv else None) if one else rv
-    
+
 
 # TODO: Change to return single url instead of dict with url
 def get_outlet_url(outlet_name):
@@ -67,7 +67,7 @@ def get_outlet_name(outlet_url):
         "SELECT name FROM outlets WHERE url= ?",
         (outlet_url,),
         one=True)
-    name=int(next(iter(results.values())))
+    name = int(next(iter(results.values())))
     return name
 
 
@@ -79,18 +79,18 @@ def get_freeze_outlet_name(outlet_url):
         "SELECT name FROM outlets WHERE url= ?",
         (outlet_url,),
         one=True)
-    name=results['name']
-    name=plus_for_spaces(name)
+    name = results['name']
+    name = plus_for_spaces(name)
     g.db.close()
     return name
-    
+
 
 def get_outlet_urls():
     g.db = connect_db()
     urls = query_db("SELECT DISTINCT url FROM outlets ORDER BY url")
     g.db.close()
     return urls
-#    Result: 
+#    Result:
 #    {'url': 'abcnews.go.com'}
 #    {'url': 'bleacherreport.com'}
 #    {'url': 'elitedaily.com'}
@@ -104,20 +104,20 @@ def get_outlet_names():
 
 
 def get_total_anon_pages():
-    g.db = connect_db() # Is this necessary? Pass in connection?
+    g.db = connect_db()  # Is this necessary? Pass in connection?
     results = query_db("SELECT count(*) FROM anon", '', one=True)
-    total=int(next(iter(results.values())))
-    num_pages = total/PER_PAGE
+    total = int(next(iter(results.values())))
+    num_pages = total / PER_PAGE
     num_pages = math.ceil(num_pages)
     g.db.close()
     return num_pages
 
 
-def get_total_outlet_pages(outlet_url): # Outlet should be in url form: www.nytimes.com
+def get_total_outlet_pages(outlet_url):  # Outlet should be in url form: www.nytimes.com
     g.db = connect_db()
     results = query_db('SELECT count(*) FROM anon where source = ?', (outlet_url,), one=True)
-    total=int(next(iter(results.values())))
-    num_pages = total/PER_PAGE
+    total = int(next(iter(results.values())))
+    num_pages = total / PER_PAGE
     num_pages = math.ceil(num_pages)
     g.db.close()
     return num_pages
@@ -169,7 +169,7 @@ def get_page_items():
     page = int(request.args.get('page', 1))
     per_page = request.args.get('per_page')
     if not per_page:
-        per_page = PER_PAGE;
+        per_page = PER_PAGE
     else:
         per_page = int(per_page)
     offset = (page - 1) * per_page
@@ -183,14 +183,14 @@ def get_pagination(**kwargs):
                       show_single_page=show_single_page_or_not(),
                       **kwargs)
 
-    
+
 # -----------------------------------------------------------------------------
 # URL GENERATORS
 # -----------------------------------------------------------------------------
 @freezer.register_generator
 def index_pages():
     pages = get_total_anon_pages()
-    for page in range (1, int(pages)):
+    for page in range(1, int(pages)):
         page_url = '/page/' + str(page) + '/'
         yield page_url
 
@@ -201,12 +201,12 @@ def outlet_pages():
     for outlet_url in outlet_urls:
         total_pages = get_total_outlet_pages(outlet_url['url'])
         outlet_name = get_freeze_outlet_name(outlet_url['url'])
-        for page in range (1, int(total_pages)):
+        for page in range(1, int(total_pages)):
             page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
             yield page_url
     #        yield '/outlet/' + outlet_name + '/page/' + str(page)
 
-    
+
 # -----------------------------------------------------------------------------
 # ROUTES
 # -----------------------------------------------------------------------------
@@ -243,7 +243,7 @@ def index():
                                 total=next(iter(total.values())),
                                 format_total=True,
                                 format_number=True,
-                                display_msg = '',
+                                display_msg='',
                                 href='/page/{0}/'
                                 )
     return render_template('index.html',
@@ -291,7 +291,7 @@ def index_pages(page):
                                 total=next(iter(total.values())),
                                 format_total=True,
                                 format_number=True,
-                                display_msg = '',
+                                display_msg='',
                                 href='/page/{0}/'
                                 )
     return render_template('index.html',
@@ -356,7 +356,7 @@ def outlet_pages(outlet_name, page):
     total = query_db('select count(*) from anon LEFT OUTER JOIN outlets ON anon.source = outlets.url WHERE anon.source = ?', (outlet_url,), one=True)
     per_page = request.args.get('per_page')
     if not per_page:
-        per_page = PER_PAGE;
+        per_page = PER_PAGE
     else:
         per_page = int(per_page)
     offset = (page - 1) * per_page
@@ -405,5 +405,4 @@ if __name__ == '__main__':
     else:
         app.run(debug=True)
 #        freezer.run(debug=True)
-        
 
