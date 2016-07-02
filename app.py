@@ -1,4 +1,5 @@
-from flask import Flask, render_template, g
+from flask import Flask, render_template, g, current_app, request
+from flask_paginate import Pagination
 from sqlite3 import connect
 from datetime import datetime
 import re
@@ -6,10 +7,16 @@ from urllib import parse
 from flask_frozen import Freezer
 import sys
 import configparser
+import math
 
+# -----------------------------------------------------------------------------
+# CONFIGURATION
+# -----------------------------------------------------------------------------
 config = configparser.ConfigParser()
 config.read("config.txt")
 FREEZER_DESTINATION = config.get("Configuration", "destination")
+PER_PAGE = config.get("Configuration", "per_page")
+PER_PAGE = int(PER_PAGE)
 
 app = Flask(__name__)
 app.config['FREEZER_DESTINATION'] = FREEZER_DESTINATION
@@ -19,6 +26,9 @@ freezer = Freezer(app)
 extra_bold = re.compile(r"</b>.*?<b>", re.MULTILINE)
 
 
+# -----------------------------------------------------------------------------
+# DATABASE
+# -----------------------------------------------------------------------------
 def connect_db():
     return connect("anon.db")
 
@@ -41,15 +51,67 @@ def query_db(query, args=(), one=False):
     return (rv[0] if rv else None) if one else rv
 
 
-def fetch_outlet_url(outlet_name):
+# TODO: Change to return single url instead of dict with url
+def get_outlet_url(outlet_name):
     outlet_name = parse.unquote_plus(outlet_name)
     outlet_url = query_db(
-        "SELECT source FROM outlets WHERE name = ?",
+        "SELECT url FROM outlets WHERE name = ?",
         (outlet_name,),
         one=True)
     return outlet_url
 
 
+# TODO: Hack to connect to db -- Consolidate with previous after freeze is working
+def get_freeze_outlet_name(outlet_url):
+    outlet_url = parse.unquote_plus(outlet_url)
+    g.db = connect_db()
+    results = query_db(
+        "SELECT name FROM outlets WHERE url= ?",
+        (outlet_url,),
+        one=True)
+    name = results['name']
+    name = plus_for_spaces(name)
+    g.db.close()
+    return name
+
+
+def get_outlet_urls():
+    g.db = connect_db()
+    urls = query_db("SELECT DISTINCT url FROM outlets ORDER BY url")
+    g.db.close()
+    return urls
+
+
+def get_outlet_names():
+    g.db = connect_db()
+    names = query_db("SELECT DISTINCT name FROM outlets ORDER BY name")
+    g.db.close()
+    return names
+
+
+def get_total_anon_pages():
+    g.db = connect_db()  # Is this necessary? Pass in connection?
+    results = query_db("SELECT count(*) FROM anon", '', one=True)
+    total = int(next(iter(results.values())))
+    num_pages = total / PER_PAGE
+    num_pages = math.ceil(num_pages)
+    g.db.close()
+    return num_pages
+
+
+def get_total_outlet_pages(outlet_url):  # Outlet should be in url form: www.nytimes.com
+    g.db = connect_db()
+    results = query_db("SELECT count(*) FROM anon WHERE source = ?", (outlet_url,), one=True)
+    total = int(next(iter(results.values())))
+    num_pages = total / PER_PAGE
+    num_pages = math.ceil(num_pages)
+    g.db.close()
+    return num_pages
+
+
+# -----------------------------------------------------------------------------
+# TEMPLATE FILTERS
+# -----------------------------------------------------------------------------
 @app.template_filter('datetimeformat')
 def datetimeformat(value, date_format='%B %e, %Y'):
     d = datetime.strptime(value, '%Y-%m-%d')
@@ -74,8 +136,48 @@ def plus_for_spaces(content):
     return content
 
 
+# -----------------------------------------------------------------------------
+# PAGINATOR FUNCTIONS
+# -----------------------------------------------------------------------------
+def get_css_framework():
+    return current_app.config.get('CSS_FRAMEWORK', 'bootstrap3')
+
+
+def get_link_size():
+    return current_app.config.get('LINK_SIZE', 'sm')
+
+
+def show_single_page_or_not():
+    return current_app.config.get('SHOW_SINGLE_PAGE', False)
+
+
+def get_page_items():
+    page = int(request.args.get('page', 1))
+    per_page = request.args.get('per_page')
+    if not per_page:
+        per_page = PER_PAGE
+    else:
+        per_page = int(per_page)
+    offset = (page - 1) * per_page
+    return page, per_page, offset
+
+
+def get_pagination(**kwargs):
+    kwargs.setdefault('record_name', 'records')
+    return Pagination(css_framework=get_css_framework(),
+                      link_size=get_link_size(),
+                      show_single_page=show_single_page_or_not(),
+                      **kwargs)
+
+
+# -----------------------------------------------------------------------------
+# ROUTES
+# -----------------------------------------------------------------------------
 @app.route('/')
 def index():
+    total = query_db('SELECT count(*) FROM anon', '', one=True)
+    #   TODO: Find more elegant way to deal with per_page, offset, etc.
+    page, per_page, offset = get_page_items()
     results = query_db('SELECT anon.source, '
                        'outlets.name, '
                        'anon.phrase, '
@@ -88,25 +190,93 @@ def index():
                        'LEFT OUTER JOIN '
                        'outlets '
                        'ON '
-                       'anon.source = outlets.source '
+                       'anon.source = outlets.url '
                        'ORDER BY '
                        'date_entered DESC '
-                       'LIMIT 250')
+                       'LIMIT ?, ?', (offset, per_page))
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
-                       "outlets.source "
+                       "outlets.url "
                        "FROM outlets "
                        "JOIN anon "
-                       "ON outlets.source = anon.source "
+                       "ON outlets.url = anon.source "
                        "ORDER BY outlets.name")
-    return render_template('index.html', entries=results, outlets=outlets)
+    pagination = get_pagination(page=page,
+                                per_page=per_page,
+                                total=next(iter(total.values())),
+                                format_total=True,
+                                format_number=True,
+                                display_msg='',
+                                href='/anonymous/page/{0}/'
+                                )
+    return render_template('index.html',
+                           entries=results,
+                           page=page,
+                           per_page=per_page,
+                           outlets=outlets,
+                           pagination=pagination)
+
+
+@app.route('/page/<int:page>/')
+def index_pages(page):
+    per_page = request.args.get('per_page')
+    if not per_page:
+        per_page = PER_PAGE
+    else:
+        per_page = int(per_page)
+    offset = (page - 1) * per_page
+    total = query_db('SELECT count(*) FROM anon', '', one=True)
+    results = query_db('SELECT anon.source, '
+                       'outlets.name, '
+                       'anon.phrase, '
+                       'anon.title, '
+                       'anon.link, '
+                       'anon.content, '
+                       'anon.date_entered '
+                       'FROM '
+                       'anon '
+                       'LEFT OUTER JOIN '
+                       'outlets '
+                       'ON '
+                       'anon.source = outlets.url '
+                       'ORDER BY '
+                       'date_entered DESC '
+                       'LIMIT ?, ?', (offset, per_page))
+    outlets = query_db("SELECT DISTINCT "
+                       "outlets.name, "
+                       "outlets.url "
+                       "FROM outlets "
+                       "JOIN anon "
+                       "ON outlets.url = anon.source "
+                       "ORDER BY outlets.name")
+    pagination = get_pagination(page=page,
+                                per_page=per_page,
+                                total=next(iter(total.values())),
+                                format_total=True,
+                                format_number=True,
+                                display_msg='',
+                                href='/anonymous/page/{0}/'
+                                )
+    return render_template('index.html',
+                           entries=results,
+                           page=page,
+                           per_page=per_page,
+                           outlets=outlets,
+                           pagination=pagination)
 
 
 @app.route('/outlet/<outlet_name>/')
 def outlet(outlet_name):
     masthead = parse.unquote_plus(outlet_name)
-    outlet_name_dict = fetch_outlet_url(outlet_name)
-    outlet_url = outlet_name_dict['source']
+    outlet_name_dict = get_outlet_url(outlet_name)
+    outlet_url = outlet_name_dict['url']
+    total = query_db(
+        'SELECT count(*) '
+        'FROM anon '
+        'LEFT OUTER JOIN outlets ON anon.source = outlets.url '
+        'WHERE anon.source = ?',
+        (outlet_url,), one=True)
+    page, per_page, offset = get_page_items()
     results = query_db("SELECT "
                        "anon.link, "
                        "outlets.name, "
@@ -118,21 +288,113 @@ def outlet(outlet_name):
                        "FROM "
                        "anon "
                        "LEFT OUTER JOIN outlets "
-                       "ON anon.source = outlets.source "
+                       "ON anon.source = outlets.url "
                        "WHERE anon.source = ? "
                        "ORDER BY anon.date_entered DESC "
-                       "LIMIT 250", (outlet_url,))
+                       "LIMIT ?, ?", (outlet_url, offset, per_page))
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
-                       "outlets.source "
+                       "outlets.url "
                        "FROM outlets "
                        "JOIN anon "
-                       "ON outlets.source = anon.source "
+                       "ON outlets.url = anon.source "
                        "ORDER BY outlets.name")
+    pagination = get_pagination(page=page,
+                                per_page=per_page,
+                                total=next(iter(total.values())),
+                                format_total=True,
+                                format_number=True,
+                                display_msg='',
+                                href="/anonymous/outlet/" + outlet_name + "/page/{0}/"
+                                )
     return render_template('outlet.html',
                            entries=results,
+                           page=page,
+                           per_page=per_page,
                            masthead=masthead,
-                           outlets=outlets)
+                           outlets=outlets,
+                           pagination=pagination)
+
+
+@app.route('/outlet/<outlet_name>/page/<int:page>/')
+def outlet_pages(outlet_name, page):
+    masthead = parse.unquote_plus(outlet_name)
+    outlet_name_dict = get_outlet_url(outlet_name)
+    outlet_url = outlet_name_dict['url']
+    total = query_db(
+        'SELECT count(*) '
+        'FROM anon '
+        'LEFT OUTER JOIN outlets ON anon.source = outlets.url '
+        'WHERE anon.source = ?',
+        (outlet_url,), one=True)
+    per_page = request.args.get('per_page')
+    if not per_page:
+        per_page = PER_PAGE
+    else:
+        per_page = int(per_page)
+    offset = (page - 1) * per_page
+    results = query_db("SELECT "
+                       "anon.link, "
+                       "outlets.name, "
+                       "anon.source, "
+                       "anon.phrase, "
+                       "anon.title, "
+                       "anon.content, "
+                       "anon.date_entered "
+                       "FROM "
+                       "anon "
+                       "LEFT OUTER JOIN outlets "
+                       "ON anon.source = outlets.url "
+                       "WHERE anon.source = ? "
+                       "ORDER BY anon.date_entered DESC "
+                       "LIMIT ?, ?", (outlet_url, offset, per_page))
+    outlets = query_db("SELECT DISTINCT "
+                       "outlets.name, "
+                       "outlets.url "
+                       "FROM outlets "
+                       "JOIN anon "
+                       "ON outlets.url = anon.source "
+                       "ORDER BY outlets.name")
+    pagination = get_pagination(page=page,
+                                per_page=per_page,
+                                total=next(iter(total.values())),
+                                format_total=True,
+                                format_number=True,
+                                display_msg='',
+                                href="/anonymous/outlet/" + outlet_name + "/page/{0}/"
+                                )
+    return render_template('outlet.html',
+                           entries=results,
+                           page=page,
+                           per_page=per_page,
+                           masthead=masthead,
+                           outlets=outlets,
+                           pagination=pagination)
+
+
+# TODO: Should using functions in Url generator require opening db connections?
+# -----------------------------------------------------------------------------
+# URL GENERATORS
+# -----------------------------------------------------------------------------
+@freezer.register_generator
+def index_pages():
+    pages = get_total_anon_pages()
+    for page in range(1, int(pages)+1):
+        #        yield '/page/' + str(page) + '/'
+        yield 'index_pages', {'page': str(page)}
+
+
+@freezer.register_generator
+def outlet_pages():
+    outlet_urls = get_outlet_urls()
+    for outlet_url in outlet_urls:
+        pages = get_total_outlet_pages(outlet_url['url'])
+        outlet_name = get_freeze_outlet_name(outlet_url['url'])
+        # TODO: Fix spurious pages not frozen error
+        # TODO: Figure out why page count is one short
+        for page in range(1, int(pages)+1):
+            page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
+            yield page_url
 
 
 if __name__ == '__main__':
@@ -140,5 +402,4 @@ if __name__ == '__main__':
         freezer.freeze()
     else:
         app.run(debug=True)
-
-
+        # freezer.run(debug=True)
