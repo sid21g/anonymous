@@ -51,3 +51,34 @@ a:hover#masthed {
     text-decoration: none;
     color: #E00000;
 }
+
+.pagination-page-info {
+    padding: .6em;
+    padding-left: 0;
+    width: 40em;
+    margin: .5em;
+    margin-left: 0;
+    font-size: 14px;
+}
+
+.pagination-page-info b {
+    color: black;
+    background: white;
+    padding-left: 2px;
+    padding: .1em .25em;
+    font-size: 150%;
+}
+
+.pagination > .active > a {
+    background-color: black;
+    border-color: black;   
+}
+
+.pagination > .active > a:hover {
+    background-color: lightgray;
+    border-color: black;
+}
+
+.pagination > li > a, .pagination > li > span {
+    color: black;
+}
