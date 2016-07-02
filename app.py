@@ -185,29 +185,6 @@ def get_pagination(**kwargs):
 
 
 # -----------------------------------------------------------------------------
-# URL GENERATORS
-# -----------------------------------------------------------------------------
-@freezer.register_generator
-def index_pages():
-    pages = get_total_anon_pages()
-    for page in range(1, int(pages)):
-        page_url = '/page/' + str(page) + '/'
-        yield page_url
-
-
-@freezer.register_generator
-def outlet_pages():
-    outlet_urls = get_outlet_urls()
-    for outlet_url in outlet_urls:
-        total_pages = get_total_outlet_pages(outlet_url['url'])
-        outlet_name = get_freeze_outlet_name(outlet_url['url'])
-        for page in range(1, int(total_pages)):
-            page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
-            yield page_url
-    #        yield '/outlet/' + outlet_name + '/page/' + str(page)
-
-
-# -----------------------------------------------------------------------------
 # ROUTES
 # -----------------------------------------------------------------------------
 @app.route('/')
@@ -397,6 +374,29 @@ def outlet_pages(outlet_name, page):
                            masthead=masthead,
                            outlets=outlets,
                            pagination=pagination)
+
+
+# -----------------------------------------------------------------------------
+# URL GENERATORS
+# -----------------------------------------------------------------------------
+@freezer.register_generator
+def index_pages():
+    pages = get_total_anon_pages()
+    for page in range(1, int(pages)):
+        page_url = '/page/' + str(page) + '/'
+        yield page_url
+
+
+@freezer.register_generator
+def outlet_pages():
+    outlet_urls = get_outlet_urls()
+    for outlet_url in outlet_urls:
+        total_pages = get_total_outlet_pages(outlet_url['url'])
+        outlet_name = get_freeze_outlet_name(outlet_url['url'])
+        for page in range(1, int(total_pages)):
+            page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
+            yield page_url
+    #        yield '/outlet/' + outlet_name + '/page/' + str(page)
 
 
 if __name__ == '__main__':
