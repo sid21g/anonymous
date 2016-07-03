@@ -9,6 +9,7 @@ import sys
 import configparser
 import math
 
+
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
@@ -126,7 +127,6 @@ def clean_content(content):
     return content
 
 
-# Makes for prettier URLs
 @app.template_filter('plus_for_spaces')
 def plus_for_spaces(content):
     content = content.strip()
@@ -383,12 +383,12 @@ def outlet_pages():
     for outlet_url in outlet_urls:
         pages = get_total_outlet_pages(outlet_url['url'])
         outlet_name = get_outlet_name(outlet_url['url'])
-        # TODO: Fix spurious pages not frozen error
+        # TODO: Fix spurious pages-not-frozen error
         for page in range(1, int(pages)+1):
             page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
             yield page_url
 
-
+                
 if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == "build":
         freezer.freeze()
