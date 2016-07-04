@@ -161,6 +161,3 @@ FROM anon
 WHERE anon.source = 'www.nytimes.com';
 
 SELECT count(*) FROM anon where source = 'www.nytimes.com';
-
-
-
