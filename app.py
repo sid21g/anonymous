@@ -389,6 +389,11 @@ def outlet_pages(outlet_name, page):
                            pagination=pagination)
 
 
+@app.route('/mentions/')
+def mentions():
+    return render_template('mentions.html')
+
+
 if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == "build":
         freezer.freeze()

@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    color: #E00000;
+    color: #000000;
 }
 
 h3 {
@@ -50,6 +50,12 @@ a:hover#masthed {
 #masthed a {
     text-decoration: none;
     color: #E00000;
+}
+
+.credit {
+    padding-bottom: 20px;
+    font-size: 12pt;
+    color: #696969;
 }
 
 .pagination-page-info {
