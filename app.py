@@ -98,7 +98,7 @@ def get_total_anon_pages():
     return num_pages
 
 
-def get_total_outlet_pages(outlet_url):  # Outlet should be in url form: www.nytimes.com
+def get_total_outlet_pages(outlet_url):
     g.db = connect_db()
     results = query_db("SELECT count(*) FROM anon WHERE source = ?", (outlet_url,), one=True)
     total = int(next(iter(results.values())))
@@ -166,6 +166,28 @@ def get_pagination(**kwargs):
                       link_size=get_link_size(),
                       show_single_page=show_single_page_or_not(),
                       **kwargs)
+
+
+# -----------------------------------------------------------------------------
+# URL GENERATORS
+# -----------------------------------------------------------------------------
+@freezer.register_generator
+def index_pages():
+    pages = get_total_anon_pages()
+    for page in range(1, int(pages) + 1):
+        yield 'index_pages', {'page': str(page)}
+
+
+@freezer.register_generator
+def outlet_pages():
+    outlet_urls = get_outlet_urls()
+    for outlet_url in outlet_urls:
+        pages = get_total_outlet_pages(outlet_url['url'])
+        outlet_name = get_outlet_name(outlet_url['url'])
+        # TODO: Fix spurious pages-not-frozen error
+        for page in range(1, int(pages) + 1):
+            page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
+            yield page_url
 
 
 # -----------------------------------------------------------------------------
@@ -367,28 +389,6 @@ def outlet_pages(outlet_name, page):
                            pagination=pagination)
 
 
-# -----------------------------------------------------------------------------
-# URL GENERATORS
-# -----------------------------------------------------------------------------
-@freezer.register_generator
-def index_pages():
-    pages = get_total_anon_pages()
-    for page in range(1, int(pages)+1):
-        yield 'index_pages', {'page': str(page)}
-
-
-@freezer.register_generator
-def outlet_pages():
-    outlet_urls = get_outlet_urls()
-    for outlet_url in outlet_urls:
-        pages = get_total_outlet_pages(outlet_url['url'])
-        outlet_name = get_outlet_name(outlet_url['url'])
-        # TODO: Fix spurious pages-not-frozen error
-        for page in range(1, int(pages)+1):
-            page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
-            yield page_url
-
-                
 if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == "build":
         freezer.freeze()
