@@ -77,7 +77,7 @@ a:hover#masthed {
 
 .pagination > .active > a {
     background-color: black;
-    border-color: black;   
+    border-color: black;
 }
 
 .pagination > .active > a:hover {
@@ -88,3 +88,4 @@ a:hover#masthed {
 .pagination > li > a, .pagination > li > span {
     color: black;
 }
+
