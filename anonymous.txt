@@ -1,19 +1,608 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - </title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q=&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-18T02:01:51.361Z</updated>
+ <title>Google Custom Search - "a source said"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="a source said"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-18T02:03:14.392Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - " totalResults="0" searchTerms="" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source said&quot;" totalResults="22800" searchTerms="&quot;a source said&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source said&quot;" totalResults="22800" searchTerms="&quot;a source said&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>22800</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.009459</cse:searchTime>
-  <cse:formattedSearchTime>0.01</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.440743</cse:searchTime>
+  <cse:formattedSearchTime>0.44</cse:formattedSearchTime>
+  <cse:totalResults>22800</cse:totalResults>
+  <cse:formattedTotalResults>22,800</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/</id>
+  <updated>1970-01-18T02:03:14.392Z</updated>
+  <title type="html">Paul Ryan said he won&amp;#39;t defend Donald Trump - CNNPolitics.com</title>
+  <link href="http://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/" title="www.cnn.com"/>
+  <summary type="html">&lt;b&gt;A source said&lt;/b&gt; the speaker would campaign in 17 states and 42 cities this month. &lt;br&gt;
+A spokesman for Trump&amp;#39;s campaign, Jason Miller, tweeted after the news broke,&amp;nbsp;...</summary>
+  <cse:cacheId>BcRWATYsqGYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2016/.../paul-ryan-said-he-wont-defend-donald-trump/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2016-10-10T15:32:54Z"/>
+    <cse:Attribute name="pubdate" value="2016-10-10T15:32:54Z"/>
+    <cse:Attribute name="lastmod" value="2016-10-10T21:51:58Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/index.html"/>
+    <cse:Attribute name="author" value="Kevin Liptak, Manu Raju and Deirdre Walsh, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/mkraju00"/>
+    <cse:Attribute name="og:title" value="Paul Ryan said he won&apos;t defend Donald Trump"/>
+    <cse:Attribute name="og:description" value="House Speaker Paul Ryan dealt his own party&apos;s presidential nominee a withering blow Monday, telling fellow Republicans he will no longer defend Donald Trump and will instead use the next 29 days to focus on preserving his party&apos;s hold on Congress."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,bra-2016-elections,art-vid-vls-col,col-trump-vs.-gop"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2016-10-10T15:32:54Z"/>
+    <cse:Attribute name="datepublished" value="2016-10-10T15:32:54Z"/>
+    <cse:Attribute name="datemodified" value="2016-10-10T21:51:58Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/index.html"/>
+    <cse:Attribute name="author" value="Kevin Liptak, Manu Raju and Deirdre Walsh, CNN"/>
+    <cse:Attribute name="headline" value="Paul Ryan said he won&apos;t defend Donald Trump - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="House Speaker Paul Ryan dealt his own party&apos;s presidential nominee a withering blow Monday, telling fellow Republicans he will no longer defend Donald Trump and will instead use the next 29..."/>
+    <cse:Attribute name="keywords" value="Paul Ryan, Donald Trump, politics, Paul Ryan said he won&apos;t defend Donald Trump - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Paul Ryan said he won&apos;t defend Donald Trump"/>
+    <cse:Attribute name="articlebody" value="Story highlightsHouse Speaker Paul Ryan spoke to his fellow Republicans on a conference call Monday morningThe Wisconsin Republican said he&apos;ll focus solely on keeping Congress under GOP controlWash..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-samsung-electronics-smartphones-idUSKCN1290XH</id>
+  <updated>1970-01-18T02:03:14.392Z</updated>
+  <title type="html">Samsung halts Note 7 production after new fire scare: source | Reuters</title>
+  <link href="http://www.reuters.com/article/us-samsung-electronics-smartphones-idUSKCN1290XH" title="www.reuters.com"/>
+  <summary type="html">Samsung Electronics Co Ltd has suspended production of its flagship Galaxy &lt;br&gt;
+Note 7 smartphones, &lt;b&gt;a source said&lt;/b&gt; on Monday, after reports of fires in &lt;br&gt;
+replacement&amp;nbsp;...</summary>
+  <cse:cacheId>naFZEeDxCPAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-samsung-electronics-smartphones-idUSKCN1290XH</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;technologyNews;FundsandETFs;everything;Deals;AllianzInvestments;Hyundai;newsproHome;audib2b;credit-rss;marine;cfaglobal;aa48hours;shipping;greenpeace;MBenz;globalinnovations;Intel;PFG;huawei;Fidelity2014;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Samsung+halts+Note+7+production+after+new+fire+scare%3A+source"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Se Young Lee"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Se Young Lee"/>
+    <cse:Attribute name="news_keywords" value="Australia;South Korea;United States;Eric Schiffer;Nataly Pak;Note;US;SAMSUNG;ELECTRONICS;SMARTPHONES;Fires;Company News;Communications Equipment (TRBC);Electrical Components and Equipment (TRBC);Integrated Telecommunications Services (TRBC);Technology (TRBC);Regulation;United States;South Korea;Wireless Telecommunications Services (TRBC);Australia;Europe;Technology / Media / Telecoms;Disasters / Accidents;Science;Asia / Pacific;Major News;General News;Corporate Events;Western Europe;China (PRC);Telecommunications Services (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Tue Oct 11 00:54:34 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Se Young Lee"/>
+    <cse:Attribute name="sailthru.date" value="2016-10-11T00:54:34+0000"/>
+    <cse:Attribute name="sailthru.title" value="Samsung halts Note 7 production after new fire scare: source"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Samsung halts Note 7 production after new fire scare: source"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-samsung-electronics-smartphones-idUSKCN1290XH"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Samsung Electronics Co Ltd has suspended production of its flagship Galaxy Note 7 smartphones, a source said on Monday, after reports of fires in replacement devices added to the tech giant&apos;s worst ever recall crisis."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161010&amp;t=2&amp;i=1156848203&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC990O3"/>
+    <cse:Attribute name="og:article:published_time" value="2016-10-11T00:54:34+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-10-11T00:54:34+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Se Young Lee"/>
+    <cse:Attribute name="og:article:tag" value="Australia,South Korea,United States,Eric Schiffer,Nataly Pak,Note,US,SAMSUNG,ELECTRONICS,SMARTPHONES,Fires,Company News,Communications Equipment (TRBC),Electrical Components and Equipment (TRBC),Integrated Telecommunications Services (TRBC),Technology (TRBC),Regulation,United States,South Korea,Wireless Telecommunications Services (TRBC),Australia,Europe,Technology / Media / Telecoms,Disasters / Accidents,Science,Asia / Pacific,Major News,General News,Corporate Events,Western Europe,China (PRC),Telecommunications Services (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Samsung halts Note 7 production after new fire scare: source"/>
+    <cse:Attribute name="twitter:description" value="Samsung Electronics Co Ltd has suspended production of its flagship Galaxy Note 7 smartphones, a source said on Monday, after reports of fires in replacement devices added to the tech giant&apos;s worst ever recall crisis."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161010&amp;t=2&amp;i=1156848203&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC990O3"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161010&amp;t=2&amp;i=1156848203&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC990O3"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161010&amp;t=2&amp;i=1156848203&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC990O3"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="270"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnotkDssH6bS4Aoyh2R14FvUOJJeCwo9Hy1nCNQg43FLEOkqIKRGQNWl2N"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://nypost.com/2016/10/06/verizon-wants-1b-discount-on-yahoo-deal-after-hacking-reports/</id>
+  <updated>1970-01-18T02:03:14.392Z</updated>
+  <title type="html">Verizon wants $1B discount on Yahoo deal after reports of hacking ...</title>
+  <link href="http://nypost.com/2016/10/06/verizon-wants-1b-discount-on-yahoo-deal-after-hacking-reports/" title="nypost.com"/>
+  <summary type="html">Armstrong flew to the West Coast in the past few days to meet with Yahoo &lt;br&gt;
+executives to hammer out a case for a price reduction, &lt;b&gt;a source said&lt;/b&gt;. “Tim was &lt;br&gt;
+out&amp;nbsp;...</summary>
+  <cse:cacheId>g_psVY2KKYIJ</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/.../verizon-wants-1b-discount-on-yahoo-deal-after-hacking- reports/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="copyright" value="Copyright 2016 NYP Holdings. All rights reserved."/>
+    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Verizon wants $1B discount on Yahoo deal after reports of hacking, spying"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2016/10/06/verizon-wants-1b-discount-on-yahoo-deal-after-hacking-reports/"/>
+    <cse:Attribute name="og:description" value="Verizon is pushing for a $1 billion discount off its pending $4.8 billion agreement to buy Yahoo, several sources told The Post exclusively. The request comes on the heels of the web giant getting …"/>
+    <cse:Attribute name="article:published_time" value="2016-10-06T22:02:35+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2016-10-07T15:03:06+00:00"/>
+    <cse:Attribute name="og:site_name" value="New York Post"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="twitter:site" value="@nypost"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2016/10/080215verizon1cs.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:creator" value="@claireatki"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
+    <cse:Attribute name="twitter:title" value="Verizon wants $1B discount on Yahoo deal after reports of hacking,"/>
+    <cse:Attribute name="twitter:description" value="Verizon is pushing for a $1 billion discount off its pending $4.8 billion agreement to buy Yahoo, several sources told The Post exclusively. The request comes on the heels of the web giant getting"/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2016/10/080215verizon1cs.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2016/10/080215verizon1cs.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i0.wp.com/thenypost.files.wordpress.com/2016/10/080215verizon1cs.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="nypost-section" value="Business"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10447336&quot;}"/>
+    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
+    <cse:Attribute name="fb:pages" value="134486075205"/>
+    <cse:Attribute name="application-name" value="New York Post"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2016/10/080215verizon1cs.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeX-ZZuQO_PjezNldQ1FkinTzmD5GYVMc3MTQZH5CO6AWP1LrSFFHE9cs"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-yahoo-nsa-exclusive-idUSKCN1241YT</id>
+  <updated>1970-01-18T02:03:14.392Z</updated>
+  <title type="html">Exclusive: Yahoo secretly scanned customer emails for U.S. ...</title>
+  <link href="http://www.reuters.com/article/us-yahoo-nsa-exclusive-idUSKCN1241YT" title="www.reuters.com"/>
+  <summary type="html">SEOUL Samsung Electronics Co Ltd suspended production of its flagship Galaxy &lt;br&gt;
+Note 7 smartphones, &lt;b&gt;a source said&lt;/b&gt; on Monday, after reports of fires in&amp;nbsp;...</summary>
+  <cse:cacheId>Y_I9lT0zIboJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-yahoo-nsa-exclusive-idUSKCN1241YT</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;technologyNews;internetNews;everything;Deals;AllianzRetirement;AllianzInvestments;Hyundai;newsproHome;audib2b;credit-rss;aa48hours;shipping;MBenz;ubs;globalinnovations;Intel;intelmicrosite;PFG;Fidelity2014;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;cyber;MOC_US_2015-16;USWire;ABG_2016;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Yahoo+secretly+scanned+customer+emails+for+U.S.+intelligence+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="3"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Joseph Menn"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow-Video"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Joseph Menn"/>
+    <cse:Attribute name="news_keywords" value="United States;Albert Gidari;Alex Stamos;Edward Snowden;Marissa Ann Mayer;Patrick Toomey;Ronald S. Bell;Stewart Baker;US;YAHOO;NSA;EXCLUSIVE;Computer Crime / Hacking / Cybercrime;United States;Software and IT Services (TRBC);US Government News;Conflicts / War / Peace;International / National Security;Company News;Crime / Law / Justice;Science;Media / Publishing (Legacy);Media and Publishing (TRBC);Judicial Process / Court Cases / Court Decisions;Major News;Corporate Events;Internet / World Wide Web;Software (TRBC);Exclusive;Privacy / Data Protection"/>
+    <cse:Attribute name="revision_date" value="Wed Oct 05 01:27:52 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Joseph Menn"/>
+    <cse:Attribute name="sailthru.date" value="2016-10-05T01:27:52+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Yahoo secretly scanned customer emails for U.S. intelligence - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Yahoo secretly scanned customer emails for U.S. intelligence - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-yahoo-nsa-exclusive-idUSKCN1241YT"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Yahoo Inc last year secretly built a custom software program to search all of its customers&apos; incoming emails for specific information provided by U.S. intelligence officials, according to people familiar with the matter."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161004&amp;t=2&amp;i=1156121420&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC931AC"/>
+    <cse:Attribute name="og:article:published_time" value="2016-10-05T01:27:52+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-10-05T01:27:52+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Joseph Menn"/>
+    <cse:Attribute name="og:article:tag" value="United States,Albert Gidari,Alex Stamos,Edward Snowden,Marissa Ann Mayer,Patrick Toomey,Ronald S. Bell,Stewart Baker,US,YAHOO,NSA,EXCLUSIVE,Computer Crime / Hacking / Cybercrime,United States,Software and IT Services (TRBC),US Government News,Conflicts / War / Peace,International / National Security,Company News,Crime / Law / Justice,Science,Media / Publishing (Legacy),Media and Publishing (TRBC),Judicial Process / Court Cases / Court Decisions,Major News,Corporate Events,Internet / World Wide Web,Software (TRBC),Exclusive,Privacy / Data Protection"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Yahoo secretly scanned customer emails for U.S. intelligence - sources"/>
+    <cse:Attribute name="twitter:description" value="Yahoo Inc last year secretly built a custom software program to search all of its customers&apos; incoming emails for specific information provided by U.S. intelligence officials, according to people familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161004&amp;t=2&amp;i=1156121420&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC931AC"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161004&amp;t=2&amp;i=1156121420&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC931AC"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161004&amp;t=2&amp;i=1156121420&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC931AC"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="273"/>
+    <cse:Attribute name="height" value="185"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdnonjIxNmkWOSnR7Ao4NCl-ozt-kLpfdb6nh0h-3_EQ0jkDVN7TpOtLoM"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.businessinsider.com/r-update-1-brazil-police-seek-more-charges-against-lula-in-graft-case---source-2016-10</id>
+  <updated>1970-01-18T02:03:14.392Z</updated>
+  <title type="html">UPDATE 1-Brazil police seek more charges against Lula in graft ...</title>
+  <link href="http://www.businessinsider.com/r-update-1-brazil-police-seek-more-charges-against-lula-in-graft-case---source-2016-10" title="www.businessinsider.com"/>
+  <summary type="html">... Luiz Inacio Lula da Silva in a case involving contracts obtained by building and &lt;br&gt;
+engineering conglomerate Odebrecht in Angola, &lt;b&gt;a source said&lt;/b&gt; on Wednesday.</summary>
+  <cse:cacheId>gAJWQZyfatUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-update-1-brazil-police-seek-more-charges-against -lula-in-graft-case---source-2016-10</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="date" value="2016-10-05"/>
+    <cse:Attribute name="sailthru.date" value="2016-10-05"/>
+    <cse:Attribute name="news_keywords" value="Reuters Company News, BRAZIL-CORRUPTION/LULA (UPDATE 1, PIX)"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters Company News, BRAZIL-CORRUPTION/LULA (UPDATE 1, PIX)"/>
+    <cse:Attribute name="sailthru.description" value="(Updates with comments from Lula&apos;s lawyers)SAO..."/>
+    <cse:Attribute name="title" value="UPDATE 1-Brazil police seek more charges against Lula in graft case - source"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Company News"/>
+    <cse:Attribute name="sailthru.title" value="UPDATE 1-Brazil police seek more charges against Lula in graft case - source"/>
+    <cse:Attribute name="og:title" value="UPDATE 1-Brazil police seek more charges against Lula in graft case - source"/>
+    <cse:Attribute name="og:description" value="(Updates with comments from Lula&apos;s lawyers)SAO..."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-update-1-brazil-police-seek-more-charges-against-lula-in-graft-case---source-2016-10"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-update-1-brazil-police-seek-more-charges-against-lula-in-graft-case---source-2016-10"/>
+    <cse:Attribute name="twitter:title" value="UPDATE 1-Brazil police seek more charges against Lula in graft case - source"/>
+    <cse:Attribute name="twitter:description" value="(Updates with comments from Lula&apos;s lawyers)SAO..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="UPDATE 1-Brazil police seek more charges against Lula in graft case - source"/>
+    <cse:Attribute name="url" value="UPDATE 1-Brazil police seek more charges against Lula in graft case - source"/>
+    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
+    <cse:Attribute name="description" value="(Updates with comments from Lula&apos;s lawyers)SAO..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/57d95e358b987d18049f3f06-300/google-play.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="240"/>
+    <cse:Attribute name="height" value="92"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5YRtIkcTbBuQ5x5xR9X6pc5jm8oN9HQGXKMaM6zPQc2DzOgJWg9Cgg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/sciencetech/article-3827700/Google-set-open-popup-Pixel-showroom-New-York-spends-hundreds-millions-Apple-s-iPhone.html</id>
+  <updated>1970-01-18T02:03:14.392Z</updated>
+  <title type="html">Google set to open popup Pixel showroom in New York | Daily Mail ...</title>
+  <link href="http://www.dailymail.co.uk/sciencetech/article-3827700/Google-set-open-popup-Pixel-showroom-New-York-spends-hundreds-millions-Apple-s-iPhone.html" title="www.dailymail.co.uk"/>
+  <summary type="html">However, &lt;b&gt;a source said&lt;/b&gt; it would not sell items - but simply let the public try them &lt;br&gt;
+out before ordering online or in traditional stores. Scroll down for video.</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Google-set-open-popup-Pixel-showroom-New-York -spends-hundreds-millions-Apple-s-iPhone.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Google,set,open,popup,Pixel,showroom,New,York,spends,hundreds,millions,Apple,s,iPhone"/>
+    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/sciencetech/article-3827700/Google-set-open-popup-Pixel-showroom-New-York-spends-hundreds-millions-Apple-s-iPhone.html"/>
+    <cse:Attribute name="channel" value="Science,Technology,Video Games,Space,Personal Technology,Internet,Geography,Environment,Computing,Science&amp;Tech"/>
+    <cse:Attribute name="rating" value="General"/>
+    <cse:Attribute name="doc-class" value="Living Document"/>
+    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
+    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
+    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="articleid" value="3827700"/>
+    <cse:Attribute name="divclasspage" value="articlePage"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Google set to open popup Pixel showroom in New York"/>
+    <cse:Attribute name="twitter:description" value="The firm confirmed the Spring Street location, close to Apple&apos;s own Soho store, will open to the public on the 20th October to show off the firm&apos;s newly announced range of products."/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/sciencetech/article-3827700/Google-set-open-popup-Pixel-showroom-New-York-spends-hundreds-millions-Apple-s-iPhone.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/2016/10/04/18/3919864800000578-0-image-a-28_1475601876311.jpg"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
+    <cse:Attribute name="article:published_time" value="2016-10-07T20:16:23+0100"/>
+    <cse:Attribute name="article:modified_time" value="2016-10-07T23:53:31+0100"/>
+    <cse:Attribute name="article:section" value="Science"/>
+    <cse:Attribute name="article:tag" value="Google set open popup Pixel showroom New York spends hundreds millions Apple s iPhone"/>
+    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Mark+Prigg+For+Dailymail.com"/>
+    <cse:Attribute name="fb:app_id" value="146202712090395"/>
+    <cse:Attribute name="og:site_name" value="Mail Online"/>
+    <cse:Attribute name="og:title" value="Google set to open popup Pixel showroom in New York"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The firm confirmed the Spring Street location, close to Apple&apos;s own Soho store, will open to the public on the 20th October to show off the firm&apos;s newly announced range of products."/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-3827700/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/2016/10/04/18/3919864800000578-0-image-a-28_1475601876311.jpg"/>
+    <cse:Attribute name="og:image:width" value="636"/>
+    <cse:Attribute name="og:image:height" value="382"/>
+    <cse:Attribute name="og:video" value="http://video.dailymail.co.uk/video/mol/2016/10/04/3195805410323876313/1024x576_MP4_3195805410323876313.mp4"/>
+    <cse:Attribute name="og:video:type" value="video/mp4"/>
+    <cse:Attribute name="og:video:width" value="636"/>
+    <cse:Attribute name="og:video:height" value="358"/>
+    <cse:Attribute name="al:android:url" value="dailymail-fb://article/3827700/"/>
+    <cse:Attribute name="al:android:package" value="com.dailymail.online"/>
+    <cse:Attribute name="al:android:app_name" value="Daily Mail Online"/>
+    <cse:Attribute name="al:ios:url" value="dailymail-fb://article/3827700/"/>
+    <cse:Attribute name="al:ios:app_store_id" value="384101264"/>
+    <cse:Attribute name="al:ios:app_name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Google set to open popup Pixel showroom in New York"/>
+    <cse:Attribute name="datepublished" value="2016-10-07T20:16:23+0100"/>
+    <cse:Attribute name="datemodified" value="2016-10-07T23:53:31+0100"/>
+    <cse:Attribute name="articlebody" value="Google is to open a pop up showroom in Manhattan&apos;s trendy Soho as it bids to take on Apple with its new range of Pixel phones.The firm confirmed the Spring Street location, close to Apple&apos;s..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Mark Prigg For Dailymail.com Reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/2016/10/04/18/3919864800000578-0-image-a-28_1475601876311.jpg"/>
+    <cse:Attribute name="height" value="382"/>
+    <cse:Attribute name="width" value="636"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
+    <cse:Attribute name="width" value="350"/>
+    <cse:Attribute name="height" value="66"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/2016/10/04/18/3919864800000578-0-image-a-28_1475601876311.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="290"/>
+    <cse:Attribute name="height" value="174"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgdbacLQe3XT9ZA37nTHpW9RJoE4tKTRr0IW2QqPWSDDcI5b6HZGxKcGfv"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-eu-amazon-antitrust-idUSKCN124225</id>
+  <updated>1970-01-18T02:03:14.392Z</updated>
+  <title type="html">Amazon seeks to settle EU antitrust e-book investigation: source ...</title>
+  <link href="http://www.reuters.com/article/us-eu-amazon-antitrust-idUSKCN124225" title="www.reuters.com"/>
+  <summary type="html">SEOUL Samsung Electronics Co Ltd has suspended production of its flagship &lt;br&gt;
+Galaxy Note 7 smartphones, &lt;b&gt;a source said&lt;/b&gt; on Monday, after reports of fires in&amp;nbsp;...</summary>
+  <cse:cacheId>eSNY2_rYOBkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-eu-amazon-antitrust-idUSKCN124225</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;technologyNews;internetNews;newsproHome;audib2b;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Amazon+seeks+to+settle+EU+antitrust+e-book+investigation%3A+source"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Foo Yun Chee"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Foo Yun Chee"/>
+    <cse:Attribute name="news_keywords" value="Luxembourg;United States;Ricardo Cardoso;US;EU;AMAZON;ANTITRUST;Corporate Governance;Taxation;United States;Europe;Publishing (TRBC);Company News;European Union;Science;Monopolies / Antitrust Issues;Media / Publishing (Legacy);Department Stores (TRBC);EU Institutions;Government / Politics;Anti;competitive Behaviour / Price Fixing;Media and Publishing (TRBC);Corporate Events;Internet / World Wide Web;Western Europe;Germany;Economic Events;Regulation"/>
+    <cse:Attribute name="revision_date" value="Tue Oct 04 17:52:58 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Foo Yun Chee"/>
+    <cse:Attribute name="sailthru.date" value="2016-10-04T17:52:58+0000"/>
+    <cse:Attribute name="sailthru.title" value="Amazon seeks to settle EU antitrust e-book investigation: source"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Amazon seeks to settle EU antitrust e-book investigation: source"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-eu-amazon-antitrust-idUSKCN124225"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Amazon is talking to European Union antitrust regulators about settling a year-long investigation into its e-book deals with publishers without a fine, a person familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161004&amp;t=2&amp;i=1156095305&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC9319Q"/>
+    <cse:Attribute name="og:article:published_time" value="2016-10-04T17:52:58+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-10-04T17:52:58+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Foo Yun Chee"/>
+    <cse:Attribute name="og:article:tag" value="Luxembourg,United States,Ricardo Cardoso,US,EU,AMAZON,ANTITRUST,Corporate Governance,Taxation,United States,Europe,Publishing (TRBC),Company News,European Union,Science,Monopolies / Antitrust Issues,Media / Publishing (Legacy),Department Stores (TRBC),EU Institutions,Government / Politics,Anti,competitive Behaviour / Price Fixing,Media and Publishing (TRBC),Corporate Events,Internet / World Wide Web,Western Europe,Germany,Economic Events,Regulation"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Amazon seeks to settle EU antitrust e-book investigation: source"/>
+    <cse:Attribute name="twitter:description" value="Amazon is talking to European Union antitrust regulators about settling a year-long investigation into its e-book deals with publishers without a fine, a person familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161004&amp;t=2&amp;i=1156095305&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC9319Q"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161004&amp;t=2&amp;i=1156095305&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC9319Q"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.foxnews.com/us/2016/10/09/ex-nypd-detective-on-90g-disability-also-draws-salary-as-security-boss-report-says.html</id>
+  <updated>1970-01-18T02:03:14.392Z</updated>
+  <title type="html">Ex-NYPD detective on $90G disability also draws salary as security ...</title>
+  <link href="http://www.foxnews.com/us/2016/10/09/ex-nypd-detective-on-90g-disability-also-draws-salary-as-security-boss-report-says.html" title="www.foxnews.com"/>
+  <summary type="html">“He didn&amp;#39;t waste any time leaving the NYPD and starting to work here,” &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;said&lt;/b&gt;. “He supposedly has a back problem, but he&amp;#39;s bending down and picking&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.foxnews.com/.../ex-nypd-detective-on-90g-disability-also-draws-salary- as-security-boss-report-says.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="dc.title" value="Ex-Nypd Detective On $90g Disability Also Draws Salary As Security Boss, Report Says"/>
+    <cse:Attribute name="dc.description" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday."/>
+    <cse:Attribute name="dcterms.abstract" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday."/>
+    <cse:Attribute name="dc.publisher" value="Fox News"/>
+    <cse:Attribute name="dc.date" value="2016-10-09"/>
+    <cse:Attribute name="dcterms.created" value="2016-10-09 11:19:19 EDT"/>
+    <cse:Attribute name="dcterms.modified" value="2016-10-09 11:19:19 EDT"/>
+    <cse:Attribute name="dc.source" value="FoxNews.com"/>
+    <cse:Attribute name="dc.identifier" value="9bc71d62-f00b-452c-bf2c-0f7d40cfd5a8"/>
+    <cse:Attribute name="prism.aggregationtype" value="subsection"/>
+    <cse:Attribute name="dc.type" value="Text.Article"/>
+    <cse:Attribute name="prism.channel" value="fnc"/>
+    <cse:Attribute name="prism.section" value="us"/>
+    <cse:Attribute name="og:title" value="Ex-Nypd Detective On $90g Disability Also Draws Salary As Security Boss, Report Says"/>
+    <cse:Attribute name="og:description" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg"/>
+    <cse:Attribute name="og:url" value="http://www.foxnews.com/us/2016/10/09/ex-nypd-detective-on-90g-disability-also-draws-salary-as-security-boss-report-says.html"/>
+    <cse:Attribute name="og:site_name" value="Fox News"/>
+    <cse:Attribute name="classification" value="/FOX NEWS/US/CRIME/Police and Law Enforcement,/FOX NEWS/US,/FOX NEWS/US/US REGIONS/Northeast/New York"/>
+    <cse:Attribute name="classification-isa" value="us,newyork"/>
+    <cse:Attribute name="fb:app_id" value="113186182048399"/>
+    <cse:Attribute name="twitter:site" value="@foxnews"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Ex-NYPD detective on $90G disability also draws salary as security boss, report says"/>
+    <cse:Attribute name="twitter:description" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday."/>
+    <cse:Attribute name="twitter:url" value="http://www.foxnews.com/us/2016/10/09/ex-nypd-detective-on-90g-disability-also-draws-salary-as-security-boss-report-says.html"/>
+    <cse:Attribute name="twitter:creator" value="@foxnews"/>
+    <cse:Attribute name="dc.format" value="text/html"/>
+    <cse:Attribute name="dc.language" value="en-US"/>
+    <cse:Attribute name="pagetype" value="article"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="description" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday."/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Ex-NYPD detective on $90G disability also draws salary as security boss, report says"/>
+    <cse:Attribute name="datepublished" value="2016-10-09T10:48:00.000-04:00"/>
+    <cse:Attribute name="articlebody" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday. ADVERTISEMENT..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Jim Murray"/>
+    <cse:Attribute name="datecreated" value="2016-10-09T15:42:32.000Z"/>
+    <cse:Attribute name="text" value="American greed at it&apos;s worst."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="225"/>
+    <cse:Attribute name="height" value="225"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtA4dcAWgubDFdNCS7BQ-vDQLnHUFiJyP8-tvcTg5YVsY9NgCTdcsYMvo"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.mirror.co.uk/news/uk-news/nigel-farage-secret-plan-reclaim-8986635</id>
+  <updated>1970-01-18T02:03:14.392Z</updated>
+  <title type="html">Nigel Farage had secret plan to reclaim the UKIP leadership in 2018 ...</title>
+  <link href="http://www.mirror.co.uk/news/uk-news/nigel-farage-secret-plan-reclaim-8986635" title="www.mirror.co.uk"/>
+  <summary type="html">&lt;b&gt;A source said&lt;/b&gt;: “When Diane called up Carswell at conference, that p***** off &lt;br&gt;
+Arron Banks.” Ukip chaos as Nigel Farage IS still leader after Diane James quit &lt;br&gt;
+18&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.mirror.co.uk/news/uk.../nigel-farage-secret-plan-reclaim-8986635</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Nigel Farage,European Union,UKIP,Electoral Commission,Douglas Carswell,Politics,UKIP leadership election"/>
+    <cse:Attribute name="article:id" value="mirror-8986635"/>
+    <cse:Attribute name="author" value="Ben Glaze"/>
+    <cse:Attribute name="fb:page_id" value="6149699161"/>
+    <cse:Attribute name="fb:app_id" value="123792601022133"/>
+    <cse:Attribute name="og:site_name" value="mirror"/>
+    <cse:Attribute name="og:language" value="en"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Nigel Farage&apos;s secret plan to reclaim the UKIP leadership"/>
+    <cse:Attribute name="og:url" value="http://www.mirror.co.uk/news/uk-news/nigel-farage-secret-plan-reclaim-8986635"/>
+    <cse:Attribute name="og:tags" value="European Union, UKIP, Electoral Commission, Douglas Carswell, Nigel Farage, Politics, UKIP leadership election"/>
+    <cse:Attribute name="article:tag" value="European Union"/>
+    <cse:Attribute name="og:description" value="An insider claims Diane James, who quit as leader after just 18 days, was persuaded to take the job by two donors close to Mr Farage but did not want it"/>
+    <cse:Attribute name="og:section" value="UK News"/>
+    <cse:Attribute name="og:image" value="http://i1.mirror.co.uk/incoming/article8986218.ece/ALTERNATES/s1200/I161005_180329_1063373oTextTRMRMMGLPICT000099766798o.jpg"/>
+    <cse:Attribute name="article:published_time" value="2016-10-05T20:59:07+01:00"/>
+    <cse:Attribute name="article:modified_time" value="2016-10-06T14:12:53+01:00"/>
+    <cse:Attribute name="article:expiration_time" value="2016-11-05T13:12:53Z"/>
+    <cse:Attribute name="article:section" value="UK News"/>
+    <cse:Attribute name="msvalidate.01" value="17DA4C91A126705A8B1E2A5FD7CAC9EF"/>
+    <cse:Attribute name="p:domain_verify" value="577b698d862f6a62889e9d497b953b65"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="News"/>
+    <cse:Attribute name="url" value="News"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="UK News"/>
+    <cse:Attribute name="url" value="UK News"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Nigel Farage"/>
+    <cse:Attribute name="url" value="Nigel Farage"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Nigel Farage had secret plan to reclaim the UKIP leadership in 2018 and stand for Parliament"/>
+    <cse:Attribute name="name" value="Nigel Farage had secret plan to reclaim the UKIP leadership in 2018 and stand for Parliament"/>
+    <cse:Attribute name="datepublished" value="2016-10-05T20:59+01:00"/>
+    <cse:Attribute name="datemodified" value="2016-10-06T14:12+01:00"/>
+    <cse:Attribute name="author" value="Ben Glaze"/>
+    <cse:Attribute name="description" value="An insider claims Diane James, who quit as leader after just 18 days, was persuaded to take the job by two donors close to Mr Farage but did not want it"/>
+    <cse:Attribute name="image" value="http://i2.mirror.co.uk/incoming/article8986218.ece/ALTERNATES/s615/I161005_180329_1063373oTextTRMRMMGLPICT000099766798o.jpg"/>
+    <cse:Attribute name="articlebody" value="Nigel Farage had a sneaky plan to lead UKIP again then stand for Parliament, a source has revealed. Mr Farage hoped Diane James would head the anti-EU party until the 2018 English local elections...."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.mirror.co.uk/incoming/article8344354.ece/ALTERNATES/s225/Nigel-Farage.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="180"/>
+    <cse:Attribute name="height" value="119"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS80IF-8kRs1SSEWtJ6wd3T8mNm0AlFB4LYI5gf1gcWQ-TPpe5eUdQi5Mg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://espn.go.com/espn/now?nowId=21-0537713790351841228-4</id>
+  <updated>1970-01-18T02:03:14.392Z</updated>
+  <title type="html">Marc J. Spears of The Undefeated</title>
+  <link href="http://espn.go.com/espn/now?nowId=21-0537713790351841228-4" title="espn.go.com"/>
+  <summary type="html"/>
+  <cse:formattedUrl type="html">espn.go.com/espn/now?nowId=21-0537713790351841228-4</cse:formattedUrl>
+ </entry>
 </feed>
