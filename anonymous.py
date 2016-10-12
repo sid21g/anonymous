@@ -72,22 +72,28 @@ for phrase in phrases:
 
 
 # Delete duplicates for the same outlet
-curs.execute('DELETE '
-             'FROM anon '
-             'WHERE ROWID '
-             'NOT IN '
-             '(SELECT min(ROWID) '
-             'FROM anon '
-             'GROUP BY source, content)')
+try:
+    curs.execute('DELETE '
+                 'FROM anon '
+                 'WHERE ROWID '
+                 'NOT IN '
+                 '(SELECT min(ROWID) '
+                 'FROM anon '
+                 'GROUP BY source, content)')
+except Error as e:
+    print("Oops, content deletion didn't work: ", e.args[0])
 
 
-curs.execute('DELETE '
-             'FROM anon '
-             'WHERE ROWID '
-             'NOT IN '
-             '(SELECT min(ROWID) '
-             'FROM anon '
-             'GROUP BY source, title)')
+try:
+    curs.execute('DELETE '
+                 'FROM anon '
+                 'WHERE ROWID '
+                 'NOT IN '
+                 '(SELECT min(ROWID) '
+                 'FROM anon '
+                 'GROUP BY source, title)')
+except Error as e:
+    print("Oops, title deletion didn't work: ", e.args[0])
 
 
 f = open(CSV_FILE,
