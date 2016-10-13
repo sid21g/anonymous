@@ -81,7 +81,7 @@ try:
                  'FROM anon '
                  'GROUP BY source, content)')
 except Error as e:
-    print("Oops, content deletion didn't work: ", e.args[0])
+    print("Oops, duplicate content deletion didn't work: ", e.args[0])
 
 
 try:
@@ -93,7 +93,19 @@ try:
                  'FROM anon '
                  'GROUP BY source, title)')
 except Error as e:
-    print("Oops, title deletion didn't work: ", e.args[0])
+    print("Oops, duplicate title deletion didn't work: ", e.args[0])
+
+
+try:
+    curs.execute('DELETE '
+                 'FROM anon '
+                 'WHERE ROWID '
+                 'NOT IN '
+                 '(SELECT min(ROWID) '
+                 'FROM anon '
+                 'GROUP BY source, link)')
+except Error as e:
+    print("Oops, duplicate link deletion didn't work: ", e.args[0])
 
 
 f = open(CSV_FILE,

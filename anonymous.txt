@@ -1,19 +1,754 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - </title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q=&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-18T02:04:01.775Z</updated>
+ <title>Google Custom Search - "a source said"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="a source said"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-18T02:05:29.068Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - " totalResults="0" searchTerms="" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source said&quot;" totalResults="15600" searchTerms="&quot;a source said&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source said&quot;" totalResults="15600" searchTerms="&quot;a source said&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>15600</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.009043</cse:searchTime>
-  <cse:formattedSearchTime>0.01</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.494371</cse:searchTime>
+  <cse:formattedSearchTime>0.49</cse:formattedSearchTime>
+  <cse:totalResults>15600</cse:totalResults>
+  <cse:formattedTotalResults>15,600</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/</id>
+  <updated>1970-01-18T02:05:29.068Z</updated>
+  <title type="html">Paul Ryan said he won&amp;#39;t defend Donald Trump - CNNPolitics.com</title>
+  <link href="http://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/" title="www.cnn.com"/>
+  <summary type="html">&lt;b&gt;A source said&lt;/b&gt; the speaker would campaign in 17 states and 42 cities this month. &lt;br&gt;
+A spokesman for Trump&amp;#39;s campaign, Jason Miller, tweeted after the news broke,&amp;nbsp;...</summary>
+  <cse:cacheId>BcRWATYsqGYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2016/.../paul-ryan-said-he-wont-defend-donald-trump/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2016-10-10T15:32:54Z"/>
+    <cse:Attribute name="pubdate" value="2016-10-10T15:32:54Z"/>
+    <cse:Attribute name="lastmod" value="2016-10-11T13:41:54Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/index.html"/>
+    <cse:Attribute name="author" value="Kevin Liptak, Manu Raju and Deirdre Walsh, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/mkraju00"/>
+    <cse:Attribute name="og:title" value="Paul Ryan said he won&apos;t defend Donald Trump"/>
+    <cse:Attribute name="og:description" value="House Speaker Paul Ryan dealt his own party&apos;s presidential nominee a withering blow Monday, telling fellow Republicans he will no longer defend Donald Trump and will instead use the next 29 days to focus on preserving his party&apos;s hold on Congress."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,bra-2016-key-race-alerts,art-vid-vls-col,col-trump-vs.-gop"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2016-10-10T15:32:54Z"/>
+    <cse:Attribute name="datepublished" value="2016-10-10T15:32:54Z"/>
+    <cse:Attribute name="datemodified" value="2016-10-11T13:41:54Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/index.html"/>
+    <cse:Attribute name="author" value="Kevin Liptak, Manu Raju and Deirdre Walsh, CNN"/>
+    <cse:Attribute name="headline" value="Paul Ryan said he won&apos;t defend Donald Trump - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="House Speaker Paul Ryan dealt his own party&apos;s presidential nominee a withering blow Monday, telling fellow Republicans he will no longer defend Donald Trump and will instead use the next 29..."/>
+    <cse:Attribute name="keywords" value="Paul Ryan, Donald Trump, politics, Paul Ryan said he won&apos;t defend Donald Trump - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Paul Ryan said he won&apos;t defend Donald Trump"/>
+    <cse:Attribute name="articlebody" value="Story highlightsHouse Speaker Paul Ryan spoke to his fellow Republicans on a conference call Monday morningThe Wisconsin Republican said he&apos;ll focus solely on keeping Congress under GOP controlWash..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.turner.com/cnnnext/dam/assets/160805161700-paul-ryan-donald-trump-split-large-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-samsung-electronics-smartphones-idUSKCN1290XH</id>
+  <updated>1970-01-18T02:05:29.068Z</updated>
+  <title type="html">Samsung halts Note 7 production after new fire scare: source | Reuters</title>
+  <link href="http://www.reuters.com/article/us-samsung-electronics-smartphones-idUSKCN1290XH" title="www.reuters.com"/>
+  <summary type="html">Samsung Electronics Co Ltd has suspended production of its flagship Galaxy &lt;br&gt;
+Note 7 smartphones, &lt;b&gt;a source said&lt;/b&gt; on Monday, after reports of fires in &lt;br&gt;
+replacement&amp;nbsp;...</summary>
+  <cse:cacheId>naFZEeDxCPAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-samsung-electronics-smartphones-idUSKCN1290XH</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;technologyNews;FundsandETFs;everything;Deals;AllianzInvestments;Hyundai;newsproHome;audib2b;credit-rss;marine;cfaglobal;aa48hours;shipping;greenpeace;MBenz;globalinnovations;Intel;PFG;huawei;Fidelity2014;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Samsung+halts+Note+7+production+after+new+fire+scare%3A+source"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Se Young Lee"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Se Young Lee"/>
+    <cse:Attribute name="news_keywords" value="Australia;South Korea;United States;Eric Schiffer;Nataly Pak;Note;US;SAMSUNG;ELECTRONICS;SMARTPHONES;Fires;Company News;Communications Equipment (TRBC);Electrical Components and Equipment (TRBC);Integrated Telecommunications Services (TRBC);Technology (TRBC);Regulation;United States;South Korea;Wireless Telecommunications Services (TRBC);Australia;Europe;Technology / Media / Telecoms;Disasters / Accidents;Science;Asia / Pacific;Major News;General News;Corporate Events;Western Europe;China (PRC);Telecommunications Services (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Wed Oct 12 05:36:33 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Se Young Lee"/>
+    <cse:Attribute name="sailthru.date" value="2016-10-12T05:36:33+0000"/>
+    <cse:Attribute name="sailthru.title" value="Samsung halts Note 7 production after new fire scare: source"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Samsung halts Note 7 production after new fire scare: source"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-samsung-electronics-smartphones-idUSKCN1290XH"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Samsung Electronics Co Ltd has suspended production of its flagship Galaxy Note 7 smartphones, a source said on Monday, after reports of fires in replacement devices added to the tech giant&apos;s worst ever recall crisis."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161010&amp;t=2&amp;i=1156848203&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC990O3"/>
+    <cse:Attribute name="og:article:published_time" value="2016-10-12T05:36:33+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-10-12T05:36:33+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Se Young Lee"/>
+    <cse:Attribute name="og:article:tag" value="Australia,South Korea,United States,Eric Schiffer,Nataly Pak,Note,US,SAMSUNG,ELECTRONICS,SMARTPHONES,Fires,Company News,Communications Equipment (TRBC),Electrical Components and Equipment (TRBC),Integrated Telecommunications Services (TRBC),Technology (TRBC),Regulation,United States,South Korea,Wireless Telecommunications Services (TRBC),Australia,Europe,Technology / Media / Telecoms,Disasters / Accidents,Science,Asia / Pacific,Major News,General News,Corporate Events,Western Europe,China (PRC),Telecommunications Services (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Samsung halts Note 7 production after new fire scare: source"/>
+    <cse:Attribute name="twitter:description" value="Samsung Electronics Co Ltd has suspended production of its flagship Galaxy Note 7 smartphones, a source said on Monday, after reports of fires in replacement devices added to the tech giant&apos;s worst ever recall crisis."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161010&amp;t=2&amp;i=1156848203&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC990O3"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161010&amp;t=2&amp;i=1156848203&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC990O3"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161010&amp;t=2&amp;i=1156848203&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC990O3"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="270"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnotkDssH6bS4Aoyh2R14FvUOJJeCwo9Hy1nCNQg43FLEOkqIKRGQNWl2N"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://nypost.com/2016/10/06/verizon-wants-1b-discount-on-yahoo-deal-after-hacking-reports/</id>
+  <updated>1970-01-18T02:05:29.068Z</updated>
+  <title type="html">Verizon wants $1B discount on Yahoo deal after reports of hacking ...</title>
+  <link href="http://nypost.com/2016/10/06/verizon-wants-1b-discount-on-yahoo-deal-after-hacking-reports/" title="nypost.com"/>
+  <summary type="html">Armstrong flew to the West Coast in the past few days to meet with Yahoo &lt;br&gt;
+executives to hammer out a case for a price reduction, &lt;b&gt;a source said&lt;/b&gt;. “Tim was &lt;br&gt;
+out&amp;nbsp;...</summary>
+  <cse:cacheId>g_psVY2KKYIJ</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/.../verizon-wants-1b-discount-on-yahoo-deal-after-hacking- reports/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="copyright" value="Copyright 2016 NYP Holdings. All rights reserved."/>
+    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Verizon wants $1B discount on Yahoo deal after reports of hacking, spying"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2016/10/06/verizon-wants-1b-discount-on-yahoo-deal-after-hacking-reports/"/>
+    <cse:Attribute name="og:description" value="Verizon is pushing for a $1 billion discount off its pending $4.8 billion agreement to buy Yahoo, several sources told The Post exclusively. The request comes on the heels of the web giant getting …"/>
+    <cse:Attribute name="article:published_time" value="2016-10-06T22:02:35+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2016-10-07T15:03:06+00:00"/>
+    <cse:Attribute name="og:site_name" value="New York Post"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="twitter:site" value="@nypost"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2016/10/080215verizon1cs.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:creator" value="@claireatki"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
+    <cse:Attribute name="twitter:title" value="Verizon wants $1B discount on Yahoo deal after reports of hacking,"/>
+    <cse:Attribute name="twitter:description" value="Verizon is pushing for a $1 billion discount off its pending $4.8 billion agreement to buy Yahoo, several sources told The Post exclusively. The request comes on the heels of the web giant getting"/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2016/10/080215verizon1cs.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2016/10/080215verizon1cs.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i0.wp.com/thenypost.files.wordpress.com/2016/10/080215verizon1cs.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="nypost-section" value="Business"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10447336&quot;}"/>
+    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
+    <cse:Attribute name="fb:pages" value="134486075205"/>
+    <cse:Attribute name="application-name" value="New York Post"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2016/10/080215verizon1cs.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeX-ZZuQO_PjezNldQ1FkinTzmD5GYVMc3MTQZH5CO6AWP1LrSFFHE9cs"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.mirror.co.uk/3am/celebrity-news/rihanna-drake-in-open-relationship-9020539</id>
+  <updated>1970-01-18T02:05:29.068Z</updated>
+  <title type="html">Rihanna and Drake are &amp;#39;in an open relationship&amp;#39; following reports ...</title>
+  <link href="http://www.mirror.co.uk/3am/celebrity-news/rihanna-drake-in-open-relationship-9020539" title="www.mirror.co.uk"/>
+  <summary type="html">The two stars - who are said to &amp;quot;still love each other&amp;quot; - are thought to be dating but &lt;br&gt;
+in a less exclusive, and more open romance. A source told PEOPLE magazine&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.mirror.co.uk/3am/.../rihanna-drake-in-open-relationship-9020539</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Rihanna,Drake"/>
+    <cse:Attribute name="article:id" value="mirror-9020539"/>
+    <cse:Attribute name="author" value="Alistair McGeorge"/>
+    <cse:Attribute name="fb:page_id" value="6149699161"/>
+    <cse:Attribute name="fb:app_id" value="123792601022133"/>
+    <cse:Attribute name="og:site_name" value="mirror"/>
+    <cse:Attribute name="og:language" value="en"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Rihanna and Drake are &apos;in an open relationship&apos; following reports they split"/>
+    <cse:Attribute name="og:url" value="http://www.mirror.co.uk/3am/celebrity-news/rihanna-drake-in-open-relationship-9020539"/>
+    <cse:Attribute name="og:tags" value="Rihanna, Drake"/>
+    <cse:Attribute name="article:tag" value="Rihanna"/>
+    <cse:Attribute name="og:description" value="It is said the pair are no longer exclusive"/>
+    <cse:Attribute name="og:section" value="Celebrity News"/>
+    <cse:Attribute name="og:image" value="http://i3.mirror.co.uk/incoming/article8727296.ece/ALTERNATES/s1200/MAIN-Drake-and-Rihanna.jpg"/>
+    <cse:Attribute name="article:published_time" value="2016-10-11T08:11:40+01:00"/>
+    <cse:Attribute name="article:modified_time" value="2016-10-11T08:57:23+01:00"/>
+    <cse:Attribute name="article:expiration_time" value="2016-11-10T07:57:23Z"/>
+    <cse:Attribute name="article:section" value="Celebrity News"/>
+    <cse:Attribute name="msvalidate.01" value="17DA4C91A126705A8B1E2A5FD7CAC9EF"/>
+    <cse:Attribute name="p:domain_verify" value="577b698d862f6a62889e9d497b953b65"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="3am"/>
+    <cse:Attribute name="url" value="3am"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Celebrity News"/>
+    <cse:Attribute name="url" value="Celebrity News"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Rihanna"/>
+    <cse:Attribute name="url" value="Rihanna"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Rihanna and Drake are &apos;in an open relationship&apos; following reports they split as rapper is seen with model"/>
+    <cse:Attribute name="name" value="Rihanna and Drake are &apos;in an open relationship&apos; following reports they split as rapper is seen with model"/>
+    <cse:Attribute name="datepublished" value="2016-10-11T08:11+01:00"/>
+    <cse:Attribute name="datemodified" value="2016-10-11T08:57+01:00"/>
+    <cse:Attribute name="author" value="Alistair McGeorge"/>
+    <cse:Attribute name="description" value="It is said the pair are no longer exclusive"/>
+    <cse:Attribute name="image" value="http://i4.mirror.co.uk/incoming/article8727296.ece/ALTERNATES/s615/MAIN-Drake-and-Rihanna.jpg"/>
+    <cse:Attribute name="articlebody" value="Drake and Rihanna are reportedly still together following claims they had broken up. The two stars - who are said to &quot;still love each other&quot; - are thought to be dating but in a less exclusive,..."/>
+   </cse:DataObject>
+   <cse:DataObject type="videoobject">
+    <cse:Attribute name="name" value="Preview of Rihanna&apos;s Puma collection"/>
+    <cse:Attribute name="description" value="Rihanna shares a preview clip of Rihanna&apos;s Puma collection."/>
+    <cse:Attribute name="duration" value="PT0M29S"/>
+    <cse:Attribute name="thumbnailurl" value="http://brightcove04.o.brightcove.com/4221396001/4221396001_5146756165001_5146737078001-vs.jpg?pubId=4221396001"/>
+    <cse:Attribute name="uploaddate" value="2016-09-29T14:14:27Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i3.mirror.co.uk/incoming/article8727296.ece/ALTERNATES/s1200/MAIN-Drake-and-Rihanna.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCLPFU_iZfzEsThq9jyzbrOr2fJ2DXxxIiQelXyobBFIfSIf6ikqC2tL0"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/sciencetech/article-3827700/Google-set-open-popup-Pixel-showroom-New-York-spends-hundreds-millions-Apple-s-iPhone.html</id>
+  <updated>1970-01-18T02:05:29.068Z</updated>
+  <title type="html">Google set to open popup Pixel showroom in New York | Daily Mail ...</title>
+  <link href="http://www.dailymail.co.uk/sciencetech/article-3827700/Google-set-open-popup-Pixel-showroom-New-York-spends-hundreds-millions-Apple-s-iPhone.html" title="www.dailymail.co.uk"/>
+  <summary type="html">However, &lt;b&gt;a source said&lt;/b&gt; it would not sell items - but simply let the public try them &lt;br&gt;
+out before ordering online or in traditional stores. Scroll down for video.</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Google-set-open-popup-Pixel-showroom-New-York -spends-hundreds-millions-Apple-s-iPhone.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Google,set,open,popup,Pixel,showroom,New,York,spends,hundreds,millions,Apple,s,iPhone"/>
+    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/sciencetech/article-3827700/Google-set-open-popup-Pixel-showroom-New-York-spends-hundreds-millions-Apple-s-iPhone.html"/>
+    <cse:Attribute name="channel" value="Science,Technology,Video Games,Space,Personal Technology,Internet,Geography,Environment,Computing,Science&amp;Tech"/>
+    <cse:Attribute name="rating" value="General"/>
+    <cse:Attribute name="doc-class" value="Living Document"/>
+    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
+    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
+    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="articleid" value="3827700"/>
+    <cse:Attribute name="divclasspage" value="articlePage"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Google set to open popup Pixel showroom in New York"/>
+    <cse:Attribute name="twitter:description" value="The firm confirmed the Spring Street location, close to Apple&apos;s own Soho store, will open to the public on the 20th October to show off the firm&apos;s newly announced range of products."/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/sciencetech/article-3827700/Google-set-open-popup-Pixel-showroom-New-York-spends-hundreds-millions-Apple-s-iPhone.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/2016/10/04/18/3919864800000578-0-image-a-28_1475601876311.jpg"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
+    <cse:Attribute name="article:published_time" value="2016-10-07T20:16:23+0100"/>
+    <cse:Attribute name="article:modified_time" value="2016-10-07T23:53:31+0100"/>
+    <cse:Attribute name="article:section" value="Science"/>
+    <cse:Attribute name="article:tag" value="Google set open popup Pixel showroom New York spends hundreds millions Apple s iPhone"/>
+    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Mark+Prigg+For+Dailymail.com"/>
+    <cse:Attribute name="fb:app_id" value="146202712090395"/>
+    <cse:Attribute name="og:site_name" value="Mail Online"/>
+    <cse:Attribute name="og:title" value="Google set to open popup Pixel showroom in New York"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The firm confirmed the Spring Street location, close to Apple&apos;s own Soho store, will open to the public on the 20th October to show off the firm&apos;s newly announced range of products."/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-3827700/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/2016/10/04/18/3919864800000578-0-image-a-28_1475601876311.jpg"/>
+    <cse:Attribute name="og:image:width" value="636"/>
+    <cse:Attribute name="og:image:height" value="382"/>
+    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
+    <cse:Attribute name="og:video" value="http://video.dailymail.co.uk/video/mol/2016/10/04/8443211359735495369/1024x576_MP4_8443211359735495369.mp4"/>
+    <cse:Attribute name="og:video:type" value="video/mp4"/>
+    <cse:Attribute name="og:video:width" value="636"/>
+    <cse:Attribute name="og:video:height" value="358"/>
+    <cse:Attribute name="al:android:url" value="dailymail-fb://article/3827700/"/>
+    <cse:Attribute name="al:android:package" value="com.dailymail.online"/>
+    <cse:Attribute name="al:android:app_name" value="Daily Mail Online"/>
+    <cse:Attribute name="al:ios:url" value="dailymail-fb://article/3827700/"/>
+    <cse:Attribute name="al:ios:app_store_id" value="384101264"/>
+    <cse:Attribute name="al:ios:app_name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Google set to open popup Pixel showroom in New York"/>
+    <cse:Attribute name="datepublished" value="2016-10-07T20:16:23+0100"/>
+    <cse:Attribute name="datemodified" value="2016-10-07T23:53:31+0100"/>
+    <cse:Attribute name="articlebody" value="Google is to open a pop up showroom in Manhattan&apos;s trendy Soho as it bids to take on Apple with its new range of Pixel phones.The firm confirmed the Spring Street location, close to Apple&apos;s..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Mark Prigg For Dailymail.com Reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/2016/10/04/18/3919864800000578-0-image-a-28_1475601876311.jpg"/>
+    <cse:Attribute name="height" value="382"/>
+    <cse:Attribute name="width" value="636"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
+    <cse:Attribute name="width" value="350"/>
+    <cse:Attribute name="height" value="66"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/2016/10/04/18/3919864800000578-0-image-a-28_1475601876311.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="290"/>
+    <cse:Attribute name="height" value="174"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgdbacLQe3XT9ZA37nTHpW9RJoE4tKTRr0IW2QqPWSDDcI5b6HZGxKcGfv"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.nydailynews.com/sports/football/giants/jason-pierre-paul-held-giants-practice-groin-injury-article-1.2828142</id>
+  <updated>1970-01-18T02:05:29.068Z</updated>
+  <title type="html">Jason Pierre-Paul held out of Giants practice with groin injury - NY ...</title>
+  <link href="http://www.nydailynews.com/sports/football/giants/jason-pierre-paul-held-giants-practice-groin-injury-article-1.2828142" title="www.nydailynews.com"/>
+  <summary type="html">Giants defensive end Jason Pierre-Paul did not practice Wednesday due to a &lt;br&gt;
+groin injury. &lt;b&gt;A source said&lt;/b&gt; Pierre-Paul, who was dealing with a shoulder injury&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.nydailynews.com/.../jason-pierre-paul-held-giants-practice-groin-injury -article-1.2828142</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="nydn_section" value="Giants"/>
+    <cse:Attribute name="fb:app_id" value="107464888913"/>
+    <cse:Attribute name="fb:admins" value="1594068001"/>
+    <cse:Attribute name="fb:pages" value="268914272540"/>
+    <cse:Attribute name="og:site_name" value="NY Daily News"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/NYDailyNews/"/>
+    <cse:Attribute name="msvalidate.01" value="02916AAC0DA8B068EFE01D721E03ED7E"/>
+    <cse:Attribute name="p:domain_verify" value="78efe4f5c9935744af497772f68a0ee7"/>
+    <cse:Attribute name="viewport" value="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@nydailynews"/>
+    <cse:Attribute name="twitter:url" value="http://www.nydailynews.com/sports/football/giants/jason-pierre-paul-held-giants-practice-groin-injury-article-1.2828142"/>
+    <cse:Attribute name="twitter:title" value="Jason Pierre-Paul held out of Giants practice with groin injury"/>
+    <cse:Attribute name="twitter:description" value="JPP wasn&apos;t on the field at the start of practice Wednesday, joining the long list of banged-up Giants."/>
+    <cse:Attribute name="sailthru.title" value="Jason Pierre-Paul held out of Giants practice with groin injury"/>
+    <cse:Attribute name="og:title" value="Jason Pierre-Paul held out of Giants practice with groin injury"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.nydailynews.com/sports/football/giants/jason-pierre-paul-held-giants-practice-groin-injury-article-1.2828142"/>
+    <cse:Attribute name="news_keywords" value="jason pierre paul injury, giants injuries, jpp injury, giants ravens,"/>
+    <cse:Attribute name="og:image" value="http://assets.nydailynews.com/polopoly_fs/1.2828141.1476289040!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/jpp13s-1-web.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://assets.nydailynews.com/polopoly_fs/1.2828141.1476289040!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/jpp13s-1-web.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://assets.nydailynews.com/polopoly_fs/1.2828141.1476289040!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/jpp13s-1-web.jpg"/>
+    <cse:Attribute name="og:description" value="JPP wasn&apos;t on the field at the start of practice Wednesday, joining the long list of banged-up Giants."/>
+    <cse:Attribute name="sailthru.description" value="JPP wasn&apos;t on the field at the start of practice Wednesday, joining the long list of banged-up Giants."/>
+    <cse:Attribute name="sailthru.date" value="2016-10-12T12:13:05-0400"/>
+    <cse:Attribute name="nydn_tags" value="nfl, new york giants, jason pierre-paul, sports injuries"/>
+    <cse:Attribute name="nydn_byline" value="SETH WALDER, PAT LEONARD"/>
+    <cse:Attribute name="sailthru.author" value="SETH WALDER, PAT LEONARD"/>
+    <cse:Attribute name="sailthru.credits" value="NEW YORK DAILY NEWS"/>
+    <cse:Attribute name="parsely-title" value="Jason Pierre-Paul held out of Giants practice with groin injury"/>
+    <cse:Attribute name="parsely-link" value="http://www.nydailynews.com/sports/football/giants/jason-pierre-paul-held-giants-practice-groin-injury-article-1.2828142"/>
+    <cse:Attribute name="parsely-type" value="article"/>
+    <cse:Attribute name="parsely-image-url" value="http://assets.nydailynews.com/polopoly_fs/1.2828141.1476289040!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/jpp13s-1-web.jpg"/>
+    <cse:Attribute name="parsely-pub-date" value="2016-10-12T16:13:05"/>
+    <cse:Attribute name="sailthru.tags" value="Sports,Giants,nfl,newyorkgiants,jasonpierre-paul,sportsinjuries"/>
+    <cse:Attribute name="parsely-section" value="Giants"/>
+    <cse:Attribute name="parsely-author" value="Seth Walder"/>
+    <cse:Attribute name="parsely-tags" value="nfl, new york giants, jason pierre-paul, sports injuries"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Jason Pierre-Paul held out of Giants practice with groin injury"/>
+    <cse:Attribute name="articlebody" value="Giants defensive end Jason Pierre-Paul did not practice Wednesday due to a groin injury. A source said Pierre-Paul, who was dealing with a shoulder injury earlier this season, is “fine.”..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Jason Pierre-Paul joins the already long list of injured Giants."/>
+    <cse:Attribute name="copyrightholder" value="(Al Bello/Getty Images)"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://assets.nydailynews.com/polopoly_fs/1.2828141.1476289040!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/jpp13s-1-web.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0hsWovDWxL6d9oScL7NsZ3xGkNxxnSjpfVQvXv-KYgd7hUB97bSw1lf4"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.foxnews.com/us/2016/10/09/ex-nypd-detective-on-90g-disability-also-draws-salary-as-security-boss-report-says.html</id>
+  <updated>1970-01-18T02:05:29.068Z</updated>
+  <title type="html">Ex-NYPD detective on $90G disability also draws salary as security ...</title>
+  <link href="http://www.foxnews.com/us/2016/10/09/ex-nypd-detective-on-90g-disability-also-draws-salary-as-security-boss-report-says.html" title="www.foxnews.com"/>
+  <summary type="html">“He didn&amp;#39;t waste any time leaving the NYPD and starting to work here,” &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;said&lt;/b&gt;. “He supposedly has a back problem, but he&amp;#39;s bending down and picking&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.foxnews.com/.../ex-nypd-detective-on-90g-disability-also-draws-salary- as-security-boss-report-says.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="dc.title" value="Ex-Nypd Detective On $90g Disability Also Draws Salary As Security Boss, Report Says"/>
+    <cse:Attribute name="dc.description" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday."/>
+    <cse:Attribute name="dcterms.abstract" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday."/>
+    <cse:Attribute name="dc.publisher" value="Fox News"/>
+    <cse:Attribute name="dc.date" value="2016-10-09"/>
+    <cse:Attribute name="dcterms.created" value="2016-10-09 11:19:19 EDT"/>
+    <cse:Attribute name="dcterms.modified" value="2016-10-09 11:19:19 EDT"/>
+    <cse:Attribute name="dc.source" value="FoxNews.com"/>
+    <cse:Attribute name="dc.identifier" value="9bc71d62-f00b-452c-bf2c-0f7d40cfd5a8"/>
+    <cse:Attribute name="prism.aggregationtype" value="subsection"/>
+    <cse:Attribute name="dc.type" value="Text.Article"/>
+    <cse:Attribute name="prism.channel" value="fnc"/>
+    <cse:Attribute name="prism.section" value="us"/>
+    <cse:Attribute name="og:title" value="Ex-Nypd Detective On $90g Disability Also Draws Salary As Security Boss, Report Says"/>
+    <cse:Attribute name="og:description" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg"/>
+    <cse:Attribute name="og:url" value="http://www.foxnews.com/us/2016/10/09/ex-nypd-detective-on-90g-disability-also-draws-salary-as-security-boss-report-says.html"/>
+    <cse:Attribute name="og:site_name" value="Fox News"/>
+    <cse:Attribute name="classification" value="/FOX NEWS/US/CRIME/Police and Law Enforcement,/FOX NEWS/US,/FOX NEWS/US/US REGIONS/Northeast/New York"/>
+    <cse:Attribute name="classification-isa" value="us,newyork"/>
+    <cse:Attribute name="fb:app_id" value="113186182048399"/>
+    <cse:Attribute name="twitter:site" value="@foxnews"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Ex-NYPD detective on $90G disability also draws salary as security boss, report says"/>
+    <cse:Attribute name="twitter:description" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday."/>
+    <cse:Attribute name="twitter:url" value="http://www.foxnews.com/us/2016/10/09/ex-nypd-detective-on-90g-disability-also-draws-salary-as-security-boss-report-says.html"/>
+    <cse:Attribute name="twitter:creator" value="@foxnews"/>
+    <cse:Attribute name="dc.format" value="text/html"/>
+    <cse:Attribute name="dc.language" value="en-US"/>
+    <cse:Attribute name="pagetype" value="article"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="description" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday."/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Ex-NYPD detective on $90G disability also draws salary as security boss, report says"/>
+    <cse:Attribute name="datepublished" value="2016-10-09T10:48:00.000-04:00"/>
+    <cse:Attribute name="articlebody" value="An ex-NYPD detective receiving $90,000-a-year in disability payments is also drawing a $50,000 salary as a U.S. Army security supervisor, The New York Daily News reported on Sunday. ADVERTISEMENT..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Jim Murray"/>
+    <cse:Attribute name="datecreated" value="2016-10-09T15:42:32.000Z"/>
+    <cse:Attribute name="text" value="American greed at it&apos;s worst."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="225"/>
+    <cse:Attribute name="height" value="225"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtA4dcAWgubDFdNCS7BQ-vDQLnHUFiJyP8-tvcTg5YVsY9NgCTdcsYMvo"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.telegraph.co.uk/news/2016/10/08/pensions-revolution-ministers-plan-shake-up-to-get-savers-invest/</id>
+  <updated>1970-01-18T02:05:29.068Z</updated>
+  <title type="html">Pensions revolution: Ministers plan shake-up to get savers investing ...</title>
+  <link href="http://www.telegraph.co.uk/news/2016/10/08/pensions-revolution-ministers-plan-shake-up-to-get-savers-invest/" title="www.telegraph.co.uk"/>
+  <summary type="html">It is about creating new avenues of asset-based growth,” &lt;b&gt;a source said&lt;/b&gt;. The &lt;br&gt;
+Treasury is also considering whether it can do more to take on the risk that big&amp;nbsp;...</summary>
+  <cse:cacheId>CYz6Uo9sm_wJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.telegraph.co.uk/.../pensions-revolution-ministers-plan-shake-up-to-get- savers-invest/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
+    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
+    <cse:Attribute name="tmgads.channel" value="news"/>
+    <cse:Attribute name="tmgads.section" value="news-2016"/>
+    <cse:Attribute name="tmgads.zone" value="news.2016.10.08"/>
+    <cse:Attribute name="tmgads.articleid" value="AmvD2yP4RZ3f"/>
+    <cse:Attribute name="tmgads.pagetype" value="story"/>
+    <cse:Attribute name="tmgads.level" value="5"/>
+    <cse:Attribute name="tmgads.geo" value="US"/>
+    <cse:Attribute name="tmgads.keywords" value="UK News,Standard,Philip Hammond,Theresa May,Pensions And Retirement,Department for Work &amp;amp; Pensions,Bonds,Damian Green,Politics,Legal &amp;amp; General,News"/>
+    <cse:Attribute name="dcsext.channel" value="news"/>
+    <cse:Attribute name="dcsext.category" value="2016"/>
+    <cse:Attribute name="dcsext.genre" value="10"/>
+    <cse:Attribute name="dcsext.mlc" value="/news/2016/10/08"/>
+    <cse:Attribute name="dcsext.articleid" value="AmvD2yP4RZ3f"/>
+    <cse:Attribute name="dcsext.content_type" value="story"/>
+    <cse:Attribute name="dcsext.level" value="5"/>
+    <cse:Attribute name="dcsext.author" value="Ben Riley-Smith"/>
+    <cse:Attribute name="dcsext.articlefirstpublished" value="2016-10-08 21:30"/>
+    <cse:Attribute name="dcsext.cf" value="1"/>
+    <cse:Attribute name="dcsext.cd" value="0"/>
+    <cse:Attribute name="dcsext.cn" value="0"/>
+    <cse:Attribute name="dcsext.pd" value="1"/>
+    <cse:Attribute name="og:title" value="Pensions revolution: Ministers plan shake-up to get savers investing in building projects"/>
+    <cse:Attribute name="og:description" value="Radical pension reforms are being prepared by the Government to help millions of savers get better returns, The Sunday Telegraph has learnt."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="The Telegraph"/>
+    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2016/10/08/pensions-revolution-ministers-plan-shake-up-to-get-savers-invest/"/>
+    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2016/08/06/pension_pot-xlarge_trans++WSm3Hskyb1S8n9mpYgoiGz7qDM1k-FXUpc9UWB6g6Ho.jpg"/>
+    <cse:Attribute name="twitter:title" value="Pensions revolution: Ministers plan shake-up to get savers investing in building projects"/>
+    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2016/10/08/pensions-revolution-ministers-plan-shake-up-to-get-savers-invest/"/>
+    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2016/08/06/pension_pot-xlarge_trans++WSm3Hskyb1S8n9mpYgoiGz7qDM1k-FXUpc9UWB6g6Ho.jpg"/>
+    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
+    <cse:Attribute name="twitter:description" value="Radical pension reforms are being prepared by the Government to help millions of savers get better returns, The Sunday Telegraph has learnt."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="tmgads.businesssegment" value="news"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Pensions revolution: Ministers plan shake-up to get savers investing in building projects"/>
+    <cse:Attribute name="name" value="Pensions revolution: Ministers plan shake-up to get savers investing in building projects"/>
+    <cse:Attribute name="datepublished" value="2016-10-08T21:30+0100"/>
+    <cse:Attribute name="articlebody" value="Radical pension reforms are being prepared by the Government to help millions of savers get better returns, The Sunday Telegraph has learnt. Ministers across Whitehall are working on schemes..."/>
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/video_previews/h/v/hvzxq5nje64hko8nb7oh9hxzy4gzinar-large.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/08/06/pension_pot-large_trans++WSm3Hskyb1S8n9mpYgoiGz7qDM1k-FXUpc9UWB6g6Ho.jpg"/>
+    <cse:Attribute name="caption" value="String of projects to boost savers are being planning across Whitehall"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Dominic Lipinski"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Ben Riley-Smith"/>
+    <cse:Attribute name="jobtitle" value="Assistant Political Editor"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/08/29/whitehall2_1824775c-large_trans++6f7LZ7seCW96zliyTYX6ViIMpBIiS72GQ3QPBtusw-s.jpg"/>
+    <cse:Attribute name="caption" value="Ministers across Whitehall are working on plans"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/05/110444107_theresa-philip-may-news-large_trans++cGmb0Cq1AKebopTsmihfZzYrW41psdsahNliwMCWTRs.jpg"/>
+    <cse:Attribute name="caption" value="Theresa May, left, with her husband Philip at Tory Party conference"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Geoff Pugh"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/03/110268118_philip-hammond-news.-large_trans++IkUhv7k5mil0w0oeVCztIgPvIwoRIU3Cx3uuMNyop4Q.jpg"/>
+    <cse:Attribute name="caption" value="Philip Hammond, the Chancellor"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Geoff Pugh"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/04/17/Pensions-large_trans++pJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg"/>
+    <cse:Attribute name="caption" value="Savers have lost out as interest rates have slumped to 0.25 per cent"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Nikki Bidgood"/>
+   </cse:DataObject>
+   <cse:DataObject type="wpsidebar">
+    <cse:Attribute name="datepublished" value="12 Oct 2016, 2:26pm"/>
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/authoring/2016/04/01/DavidCameron-small.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2016/08/06/pension_pot-xlarge_trans++WSm3Hskyb1S8n9mpYgoiGz7qDM1k-FXUpc9UWB6g6Ho.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="177"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8F0uuYtEH9qxII-_4n8TCKqGQBtmghNW7x3j9EWl3MKdY3Ws-rF2Gtib6"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://espn.go.com/espn/now?nowId=21-0537713790351841228-4</id>
+  <updated>1970-01-18T02:05:29.068Z</updated>
+  <title type="html">Marc J. Spears of The Undefeated</title>
+  <link href="http://espn.go.com/espn/now?nowId=21-0537713790351841228-4" title="espn.go.com"/>
+  <summary type="html"/>
+  <cse:formattedUrl type="html">espn.go.com/espn/now?nowId=21-0537713790351841228-4</cse:formattedUrl>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.telegraph.co.uk/news/2016/10/12/brexit-strategy-theresa-may-labour-jeremy-corbyn-pmqs-live/</id>
+  <updated>1970-01-18T02:05:29.068Z</updated>
+  <title type="html">Hard Brexit Tories turn on soft colleagues, accusing them of &amp;#39;weasel ...</title>
+  <link href="http://www.telegraph.co.uk/news/2016/10/12/brexit-strategy-theresa-may-labour-jeremy-corbyn-pmqs-live/" title="www.telegraph.co.uk"/>
+  <summary type="html">But &lt;b&gt;a source said&lt;/b&gt;: &amp;quot;There&amp;#39;s a cross-party head of steam building on Parliament &lt;br&gt;
+having a vote on Brexit down the track - this issue is going to run.&amp;quot; Describing Mrs&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>O4SxmY1DsYoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.telegraph.co.uk/.../brexit-strategy-theresa-may-labour-jeremy-corbyn- pmqs-live/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
+    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
+    <cse:Attribute name="tmgads.channel" value="news"/>
+    <cse:Attribute name="tmgads.section" value="news-2016"/>
+    <cse:Attribute name="tmgads.zone" value="news.2016.10.12"/>
+    <cse:Attribute name="tmgads.articleid" value="Amv8R8nYT6rb"/>
+    <cse:Attribute name="tmgads.pagetype" value="live"/>
+    <cse:Attribute name="tmgads.level" value="5"/>
+    <cse:Attribute name="tmgads.geo" value="US"/>
+    <cse:Attribute name="tmgads.keywords" value="Brexit,UK News,Theresa May,Labour Party,Politics,Jeremy Corbyn,News"/>
+    <cse:Attribute name="dcsext.channel" value="news"/>
+    <cse:Attribute name="dcsext.category" value="2016"/>
+    <cse:Attribute name="dcsext.genre" value="10"/>
+    <cse:Attribute name="dcsext.mlc" value="/news/2016/10/12"/>
+    <cse:Attribute name="dcsext.articleid" value="Amv8R8nYT6rb"/>
+    <cse:Attribute name="dcsext.content_type" value="live"/>
+    <cse:Attribute name="dcsext.level" value="5"/>
+    <cse:Attribute name="dcsext.author" value="Michael Wilkinson"/>
+    <cse:Attribute name="dcsext.articlefirstpublished" value="2016-10-12 07:45"/>
+    <cse:Attribute name="dcsext.cf" value="1"/>
+    <cse:Attribute name="dcsext.cd" value="0"/>
+    <cse:Attribute name="dcsext.cn" value="0"/>
+    <cse:Attribute name="dcsext.pd" value="1"/>
+    <cse:Attribute name="og:title" value="Hard Brexit Tories turn on soft colleagues, accusing them of &apos;weasel words&apos; as Commons debate turns ugly"/>
+    <cse:Attribute name="og:description" value="Theresa May has refused to commit to giving MPs a vote on her Brexit strategy before triggering the process of leaving the European Union - despite allowing Tories to back a Labour call for &amp;quot;"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="The Telegraph"/>
+    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2016/10/12/brexit-strategy-theresa-may-labour-jeremy-corbyn-pmqs-live/"/>
+    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/video_previews/9/5/95edftnje6b-1mpz8407cufbl2bhvh-f-xlarge.jpg"/>
+    <cse:Attribute name="twitter:title" value="Hard Brexit Tories turn on soft colleagues, accusing them of &apos;weasel words&apos; as Commons debate turns ugly"/>
+    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2016/10/12/brexit-strategy-theresa-may-labour-jeremy-corbyn-pmqs-live/"/>
+    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/video_previews/9/5/95edftnje6b-1mpz8407cufbl2bhvh-f-xlarge.jpg"/>
+    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
+    <cse:Attribute name="twitter:description" value="Theresa May has refused to commit to giving MPs a vote on her Brexit strategy before triggering the process of leaving the European Union - despite allowing Tories to back a Labour call for &amp;quot;"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="tmgads.businesssegment" value="news"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Hard Brexit Tories turn on soft colleagues, accusing them of &apos;weasel words&apos; as Commons debate turns ugly"/>
+    <cse:Attribute name="name" value="Hard Brexit Tories turn on soft colleagues, accusing them of &apos;weasel words&apos; as Commons debate turns ugly"/>
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/video_previews/9/5/95edftnje6b-1mpz8407cufbl2bhvh-f-large.jpg"/>
+    <cse:Attribute name="datepublished" value="2016-10-12T15:09+0100"/>
+    <cse:Attribute name="articlebody" value="Government &apos;climbdown&apos; sees MPs debate Brexit plans May refuses to commit to keeping Britain in EU single market Corbyn attacks &apos;shambolic Tory Brexit&apos; Labour demands Government answers 170..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Michael Wilkinson"/>
+    <cse:Attribute name="jobtitle" value="Political Correspondent"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/12/Theresa_May_speaks_during_Prime_Ministers_Questions-small_trans++VLvNQ4vBlzywIJ9onYGliu_DkB4Ngi8JJdi9uDWAsiM.jpg"/>
+    <cse:Attribute name="caption" value="Theresa May addresses MPs at PMQs"/>
+    <cse:Attribute name="copyrightholder" value="Credit: PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/12/pmq4-small_trans++zTW4Ql1t-1Xt3_aTCx9yp4hSiCWeohV0QeCx0LiHLVY.jpg"/>
+    <cse:Attribute name="caption" value="Jeremy Corbyn at PMQs today"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/04/12/93566116_ed-miliband-NEWS-small_trans++piVx42joSuAkZ0bE9ijUnGG7a7LAWA_Kitgr2DkVQF8.jpg"/>
+    <cse:Attribute name="caption" value="Ed Miliband during the EU referendum campaign"/>
+    <cse:Attribute name="copyrightholder" value="Credit: PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/07/17/103490660-daviddavis-NEWS-small_trans++ox14K29LD943tibIjY06LNXM6BskGGDOl1uE_ZI6YP8.jpg"/>
+    <cse:Attribute name="caption" value="David Davis, the Brexit minister"/>
+    <cse:Attribute name="copyrightholder" value="Credit: PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/04/05/23985384_Dominic-Grieve-NEWS_1-small_trans++aRL1kC4G7DT9ZsZm6Pe3PehAFAI_f6ud569StXyOKH0.jpg"/>
+    <cse:Attribute name="caption" value="Dominic Grieve, the former Conservative attorney general"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Telegraph / Eddie Mulholland"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/12/sg2016101245761-small_trans++EDjTm7JpzhSGR1_8ApEWQA1vLvhkMtVb21dMmpQBfEs.gif"/>
+    <cse:Attribute name="caption" value="One day GBP/USD"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/05/110359202_Successor-submarines-NEWS-small_trans++rWYeUU_H0zBKyvljOo6zlmcv5yZLmao6LolmWYJrXns.jpg"/>
+    <cse:Attribute name="caption" value="What the Successor project submarine may look like once completed"/>
+    <cse:Attribute name="copyrightholder" value="Credit: MOD/BAE Systems"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/12/pmq4-small_trans++zTW4Ql1t-1Xt3_aTCx9yp4hSiCWeohV0QeCx0LiHLVY.jpg"/>
+    <cse:Attribute name="caption" value="Jeremy Corbyn"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/05/05/6251166_MAY0033927_DAILY_TELEGRAPH_-_Director_of_Public_Prosecutions_Keir_Starmer_London_SE1_02-09-1-small_trans++lqMAAcK_Qhi35HXhDhFsbzAbYzf0pqDjiQD6qVj8RSw.jpg"/>
+    <cse:Attribute name="caption" value="Keir Starmer, Shadow Brexit Secretary"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Telegraph / Martin Pope"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/09/04/107552161_Britain27s_new_Liberal_Democrat_Deputy_Prime_Minister_Nick_Clegg_3rd_R_listens_as_he_attend-small_trans++tMutwwx9W-AXpU26IHGqxZnDQzwgRmiqFHqV_gtIbpc.jpg"/>
+    <cse:Attribute name="caption" value="Nick Clegg during the Coalition Government years, with Theresa May also pictured"/>
+    <cse:Attribute name="copyrightholder" value="Credit: AFP/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/26/pat-mcfadden_981300a-small_trans++qVzuuqpFlyLIwiB6NTmJwZwVSIA7rSIkPn18jgFKEo0.jpg"/>
+    <cse:Attribute name="caption" value="Pat McFadden, Labour MP, from the Open Britain campaign"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/12/110952939_jeremy-corbyn-news-small_trans++0WbIdirK6V7fpDkCQ4mGjDoJFb13sXE3YnWXfIi9CpU.jpg"/>
+    <cse:Attribute name="caption" value="Jeremy Corbyn leaves his home on October 12"/>
+    <cse:Attribute name="copyrightholder" value="Credit: i-Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/06/26/EMILY23b31f61-d178-4206-9690-6879ef91bd7c-small_trans++CcB5qS0jET7GejOynLCOcQnzFCwXQzvXrWzrsRaKqw4.jpg"/>
+    <cse:Attribute name="caption" value="Emily Thornberry, the Shadow Foreign Secretary"/>
+    <cse:Attribute name="copyrightholder" value="Credit: AFP"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/02/may1-small_trans++dTOTs03EjuZb891uz-lkHQDN50kaSY4JF3MOOpffwTo.jpg"/>
+    <cse:Attribute name="caption" value="Theresa May"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Geoff Pugh / Telegraph"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/12/110873533_theresa-may-news-small_trans++gsaO8O78rhmZrDxTlQBjdEbgHFEZVI1Pljic_pW9c90.jpg"/>
+    <cse:Attribute name="caption" value="Theresa May departs a meeting with Dutch prime minister Mark Rutte this week"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Bloomberg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/news/2016/10/02/110190089_theresa-may-news-small_trans++p9c5WVj0Jr0gvyuux5WeKD9ZoOdymdQ6ONrooXZWrQE.jpg"/>
+    <cse:Attribute name="caption" value="British Prime Minister Theresa May"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Matt Cardy/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="wpsidebar">
+    <cse:Attribute name="datepublished" value="12 Oct 2016, 2:26pm"/>
+    <cse:Attribute name="image" value="http://www.telegraph.co.uk/content/dam/authoring/2016/04/01/DavidCameron-small.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2016/10/12/Theresa_May_speaks_during_Prime_Ministers_Questions-small_trans++VLvNQ4vBlzywIJ9onYGliu_DkB4Ngi8JJdi9uDWAsiM.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="256"/>
+    <cse:Attribute name="height" value="160"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnqNIMH84CACzAAYm2B2imzu4ggoCIOE4vqJfFwSEtJP_D258tBrSz4FI"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
 </feed>

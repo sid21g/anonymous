@@ -88,16 +88,19 @@ def get_outlet_names():
     return names
 
 
+# TODO: Hand-code total to limit number of pages online?
 def get_total_anon_pages():
-    g.db = connect_db()
-    results = query_db("SELECT count(*) FROM anon", '', one=True)
-    total = int(next(iter(results.values())))
+    # g.db = connect_db()
+    # results = query_db("SELECT count(*) FROM anon", '', one=True)
+    # total = int(next(iter(results.values())))
+    total = 5000
     num_pages = total / PER_PAGE
     num_pages = math.ceil(num_pages)
-    g.db.close()
+    # g.db.close()
     return num_pages
 
 
+# TODO: If limit number of pages, how handle outlet pages?
 def get_total_outlet_pages(outlet_url):
     g.db = connect_db()
     results = query_db("SELECT count(*) FROM anon WHERE source = ?", (outlet_url,), one=True)
