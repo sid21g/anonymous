@@ -1,19 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - </title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q=&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-18T02:06:05.186Z</updated>
+ <title>Google Custom Search - "an fbi official said"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="an fbi official said"&amp;cx=012091639844104041986:munhfapni70&amp;num=1&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-18T02:07:33.877Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - " totalResults="0" searchTerms="" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;an fbi official said&quot;" totalResults="1" searchTerms="&quot;an fbi official said&quot;" count="1" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>1</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.008164</cse:searchTime>
-  <cse:formattedSearchTime>0.01</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.363791</cse:searchTime>
+  <cse:formattedSearchTime>0.36</cse:formattedSearchTime>
+  <cse:totalResults>1</cse:totalResults>
+  <cse:formattedTotalResults>1</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>https://mic.com/articles/129694/san-bernardino-shooter-tashfeen-malik-reportedly-pledged-allegiance-to-isis-leader</id>
+  <updated>1970-01-18T02:07:33.877Z</updated>
+  <title type="html">San Bernardino Shooter Tashfeen Malik Reportedly Pledged ...</title>
+  <link href="https://mic.com/articles/129694/san-bernardino-shooter-tashfeen-malik-reportedly-pledged-allegiance-to-isis-leader" title="mic.com"/>
+  <summary type="html">&amp;quot;We don&amp;#39;t know yet what [soft communications] mean,&amp;quot; &lt;b&gt;an FBI official said&lt;/b&gt;, CNN &lt;br&gt;
+reports. Farook&amp;#39;s communication with suspected terrorists via social media and&amp;nbsp;...</summary>
+  <cse:cacheId>XhHGQrgQeakJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://mic.com/.../san-bernardino-shooter-tashfeen-malik-reportedly-pledged -allegiance-to-isis-leader</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="title" value="San Bernardino Shooter Tashfeen Malik Reportedly Pledged Allegiance to ISIS Leader"/>
+    <cse:Attribute name="article:published_time" value="2015-12-04T16:00:35.000Z"/>
+    <cse:Attribute name="article:modified_time" value="2015-12-04T19:34:29.000Z"/>
+    <cse:Attribute name="article:tag" value="San bernardino, Syed Rizwan Farook, News"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/MicMedia"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/Natasha Noman"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="https://mic.com/articles/129694/san-bernardino-shooter-tashfeen-malik-reportedly-pledged-allegiance-to-isis-leader"/>
+    <cse:Attribute name="og:title" value="San Bernardino Shooter Reportedly Posted a Chilling Message to ISIS During the Attack"/>
+    <cse:Attribute name="og:description" value="The attack killed at least 14 and wounded 11."/>
+    <cse:Attribute name="og:image" value="https://thumbs.mic.com/N2M2YjNlYTMyNSMvY1V5djVSQkdsR2FNWjdleFR5ZDZIcHJvdFMwPS8zMHgxMjk6MTMxM3g3ODUvMTIwMHg2MzAvZmlsdGVyczpxdWFsaXR5KDcwKS9odHRwOi8vczMuYW1hem9uYXdzLmNvbS9wb2xpY3ltaWMtaW1hZ2VzL3VmdGc4bDNucGhjejNscnM3bmVwYnBwa3A2bXNvd25jN3ZocWNwZmpvY2toN205cXc1amFseHNndnBkaWtmMmguanBn.jpg"/>
+    <cse:Attribute name="original-image" value="https://media3.mic.com/MjkyNjhlZDQ0MCMvX1VZVkRFYV9acHJxdGs4aFE0ekllU1MxaHVVPS8zMHgxMjk6MTMxM3g3ODUvMTkxMHgxMDAwL2ZpbHRlcnM6cXVhbGl0eSg4NSkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvdWZ0ZzhsM25waGN6M2xyczduZXBicHBrcDZtc293bmM3dmhxY3Bmam9ja2g3bTlxdzVqYWx4c2d2cGRpa2YyaC5qcGc=.jpg"/>
+    <cse:Attribute name="news_keywords" value="San bernardino, Syed Rizwan Farook, News"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@Mic"/>
+    <cse:Attribute name="twitter:creator" value="natashanoman"/>
+    <cse:Attribute name="twitter:url" value="https://mic.com/articles/129694/san-bernardino-shooter-tashfeen-malik-reportedly-pledged-allegiance-to-isis-leader"/>
+    <cse:Attribute name="twitter:title" value="San Bernardino Shooter Tashfeen Malik Reportedly Pledged Allegiance to ISIS Leader"/>
+    <cse:Attribute name="twitter:description" value="What was his motive?"/>
+    <cse:Attribute name="twitter:image" value="https://s3.amazonaws.com/policymic-images/uftg8l3nphcz3lrs7nepbppkp6msownc7vhqcpfjockh7m9qw5jalxsgvpdikf2h.jpg"/>
+    <cse:Attribute name="bt:id" value="129694"/>
+    <cse:Attribute name="bt:keywords" value="San bernardino, Syed Rizwan Farook, News"/>
+    <cse:Attribute name="bt:pubdate" value="2015-12-04T16:00:35.000Z"/>
+    <cse:Attribute name="bt:moddate" value="2015-12-04T19:34:29.000Z"/>
+    <cse:Attribute name="bt:isblacklisted" value="true"/>
+    <cse:Attribute name="bt:type" value="evergreen"/>
+    <cse:Attribute name="bt:image" value="https://thumbs.mic.com/NTBlMDU4MGJjZSMvelVseTBLbURGZGhiQmgzdnZVTlR0ZDBmRVpnPS80MDB4MjI1L2ZpbHRlcnM6Zm9ybWF0KGpwZWcpOnF1YWxpdHkoODApL2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9wb2xpY3ltaWMtaW1hZ2VzL3VmdGc4bDNucGhjejNscnM3bmVwYnBwa3A2bXNvd25jN3ZocWNwZmpvY2toN205cXc1amFseHNndnBkaWtmMmguanBn.jpg"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="fb:app_id" value="141861192518680"/>
+    <cse:Attribute name="twitter:user_id" value="139909832"/>
+    <cse:Attribute name="language" value="en"/>
+    <cse:Attribute name="author" value="Mic"/>
+    <cse:Attribute name="medium" value="news"/>
+    <cse:Attribute name="og:site_name" value="Mic"/>
+    <cse:Attribute name="identifier-url" value="http://mic.com/articles/74689/the-8-most-dysfunctional-families-in-tv-history"/>
+    <cse:Attribute name="fb:admins" value="23342,215337,1410801,675670245,13000939,616963,1479330109,1267070071"/>
+    <cse:Attribute name="msapplication-task" value="name=Mic;action-uri=http://mic.com;icon-uri=http://mic.com/favicon.ico"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://thumbs.mic.com/YjQzNDIyM2I3OSMvcDJLeE54V2t2QXBEQm1lRXVtaUdFck4tY05rPS8zMHgxMjk6MTMxM3g3ODUvMTI4MHg2MjAvZmlsdGVyczpxdWFsaXR5KDc1KS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy91ZnRnOGwzbnBoY3ozbHJzN25lcGJwcGtwNm1zb3duYzd2aHFjcGZqb2NraDdtOXF3NWphbHhzZ3ZwZGlrZjJoLmpwZw.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="323"/>
+    <cse:Attribute name="height" value="156"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ORaJ6DSo1KhWPOcxptjRSjtdhgwMz0XZqaiZD4KFk6Rk0bi4hgRgypM"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
 </feed>
