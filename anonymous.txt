@@ -1,76 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "on a condition of anonymity"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="on a condition of anonymity"&amp;cx=012091639844104041986:munhfapni70&amp;num=1&amp;start=1&amp;safe=off</id>
- <author>
-  <name>Anonymous sources - Google Custom Search</name>
- </author>
- <updated>1970-01-18T02:11:16.779Z</updated>
+ <title>Google Custom Search - </title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q=&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
+ <updated>1970-01-18T02:13:17.524Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;on a condition of anonymity&quot;" totalResults="1" searchTerms="&quot;on a condition of anonymity&quot;" count="1" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>1</opensearch:totalResults>
- <opensearch:startIndex>1</opensearch:startIndex>
- <cse:context title="Anonymous sources"/>
+ <opensearch:Query role="request" title="Google Custom Search - " totalResults="0" searchTerms="" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>0</opensearch:totalResults>
+ <cse:context/>
  <cse:searchInformation>
-  <cse:searchTime>0.331859</cse:searchTime>
-  <cse:formattedSearchTime>0.33</cse:formattedSearchTime>
-  <cse:totalResults>1</cse:totalResults>
-  <cse:formattedTotalResults>1</cse:formattedTotalResults>
+  <cse:searchTime>0.009393</cse:searchTime>
+  <cse:formattedSearchTime>0.01</cse:formattedSearchTime>
+  <cse:totalResults>0</cse:totalResults>
+  <cse:formattedTotalResults>0</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
- <entry gd:kind="customsearch#result">
-  <id>http://www.thedailybeast.com/articles/2016/10/14/donald-trump-kept-calling-lil-jon-an-uncle-tom-celebrity-apprentice-staffers-say.html</id>
-  <updated>1970-01-18T02:11:16.779Z</updated>
-  <title type="html">Donald Trump Kept Calling Lil Jon an &amp;#39;Uncle Tom&amp;#39; on Celebrity ...</title>
-  <link href="http://www.thedailybeast.com/articles/2016/10/14/donald-trump-kept-calling-lil-jon-an-uncle-tom-celebrity-apprentice-staffers-say.html" title="www.thedailybeast.com"/>
-  <summary type="html">The Donald didn&amp;#39;t seem to understand that the term was a slur, and kept using it &lt;br&gt;
-even after that was explained to him.</summary>
-  <cse:cacheId>ECjPkZPJohgJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.thedailybeast.com/.../donald-trump-kept-calling-lil-jon-an-uncle-tom- celebrity-apprentice-staffers-say.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="content-type" value="text/html; charset=UTF-8"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
-    <cse:Attribute name="resourcetype" value="dailybeast2/components/pages/article"/>
-    <cse:Attribute name="environment" value="dev"/>
-    <cse:Attribute name="authorids" value="/etc/authors/a/asawin-suebsaeng"/>
-    <cse:Attribute name="title" value="Donald Trump Kept Calling Lil Jon an Uncle Tom on Celebrity Apprentice"/>
-    <cse:Attribute name="type" value="house"/>
-    <cse:Attribute name="sectiontaxanomies" value="politics"/>
-    <cse:Attribute name="template" value="article"/>
-    <cse:Attribute name="news_keywords" value="Lil Jon, PoliticsElection, The Apprentice, 2016 Election, 2016 election, Google, US Politics, Donald Trump, Donald Trump"/>
-    <cse:Attribute name="og:title" value="Donald Trump Kept Calling Lil Jon an ‘Uncle Tom’ on Celebrity Apprentice"/>
-    <cse:Attribute name="og:description" value="The Donald didn’t seem to understand that the term was a slur, and kept using it even after that was explained to him."/>
-    <cse:Attribute name="og:url" value="http://www.thedailybeast.com/articles/2016/10/14/donald-trump-kept-calling-lil-jon-an-uncle-tom-celebrity-apprentice-staffers-say.html"/>
-    <cse:Attribute name="authors" value="Asawin Suebsaeng"/>
-    <cse:Attribute name="tags" value="lil_jon,article:politics-election,entity:tvshow/the_apprentice,obsessional:2016-election,entity:event/2016_election,syndication:syndication-google,topic:politics,entity:person/donald_trump,obsessional:donald-trump"/>
-    <cse:Attribute name="contentpath" value="/content/dailybeast/articles/2016/10/14/donald-trump-kept-calling-lil-jon-an-uncle-tom-celebrity-apprentice-staffers-say"/>
-    <cse:Attribute name="wrap" value="/content/dailybeast/politics"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="The Daily Beast"/>
-    <cse:Attribute name="fb:app_id" value="189930913679"/>
-    <cse:Attribute name="fb:admins" value="1703087,30000737,1117577220,1276800108,931159,514915512"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:site" value="@thedailybeast"/>
-    <cse:Attribute name="twitter:creator" value="swin24"/>
-    <cse:Attribute name="article:published_time" value="2016-10-15T00:50:00.000Z"/>
-    <cse:Attribute name="article:author" value="http://www.thedailybeast.com/contributors/asawin-suebsaenghtml"/>
-    <cse:Attribute name="article:section" value="politics"/>
-    <cse:Attribute name="og:image" value="http://cdn.thedailybeast.com/content/dailybeast/articles/2016/10/14/donald-trump-kept-calling-lil-jon-an-uncle-tom-celebrity-apprentice-staffers-say/jcr:content/image.img.2000.jpg/1476549117438.cached.jpg"/>
-    <cse:Attribute name="publicationdate" value="201610150050"/>
-    <cse:Attribute name="pagenum" value="1"/>
-    <cse:Attribute name="parsely-page" value="{&quot;title&quot;:&quot;Donald Trump Kept Calling Lil Jon an ‘Uncle Tom’ on Celebrity Apprentice&quot;,&quot;link&quot;:&quot;http://www.thedailybeast.com/articles/2016/10/14/donald-trump-kept-calling-lil-jon-an-uncle-tom-celebrity-apprentice-staffers-say.html&quot;,&quot;image_url&quot;:&quot;http://cdn.thedailybeast.com/content/dailybeast/articles/2016/10/14/donald-trump-kept-calling-lil-jon-an-uncle-tom-celebrity-apprentice-staffers-say/jcr:content/image.crop.410.273.jpg/49218303.cached.jpg&quot;,&quot;type&quot;:&quot;post&quot;,&quot;post_id&quot;:&quot;/content/dailybeast/articles/2016/10/14/donald-trump-kept-calling-lil-jon-an-uncle-tom-celebrity-apprentice-staffers-say&quot;,&quot;pub_date&quot;:&quot;2016-10-15T00:50:00+00:00&quot;,&quot;section&quot;:&quot;Politics&quot;,&quot;author&quot;:&quot;Asawin Suebsaeng&quot;,&quot;tags&quot;:[&quot;lil_jon&quot;,&quot;politics-election&quot;,&quot;the_apprentice&quot;,&quot;2016-election&quot;,&quot;2016_election&quot;,&quot;syndication-google&quot;,&quot;politics&quot;,&quot;donald_trump&quot;,&quot;donald-trump&quot;]}"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://cdn.thedailybeast.com/content/dailybeast/articles/2016/10/14/donald-trump-kept-calling-lil-jon-an-uncle-tom-celebrity-apprentice-staffers-say/jcr:content/image.img.2000.jpg/1476549117438.cached.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwSByhRGp4QbX_-6Cl9rCVKGS-8VZQb7bKejmnLTMuwctOfgP2gVlpBVqy"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
 </feed>
