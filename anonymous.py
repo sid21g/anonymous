@@ -70,9 +70,10 @@ for phrase in phrases:
         else:
             print("No phrase in entry")
 
+conn.close()
 
 deletedupes()
 
 writecsvfile()
 
-conn.close()
+

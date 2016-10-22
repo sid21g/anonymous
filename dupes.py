@@ -41,4 +41,4 @@ def deletedupes():
     except Error as e:
         print("Oops, duplicate link deletion didn't work: ", e.args[0])
 
-conn.close()
+    conn.close()
