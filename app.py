@@ -40,7 +40,7 @@ def before_request():
 
 
 @app.teardown_request
-def teardown_request(exception):
+def teardown_request():
     if hasattr(g, 'db'):
         g.db.close()
 
