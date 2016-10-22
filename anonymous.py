@@ -6,13 +6,13 @@ from sqlite3 import Error
 import configparser
 from datetime import date
 import re
-import csv
+from dupes import deletedupes
+from csvwriter import writecsvfile
 
 config = configparser.ConfigParser()
 config.read("config.txt")
 YOUR_ID = config.get("Configuration", "id")
 YOUR_KEY = config.get("Configuration", "key")
-CSV_FILE = config.get("Configuration", "csv")
 
 conn = connect(r"anon.db")
 curs = conn.cursor()
@@ -71,70 +71,8 @@ for phrase in phrases:
             print("No phrase in entry")
 
 
-# Delete duplicates for the same outlet
-try:
-    curs.execute('DELETE '
-                 'FROM anon '
-                 'WHERE ROWID '
-                 'NOT IN '
-                 '(SELECT min(ROWID) '
-                 'FROM anon '
-                 'GROUP BY source, content)')
-except Error as e:
-    print("Oops, duplicate content deletion didn't work: ", e.args[0])
+deletedupes()
 
+writecsvfile()
 
-try:
-    curs.execute('DELETE '
-                 'FROM anon '
-                 'WHERE ROWID '
-                 'NOT IN '
-                 '(SELECT min(ROWID) '
-                 'FROM anon '
-                 'GROUP BY source, title)')
-except Error as e:
-    print("Oops, duplicate title deletion didn't work: ", e.args[0])
-
-
-try:
-    curs.execute('DELETE '
-                 'FROM anon '
-                 'WHERE ROWID '
-                 'NOT IN '
-                 '(SELECT min(ROWID) '
-                 'FROM anon '
-                 'GROUP BY source, link)')
-except Error as e:
-    print("Oops, duplicate link deletion didn't work: ", e.args[0])
-
-
-f = open(CSV_FILE,
-         'w',
-         encoding='utf-8')
-
-
-def clean_content(content):
-    content = content.strip()
-    content = content.replace('\n', ' ').replace('\r', '')
-    content = content.replace('\t', '')
-    content = content.replace('<b>...</b>', '...')
-    content = content.replace('<br>', '')
-    return content
-
-w = csv.writer(f, lineterminator='\n')
-
-titles = ['LINK', 'SOURCE', 'PHRASE', 'TITLE', 'CONTENT', 'DATE_ENTERED']
-w.writerow(titles)
-curs.execute('SELECT * FROM anon')
-for row in curs.fetchall():
-    new_row = [clean_content(row[0]),
-               clean_content(row[1]),
-               clean_content(row[2]),
-               clean_content(row[3]),
-               clean_content(row[4]),
-               clean_content(row[5])]
-    w.writerow(new_row)
-
-
-f.close()
 conn.close()
