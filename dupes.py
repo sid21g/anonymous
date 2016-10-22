@@ -15,6 +15,7 @@ def deletedupes():
                      '(SELECT min(ROWID) '
                      'FROM anon '
                      'GROUP BY source, content)')
+        conn.commit()
         print("Cursor executed!")
     except Error as e:
         print("Oops, duplicate content deletion didn't work: ", e.args[0])
@@ -26,6 +27,7 @@ def deletedupes():
                      '(SELECT min(ROWID) '
                      'FROM anon '
                      'GROUP BY source, title)')
+        conn.commit()
         print("Cursor executed!")
     except Error as e:
         print("Oops, duplicate title deletion didn't work: ", e.args[0])
@@ -37,6 +39,7 @@ def deletedupes():
                      '(SELECT min(ROWID) '
                      'FROM anon '
                      'GROUP BY source, link)')
+        conn.commit()
         print("Cursor executed!")
     except Error as e:
         print("Oops, duplicate link deletion didn't work: ", e.args[0])

@@ -75,5 +75,3 @@ conn.close()
 deletedupes()
 
 writecsvfile()
-
-
