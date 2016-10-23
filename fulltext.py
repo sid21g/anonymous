@@ -11,9 +11,7 @@ def getfulltext():
 
     today = date.today()
     str_today = today.strftime('%Y-%m-%d')
-
     anon_curs.execute("SELECT source, link FROM anon WHERE date_entered = ?", (str_today,))
-    # anon_curs.execute('SELECT source, link FROM anon LIMIT 5')
 
     for row in anon_curs.fetchall():
         source = row[0]

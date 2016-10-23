@@ -19,6 +19,7 @@ def deletedupes():
         print("Cursor executed!")
     except Error as e:
         print("Oops, duplicate content deletion didn't work: ", e.args[0])
+
     try:
         curs.execute('DELETE '
                      'FROM anon '
@@ -31,6 +32,7 @@ def deletedupes():
         print("Cursor executed!")
     except Error as e:
         print("Oops, duplicate title deletion didn't work: ", e.args[0])
+
     try:
         curs.execute('DELETE '
                      'FROM anon '
