@@ -8,6 +8,7 @@ from datetime import date
 import re
 from dupes import deletedupes
 from csvwriter import writecsvfile
+from fulltext import getfulltext
 
 config = configparser.ConfigParser()
 config.read("config.txt")
@@ -75,3 +76,5 @@ conn.close()
 deletedupes()
 
 writecsvfile()
+
+getfulltext()
