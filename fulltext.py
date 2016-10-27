@@ -10,7 +10,8 @@ def getfulltext():
     anon_curs = anon_conn.cursor()
 
     today = date.today()
-    str_today = today.strftime('%Y-%m-%d')
+    # str_today = today.strftime('%Y-%m-%d')
+    str_today = "2016-10-26"
     anon_curs.execute("SELECT source, link FROM anon WHERE date_entered = ?", (str_today,))
 
     for row in anon_curs.fetchall():
@@ -39,3 +40,4 @@ def getfulltext():
 
     anon_conn.close()
 
+getfulltext()
