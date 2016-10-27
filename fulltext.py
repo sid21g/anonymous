@@ -17,8 +17,12 @@ def getfulltext():
         source = row[0]
         link = row[1]
         a = newspaper.Article(link)
-        a.download()
-        a.parse()
+        try:
+            a.download()
+            a.parse()
+            print("The article has been parsed.")
+        except Error as e:
+            print("Oops: ", e.args[0])
         insert_values = [source,
                          link,
                          a.text,
@@ -28,7 +32,7 @@ def getfulltext():
         try:
             full_curs.execute("INSERT INTO fulltext VALUES(?, ?, ?, ?)", insert_values)
             full_conn.commit()
-            print("The full text has been inserted")
+            print("The full text has been inserted.")
         except Error as e:
             print("Oops: ", e.args[0])
         full_conn.close()
