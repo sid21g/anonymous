@@ -6,23 +6,11 @@ from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
 from nltk.chunk import conlltags2tree
 from nltk.tree import Tree
-
-
-config = configparser.ConfigParser()
-config.read("config.ini")
-MY_CLASSIFIER = config.get("Stanford", "classifier_file")
-MY_JAR = config.get("Stanford", "jar_file")
-JAVA_PATH = config.get("Stanford", "java_path")
-os.environ['JAVAHOME'] = JAVA_PATH
-
-
-# TODO: Make database call here
-txt_file = "C:/Temp/news_article.txt"
+from sqlite3 import connect
 
 
 def process_text(txt):
-    raw_text = open(txt).read()
-    token_text = word_tokenize(raw_text)
+    token_text = word_tokenize(txt)
     return token_text
 
 
@@ -75,13 +63,25 @@ def structure_ne(ne_tree):
     return ne
 
 
-def get_entities():
-    return structure_ne(stanford_tree(bio_tagger(stanford_tagger(process_text(txt_file)))))
+def get_entities(txt):
+    return structure_ne(stanford_tree(bio_tagger(stanford_tagger(process_text(txt)))))
 
 
 if __name__ == '__main__':
-    my_entities = get_entities()
 
-    for i, val in enumerate(my_entities):
-        print("ENTITY: ", val[0])
-        print("TYPE: ", val[1])
+    config = configparser.ConfigParser()
+    config.read("config.ini")
+    MY_CLASSIFIER = config.get("Stanford", "classifier_file")
+    MY_JAR = config.get("Stanford", "jar_file")
+    JAVA_PATH = config.get("Stanford", "java_path")
+    os.environ['JAVAHOME'] = JAVA_PATH
+
+    entity_conn = connect(r"fulltext.db")
+    entity_curs = entity_conn.cursor()
+    entity_curs.execute('SELECT content FROM fulltext LIMIT 5')
+    for row in entity_curs.fetchall():
+        entity_txt = row[0]
+        my_entities = get_entities(entity_txt)
+        for i, val in enumerate(my_entities):
+            print("ENTITY: ", val[0])
+            print("TYPE: ", val[1])
