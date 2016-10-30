@@ -3,7 +3,7 @@ import configparser
 import csv
 
 config = configparser.ConfigParser()
-config.read("config.txt")
+config.read("config.ini")
 
 
 CSV_FILE = config.get("Configuration", "csv")
