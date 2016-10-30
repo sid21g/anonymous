@@ -81,4 +81,7 @@ def get_entities():
 
 if __name__ == '__main__':
     my_entities = get_entities()
-    print(my_entities[3])
+
+    for i, val in enumerate(my_entities):
+        print("ENTITY: ", val[0])
+        print("TYPE: ", val[1])
