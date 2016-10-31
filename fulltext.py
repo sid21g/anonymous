@@ -6,7 +6,7 @@ from sqlite3 import Error
 
 def getfulltext():
 
-    anon_conn = connect('C:/Dropbox/Anonymous/anon.db')
+    anon_conn = connect('anon.db')
     anon_curs = anon_conn.cursor()
 
     today = date.today()
@@ -26,7 +26,7 @@ def getfulltext():
                          link,
                          a.text,
                          today]
-            full_conn = connect('C:/Dropbox/Anonymous/fulltext.db')
+            full_conn = connect('fulltext.db')
             full_curs = full_conn.cursor()
             try:
                 full_curs.execute("INSERT INTO fulltext VALUES(?, ?, ?, ?)", insert_values)
