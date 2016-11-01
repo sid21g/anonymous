@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T02:31:59.451Z</updated>
+ <updated>1970-01-18T02:33:25.617Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources close to&quot;" totalResults="17400" searchTerms="&quot;sources close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources close to&quot;" totalResults="17400" searchTerms="&quot;sources close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>17400</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources close to&quot;" totalResults="16400" searchTerms="&quot;sources close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources close to&quot;" totalResults="16400" searchTerms="&quot;sources close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>16400</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.148888</cse:searchTime>
-  <cse:formattedSearchTime>0.15</cse:formattedSearchTime>
-  <cse:totalResults>17400</cse:totalResults>
-  <cse:formattedTotalResults>17,400</cse:formattedTotalResults>
+  <cse:searchTime>0.32403</cse:searchTime>
+  <cse:formattedSearchTime>0.32</cse:formattedSearchTime>
+  <cse:totalResults>16400</cse:totalResults>
+  <cse:formattedTotalResults>16,400</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://mashable.com/2016/10/28/deadpool-2-david-leitch-director-john-wick-frontrunner/</id>
-  <updated>1970-01-18T02:31:59.451Z</updated>
+  <updated>1970-01-18T02:33:25.617Z</updated>
   <title type="html">Exclusive: &amp;#39;Deadpool 2&amp;#39; eyes &amp;#39;John Wick&amp;#39; director David Leitch to ...</title>
   <link href="http://mashable.com/2016/10/28/deadpool-2-david-leitch-director-john-wick-frontrunner/" title="mashable.com"/>
   <summary type="html">Ryan Reynolds previously worked with Leitch on &amp;quot;X-Men Origins: Wolverine,&amp;quot; &lt;br&gt;
@@ -73,7 +73,7 @@ which introduced him as Wade Wilson.</summary>
     <cse:Attribute name="sailthru.exclude_india" value="false"/>
     <cse:Attribute name="author" value="Jeff Sneider"/>
     <cse:Attribute name="short_url" value="http://on.mash.to/2fcZRKo"/>
-    <cse:Attribute name="parsely-metadata" value="{&quot;page&quot;:1,&quot;omnitureData&quot;:{&quot;channel&quot;:&quot;entertainment&quot;,&quot;content_type&quot;:&quot;article&quot;,&quot;v_buy&quot;:null,&quot;v_buy_i&quot;:null,&quot;h_pub&quot;:64.0,&quot;h_buy&quot;:null,&quot;h_pub_buy&quot;:null,&quot;v_cur&quot;:0.6,&quot;v_max&quot;:0.6,&quot;v_cur_i&quot;:0,&quot;v_max_i&quot;:0,&quot;events&quot;:&quot;event51,event61&quot;,&quot;top_channel&quot;:&quot;entertainment&quot;,&quot;content_source_type&quot;:&quot;Internal&quot;,&quot;content_source_name&quot;:&quot;Internal&quot;,&quot;author_name&quot;:&quot;Jeff Sneider&quot;,&quot;age&quot;:&quot;2&quot;,&quot;pub_day&quot;:28,&quot;pub_month&quot;:10,&quot;pub_year&quot;:2016,&quot;pub_date&quot;:&quot;10/28/2016&quot;,&quot;sourced_from&quot;:&quot;Internal&quot;,&quot;isPostView&quot;:true,&quot;post_lead_type&quot;:&quot;Alt Image Lead&quot;,&quot;topics&quot;:&quot;david leitch,deadpool 2,Entertainment,Movies,john wick,Ryan Reynolds,tim miller&quot;,&quot;campaign&quot;:null,&quot;display_mode&quot;:null,&quot;viral_video_type&quot;:null,&quot;standalone_video_show&quot;:null,&quot;b_flag&quot;:false}}"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;page&quot;:1,&quot;omnitureData&quot;:{&quot;channel&quot;:&quot;entertainment&quot;,&quot;content_type&quot;:&quot;article&quot;,&quot;v_buy&quot;:null,&quot;v_buy_i&quot;:null,&quot;h_pub&quot;:96.0,&quot;h_buy&quot;:null,&quot;h_pub_buy&quot;:null,&quot;v_cur&quot;:0.6,&quot;v_max&quot;:0.6,&quot;v_cur_i&quot;:0,&quot;v_max_i&quot;:0,&quot;events&quot;:&quot;event51,event61&quot;,&quot;top_channel&quot;:&quot;entertainment&quot;,&quot;content_source_type&quot;:&quot;Internal&quot;,&quot;content_source_name&quot;:&quot;Internal&quot;,&quot;author_name&quot;:&quot;Jeff Sneider&quot;,&quot;age&quot;:&quot;4&quot;,&quot;pub_day&quot;:28,&quot;pub_month&quot;:10,&quot;pub_year&quot;:2016,&quot;pub_date&quot;:&quot;10/28/2016&quot;,&quot;sourced_from&quot;:&quot;Internal&quot;,&quot;isPostView&quot;:true,&quot;post_lead_type&quot;:&quot;Alt Image Lead&quot;,&quot;topics&quot;:&quot;david leitch,deadpool 2,Entertainment,Movies,john wick,Ryan Reynolds,tim miller&quot;,&quot;campaign&quot;:null,&quot;display_mode&quot;:null,&quot;viral_video_type&quot;:null,&quot;standalone_video_show&quot;:null,&quot;b_flag&quot;:false}}"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://i.amz.mshcdn.com/xtH9xR1ln99VBJrhBeydAY_FH-s=/950x534/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F263604%2F7f6f9abc9ac448db8f42bf13daaec2b7.jpg"/>
@@ -87,7 +87,7 @@ which introduced him as Wade Wilson.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.yahoo.com/news/larsa-pippen-cheated-scottie-pippen-225459131.html</id>
-  <updated>1970-01-18T02:31:59.451Z</updated>
+  <updated>1970-01-18T02:33:25.617Z</updated>
   <title type="html">Larsa Pippen Cheated on Scottie Pippen With Future, Sources Claim</title>
   <link href="http://www.yahoo.com/news/larsa-pippen-cheated-scottie-pippen-225459131.html" title="www.yahoo.com"/>
   <summary type="html">Other &lt;b&gt;sources close to&lt;/b&gt; the couple tell Us that the pair have “been separated for &lt;br&gt;
@@ -131,7 +131,7 @@ quite some time living separate lives,” and that their split was a long time c
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2016/10/28/politics/joe-biden-secretary-of-state-clinton/index.html</id>
-  <updated>1970-01-18T02:31:59.451Z</updated>
+  <updated>1970-01-18T02:33:25.617Z</updated>
   <title type="html">Joe Biden on Clinton&amp;#39;s Secretary of State list, sources say - CNN.com</title>
   <link href="http://www.cnn.com/2016/10/28/politics/joe-biden-secretary-of-state-clinton/index.html" title="www.cnn.com"/>
   <summary type="html">Asked about the possibility, &lt;b&gt;sources close to&lt;/b&gt; Biden said this is the first that they &lt;br&gt;
@@ -140,54 +140,8 @@ had heard of it. Read More. Biden has been aggressively campaigning for&amp;nbsp
   <cse:formattedUrl type="html">www.cnn.com/2016/10/28/politics/joe-biden...of.../index.html</cse:formattedUrl>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html</id>
-  <updated>1970-01-18T02:31:59.451Z</updated>
-  <title type="html">Would Clinton tap Biden for secretary of State? Sources say yes</title>
-  <link href="https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html" title="www.yahoo.com"/>
-  <summary type="html">... according to &lt;b&gt;sources close to&lt;/b&gt; the campaign. NBC News later confirmed that &lt;br&gt;
-former Secretary of State Hillary Clinton was considering Mr. Biden for the job.</summary>
-  <cse:cacheId>R_bZ7by4OAEJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../clinton-tap-biden-secretary-state-sources-yes- 164054082.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@Yahoo"/>
-    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
-    <cse:Attribute name="yahoo" value="app-id=304158842,app-argument=https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html"/>
-    <cse:Attribute name="twitter:description" value="Democratic presidential candidate Hillary Clinton is considering tapping Vice President Joe Biden as secretary of State if she is elected, according to sources close to the campaign.  NBC News later confirmed that former Secretary of State Hillary Clinton was considering Mr. Biden for the job.  The Clinton"/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="twitter:title" value="Would Clinton tap Biden for secretary of State? Sources say yes"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="fb:app_id" value="90376669494"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=20126b11-2126-359d-b3c8-9e657be790e4&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="og:description" value="Democratic presidential candidate Hillary Clinton is considering tapping Vice President Joe Biden as secretary of State if she is elected, according to sources close to the campaign.  NBC News later confirmed that former Secretary of State Hillary Clinton was considering Mr. Biden for the job.  The Clinton"/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="og:title" value="Would Clinton tap Biden for secretary of State? Sources say yes"/>
-    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="225"/>
-    <cse:Attribute name="height" value="225"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsu8h2qPcbEySow_b11yLyETddWLbICdJLk1xWXl-3molDDR1MTHSgF0Nw"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.nydailynews.com/entertainment/gossip/mariah-carey-50-million-ex-fiance-james-packer-article-1.2850165</id>
-  <updated>1970-01-18T02:31:59.451Z</updated>
+  <updated>1970-01-18T02:33:25.617Z</updated>
   <title type="html">Mariah Carey says she never slept with ex-fiance James Packer ...</title>
   <link href="http://www.nydailynews.com/entertainment/gossip/mariah-carey-50-million-ex-fiance-james-packer-article-1.2850165" title="www.nydailynews.com"/>
   <summary type="html">&lt;b&gt;Sources close to&lt;/b&gt; Carey say she has a strict rule against pre-marital sex.</summary>
@@ -252,8 +206,54 @@ former Secretary of State Hillary Clinton was considering Mr. Biden for the job.
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html</id>
+  <updated>1970-01-18T02:33:25.617Z</updated>
+  <title type="html">Would Clinton tap Biden for secretary of State? Sources say yes</title>
+  <link href="https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html" title="www.yahoo.com"/>
+  <summary type="html">... according to &lt;b&gt;sources close to&lt;/b&gt; the campaign. NBC News later confirmed that &lt;br&gt;
+former Secretary of State Hillary Clinton was considering Mr. Biden for the job.</summary>
+  <cse:cacheId>R_bZ7by4OAEJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.yahoo.com/.../clinton-tap-biden-secretary-state-sources-yes- 164054082.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
+    <cse:Attribute name="referrer" value="origin"/>
+    <cse:Attribute name="theme-color" value="#400090"/>
+    <cse:Attribute name="twitter:dnt" value="on"/>
+    <cse:Attribute name="twitter:site" value="@Yahoo"/>
+    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
+    <cse:Attribute name="yahoo" value="app-id=304158842,app-argument=https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html"/>
+    <cse:Attribute name="twitter:description" value="Democratic presidential candidate Hillary Clinton is considering tapping Vice President Joe Biden as secretary of State if she is elected, according to sources close to the campaign.  NBC News later confirmed that former Secretary of State Hillary Clinton was considering Mr. Biden for the job.  The Clinton"/>
+    <cse:Attribute name="twitter:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+    <cse:Attribute name="twitter:title" value="Would Clinton tap Biden for secretary of State? Sources say yes"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="fb:app_id" value="90376669494"/>
+    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
+    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=20126b11-2126-359d-b3c8-9e657be790e4&amp;src=web"/>
+    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
+    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
+    <cse:Attribute name="al:ios:url" value="https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="og:description" value="Democratic presidential candidate Hillary Clinton is considering tapping Vice President Joe Biden as secretary of State if she is elected, according to sources close to the campaign.  NBC News later confirmed that former Secretary of State Hillary Clinton was considering Mr. Biden for the job.  The Clinton"/>
+    <cse:Attribute name="og:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+    <cse:Attribute name="og:title" value="Would Clinton tap Biden for secretary of State? Sources say yes"/>
+    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="225"/>
+    <cse:Attribute name="height" value="225"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsu8h2qPcbEySow_b11yLyETddWLbICdJLk1xWXl-3molDDR1MTHSgF0Nw"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://espn.go.com/espn/now?nowId=21-0548131088527004982-4</id>
-  <updated>1970-01-18T02:31:59.451Z</updated>
+  <updated>1970-01-18T02:33:25.617Z</updated>
   <title type="html">ESPN&amp;#39;s Dan Graziano</title>
   <link href="http://espn.go.com/espn/now?nowId=21-0548131088527004982-4" title="espn.go.com"/>
   <summary type="html"/>
@@ -261,7 +261,7 @@ former Secretary of State Hillary Clinton was considering Mr. Biden for the job.
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/russia-rusal-vekselberg-idUSKCN12R19W</id>
-  <updated>1970-01-18T02:31:59.451Z</updated>
+  <updated>1970-01-18T02:33:25.617Z</updated>
   <title type="html">Russian tycoon to buy 12 percent in Rusal from Onexim: sources ...</title>
   <link href="http://www.reuters.com/article/russia-rusal-vekselberg-idUSKCN12R19W" title="www.reuters.com"/>
   <summary type="html">... plan to buy a 12 percent stake in aluminium maker Rusal (0486.HK) held by &lt;br&gt;
@@ -324,136 +324,8 @@ Mikhail Prokhorov&amp;#39;s Onexim group, two &lt;b&gt;sources close to&lt;/b&gt
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/eurozone-banks-montepaschi-plan-idUSL8N1CU5RS</id>
-  <updated>1970-01-18T02:31:59.451Z</updated>
-  <title type="html">UPDATE 1-Italy&amp;#39;s Monte dei Paschi postpones capital plan to ...</title>
-  <link href="http://www.reuters.com/article/eurozone-banks-montepaschi-plan-idUSL8N1CU5RS" title="www.reuters.com"/>
-  <summary type="html">... of a statement on acapital-boosting strategic plan and third-quarter results &lt;br&gt;
-toTuesday, &lt;b&gt;sources close to&lt;/b&gt; the matter said, without giving areason for the delay.</summary>
-  <cse:cacheId>_FgDlPVk-GEJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../eurozone-banks-montepaschi-plan-idUSL8N1CU5RS</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="hotStocksNews"/>
-    <cse:Attribute name="dcsext.channellist" value="hotStocksNews;rbssFinancialServicesAndRealEstateNews;rbssInvestmentServices;everything;Deals;AllianzInvestments;Allianz;credit-rss;cfaglobal;aa48hours;shipping;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016"/>
-    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-Italy%27s+Monte+dei+Paschi+postpones+capital+plan+to+Tuesday+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-hotStocksNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Italy;Corrado Passera;Marco Morelli;EUROZONE;BANKS/MONTEPASCHI;PLAN (UPDATE 1);Euro Zone;New Issues;Industry News (3rd Party);Company News;Investment Management and Fund Operators (TRBC);Market Events;Labour / Personnel;Middle East;Volatile Shares / Hot Stocks;Banking Capital and Liquidity Requirements;Banks (TRBC);International Agencies / Treaty Groups;European Central Bank;Results Forecasts / Warnings;Regulation;Financials (Legacy);Performance / Results / Earnings;Equities Markets;Financials (TRBC);Europe;European Union;Funds;Italy;Asia / Pacific;Euro Zone as a Whole;Government / Politics;Debt / Fixed Income Markets;Banking and Investment Services (TRBC);Major News;Investment Banking and Investment Services (TRBC);Corporate Events;General News;Central Banks / Central Bank Events;Western Europe;Economic Events;Banking Services (TRBC);Sovereign Wealth Funds;Banking Services (Legacy);Shareholder Meetings"/>
-    <cse:Attribute name="revision_date" value="Mon Oct 24 19:44:34 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-10-24T19:44:34+0000"/>
-    <cse:Attribute name="sailthru.title" value="UPDATE 1-Italy&apos;s Monte dei Paschi postpones capital plan to Tuesday -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="UPDATE 1-Italy&apos;s Monte dei Paschi postpones capital plan to Tuesday -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/eurozone-banks-montepaschi-plan-idUSL8N1CU5RS"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Italy&apos;s Monte dei Paschi di Siena has postponed the release of a statement on acapital-boosting strategic plan and third-quarter results toTuesday, sources close to the matter said, without giving areason for the delay."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-10-24T19:44:34+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-10-24T19:44:34+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Italy,Corrado Passera,Marco Morelli,EUROZONE,BANKS/MONTEPASCHI,PLAN (UPDATE 1),Euro Zone,New Issues,Industry News (3rd Party),Company News,Investment Management and Fund Operators (TRBC),Market Events,Labour / Personnel,Middle East,Volatile Shares / Hot Stocks,Banking Capital and Liquidity Requirements,Banks (TRBC),International Agencies / Treaty Groups,European Central Bank,Results Forecasts / Warnings,Regulation,Financials (Legacy),Performance / Results / Earnings,Equities Markets,Financials (TRBC),Europe,European Union,Funds,Italy,Asia / Pacific,Euro Zone as a Whole,Government / Politics,Debt / Fixed Income Markets,Banking and Investment Services (TRBC),Major News,Investment Banking and Investment Services (TRBC),Corporate Events,General News,Central Banks / Central Bank Events,Western Europe,Economic Events,Banking Services (TRBC),Sovereign Wealth Funds,Banking Services (Legacy),Shareholder Meetings"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="UPDATE 1-Italy&apos;s Monte dei Paschi postpones capital plan to Tuesday -sources"/>
-    <cse:Attribute name="twitter:description" value="Italy&apos;s Monte dei Paschi di Siena has postponed the release of a statement on acapital-boosting strategic plan and third-quarter results toTuesday, sources close to the matter said, without giving areason for the delay."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/stocks/hotstocks/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Stocks"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/eurozone-banks-montepaschi-plan-idUSL8N1CU5OH</id>
-  <updated>1970-01-18T02:31:59.451Z</updated>
-  <title type="html">Monte dei Paschi to issue statement on new plan, Q3 results ...</title>
-  <link href="http://www.reuters.com/article/eurozone-banks-montepaschi-plan-idUSL8N1CU5OH" title="www.reuters.com"/>
-  <summary type="html">... postponed the release of a statement on acapital-boosting strategic plan and &lt;br&gt;
-third-quarter results toTuesday from Monday, &lt;b&gt;sources close to&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>sKqg4AmaPx8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../eurozone-banks-montepaschi-plan-idUSL8N1CU5OH</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="CathayPacific_US;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Monte+dei+Paschi+to+issue+statement+on+new+plan%2C+Q3+results+Tuesday+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Italy;Marco Morelli;EUROZONE;BANKS/MONTEPASCHI;PLAN;New Issues;Industry News (3rd Party);Company News;Labour / Personnel;Market Events;Banking Capital and Liquidity Requirements;Banks (TRBC);International Agencies / Treaty Groups;European Central Bank;Results Forecasts / Warnings;Financials (Legacy);Regulation;Performance / Results / Earnings;Financials (TRBC);Europe;European Union;Euro Zone as a Whole;Debt / Fixed Income Markets;Banking and Investment Services (TRBC);Government / Politics;Corporate Events;General News;Central Banks / Central Bank Events;Western Europe;Economic Events;Banking Services (TRBC);Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Mon Oct 24 18:01:54 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-10-24T18:01:54+0000"/>
-    <cse:Attribute name="sailthru.title" value="Monte dei Paschi to issue statement on new plan, Q3 results Tuesday -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Monte dei Paschi to issue statement on new plan, Q3 results Tuesday -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/eurozone-banks-montepaschi-plan-idUSL8N1CU5OH"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Italy&apos;s Monte dei Paschi di Siena has postponed the release of a statement on acapital-boosting strategic plan and third-quarter results toTuesday from Monday, sources close to the matter said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-10-24T18:01:54+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-10-24T18:01:54+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Italy,Marco Morelli,EUROZONE,BANKS/MONTEPASCHI,PLAN,New Issues,Industry News (3rd Party),Company News,Labour / Personnel,Market Events,Banking Capital and Liquidity Requirements,Banks (TRBC),International Agencies / Treaty Groups,European Central Bank,Results Forecasts / Warnings,Financials (Legacy),Regulation,Performance / Results / Earnings,Financials (TRBC),Europe,European Union,Euro Zone as a Whole,Debt / Fixed Income Markets,Banking and Investment Services (TRBC),Government / Politics,Corporate Events,General News,Central Banks / Central Bank Events,Western Europe,Economic Events,Banking Services (TRBC),Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Monte dei Paschi to issue statement on new plan, Q3 results Tuesday -sources"/>
-    <cse:Attribute name="twitter:description" value="Italy&apos;s Monte dei Paschi di Siena has postponed the release of a statement on acapital-boosting strategic plan and third-quarter results toTuesday from Monday, sources close to the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://pictures.reuters.com/Doc/RTR/Media/TR3_UNWATERMARKED/b/f/d/2/RTSQKK6.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJuJ6AVdkeoenEZOs5qO7QPAZobOTWeDz9pD985P3O2MnVzRnalpFhp0"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2016/10/23/ex-trump-aides-tied-to-firm-that-tried-to-expand-russias-spying-efforts/</id>
-  <updated>1970-01-18T02:31:59.451Z</updated>
+  <updated>1970-01-18T02:33:25.617Z</updated>
   <title type="html">Ex-Trump aides tied to firm that tried to expand Russia&amp;#39;s spying efforts</title>
   <link href="http://nypost.com/2016/10/23/ex-trump-aides-tied-to-firm-that-tried-to-expand-russias-spying-efforts/" title="nypost.com"/>
   <summary type="html">As for EyeLock LCC, Manafort was a major early investor, four &lt;b&gt;sources close to&lt;/b&gt; &lt;br&gt;
@@ -500,6 +372,115 @@ the company said. Gates was hired by EyeLock as an independent contractor to&amp
     <cse:Attribute name="width" value="274"/>
     <cse:Attribute name="height" value="184"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuKpF4nE39Bqp0Jskguvytlsq5T-aLFzI6qO2MlCaVERIzyFEQHl6ISF4"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.bbc.com/news/business-37819244</id>
+  <updated>1970-01-18T02:33:25.617Z</updated>
+  <title type="html">Carney has &amp;#39;wobbled&amp;#39; on Bank future - BBC News</title>
+  <link href="http://www.bbc.com/news/business-37819244" title="www.bbc.com"/>
+  <summary type="html">&lt;b&gt;Sources close to&lt;/b&gt; the governor are now saying he may be obliged to make his &lt;br&gt;
+announcement on Thursday at the time of the Inflation Report, the Bank&amp;#39;s &lt;br&gt;
+quarterly&amp;nbsp;...</summary>
+  <cse:cacheId>Gn1pMNPo8W0J</cse:cacheId>
+  <cse:formattedUrl type="html">www.bbc.com/news/business-37819244</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="x-country" value="us"/>
+    <cse:Attribute name="x-audience" value="US"/>
+    <cse:Attribute name="cps_audience" value="US"/>
+    <cse:Attribute name="cps_changequeueid" value="290154340"/>
+    <cse:Attribute name="og:title" value="Carney has &apos;wobbled&apos; on Bank future - BBC News"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="It would be a shock to the government and the City if the Governor did not extend his time leading the Bank of England until 2021. But since the referendum he has considered sticking to his plan to leave early."/>
+    <cse:Attribute name="og:site_name" value="BBC News"/>
+    <cse:Attribute name="og:locale" value="en_GB"/>
+    <cse:Attribute name="article:author" value="BBC News"/>
+    <cse:Attribute name="article:section" value="Business"/>
+    <cse:Attribute name="og:url" value="http://www.bbc.com/news/business-37819244"/>
+    <cse:Attribute name="og:image" value="http://ichef.bbci.co.uk/news/1024/cpsprodpb/B333/production/_92157854_markcarney3.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@BBCWorld"/>
+    <cse:Attribute name="twitter:title" value="Carney has &apos;wobbled&apos; on Bank future - BBC News"/>
+    <cse:Attribute name="twitter:description" value="It would be a shock to the government and the City if the Governor did not extend his time leading the Bank of England until 2021. But since the referendum he has considered sticking to his plan to leave early."/>
+    <cse:Attribute name="twitter:creator" value="@BBCWorld"/>
+    <cse:Attribute name="twitter:image:src" value="http://ichef.bbci.co.uk/news/560/cpsprodpb/B333/production/_92157854_markcarney3.jpg"/>
+    <cse:Attribute name="twitter:image:alt" value="Mark Carney"/>
+    <cse:Attribute name="twitter:domain" value="www.bbc.com"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="BBC News"/>
+    <cse:Attribute name="application-name" value="BBC News"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static.bbci.co.uk/news/1.158.0922/windows-eight-icon-144x144.png"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#bb1919"/>
+    <cse:Attribute name="mobile-web-app-capable" value="yes"/>
+    <cse:Attribute name="theme-color" value="#bb1919"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
+    <cse:Attribute name="fb:admins" value="100004154058350"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTci4iZWnnJwADVgtU2-OKQapnOe9u0DRLuhVVolGKS6tSXatkpkInkcwvR"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2016/10/25/politics/marco-rubio-patrick-murphy-money-democrats/</id>
+  <updated>1970-01-18T02:33:25.617Z</updated>
+  <title type="html">Chuck Schumer, national Dems reject calls to spend money ...</title>
+  <link href="http://www.cnn.com/2016/10/25/politics/marco-rubio-patrick-murphy-money-democrats/" title="www.cnn.com"/>
+  <summary type="html">But &lt;b&gt;sources close to&lt;/b&gt; those groups suggest no late intervention is in the works at &lt;br&gt;
+the moment. Schumer&amp;#39;s opinion is critical since as the incoming Democratic&amp;nbsp;...</summary>
+  <cse:cacheId>5JspOiiiE8QJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/.../marco-rubio-patrick-murphy-money-democrats/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2016-10-25T21:59:00Z"/>
+    <cse:Attribute name="pubdate" value="2016-10-25T21:59:00Z"/>
+    <cse:Attribute name="lastmod" value="2016-10-26T00:59:20Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2016/10/25/politics/marco-rubio-patrick-murphy-money-democrats/index.html"/>
+    <cse:Attribute name="author" value="Manu Raju, Senior Political Reporter"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/mkraju00"/>
+    <cse:Attribute name="og:title" value="Schumer, national Dems reject calls to spend money targeting Rubio"/>
+    <cse:Attribute name="og:description" value="Sen. Chuck Schumer and the Democratic Senatorial Campaign Committee are resisting calls to redirect cash into the Florida Senate race as Democrats are locked in an internal debate over how to spend limited resources into an ever-expanding map."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161019113105-marco-rubio-florida-2020-super-tease.jpg"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161019113105-marco-rubio-florida-2020-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2016/10/25/politics/marco-rubio-patrick-murphy-money-democrats/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,bra-2016-elections,art-vid"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2016-10-25T21:59:00Z"/>
+    <cse:Attribute name="datepublished" value="2016-10-25T21:59:00Z"/>
+    <cse:Attribute name="datemodified" value="2016-10-26T00:59:20Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2016/10/25/politics/marco-rubio-patrick-murphy-money-democrats/index.html"/>
+    <cse:Attribute name="author" value="Manu Raju, Senior Political Reporter"/>
+    <cse:Attribute name="headline" value="Chuck Schumer, national Dems reject calls to spend money targeting Marco Rubio - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="Sen. Chuck Schumer and the Democratic Senatorial Campaign Committee are resisting calls to redirect cash into the Florida Senate race as Democrats are locked in an internal debate over how..."/>
+    <cse:Attribute name="keywords" value="politics, Chuck Schumer, national Dems reject calls to spend money targeting Marco Rubio - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161019113105-marco-rubio-florida-2020-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161019113105-marco-rubio-florida-2020-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Schumer, national Dems reject calls to spend money targeting Rubio"/>
+    <cse:Attribute name="articlebody" value="Story highlightsPatrick Murphy is hoping to defeat Marco RubioFlorida is an expensive state to advertise in (CNN)Sen. Chuck Schumer and the Democratic Senatorial Campaign Committee are resisting..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161019113105-marco-rubio-florida-2020-super-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161019113105-marco-rubio-florida-2020-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
