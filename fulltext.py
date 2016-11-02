@@ -23,9 +23,9 @@ def getfulltext():
             a.parse()
             print("The article has been parsed.")
             insert_values = [source,
-                         link,
-                         a.text,
-                         today]
+                             link,
+                             a.text,
+                             today]
             full_conn = connect('fulltext.db')
             full_curs = full_conn.cursor()
             try:
@@ -39,5 +39,3 @@ def getfulltext():
             print("Oops: ", e.args[0])
 
     anon_conn.close()
-
-# getfulltext()
