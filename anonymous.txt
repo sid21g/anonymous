@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T02:34:56.334Z</updated>
+ <updated>1970-01-18T02:36:18.733Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources close to&quot;" totalResults="15900" searchTerms="&quot;sources close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources close to&quot;" totalResults="15900" searchTerms="&quot;sources close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>15900</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources close to&quot;" totalResults="16000" searchTerms="&quot;sources close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources close to&quot;" totalResults="16000" searchTerms="&quot;sources close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>16000</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.385372</cse:searchTime>
-  <cse:formattedSearchTime>0.39</cse:formattedSearchTime>
-  <cse:totalResults>15900</cse:totalResults>
-  <cse:formattedTotalResults>15,900</cse:formattedTotalResults>
+  <cse:searchTime>0.184492</cse:searchTime>
+  <cse:formattedSearchTime>0.18</cse:formattedSearchTime>
+  <cse:totalResults>16000</cse:totalResults>
+  <cse:formattedTotalResults>16,000</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://mashable.com/2016/10/28/deadpool-2-david-leitch-director-john-wick-frontrunner/</id>
-  <updated>1970-01-18T02:34:56.334Z</updated>
+  <updated>1970-01-18T02:36:18.733Z</updated>
   <title type="html">Exclusive: &amp;#39;Deadpool 2&amp;#39; eyes &amp;#39;John Wick&amp;#39; director David Leitch to ...</title>
   <link href="http://mashable.com/2016/10/28/deadpool-2-david-leitch-director-john-wick-frontrunner/" title="mashable.com"/>
   <summary type="html">Ryan Reynolds previously worked with Leitch on &amp;quot;X-Men Origins: Wolverine,&amp;quot; &lt;br&gt;
@@ -86,52 +86,8 @@ which introduced him as Wade Wilson.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.yahoo.com/news/larsa-pippen-cheated-scottie-pippen-225459131.html</id>
-  <updated>1970-01-18T02:34:56.334Z</updated>
-  <title type="html">Larsa Pippen Cheated on Scottie Pippen With Future, Sources Claim</title>
-  <link href="http://www.yahoo.com/news/larsa-pippen-cheated-scottie-pippen-225459131.html" title="www.yahoo.com"/>
-  <summary type="html">Other &lt;b&gt;sources close to&lt;/b&gt; the couple tell Us that the pair have “been separated for &lt;br&gt;
-quite some time living separate lives,” and that their split was a long time coming.</summary>
-  <cse:cacheId>wShHrLmOsaYJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.yahoo.com/.../larsa-pippen-cheated-scottie-pippen-225459131.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@Yahoo"/>
-    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
-    <cse:Attribute name="yahoo" value="app-id=304158842,app-argument=https://www.yahoo.com/news/larsa-pippen-cheated-scottie-pippen-225459131.html"/>
-    <cse:Attribute name="twitter:description" value="Multiple sources tell Us Weekly that Larsa Pippen cheated on Scottie Pippen with rapper Future, which led to the former NBA star’s divorce filing — read more"/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/IMuGReIQL0c3yXvo.g74Pg--/aD0xODAwO3c9MTI4OTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/usmagazine.com/75afe753a7ed03eb09a3837188722f9a"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/IMuGReIQL0c3yXvo.g74Pg--/aD0xODAwO3c9MTI4OTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/usmagazine.com/75afe753a7ed03eb09a3837188722f9a"/>
-    <cse:Attribute name="twitter:title" value="Larsa Pippen Cheated on Scottie Pippen With Future, Sources Claim"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="fb:app_id" value="90376669494"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=b7f53c81-405a-39bf-9a7f-323b25c3a26b&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="https://www.yahoo.com/news/larsa-pippen-cheated-scottie-pippen-225459131.html"/>
-    <cse:Attribute name="og:image:width" value="1289"/>
-    <cse:Attribute name="og:image:height" value="1800"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:description" value="Multiple sources tell Us Weekly that Larsa Pippen cheated on Scottie Pippen with rapper Future, which led to the former NBA star’s divorce filing — read more"/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/IMuGReIQL0c3yXvo.g74Pg--/aD0xODAwO3c9MTI4OTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/usmagazine.com/75afe753a7ed03eb09a3837188722f9a"/>
-    <cse:Attribute name="og:title" value="Larsa Pippen Cheated on Scottie Pippen With Future, Sources Claim"/>
-    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/larsa-pippen-cheated-scottie-pippen-225459131.html"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/IMuGReIQL0c3yXvo.g74Pg--/aD0xODAwO3c9MTI4OTtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/usmagazine.com/75afe753a7ed03eb09a3837188722f9a"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.nydailynews.com/entertainment/gossip/mariah-carey-50-million-ex-fiance-james-packer-article-1.2850165</id>
-  <updated>1970-01-18T02:34:56.334Z</updated>
+  <updated>1970-01-18T02:36:18.733Z</updated>
   <title type="html">Mariah Carey says she never slept with ex-fiance James Packer ...</title>
   <link href="http://www.nydailynews.com/entertainment/gossip/mariah-carey-50-million-ex-fiance-james-packer-article-1.2850165" title="www.nydailynews.com"/>
   <summary type="html">&lt;b&gt;Sources close to&lt;/b&gt; Carey say she has a strict rule against pre-marital sex.</summary>
@@ -197,7 +153,7 @@ quite some time living separate lives,” and that their split was a long time c
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2016/10/28/politics/joe-biden-secretary-of-state-clinton/index.html</id>
-  <updated>1970-01-18T02:34:56.334Z</updated>
+  <updated>1970-01-18T02:36:18.733Z</updated>
   <title type="html">Joe Biden on Clinton&amp;#39;s Secretary of State list, sources say - CNN.com</title>
   <link href="http://www.cnn.com/2016/10/28/politics/joe-biden-secretary-of-state-clinton/index.html" title="www.cnn.com"/>
   <summary type="html">Asked about the possibility, &lt;b&gt;sources close to&lt;/b&gt; Biden said this is the first that they &lt;br&gt;
@@ -206,8 +162,280 @@ had heard of it. Read More. Biden has been aggressively campaigning for&amp;nbsp
   <cse:formattedUrl type="html">www.cnn.com/2016/10/28/politics/joe-biden...of.../index.html</cse:formattedUrl>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.usatoday.com/videos/life/people/2016/11/02/93015436/</id>
+  <updated>1970-01-18T02:36:18.733Z</updated>
+  <title type="html">Prince Harry reportedly dating &amp;#39;Suits&amp;#39; actress Meghan Markle</title>
+  <link href="http://www.usatoday.com/videos/life/people/2016/11/02/93015436/" title="www.usatoday.com"/>
+  <summary type="html">&lt;b&gt;Sources close to&lt;/b&gt; Prince Harry say he&amp;#39;s been seeing an American actress.</summary>
+  <cse:cacheId>9jgA0abTQIkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.usatoday.com/videos/life/people/2016/11/02/93015436/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="content-type" value="text/html; charset=UTF-8"/>
+    <cse:Attribute name="google" value="notranslate"/>
+    <cse:Attribute name="fb:app_id" value="215046668549694"/>
+    <cse:Attribute name="og:site_name" value="USA TODAY"/>
+    <cse:Attribute name="og:image" value="http://www.gannett-cdn.com/-mm-/cfa95646a7ecff90b2502e0df3f40733efa98a7d/c=3-0-1362-768&amp;r=1280x720&amp;r=x1803&amp;c=3200x1800/local/-/media/2016/11/01/USATODAY/USATODAY/636136099379350205-Harry-Meghan.jpg"/>
+    <cse:Attribute name="og:image:width" value="3200"/>
+    <cse:Attribute name="og:image:height" value="1800"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://www.gannett-cdn.com/-mm-/869ec0e126b1693c1362335693eb68cc99d39a81/c=3-0-1362-768&amp;r=1280x720&amp;r=x324&amp;c=600x321/local/-/media/2016/11/01/USATODAY/USATODAY/636136099379350205-Harry-Meghan.jpg"/>
+    <cse:Attribute name="og:title" value="Prince Harry reportedly dating &apos;Suits&apos; actress Meghan Markle"/>
+    <cse:Attribute name="og:description" value="Sources close to Prince Harry say he&apos;s been seeing an American actress"/>
+    <cse:Attribute name="og:url" value="http://www.usatoday.com/videos/life/people/2016/11/02/93015436/"/>
+    <cse:Attribute name="cxenseparse:recs:articleid" value="93015436"/>
+    <cse:Attribute name="cxenseparse:pageclass" value="article"/>
+    <cse:Attribute name="cxenseparse:recs:publishtime" value="2016-10-30T14:03:42-04:00"/>
+    <cse:Attribute name="cxenseparse:recs:category" value="life/people"/>
+    <cse:Attribute name="cxenseparse:title" value="Prince Harry reportedly dating &apos;Suits&apos; actress Meghan Markle"/>
+    <cse:Attribute name="cxenseparse:author" value="Time"/>
+    <cse:Attribute name="cxenseparse:recs:contenttype" value="video"/>
+    <cse:Attribute name="cxenseparse:gci-asset-type" value="video"/>
+    <cse:Attribute name="cxenseparse:recs:image" value="http://www.gannett-cdn.com/-mm-/cfa95646a7ecff90b2502e0df3f40733efa98a7d/c=3-0-1362-768&amp;r=1280x720&amp;r=x1803&amp;c=3200x1800/local/-/media/2016/11/01/USATODAY/USATODAY/636136099379350205-Harry-Meghan.jpg"/>
+    <cse:Attribute name="viewport" value="width=1070"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="PeopleVal Kilmer: Michael Douglas is misinformed; I don&apos;t have cancerVal Kilmer: Michael Douglas is misinformed; I don&apos;t have cancer&apos;Top Gun&apos; actor says he hasn&apos;t spoken to Douglas in more..."/>
+    <cse:Attribute name="headline" value="Val Kilmer: Michael Douglas is misinformed; I don&apos;t have cancer"/>
+    <cse:Attribute name="articlesection" value="People"/>
+    <cse:Attribute name="datepublished" value="1 hour, 9 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="TVTV&apos;s making progress on diversity, but it&apos;s motivated by moneyTV&apos;s making progress on diversity, but it&apos;s motivated by money&quot;The color that&apos;s relevant here is green,&quot; says &apos;Power&apos; producer..."/>
+    <cse:Attribute name="headline" value="TV&apos;s making progress on diversity, but it&apos;s motivated by money"/>
+    <cse:Attribute name="articlesection" value="TV"/>
+    <cse:Attribute name="datepublished" value="2 hours, 46 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="CriticscornerTV tonight: &apos;CMA Awards,&apos; &apos;Story of Cats&apos;TV tonight: &apos;CMA Awards,&apos; &apos;Story of Cats&apos;What&apos;s worth watching, and what might not be, in primetimeCriticscorner9 hours, 22 minutes ago"/>
+    <cse:Attribute name="headline" value="TV tonight: &apos;CMA Awards,&apos; &apos;Story of Cats&apos;"/>
+    <cse:Attribute name="articlesection" value="Criticscorner"/>
+    <cse:Attribute name="datepublished" value="9 hours, 22 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="MoviesShocker! Johnny Depp is in &apos;Fantastic Beasts&apos;Shocker! Johnny Depp is in &apos;Fantastic Beasts&apos;Word leaked Tuesday that the actor appears in the J.K. Rowling adaptation.Movies4 hours, 34 minutes ago"/>
+    <cse:Attribute name="headline" value="Shocker! Johnny Depp is in &apos;Fantastic Beasts&apos;"/>
+    <cse:Attribute name="articlesection" value="Movies"/>
+    <cse:Attribute name="datepublished" value="4 hours, 34 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="Entertain ThisAca-Awesome! &apos;A Pentatonix Christmas&apos; is coming to NBCAca-Awesome! &apos;A Pentatonix Christmas&apos; is coming to NBCReba McEntire and Kelly Clarkson are coming along for the ride.Entertain..."/>
+    <cse:Attribute name="headline" value="Aca-Awesome! &apos;A Pentatonix Christmas&apos; is coming to NBC"/>
+    <cse:Attribute name="articlesection" value="Entertain This"/>
+    <cse:Attribute name="datepublished" value="1 hour, 21 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="MusicCMA Awards: Who should win, who will winCMA Awards: Who should win, who will winThe USA TODAY Network picks who should win the top prizes Wednesday night.Music1 day ago"/>
+    <cse:Attribute name="headline" value="CMA Awards: Who should win, who will win"/>
+    <cse:Attribute name="articlesection" value="Music"/>
+    <cse:Attribute name="datepublished" value="1 day ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="Entertain ThisLouis C.K. backs Hillary Clinton because she’s a mom who ‘can take abuse’Louis C.K. backs Hillary Clinton because she’s a mom who ‘can take abuse’‘We need just a..."/>
+    <cse:Attribute name="headline" value="Louis C.K. backs Hillary Clinton because she’s a mom who ‘can take abuse’"/>
+    <cse:Attribute name="articlesection" value="Entertain This"/>
+    <cse:Attribute name="datepublished" value="1 hour, 23 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="Entertain ThisEddie Redmayne talks the &apos;constant jetlag&apos; of new parenting on &apos;Ellen&apos;Eddie Redmayne talks the &apos;constant jetlag&apos; of new parenting on &apos;Ellen&apos;Parenting a newborn is hard. Even if..."/>
+    <cse:Attribute name="headline" value="Eddie Redmayne talks the &apos;constant jetlag&apos; of new parenting on &apos;Ellen&apos;"/>
+    <cse:Attribute name="articlesection" value="Entertain This"/>
+    <cse:Attribute name="datepublished" value="2 hours, 6 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="Entertain ThisSeth Meyers: The 2016 election revealed the &apos;real&apos; Donald TrumpSeth Meyers: The 2016 election revealed the &apos;real&apos; Donald TrumpTrump seems to have &quot;underestimated the incredible..."/>
+    <cse:Attribute name="headline" value="Seth Meyers: The 2016 election revealed the &apos;real&apos; Donald Trump"/>
+    <cse:Attribute name="articlesection" value="Entertain This"/>
+    <cse:Attribute name="datepublished" value="2 hours, 55 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeMatt Smith calls Trump a &apos;lunatic&apos;Matt Smith calls Trump a &apos;lunatic&apos;&quot;The Crown&quot; star Matt Smith urges Americans to &quot;make sure that lunatic doesn&apos;t get into the White House because if he..."/>
+    <cse:Attribute name="headline" value="Matt Smith calls Trump a &apos;lunatic&apos;"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="3 hours, 42 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeShowBiz Minute: Cosby, Depp, ChesneyShowBiz Minute: Cosby, Depp, ChesneyJudge decides whether to exclude deposition from Cosby trial; Johnny Depp joins &quot;Fantastic Beasts&quot; franchise; Country..."/>
+    <cse:Attribute name="headline" value="ShowBiz Minute: Cosby, Depp, Chesney"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="3 hours, 31 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="PeoplePrince Harry reportedly dating &apos;Suits&apos; actress Meghan MarklePrince Harry reportedly dating &apos;Suits&apos; actress Meghan MarkleSources close to Prince Harry say he&apos;s been seeing an American..."/>
+    <cse:Attribute name="headline" value="Prince Harry reportedly dating &apos;Suits&apos; actress Meghan Markle"/>
+    <cse:Attribute name="articlesection" value="People"/>
+    <cse:Attribute name="datepublished" value="17 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="BusinessPeople are really upset over Starbucks&apos; green unity cupPeople are really upset over Starbucks&apos; green unity cupSome customers are accusing the coffee giant of &quot;political brainwashing&quot;..."/>
+    <cse:Attribute name="headline" value="People are really upset over Starbucks&apos; green unity cup"/>
+    <cse:Attribute name="articlesection" value="Business"/>
+    <cse:Attribute name="datepublished" value="45 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="MoviesHarry Potter yoga brings magic to the matHarry Potter yoga brings magic to the matHarry Potter yoga is the exercise class we have all been waiting for. Keri Lumm (@thekerilumm) reports.Movies..."/>
+    <cse:Attribute name="headline" value="Harry Potter yoga brings magic to the mat"/>
+    <cse:Attribute name="articlesection" value="Movies"/>
+    <cse:Attribute name="datepublished" value="3 hours, 13 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeMiranda Sings gets her own Netflix seriesMiranda Sings gets her own Netflix seriesYouTube character Miranda Sings now has her very own Netflix series called &apos;Haters Back Off!&apos; Colleen Ballinger..."/>
+    <cse:Attribute name="headline" value="Miranda Sings gets her own Netflix series"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="22 hours, 55 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeNashville stars share their personal anthemNashville stars share their personal anthemThe 50th annual CMA Awards air Wednesday at 8 p.m. on ABCLife23 hours, 12 minutes ago"/>
+    <cse:Attribute name="headline" value="Nashville stars share their personal anthem"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="23 hours, 12 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeFoy takes &apos;The Crown&apos; for Queen portrayalFoy takes &apos;The Crown&apos; for Queen portrayal&quot;The Crown&quot; actor Matt Smith raves about his co-star Claire Foy&apos;s ability to do nothing (yet communicate..."/>
+    <cse:Attribute name="headline" value="Foy takes &apos;The Crown&apos; for Queen portrayal"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="1 hour, 5 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeCountry stars on winning their first CMA AwardCountry stars on winning their first CMA AwardCountry&apos;s biggest stars explain what went through their head the first time they heard their..."/>
+    <cse:Attribute name="headline" value="Country stars on winning their first CMA Award"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="6 hours, 15 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="Life‘The Crown&apos; cast amazed by staggering budget‘The Crown&apos; cast amazed by staggering budgetClaire Foy and Matt Smith - the stars of Netflix&apos;s Queen Elizabeth II drama &quot;The Crown&quot; - talk..."/>
+    <cse:Attribute name="headline" value="‘The Crown&apos; cast amazed by staggering budget"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="5 hours, 27 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeHillary Clinton shares her secrets for not letting Trump &apos;in her head&apos;Hillary Clinton shares her secrets for not letting Trump &apos;in her head&apos;Democratic presidential nominee tells PEOPLE..."/>
+    <cse:Attribute name="headline" value="Hillary Clinton shares her secrets for not letting Trump &apos;in her head&apos;"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="6 hours, 20 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeVal Kilmer denies having cancerVal Kilmer denies having cancerActor Val Kilmer appreciates all his fans concerns.Life10 minutes ago"/>
+    <cse:Attribute name="headline" value="Val Kilmer denies having cancer"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="10 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="PeoplePrince Harry gets serious quickly with new girlfriendPrince Harry gets serious quickly with new girlfriendPrince Harry is moving fast with his new girlfriend Meghan Markle according to..."/>
+    <cse:Attribute name="headline" value="Prince Harry gets serious quickly with new girlfriend"/>
+    <cse:Attribute name="articlesection" value="People"/>
+    <cse:Attribute name="datepublished" value="10 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeHillary wants Michelle Obama to work with a Clinton White HouseHillary wants Michelle Obama to work with a Clinton White House‘We Are Going to Talk After the Election’ Clinton tells..."/>
+    <cse:Attribute name="headline" value="Hillary wants Michelle Obama to work with a Clinton White House"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="6 hours, 26 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="TVTrailer: Season 2 of &apos;Fuller House&apos;Trailer: Season 2 of &apos;Fuller House&apos;See what the Tanners are up to in the second season of &apos;Fuller House,&apos; coming to Netflix December 9th.TV22 hours, 9 minutes ago"/>
+    <cse:Attribute name="headline" value="Trailer: Season 2 of &apos;Fuller House&apos;"/>
+    <cse:Attribute name="articlesection" value="TV"/>
+    <cse:Attribute name="datepublished" value="22 hours, 9 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeJake Gyllenhaal shares stylish Tom Ford thrillerJake Gyllenhaal shares stylish Tom Ford thrillerAmy Adams and Jake Gyllenhaal star in designer-filmmaker Tom Ford’s new noir thriller &quot;Nocturna..."/>
+    <cse:Attribute name="headline" value="Jake Gyllenhaal shares stylish Tom Ford thriller"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="15 hours, 11 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="LifeWho is Dorit Kemsley? 5 things to know about the new RHOBH starWho is Dorit Kemsley? 5 things to know about the new RHOBH starThe Real Housewives of Beverly Hills is returning for its seventh..."/>
+    <cse:Attribute name="headline" value="Who is Dorit Kemsley? 5 things to know about the new RHOBH star"/>
+    <cse:Attribute name="articlesection" value="Life"/>
+    <cse:Attribute name="datepublished" value="13 hours, 25 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="url" value="PeopleLindsay Lohan is speaking in a strange new accentLindsay Lohan is speaking in a strange new accentLindsay Lohan is speaking with a new accent that has everyone in awe. Keleigh Nealon..."/>
+    <cse:Attribute name="headline" value="Lindsay Lohan is speaking in a strange new accent"/>
+    <cse:Attribute name="articlesection" value="People"/>
+    <cse:Attribute name="datepublished" value="3 hours, 9 minutes ago"/>
+   </cse:DataObject>
+   <cse:DataObject type="videoobject">
+    <cse:Attribute name="description" value="Sources close to Prince Harry say he&apos;s been seeing an American actress Time"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.gannett-cdn.com/-mm-/b35da0a93d7a63eab3db01dd092a1d10fcd4d2aa/c=872-25-2524-1677&amp;r=x151&amp;c=198x148/local/-/media/2016/10/31/USATODAY/USATODAY/636134956703171753-TheCrown-105-3036r2.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="158"/>
+    <cse:Attribute name="height" value="118"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9NJNpaWqni8WsFej8jnB4j_9R8tRSzUfw6R0TJ1AvtlBfQV4f_QeI9A"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-germany-volkswagen-restructuring-idUSKBN12X2EB</id>
+  <updated>1970-01-18T02:36:18.733Z</updated>
+  <title type="html">VW board to discuss brand overhaul on November 4: sources ...</title>
+  <link href="http://www.reuters.com/article/us-germany-volkswagen-restructuring-idUSKBN12X2EB" title="www.reuters.com"/>
+  <summary type="html">4, to consult on a wide-ranging restructuring of the carmaker, two &lt;b&gt;sources close&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;to&lt;/b&gt; the board told Reuters on Wednesday. Management and labour leaders are&amp;nbsp;...</summary>
+  <cse:cacheId>uSQDz8MP9EAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-germany-volkswagen-restructuring- idUSKBN12X2EB</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="businessNews"/>
+    <cse:Attribute name="dcsext.channellist" value="newsOne;businessNews;innovationAMD;everything;Deals;AllianzInvestments;Hyundai;autos;Allianz;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;shipping;PorscheCayenne;Intel;PFG;globalEnergyVbc;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="VW+board+to+discuss+brand+overhaul+on+November+4%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-businessNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Germany;Herbert Diess;Matthias Mueller;US;GERMANY;VOLKSWAGEN;RESTRUCTURING;Corporate Governance;Euro Zone;United States;Auto and Truck Manufacturers (TRBC);Key Personnel Changes;Europe;Company News;Labour / Personnel;Automobiles and Auto Parts (TRBC);Major News;Mergers / Acquisitions / Takeovers;Corporate Events;Western Europe;Automobiles / Auto Parts (Legacy);Germany;Restructuring / Reorganization;Regulation;Americas;Central / Eastern Europe"/>
+    <cse:Attribute name="revision_date" value="Wed Nov 02 22:08:14 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-11-02T22:08:14+0000"/>
+    <cse:Attribute name="sailthru.title" value="VW board to discuss brand overhaul on November 4: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="VW board to discuss brand overhaul on November 4: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-germany-volkswagen-restructuring-idUSKBN12X2EB"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Volkswagen&apos;s (VOWG_p.DE) supervisory board will hold an extraordinary meeting on Friday, Nov. 4, to consult on a wide-ranging restructuring of the carmaker, two sources close to the board told Reuters on Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161102&amp;t=2&amp;i=1160018409&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECA11DE"/>
+    <cse:Attribute name="og:article:published_time" value="2016-11-02T22:08:14+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-11-02T22:08:14+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Germany,Herbert Diess,Matthias Mueller,US,GERMANY,VOLKSWAGEN,RESTRUCTURING,Corporate Governance,Euro Zone,United States,Auto and Truck Manufacturers (TRBC),Key Personnel Changes,Europe,Company News,Labour / Personnel,Automobiles and Auto Parts (TRBC),Major News,Mergers / Acquisitions / Takeovers,Corporate Events,Western Europe,Automobiles / Auto Parts (Legacy),Germany,Restructuring / Reorganization,Regulation,Americas,Central / Eastern Europe"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="VW board to discuss brand overhaul on November 4: sources"/>
+    <cse:Attribute name="twitter:description" value="Volkswagen&apos;s (VOWG_p.DE) supervisory board will hold an extraordinary meeting on Friday, Nov. 4, to consult on a wide-ranging restructuring of the carmaker, two sources close to the board told Reuters on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161102&amp;t=2&amp;i=1160018409&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECA11DE"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161102&amp;t=2&amp;i=1160018409&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECA11DE"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Business"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html</id>
-  <updated>1970-01-18T02:34:56.334Z</updated>
+  <updated>1970-01-18T02:36:18.733Z</updated>
   <title type="html">Would Clinton tap Biden for secretary of State? Sources say yes</title>
   <link href="https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html" title="www.yahoo.com"/>
   <summary type="html">... according to &lt;b&gt;sources close to&lt;/b&gt; the campaign. NBC News later confirmed that &lt;br&gt;
@@ -223,7 +451,7 @@ former Secretary of State Hillary Clinton was considering Mr. Biden for the job.
     <cse:Attribute name="twitter:dnt" value="on"/>
     <cse:Attribute name="twitter:site" value="@Yahoo"/>
     <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
-    <cse:Attribute name="yahoo" value="app-id=304158842,app-argument=https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html"/>
+    <cse:Attribute name="yahoo" value="app-id=304158842,app-argument=yahoo://article/view?uuid=20126b11-2126-359d-b3c8-9e657be790e4&amp;src=web"/>
     <cse:Attribute name="twitter:description" value="Democratic presidential candidate Hillary Clinton is considering tapping Vice President Joe Biden as secretary of State if she is elected, according to sources close to the campaign.  NBC News later confirmed that former Secretary of State Hillary Clinton was considering Mr. Biden for the job.  The Clinton"/>
     <cse:Attribute name="twitter:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
     <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
@@ -234,7 +462,7 @@ former Secretary of State Hillary Clinton was considering Mr. Biden for the job.
     <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=20126b11-2126-359d-b3c8-9e657be790e4&amp;src=web"/>
     <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
     <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="https://www.yahoo.com/news/clinton-tap-biden-secretary-state-sources-yes-164054082.html"/>
+    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=20126b11-2126-359d-b3c8-9e657be790e4&amp;src=web"/>
     <cse:Attribute name="twitter:card" value="summary"/>
     <cse:Attribute name="og:description" value="Democratic presidential candidate Hillary Clinton is considering tapping Vice President Joe Biden as secretary of State if she is elected, according to sources close to the campaign.  NBC News later confirmed that former Secretary of State Hillary Clinton was considering Mr. Biden for the job.  The Clinton"/>
     <cse:Attribute name="og:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
@@ -252,80 +480,72 @@ former Secretary of State Hillary Clinton was considering Mr. Biden for the job.
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/russia-rusal-vekselberg-idUSKCN12R19W</id>
-  <updated>1970-01-18T02:34:56.334Z</updated>
-  <title type="html">Russian tycoon to buy 12 percent in Rusal from Onexim: sources ...</title>
-  <link href="http://www.reuters.com/article/russia-rusal-vekselberg-idUSKCN12R19W" title="www.reuters.com"/>
-  <summary type="html">... plan to buy a 12 percent stake in aluminium maker Rusal (0486.HK) held by &lt;br&gt;
-Mikhail Prokhorov&amp;#39;s Onexim group, two &lt;b&gt;sources close to&lt;/b&gt; Vekselberg told Reuters.</summary>
-  <cse:cacheId>PX4P3cDOWZ4J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/russia-rusal-vekselberg-idUSKCN12R19W</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="asiaDealsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNewsIndustryMaterialsAndUtilities;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;everything;Deals;AllianzRetirement;AllianzInvestments;Allianz;verizonmm;cfaglobal;aa48hours;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Russian+tycoon+to+buy+12+percent+in+Rusal+from+Onexim%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-asiaDealsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Russia;Leonard Blavatnik;Mikhail Prokhorov;Oleg Vladimirovich Deripaska;Victor Feliksovitch Vekselberg;RUSSIA;RUSAL;VEKSELBERG;CIS Countries;Aluminium;East European Countries;Europe;Company News;Base Metals;Mineral Resources (TRBC);Asia / Pacific;Emerging Market Countries;Metals Markets;Deals;Russia;Corporate Events;Mining;Equity Investments;Regulation;Commodities News (3rd Party);Aluminum (TRBC);Metals and Mining (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Thu Oct 27 10:31:34 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-10-27T10:31:34+0000"/>
-    <cse:Attribute name="sailthru.title" value="Russian tycoon to buy 12 percent in Rusal from Onexim: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Russian tycoon to buy 12 percent in Rusal from Onexim: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/russia-rusal-vekselberg-idUSKCN12R19W"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Russian billionaire Viktor Vekselberg and his co-investors in Sual Partners plan to buy a 12 percent stake in aluminium maker Rusal (0486.HK) held by Mikhail Prokhorov&apos;s Onexim group, two sources close to Vekselberg told Reuters."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161027&amp;t=2&amp;i=1159190945&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC9Q0PJ"/>
-    <cse:Attribute name="og:article:published_time" value="2016-10-27T10:31:34+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-10-27T10:31:34+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Russia,Leonard Blavatnik,Mikhail Prokhorov,Oleg Vladimirovich Deripaska,Victor Feliksovitch Vekselberg,RUSSIA,RUSAL,VEKSELBERG,CIS Countries,Aluminium,East European Countries,Europe,Company News,Base Metals,Mineral Resources (TRBC),Asia / Pacific,Emerging Market Countries,Metals Markets,Deals,Russia,Corporate Events,Mining,Equity Investments,Regulation,Commodities News (3rd Party),Aluminum (TRBC),Metals and Mining (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Russian tycoon to buy 12 percent in Rusal from Onexim: sources"/>
-    <cse:Attribute name="twitter:description" value="Russian billionaire Viktor Vekselberg and his co-investors in Sual Partners plan to buy a 12 percent stake in aluminium maker Rusal (0486.HK) held by Mikhail Prokhorov&apos;s Onexim group, two sources close to Vekselberg told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161027&amp;t=2&amp;i=1159190945&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC9Q0PJ"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161027&amp;t=2&amp;i=1159190945&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC9Q0PJ"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161027&amp;t=2&amp;i=1159190945&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC9Q0PJ"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="271"/>
-    <cse:Attribute name="height" value="186"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9pggXlnDmYEJloHF2SyVnZGwn_QEsxlqpdLebvOYVN5RNrSBCrLEjxEQ"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://espn.go.com/espn/now?nowId=21-0548131088527004982-4</id>
-  <updated>1970-01-18T02:34:56.334Z</updated>
+  <updated>1970-01-18T02:36:18.733Z</updated>
   <title type="html">ESPN&amp;#39;s Dan Graziano</title>
   <link href="http://espn.go.com/espn/now?nowId=21-0548131088527004982-4" title="espn.go.com"/>
   <summary type="html"/>
   <cse:formattedUrl type="html">espn.go.com/espn/now?nowId=21-0548131088527004982-4</cse:formattedUrl>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2016/11/03/politics/donald-trump-2016-election-campaign-discipline/</id>
+  <updated>1970-01-18T02:36:18.733Z</updated>
+  <title type="html">Can Teleprompter Trump stay disciplined? - CNNPolitics.com</title>
+  <link href="http://www.cnn.com/2016/11/03/politics/donald-trump-2016-election-campaign-discipline/" title="www.cnn.com"/>
+  <summary type="html">There are several answers, according multiple &lt;b&gt;sources close to&lt;/b&gt; Trump. One is &lt;br&gt;
+what a Trump confidante called a &amp;quot;thunderbolt from God&amp;quot; -- the bombshell news&amp;nbsp;...</summary>
+  <cse:cacheId>onAM9i884FgJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/.../donald-trump-2016-election-campaign-discipline/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2016-11-03T09:59:14Z"/>
+    <cse:Attribute name="pubdate" value="2016-11-03T09:59:14Z"/>
+    <cse:Attribute name="lastmod" value="2016-11-03T12:45:03Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2016/11/03/politics/donald-trump-2016-election-campaign-discipline/index.html"/>
+    <cse:Attribute name="author" value="Dana Bash, CNN Chief Political Correspondent"/>
+    <cse:Attribute name="og:title" value="Can Teleprompter Trump stay disciplined?"/>
+    <cse:Attribute name="og:description" value="One of the most remarkable moments on the campaign trail this week was one that didn&apos;t happen."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161103063739-donald-trump-november-2-super-tease.jpg"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161103063739-donald-trump-november-2-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2016/11/03/politics/donald-trump-2016-election-campaign-discipline/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,bra-2016-elections,art-vid"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2016-11-03T09:59:14Z"/>
+    <cse:Attribute name="datepublished" value="2016-11-03T09:59:14Z"/>
+    <cse:Attribute name="datemodified" value="2016-11-03T12:45:03Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2016/11/03/politics/donald-trump-2016-election-campaign-discipline/index.html"/>
+    <cse:Attribute name="author" value="Dana Bash, CNN Chief Political Correspondent"/>
+    <cse:Attribute name="headline" value="Can Teleprompter Trump stay disciplined? - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="One of the most remarkable moments on the campaign trail this week was one that didn&apos;t happen."/>
+    <cse:Attribute name="keywords" value="politics, Can Teleprompter Trump stay disciplined? - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161103063739-donald-trump-november-2-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161103063739-donald-trump-november-2-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Can Teleprompter Trump stay disciplined?"/>
+    <cse:Attribute name="articlebody" value="Story highlightsTrump isn&apos;t taking Clinton&apos;s baitTrump at Wednesday rally: &apos;We&apos;ve got to be nice and cool, nice and cool, right?&apos;Washington (CNN)One of the most remarkable moments on the campaign..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161103063739-donald-trump-november-2-super-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.turner.com/cnnnext/dam/assets/161103063739-donald-trump-november-2-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.telegraph.co.uk/on-demand/2016/11/01/millie-bobby-browns-eleven-to-return-for-stranger-things-season/</id>
-  <updated>1970-01-18T02:34:56.334Z</updated>
+  <updated>1970-01-18T02:36:18.733Z</updated>
   <title type="html">Millie Bobby Brown&amp;#39;s Eleven to return for Stranger Things season 2</title>
   <link href="http://www.telegraph.co.uk/on-demand/2016/11/01/millie-bobby-browns-eleven-to-return-for-stranger-things-season/" title="www.telegraph.co.uk"/>
   <summary type="html">But according to the website TV Line, &lt;b&gt;sources close to&lt;/b&gt; the Netflix sci-fi show have &lt;br&gt;
@@ -411,7 +631,7 @@ said that the 12-year-old actress will definitely return for a second season.</s
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.yahoo.com/news/m/e50c50f9-edcf-372e-8d82-64618a578112/attorney-general-disagreed.html</id>
-  <updated>1970-01-18T02:34:56.334Z</updated>
+  <updated>1970-01-18T02:36:18.733Z</updated>
   <title type="html">Attorney general disagreed with FBI director&amp;#39;s decision to alert ...</title>
   <link href="https://www.yahoo.com/news/m/e50c50f9-edcf-372e-8d82-64618a578112/attorney-general-disagreed.html" title="www.yahoo.com"/>
   <summary type="html">&lt;b&gt;Sources close to&lt;/b&gt; the Clinton investigation told Reid that Lynch encouraged the &lt;br&gt;
@@ -449,52 +669,6 @@ FBI chief to follow a long-standing practice not to comment on ongoing&amp;nbsp;
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s1.yimg.com/uu/api/res/1.2/k1_m9l96hqfAAIz0G4YHvA--/dz0xMjAwO2g9NjMwO3RhZz1vcmlnaW5hbDthcHBpZD15bmV3cw--/http://streambe.zenfs.com/streambe/streambe_e50c50f9-edcf-372e-8d82-64618a578112--278731779.jpeg"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
-  <updated>1970-01-18T02:34:56.334Z</updated>
-  <title type="html">Davide Barbuscia</title>
-  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
-  <summary type="html">DUBAI, Oct 17 Kuwait&amp;#39;s Warba Bank is about to issue up to $250 million of &lt;br&gt;
-Islamic bonds to boost its Tier 1 capital, &lt;b&gt;sources close to&lt;/b&gt; the situation said on &lt;br&gt;
-Monday.</summary>
-  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
