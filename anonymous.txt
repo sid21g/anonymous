@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T02:40:46.625Z</updated>
+ <updated>1970-01-18T02:43:35.163Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source said&quot;" totalResults="11600" searchTerms="&quot;a source said&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source said&quot;" totalResults="11600" searchTerms="&quot;a source said&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>11600</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source said&quot;" totalResults="9180" searchTerms="&quot;a source said&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source said&quot;" totalResults="9180" searchTerms="&quot;a source said&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9180</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.17748</cse:searchTime>
-  <cse:formattedSearchTime>0.18</cse:formattedSearchTime>
-  <cse:totalResults>11600</cse:totalResults>
-  <cse:formattedTotalResults>11,600</cse:formattedTotalResults>
+  <cse:searchTime>0.26559</cse:searchTime>
+  <cse:formattedSearchTime>0.27</cse:formattedSearchTime>
+  <cse:totalResults>9180</cse:totalResults>
+  <cse:formattedTotalResults>9,180</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.dailymail.co.uk/news/article-3907500/Michael-Bubl-said-just-week-ago-prays-boys-happy-healthy.html</id>
-  <updated>1970-01-18T02:40:46.625Z</updated>
+  <updated>1970-01-18T02:43:35.163Z</updated>
   <title type="html">Michael Bublé said just a week ago he prays his boys are &amp;#39;happy ...</title>
   <link href="http://www.dailymail.co.uk/news/article-3907500/Michael-Bubl-said-just-week-ago-prays-boys-happy-healthy.html" title="www.dailymail.co.uk"/>
   <summary type="html">... Bublé and his wife Luisana are taking career breaks for Noah&amp;#39;s treatment; On &lt;br&gt;
@@ -108,8 +108,74 @@ Friday, &lt;b&gt;a source said&lt;/b&gt; they are &amp;#39;really sad&amp;#39; b
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.businessinsider.com/apples-secret-siri-lab-in-cambridge-2016-11</id>
+  <updated>1970-01-18T02:43:35.163Z</updated>
+  <title type="html">Apple&amp;#39;s secret Siri lab in Cambridge - Business Insider</title>
+  <link href="http://www.businessinsider.com/apples-secret-siri-lab-in-cambridge-2016-11" title="www.businessinsider.com"/>
+  <summary type="html">Apple is thought to employ less than 30 people in its Cambridge office but &lt;b&gt;a&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;source said&lt;/b&gt; there is a lot of room for expansion.Business Insider/Sam Shead.</summary>
+  <cse:cacheId>mHwg559BBg8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/apples-secret-siri-lab-in-cambridge-2016-11</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="date" value="2016-11-03"/>
+    <cse:Attribute name="sailthru.date" value="2016-11-03"/>
+    <cse:Attribute name="news_keywords" value="Apple, Siri, Cambridge, Sam Shead"/>
+    <cse:Attribute name="sailthru.tags" value="Apple, Siri, Cambridge, Sam Shead"/>
+    <cse:Attribute name="sailthru.description" value="Those working inside are aiming to make Siri talk more naturally."/>
+    <cse:Attribute name="title" value="Apple has a secret Siri lab in Cambridge"/>
+    <cse:Attribute name="sailthru.verticals" value="sai,uk"/>
+    <cse:Attribute name="sailthru.title" value="Apple has a secret Siri lab in Cambridge"/>
+    <cse:Attribute name="tbi-image" value="http://static6.businessinsider.com/image/581b26a5dd0895ce598b4b6e/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static6.businessinsider.com/image/581b26a5dd0895ce598b4b6e/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static2.businessinsider.com/image/581b26a5dd0895ce598b4b6e-50-50/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
+    <cse:Attribute name="sailthru.author" value="Sam Shead"/>
+    <cse:Attribute name="og:title" value="Apple has a secret Siri lab in Cambridge"/>
+    <cse:Attribute name="og:description" value="Those working inside are aiming to make Siri talk more naturally."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/apples-secret-siri-lab-in-cambridge-2016-11"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Sam Shead"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/apples-secret-siri-lab-in-cambridge-2016-11"/>
+    <cse:Attribute name="twitter:title" value="Apple has a secret Siri lab in Cambridge"/>
+    <cse:Attribute name="twitter:description" value="Those working inside are aiming to make Siri talk more naturally."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://static4.businessinsider.com/image/581b26a5dd0895ce598b4b6f-506-253/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
+    <cse:Attribute name="twitter:site" value="sai"/>
+    <cse:Attribute name="article:author" value="http://www.businessinsider.com/author/sam-shead"/>
+    <cse:Attribute name="og:image" value="http://static4.businessinsider.com/image/581b26a5dd0895ce598b4b6f-1190-625/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
+    <cse:Attribute name="pm:template" value="noad-byline"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="sai"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="Apple has a secret Siri lab in Cambridge"/>
+    <cse:Attribute name="url" value="Apple has a secret Siri lab in Cambridge"/>
+    <cse:Attribute name="image" value="http://static6.businessinsider.com/image/581b26a5dd0895ce598b4b6e-100-100/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
+    <cse:Attribute name="description" value="Apple has a secret office in Cambridge where..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static4.businessinsider.com/image/581b26a5dd0895ce598b4b6f-1190-625/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="318"/>
+    <cse:Attribute name="height" value="159"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjtRm1lzD65sHmvLWP7fHyt_pp6d5z0FsgQLevCk3EPRkykY9pP1-i3sVy"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.mirror.co.uk/3am/celebrity-news/kerry-katona-renew-wedding-vows-9204726</id>
-  <updated>1970-01-18T02:40:46.625Z</updated>
+  <updated>1970-01-18T02:43:35.163Z</updated>
   <title type="html">Kerry Katona to renew wedding vows with George Kay despite ...</title>
   <link href="http://www.mirror.co.uk/3am/celebrity-news/kerry-katona-renew-wedding-vows-9204726" title="www.mirror.co.uk"/>
   <summary type="html">&lt;b&gt;A source said&lt;/b&gt;: “They&amp;#39;ve had their ups and downs so they&amp;#39;re not going to rush into &lt;br&gt;
@@ -168,83 +234,18 @@ it, but next year they want to cement their feelings for each other with a bless
     <cse:Attribute name="uploaddate" value="2016-10-25T10:57:52Z"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i3.mirror.co.uk/incoming/article9204624.ece/ALTERNATES/s1200/Elbrook-Gala-Dinner.jpg"/>
+    <cse:Attribute name="src" value="http://brightcove04.o.brightcove.com/4221396001/4221396001_5184308478001_5184310323001-vs.jpg?pubId=4221396001"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRybWr851t72m8jRaBI2zelNYqPzeemNYBJg62Lx2Q0T-lZPLSVGAOPAlc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/apples-secret-siri-lab-in-cambridge-2016-11</id>
-  <updated>1970-01-18T02:40:46.625Z</updated>
-  <title type="html">Apple&amp;#39;s secret Siri lab in Cambridge - Business Insider</title>
-  <link href="http://www.businessinsider.com/apples-secret-siri-lab-in-cambridge-2016-11" title="www.businessinsider.com"/>
-  <summary type="html">Apple is thought to employ less than 30 people in its Cambridge office but &lt;b&gt;a&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;source said&lt;/b&gt; there is a lot of room for expansion.Business Insider/Sam Shead.</summary>
-  <cse:cacheId>mHwg559BBg8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/apples-secret-siri-lab-in-cambridge-2016-11</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2016-11-03"/>
-    <cse:Attribute name="sailthru.date" value="2016-11-03"/>
-    <cse:Attribute name="news_keywords" value="Apple, Siri, Cambridge, Sam Shead"/>
-    <cse:Attribute name="sailthru.tags" value="Apple, Siri, Cambridge, Sam Shead"/>
-    <cse:Attribute name="sailthru.description" value="Those working inside are aiming to make Siri talk more naturally."/>
-    <cse:Attribute name="title" value="Apple has a secret Siri lab in Cambridge"/>
-    <cse:Attribute name="sailthru.verticals" value="sai,uk"/>
-    <cse:Attribute name="sailthru.title" value="Apple has a secret Siri lab in Cambridge"/>
-    <cse:Attribute name="tbi-image" value="http://static6.businessinsider.com/image/581b26a5dd0895ce598b4b6e/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static6.businessinsider.com/image/581b26a5dd0895ce598b4b6e/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static2.businessinsider.com/image/581b26a5dd0895ce598b4b6e-50-50/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
-    <cse:Attribute name="sailthru.author" value="Sam Shead"/>
-    <cse:Attribute name="og:title" value="Apple has a secret Siri lab in Cambridge"/>
-    <cse:Attribute name="og:description" value="Those working inside are aiming to make Siri talk more naturally."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/apples-secret-siri-lab-in-cambridge-2016-11"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Sam Shead"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/apples-secret-siri-lab-in-cambridge-2016-11"/>
-    <cse:Attribute name="twitter:title" value="Apple has a secret Siri lab in Cambridge"/>
-    <cse:Attribute name="twitter:description" value="Those working inside are aiming to make Siri talk more naturally."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static4.businessinsider.com/image/581b26a5dd0895ce598b4b6f-506-253/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
-    <cse:Attribute name="twitter:site" value="sai"/>
-    <cse:Attribute name="article:author" value="http://www.businessinsider.com/author/sam-shead"/>
-    <cse:Attribute name="og:image" value="http://static4.businessinsider.com/image/581b26a5dd0895ce598b4b6f-1190-625/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="sai"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Apple has a secret Siri lab in Cambridge"/>
-    <cse:Attribute name="url" value="Apple has a secret Siri lab in Cambridge"/>
-    <cse:Attribute name="image" value="http://static6.businessinsider.com/image/581b26a5dd0895ce598b4b6e-100-100/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
-    <cse:Attribute name="description" value="Apple has a secret office in Cambridge where..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static4.businessinsider.com/image/581b26a5dd0895ce598b4b6f-1190-625/apple-has-a-secret-siri-lab-in-cambridge.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="318"/>
-    <cse:Attribute name="height" value="159"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjtRm1lzD65sHmvLWP7fHyt_pp6d5z0FsgQLevCk3EPRkykY9pP1-i3sVy"/>
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkR_rbITAebi3A08sEtutYx1xpOnXN5qcySG8tLR31aeRkaBdRgXocwmU"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.thedailybeast.com/articles/2016/11/02/mark-burnett-clamps-down-on-the-apprentice-staff-over-donald-trump-leaks.html</id>
-  <updated>1970-01-18T02:40:46.625Z</updated>
+  <updated>1970-01-18T02:43:35.163Z</updated>
   <title type="html">Mark Burnett Clamps Down on &amp;#39;The Apprentice&amp;#39; Staff Over Donald ...</title>
   <link href="http://www.thedailybeast.com/articles/2016/11/02/mark-burnett-clamps-down-on-the-apprentice-staff-over-donald-trump-leaks.html" title="www.thedailybeast.com"/>
   <summary type="html">(The tweet also earned Pruitt an immediate flood of death threats and media &lt;br&gt;
@@ -280,227 +281,24 @@ requests, &lt;b&gt;a source said&lt;/b&gt;. Pruitt has not responded to The Dail
     <cse:Attribute name="article:published_time" value="2016-11-02T05:00:00.000Z"/>
     <cse:Attribute name="article:author" value="http://www.thedailybeast.com/contributors/gideon-resnickhtml"/>
     <cse:Attribute name="article:section" value="politics"/>
-    <cse:Attribute name="og:image" value="http://cdn.thedailybeast.com/content/dailybeast/articles/2016/11/02/mark-burnett-clamps-down-on-the-apprentice-staff-over-donald-trump-leaks/jcr:content/image.img.2000.jpg/1478063403037.cached.jpg"/>
+    <cse:Attribute name="og:image" value="http://cdn.thedailybeast.com/content/dailybeast/articles/2016/11/02/mark-burnett-clamps-down-on-the-apprentice-staff-over-donald-trump-leaks/jcr:content/image.img.2000.jpg/1478063403012.cached.jpg"/>
     <cse:Attribute name="publicationdate" value="201611020500"/>
     <cse:Attribute name="pagenum" value="1"/>
     <cse:Attribute name="parsely-page" value="{&quot;title&quot;:&quot;Mark Burnett Clamps Down on ‘The Apprentice’ Staff Over Donald Trump Leaks&quot;,&quot;link&quot;:&quot;http://www.thedailybeast.com/articles/2016/11/02/mark-burnett-clamps-down-on-the-apprentice-staff-over-donald-trump-leaks.html&quot;,&quot;image_url&quot;:&quot;http://cdn.thedailybeast.com/content/dailybeast/articles/2016/11/02/mark-burnett-clamps-down-on-the-apprentice-staff-over-donald-trump-leaks/jcr:content/image.crop.410.273.jpg/49268780.cached.jpg&quot;,&quot;type&quot;:&quot;post&quot;,&quot;post_id&quot;:&quot;/content/dailybeast/articles/2016/11/02/mark-burnett-clamps-down-on-the-apprentice-staff-over-donald-trump-leaks&quot;,&quot;pub_date&quot;:&quot;2016-11-02T05:00:00+00:00&quot;,&quot;section&quot;:&quot;Politics&quot;,&quot;author&quot;:&quot;Asawin Suebsaeng|Gideon Resnick&quot;,&quot;tags&quot;:[&quot;politics-election&quot;,&quot;the_apprentice&quot;,&quot;mark_burnett&quot;,&quot;2016-election&quot;,&quot;2016_election&quot;,&quot;celebrity_apprentice&quot;,&quot;syndication-google&quot;,&quot;entertainment&quot;,&quot;politics&quot;,&quot;donald_trump&quot;,&quot;donald-trump&quot;]}"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://cdn.thedailybeast.com/content/dailybeast/articles/2016/11/02/mark-burnett-clamps-down-on-the-apprentice-staff-over-donald-trump-leaks/jcr:content/image.img.2000.jpg/1478063403037.cached.jpg"/>
+    <cse:Attribute name="src" value="http://cdn.thedailybeast.com/content/dailybeast/articles/2016/11/02/mark-burnett-clamps-down-on-the-apprentice-staff-over-donald-trump-leaks/jcr:content/image.img.2000.jpg/1478063403012.cached.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVHrohzwupN01Fc-AFtrgMCKpVCjmbtk7R1swHpCB1PsHSFquFFMIbmWs"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-eurozone-banks-montedeipaschi-data-idUSKBN12V204</id>
-  <updated>1970-01-18T02:40:46.625Z</updated>
-  <title type="html">Monte dei Paschi seeks clarity on anchor investors: source | Reuters</title>
-  <link href="http://www.reuters.com/article/us-eurozone-banks-montedeipaschi-data-idUSKBN12V204" title="www.reuters.com"/>
-  <summary type="html">Earlier on Monday &lt;b&gt;a source said&lt;/b&gt; the alternative rescue plan would fall through if &lt;br&gt;
-the Tuscan bank did not grant access to its data by the end of the week.</summary>
-  <cse:cacheId>ayBP8BiECIIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-eurozone-banks-montedeipaschi-data- idUSKBN12V204</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;euDealsNews;euPrivateEquityNews;ousivMolt"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Monte+dei+Paschi+seeks+clarity+on+anchor+investors%3A+source"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Corrado Passera;US;EUROZONE;BANKS;MONTEDEIPASCHI;DATA;Banks (TRBC);Loans;Mergers / Acquisitions / Takeovers;Corporate Events;Europe;Corporate Debt;Company News;Regulation;Italy;Banking Services (Legacy);Euro Zone as a Whole"/>
-    <cse:Attribute name="revision_date" value="Mon Oct 31 17:35:05 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-10-31T17:35:05+0000"/>
-    <cse:Attribute name="sailthru.title" value="Monte dei Paschi seeks clarity on anchor investors: source"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Monte dei Paschi seeks clarity on anchor investors: source"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-eurozone-banks-montedeipaschi-data-idUSKBN12V204"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Banca Monte dei Paschi di Siena (BMPS.MI) is ready to give data room access to former industry minister Corrado Passera for the alternative rescue plan he is sponsoring providing he first names the anchor investors, a source close to the bank said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-10-31T17:35:05+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-10-31T17:35:05+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Corrado Passera,US,EUROZONE,BANKS,MONTEDEIPASCHI,DATA,Banks (TRBC),Loans,Mergers / Acquisitions / Takeovers,Corporate Events,Europe,Corporate Debt,Company News,Regulation,Italy,Banking Services (Legacy),Euro Zone as a Whole"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Monte dei Paschi seeks clarity on anchor investors: source"/>
-    <cse:Attribute name="twitter:description" value="Banca Monte dei Paschi di Siena (BMPS.MI) is ready to give data room access to former industry minister Corrado Passera for the alternative rescue plan he is sponsoring providing he first names the anchor investors, a source close to the bank said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.nydailynews.com/new-york/sba-boss-ed-mullins-leaves-meeting-deborah-danner-case-article-1.2853551</id>
-  <updated>1970-01-18T02:40:46.625Z</updated>
-  <title type="html">SBA&amp;#39;s boss Ed Mullins leaves meeting about Deborah Danner case ...</title>
-  <link href="http://www.nydailynews.com/new-york/sba-boss-ed-mullins-leaves-meeting-deborah-danner-case-article-1.2853551" title="www.nydailynews.com"/>
-  <summary type="html">“Everybody agreed to disagree,” &lt;b&gt;a source said&lt;/b&gt; about Friday&amp;#39;s meeting. O&amp;#39;Neill &lt;br&gt;
-has said Barry didn&amp;#39;t follow NYPD protocol in his handling of Danner. De Blasio&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">www.nydailynews.com/.../sba-boss-ed-mullins-leaves-meeting-deborah- danner-case-article-1.2853551</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="nydn_section" value="New York"/>
-    <cse:Attribute name="fb:app_id" value="107464888913"/>
-    <cse:Attribute name="fb:admins" value="1594068001"/>
-    <cse:Attribute name="fb:pages" value="268914272540"/>
-    <cse:Attribute name="og:site_name" value="NY Daily News"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/NYDailyNews/"/>
-    <cse:Attribute name="msvalidate.01" value="02916AAC0DA8B068EFE01D721E03ED7E"/>
-    <cse:Attribute name="p:domain_verify" value="78efe4f5c9935744af497772f68a0ee7"/>
-    <cse:Attribute name="viewport" value="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@nydailynews"/>
-    <cse:Attribute name="twitter:url" value="http://www.nydailynews.com/new-york/sba-boss-ed-mullins-leaves-meeting-deborah-danner-case-article-1.2853551"/>
-    <cse:Attribute name="twitter:title" value="SBA&apos;s boss Ed Mullins leaves meeting about Deborah Danner case"/>
-    <cse:Attribute name="twitter:description" value="The head of the union representing NYPD sergeants walked out of a meeting with the police commissioner Tuesday."/>
-    <cse:Attribute name="sailthru.title" value="SBA&apos;s boss Ed Mullins leaves meeting about Deborah Danner case"/>
-    <cse:Attribute name="og:title" value="SBA&apos;s boss Ed Mullins leaves meeting about Deborah Danner case"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.nydailynews.com/new-york/sba-boss-ed-mullins-leaves-meeting-deborah-danner-case-article-1.2853551"/>
-    <cse:Attribute name="news_keywords" value="james oneil, deborah danner,"/>
-    <cse:Attribute name="og:image" value="http://assets.nydailynews.com/polopoly_fs/1.2841910.1477238948!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/news-conference-mayor-nypd-commissioner.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://assets.nydailynews.com/polopoly_fs/1.2841910.1477238948!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/news-conference-mayor-nypd-commissioner.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://assets.nydailynews.com/polopoly_fs/1.2841910.1477238948!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/news-conference-mayor-nypd-commissioner.jpg"/>
-    <cse:Attribute name="og:description" value="The head of the union representing NYPD sergeants walked out of a meeting with the police commissioner Tuesday."/>
-    <cse:Attribute name="sailthru.description" value="The head of the union representing NYPD sergeants walked out of a meeting with the police commissioner Tuesday."/>
-    <cse:Attribute name="sailthru.date" value="2016-11-01T09:28:47-0400"/>
-    <cse:Attribute name="nydn_tags" value="james oneill, nypd, labor unions, deborah danner, mental health, police under investigation, police shootings, gun violence"/>
-    <cse:Attribute name="nydn_byline" value="ROCCO PARASCANDOLA, GRAHAM RAYMAN"/>
-    <cse:Attribute name="sailthru.author" value="ROCCO PARASCANDOLA, GRAHAM RAYMAN"/>
-    <cse:Attribute name="sailthru.credits" value="NEW YORK DAILY NEWS"/>
-    <cse:Attribute name="parsely-title" value="SBA&apos;s boss Ed Mullins leaves meeting about Deborah Danner case"/>
-    <cse:Attribute name="parsely-link" value="http://www.nydailynews.com/new-york/sba-boss-ed-mullins-leaves-meeting-deborah-danner-case-article-1.2853551"/>
-    <cse:Attribute name="parsely-type" value="article"/>
-    <cse:Attribute name="parsely-image-url" value="http://assets.nydailynews.com/polopoly_fs/1.2841910.1477238948!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/news-conference-mayor-nypd-commissioner.jpg"/>
-    <cse:Attribute name="parsely-pub-date" value="2016-11-01T13:28:47"/>
-    <cse:Attribute name="sailthru.tags" value="New-york,NewYork,Bronx,NYCCrime,Politics,jamesoneill,nypd,laborunions,deborahdanner,mentalhealth,policeunderinvestigation,policeshootings,gunviolence"/>
-    <cse:Attribute name="parsely-section" value="New York"/>
-    <cse:Attribute name="parsely-author" value="Rocco Parascandola"/>
-    <cse:Attribute name="parsely-tags" value="james oneill, nypd, labor unions, deborah danner, mental health, police under investigation, police shootings, gun violence"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Sergeants&apos; union boss storms out of meeting with NYPD top cop because he condemned officer who shot schizophrenic Bronx woman"/>
-    <cse:Attribute name="articlebody" value="The head of the union representing NYPD sergeants walked out of a meeting with the the police commissioner Tuesday in protest of the department’s condemnation of the cop who shot to death..."/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="description" value="“What is clear in this one instance, we failed,” O’Neill said shortly after the shooting. “We were called to help her and we ended up killing her.”"/>
-    <cse:Attribute name="copyrightholder" value="(James Keivom/New York Daily News)"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="description" value="Deborah Danner was shot and killed by NYPD police on Tuesday, October 19, 2016."/>
-    <cse:Attribute name="copyrightholder" value="(Handout)"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="description" value="Sergeants Benevolent Association President Ed Mullins walked out of a meeting with NYPD Commissioner James O’Neill, Monday."/>
-    <cse:Attribute name="copyrightholder" value="(Bryan R. Smith)"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://assets.nydailynews.com/polopoly_fs/1.2841910.1477238948!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/news-conference-mayor-nypd-commissioner.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSotlbiHu1LjK-s47CknmNVPCdgy3Fh6lrPRJohDGQFmssUazIBDoM8N-t5"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/eurozone-banks-montedeipaschi-data-idUSL8N1D15X9?feedType=RSS&amp;feedName=financialsSector</id>
-  <updated>1970-01-18T02:40:46.625Z</updated>
-  <title type="html">Monte dei Paschi seeks clarity on anchor investors - source | Reuters</title>
-  <link href="http://www.reuters.com/article/eurozone-banks-montedeipaschi-data-idUSL8N1D15X9?feedType=RSS&amp;feedName=financialsSector" title="www.reuters.com"/>
-  <summary type="html">Earlier on Monday &lt;b&gt;a source said&lt;/b&gt; the alternative rescue plan would fall through if &lt;br&gt;
-the Tuscan bank did not grant access to its data by the end of the week.</summary>
-  <cse:cacheId>pDfRynteiqgJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../eurozone-banks-montedeipaschi-data-idUSL8N1D15X9 ?...</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="CathayPacific_US;MOC_US_2015-16;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Monte+dei+Paschi+seeks+clarity+on+anchor+investors+-+source"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Corrado Passera;EUROZONE;BANKS/MONTEDEIPASCHI;DATA (URGENT);Euro Zone;Financials (TRBC);Industry News (3rd Party);Europe;Company News;Italy;Euro Zone as a Whole;Banks (TRBC);Banking and Investment Services (TRBC);Debt / Fixed Income Markets;Deals;Loans;Mergers / Acquisitions / Takeovers;Corporate Events;Credit and Corporate Debt;Western Europe;Banking Services (TRBC);Corporate Debt;Regulation;Financials (Legacy);Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Mon Oct 31 17:31:08 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-10-31T17:31:08+0000"/>
-    <cse:Attribute name="sailthru.title" value="Monte dei Paschi seeks clarity on anchor investors - source"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Monte dei Paschi seeks clarity on anchor investors - source"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/eurozone-banks-montedeipaschi-data-idUSL8N1D15X9"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Banca Monte dei Paschi di Siena is ready to give data room access to former industryminister Corrado Passera for the alternative rescue plan he issponsoring providing he first names the anchor investors, asource close to the bank said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-10-31T17:31:08+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-10-31T17:31:08+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Corrado Passera,EUROZONE,BANKS/MONTEDEIPASCHI,DATA (URGENT),Euro Zone,Financials (TRBC),Industry News (3rd Party),Europe,Company News,Italy,Euro Zone as a Whole,Banks (TRBC),Banking and Investment Services (TRBC),Debt / Fixed Income Markets,Deals,Loans,Mergers / Acquisitions / Takeovers,Corporate Events,Credit and Corporate Debt,Western Europe,Banking Services (TRBC),Corporate Debt,Regulation,Financials (Legacy),Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Monte dei Paschi seeks clarity on anchor investors - source"/>
-    <cse:Attribute name="twitter:description" value="Banca Monte dei Paschi di Siena is ready to give data room access to former industryminister Corrado Passera for the alternative rescue plan he issponsoring providing he first names the anchor investors, asource close to the bank said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT30JBJN9GfTc2I4QsIF1f5SQKNY8X7K0HjsaZmFTDDfG2Jf6N_OCkV-LE"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.telegraph.co.uk/business/2016/11/01/whitehall-hopeful-of-persuading-carney-to-stay-longer-as-governo/</id>
-  <updated>1970-01-18T02:40:46.625Z</updated>
+  <updated>1970-01-18T02:43:35.163Z</updated>
   <title type="html">Whitehall hopeful of persuading Carney to stay longer as Governor if ...</title>
   <link href="http://www.telegraph.co.uk/business/2016/11/01/whitehall-hopeful-of-persuading-carney-to-stay-longer-as-governo/" title="www.telegraph.co.uk"/>
   <summary type="html">“He is the best person for the job,” &lt;b&gt;a source said&lt;/b&gt;. “He has taken a very personal &lt;br&gt;
@@ -583,51 +381,261 @@ decision to return to Canada because of his commitment to his family. But it is 
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.nydailynews.com/new-york/sba-boss-ed-mullins-leaves-meeting-deborah-danner-case-article-1.2853551</id>
+  <updated>1970-01-18T02:43:35.163Z</updated>
+  <title type="html">SBA&amp;#39;s boss Ed Mullins leaves meeting about Deborah Danner case ...</title>
+  <link href="http://www.nydailynews.com/new-york/sba-boss-ed-mullins-leaves-meeting-deborah-danner-case-article-1.2853551" title="www.nydailynews.com"/>
+  <summary type="html">“Everybody agreed to disagree,” &lt;b&gt;a source said&lt;/b&gt; about Friday&amp;#39;s meeting. O&amp;#39;Neill &lt;br&gt;
+has said Barry didn&amp;#39;t follow NYPD protocol in his handling of Danner. De Blasio&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.nydailynews.com/.../sba-boss-ed-mullins-leaves-meeting-deborah- danner-case-article-1.2853551</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="nydn_section" value="New York"/>
+    <cse:Attribute name="fb:app_id" value="107464888913"/>
+    <cse:Attribute name="fb:admins" value="1594068001"/>
+    <cse:Attribute name="fb:pages" value="268914272540"/>
+    <cse:Attribute name="og:site_name" value="NY Daily News"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/NYDailyNews/"/>
+    <cse:Attribute name="msvalidate.01" value="02916AAC0DA8B068EFE01D721E03ED7E"/>
+    <cse:Attribute name="p:domain_verify" value="78efe4f5c9935744af497772f68a0ee7"/>
+    <cse:Attribute name="viewport" value="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@nydailynews"/>
+    <cse:Attribute name="twitter:url" value="http://www.nydailynews.com/new-york/sba-boss-ed-mullins-leaves-meeting-deborah-danner-case-article-1.2853551"/>
+    <cse:Attribute name="twitter:title" value="SBA&apos;s boss Ed Mullins leaves meeting about Deborah Danner case"/>
+    <cse:Attribute name="twitter:description" value="The head of the union representing NYPD sergeants walked out of a meeting with the police commissioner Tuesday."/>
+    <cse:Attribute name="sailthru.title" value="SBA&apos;s boss Ed Mullins leaves meeting about Deborah Danner case"/>
+    <cse:Attribute name="og:title" value="SBA&apos;s boss Ed Mullins leaves meeting about Deborah Danner case"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.nydailynews.com/new-york/sba-boss-ed-mullins-leaves-meeting-deborah-danner-case-article-1.2853551"/>
+    <cse:Attribute name="news_keywords" value="james oneil, deborah danner,"/>
+    <cse:Attribute name="og:image" value="http://assets.nydailynews.com/polopoly_fs/1.2841910.1477238948!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/news-conference-mayor-nypd-commissioner.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://assets.nydailynews.com/polopoly_fs/1.2841910.1477238948!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/news-conference-mayor-nypd-commissioner.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://assets.nydailynews.com/polopoly_fs/1.2841910.1477238948!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/news-conference-mayor-nypd-commissioner.jpg"/>
+    <cse:Attribute name="og:description" value="The head of the union representing NYPD sergeants walked out of a meeting with the police commissioner Tuesday."/>
+    <cse:Attribute name="sailthru.description" value="The head of the union representing NYPD sergeants walked out of a meeting with the police commissioner Tuesday."/>
+    <cse:Attribute name="sailthru.date" value="2016-11-01T09:28:47-0400"/>
+    <cse:Attribute name="nydn_tags" value="james oneill, nypd, labor unions, deborah danner, mental health, police under investigation, police shootings, gun violence"/>
+    <cse:Attribute name="nydn_byline" value="ROCCO PARASCANDOLA, GRAHAM RAYMAN"/>
+    <cse:Attribute name="sailthru.author" value="ROCCO PARASCANDOLA, GRAHAM RAYMAN"/>
+    <cse:Attribute name="sailthru.credits" value="NEW YORK DAILY NEWS"/>
+    <cse:Attribute name="parsely-title" value="SBA&apos;s boss Ed Mullins leaves meeting about Deborah Danner case"/>
+    <cse:Attribute name="parsely-link" value="http://www.nydailynews.com/new-york/sba-boss-ed-mullins-leaves-meeting-deborah-danner-case-article-1.2853551"/>
+    <cse:Attribute name="parsely-type" value="article"/>
+    <cse:Attribute name="parsely-image-url" value="http://assets.nydailynews.com/polopoly_fs/1.2841910.1477238948!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/news-conference-mayor-nypd-commissioner.jpg"/>
+    <cse:Attribute name="parsely-pub-date" value="2016-11-01T13:28:47"/>
+    <cse:Attribute name="sailthru.tags" value="New-york,NewYork,Bronx,NYCCrime,Politics,jamesoneill,nypd,laborunions,deborahdanner,mentalhealth,policeunderinvestigation,policeshootings,gunviolence"/>
+    <cse:Attribute name="parsely-section" value="New York"/>
+    <cse:Attribute name="parsely-author" value="Rocco Parascandola"/>
+    <cse:Attribute name="parsely-tags" value="james oneill, nypd, labor unions, deborah danner, mental health, police under investigation, police shootings, gun violence"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Sergeants&apos; union boss storms out of meeting with NYPD top cop because he condemned officer who shot schizophrenic Bronx woman"/>
+    <cse:Attribute name="articlebody" value="The head of the union representing NYPD sergeants walked out of a meeting with the the police commissioner Tuesday in protest of the department’s condemnation of the cop who shot to death..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="“What is clear in this one instance, we failed,” O’Neill said shortly after the shooting. “We were called to help her and we ended up killing her.”"/>
+    <cse:Attribute name="copyrightholder" value="(James Keivom/New York Daily News)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Deborah Danner was shot and killed by NYPD police on Tuesday, October 19, 2016."/>
+    <cse:Attribute name="copyrightholder" value="(Handout)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Sergeants Benevolent Association President Ed Mullins walked out of a meeting with NYPD Commissioner James O’Neill, Monday."/>
+    <cse:Attribute name="copyrightholder" value="(Bryan R. Smith)"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://assets.nydailynews.com/polopoly_fs/1.2841910.1477238948!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/news-conference-mayor-nypd-commissioner.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSotlbiHu1LjK-s47CknmNVPCdgy3Fh6lrPRJohDGQFmssUazIBDoM8N-t5"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/news/article-3908694/amp/Billy-Bush-wife-spotted-date-night-time-fired-Today-Show.html</id>
+  <updated>1970-01-18T02:43:35.163Z</updated>
+  <title type="html">Billy Bush and wife spotted on date night for first time after he is fired ...</title>
+  <link href="http://www.dailymail.co.uk/news/article-3908694/amp/Billy-Bush-wife-spotted-date-night-time-fired-Today-Show.html" title="www.dailymail.co.uk"/>
+  <summary type="html">&lt;b&gt;A source said&lt;/b&gt; Davis is enraged at the embarrassment Bush has brought upon &lt;br&gt;
+her and their three daughters (all pictured together in New York just before the&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Billy-Bush-wife-spotted-date-night-time-fired-Today -Show.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui"/>
+    <cse:Attribute name="news_keywords" value="Billy,Bush,wife,spotted,date,night,time,fired,Today,Show"/>
+    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
+    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Billy Bush and wife go on date a week after &apos;marriage problem&apos; rumors"/>
+    <cse:Attribute name="twitter:description" value="Bush and Sydney Davis had dinner together at Larsen&apos;s in Encino, California on Friday night. It was the first time they were seen out on the town together since Bush was fired from the Today Show."/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/news/article-3908694/Billy-Bush-wife-spotted-date-night-time-fired-Today-Show.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/2016/11/05/17/3A17666B00000578-0-image-a-10_1478367754804.jpg"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
+    <cse:Attribute name="article:published_time" value="2016-11-05T17:47:28.000Zyyyy-MM-dd HH:mm:ss z"/>
+    <cse:Attribute name="article:modified_time" value="2016-11-06T06:31:33.000Zyyyy-MM-dd HH:mm:ss z"/>
+    <cse:Attribute name="article:section" value="News"/>
+    <cse:Attribute name="article:tag" value="Billy Bush wife spotted date night time fired Today Show"/>
+    <cse:Attribute name="fb:app_id" value="146202712090395"/>
+    <cse:Attribute name="og:site_name" value="Mail Online"/>
+    <cse:Attribute name="og:title" value="Billy Bush and wife go on date a week after &apos;marriage problem&apos; rumors"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Bush and Sydney Davis had dinner together at Larsen&apos;s in Encino, California on Friday night. It was the first time they were seen out on the town together since Bush was fired from the Today Show."/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-3908694/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/2016/11/05/17/3A17666B00000578-0-image-a-10_1478367754804.jpg"/>
+    <cse:Attribute name="og:image:width" value="636"/>
+    <cse:Attribute name="og:image:height" value="382"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/2016/11/05/17/3A17666B00000578-0-image-a-10_1478367754804.jpg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://espn.go.com/espn/now?nowId=21-0537713790351841228-4</id>
-  <updated>1970-01-18T02:40:46.625Z</updated>
+  <updated>1970-01-18T02:43:35.163Z</updated>
   <title type="html">Marc J. Spears of The Undefeated</title>
   <link href="http://espn.go.com/espn/now?nowId=21-0537713790351841228-4" title="espn.go.com"/>
   <summary type="html"/>
   <cse:formattedUrl type="html">espn.go.com/espn/now?nowId=21-0537713790351841228-4</cse:formattedUrl>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.dailymail.co.uk/news/article-3899498/amp/Tory-MP-quizzed-detectives-claims-sexually-assaulted-gay-couple-Eurovision-party.html</id>
-  <updated>1970-01-18T02:40:46.625Z</updated>
-  <title type="html">Tory MP Ben Howlett &amp;#39;quizzed over claims he sexually assaulted ...</title>
-  <link href="http://www.dailymail.co.uk/news/article-3899498/amp/Tory-MP-quizzed-detectives-claims-sexually-assaulted-gay-couple-Eurovision-party.html" title="www.dailymail.co.uk"/>
-  <summary type="html">&lt;b&gt;A source said&lt;/b&gt; that Howelett, 30, the member for Bath, Somerset, was &amp;#39;very drunk&amp;#39; &lt;br&gt;
-at the time the offence was alleged to have happened. The party is said to have&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Tory-MP-quizzed-detectives-claims-sexually- assaulted-gay-couple-Eurovision-party.html</cse:formattedUrl>
+  <id>http://www.nydailynews.com/new-york/brooklyn/ex-nypd-not-charged-shooting-death-brooklyn-boy-1994-article-1.2859021</id>
+  <updated>1970-01-18T02:43:35.163Z</updated>
+  <title type="html">Ex-NYPD cop not charged in shooting death of Brooklyn boy in 1994 ...</title>
+  <link href="http://www.nydailynews.com/new-york/brooklyn/ex-nypd-not-charged-shooting-death-brooklyn-boy-1994-article-1.2859021" title="www.nydailynews.com"/>
+  <summary type="html">After the shooting, the officer called 911 and was “beyond devastated,” &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;said&lt;/b&gt;. Family of man who died after cop Tasered him want investigation&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.nydailynews.com/.../ex-nypd-not-charged-shooting-death-brooklyn- boy-1994-article-1.2859021</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui"/>
-    <cse:Attribute name="news_keywords" value="Tory,MP,quizzed,detectives,claims,sexually,assaulted,gay,couple,Eurovision,party"/>
-    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
-    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="nydn_section" value="Brooklyn"/>
+    <cse:Attribute name="fb:app_id" value="107464888913"/>
+    <cse:Attribute name="fb:admins" value="1594068001"/>
+    <cse:Attribute name="fb:pages" value="268914272540"/>
+    <cse:Attribute name="og:site_name" value="NY Daily News"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/NYDailyNews/"/>
+    <cse:Attribute name="msvalidate.01" value="02916AAC0DA8B068EFE01D721E03ED7E"/>
+    <cse:Attribute name="p:domain_verify" value="78efe4f5c9935744af497772f68a0ee7"/>
+    <cse:Attribute name="viewport" value="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Tory MP quizzed by police over claims he sexually assaulted gay couple"/>
-    <cse:Attribute name="twitter:description" value="Ben Howlett, who is openly gay, was interviewed after a couple complained that he touched them sexually at a local pub in Bath, Somerset."/>
-    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/news/article-3899498/Tory-MP-quizzed-detectives-claims-sexually-assaulted-gay-couple-Eurovision-party.html"/>
-    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/2016/11/02/23/39FFFB0C00000578-0-image-a-5_1478127689979.jpg"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
-    <cse:Attribute name="article:published_time" value="2016-11-02T23:01:56.000Zyyyy-MM-dd HH:mm:ss z"/>
-    <cse:Attribute name="article:modified_time" value="2016-11-03T01:58:20.000Zyyyy-MM-dd HH:mm:ss z"/>
-    <cse:Attribute name="article:section" value="News"/>
-    <cse:Attribute name="article:tag" value="Tory MP quizzed detectives claims sexually assaulted gay couple Eurovision party"/>
-    <cse:Attribute name="fb:app_id" value="146202712090395"/>
-    <cse:Attribute name="og:site_name" value="Mail Online"/>
-    <cse:Attribute name="og:title" value="Tory MP quizzed by police over claims he sexually assaulted gay couple"/>
+    <cse:Attribute name="twitter:site" value="@nydailynews"/>
+    <cse:Attribute name="twitter:url" value="http://www.nydailynews.com/new-york/brooklyn/ex-nypd-not-charged-shooting-death-brooklyn-boy-1994-article-1.2859021"/>
+    <cse:Attribute name="twitter:title" value="Ex-NYPD cop not charged in shooting death of Brooklyn boy in 1994"/>
+    <cse:Attribute name="twitter:description" value="The cop won&apos;t be charged for fatally shooting a 13-year-old boy playing cops and robbers."/>
+    <cse:Attribute name="sailthru.title" value="Ex-NYPD cop not charged in shooting death of Brooklyn boy in 1994"/>
+    <cse:Attribute name="og:title" value="Ex-NYPD cop not charged in shooting death of Brooklyn boy in 1994"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Ben Howlett, who is openly gay, was interviewed after a couple complained that he touched them sexually at a local pub in Bath, Somerset."/>
-    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-3899498/index.html"/>
-    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/2016/11/02/23/39FFFB0C00000578-0-image-a-5_1478127689979.jpg"/>
-    <cse:Attribute name="og:image:width" value="636"/>
-    <cse:Attribute name="og:image:height" value="382"/>
+    <cse:Attribute name="og:url" value="http://www.nydailynews.com/new-york/brooklyn/ex-nypd-not-charged-shooting-death-brooklyn-boy-1994-article-1.2859021"/>
+    <cse:Attribute name="news_keywords" value="nicholas heyward jr death, nicholas heyward jr killing, nicholas heyward jr shooting, cop shot teen 1994, cops and robbers murder, brian george nypd, brian george not charged"/>
+    <cse:Attribute name="og:image" value="http://assets.nydailynews.com/polopoly_fs/1.2859020.1478324908!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/rally.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://assets.nydailynews.com/polopoly_fs/1.2859020.1478324908!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/rally.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://assets.nydailynews.com/polopoly_fs/1.2859020.1478324908!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/rally.jpg"/>
+    <cse:Attribute name="og:description" value="The cop won&apos;t be charged for fatally shooting a 13-year-old boy playing cops and robbers."/>
+    <cse:Attribute name="sailthru.description" value="The cop won&apos;t be charged for fatally shooting a 13-year-old boy playing cops and robbers."/>
+    <cse:Attribute name="sailthru.date" value="2016-11-05T02:02:52-0400"/>
+    <cse:Attribute name="nydn_tags" value="nypd, police shootings, gowanus"/>
+    <cse:Attribute name="nydn_byline" value="BEN KOCHMAN"/>
+    <cse:Attribute name="sailthru.author" value="BEN KOCHMAN"/>
+    <cse:Attribute name="sailthru.credits" value="NEW YORK DAILY NEWS"/>
+    <cse:Attribute name="parsely-title" value="Ex-NYPD cop not charged in shooting death of Brooklyn boy in 1994"/>
+    <cse:Attribute name="parsely-link" value="http://www.nydailynews.com/new-york/brooklyn/ex-nypd-not-charged-shooting-death-brooklyn-boy-1994-article-1.2859021"/>
+    <cse:Attribute name="parsely-type" value="article"/>
+    <cse:Attribute name="parsely-image-url" value="http://assets.nydailynews.com/polopoly_fs/1.2859020.1478324908!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/rally.jpg"/>
+    <cse:Attribute name="parsely-pub-date" value="2016-11-05T06:02:52"/>
+    <cse:Attribute name="sailthru.tags" value="New-york,Brooklyn,nypd,policeshootings,gowanus"/>
+    <cse:Attribute name="parsely-section" value="Brooklyn"/>
+    <cse:Attribute name="parsely-author" value="Ben Kochman"/>
+    <cse:Attribute name="parsely-tags" value="nypd, police shootings, gowanus"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Ex-NYPD officer not charged in Brooklyn shooting death of 13-year-old Nicholas Heyward Jr. in 1994"/>
+    <cse:Attribute name="articlebody" value="A retired NYPD officer will not face charges for fatally shooting a 13-year-old boy playing cops and robbers in a Brooklyn stairwell 22 years ago, officials said. The Brooklyn District Attorney’s..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Nicholas Heyward talks about the death of his son Nicholas Hayward Jr. at hands of police at 1 Police Plaza."/>
+    <cse:Attribute name="copyrightholder" value="(Howard Simmons/New York Daily News)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Nicholas Hayward Jr. was holding this toy rifle when he was shot by Officer Brian George."/>
+    <cse:Attribute name="copyrightholder" value="(Brooklyn District Attorney’s Office)"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/2016/11/02/23/39FFFB0C00000578-0-image-a-5_1478127689979.jpg"/>
+    <cse:Attribute name="src" value="http://assets.nydailynews.com/polopoly_fs/1.2859020.1478324908!/img/httpImage/image.jpg_gen/derivatives/article_750/rally.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETXpdvwRjannuKGmhjLkFaX5Ff1J7qAtA_DmoaERgRVAW5AJTaCvl1_HH"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-dow-m-a-dupont-exclusive-idUSKBN1322MH</id>
+  <updated>1970-01-18T02:43:35.163Z</updated>
+  <title type="html">Exclusive: U.S. states join Dow-DuPont merger probe - sources ...</title>
+  <link href="http://www.reuters.com/article/us-dow-m-a-dupont-exclusive-idUSKBN1322MH" title="www.reuters.com"/>
+  <summary type="html">The Bayer-Monsanto review will likely focus on the companies&amp;#39; overlap in cotton &lt;br&gt;
+seed, &lt;b&gt;a source said&lt;/b&gt;. The state attorneys general will also look at traits since&amp;nbsp;...</summary>
+  <cse:cacheId>OfMH4Y0saxsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-dow-m-a-dupont-exclusive-idUSKBN1322MH</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;innovationNewsConsumerGoodsAndRetail;innovationNewsHealthcare;innovationNewsIndustryMaterialsAndUtilities;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;everything;Deals;newsproHome;audib2b;cfaglobal;aa48hours;dassaultuk;Intel;PFG;Fidelity2014;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+U.S.+states+join+Dow-DuPont+merger+probe+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Diane Bartz"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Diane Bartz"/>
+    <cse:Attribute name="news_keywords" value="United States;US;DOW;M;A;DUPONT;EXCLUSIVE;United States;Generic and Specialty Pharmaceuticals (TRBC);Chemicals (TRBC);Europe;Company News;Diversified Chemicals (TRBC);Monopolies / Antitrust Issues;Agricultural Chemicals (TRBC);Government / Politics;Anti;competitive Behaviour / Price Fixing;Major News;Mergers / Acquisitions / Takeovers;Oilseeds;Corporate Events;Western Europe;Germany;Industrial Conglomerates (TRBC);Fishing and Farming (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Mon Nov 07 22:04:33 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Diane Bartz"/>
+    <cse:Attribute name="sailthru.date" value="2016-11-07T22:04:33+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: U.S. states join Dow-DuPont merger probe - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: U.S. states join Dow-DuPont merger probe - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-dow-m-a-dupont-exclusive-idUSKBN1322MH"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="U.S. state attorneys general have joined a federal antitrust probe of the planned merger between DuPont (DD.N) and Dow Chemical Co (DOW.N), according to three people familiar with the matter, heightening risks to a deal that could help reshape the global farm industry."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161107&amp;t=2&amp;i=1160665812&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECA61JN"/>
+    <cse:Attribute name="og:article:published_time" value="2016-11-07T22:04:33+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-11-07T22:04:33+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Diane Bartz"/>
+    <cse:Attribute name="og:article:tag" value="United States,US,DOW,M,A,DUPONT,EXCLUSIVE,United States,Generic and Specialty Pharmaceuticals (TRBC),Chemicals (TRBC),Europe,Company News,Diversified Chemicals (TRBC),Monopolies / Antitrust Issues,Agricultural Chemicals (TRBC),Government / Politics,Anti,competitive Behaviour / Price Fixing,Major News,Mergers / Acquisitions / Takeovers,Oilseeds,Corporate Events,Western Europe,Germany,Industrial Conglomerates (TRBC),Fishing and Farming (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: U.S. states join Dow-DuPont merger probe - sources"/>
+    <cse:Attribute name="twitter:description" value="U.S. state attorneys general have joined a federal antitrust probe of the planned merger between DuPont (DD.N) and Dow Chemical Co (DOW.N), according to three people familiar with the matter, heightening risks to a deal that could help reshape the global farm industry."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161107&amp;t=2&amp;i=1160665812&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECA61JN"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161107&amp;t=2&amp;i=1160665812&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECA61JN"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161107&amp;t=2&amp;i=1160665812&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECA61JN"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="274"/>
+    <cse:Attribute name="height" value="184"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-rpaz4IrnvJV5R89Byz8gR8qqNPudzlCNonxmY-bMg2rF_sL5r0Y8ZdJ5"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
