@@ -1,19 +1,630 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "wouldn't give his name"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="wouldn't give his name"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-18T03:13:51.377Z</updated>
+ <title>Google Custom Search - "sources familiar with"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-18T03:15:16.292Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;wouldn&apos;t give his name&quot;" totalResults="0" searchTerms="&quot;wouldn&apos;t give his name&quot;" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="7270" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="7270" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>7270</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.506385</cse:searchTime>
-  <cse:formattedSearchTime>0.51</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.271764</cse:searchTime>
+  <cse:formattedSearchTime>0.27</cse:formattedSearchTime>
+  <cse:totalResults>7270</cse:totalResults>
+  <cse:formattedTotalResults>7,270</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.nydailynews.com/sports/baseball/rob-manfred-optimistic-mlb-union-avoid-lockout-article-1.2885300</id>
+  <updated>1970-01-18T03:15:16.292Z</updated>
+  <title type="html">Rob Manfred says he&amp;#39;s optimistic MLB, union will avoid lockout - NY ...</title>
+  <link href="http://www.nydailynews.com/sports/baseball/rob-manfred-optimistic-mlb-union-avoid-lockout-article-1.2885300" title="www.nydailynews.com"/>
+  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the negotiations say an agreement will be reached.</summary>
+  <cse:formattedUrl type="html">www.nydailynews.com/.../rob-manfred-optimistic-mlb-union-avoid-lockout- article-1.2885300</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="nydn_section" value="Baseball"/>
+    <cse:Attribute name="fb:app_id" value="107464888913"/>
+    <cse:Attribute name="fb:admins" value="1594068001"/>
+    <cse:Attribute name="fb:pages" value="268914272540"/>
+    <cse:Attribute name="og:site_name" value="NY Daily News"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/NYDailyNews/"/>
+    <cse:Attribute name="msvalidate.01" value="02916AAC0DA8B068EFE01D721E03ED7E"/>
+    <cse:Attribute name="p:domain_verify" value="78efe4f5c9935744af497772f68a0ee7"/>
+    <cse:Attribute name="viewport" value="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@nydailynews"/>
+    <cse:Attribute name="twitter:url" value="http://www.nydailynews.com/sports/baseball/rob-manfred-optimistic-mlb-union-avoid-lockout-article-1.2885300"/>
+    <cse:Attribute name="twitter:title" value="Rob Manfred says he&apos;s optimistic MLB, union will avoid lockout"/>
+    <cse:Attribute name="twitter:description" value="Sources familiar with the negotiations say an agreement will be reached."/>
+    <cse:Attribute name="sailthru.title" value="Rob Manfred says he&apos;s optimistic MLB, union will avoid lockout"/>
+    <cse:Attribute name="og:title" value="Rob Manfred says he&apos;s optimistic MLB, union will avoid lockout"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.nydailynews.com/sports/baseball/rob-manfred-optimistic-mlb-union-avoid-lockout-article-1.2885300"/>
+    <cse:Attribute name="news_keywords" value="mlb, mlbpa, rob manfred, baseball collective bargaining agreement, baseball lockout, baseball players association,"/>
+    <cse:Attribute name="og:image" value="http://assets.nydailynews.com/polopoly_fs/1.2885299.1479932156!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/cba24s-1-web.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://assets.nydailynews.com/polopoly_fs/1.2885299.1479932156!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/cba24s-1-web.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://assets.nydailynews.com/polopoly_fs/1.2885299.1479932156!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/cba24s-1-web.jpg"/>
+    <cse:Attribute name="og:description" value="Sources familiar with the negotiations say an agreement will be reached."/>
+    <cse:Attribute name="sailthru.description" value="Sources familiar with the negotiations say an agreement will be reached."/>
+    <cse:Attribute name="sailthru.date" value="2016-11-23T15:18:49-0500"/>
+    <cse:Attribute name="nydn_tags" value="mlb, mlbpa, rob manfred, peds"/>
+    <cse:Attribute name="nydn_byline" value="CHRISTIAN RED"/>
+    <cse:Attribute name="sailthru.author" value="CHRISTIAN RED"/>
+    <cse:Attribute name="sailthru.credits" value="NEW YORK DAILY NEWS"/>
+    <cse:Attribute name="parsely-title" value="Rob Manfred says he&apos;s optimistic MLB, union will avoid lockout"/>
+    <cse:Attribute name="parsely-link" value="http://www.nydailynews.com/sports/baseball/rob-manfred-optimistic-mlb-union-avoid-lockout-article-1.2885300"/>
+    <cse:Attribute name="parsely-type" value="article"/>
+    <cse:Attribute name="parsely-image-url" value="http://assets.nydailynews.com/polopoly_fs/1.2885299.1479932156!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/cba24s-1-web.jpg"/>
+    <cse:Attribute name="parsely-pub-date" value="2016-11-23T20:18:49"/>
+    <cse:Attribute name="sailthru.tags" value="Sports,Baseball,mlb,mlbpa,robmanfred,peds"/>
+    <cse:Attribute name="parsely-section" value="Baseball"/>
+    <cse:Attribute name="parsely-author" value="Christian Red"/>
+    <cse:Attribute name="parsely-tags" value="mlb, mlbpa, rob manfred, peds"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="MLB commissioner Rob Manfred says he’s optimistic league, union will avoid lockout"/>
+    <cse:Attribute name="articlebody" value="A new generation of baseball stars such as Bryce Harper were infants or not even born when America&apos;s pastime last experienced a work stoppage, the crippling strike that began during the 1994..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Rob Manfred said he doesn&apos;t intend CBA negotiations to enter the month of December."/>
+    <cse:Attribute name="copyrightholder" value="(Mike Stobe/Getty Images)"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://assets.nydailynews.com/polopoly_fs/1.2885299.1479932156!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/cba24s-1-web.jpg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-hshnordbank-privatisation-idUSKBN13K1TL</id>
+  <updated>1970-01-18T03:15:16.292Z</updated>
+  <title type="html">HSH Nordbank holds meetings with potential buyers: sources ...</title>
+  <link href="http://www.reuters.com/article/us-hshnordbank-privatisation-idUSKBN13K1TL" title="www.reuters.com"/>
+  <summary type="html">... to merge their oil and gas operations in a deal that would create a business &lt;br&gt;
+worth more than $10 billion including debt, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>FsMSr-pT3VYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-hshnordbank-privatisation-idUSKBN13K1TL</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;americasDealsNews;americasPrivateEquityNews;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;everything;Deals;forexNewsCopy;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;money-markets-rss;marine;cfaglobal;aa48hours;footballa;shipping;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="HSH+Nordbank+holds+meetings+with+potential+buyers%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Arno Schuetze and Andreas Kröner"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Arno Schuetze and Andreas Kröner"/>
+    <cse:Attribute name="news_keywords" value="China;Germany;Greece;Ermisch;US;HSHNORDBANK;PRIVATISATION;Investment Banking and Investment Services (TRBC);Germany;Investment Trusts (TRBC);Performance / Results / Earnings;Mergers / Acquisitions / Takeovers;EU Institutions;Western Europe;Initial Public Offerings;Privatisations;Transportation (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Restructuring / Reorganization;Government Borrowing Requirement;Debt / Fixed Income Markets;Marine Services (TRBC);United Kingdom;United States;Banks (TRBC);Corporate Debt Renegotiation;Funds;Company News;European Central Bank;China (PRC);Government / Politics;Corporate Events;Economic Events;European Union;Market Events;Banking and Investment Services (TRBC);Europe;Regulation;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Fri Nov 25 16:02:48 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Arno Schuetze and Andreas Kröner"/>
+    <cse:Attribute name="sailthru.date" value="2016-11-25T16:02:48+0000"/>
+    <cse:Attribute name="sailthru.title" value="HSH Nordbank holds meetings with potential buyers: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="HSH Nordbank holds meetings with potential buyers: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-hshnordbank-privatisation-idUSKBN13K1TL"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Shipping finance provider HSH Nordbank [HSH.UL] began meeting potential buyers in London this week ahead of the German lender&apos;s planned privatization next year, people close to the matter said."/>
+    <cse:Attribute name="og:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20161125&amp;t=2&amp;i=1163062249&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAO14A"/>
+    <cse:Attribute name="og:article:published_time" value="2016-11-25T16:02:48+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-11-25T16:02:48+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Arno Schuetze and Andreas Kröner"/>
+    <cse:Attribute name="og:article:tag" value="China,Germany,Greece,Ermisch,US,HSHNORDBANK,PRIVATISATION,Investment Banking and Investment Services (TRBC),Germany,Investment Trusts (TRBC),Performance / Results / Earnings,Mergers / Acquisitions / Takeovers,EU Institutions,Western Europe,Initial Public Offerings,Privatisations,Transportation (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Restructuring / Reorganization,Government Borrowing Requirement,Debt / Fixed Income Markets,Marine Services (TRBC),United Kingdom,United States,Banks (TRBC),Corporate Debt Renegotiation,Funds,Company News,European Central Bank,China (PRC),Government / Politics,Corporate Events,Economic Events,European Union,Market Events,Banking and Investment Services (TRBC),Europe,Regulation,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="HSH Nordbank holds meetings with potential buyers: sources"/>
+    <cse:Attribute name="twitter:description" value="Shipping finance provider HSH Nordbank [HSH.UL] began meeting potential buyers in London this week ahead of the German lender&apos;s planned privatization next year, people close to the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20161125&amp;t=2&amp;i=1163062249&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAO14A"/>
+    <cse:Attribute name="twitter:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20161125&amp;t=2&amp;i=1163062249&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAO14A"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20161125&amp;t=2&amp;i=1163062249&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAO14A"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpeOiiUcd0AqWGLaWIClPpm5HJnY_LDiwdK5G-zmtntncC7T9oqjbtdQRA"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.nydailynews.com/sports/baseball/stakes-high-mlb-lockout-key-issues-sources-article-1.2891874</id>
+  <updated>1970-01-18T03:15:16.292Z</updated>
+  <title type="html">Stakes too high for MLB lockout despite key issues: sources - NY ...</title>
+  <link href="http://www.nydailynews.com/sports/baseball/stakes-high-mlb-lockout-key-issues-sources-article-1.2891874" title="www.nydailynews.com"/>
+  <summary type="html">But even though &lt;b&gt;sources familiar with&lt;/b&gt; the talks say the progress is moving at a &lt;br&gt;
+tortoise-like pace because of a standstill over luxury tax and revenue sharing&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.nydailynews.com/.../stakes-high-mlb-lockout-key-issues-sources-article -1.2891874</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="nydn_section" value="Baseball"/>
+    <cse:Attribute name="fb:app_id" value="107464888913"/>
+    <cse:Attribute name="fb:admins" value="1594068001"/>
+    <cse:Attribute name="fb:pages" value="268914272540"/>
+    <cse:Attribute name="og:site_name" value="NY Daily News"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/NYDailyNews/"/>
+    <cse:Attribute name="msvalidate.01" value="02916AAC0DA8B068EFE01D721E03ED7E"/>
+    <cse:Attribute name="p:domain_verify" value="78efe4f5c9935744af497772f68a0ee7"/>
+    <cse:Attribute name="viewport" value="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@nydailynews"/>
+    <cse:Attribute name="twitter:url" value="http://www.nydailynews.com/sports/baseball/stakes-high-mlb-lockout-key-issues-sources-article-1.2891874"/>
+    <cse:Attribute name="twitter:title" value="Stakes too high for MLB lockout despite key issues: sources"/>
+    <cse:Attribute name="twitter:description" value="Baseball owners and the Players Association negotiated well into Monday and continued talks Tuesday with the Dec. 1 deadline approaching."/>
+    <cse:Attribute name="sailthru.title" value="Stakes too high for MLB lockout despite key issues: sources"/>
+    <cse:Attribute name="og:title" value="Stakes too high for MLB lockout despite key issues: sources"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.nydailynews.com/sports/baseball/stakes-high-mlb-lockout-key-issues-sources-article-1.2891874"/>
+    <cse:Attribute name="news_keywords" value="mlb, mlbpa, rob manfred, tony clark, MLB lockout,"/>
+    <cse:Attribute name="og:image" value="http://assets.nydailynews.com/polopoly_fs/1.2891878.1480464794!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/lockout.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://assets.nydailynews.com/polopoly_fs/1.2891878.1480464794!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/lockout.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://assets.nydailynews.com/polopoly_fs/1.2891878.1480464794!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/lockout.jpg"/>
+    <cse:Attribute name="og:description" value="Baseball owners and the Players Association negotiated well into Monday and continued talks Tuesday with the Dec. 1 deadline approaching."/>
+    <cse:Attribute name="sailthru.description" value="Baseball owners and the Players Association negotiated well into Monday and continued talks Tuesday with the Dec. 1 deadline approaching."/>
+    <cse:Attribute name="sailthru.date" value="2016-11-29T19:14:32-0500"/>
+    <cse:Attribute name="nydn_tags" value="mlb, mlbpa, rob manfred, tony clark"/>
+    <cse:Attribute name="nydn_byline" value="CHRISTIAN RED"/>
+    <cse:Attribute name="sailthru.author" value="CHRISTIAN RED"/>
+    <cse:Attribute name="sailthru.credits" value="NEW YORK DAILY NEWS"/>
+    <cse:Attribute name="parsely-title" value="Stakes too high for MLB lockout despite key issues: sources"/>
+    <cse:Attribute name="parsely-link" value="http://www.nydailynews.com/sports/baseball/stakes-high-mlb-lockout-key-issues-sources-article-1.2891874"/>
+    <cse:Attribute name="parsely-type" value="article"/>
+    <cse:Attribute name="parsely-image-url" value="http://assets.nydailynews.com/polopoly_fs/1.2891878.1480464794!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/lockout.jpg"/>
+    <cse:Attribute name="parsely-pub-date" value="2016-11-30T00:14:32"/>
+    <cse:Attribute name="sailthru.tags" value="Sports,Baseball,mlb,mlbpa,robmanfred,tonyclark"/>
+    <cse:Attribute name="parsely-section" value="Baseball"/>
+    <cse:Attribute name="parsely-author" value="Christian Red"/>
+    <cse:Attribute name="parsely-tags" value="mlb, mlbpa, rob manfred, tony clark"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Stakes too high for MLB lockout despite league’s standstill with union over key issues, sources say"/>
+    <cse:Attribute name="articlebody" value="Baseball owners and the Players Association negotiated well into Monday night and continued talks Tuesday with the Thursday deadline fast approaching to get a new collective-bargaining agreement..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="MLB commissioner Rob Manfred (l.) and Players Association executive director Tony Clark have been meeting at the negotiating table."/>
+    <cse:Attribute name="copyrightholder" value="(Corey Sipkin/NY Daily News, AP)"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://assets.nydailynews.com/polopoly_fs/1.2891878.1480464794!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/lockout.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9MJQfK6op8cybYGfqG6otrOibcoKBH532VBNGff2TBk59sXueaC54TvOa"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/canada-pipeline-idUSL1N1DJ18M</id>
+  <updated>1970-01-18T03:15:16.292Z</updated>
+  <title type="html">Canada to announce Enbridge pipeline verdicts next week -sources ...</title>
+  <link href="http://www.reuters.com/article/canada-pipeline-idUSL1N1DJ18M" title="www.reuters.com"/>
+  <summary type="html">The Canadian government willannounce its decision on Enbridge Inc.&amp;#39;s &lt;br&gt;
+proposedpipeline projects on Nov. 29, two &lt;b&gt;sources familiar with&lt;/b&gt; thematter said on&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>77pBYw3_jkQJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/canada-pipeline-idUSL1N1DJ18M</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;marketsNews;CathayPacific_US;MOC_US_2015-16"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Canada+to+announce+Enbridge+pipeline+verdicts+next+week+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="CANADA;PIPELINE/ (URGENT);Energy Markets;Crude Oil;Energy (Legacy);Exclusive;Environment;Pipelines;Conflicts / War / Peace;Canada;United States;Commodities Markets;Americas;Pollution;Company News;Health / Medicine;Diplomacy / Foreign Policy;Government / Politics;Corporate Events;Disasters / Accidents;General News;Oil and Gas Transportation Services (TRBC);Oil and Gas Related Equipment and Services (TRBC);Energy (TRBC);Science;Commodities News (3rd Party);Civil Unrest"/>
+    <cse:Attribute name="revision_date" value="Thu Nov 24 17:44:44 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-11-24T17:44:44+0000"/>
+    <cse:Attribute name="sailthru.title" value="Canada to announce Enbridge pipeline verdicts next week -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Canada to announce Enbridge pipeline verdicts next week -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/canada-pipeline-idUSL1N1DJ18M"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The Canadian government willannounce its decision on Enbridge Inc.&apos;s proposedpipeline projects on Nov. 29, two sources familiar with thematter said on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-11-24T17:44:44+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-11-24T17:44:44+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="CANADA,PIPELINE/ (URGENT),Energy Markets,Crude Oil,Energy (Legacy),Exclusive,Environment,Pipelines,Conflicts / War / Peace,Canada,United States,Commodities Markets,Americas,Pollution,Company News,Health / Medicine,Diplomacy / Foreign Policy,Government / Politics,Corporate Events,Disasters / Accidents,General News,Oil and Gas Transportation Services (TRBC),Oil and Gas Related Equipment and Services (TRBC),Energy (TRBC),Science,Commodities News (3rd Party),Civil Unrest"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Canada to announce Enbridge pipeline verdicts next week -sources"/>
+    <cse:Attribute name="twitter:description" value="The Canadian government willannounce its decision on Enbridge Inc.&apos;s proposedpipeline projects on Nov. 29, two sources familiar with thematter said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/kaupthing-sale-fashion-idUSL8N1DQ3TO?feedType=RSS&amp;feedName=bankruptcyNews</id>
+  <updated>1970-01-18T03:15:16.292Z</updated>
+  <title type="html">Kaupthing to put UK&amp;#39;s Oasis and Warehouse up for sale - sources ...</title>
+  <link href="http://www.reuters.com/article/kaupthing-sale-fashion-idUSL8N1DQ3TO?feedType=RSS&amp;feedName=bankruptcyNews" title="www.reuters.com"/>
+  <summary type="html">... are looking to sell off British highstreet retailers including Coast, Oasis and &lt;br&gt;
+Warehouse whichemploy thousands of people, four &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+thematter&amp;nbsp;...</summary>
+  <cse:cacheId>5gnW6YgpqUMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../kaupthing-sale-fashion-idUSL8N1DQ3TO?...</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="bankruptcyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="rbssConsumerGoodsAndRetailNews;rbssFinancialServicesAndRealEstateNews;privateEquity;rbssApparelAccessories;rbssRetailApparelAccessories;rbssBanks;rbssInvestmentServices;privateEquityConsumerGoodsAndRetail;privateEquityFinancialServicesAndRealEstate;everything;Deals;forexNewsCopy;AllianzInvestments;audib2b;cfaglobal;aa48hours;greenpeace;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;bankruptcyNews;cyclicalConsumerGoodsSector;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Kaupthing+to+put+UK%27s+Oasis+and+Warehouse+up+for+sale+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-bankruptcyNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Iceland;United Kingdom;Baugur;Karen Millen;KAUPTHING;SALE/FASHION;Investment Banking and Investment Services (TRBC);Retailers (Legacy);Mergers / Acquisitions / Takeovers;Apparel and Accessories Retailers (TRBC);Textiles / Apparel (Legacy);Western Europe;Arts / Culture / Entertainment;Credit and Corporate Debt;Corporate Debt;Retailers excl Food and Drug Specialists (TRBC);Specialty Retailers (TRBC);Bankruptcy / Insolvency;Industry News (3rd Party);Government Borrowing Requirement;Debt / Fixed Income Markets;Nordic States;Apparel and Accessories (TRBC);Deals;United Kingdom;All Retail;Banking Services (TRBC);Banks (TRBC);Corporate Debt Renegotiation;Funds;Society / Social Issues;Financials (TRBC);Financials (Legacy);Iceland;Corporate Events;Fashion;General News;Banking and Investment Services (TRBC);Europe;Icelandic;Cyclical Consumer Goods and Services (TRBC);Cyclical Consumer Products (TRBC);Textiles and Apparel (TRBC);Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Fund"/>
+    <cse:Attribute name="revision_date" value="Sat Nov 26 16:41:44 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-11-26T16:41:44+0000"/>
+    <cse:Attribute name="sailthru.title" value="Kaupthing to put UK&apos;s Oasis and Warehouse up for sale - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Kaupthing to put UK&apos;s Oasis and Warehouse up for sale - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/kaupthing-sale-fashion-idUSL8N1DQ3TO"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Administrators for failedIcelandic bank Kaupthing are looking to sell off British highstreet retailers including Coast, Oasis and Warehouse whichemploy thousands of people, four sources familiar with thematter said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-11-26T16:41:44+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-11-26T16:41:44+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Iceland,United Kingdom,Baugur,Karen Millen,KAUPTHING,SALE/FASHION,Investment Banking and Investment Services (TRBC),Retailers (Legacy),Mergers / Acquisitions / Takeovers,Apparel and Accessories Retailers (TRBC),Textiles / Apparel (Legacy),Western Europe,Arts / Culture / Entertainment,Credit and Corporate Debt,Corporate Debt,Retailers excl Food and Drug Specialists (TRBC),Specialty Retailers (TRBC),Bankruptcy / Insolvency,Industry News (3rd Party),Government Borrowing Requirement,Debt / Fixed Income Markets,Nordic States,Apparel and Accessories (TRBC),Deals,United Kingdom,All Retail,Banking Services (TRBC),Banks (TRBC),Corporate Debt Renegotiation,Funds,Society / Social Issues,Financials (TRBC),Financials (Legacy),Iceland,Corporate Events,Fashion,General News,Banking and Investment Services (TRBC),Europe,Icelandic,Cyclical Consumer Goods and Services (TRBC),Cyclical Consumer Products (TRBC),Textiles and Apparel (TRBC),Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Fund"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Kaupthing to put UK&apos;s Oasis and Warehouse up for sale - sources"/>
+    <cse:Attribute name="twitter:description" value="Administrators for failedIcelandic bank Kaupthing are looking to sell off British highstreet retailers including Coast, Oasis and Warehouse whichemploy thousands of people, four sources familiar with thematter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/bankruptcy/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-linde-gist-divestment-idUSKBN13I1WT</id>
+  <updated>1970-01-18T03:15:16.292Z</updated>
+  <title type="html">Linde in talks with HNA about logistics unit Gist: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-linde-gist-divestment-idUSKBN13I1WT" title="www.reuters.com"/>
+  <summary type="html">... to merge their oil and gas operations in a deal that would create a business &lt;br&gt;
+worth more than $10 billion including debt, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>LZe0Zg3NjZUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-linde-gist-divestment-idUSKBN13I1WT</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsIndustryMaterialsAndUtilities;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;china;Germany;SustainabilityCorporate;everything;Deals;forexNewsCopy;Allianz;asia;newsproHome;verizonmm;cfaglobal;aa48hours;shipping;nonegative;dassaultuk;PorscheCayenne;ubs;Intel;CathayPacific_US;MOC_US_2015-16;ABG_2016"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Linde+in+talks+with+HNA+about+logistics+unit+Gist%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Arno Schuetze"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Arno Schuetze"/>
+    <cse:Attribute name="news_keywords" value="United Kingdom;US;LINDE;GIST;DIVESTMENT;Germany;Air Freight and Courier Services (TRBC);Mergers / Acquisitions / Takeovers;Diversified Trading and Distributing (TRBC);Western Europe;Transportation : Ground (TRBC);Transportation (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Government Borrowing Requirement;Deals;United Kingdom;Freight Transportation : Ground (TRBC);Commodity Chemicals (TRBC);Funds;Company News;China (PRC);Corporate Events;Investment Banking and Brokerage Services (TRBC);Europe;Airlines (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Wed Nov 23 16:21:14 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Arno Schuetze"/>
+    <cse:Attribute name="sailthru.date" value="2016-11-23T16:21:14+0000"/>
+    <cse:Attribute name="sailthru.title" value="Linde in talks with HNA about logistics unit Gist: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Linde in talks with HNA about logistics unit Gist: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-linde-gist-divestment-idUSKBN13I1WT"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Germany&apos;s Linde (LING.DE) is in talks with China&apos;s acquisitive transportation and leisure giant HNA Group over its temperature-controlled logistics unit Gist, two people close to the matter said."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161123&amp;t=2&amp;i=1162815239&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAM163"/>
+    <cse:Attribute name="og:article:published_time" value="2016-11-23T16:21:14+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-11-23T16:21:14+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Arno Schuetze"/>
+    <cse:Attribute name="og:article:tag" value="United Kingdom,US,LINDE,GIST,DIVESTMENT,Germany,Air Freight and Courier Services (TRBC),Mergers / Acquisitions / Takeovers,Diversified Trading and Distributing (TRBC),Western Europe,Transportation : Ground (TRBC),Transportation (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Government Borrowing Requirement,Deals,United Kingdom,Freight Transportation : Ground (TRBC),Commodity Chemicals (TRBC),Funds,Company News,China (PRC),Corporate Events,Investment Banking and Brokerage Services (TRBC),Europe,Airlines (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Linde in talks with HNA about logistics unit Gist: sources"/>
+    <cse:Attribute name="twitter:description" value="Germany&apos;s Linde (LING.DE) is in talks with China&apos;s acquisitive transportation and leisure giant HNA Group over its temperature-controlled logistics unit Gist, two people close to the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161123&amp;t=2&amp;i=1162815239&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAM163"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161123&amp;t=2&amp;i=1162815239&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAM163"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161123&amp;t=2&amp;i=1162815239&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAM163"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-canada-pipeline-idUSKBN13J28O</id>
+  <updated>1970-01-18T03:15:16.292Z</updated>
+  <title type="html">Canada to announce Enbridge pipeline decision next week: sources ...</title>
+  <link href="http://www.reuters.com/article/us-canada-pipeline-idUSKBN13J28O" title="www.reuters.com"/>
+  <summary type="html">The Canadian government will announce its decision on two major Enbridge Inc &lt;br&gt;
+pipeline projects on Tuesday, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on&amp;nbsp;...</summary>
+  <cse:cacheId>wE5_aLGHTe8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-canada-pipeline-idUSKBN13J28O</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="corporateResponsibility;SustainabilityGreen;everything;Deals;ShellEnergy;Hyundai;Allianz;verizonmm;cfaglobal;shipping;dassaultuk;PorscheCayenne;ubs;Intel;intelmicrosite;globalEnergyVbc;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Canada+to+announce+Enbridge+pipeline+decision+next+week%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="David Ljunggren"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="David Ljunggren"/>
+    <cse:Attribute name="news_keywords" value="Jim Carr;Justin Trudeau;US;CANADA;PIPELINE;Wisconsin;Pollution;Company News;Western Europe;Crude Oil;Exclusive;Environment;Government / Politics;Pipelines;Corporate Events;Disasters / Accidents;Oil and Gas (TRBC);Oil and Gas Transportation Services (TRBC);Europe;Science;Regulation;Natural Gas Utilities (TRBC);Canada"/>
+    <cse:Attribute name="revision_date" value="Thu Nov 24 21:44:47 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="David Ljunggren"/>
+    <cse:Attribute name="sailthru.date" value="2016-11-24T21:44:47+0000"/>
+    <cse:Attribute name="sailthru.title" value="Canada to announce Enbridge pipeline decision next week: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Canada to announce Enbridge pipeline decision next week: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-canada-pipeline-idUSKBN13J28O"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The Canadian government will announce its decision on two major Enbridge Inc pipeline projects on Tuesday, two sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-11-24T21:44:47+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-11-24T21:44:47+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="David Ljunggren"/>
+    <cse:Attribute name="og:article:tag" value="Jim Carr,Justin Trudeau,US,CANADA,PIPELINE,Wisconsin,Pollution,Company News,Western Europe,Crude Oil,Exclusive,Environment,Government / Politics,Pipelines,Corporate Events,Disasters / Accidents,Oil and Gas (TRBC),Oil and Gas Transportation Services (TRBC),Europe,Science,Regulation,Natural Gas Utilities (TRBC),Canada"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Canada to announce Enbridge pipeline decision next week: sources"/>
+    <cse:Attribute name="twitter:description" value="The Canadian government will announce its decision on two major Enbridge Inc pipeline projects on Tuesday, two sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/rio-tinto-mozambique-idUSL4N1DU3EG</id>
+  <updated>1970-01-18T03:15:16.292Z</updated>
+  <title type="html">U.S. authorities scrutinize Rio&amp;#39;s 2013 coal writedown: sources ...</title>
+  <link href="http://www.reuters.com/article/rio-tinto-mozambique-idUSL4N1DU3EG" title="www.reuters.com"/>
+  <summary type="html">L) in 2013 on the value of a Mozambican coal asset, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter said on Tuesday. The shock impairment, less than two years after Rio&amp;nbsp;...</summary>
+  <cse:cacheId>YipX-N_YHPYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/rio-tinto-mozambique-idUSL4N1DU3EG</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="ousivMolt;davosBackup;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="U.S.+authorities+scrutinize+Rio%27s+2013+coal+writedown%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Guinea;Mozambique;United Kingdom;United States;Tom Albanese;US;RIO;TINTO;MOZAMBIQUE;Iron Ore;Company News;Precious Metals and Minerals (TRBC);Coal (TRBC);Africa;Mozambique;Corporate Events;Specialty Mining and Metals (TRBC);Mining;Asia / Pacific;Australia;Coal;Accounting Issues;Government Borrowing Requirement;Europe;Mineral Resources (TRBC);Regulation;United Kingdom;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Tue Nov 29 10:43:59 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-11-29T10:43:59+0000"/>
+    <cse:Attribute name="sailthru.title" value="U.S. authorities scrutinize Rio&apos;s 2013 coal writedown: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="U.S. authorities scrutinize Rio&apos;s 2013 coal writedown: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-rio-tinto-mozambique-idUSKBN13O13J"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The U.S. Securities and Exchange Commission is investigating a $3 billion impairment charge booked by miner Rio Tinto (RIO.L) in 2013 on the value of a Mozambican coal asset, two sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20161129&amp;t=2&amp;i=1163459857&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAS0K8"/>
+    <cse:Attribute name="og:article:published_time" value="2016-11-29T10:43:59+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-11-29T10:43:59+0000"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Guinea,Mozambique,United Kingdom,United States,Tom Albanese,US,RIO,TINTO,MOZAMBIQUE,Iron Ore,Company News,Precious Metals and Minerals (TRBC),Coal (TRBC),Africa,Mozambique,Corporate Events,Specialty Mining and Metals (TRBC),Mining,Asia / Pacific,Australia,Coal,Accounting Issues,Government Borrowing Requirement,Europe,Mineral Resources (TRBC),Regulation,United Kingdom,Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="U.S. authorities scrutinize Rio&apos;s 2013 coal writedown: sources"/>
+    <cse:Attribute name="twitter:description" value="The U.S. Securities and Exchange Commission is investigating a $3 billion impairment charge booked by miner Rio Tinto (RIO.L) in 2013 on the value of a Mozambican coal asset, two sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20161129&amp;t=2&amp;i=1163459857&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAS0K8"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20161129&amp;t=2&amp;i=1163459857&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAS0K8"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20161129&amp;t=2&amp;i=1163459857&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECAS0K8"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="351"/>
+    <cse:Attribute name="height" value="143"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-vT3GS9FKTuUSS7q69KYlPPnJLcPUHTmiGjDUnaxZJ-Jujmy_jlsge859"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/john-tilak</id>
+  <updated>1970-01-18T03:15:16.292Z</updated>
+  <title type="html">John Tilak</title>
+  <link href="http://www.reuters.com/journalists/john-tilak" title="www.reuters.com"/>
+  <summary type="html">... unsolicited bids for Canada&amp;#39;s Kirkland Lake Gold and recently sweetened their &lt;br&gt;
+offer to about C$1.4 billion ($1 billion), three &lt;b&gt;sources familiar with&lt;/b&gt; the process&amp;nbsp;...</summary>
+  <cse:cacheId>TrN5m6M-mPsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/john-tilak</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/john-tilak"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/delta-air-union-embraer-idUSL1N1DJ20J</id>
+  <updated>1970-01-18T03:15:16.292Z</updated>
+  <title type="html">Delta pilots oppose larger regional aircraft, in blow to Embraer ...</title>
+  <link href="http://www.reuters.com/article/delta-air-union-embraer-idUSL1N1DJ20J" title="www.reuters.com"/>
+  <summary type="html">... planes heavier than 86,000 pounds and with more than 76 seats from being &lt;br&gt;
+flown on regional routes, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
+  <cse:cacheId>bs0dhbcOynMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/delta-air-union-embraer-idUSL1N1DJ20J</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;governmentFilingsNews;marketsNews;AIRLIN;regulatoryNewsIndustryMaterialsAndUtilities;americasRegulatoryNews;asiaRegulatoryNews;euRegulatoryNews;everything;Deals;forexNewsCopy;Hyundai;audib2b;shipping;nonegative;dassaultuk;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Delta+pilots+oppose+larger+regional+aircraft%2C+in+blow+to+Embraer+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Brazil;Japan;United States;Darryl Genovesi;Jonathan G. Ornstein;Nicolas Morell Gonzalez;DELTA AIR;UNION/EMBRAER;Japan;Western Europe;Industrial Goods (TRBC);Transportation (TRBC);Brazil;Asia / Pacific;Industry News (3rd Party);Industrials (TRBC);Marine Services (TRBC);Canada;United States;Americas;Company News;South America / Central America;Government / Politics;Aerospace / Defense (Legacy);Corporate Events;General News;Airline Services (TRBC);Europe;Regulation;Industrial Conglomerates (TRBC);Airlines (TRBC);Emerging Market Countries;Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Fri Nov 25 21:36:05 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-11-25T21:36:05+0000"/>
+    <cse:Attribute name="sailthru.title" value="Delta pilots oppose larger regional aircraft, in blow to Embraer -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Delta pilots oppose larger regional aircraft, in blow to Embraer -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/delta-air-union-embraer-idUSL1N1DJ20J"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Delta Air Lines Inc pilots are expected to keep existing rules in their new laborcontract that prevent the U.S. No. 2 carrier from flyingaircraft above a certain weight on regional routes, in a blow toEmbraer SA and Mitsubishi Heavy Industries Ltd, whose latest models exceed that limit."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-11-25T21:36:05+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-11-25T21:36:05+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Brazil,Japan,United States,Darryl Genovesi,Jonathan G. Ornstein,Nicolas Morell Gonzalez,DELTA AIR,UNION/EMBRAER,Japan,Western Europe,Industrial Goods (TRBC),Transportation (TRBC),Brazil,Asia / Pacific,Industry News (3rd Party),Industrials (TRBC),Marine Services (TRBC),Canada,United States,Americas,Company News,South America / Central America,Government / Politics,Aerospace / Defense (Legacy),Corporate Events,General News,Airline Services (TRBC),Europe,Regulation,Industrial Conglomerates (TRBC),Airlines (TRBC),Emerging Market Countries,Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Delta pilots oppose larger regional aircraft, in blow to Embraer -sources"/>
+    <cse:Attribute name="twitter:description" value="Delta Air Lines Inc pilots are expected to keep existing rules in their new laborcontract that prevent the U.S. No. 2 carrier from flyingaircraft above a certain weight on regional routes, in a blow toEmbraer SA and Mitsubishi Heavy Industries Ltd, whose latest models exceed that limit."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
 </feed>
