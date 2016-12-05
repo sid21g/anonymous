@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T03:21:13.938Z</updated>
+ <updated>1970-01-18T03:22:40.816Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11200" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11200" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>11200</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>11500</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.408263</cse:searchTime>
-  <cse:formattedSearchTime>0.41</cse:formattedSearchTime>
-  <cse:totalResults>11200</cse:totalResults>
-  <cse:formattedTotalResults>11,200</cse:formattedTotalResults>
+  <cse:searchTime>0.268036</cse:searchTime>
+  <cse:formattedSearchTime>0.27</cse:formattedSearchTime>
+  <cse:totalResults>11500</cse:totalResults>
+  <cse:formattedTotalResults>11,500</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.nydailynews.com/sports/baseball/stakes-high-mlb-lockout-key-issues-sources-article-1.2891874</id>
-  <updated>1970-01-18T03:21:13.938Z</updated>
+  <updated>1970-01-18T03:22:40.816Z</updated>
   <title type="html">Stakes too high for MLB lockout despite key issues: sources - NY ...</title>
   <link href="http://www.nydailynews.com/sports/baseball/stakes-high-mlb-lockout-key-issues-sources-article-1.2891874" title="www.nydailynews.com"/>
   <summary type="html">But even though &lt;b&gt;sources familiar with&lt;/b&gt; the talks say the progress is moving at a &lt;br&gt;
@@ -84,8 +84,72 @@ tortoise-like pace because of a standstill over luxury tax and revenue sharing&a
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKBN13R2RC</id>
+  <updated>1970-01-18T03:22:40.816Z</updated>
+  <title type="html">Shell JV Deer Park refinery repairing reforming unit: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKBN13R2RC" title="www.reuters.com"/>
+  <summary type="html">... repairing a catalytic reforming unit at the 285500 barrel per day (bpd) joint-&lt;br&gt;
+venture refinery in Deer Park, Texas, &lt;b&gt;sources familiar with&lt;/b&gt; plant operations said.</summary>
+  <cse:cacheId>vvg5Ph_DDTwJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-refinery-operations-shell-deerpark-idUSKBN13R2RC</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="CathayPacific_US;MOC_US_2015-16;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Shell+JV+Deer+Park+refinery+repairing+reforming+unit%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Mexico;US;REFINERY;OPERATIONS;SHELL;DEERPARK;Energy Markets;Mergers / Acquisitions / Takeovers;Western Europe;Crude Oil;Energy (Legacy);Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Government Borrowing Requirement;United Kingdom;United States;Gasoline;Company News;South America / Central America;Gulf Coast (PADD III);Mexico;North America (Energy);Corporate Events;Oil and Gas (TRBC);Refined Products;Oil Refineries;Production Status Changes;English;Europe;Commodities News (3rd Party);Regulation;Reports"/>
+    <cse:Attribute name="revision_date" value="Sat Dec 03 00:54:51 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-03T00:54:51+0000"/>
+    <cse:Attribute name="sailthru.title" value="Shell JV Deer Park refinery repairing reforming unit: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Shell JV Deer Park refinery repairing reforming unit: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKBN13R2RC"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Royal Dutch Shell Plc was on Friday repairing a catalytic reforming unit at the 285,500 barrel per day (bpd) joint-venture refinery in Deer Park, Texas, sources familiar with plant operations said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-12-03T00:54:51+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-12-03T00:54:51+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Mexico,US,REFINERY,OPERATIONS,SHELL,DEERPARK,Energy Markets,Mergers / Acquisitions / Takeovers,Western Europe,Crude Oil,Energy (Legacy),Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,English,Europe,Commodities News (3rd Party),Regulation,Reports"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Shell JV Deer Park refinery repairing reforming unit: sources"/>
+    <cse:Attribute name="twitter:description" value="Royal Dutch Shell Plc was on Friday repairing a catalytic reforming unit at the 285,500 barrel per day (bpd) joint-venture refinery in Deer Park, Texas, sources familiar with plant operations said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/blogs/donald-trump-administration/2016/12/chris-christie-rnc-chair-232065</id>
-  <updated>1970-01-18T03:21:13.938Z</updated>
+  <updated>1970-01-18T03:22:40.816Z</updated>
   <title type="html">Christie throws his hat in the ring for RNC chair - POLITICO</title>
   <link href="http://www.politico.com/blogs/donald-trump-administration/2016/12/chris-christie-rnc-chair-232065" title="www.politico.com"/>
   <summary type="html">... senior members of Donald Trump&amp;#39;s presidential transition team on Thursday &lt;br&gt;
@@ -119,11 +183,16 @@ morning that he is interested in the post, according to three &lt;b&gt;sources f
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://static.politico.com/cb/19/9d503b76435cb9bde4092cb403b1/ap-16322691237412.jpg"/>
    </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="305"/>
+    <cse:Attribute name="height" value="165"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXb1LlpCSBvo0QYSSfus4k49Ak3qeRn0c8SNhmA9dR9kCzPqQJL7RSeuL"/>
+   </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/russia-japan-gazprom-idUSR4N1DW00K</id>
-  <updated>1970-01-18T03:21:13.938Z</updated>
+  <updated>1970-01-18T03:22:40.816Z</updated>
   <title type="html">Gazprom in talks with Japanese banks about raising 800 mln euros ...</title>
   <link href="http://www.reuters.com/article/russia-japan-gazprom-idUSR4N1DW00K" title="www.reuters.com"/>
   <summary type="html">... under which Japanese banks would provide it with financing worth 800 million &lt;br&gt;
@@ -187,7 +256,7 @@ euros ($851.28 million), two &lt;b&gt;sources familiar with&lt;/b&gt; the discus
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/rio-tinto-mozambique-idUSL4N1DU3EG</id>
-  <updated>1970-01-18T03:21:13.938Z</updated>
+  <updated>1970-01-18T03:22:40.816Z</updated>
   <title type="html">U.S. authorities scrutinize Rio&amp;#39;s 2013 coal writedown: sources ...</title>
   <link href="http://www.reuters.com/article/rio-tinto-mozambique-idUSL4N1DU3EG" title="www.reuters.com"/>
   <summary type="html">L) in 2013 on the value of a Mozambican coal asset, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
@@ -247,7 +316,7 @@ matter said on Tuesday. The shock impairment, less than two years after Rio&amp;
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-kaupthing-sale-arion-idUSKBN13Q3SX</id>
-  <updated>1970-01-18T03:21:13.938Z</updated>
+  <updated>1970-01-18T03:22:40.816Z</updated>
   <title type="html">Exclusive: Eight years after collapse, Iceland&amp;#39;s Kaupthing looks to list ...</title>
   <link href="http://www.reuters.com/article/us-kaupthing-sale-arion-idUSKBN13Q3SX" title="www.reuters.com"/>
   <summary type="html">Failed Icelandic bank Kaupthing is seeking banks to coordinate the listing of its &lt;br&gt;
@@ -312,7 +381,7 @@ domestic arm Arion, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, a 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/journalists/lauren-hirsch</id>
-  <updated>1970-01-18T03:21:13.938Z</updated>
+  <updated>1970-01-18T03:22:40.816Z</updated>
   <title type="html">Lauren Hirsch</title>
   <link href="http://www.reuters.com/journalists/lauren-hirsch" title="www.reuters.com"/>
   <summary type="html">Snapchat has filed for an initial public offering, &lt;b&gt;sources familiar with&lt;/b&gt; the situation &lt;br&gt;
@@ -356,65 +425,8 @@ said on Tuesday, which puts the messaging app a step closer to the biggest&amp;n
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-maersk-dong-energy-in-talks-over-10-bln-oil-merger---sources-2016-11</id>
-  <updated>1970-01-18T03:21:13.938Z</updated>
-  <title type="html">Maersk, DONG Energy in talks over $10 bln oil merger - sources ...</title>
-  <link href="http://www.businessinsider.com/r-maersk-dong-energy-in-talks-over-10-bln-oil-merger---sources-2016-11" title="www.businessinsider.com"/>
-  <summary type="html">... to merge their oil and gas operations in a deal that would create a business &lt;br&gt;
-worth more than $10 billion including debt, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>zZ75R70fLbcJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-maersk-dong-energy-in-talks-over-10-bln-oil- merger---sources-2016-11</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2016-11-28"/>
-    <cse:Attribute name="sailthru.date" value="2016-11-28"/>
-    <cse:Attribute name="news_keywords" value="Reuters Company News, DONGENERGY-M&amp;A/MAERSK"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters Company News, DONGENERGY-M&amp;A/MAERSK"/>
-    <cse:Attribute name="sailthru.description" value="By Sophie Sassard and Ron BoussoLONDON, Nov 28..."/>
-    <cse:Attribute name="title" value="Maersk, DONG Energy in talks over $10 bln oil merger - sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Company News"/>
-    <cse:Attribute name="sailthru.title" value="Maersk, DONG Energy in talks over $10 bln oil merger - sources"/>
-    <cse:Attribute name="og:title" value="Maersk, DONG Energy in talks over $10 bln oil merger - sources"/>
-    <cse:Attribute name="og:description" value="By Sophie Sassard and Ron BoussoLONDON, Nov 28..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-maersk-dong-energy-in-talks-over-10-bln-oil-merger---sources-2016-11"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-maersk-dong-energy-in-talks-over-10-bln-oil-merger---sources-2016-11"/>
-    <cse:Attribute name="twitter:title" value="Maersk, DONG Energy in talks over $10 bln oil merger - sources"/>
-    <cse:Attribute name="twitter:description" value="By Sophie Sassard and Ron BoussoLONDON, Nov 28..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Maersk, DONG Energy in talks over $10 bln oil merger - sources"/>
-    <cse:Attribute name="url" value="Maersk, DONG Energy in talks over $10 bln oil merger - sources"/>
-    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
-    <cse:Attribute name="description" value="By Sophie Sassard and Ron BoussoLONDON, Nov 28..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static2.businessinsider.com/image/52b36ba6eab8ea58492deb16-100/reuters.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="80"/>
-    <cse:Attribute name="height" value="80"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTglMotFC6tv4XN3d1-b0WJ4mNG9omAgl_Tc1T_36-SaXSKLtKQQ2d5w"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-kaupthing-sale-fashion-idUSKBN13O1P2</id>
-  <updated>1970-01-18T03:21:13.938Z</updated>
+  <updated>1970-01-18T03:22:40.816Z</updated>
   <title type="html">Kaupthing to put UK&amp;#39;s Oasis and Warehouse up for sale: sources ...</title>
   <link href="http://www.reuters.com/article/us-kaupthing-sale-fashion-idUSKBN13O1P2" title="www.reuters.com"/>
   <summary type="html">... to sell off British high street retailers including Coast, Oasis and Warehouse &lt;br&gt;
@@ -473,32 +485,39 @@ which employ thousands of people, four &lt;b&gt;sources familiar with&lt;/b&gt; 
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/sophie-sassard</id>
-  <updated>1970-01-18T03:21:13.938Z</updated>
-  <title type="html">Sophie Sassard</title>
-  <link href="http://www.reuters.com/journalists/sophie-sassard" title="www.reuters.com"/>
-  <summary type="html">LONDON Deutsche Telekom is considering selling its 12 percent stake in BT &lt;br&gt;
-Group , two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, paving the way for it to leave the&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>6lADSYix8msJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/sophie-sassard</cse:formattedUrl>
+  <id>http://www.reuters.com/journalists/pamela-barbaglia</id>
+  <updated>1970-01-18T03:22:40.816Z</updated>
+  <title type="html">Pamela Barbaglia</title>
+  <link href="http://www.reuters.com/journalists/pamela-barbaglia" title="www.reuters.com"/>
+  <summary type="html">... sale or initial public offering (IPO) that could value the company at more than 1 &lt;br&gt;
+billion euros ($1.1 billion), &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
+  <cse:cacheId>xjTOWCfqFOoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/pamela-barbaglia</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/sophie-sassard"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/pamela-barbaglia"/>
     <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -511,58 +530,32 @@ Group , two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, paving the
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKBN13R2RC</id>
-  <updated>1970-01-18T03:21:13.938Z</updated>
-  <title type="html">Shell JV Deer Park refinery repairing reforming unit: sources | Reuters</title>
-  <link href="http://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKBN13R2RC" title="www.reuters.com"/>
-  <summary type="html">... repairing a catalytic reforming unit at the 285500 barrel per day (bpd) joint-&lt;br&gt;
-venture refinery in Deer Park, Texas, &lt;b&gt;sources familiar with&lt;/b&gt; plant operations said.</summary>
-  <cse:cacheId>vvg5Ph_DDTwJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-refinery-operations-shell-deerpark-idUSKBN13R2RC</cse:formattedUrl>
+  <id>http://www.reuters.com/journalists/arno-schuetze</id>
+  <updated>1970-01-18T03:22:40.816Z</updated>
+  <title type="html">Arno Schuetze</title>
+  <link href="http://www.reuters.com/journalists/arno-schuetze" title="www.reuters.com"/>
+  <summary type="html">LONDON/FRANKFURT Failed Icelandic bank Kaupthing is seeking banks to &lt;br&gt;
+coordinate the listing of its domestic arm Arion, &lt;b&gt;sources familiar with&lt;/b&gt; the matter &lt;br&gt;
+said,&amp;nbsp;...</summary>
+  <cse:cacheId>wjcR79DTWvIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/arno-schuetze</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="CathayPacific_US;MOC_US_2015-16;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Shell+JV+Deer+Park+refinery+repairing+reforming+unit%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Mexico;US;REFINERY;OPERATIONS;SHELL;DEERPARK;Energy Markets;Mergers / Acquisitions / Takeovers;Western Europe;Crude Oil;Energy (Legacy);Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Government Borrowing Requirement;United Kingdom;United States;Gasoline;Company News;South America / Central America;Gulf Coast (PADD III);Mexico;North America (Energy);Corporate Events;Oil and Gas (TRBC);Refined Products;Oil Refineries;Production Status Changes;English;Europe;Commodities News (3rd Party);Regulation;Reports"/>
-    <cse:Attribute name="revision_date" value="Sat Dec 03 00:54:51 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-03T00:54:51+0000"/>
-    <cse:Attribute name="sailthru.title" value="Shell JV Deer Park refinery repairing reforming unit: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Shell JV Deer Park refinery repairing reforming unit: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKBN13R2RC"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Royal Dutch Shell Plc was on Friday repairing a catalytic reforming unit at the 285,500 barrel per day (bpd) joint-venture refinery in Deer Park, Texas, sources familiar with plant operations said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-03T00:54:51+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-03T00:54:51+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Mexico,US,REFINERY,OPERATIONS,SHELL,DEERPARK,Energy Markets,Mergers / Acquisitions / Takeovers,Western Europe,Crude Oil,Energy (Legacy),Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,English,Europe,Commodities News (3rd Party),Regulation,Reports"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Shell JV Deer Park refinery repairing reforming unit: sources"/>
-    <cse:Attribute name="twitter:description" value="Royal Dutch Shell Plc was on Friday repairing a catalytic reforming unit at the 285,500 barrel per day (bpd) joint-venture refinery in Deer Park, Texas, sources familiar with plant operations said."/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/arno-schuetze"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
