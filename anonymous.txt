@@ -5,90 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T03:35:02.742Z</updated>
+ <updated>1970-01-18T03:37:11.939Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16300" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16300" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>16300</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>11400</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.308169</cse:searchTime>
-  <cse:formattedSearchTime>0.31</cse:formattedSearchTime>
-  <cse:totalResults>16300</cse:totalResults>
-  <cse:formattedTotalResults>16,300</cse:formattedTotalResults>
+  <cse:searchTime>0.334953</cse:searchTime>
+  <cse:formattedSearchTime>0.33</cse:formattedSearchTime>
+  <cse:totalResults>11400</cse:totalResults>
+  <cse:formattedTotalResults>11,400</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R</id>
-  <updated>1970-01-18T03:35:02.742Z</updated>
-  <title type="html">Top Lyondell refining executives leaving before refinery sale: sources</title>
-  <link href="http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R" title="www.reuters.com"/>
-  <summary type="html">Two top U.S. refining executives are leaving LyondellBasell Industries as the &lt;br&gt;
-company nears an agreement to sell its Houston refinery, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-the&amp;nbsp;...</summary>
-  <cse:cacheId>tLfYabqWDEoJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-refinery-executives-lyondell-houston- idUSKBN14302R</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="everything;Deals;ShellEnergy;AllianzInvestments;Allianz;verizonmm;marine;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Top+Lyondell+refining+executives+leaving+before+refinery+sale%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United States;Emmet Kevin Brown;Michael Waldron;Samuel L. Smolik;US;REFINERY;EXECUTIVES;LYONDELL;HOUSTON;Energy Markets;Crude Oil;Energy (Legacy);Heating Oil / Gasoil;Saudi Arabia;Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Middle East;Deals;Commodity Chemicals (TRBC);Canada;United States;Gasoline;Company News;Gulf Coast (PADD III);North America (Energy);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Production Status Changes;Commodities News (3rd Party)"/>
-    <cse:Attribute name="revision_date" value="Wed Dec 14 00:46:38 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-14T00:46:38+0000"/>
-    <cse:Attribute name="sailthru.title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Two top U.S. refining executives are leaving LyondellBasell Industries as the company nears an agreement to sell its Houston refinery, sources familiar with the matter said on Tuesday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-14T00:46:38+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-14T00:46:38+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United States,Emmet Kevin Brown,Michael Waldron,Samuel L. Smolik,US,REFINERY,EXECUTIVES,LYONDELL,HOUSTON,Energy Markets,Crude Oil,Energy (Legacy),Heating Oil / Gasoil,Saudi Arabia,Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Middle East,Deals,Commodity Chemicals (TRBC),Canada,United States,Gasoline,Company News,Gulf Coast (PADD III),North America (Energy),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,Commodities News (3rd Party)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
-    <cse:Attribute name="twitter:description" value="Two top U.S. refining executives are leaving LyondellBasell Industries as the company nears an agreement to sell its Houston refinery, sources familiar with the matter said on Tuesday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.usatoday.com/story/news/nation-now/2016/12/09/sources-teens-toying-matches-started-tennessee-wildfire/95223326/</id>
-  <updated>1970-01-18T03:35:02.742Z</updated>
+  <updated>1970-01-18T03:37:11.939Z</updated>
   <title type="html">Sources: Teens toying with matches started Tennessee wildfire</title>
   <link href="http://www.usatoday.com/story/news/nation-now/2016/12/09/sources-teens-toying-matches-started-tennessee-wildfire/95223326/" title="www.usatoday.com"/>
   <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the teenagers and the investigation but not authorized to &lt;br&gt;
@@ -145,167 +80,6 @@ speak publicly about the case say the two boys are friends and live in Anderson&
     <cse:Attribute name="articlesection" value="news,nation-now"/>
     <cse:Attribute name="headline" value="Sources: Teens toying with matches started Tennessee wildfire"/>
     <cse:Attribute name="articlebody" value="Cars burn in front of the main entrance of the Westgate Smoky Mountain Resort in Gatlinburg on Tuesday, Nov. 29, 2016, during the middle of the wildfire that ravaged Sevier County.(Photo: Brandon..."/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WeatherU.S. preps for &apos;dangerously&apos; cold temperaturesU.S. preps for &apos;dangerously&apos; cold temperaturesTemperatures will tumble to dangerous levels across the central and eastern United States.Weather1..."/>
-    <cse:Attribute name="headline" value="U.S. preps for &apos;dangerously&apos; cold temperatures"/>
-    <cse:Attribute name="articlesection" value="Weather"/>
-    <cse:Attribute name="datepublished" value="1 hour, 32 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NewsTrump set for deposition just weeks before inaugurationTrump set for deposition just weeks before inaugurationTrump set for deposition in January and is asking for limits on lawyers&apos; questionsN..."/>
-    <cse:Attribute name="headline" value="Trump set for deposition just weeks before inauguration"/>
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="datepublished" value="1 hour, 19 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WorldWhy extremists destroy ancient treasuresWhy extremists destroy ancient treasuresThere are fears that the Islamic State will continue to plunder whatever treasures may be left in Palmyra.World2..."/>
-    <cse:Attribute name="headline" value="Why extremists destroy ancient treasures"/>
-    <cse:Attribute name="articlesection" value="World"/>
-    <cse:Attribute name="datepublished" value="2 hours, 52 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Nation Now&apos;I cried all the way home&apos;: Boy who asked for last wish dies in Santa&apos;s arms&apos;I cried all the way home&apos;: Boy who asked for last wish dies in Santa&apos;s armsComforting the terminally ill..."/>
-    <cse:Attribute name="headline" value="&apos;I cried all the way home&apos;: Boy who asked for last wish dies in Santa&apos;s arms"/>
-    <cse:Attribute name="articlesection" value="Nation Now"/>
-    <cse:Attribute name="datepublished" value="1 hour, 53 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="ElectionsRepublican leaders join outrage at Russia, will investigate hacksRepublican leaders join outrage at Russia, will investigate hacksThe Senate Intelligence, Armed Services and Foreign..."/>
-    <cse:Attribute name="headline" value="Republican leaders join outrage at Russia, will investigate hacks"/>
-    <cse:Attribute name="articlesection" value="Elections"/>
-    <cse:Attribute name="datepublished" value="36 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NewsCorrections &amp; ClarificationsCorrections &amp; ClarificationsThe following corrections and clarifications have been published by USA TODAY.News15 minutes ago"/>
-    <cse:Attribute name="headline" value="Corrections &amp; Clarifications"/>
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="datepublished" value="15 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="News2016: The year in pictures2016: The year in pictures2016: The year in picturesNews2 days, 7 hours ago"/>
-    <cse:Attribute name="headline" value="2016: The year in pictures"/>
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="datepublished" value="2 days, 7 hours ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WashingtonTrump slams Lockheed Martin over F-35 Cost overrunsTrump slams Lockheed Martin over F-35 Cost overrunsDonald Trump has taken to Twitter to criticize Lockheed Martin for cost overruns..."/>
-    <cse:Attribute name="headline" value="Trump slams Lockheed Martin over F-35 Cost overruns"/>
-    <cse:Attribute name="articlesection" value="Washington"/>
-    <cse:Attribute name="datepublished" value="15 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NewsFun and festive Santas from around the worldFun and festive Santas from around the worldFun and festive Santas from around the worldNews22 hours, 32 minutes ago"/>
-    <cse:Attribute name="headline" value="Fun and festive Santas from around the world"/>
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="datepublished" value="22 hours, 32 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Nation NowNeighbors wake to screaming children in fatal Tennessee house fireNeighbors wake to screaming children in fatal Tennessee house fire&quot;You could hear the scream of a child, a little..."/>
-    <cse:Attribute name="headline" value="Neighbors wake to screaming children in fatal Tennessee house fire"/>
-    <cse:Attribute name="articlesection" value="Nation Now"/>
-    <cse:Attribute name="datepublished" value="33 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WashingtonQ&amp;A: Why the CIA, FBI differ on Russian election hackingQ&amp;A: Why the CIA, FBI differ on Russian election hackingStrength of evidence at issue in whether Russia aimed to tilt election..."/>
-    <cse:Attribute name="headline" value="Q&amp;A: Why the CIA, FBI differ on Russian election hacking"/>
-    <cse:Attribute name="articlesection" value="Washington"/>
-    <cse:Attribute name="datepublished" value="33 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TV&apos;A Charlie Brown Christmas&apos; almost never happened&apos;A Charlie Brown Christmas&apos; almost never happenedIn 1965, its jazz score, kids&apos; voices and religious themes were called into question.TV1 year ago"/>
-    <cse:Attribute name="headline" value="&apos;A Charlie Brown Christmas&apos; almost never happened"/>
-    <cse:Attribute name="articlesection" value="TV"/>
-    <cse:Attribute name="datepublished" value="1 year ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Buy this, not that: The ultimate 2016 Holiday shopping guide"/>
-    <cse:Attribute name="articlesection" value="Nation"/>
-    <cse:Attribute name="datepublished" value="1 day, 9 hours ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NationTrump&apos;s victory reaffirmed after Wisconsin recountTrump&apos;s victory reaffirmed after Wisconsin recountRepublican Donald Trump&apos;s victory in Wisconsin has been reaffirmed after a presidential..."/>
-    <cse:Attribute name="headline" value="Trump&apos;s victory reaffirmed after Wisconsin recount"/>
-    <cse:Attribute name="articlesection" value="Nation"/>
-    <cse:Attribute name="datepublished" value="50 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WorldBreaking down the U.S.&apos;s &apos;One China&apos; policyBreaking down the U.S.&apos;s &apos;One China&apos; policyDonald Trump has recently been talking about the One China policy. But what exactly is that?World54..."/>
-    <cse:Attribute name="headline" value="Breaking down the U.S.&apos;s &apos;One China&apos; policy"/>
-    <cse:Attribute name="articlesection" value="World"/>
-    <cse:Attribute name="datepublished" value="54 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="LifeMeghan Markle opens up about being biracialMeghan Markle opens up about being biracialMeghan Markle is an actress, a writer, a cook and many other things (including Prince Harry&apos;s girlfriend),..."/>
-    <cse:Attribute name="headline" value="Meghan Markle opens up about being biracial"/>
-    <cse:Attribute name="articlesection" value="Life"/>
-    <cse:Attribute name="datepublished" value="56 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="ElectionsU.S. judge rejects Green Party&apos;s Pa. recount requestU.S. judge rejects Green Party&apos;s Pa. recount requestDecision poses another setback to Jill Stein&apos;s recount effort in Michigan, Pennsylva..."/>
-    <cse:Attribute name="headline" value="U.S. judge rejects Green Party&apos;s Pa. recount request"/>
-    <cse:Attribute name="articlesection" value="Elections"/>
-    <cse:Attribute name="datepublished" value="1 hour, 2 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WorldTom Brokaw: Pearl Harbor is the birthplace of &apos;Greatest Generation&apos;Tom Brokaw: Pearl Harbor is the birthplace of &apos;Greatest Generation&apos;On Dec. 7, 1941, a surprise Japanese attack on Pearl..."/>
-    <cse:Attribute name="headline" value="Tom Brokaw: Pearl Harbor is the birthplace of &apos;Greatest Generation&apos;"/>
-    <cse:Attribute name="articlesection" value="World"/>
-    <cse:Attribute name="datepublished" value="1 hour, 6 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NationConcerned Muslim women rethinking the hijabConcerned Muslim women rethinking the hijabUptick in assault and intimidation cases has many women feeling targeted.Nation1 hour, 8 minutes ago"/>
-    <cse:Attribute name="headline" value="Concerned Muslim women rethinking the hijab"/>
-    <cse:Attribute name="articlesection" value="Nation"/>
-    <cse:Attribute name="datepublished" value="1 hour, 8 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NationFormer Congressman sentenced to 10 yearsFormer Congressman sentenced to 10 yearsFormer U.S. Rep. Chaka Fattah was sentenced Monday to a 10-year prison term by a judge who said he was..."/>
-    <cse:Attribute name="headline" value="Former Congressman sentenced to 10 years"/>
-    <cse:Attribute name="articlesection" value="Nation"/>
-    <cse:Attribute name="datepublished" value="1 hour, 18 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WorldOK, so just what is the U.S.&apos;s &apos;One China&apos; policy?OK, so just what is the U.S.&apos;s &apos;One China&apos; policy?China said it has “serious concern” about Trump&apos;s comments about the island of Taiwan.Wo..."/>
-    <cse:Attribute name="headline" value="OK, so just what is the U.S.&apos;s &apos;One China&apos; policy?"/>
-    <cse:Attribute name="articlesection" value="World"/>
-    <cse:Attribute name="datepublished" value="1 hour, 20 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NewsTexas fetus burial rules spawn new battle for women&apos;s reproductive rightsTexas fetus burial rules spawn new battle for women&apos;s reproductive rightsThe New York-based Center for Reproductive..."/>
-    <cse:Attribute name="headline" value="Texas fetus burial rules spawn new battle for women&apos;s reproductive rights"/>
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="datepublished" value="1 hour, 20 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WashingtonTrump to testify in lawsuit before he&apos;s inauguratedTrump to testify in lawsuit before he&apos;s inauguratedPresident-elect Donald Trump will take a different oath and testify in a lawsuit..."/>
-    <cse:Attribute name="headline" value="Trump to testify in lawsuit before he&apos;s inaugurated"/>
-    <cse:Attribute name="articlesection" value="Washington"/>
-    <cse:Attribute name="datepublished" value="1 hour, 20 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NationNew Texas abortion restrictions challenged by women&apos;s groupsNew Texas abortion restrictions challenged by women&apos;s groupsAs Texas legislators attempt to restrict abortion access, women&apos;s..."/>
-    <cse:Attribute name="headline" value="New Texas abortion restrictions challenged by women&apos;s groups"/>
-    <cse:Attribute name="articlesection" value="Nation"/>
-    <cse:Attribute name="datepublished" value="1 hour, 22 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NewsNovember is National Diabetes MonthNovember is National Diabetes MonthUSA TODAY&apos;s Diagnosis: Diabetes magazine offers advice and tips on living well with the disease.News2 weeks, 6 days ago"/>
-    <cse:Attribute name="headline" value="November is National Diabetes Month"/>
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="datepublished" value="2 weeks, 6 days ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NewsFollow usatoday on SnapchatFollow usatoday on SnapchatIt&apos;s fun. It&apos;s newsy. It&apos;s snaptastic.News3 months, 1 week ago"/>
-    <cse:Attribute name="headline" value="Follow usatoday on Snapchat"/>
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="datepublished" value="3 months, 1 week ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NewsGet our most popular stories delivered once a day on FacebookGet our most popular stories delivered once a day on FacebookGet caught up where you already are: One digest. Five trending..."/>
-    <cse:Attribute name="headline" value="Get our most popular stories delivered once a day on Facebook"/>
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="datepublished" value="2 months, 1 week ago"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
     <cse:Attribute name="image" value="http://www.gannett-cdn.com/-mm-/7ab928d99ad015b3b53098ddfd34b9d477bc16bd/c=284-0-4717-3333&amp;r=x513&amp;c=680x510/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
@@ -378,66 +152,8 @@ speak publicly about the case say the two boys are friends and live in Anderson&
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12</id>
-  <updated>1970-01-18T03:35:02.742Z</updated>
-  <title type="html">Bank of Japan to extend lending facilities expiring in March: sources ...</title>
-  <link href="http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12" title="www.businessinsider.com"/>
-  <summary type="html">The central bank&amp;#39;s nine-member board will make the decision either at its rate &lt;br&gt;
-review next week or a subsequent policy meeting in January, &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;with&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>MWO0z9NZtIoJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities- expiring-in-march-sources-2016-12</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2016-12-13"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-13"/>
-    <cse:Attribute name="news_keywords" value="Reuters"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters"/>
-    <cse:Attribute name="sailthru.description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
-    <cse:Attribute name="title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business,clusterstock"/>
-    <cse:Attribute name="sailthru.title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="og:title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="og:description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12"/>
-    <cse:Attribute name="twitter:title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="twitter:description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="url" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
-    <cse:Attribute name="description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static5.businessinsider.com/assets/images/logos/BI.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOfK1aTywzbJF5wT__2pDGkJ55dcsXy2pEeZanJRsGSNgD7zDifsz6b18a"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.nbcnews.com/news/us-news/trump-picks-energy-department-opponent-rick-perry-energy-secretary-sources-n695241</id>
-  <updated>1970-01-18T03:35:02.742Z</updated>
+  <updated>1970-01-18T03:37:11.939Z</updated>
   <title type="html">Trump Picks Energy Department Opponent Rick Perry for Energy ...</title>
   <link href="http://www.nbcnews.com/news/us-news/trump-picks-energy-department-opponent-rick-perry-energy-secretary-sources-n695241" title="www.nbcnews.com"/>
   <summary type="html">Rick Perry — who famously once forgot that he wanted to abolish the Energy &lt;br&gt;
@@ -465,75 +181,20 @@ Department — to be secretary of energy, two &lt;b&gt;sources familiar with&lt;
     <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
     <cse:Attribute name="dc.date.issued" value="2016-12-13"/>
     <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
-    <cse:Attribute name="tp:preferredruntimes" value="Universal,HTML5,Flash"/>
-    <cse:Attribute name="tp:preferredformats" value="FLV,F4M,MPEG4,M3U"/>
-    <cse:Attribute name="tp:initialize" value="false"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://media1.s-nbcnews.com/j/newscms/2016_50/1830131/161213-rick-perry-12a_94351e7efaeaabcbb4287cb7328539e7.nbcnews-fp-1200-800.jpg"/>
    </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-intesa-to-provide-bulk-of-funds-to-glencore-for-rosneft-deal---sources-2016-12</id>
-  <updated>1970-01-18T03:35:02.742Z</updated>
-  <title type="html">Intesa to provide bulk of funds to Glencore for Rosneft deal - sources ...</title>
-  <link href="http://www.businessinsider.com/r-intesa-to-provide-bulk-of-funds-to-glencore-for-rosneft-deal---sources-2016-12" title="www.businessinsider.com"/>
-  <summary type="html">... funds to commodities trader Glencore to help it finance the purchase of a stake &lt;br&gt;
-in the Kremlin oil major Rosneft, two &lt;b&gt;sources familiar with&lt;/b&gt; the transaction said.</summary>
-  <cse:cacheId>dfdw5Suhrc8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-intesa-to-provide-bulk-of-funds-to-glencore-for- rosneft-deal---sources-2016-12</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2016-12-08"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-08"/>
-    <cse:Attribute name="news_keywords" value="Reuters Company News, RUSSIA-ROSNEFT/PRIVATISATION-INTESA (URGENT)"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters Company News, RUSSIA-ROSNEFT/PRIVATISATION-INTESA (URGENT)"/>
-    <cse:Attribute name="sailthru.description" value="LONDON, Dec 8 (Reuters) - Italian bank Intesa..."/>
-    <cse:Attribute name="title" value="Intesa to provide bulk of funds to Glencore for Rosneft deal - sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Company News"/>
-    <cse:Attribute name="sailthru.title" value="Intesa to provide bulk of funds to Glencore for Rosneft deal - sources"/>
-    <cse:Attribute name="og:title" value="Intesa to provide bulk of funds to Glencore for Rosneft deal - sources"/>
-    <cse:Attribute name="og:description" value="LONDON, Dec 8 (Reuters) - Italian bank Intesa..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-intesa-to-provide-bulk-of-funds-to-glencore-for-rosneft-deal---sources-2016-12"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-intesa-to-provide-bulk-of-funds-to-glencore-for-rosneft-deal---sources-2016-12"/>
-    <cse:Attribute name="twitter:title" value="Intesa to provide bulk of funds to Glencore for Rosneft deal - sources"/>
-    <cse:Attribute name="twitter:description" value="LONDON, Dec 8 (Reuters) - Italian bank Intesa..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Intesa to provide bulk of funds to Glencore for Rosneft deal - sources"/>
-    <cse:Attribute name="url" value="Intesa to provide bulk of funds to Glencore for Rosneft deal - sources"/>
-    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
-    <cse:Attribute name="description" value="LONDON, Dec 8 (Reuters) - Italian bank Intesa..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/58348590ba6eb634008b5ced-400/11-of-the-best-watches-to-give-and-get-for-under-100.jpg"/>
-   </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0c0GWnf55mDOMeV9XwQX6niweouFsD9t4LeLgqLQcGIryaXkQ-c2mcwo"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_sFYcOgo3gHaYod8kX5jc8C00tbigUMOn5D-qC1er3iEIjm7q9tc-4E"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2016/12/10/politics/rex-tillerson-secretary-of-state/</id>
-  <updated>1970-01-18T03:35:02.742Z</updated>
+  <updated>1970-01-18T03:37:11.939Z</updated>
   <title type="html">Rex Tillerson leading candidate for secretary of state - CNNPolitics ...</title>
   <link href="http://www.cnn.com/2016/12/10/politics/rex-tillerson-secretary-of-state/" title="www.cnn.com"/>
   <summary type="html">ExxonMobil Chairman and CEO Rex Tillerson is the leading candidate for &lt;br&gt;
@@ -582,7 +243,7 @@ Secretary of State in a Donald Trump administration, multiple &lt;b&gt;sources f
     <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161206113142-rex-tillerson-exonn-super-tease.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161206113142-rex-tillerson-exonn-super-tease.jpg"/>
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161108145353-bush-to-obama-transition-large-169.jpg"/>
     <cse:Attribute name="type" value="1"/>
     <cse:Attribute name="width" value="299"/>
     <cse:Attribute name="height" value="168"/>
@@ -590,72 +251,123 @@ Secretary of State in a Donald Trump administration, multiple &lt;b&gt;sources f
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9</id>
-  <updated>1970-01-18T03:35:02.742Z</updated>
-  <title type="html">Trump gets one presidential intelligence briefing a week: sources ...</title>
-  <link href="http://www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9" title="www.reuters.com"/>
-  <summary type="html">Indiana Governor Mike Pence, Trump&amp;#39;s vice president-elect, has been receiving &lt;br&gt;
-his own PDB at least six days a week, the &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>zX-eEuwlq9sJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9</cse:formattedUrl>
+  <id>http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12</id>
+  <updated>1970-01-18T03:37:11.939Z</updated>
+  <title type="html">Bank of Japan to extend lending facilities expiring in March: sources ...</title>
+  <link href="http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12" title="www.businessinsider.com"/>
+  <summary type="html">The central bank&amp;#39;s nine-member board will make the decision either at its rate &lt;br&gt;
+review next week or a subsequent policy meeting in January, &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>MWO0z9NZtIoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities- expiring-in-march-sources-2016-12</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="date" value="2016-12-13"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-13"/>
+    <cse:Attribute name="news_keywords" value="Reuters"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters"/>
+    <cse:Attribute name="sailthru.description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
+    <cse:Attribute name="title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business,clusterstock"/>
+    <cse:Attribute name="sailthru.title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
+    <cse:Attribute name="og:title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
+    <cse:Attribute name="og:description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12"/>
+    <cse:Attribute name="twitter:title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
+    <cse:Attribute name="twitter:description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
+    <cse:Attribute name="url" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
+    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
+    <cse:Attribute name="description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R</id>
+  <updated>1970-01-18T03:37:11.939Z</updated>
+  <title type="html">Top Lyondell refining executives leaving before refinery sale: sources</title>
+  <link href="http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R" title="www.reuters.com"/>
+  <summary type="html">Two top U.S. refining executives are leaving LyondellBasell Industries as the &lt;br&gt;
+company nears an agreement to sell its Houston refinery, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+the&amp;nbsp;...</summary>
+  <cse:cacheId>tLfYabqWDEoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-refinery-executives-lyondell-houston- idUSKBN14302R</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="BigStory13"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;politicsNews;google;everything;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;audib2b;credit-rss;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;BigStory12;BigStory13;GCA-live-feed;GCA-us-election-2016"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Trump+gets+one+presidential+intelligence+briefing+a+week%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="everything;Deals;ShellEnergy;AllianzInvestments;Allianz;verizonmm;marine;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Top+Lyondell+refining+executives+leaving+before+refinery+sale%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Mark Hosenball"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-BigStory13"/>
-    <cse:Attribute name="author" value="Mark Hosenball"/>
-    <cse:Attribute name="news_keywords" value="France;Russia;United States;France;Iran;Russia;United States;Adam Schiff;Barack Obama;David Priess;Donald Trump;George W. Bush;Jimmy Carter;Mike Pence;Richard Nixon;Ronald Reagan;Adam Schiff;Barack Obama;David Priess;Donald Trump;George W. Bush;Jimmy Carter;Mike Pence;Richard Nixon;Ronald Reagan;US;USA;TRUMP;BRIEFINGS;Elections / Voting;Russia;Iron Ore;Western Europe;Iran;Military Conflicts;Diplomacy / Foreign Policy;North Atlantic Treaty Organization;Government / Politics;Central / Eastern Europe;East European Countries;Europe;Middle East;US Government News;International / National Security;Conflicts / War / Peace;Emerging Market Countries;Civil Unrest;Presidential Elections;United States;Insurgencies"/>
-    <cse:Attribute name="revision_date" value="Fri Dec 09 14:03:20 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Mark Hosenball"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-09T14:03:20+0000"/>
-    <cse:Attribute name="sailthru.title" value="Trump gets one presidential intelligence briefing a week: sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="United States;Emmet Kevin Brown;Michael Waldron;Samuel L. Smolik;US;REFINERY;EXECUTIVES;LYONDELL;HOUSTON;Energy Markets;Crude Oil;Energy (Legacy);Heating Oil / Gasoil;Saudi Arabia;Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Middle East;Deals;Commodity Chemicals (TRBC);Canada;United States;Gasoline;Company News;Gulf Coast (PADD III);North America (Energy);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Production Status Changes;Commodities News (3rd Party)"/>
+    <cse:Attribute name="revision_date" value="Wed Dec 14 00:46:38 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-14T00:46:38+0000"/>
+    <cse:Attribute name="sailthru.title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Trump gets one presidential intelligence briefing a week: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9"/>
+    <cse:Attribute name="og:title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="President-elect Donald Trump is receiving an average of one presidential intelligence briefing a week, according to U.S. officials familiar with the matter, far fewer than most of his recent predecessors."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-09T14:03:20+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-09T14:03:20+0000"/>
+    <cse:Attribute name="og:description" value="Two top U.S. refining executives are leaving LyondellBasell Industries as the company nears an agreement to sell its Houston refinery, sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-12-14T00:46:38+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-12-14T00:46:38+0000"/>
     <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Mark Hosenball"/>
-    <cse:Attribute name="og:article:tag" value="France,Russia,United States,France,Iran,Russia,United States,Adam Schiff,Barack Obama,David Priess,Donald Trump,George W. Bush,Jimmy Carter,Mike Pence,Richard Nixon,Ronald Reagan,Adam Schiff,Barack Obama,David Priess,Donald Trump,George W. Bush,Jimmy Carter,Mike Pence,Richard Nixon,Ronald Reagan,US,USA,TRUMP,BRIEFINGS,Elections / Voting,Russia,Iron Ore,Western Europe,Iran,Military Conflicts,Diplomacy / Foreign Policy,North Atlantic Treaty Organization,Government / Politics,Central / Eastern Europe,East European Countries,Europe,Middle East,US Government News,International / National Security,Conflicts / War / Peace,Emerging Market Countries,Civil Unrest,Presidential Elections,United States,Insurgencies"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="United States,Emmet Kevin Brown,Michael Waldron,Samuel L. Smolik,US,REFINERY,EXECUTIVES,LYONDELL,HOUSTON,Energy Markets,Crude Oil,Energy (Legacy),Heating Oil / Gasoil,Saudi Arabia,Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Middle East,Deals,Commodity Chemicals (TRBC),Canada,United States,Gasoline,Company News,Gulf Coast (PADD III),North America (Energy),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,Commodities News (3rd Party)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Trump gets one presidential intelligence briefing a week: sources"/>
-    <cse:Attribute name="twitter:description" value="President-elect Donald Trump is receiving an average of one presidential intelligence briefing a week, according to U.S. officials familiar with the matter, far fewer than most of his recent predecessors."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
+    <cse:Attribute name="twitter:description" value="Two top U.S. refining executives are leaving LyondellBasell Industries as the company nears an agreement to sell its Houston refinery, sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/uselection/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
     <cse:Attribute name="wt.cg_n" value="Homepage"/>
     <cse:Attribute name="wt.cg_s" value="Homepage"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9LNfUJMeaxh_oPOR46CYAi2kSu_KIjPJ_1j7Nm7wEyxdPr2l2Xj_aQ9Kl"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-capsugel-m-a-lonza-idUSKBN14015R</id>
-  <updated>1970-01-18T03:35:02.742Z</updated>
+  <updated>1970-01-18T03:37:11.939Z</updated>
   <title type="html">Exclusive: Lonza says in talks to buy Capsugel; deal could top $5 ...</title>
   <link href="http://www.reuters.com/article/us-capsugel-m-a-lonza-idUSKBN14015R" title="www.reuters.com"/>
   <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the talks told Reuters that a potential transaction would be &lt;br&gt;
@@ -708,129 +420,193 @@ valued at more than $5 billion. Capsugel &amp;quot;would fit perfectly with Lonz
     <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161212&amp;t=2&amp;i=1165098309&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBB01J"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="266"/>
-    <cse:Attribute name="height" value="189"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLQcaujwTpVbjLoKeYyYFBW73xKQmbGin-z193mwa3ldOjtKc_7IBMoSU"/>
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-update-1-italian-bank-intesa-to-help-fund-rosneft-deal-for-glencore-and-qatar---sources-2016-12</id>
-  <updated>1970-01-18T03:35:02.742Z</updated>
-  <title type="html">UPDATE 1-Italian bank Intesa to help fund Rosneft deal for Glencore ...</title>
-  <link href="http://www.businessinsider.com/r-update-1-italian-bank-intesa-to-help-fund-rosneft-deal-for-glencore-and-qatar---sources-2016-12" title="www.businessinsider.com"/>
-  <summary type="html">... of Qatar and commodities trader Glencore to finance their purchase of a stake &lt;br&gt;
-in the Kremlin oil major Rosneft, two &lt;b&gt;sources familiar with&lt;/b&gt; the transaction said.</summary>
-  <cse:cacheId>Vj9LdxY1VeIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-update-1-italian-bank-intesa-to-help-fund-rosneft -deal-for-glencore-and-qatar---sources-2016-12</cse:formattedUrl>
+  <id>http://www.politico.com/blogs/donald-trump-administration/2016/12/donald-trump-jr-interior-secretary-232640</id>
+  <updated>1970-01-18T03:37:11.939Z</updated>
+  <title type="html">Donald Trump Jr. played role in picking interior secretary - POLITICO</title>
+  <link href="http://www.politico.com/blogs/donald-trump-administration/2016/12/donald-trump-jr-interior-secretary-232640" title="www.politico.com"/>
+  <summary type="html">Donald Trump, Jr., the president elect&amp;#39;s eldest son, was involved with the &lt;br&gt;
+interview process for interior secretary, according to &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>IP3hGfk5uGAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/.../donald-trump-jr-interior-secretary-232640</cse:formattedUrl>
   <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2016-12-08"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-08"/>
-    <cse:Attribute name="news_keywords" value="Reuters Company News, RUSSIA-ROSNEFT/PRIVATISATION (UPDATE 1)"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters Company News, RUSSIA-ROSNEFT/PRIVATISATION (UPDATE 1)"/>
-    <cse:Attribute name="sailthru.description" value="* Italian bank was adviser on Rosneft..."/>
-    <cse:Attribute name="title" value="UPDATE 1-Italian bank Intesa to help fund Rosneft deal for Glencore and Qatar - sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Company News"/>
-    <cse:Attribute name="sailthru.title" value="UPDATE 1-Italian bank Intesa to help fund Rosneft deal for Glencore and Qatar - sources"/>
-    <cse:Attribute name="og:title" value="UPDATE 1-Italian bank Intesa to help fund Rosneft deal for Glencore and Qatar - sources"/>
-    <cse:Attribute name="og:description" value="* Italian bank was adviser on Rosneft..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-update-1-italian-bank-intesa-to-help-fund-rosneft-deal-for-glencore-and-qatar---sources-2016-12"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-update-1-italian-bank-intesa-to-help-fund-rosneft-deal-for-glencore-and-qatar---sources-2016-12"/>
-    <cse:Attribute name="twitter:title" value="UPDATE 1-Italian bank Intesa to help fund Rosneft deal for Glencore and Qatar - sources"/>
-    <cse:Attribute name="twitter:description" value="* Italian bank was adviser on Rosneft..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jake Sherman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
+    <cse:Attribute name="url_text" value="Jake Sherman"/>
    </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="UPDATE 1-Italian bank Intesa to help fund Rosneft deal for Glencore and Qatar - sources"/>
-    <cse:Attribute name="url" value="UPDATE 1-Italian bank Intesa to help fund Rosneft deal for Glencore and Qatar - sources"/>
-    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
-    <cse:Attribute name="description" value="* Italian bank was adviser on Rosneft..."/>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Matthew Nussbaum"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/matthew-nussbaum"/>
+    <cse:Attribute name="url_text" value="Matthew Nussbaum"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jake Sherman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
+    <cse:Attribute name="url_text" value="Jake Sherman"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Matthew Nussbaum"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/matthew-nussbaum"/>
+    <cse:Attribute name="url_text" value="Matthew Nussbaum"/>
+   </cse:DataObject>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="og:title" value="Donald Trump Jr. played role in picking interior secretary"/>
+    <cse:Attribute name="og:description" value="Don Jr. is known as an avid outdoorsman, which is why he might have an interest in the next head of the Interior Department."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2hm8ZMu"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@politico"/>
+    <cse:Attribute name="twitter:creator" value="@politico"/>
+    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
+    <cse:Attribute name="og:site_name" value="POLITICO"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/c4/36/d7592a8b41daaefd1cd07fb2881a/091616-donald-trump-jr-ap-629.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static6.businessinsider.com/image/561bc48d9dd7cc04308b5b0c-400/50-must-have-tech-accessories-under-50.jpg"/>
+    <cse:Attribute name="src" value="http://static.politico.com/c4/36/d7592a8b41daaefd1cd07fb2881a/091616-donald-trump-jr-ap-629.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTa0l-62Lr9UEuQhUPlXt8YGRapH5qqvhaiqMR6iAvm3miUyd2373TDbYM2"/>
+    <cse:Attribute name="width" value="305"/>
+    <cse:Attribute name="height" value="165"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLTklygyRNVz3LbhoS5msxlxvsSaAaEOaUyRm0VI5XNPAsOs2HO2QDFpA"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-refinery-operations-motiva-portarthur-idUSKBN13X003</id>
-  <updated>1970-01-18T03:35:02.742Z</updated>
-  <title type="html">Motiva Port Arthur refinery HCU returning to production - sources ...</title>
-  <link href="http://www.reuters.com/article/us-refinery-operations-motiva-portarthur-idUSKBN13X003" title="www.reuters.com"/>
-  <summary type="html">... hydrocracking unit at the 603000-barrel-per-day (bpd) Port Arthur, Texas, &lt;br&gt;
-refinery to production on Wednesday, said &lt;b&gt;sources familiar with&lt;/b&gt; plant operations.</summary>
-  <cse:cacheId>-iNL140rATkJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-refinery-operations-motiva-portarthur- idUSKBN13X003</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9</id>
+  <updated>1970-01-18T03:37:11.939Z</updated>
+  <title type="html">Trump gets one presidential intelligence briefing a week: sources ...</title>
+  <link href="http://www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9" title="www.reuters.com"/>
+  <summary type="html">Indiana Governor Mike Pence, Trump&amp;#39;s vice president-elect, has been receiving &lt;br&gt;
+his own PDB at least six days a week, the &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>zX-eEuwlq9sJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="marine;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Motiva+Port+Arthur+refinery+HCU+returning+to+production+-+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;politicsNews;google;everything;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;audib2b;credit-rss;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;BigStory12;BigStory13;GCA-live-feed;GCA-us-election-2016"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Trump+gets+one+presidential+intelligence+briefing+a+week%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Mark Hosenball"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="US;REFINERY;OPERATIONS;MOTIVA;PORTARTHUR;United States;Production Status Changes;Oil and Gas (TRBC);Company News;Energy (Legacy);Gasoline;Refined Products;Reports;English;Oil and Gas Refining and Marketing (TRBC);Corporate Events;North America (Energy);Commodities News (3rd Party);Exclude story from RNP;Energy Markets;Oil Refineries;Gulf Coast (PADD III)"/>
-    <cse:Attribute name="revision_date" value="Thu Dec 08 00:01:55 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-08T00:01:55+0000"/>
-    <cse:Attribute name="sailthru.title" value="Motiva Port Arthur refinery HCU returning to production - sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Mark Hosenball"/>
+    <cse:Attribute name="news_keywords" value="France;Russia;United States;France;Iran;Russia;United States;Adam Schiff;Barack Obama;David Priess;Donald Trump;George W. Bush;Jimmy Carter;Mike Pence;Richard Nixon;Ronald Reagan;Adam Schiff;Barack Obama;David Priess;Donald Trump;George W. Bush;Jimmy Carter;Mike Pence;Richard Nixon;Ronald Reagan;US;USA;TRUMP;BRIEFINGS;Elections / Voting;Russia;Iron Ore;Western Europe;Iran;Military Conflicts;Diplomacy / Foreign Policy;North Atlantic Treaty Organization;Government / Politics;Central / Eastern Europe;East European Countries;Europe;Middle East;US Government News;International / National Security;Conflicts / War / Peace;Emerging Market Countries;Civil Unrest;Presidential Elections;United States;Insurgencies"/>
+    <cse:Attribute name="revision_date" value="Fri Dec 09 14:03:20 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Mark Hosenball"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-09T14:03:20+0000"/>
+    <cse:Attribute name="sailthru.title" value="Trump gets one presidential intelligence briefing a week: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Motiva Port Arthur refinery HCU returning to production - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-refinery-operations-motiva-portarthur-idUSKBN13X003"/>
+    <cse:Attribute name="og:title" value="Trump gets one presidential intelligence briefing a week: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Motiva Enterprises was returning the expanded hydrocracking unit at the 603,000-barrel-per-day (bpd) Port Arthur, Texas, refinery to production on Wednesday, said sources familiar with plant operations."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-08T00:01:55+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-08T00:01:55+0000"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="US,REFINERY,OPERATIONS,MOTIVA,PORTARTHUR,United States,Production Status Changes,Oil and Gas (TRBC),Company News,Energy (Legacy),Gasoline,Refined Products,Reports,English,Oil and Gas Refining and Marketing (TRBC),Corporate Events,North America (Energy),Commodities News (3rd Party),Exclude story from RNP,Energy Markets,Oil Refineries,Gulf Coast (PADD III)"/>
+    <cse:Attribute name="og:description" value="President-elect Donald Trump is receiving an average of one presidential intelligence briefing a week, according to U.S. officials familiar with the matter, far fewer than most of his recent predecessors."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
+    <cse:Attribute name="og:article:published_time" value="2016-12-09T14:03:20+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-12-09T14:03:20+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Mark Hosenball"/>
+    <cse:Attribute name="og:article:tag" value="France,Russia,United States,France,Iran,Russia,United States,Adam Schiff,Barack Obama,David Priess,Donald Trump,George W. Bush,Jimmy Carter,Mike Pence,Richard Nixon,Ronald Reagan,Adam Schiff,Barack Obama,David Priess,Donald Trump,George W. Bush,Jimmy Carter,Mike Pence,Richard Nixon,Ronald Reagan,US,USA,TRUMP,BRIEFINGS,Elections / Voting,Russia,Iron Ore,Western Europe,Iran,Military Conflicts,Diplomacy / Foreign Policy,North Atlantic Treaty Organization,Government / Politics,Central / Eastern Europe,East European Countries,Europe,Middle East,US Government News,International / National Security,Conflicts / War / Peace,Emerging Market Countries,Civil Unrest,Presidential Elections,United States,Insurgencies"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Motiva Port Arthur refinery HCU returning to production - sources"/>
-    <cse:Attribute name="twitter:description" value="Motiva Enterprises was returning the expanded hydrocracking unit at the 603,000-barrel-per-day (bpd) Port Arthur, Texas, refinery to production on Wednesday, said sources familiar with plant operations."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Trump gets one presidential intelligence briefing a week: sources"/>
+    <cse:Attribute name="twitter:description" value="President-elect Donald Trump is receiving an average of one presidential intelligence briefing a week, according to U.S. officials familiar with the matter, far fewer than most of his recent predecessors."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9LNfUJMeaxh_oPOR46CYAi2kSu_KIjPJ_1j7Nm7wEyxdPr2l2Xj_aQ9Kl"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2016/12/14/politics/ivanka-trump-white-house-office-of-the-first-family/index.html</id>
+  <updated>1970-01-18T03:37:11.939Z</updated>
+  <title type="html">Sources: Ivanka Trump to have East Wing office - CNNPolitics.com</title>
+  <link href="http://www.cnn.com/2016/12/14/politics/ivanka-trump-white-house-office-of-the-first-family/index.html" title="www.cnn.com"/>
+  <summary type="html">... already planning for an &amp;quot;Office of the First Family,&amp;quot; in the East Wing where the &lt;br&gt;
+current office of the first lady is located, &lt;b&gt;sources familiar with&lt;/b&gt; the plan told CNN.</summary>
+  <cse:cacheId>oWlpXJGJzoYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2016/12/14/politics/ivanka-trump.../index.html</cse:formattedUrl>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.politico.com/playbook</id>
+  <updated>1970-01-18T03:37:11.939Z</updated>
+  <title type="html">Playbook - POLITICO</title>
+  <link href="http://www.politico.com/playbook" title="www.politico.com"/>
+  <summary type="html">DONALD TRUMP JR., the president elect&amp;#39;s eldest son, was involved with the &lt;br&gt;
+interview process for Interior secretary, according to &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>wSxISXL4-rYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/playbook</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jack Shafer"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jack-shafer"/>
+    <cse:Attribute name="url_text" value="Jack Shafer"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jake Sherman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
+    <cse:Attribute name="url_text" value="Jake Sherman"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Anna Palmer"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/anna-palmer"/>
+    <cse:Attribute name="url_text" value="Anna Palmer"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Daniel Lippman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/daniel-lippman"/>
+    <cse:Attribute name="url_text" value="Daniel Lippman"/>
+   </cse:DataObject>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="og:title" value="Playbook"/>
+    <cse:Attribute name="og:description" value="POLITICO&apos;s must-read briefing on what&apos;s driving the day in Washington"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="og:type" value="website"/>
+    <cse:Attribute name="og:url" value="http://politi.co/1Q9MG9v"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@politico"/>
+    <cse:Attribute name="twitter:creator" value="@politico"/>
+    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
+    <cse:Attribute name="og:site_name" value="POLITICO"/>
+    <cse:Attribute name="title" value="NEWS: Don Trump Jr. involved in INTERIOR search -- WAYNE BERMAN up for TRADE REP -- TRUMP’S TECH SUMMIT -- SPOTTED AT DAVID RUBENSTEIN’S PARTY -- B’DAY: Kirsten Powers"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/54/47/0e7e0b7a4d6b961f4b9f5cc85229/politico.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static.politico.com/54/47/0e7e0b7a4d6b961f4b9f5cc85229/politico.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2FWZ-Skm7vhUsEpTplMw1N13BMcb9lweK3DGijtNaUgxRpO1fOovs6Y"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
