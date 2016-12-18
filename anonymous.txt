@@ -5,155 +5,86 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T03:37:11.939Z</updated>
+ <updated>1970-01-18T03:40:51.791Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>11400</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6030" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6030" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>6030</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.334953</cse:searchTime>
-  <cse:formattedSearchTime>0.33</cse:formattedSearchTime>
-  <cse:totalResults>11400</cse:totalResults>
-  <cse:formattedTotalResults>11,400</cse:formattedTotalResults>
+  <cse:searchTime>0.277528</cse:searchTime>
+  <cse:formattedSearchTime>0.28</cse:formattedSearchTime>
+  <cse:totalResults>6030</cse:totalResults>
+  <cse:formattedTotalResults>6,030</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.usatoday.com/story/news/nation-now/2016/12/09/sources-teens-toying-matches-started-tennessee-wildfire/95223326/</id>
-  <updated>1970-01-18T03:37:11.939Z</updated>
-  <title type="html">Sources: Teens toying with matches started Tennessee wildfire</title>
-  <link href="http://www.usatoday.com/story/news/nation-now/2016/12/09/sources-teens-toying-matches-started-tennessee-wildfire/95223326/" title="www.usatoday.com"/>
-  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the teenagers and the investigation but not authorized to &lt;br&gt;
-speak publicly about the case say the two boys are friends and live in Anderson&amp;nbsp;...</summary>
-  <cse:cacheId>XVp5V5WJ8XUJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.usatoday.com/story/news/nation-now/.../95223326/</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R</id>
+  <updated>1970-01-18T03:40:51.791Z</updated>
+  <title type="html">Top Lyondell refining executives leaving before refinery sale: sources</title>
+  <link href="http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R" title="www.reuters.com"/>
+  <summary type="html">Two top U.S. refining executives are leaving LyondellBasell Industries as the &lt;br&gt;
+company nears an agreement to sell its Houston refinery, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+the&amp;nbsp;...</summary>
+  <cse:cacheId>tLfYabqWDEoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-refinery-executives-lyondell-houston- idUSKBN14302R</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="content-type" value="text/html; charset=UTF-8"/>
-    <cse:Attribute name="google" value="notranslate"/>
-    <cse:Attribute name="fb:app_id" value="215046668549694"/>
-    <cse:Attribute name="og:site_name" value="USA TODAY"/>
-    <cse:Attribute name="og:image" value="http://www.gannett-cdn.com/-mm-/0eb9c8d9de40c41442d29c7c87828194859ce4be/c=0-254-5000-3079&amp;r=x1683&amp;c=3200x1680/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="og:image:width" value="3200"/>
-    <cse:Attribute name="og:image:height" value="1680"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://www.gannett-cdn.com/-mm-/a727648cd95887ca6cd66d39b6aa1a7174388326/c=0-254-5000-3079&amp;r=x324&amp;c=600x321/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="twitter:site" value="@usatoday"/>
-    <cse:Attribute name="twitter:creator" value="@usatoday"/>
-    <cse:Attribute name="twitter:title" value="Sources: Teens toying with matches started Tennessee wildfire"/>
-    <cse:Attribute name="twitter:description" value="The two boys, ages 17 and 15, were charged this week in Sevier County Juvenile Court with aggravated arson."/>
-    <cse:Attribute name="og:title" value="Sources: Teens toying with matches started Tennessee wildfire"/>
-    <cse:Attribute name="og:description" value="The two boys, ages 17 and 15, were charged this week in Sevier County Juvenile Court with aggravated arson."/>
-    <cse:Attribute name="og:url" value="http://www.usatoday.com/story/news/nation-now/2016/12/09/sources-teens-toying-matches-started-tennessee-wildfire/95223326/"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="everything;Deals;ShellEnergy;AllianzInvestments;Allianz;verizonmm;marine;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Top+Lyondell+refining+executives+leaving+before+refinery+sale%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="United States;Emmet Kevin Brown;Michael Waldron;Samuel L. Smolik;US;REFINERY;EXECUTIVES;LYONDELL;HOUSTON;Energy Markets;Crude Oil;Energy (Legacy);Heating Oil / Gasoil;Saudi Arabia;Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Middle East;Deals;Commodity Chemicals (TRBC);Canada;United States;Gasoline;Company News;Gulf Coast (PADD III);North America (Energy);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Production Status Changes;Commodities News (3rd Party)"/>
+    <cse:Attribute name="revision_date" value="Wed Dec 14 00:46:38 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-14T00:46:38+0000"/>
+    <cse:Attribute name="sailthru.title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="cxenseparse:recs:articleid" value="95223326"/>
-    <cse:Attribute name="cxenseparse:pageclass" value="article"/>
-    <cse:Attribute name="cxenseparse:url" value="http://www.usatoday.com/story/news/nation-now/2016/12/09/sources-teens-toying-matches-started-tennessee-wildfire/95223326/"/>
-    <cse:Attribute name="cxenseparse:recs:publishtime" value="2016-12-09T18:25:52.233000-05:00"/>
-    <cse:Attribute name="cxenseparse:recs:category" value="news/nation-now"/>
-    <cse:Attribute name="cxenseparse:title" value="Sources: Teens toying with matches started Tennessee wildfire"/>
-    <cse:Attribute name="cxenseparse:author" value="Jamie Satterfield"/>
-    <cse:Attribute name="cxenseparse:recs:contenttype" value="story"/>
-    <cse:Attribute name="cxenseparse:gci-asset-type" value="story"/>
-    <cse:Attribute name="cxenseparse:recs:image" value="http://www.gannett-cdn.com/-mm-/0eb9c8d9de40c41442d29c7c87828194859ce4be/c=0-254-5000-3079&amp;r=x1683&amp;c=3200x1680/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="cxenseparse:recs:image-16-9" value="http://www.gannett-cdn.com/-mm-/13fcf03d38319e7eee61d28466b16853697f0ed3/c=0-254-5000-3079/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="cxenseparse:recs:image-4-3" value="http://www.gannett-cdn.com/-mm-/47a89700f907e4a9b7e2031b4b182adff66ebaaa/c=284-0-4717-3333/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="cxenseparse:recs:image-1-1" value="http://www.gannett-cdn.com/-mm-/bf53b08b1e929bbf699edecc029bac7d78d1aba7/c=833-0-4166-3333/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="cxenseparse:recs:image-3-4" value="http://www.gannett-cdn.com/-mm-/45ba07f46db986b7802c41524b185dc10d3a2ed4/c=1250-0-3750-3333/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="cxenseparse:recs:image-9-16" value="http://www.gannett-cdn.com/-mm-/3d1ed3246398e46683868c168bea6a46410f33bd/c=1567-0-3433-3333/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="cxenseparse:recs:shorthed" value="Sources: Teens with matches started Tenn. wildfire"/>
-    <cse:Attribute name="cxenseparse:gci-topic" value="Subjects/ACCIDENTS AND SAFETY"/>
-    <cse:Attribute name="cxenseparse:gci-categories" value="Subjects/ACCIDENTS AND SAFETY"/>
-    <cse:Attribute name="viewport" value="width=1070"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="description" value="The two boys, ages 17 and 15, were charged this week in Sevier County Juvenile Court with aggravated arson."/>
-    <cse:Attribute name="thumbnailurl" value="http://www.gannett-cdn.com/-mm-/76a3d05f3acd159739a50befc33de428330b7433/c=833-0-4166-3333&amp;r=x153&amp;c=150x150/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="thumbnailheight" value="150"/>
-    <cse:Attribute name="thumbnailwidth" value="150"/>
-    <cse:Attribute name="image" value="http://www.gannett-cdn.com/-mm-/0fd5967db2d7e5137c9189a64925a6495f40e695/c=833-0-4166-3333&amp;r=x203&amp;c=200x200/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="datemodified" value="2016-12-09T23:25:52.233Z"/>
-    <cse:Attribute name="datepublished" value="2016-12-09T23:24:10.723Z"/>
-    <cse:Attribute name="articlesection" value="news,nation-now"/>
-    <cse:Attribute name="headline" value="Sources: Teens toying with matches started Tennessee wildfire"/>
-    <cse:Attribute name="articlebody" value="Cars burn in front of the main entrance of the Westgate Smoky Mountain Resort in Gatlinburg on Tuesday, Nov. 29, 2016, during the middle of the wildfire that ravaged Sevier County.(Photo: Brandon..."/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="image" value="http://www.gannett-cdn.com/-mm-/7ab928d99ad015b3b53098ddfd34b9d477bc16bd/c=284-0-4717-3333&amp;r=x513&amp;c=680x510/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="680"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="680"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="680"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="680"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="380"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="380"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="680"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="680"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="680"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="680"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="510"/>
-    <cse:Attribute name="width" value="680"/>
-    <cse:Attribute name="copyrightholder" value="Brandon Reese / For The Tennessean"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://www.gannett-cdn.com/-mm-/b1e2810a04fb3a89e300a54e9983c7e7db29c956/c=284-0-4717-3333&amp;r=x404&amp;c=534x401/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
-    <cse:Attribute name="name" value="636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
+    <cse:Attribute name="og:description" value="Two top U.S. refining executives are leaving LyondellBasell Industries as the company nears an agreement to sell its Houston refinery, sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-12-14T00:46:38+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-12-14T00:46:38+0000"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="United States,Emmet Kevin Brown,Michael Waldron,Samuel L. Smolik,US,REFINERY,EXECUTIVES,LYONDELL,HOUSTON,Energy Markets,Crude Oil,Energy (Legacy),Heating Oil / Gasoil,Saudi Arabia,Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Middle East,Deals,Commodity Chemicals (TRBC),Canada,United States,Gasoline,Company News,Gulf Coast (PADD III),North America (Energy),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,Commodities News (3rd Party)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
+    <cse:Attribute name="twitter:description" value="Two top U.S. refining executives are leaving LyondellBasell Industries as the company nears an agreement to sell its Houston refinery, sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.gannett-cdn.com/-mm-/7ab928d99ad015b3b53098ddfd34b9d477bc16bd/c=284-0-4717-3333&amp;r=x513&amp;c=680x510/local/-/media/2016/11/30/TennGroup/Nashville/636161376617772366-DSC-7490-Edit-5000x3333-.jpg"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0tFQ2n25WMStG0pHLMk5JZMS0owiNp0aRVMXDqx4SIGT1HzDtU-ytbck"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.nbcnews.com/news/us-news/trump-picks-energy-department-opponent-rick-perry-energy-secretary-sources-n695241</id>
-  <updated>1970-01-18T03:37:11.939Z</updated>
+  <updated>1970-01-18T03:40:51.791Z</updated>
   <title type="html">Trump Picks Energy Department Opponent Rick Perry for Energy ...</title>
   <link href="http://www.nbcnews.com/news/us-news/trump-picks-energy-department-opponent-rick-perry-energy-secretary-sources-n695241" title="www.nbcnews.com"/>
   <summary type="html">Rick Perry — who famously once forgot that he wanted to abolish the Energy &lt;br&gt;
@@ -181,20 +112,80 @@ Department — to be secretary of energy, two &lt;b&gt;sources familiar with&lt;
     <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
     <cse:Attribute name="dc.date.issued" value="2016-12-13"/>
     <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
+    <cse:Attribute name="tp:preferredruntimes" value="Universal,HTML5,Flash"/>
+    <cse:Attribute name="tp:preferredformats" value="FLV,F4M,MPEG4,M3U"/>
+    <cse:Attribute name="tp:initialize" value="false"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://media1.s-nbcnews.com/j/newscms/2016_50/1830131/161213-rick-perry-12a_94351e7efaeaabcbb4287cb7328539e7.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="src" value="http://media3.s-nbcnews.com/j/newscms/2014_02/104511/140108-kristen-welker-mug-2038p_dc2feb47688c2825cb38648b031491ff.nbcnews-fp-320-320.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_sFYcOgo3gHaYod8kX5jc8C00tbigUMOn5D-qC1er3iEIjm7q9tc-4E"/>
+    <cse:Attribute name="width" value="225"/>
+    <cse:Attribute name="height" value="225"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRulov8oIsL4JiNs8FsMlc7gjMeC7dl5KEnlmCF41j5mMdVbJAgf0nr6bBv"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/</id>
+  <updated>1970-01-18T03:40:51.791Z</updated>
+  <title type="html">Sykes, Pryor among top contenders for Supreme Court vacancy ...</title>
+  <link href="http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/" title="www.cnn.com"/>
+  <summary type="html">Judges Diane Sykes and William Pryor are among the top contenders, according &lt;br&gt;
+to multiple &lt;b&gt;sources familiar with&lt;/b&gt; the process. CNN&amp;#39;s Donald Trump Supreme&amp;nbsp;...</summary>
+  <cse:cacheId>_P2R-iMH7-QJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2016-12-15T19:43:20Z"/>
+    <cse:Attribute name="pubdate" value="2016-12-15T19:43:20Z"/>
+    <cse:Attribute name="lastmod" value="2016-12-15T19:43:20Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/index.html"/>
+    <cse:Attribute name="author" value="Pamela Brown and Eugene Scott, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/EugeneScott202"/>
+    <cse:Attribute name="og:title" value="Sykes, Pryor among top contenders for SCOTUS vacancy"/>
+    <cse:Attribute name="og:description" value="It will be some time before Donald Trump announces a nominee to fill the vacancy left by Antonin Scalia, according to transition insiders."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,art-vid"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2016-12-15T19:43:20Z"/>
+    <cse:Attribute name="datepublished" value="2016-12-15T19:43:20Z"/>
+    <cse:Attribute name="datemodified" value="2016-12-15T19:43:20Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/index.html"/>
+    <cse:Attribute name="author" value="Pamela Brown and Eugene Scott, CNN"/>
+    <cse:Attribute name="headline" value="Sykes, Pryor among top contenders for Supreme Court vacancy - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="It will be some time before Donald Trump announces a nominee to fill the vacancy left by Antonin Scalia, according to transition insiders."/>
+    <cse:Attribute name="keywords" value="politics, Sykes, Pryor among top contenders for Supreme Court vacancy - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Sykes, Pryor among top contenders for Supreme Court vacancy -- sources"/>
+    <cse:Attribute name="articlebody" value="Story highlightsDiane Sykes and William Pryor are among the top contendersTrump is considering a long list looking to replace the late Antonin ScaliaWashington (CNN)It will be some time before..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2016/12/10/politics/rex-tillerson-secretary-of-state/</id>
-  <updated>1970-01-18T03:37:11.939Z</updated>
+  <updated>1970-01-18T03:40:51.791Z</updated>
   <title type="html">Rex Tillerson leading candidate for secretary of state - CNNPolitics ...</title>
   <link href="http://www.cnn.com/2016/12/10/politics/rex-tillerson-secretary-of-state/" title="www.cnn.com"/>
   <summary type="html">ExxonMobil Chairman and CEO Rex Tillerson is the leading candidate for &lt;br&gt;
@@ -251,39 +242,48 @@ Secretary of State in a Donald Trump administration, multiple &lt;b&gt;sources f
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12</id>
-  <updated>1970-01-18T03:37:11.939Z</updated>
-  <title type="html">Bank of Japan to extend lending facilities expiring in March: sources ...</title>
-  <link href="http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12" title="www.businessinsider.com"/>
-  <summary type="html">The central bank&amp;#39;s nine-member board will make the decision either at its rate &lt;br&gt;
-review next week or a subsequent policy meeting in January, &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;with&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>MWO0z9NZtIoJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities- expiring-in-march-sources-2016-12</cse:formattedUrl>
+  <id>http://www.businessinsider.com/snapchat-has-had-deal-talks-with-lily-robotics-narrative-2016-12</id>
+  <updated>1970-01-18T03:40:51.791Z</updated>
+  <title type="html">Snapchat has had deal talks with Lily Robotics, Narrative - Business ...</title>
+  <link href="http://www.businessinsider.com/snapchat-has-had-deal-talks-with-lily-robotics-narrative-2016-12" title="www.businessinsider.com"/>
+  <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; Snap&amp;#39;s ambitions, it&amp;#39;s trying to find different &lt;br&gt;
+ways for consumers to take selfies that don&amp;#39;t require someone holding a camera &lt;br&gt;
+in&amp;nbsp;...</summary>
+  <cse:cacheId>WEiuN8mqUIsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/snapchat-has-had-deal-talks-with-lily-robotics- narrative-2016-12</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2016-12-13"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-13"/>
-    <cse:Attribute name="news_keywords" value="Reuters"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters"/>
-    <cse:Attribute name="sailthru.description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
-    <cse:Attribute name="title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business,clusterstock"/>
-    <cse:Attribute name="sailthru.title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="og:title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="og:description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
+    <cse:Attribute name="date" value="2016-12-16"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-16"/>
+    <cse:Attribute name="news_keywords" value="Snapchat, Spectacles, Snap Inc., Mergers And Acquisitions, Drones, Lily Robotics, Wearables, Biz Carson"/>
+    <cse:Attribute name="sailthru.tags" value="Snapchat, Spectacles, Snap Inc., Mergers And Acquisitions, Drones, Lily Robotics, Wearables, Biz Carson"/>
+    <cse:Attribute name="sailthru.description" value="Snapchat has met with companies like Lily Robotics and Narrative to solve the selfie problem."/>
+    <cse:Attribute name="title" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
+    <cse:Attribute name="sailthru.verticals" value="sai,advertising,clusterstock"/>
+    <cse:Attribute name="sailthru.title" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
+    <cse:Attribute name="tbi-image" value="http://static1.businessinsider.com/image/581b64f3362ca41d008b6b75/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static1.businessinsider.com/image/581b64f3362ca41d008b6b75/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static3.businessinsider.com/image/581b64f3362ca41d008b6b75-50-50/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
+    <cse:Attribute name="sailthru.author" value="Biz Carson"/>
+    <cse:Attribute name="og:title" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
+    <cse:Attribute name="og:description" value="Snapchat has met with companies like Lily Robotics and Narrative to solve the selfie problem."/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/snapchat-has-had-deal-talks-with-lily-robotics-narrative-2016-12"/>
     <cse:Attribute name="og:site_name" value="Business Insider"/>
     <cse:Attribute name="fb:app_id" value="155043519637"/>
     <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-bank-of-japan-to-extend-lending-facilities-expiring-in-march-sources-2016-12"/>
-    <cse:Attribute name="twitter:title" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="twitter:description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
+    <cse:Attribute name="author" value="Biz Carson"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/snapchat-has-had-deal-talks-with-lily-robotics-narrative-2016-12"/>
+    <cse:Attribute name="twitter:title" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
+    <cse:Attribute name="twitter:description" value="Snapchat has met with companies like Lily Robotics and Narrative to solve the selfie problem."/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://static6.businessinsider.com/image/5854508ca1a45e61008b6836-506-253/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
+    <cse:Attribute name="twitter:creator" value="bizcarson"/>
+    <cse:Attribute name="twitter:site" value="sai"/>
+    <cse:Attribute name="article:author" value="http://www.businessinsider.com/author/biz-carson"/>
+    <cse:Attribute name="og:image" value="http://static6.businessinsider.com/image/5854508ca1a45e61008b6836-1190-625/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
     <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="tbi-vertical" value="sai"/>
     <cse:Attribute name="viewport" value="width=1024"/>
     <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
     <cse:Attribute name="application-name" value="Business Insider"/>
@@ -293,81 +293,77 @@ review next week or a subsequent policy meeting in January, &lt;b&gt;sources fam
     <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
    </cse:DataObject>
    <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="url" value="Bank of Japan to extend lending facilities expiring in March: sources"/>
-    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
-    <cse:Attribute name="description" value="TOKYO (Reuters) - The Bank of Japan is expected..."/>
+    <cse:Attribute name="name" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
+    <cse:Attribute name="url" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
+    <cse:Attribute name="image" value="http://static5.businessinsider.com/image/581b64f3362ca41d008b6b75-100-100/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
+    <cse:Attribute name="description" value="Snapchat is on the hunt for a wide..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/56ba4d1c6e97c61f048b611b-2400/ap187914845154-1.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM2EFoUrVHYHrw73mIwCGnLQP2zQ5BvGj9QoWBxfij89vlMCh3O4Qpr20n"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R</id>
-  <updated>1970-01-18T03:37:11.939Z</updated>
-  <title type="html">Top Lyondell refining executives leaving before refinery sale: sources</title>
-  <link href="http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R" title="www.reuters.com"/>
-  <summary type="html">Two top U.S. refining executives are leaving LyondellBasell Industries as the &lt;br&gt;
-company nears an agreement to sell its Houston refinery, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-the&amp;nbsp;...</summary>
-  <cse:cacheId>tLfYabqWDEoJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-refinery-executives-lyondell-houston- idUSKBN14302R</cse:formattedUrl>
+  <id>http://www.politico.com/blogs/donald-trump-administration/2016/12/donald-trump-jr-interior-secretary-232640</id>
+  <updated>1970-01-18T03:40:51.791Z</updated>
+  <title type="html">Donald Trump Jr. played role in picking interior secretary - POLITICO</title>
+  <link href="http://www.politico.com/blogs/donald-trump-administration/2016/12/donald-trump-jr-interior-secretary-232640" title="www.politico.com"/>
+  <summary type="html">Donald Trump, Jr., the president elect&amp;#39;s eldest son, was involved with the &lt;br&gt;
+interview process for interior secretary, according to &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>IP3hGfk5uGAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/.../donald-trump-jr-interior-secretary-232640</cse:formattedUrl>
   <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jake Sherman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
+    <cse:Attribute name="url_text" value="Jake Sherman"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Matthew Nussbaum"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/matthew-nussbaum"/>
+    <cse:Attribute name="url_text" value="Matthew Nussbaum"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jake Sherman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
+    <cse:Attribute name="url_text" value="Jake Sherman"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Matthew Nussbaum"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/matthew-nussbaum"/>
+    <cse:Attribute name="url_text" value="Matthew Nussbaum"/>
+   </cse:DataObject>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="everything;Deals;ShellEnergy;AllianzInvestments;Allianz;verizonmm;marine;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Top+Lyondell+refining+executives+leaving+before+refinery+sale%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United States;Emmet Kevin Brown;Michael Waldron;Samuel L. Smolik;US;REFINERY;EXECUTIVES;LYONDELL;HOUSTON;Energy Markets;Crude Oil;Energy (Legacy);Heating Oil / Gasoil;Saudi Arabia;Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Middle East;Deals;Commodity Chemicals (TRBC);Canada;United States;Gasoline;Company News;Gulf Coast (PADD III);North America (Energy);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Production Status Changes;Commodities News (3rd Party)"/>
-    <cse:Attribute name="revision_date" value="Wed Dec 14 00:46:38 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-14T00:46:38+0000"/>
-    <cse:Attribute name="sailthru.title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R"/>
+    <cse:Attribute name="og:title" value="Donald Trump Jr. played role in picking interior secretary"/>
+    <cse:Attribute name="og:description" value="Don Jr. is known as an avid outdoorsman, which is why he might have an interest in the next head of the Interior Department."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Two top U.S. refining executives are leaving LyondellBasell Industries as the company nears an agreement to sell its Houston refinery, sources familiar with the matter said on Tuesday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-14T00:46:38+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-14T00:46:38+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United States,Emmet Kevin Brown,Michael Waldron,Samuel L. Smolik,US,REFINERY,EXECUTIVES,LYONDELL,HOUSTON,Energy Markets,Crude Oil,Energy (Legacy),Heating Oil / Gasoil,Saudi Arabia,Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Middle East,Deals,Commodity Chemicals (TRBC),Canada,United States,Gasoline,Company News,Gulf Coast (PADD III),North America (Energy),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,Commodities News (3rd Party)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
-    <cse:Attribute name="twitter:description" value="Two top U.S. refining executives are leaving LyondellBasell Industries as the company nears an agreement to sell its Houston refinery, sources familiar with the matter said on Tuesday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2hm8ZMu"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@politico"/>
+    <cse:Attribute name="twitter:creator" value="@politico"/>
+    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
+    <cse:Attribute name="og:site_name" value="POLITICO"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/c4/36/d7592a8b41daaefd1cd07fb2881a/091616-donald-trump-jr-ap-629.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="http://static.politico.com/c4/36/d7592a8b41daaefd1cd07fb2881a/091616-donald-trump-jr-ap-629.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="width" value="305"/>
+    <cse:Attribute name="height" value="165"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLTklygyRNVz3LbhoS5msxlxvsSaAaEOaUyRm0VI5XNPAsOs2HO2QDFpA"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-capsugel-m-a-lonza-idUSKBN14015R</id>
-  <updated>1970-01-18T03:37:11.939Z</updated>
+  <updated>1970-01-18T03:40:51.791Z</updated>
   <title type="html">Exclusive: Lonza says in talks to buy Capsugel; deal could top $5 ...</title>
   <link href="http://www.reuters.com/article/us-capsugel-m-a-lonza-idUSKBN14015R" title="www.reuters.com"/>
   <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the talks told Reuters that a potential transaction would be &lt;br&gt;
@@ -420,135 +416,18 @@ valued at more than $5 billion. Capsugel &amp;quot;would fit perfectly with Lonz
     <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161212&amp;t=2&amp;i=1165098309&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBB01J"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="284"/>
-    <cse:Attribute name="height" value="178"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.politico.com/blogs/donald-trump-administration/2016/12/donald-trump-jr-interior-secretary-232640</id>
-  <updated>1970-01-18T03:37:11.939Z</updated>
-  <title type="html">Donald Trump Jr. played role in picking interior secretary - POLITICO</title>
-  <link href="http://www.politico.com/blogs/donald-trump-administration/2016/12/donald-trump-jr-interior-secretary-232640" title="www.politico.com"/>
-  <summary type="html">Donald Trump, Jr., the president elect&amp;#39;s eldest son, was involved with the &lt;br&gt;
-interview process for interior secretary, according to &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>IP3hGfk5uGAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.politico.com/.../donald-trump-jr-interior-secretary-232640</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Jake Sherman"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
-    <cse:Attribute name="url_text" value="Jake Sherman"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Matthew Nussbaum"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/matthew-nussbaum"/>
-    <cse:Attribute name="url_text" value="Matthew Nussbaum"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Jake Sherman"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
-    <cse:Attribute name="url_text" value="Jake Sherman"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Matthew Nussbaum"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/matthew-nussbaum"/>
-    <cse:Attribute name="url_text" value="Matthew Nussbaum"/>
-   </cse:DataObject>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="og:title" value="Donald Trump Jr. played role in picking interior secretary"/>
-    <cse:Attribute name="og:description" value="Don Jr. is known as an avid outdoorsman, which is why he might have an interest in the next head of the Interior Department."/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://politi.co/2hm8ZMu"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@politico"/>
-    <cse:Attribute name="twitter:creator" value="@politico"/>
-    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
-    <cse:Attribute name="og:site_name" value="POLITICO"/>
-    <cse:Attribute name="og:image" value="http://static.politico.com/c4/36/d7592a8b41daaefd1cd07fb2881a/091616-donald-trump-jr-ap-629.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static.politico.com/c4/36/d7592a8b41daaefd1cd07fb2881a/091616-donald-trump-jr-ap-629.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="305"/>
-    <cse:Attribute name="height" value="165"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLTklygyRNVz3LbhoS5msxlxvsSaAaEOaUyRm0VI5XNPAsOs2HO2QDFpA"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9</id>
-  <updated>1970-01-18T03:37:11.939Z</updated>
-  <title type="html">Trump gets one presidential intelligence briefing a week: sources ...</title>
-  <link href="http://www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9" title="www.reuters.com"/>
-  <summary type="html">Indiana Governor Mike Pence, Trump&amp;#39;s vice president-elect, has been receiving &lt;br&gt;
-his own PDB at least six days a week, the &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>zX-eEuwlq9sJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;politicsNews;google;everything;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;audib2b;credit-rss;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;BigStory12;BigStory13;GCA-live-feed;GCA-us-election-2016"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Trump+gets+one+presidential+intelligence+briefing+a+week%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Mark Hosenball"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
-    <cse:Attribute name="author" value="Mark Hosenball"/>
-    <cse:Attribute name="news_keywords" value="France;Russia;United States;France;Iran;Russia;United States;Adam Schiff;Barack Obama;David Priess;Donald Trump;George W. Bush;Jimmy Carter;Mike Pence;Richard Nixon;Ronald Reagan;Adam Schiff;Barack Obama;David Priess;Donald Trump;George W. Bush;Jimmy Carter;Mike Pence;Richard Nixon;Ronald Reagan;US;USA;TRUMP;BRIEFINGS;Elections / Voting;Russia;Iron Ore;Western Europe;Iran;Military Conflicts;Diplomacy / Foreign Policy;North Atlantic Treaty Organization;Government / Politics;Central / Eastern Europe;East European Countries;Europe;Middle East;US Government News;International / National Security;Conflicts / War / Peace;Emerging Market Countries;Civil Unrest;Presidential Elections;United States;Insurgencies"/>
-    <cse:Attribute name="revision_date" value="Fri Dec 09 14:03:20 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Mark Hosenball"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-09T14:03:20+0000"/>
-    <cse:Attribute name="sailthru.title" value="Trump gets one presidential intelligence briefing a week: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Trump gets one presidential intelligence briefing a week: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-briefings-idUSKBN13X2M9"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="President-elect Donald Trump is receiving an average of one presidential intelligence briefing a week, according to U.S. officials familiar with the matter, far fewer than most of his recent predecessors."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-09T14:03:20+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-09T14:03:20+0000"/>
-    <cse:Attribute name="og:article:section" value="Politics"/>
-    <cse:Attribute name="og:article:author" value="Mark Hosenball"/>
-    <cse:Attribute name="og:article:tag" value="France,Russia,United States,France,Iran,Russia,United States,Adam Schiff,Barack Obama,David Priess,Donald Trump,George W. Bush,Jimmy Carter,Mike Pence,Richard Nixon,Ronald Reagan,Adam Schiff,Barack Obama,David Priess,Donald Trump,George W. Bush,Jimmy Carter,Mike Pence,Richard Nixon,Ronald Reagan,US,USA,TRUMP,BRIEFINGS,Elections / Voting,Russia,Iron Ore,Western Europe,Iran,Military Conflicts,Diplomacy / Foreign Policy,North Atlantic Treaty Organization,Government / Politics,Central / Eastern Europe,East European Countries,Europe,Middle East,US Government News,International / National Security,Conflicts / War / Peace,Emerging Market Countries,Civil Unrest,Presidential Elections,United States,Insurgencies"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Trump gets one presidential intelligence briefing a week: sources"/>
-    <cse:Attribute name="twitter:description" value="President-elect Donald Trump is receiving an average of one presidential intelligence briefing a week, according to U.S. officials familiar with the matter, far fewer than most of his recent predecessors."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
-    <cse:Attribute name="wt.cg_n" value="Politics"/>
-    <cse:Attribute name="wt.cg_s" value="Politics"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161209&amp;t=2&amp;i=1164761165&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECB71AK"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9LNfUJMeaxh_oPOR46CYAi2kSu_KIjPJ_1j7Nm7wEyxdPr2l2Xj_aQ9Kl"/>
+    <cse:Attribute name="width" value="266"/>
+    <cse:Attribute name="height" value="189"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLQcaujwTpVbjLoKeYyYFBW73xKQmbGin-z193mwa3ldOjtKc_7IBMoSU"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2016/12/14/politics/ivanka-trump-white-house-office-of-the-first-family/index.html</id>
-  <updated>1970-01-18T03:37:11.939Z</updated>
+  <updated>1970-01-18T03:40:51.791Z</updated>
   <title type="html">Sources: Ivanka Trump to have East Wing office - CNNPolitics.com</title>
   <link href="http://www.cnn.com/2016/12/14/politics/ivanka-trump-white-house-office-of-the-first-family/index.html" title="www.cnn.com"/>
   <summary type="html">... already planning for an &amp;quot;Office of the First Family,&amp;quot; in the East Wing where the &lt;br&gt;
@@ -557,56 +436,131 @@ current office of the first lady is located, &lt;b&gt;sources familiar with&lt;/
   <cse:formattedUrl type="html">www.cnn.com/2016/12/14/politics/ivanka-trump.../index.html</cse:formattedUrl>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.politico.com/playbook</id>
-  <updated>1970-01-18T03:37:11.939Z</updated>
-  <title type="html">Playbook - POLITICO</title>
-  <link href="http://www.politico.com/playbook" title="www.politico.com"/>
-  <summary type="html">DONALD TRUMP JR., the president elect&amp;#39;s eldest son, was involved with the &lt;br&gt;
-interview process for Interior secretary, according to &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>wSxISXL4-rYJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.politico.com/playbook</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-altice-cable-ipo-banks-idUSKBN143125</id>
+  <updated>1970-01-18T03:40:51.791Z</updated>
+  <title type="html">JPMorgan, Goldman Sachs expected to lead Altice USA listing ...</title>
+  <link href="http://www.reuters.com/article/us-altice-cable-ipo-banks-idUSKBN143125" title="www.reuters.com"/>
+  <summary type="html">N) and Goldman Sachs (GS.N) are in pole position to be mandated to lead the &lt;br&gt;
+initial public offering (IPO) of shares in Altice USA, three &lt;b&gt;sources familiar with&lt;/b&gt; the&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>uie4zBcHUgAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-altice-cable-ipo-banks-idUSKBN143125</cse:formattedUrl>
   <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Jack Shafer"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/jack-shafer"/>
-    <cse:Attribute name="url_text" value="Jack Shafer"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Jake Sherman"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
-    <cse:Attribute name="url_text" value="Jake Sherman"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Anna Palmer"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/anna-palmer"/>
-    <cse:Attribute name="url_text" value="Anna Palmer"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Daniel Lippman"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/daniel-lippman"/>
-    <cse:Attribute name="url_text" value="Daniel Lippman"/>
-   </cse:DataObject>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="og:title" value="Playbook"/>
-    <cse:Attribute name="og:description" value="POLITICO&apos;s must-read briefing on what&apos;s driving the day in Washington"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="og:url" value="http://politi.co/1Q9MG9v"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@politico"/>
-    <cse:Attribute name="twitter:creator" value="@politico"/>
-    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
-    <cse:Attribute name="og:site_name" value="POLITICO"/>
-    <cse:Attribute name="title" value="NEWS: Don Trump Jr. involved in INTERIOR search -- WAYNE BERMAN up for TRADE REP -- TRUMP’S TECH SUMMIT -- SPOTTED AT DAVID RUBENSTEIN’S PARTY -- B’DAY: Kirsten Powers"/>
-    <cse:Attribute name="og:image" value="http://static.politico.com/54/47/0e7e0b7a4d6b961f4b9f5cc85229/politico.jpg"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;newsproHome;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="JPMorgan%2C+Goldman+Sachs+expected+to+lead+Altice+USA+listing%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="US;ALTICE;CABLE;IPO;BANKS;Investment Banking and Investment Services (TRBC);Banks (TRBC);Security Listings / Delistings;Funds;Company News;Western Europe;Initial Public Offerings;New Issues;Equity Financing;Corporate Events;Integrated Telecommunications Services (TRBC);Investment Banking and Brokerage Services (TRBC);Europe;Technology / Media / Telecoms;Broadcasting (TRBC);Banking Services (Legacy);Netherlands;United States"/>
+    <cse:Attribute name="revision_date" value="Wed Dec 14 10:26:48 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-14T10:26:48+0000"/>
+    <cse:Attribute name="sailthru.title" value="JPMorgan, Goldman Sachs expected to lead Altice USA listing: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="JPMorgan, Goldman Sachs expected to lead Altice USA listing: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-altice-cable-ipo-banks-idUSKBN143125"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Investment banks JPMorgan (JPM.N) and Goldman Sachs (GS.N) are in pole position to be mandated to lead the initial public offering (IPO) of shares in Altice USA, three sources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-12-14T10:26:48+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-12-14T10:26:48+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="US,ALTICE,CABLE,IPO,BANKS,Investment Banking and Investment Services (TRBC),Banks (TRBC),Security Listings / Delistings,Funds,Company News,Western Europe,Initial Public Offerings,New Issues,Equity Financing,Corporate Events,Integrated Telecommunications Services (TRBC),Investment Banking and Brokerage Services (TRBC),Europe,Technology / Media / Telecoms,Broadcasting (TRBC),Banking Services (Legacy),Netherlands,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="JPMorgan, Goldman Sachs expected to lead Altice USA listing: sources"/>
+    <cse:Attribute name="twitter:description" value="Investment banks JPMorgan (JPM.N) and Goldman Sachs (GS.N) are in pole position to be mandated to lead the initial public offering (IPO) of shares in Altice USA, three sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static.politico.com/54/47/0e7e0b7a4d6b961f4b9f5cc85229/politico.jpg"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2FWZ-Skm7vhUsEpTplMw1N13BMcb9lweK3DGijtNaUgxRpO1fOovs6Y"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/schoeller-allibert-ma-idUSL5N1E93AO</id>
+  <updated>1970-01-18T03:40:51.791Z</updated>
+  <title type="html">UPDATE 1-Dutch packaging maker Schoeller Allibert explores sale ...</title>
+  <link href="http://www.reuters.com/article/schoeller-allibert-ma-idUSL5N1E93AO" title="www.reuters.com"/>
+  <summary type="html">... as leading bidder, while the interest of private equity groups such as Advent &lt;br&gt;
+and a consortium of PAI and Bain has cooled, &lt;b&gt;sources familiar with&lt;/b&gt; that deal said.</summary>
+  <cse:cacheId>OGvewFqEEDMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/schoeller-allibert-ma-idUSL5N1E93AO</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;bondsNews;marketsNews;fundsFundsNews;etfNews;privateEquity;mnaNewsFinancialServicesAndRealEstate;mnaNewsIndustryMaterialsAndUtilities;privateEquityFinancialServicesAndRealEstate;privateEquityIndustryMaterialsAndUtilities;americasMergersNews;euMergersNews;everything;Deals;AllianzInvestments;Allianz;audib2b;cfaglobal;aa48hours;shipping;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-Dutch+packaging+maker+Schoeller+Allibert%7F+explores+sale+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="SCHOELLER ALLIBERT;MandA/ (UPDATE 1);Investment Banking and Investment Services (TRBC);Germany;Mergers / Acquisitions / Takeovers;Western Europe;Credit and Corporate Debt;Central / Eastern Europe;Corporate Debt;Divestitures / Spin;Offs;Industry News (3rd Party);Government Borrowing Requirement;Paper Packaging (TRBC);Debt / Fixed Income Markets;Non;Paper Containers and Packaging (TRBC);Deals;United Kingdom;United States;Basic Materials (TRBC);Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);Corporate Events;Euro Zone;Banking and Investment Services (TRBC);Europe;Applied Resources (TRBC);Containers and Packaging (TRBC);Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Netherlands;Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Wed Dec 14 12:20:17 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-14T12:20:17+0000"/>
+    <cse:Attribute name="sailthru.title" value="UPDATE 1-Dutch packaging maker Schoeller Allibert  explores sale - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="UPDATE 1-Dutch packaging maker Schoeller Allibert  explores sale - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/schoeller-allibert-ma-idUSL5N1E93AO"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="* Citi hired to find buyer for Schoeller Allibert - sources* Could be valued at 400-500 mln eur - sources* Schoeller Allibert owned by JP Mor"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-12-14T12:20:17+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-12-14T12:20:17+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="SCHOELLER ALLIBERT,MandA/ (UPDATE 1),Investment Banking and Investment Services (TRBC),Germany,Mergers / Acquisitions / Takeovers,Western Europe,Credit and Corporate Debt,Central / Eastern Europe,Corporate Debt,Divestitures / Spin,Offs,Industry News (3rd Party),Government Borrowing Requirement,Paper Packaging (TRBC),Debt / Fixed Income Markets,Non,Paper Containers and Packaging (TRBC),Deals,United Kingdom,United States,Basic Materials (TRBC),Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),Corporate Events,Euro Zone,Banking and Investment Services (TRBC),Europe,Applied Resources (TRBC),Containers and Packaging (TRBC),Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Netherlands,Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="UPDATE 1-Dutch packaging maker Schoeller Allibert  explores sale - sources"/>
+    <cse:Attribute name="twitter:description" value="* Citi hired to find buyer for Schoeller Allibert - sources* Could be valued at 400-500 mln eur - sources* Schoeller Allibert owned by JP Mor"/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
