@@ -1,289 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "sources familiar with"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "a source close to"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="a source close to"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T03:40:51.791Z</updated>
+ <updated>1970-01-18T03:42:16.123Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6030" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6030" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>6030</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="16200" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="16200" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>16200</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.277528</cse:searchTime>
-  <cse:formattedSearchTime>0.28</cse:formattedSearchTime>
-  <cse:totalResults>6030</cse:totalResults>
-  <cse:formattedTotalResults>6,030</cse:formattedTotalResults>
+  <cse:searchTime>0.438287</cse:searchTime>
+  <cse:formattedSearchTime>0.44</cse:formattedSearchTime>
+  <cse:totalResults>16200</cse:totalResults>
+  <cse:formattedTotalResults>16,200</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R</id>
-  <updated>1970-01-18T03:40:51.791Z</updated>
-  <title type="html">Top Lyondell refining executives leaving before refinery sale: sources</title>
-  <link href="http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R" title="www.reuters.com"/>
-  <summary type="html">Two top U.S. refining executives are leaving LyondellBasell Industries as the &lt;br&gt;
-company nears an agreement to sell its Houston refinery, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-the&amp;nbsp;...</summary>
-  <cse:cacheId>tLfYabqWDEoJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-refinery-executives-lyondell-houston- idUSKBN14302R</cse:formattedUrl>
+  <id>https://techcrunch.com/page/2/</id>
+  <updated>1970-01-18T03:42:16.123Z</updated>
+  <title type="html">TechCrunch - The latest technology news and information on startups</title>
+  <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
+  <summary type="html">Hotel search site Trivago went public on Friday, after separating from Expedia. &lt;br&gt;
+The company priced its shares at $11 and closed the day at $11.85, up 7.73&amp;nbsp;...</summary>
+  <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="everything;Deals;ShellEnergy;AllianzInvestments;Allianz;verizonmm;marine;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Top+Lyondell+refining+executives+leaving+before+refinery+sale%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United States;Emmet Kevin Brown;Michael Waldron;Samuel L. Smolik;US;REFINERY;EXECUTIVES;LYONDELL;HOUSTON;Energy Markets;Crude Oil;Energy (Legacy);Heating Oil / Gasoil;Saudi Arabia;Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Middle East;Deals;Commodity Chemicals (TRBC);Canada;United States;Gasoline;Company News;Gulf Coast (PADD III);North America (Energy);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Production Status Changes;Commodities News (3rd Party)"/>
-    <cse:Attribute name="revision_date" value="Wed Dec 14 00:46:38 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-14T00:46:38+0000"/>
-    <cse:Attribute name="sailthru.title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-refinery-executives-lyondell-houston-idUSKBN14302R"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Two top U.S. refining executives are leaving LyondellBasell Industries as the company nears an agreement to sell its Houston refinery, sources familiar with the matter said on Tuesday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-14T00:46:38+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-14T00:46:38+0000"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United States,Emmet Kevin Brown,Michael Waldron,Samuel L. Smolik,US,REFINERY,EXECUTIVES,LYONDELL,HOUSTON,Energy Markets,Crude Oil,Energy (Legacy),Heating Oil / Gasoil,Saudi Arabia,Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Middle East,Deals,Commodity Chemicals (TRBC),Canada,United States,Gasoline,Company News,Gulf Coast (PADD III),North America (Energy),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,Commodities News (3rd Party)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Top Lyondell refining executives leaving before refinery sale: sources"/>
-    <cse:Attribute name="twitter:description" value="Two top U.S. refining executives are leaving LyondellBasell Industries as the company nears an agreement to sell its Houston refinery, sources familiar with the matter said on Tuesday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="p:domain_verify" value="6189ff68ce30e30f12b40b3b40873027"/>
+    <cse:Attribute name="handheldfriendly" value="True"/>
+    <cse:Attribute name="mobileoptimized" value="320"/>
+    <cse:Attribute name="viewport" value="initial-scale=1.0,width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="TechCrunch"/>
+    <cse:Attribute name="msvalidate.01" value="5ABD8A078F3356F3A6A8C8643C31FB8F"/>
+    <cse:Attribute name="fb:app_id" value="187288694643718"/>
+    <cse:Attribute name="fb:admins" value="543710097,771265067,1661021707,1550970059,663677613,1178144075,726995222,506404657,4700188"/>
+    <cse:Attribute name="wp-parsely_version" value="1.9"/>
+    <cse:Attribute name="og:site_name" value="TechCrunch"/>
+    <cse:Attribute name="og:site" value="social.techcrunch.com"/>
+    <cse:Attribute name="og:title" value="TechCrunch|2"/>
+    <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2016/12/mo121616_hires-3.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
+    <cse:Attribute name="og:type" value="website"/>
+    <cse:Attribute name="author" value="Katie Roof"/>
+    <cse:Attribute name="title" value="TechCrunch|2"/>
+    <cse:Attribute name="object_type" value="post"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2016/12/16/trivago-closes-up-8-in-public-debut/"/>
+    <cse:Attribute name="timestamp" value="2016-12-16 14:01:32"/>
+    <cse:Attribute name="content" value="Hotel search site Trivago went public on Friday, after separating from Expedia. The company priced its shares at $11 and closed the day at $11.85, up 7.73 percent. But this was after pricing at $11 per share, below the $13 to $15 range that had been forecast. The company raised $287 million in the offering and plans to use the capital to focus on growth and potentially make strategic acquisitions. Trivago saw substantial revenue growth, bringing in $425.6 million in the nine months ending in September 2016. This compares to the $324.6 million seen in the full previous year. Their 2015 net loss stood at $42.8 million. “We have grown very massively in the last year,” CEO Rolf Schromgens tells TechCrunch. In particular, he’s proud that they’ve “been able to grow in the most competitive market in the world, which is the U.S.” Schromgens says about a quarter of their business is now in America. He explained that this focus on the U.S. market is part of the reason they chose…"/>
+    <cse:Attribute name="excerpt" value="Hotel search site Trivago went public on Friday, after separating from Expedia. The company priced its shares at $11 and closed the day at $11.85, up 7.73 percent. But this was after pricing at $11 per share, below the $13 to $15 range that had been forecast. The company raised $287 million in the offering and plans to use the capital to focus on growth and potentially make strategic…"/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2016/12/mo121616_hires-3.jpg?w=150"/>
+    <cse:Attribute name="category" value="eCommerce"/>
+    <cse:Attribute name="tag" value="Trivago"/>
+    <cse:Attribute name="application-name" value="TechCrunch"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=https://techcrunch.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=16"/>
+    <cse:Attribute name="st:robots" value="follow, index"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/12/mo121616_hires-3.jpg?w=764&amp;h=400&amp;crop=1"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.nbcnews.com/news/us-news/trump-picks-energy-department-opponent-rick-perry-energy-secretary-sources-n695241</id>
-  <updated>1970-01-18T03:40:51.791Z</updated>
-  <title type="html">Trump Picks Energy Department Opponent Rick Perry for Energy ...</title>
-  <link href="http://www.nbcnews.com/news/us-news/trump-picks-energy-department-opponent-rick-perry-energy-secretary-sources-n695241" title="www.nbcnews.com"/>
-  <summary type="html">Rick Perry — who famously once forgot that he wanted to abolish the Energy &lt;br&gt;
-Department — to be secretary of energy, two &lt;b&gt;sources familiar with&lt;/b&gt; the transition&amp;nbsp;...</summary>
-  <cse:cacheId>jRff8Z9Vl5kJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.nbcnews.com/.../trump-picks-energy-department-opponent-rick-perry- energy-secretary-sources-n695241</cse:formattedUrl>
+  <id>http://www.politico.com/story/2016/12/donald-trump-twitter-emoji-crooked-hillary-232647</id>
+  <updated>1970-01-18T03:42:16.123Z</updated>
+  <title type="html">Source: Twitter cut out of Trump tech meeting over failed emoji deal ...</title>
+  <link href="http://www.politico.com/story/2016/12/donald-trump-twitter-emoji-crooked-hillary-232647" title="www.politico.com"/>
+  <summary type="html">... Trump in retribution for refusing during the campaign to allow an emoji version &lt;br&gt;
+of the hashtag #CrookedHillary, according to &lt;b&gt;a source close to&lt;/b&gt; the situation.</summary>
+  <cse:cacheId>lVJQtynIXhkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/.../donald-trump-twitter-emoji-crooked-hillary-232647</cse:formattedUrl>
   <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jacob Soll"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jacob-soll"/>
+    <cse:Attribute name="url_text" value="Jacob Soll"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Glenn Thrush"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/glenn-thrush"/>
+    <cse:Attribute name="url_text" value="Glenn Thrush"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Nancy Scola"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/nancy-scola"/>
+    <cse:Attribute name="url_text" value="Nancy Scola"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Louis Nelson"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/louis-nelson"/>
+    <cse:Attribute name="url_text" value="Louis Nelson"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Nancy Scola"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/nancy-scola"/>
+    <cse:Attribute name="url_text" value="Nancy Scola"/>
+   </cse:DataObject>
    <cse:DataObject type="metatags">
+    <cse:Attribute name="og:title" value="Source: Twitter cut out of Trump tech meeting over failed emoji deal"/>
+    <cse:Attribute name="og:description" value="Twitter is told it was &amp;quot;bounced&amp;quot; from a meeting between tech executives and Trump."/>
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
-    <cse:Attribute name="og:site_name" value="NBC News"/>
-    <cse:Attribute name="og:description" value="The former Texas governor endorsed Ted Cruz after he dropped out of the presidential race and called Trump a &apos;barking carnival act.&apos;"/>
-    <cse:Attribute name="og:title" value="Rick Perry is Trump&apos;s pick to run Energy Department he wanted to abolish"/>
-    <cse:Attribute name="og:url" value="http://www.nbcnews.com/news/us-news/trump-picks-energy-department-opponent-rick-perry-energy-secretary-sources-n695241"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://media1.s-nbcnews.com/j/newscms/2016_50/1830131/161213-rick-perry-12a_94351e7efaeaabcbb4287cb7328539e7.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2hmCXjo"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="NBCNews"/>
-    <cse:Attribute name="twitter:title" value="Rick Perry is Trump&apos;s pick to run Energy Department he wanted to abolish"/>
-    <cse:Attribute name="twitter:description" value="The former Texas governor endorsed Ted Cruz after he dropped out of the presidential race and called Trump a &apos;barking carnival act.&apos;"/>
-    <cse:Attribute name="twitter:creator" value="NBCNews"/>
-    <cse:Attribute name="twitter:image" value="http://media1.s-nbcnews.com/j/newscms/2016_50/1830131/161213-rick-perry-12a_94351e7efaeaabcbb4287cb7328539e7.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/news/us-news/trump-picks-energy-department-opponent-rick-perry-energy-secretary-sources-n695241"/>
-    <cse:Attribute name="news_keywords" value="News,U.S. news,Energy,Politics News"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
-    <cse:Attribute name="dc.date.issued" value="2016-12-13"/>
-    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
-    <cse:Attribute name="tp:preferredruntimes" value="Universal,HTML5,Flash"/>
-    <cse:Attribute name="tp:preferredformats" value="FLV,F4M,MPEG4,M3U"/>
-    <cse:Attribute name="tp:initialize" value="false"/>
+    <cse:Attribute name="twitter:site" value="@politico"/>
+    <cse:Attribute name="twitter:creator" value="@politico"/>
+    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
+    <cse:Attribute name="og:site_name" value="POLITICO"/>
+    <cse:Attribute name="og:image" value="http://v.politico.com/images/1155968404/201612/3308/1155968404_5248311812001_5248287630001-vs.jpg?pubId=1155968404"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://media3.s-nbcnews.com/j/newscms/2014_02/104511/140108-kristen-welker-mug-2038p_dc2feb47688c2825cb38648b031491ff.nbcnews-fp-320-320.jpg"/>
+    <cse:Attribute name="src" value="http://static2.politico.com/dims4/default/d9a7dc9/2147483647/legacy_thumbnail/167x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F98%2F6f%2Fa72bddfb4be39139abba5a6ceb8b%2F160824-christopher-suprun-ap-1160.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="225"/>
-    <cse:Attribute name="height" value="225"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRulov8oIsL4JiNs8FsMlc7gjMeC7dl5KEnlmCF41j5mMdVbJAgf0nr6bBv"/>
+    <cse:Attribute name="width" value="133"/>
+    <cse:Attribute name="height" value="72"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF73hTDFeT_q9iAcabUhX8hw9szZDZ7g6Jb0p0a8HiQDQIyQR5yBCW_2I"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/</id>
-  <updated>1970-01-18T03:40:51.791Z</updated>
-  <title type="html">Sykes, Pryor among top contenders for Supreme Court vacancy ...</title>
-  <link href="http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/" title="www.cnn.com"/>
-  <summary type="html">Judges Diane Sykes and William Pryor are among the top contenders, according &lt;br&gt;
-to multiple &lt;b&gt;sources familiar with&lt;/b&gt; the process. CNN&amp;#39;s Donald Trump Supreme&amp;nbsp;...</summary>
-  <cse:cacheId>_P2R-iMH7-QJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/</cse:formattedUrl>
+  <id>http://www.businessinsider.com/r-update-1-italy-ready-to-bail-out-monte-dei-paschi-if-needed-treasury-source-2016-12</id>
+  <updated>1970-01-18T03:42:16.123Z</updated>
+  <title type="html">UPDATE 1-Italy ready to bail out Monte dei Paschi if needed ...</title>
+  <link href="http://www.businessinsider.com/r-update-1-italy-ready-to-bail-out-monte-dei-paschi-if-needed-treasury-source-2016-12" title="www.businessinsider.com"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the bank&amp;#39;s board on Sunday said the prospect of a new &lt;br&gt;
+government gave Monte dei Paschi confidence it could still push through its plan&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>pUj7oC2-F4wJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-update-1-italy-ready-to-bail-out-monte-dei- paschi-if-needed-treasury-source-2016-12</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2016-12-15T19:43:20Z"/>
-    <cse:Attribute name="pubdate" value="2016-12-15T19:43:20Z"/>
-    <cse:Attribute name="lastmod" value="2016-12-15T19:43:20Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/index.html"/>
-    <cse:Attribute name="author" value="Pamela Brown and Eugene Scott, CNN"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/EugeneScott202"/>
-    <cse:Attribute name="og:title" value="Sykes, Pryor among top contenders for SCOTUS vacancy"/>
-    <cse:Attribute name="og:description" value="It will be some time before Donald Trump announces a nominee to fill the vacancy left by Antonin Scalia, according to transition insiders."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="date" value="2016-12-12"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-12"/>
+    <cse:Attribute name="news_keywords" value="Reuters Company News, EUROZONE-BANKS/MONTE DEI PASCHI (UPDATE 1)"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters Company News, EUROZONE-BANKS/MONTE DEI PASCHI (UPDATE 1)"/>
+    <cse:Attribute name="sailthru.description" value="(Adds details)ROME, Dec 12 (Reuters) - Italy is..."/>
+    <cse:Attribute name="title" value="UPDATE 1-Italy ready to bail out Monte dei Paschi if needed-Treasury source"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Company News"/>
+    <cse:Attribute name="sailthru.title" value="UPDATE 1-Italy ready to bail out Monte dei Paschi if needed-Treasury source"/>
+    <cse:Attribute name="og:title" value="UPDATE 1-Italy ready to bail out Monte dei Paschi if needed-Treasury source"/>
+    <cse:Attribute name="og:description" value="(Adds details)ROME, Dec 12 (Reuters) - Italy is..."/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2016-12-15T19:43:20Z"/>
-    <cse:Attribute name="datepublished" value="2016-12-15T19:43:20Z"/>
-    <cse:Attribute name="datemodified" value="2016-12-15T19:43:20Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/index.html"/>
-    <cse:Attribute name="author" value="Pamela Brown and Eugene Scott, CNN"/>
-    <cse:Attribute name="headline" value="Sykes, Pryor among top contenders for Supreme Court vacancy - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="It will be some time before Donald Trump announces a nominee to fill the vacancy left by Antonin Scalia, according to transition insiders."/>
-    <cse:Attribute name="keywords" value="politics, Sykes, Pryor among top contenders for Supreme Court vacancy - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Sykes, Pryor among top contenders for Supreme Court vacancy -- sources"/>
-    <cse:Attribute name="articlebody" value="Story highlightsDiane Sykes and William Pryor are among the top contendersTrump is considering a long list looking to replace the late Antonin ScaliaWashington (CNN)It will be some time before..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161211163310-donald-trump-china-taiwan-sot-nr-00002705-super-tease.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2016/12/10/politics/rex-tillerson-secretary-of-state/</id>
-  <updated>1970-01-18T03:40:51.791Z</updated>
-  <title type="html">Rex Tillerson leading candidate for secretary of state - CNNPolitics ...</title>
-  <link href="http://www.cnn.com/2016/12/10/politics/rex-tillerson-secretary-of-state/" title="www.cnn.com"/>
-  <summary type="html">ExxonMobil Chairman and CEO Rex Tillerson is the leading candidate for &lt;br&gt;
-Secretary of State in a Donald Trump administration, multiple &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>91DzLDo7CYsJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2016/12/10/politics/rex-tillerson-secretary-of-state/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2016-12-10T20:46:40Z"/>
-    <cse:Attribute name="pubdate" value="2016-12-10T20:46:40Z"/>
-    <cse:Attribute name="lastmod" value="2016-12-11T23:38:29Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2016/12/10/politics/rex-tillerson-secretary-of-state/index.html"/>
-    <cse:Attribute name="author" value="Jim Acosta, Eugene Scott and John King, CNN"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/EugeneScott202"/>
-    <cse:Attribute name="og:title" value="Tillerson leading candidate for secretary of state"/>
-    <cse:Attribute name="og:description" value="ExxonMobil Chairman and CEO Rex Tillerson is the leading candidate for Secretary of State in a Donald Trump administration, multiple sources familiar with the transition process tell CNN."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161206113142-rex-tillerson-exonn-super-tease.jpg"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161206113142-rex-tillerson-exonn-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2016/12/10/politics/rex-tillerson-secretary-of-state/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid-vls-col,col-donald-trump&apos;s-administration"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2016-12-10T20:46:40Z"/>
-    <cse:Attribute name="datepublished" value="2016-12-10T20:46:40Z"/>
-    <cse:Attribute name="datemodified" value="2016-12-11T23:38:29Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2016/12/10/politics/rex-tillerson-secretary-of-state/index.html"/>
-    <cse:Attribute name="author" value="Jim Acosta, Eugene Scott and John King, CNN"/>
-    <cse:Attribute name="headline" value="Rex Tillerson leading candidate for secretary of state - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="ExxonMobil Chairman and CEO Rex Tillerson is the leading candidate for Secretary of State in a Donald Trump administration, multiple sources familiar with the transition process tell CNN."/>
-    <cse:Attribute name="keywords" value="politics, Rex Tillerson leading candidate for secretary of state - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161206113142-rex-tillerson-exonn-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161206113142-rex-tillerson-exonn-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Rex Tillerson leading candidate for secretary of state"/>
-    <cse:Attribute name="articlebody" value="Story highlightsDonald Trump is supposedly intrigued by the oil man&apos;s view of the worldThe final announcement is expected to be made in the middle of next weekWashington (CNN)ExxonMobil Chairman..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161206113142-rex-tillerson-exonn-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161108145353-bush-to-obama-transition-large-169.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/snapchat-has-had-deal-talks-with-lily-robotics-narrative-2016-12</id>
-  <updated>1970-01-18T03:40:51.791Z</updated>
-  <title type="html">Snapchat has had deal talks with Lily Robotics, Narrative - Business ...</title>
-  <link href="http://www.businessinsider.com/snapchat-has-had-deal-talks-with-lily-robotics-narrative-2016-12" title="www.businessinsider.com"/>
-  <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; Snap&amp;#39;s ambitions, it&amp;#39;s trying to find different &lt;br&gt;
-ways for consumers to take selfies that don&amp;#39;t require someone holding a camera &lt;br&gt;
-in&amp;nbsp;...</summary>
-  <cse:cacheId>WEiuN8mqUIsJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/snapchat-has-had-deal-talks-with-lily-robotics- narrative-2016-12</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2016-12-16"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-16"/>
-    <cse:Attribute name="news_keywords" value="Snapchat, Spectacles, Snap Inc., Mergers And Acquisitions, Drones, Lily Robotics, Wearables, Biz Carson"/>
-    <cse:Attribute name="sailthru.tags" value="Snapchat, Spectacles, Snap Inc., Mergers And Acquisitions, Drones, Lily Robotics, Wearables, Biz Carson"/>
-    <cse:Attribute name="sailthru.description" value="Snapchat has met with companies like Lily Robotics and Narrative to solve the selfie problem."/>
-    <cse:Attribute name="title" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
-    <cse:Attribute name="sailthru.verticals" value="sai,advertising,clusterstock"/>
-    <cse:Attribute name="sailthru.title" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
-    <cse:Attribute name="tbi-image" value="http://static1.businessinsider.com/image/581b64f3362ca41d008b6b75/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static1.businessinsider.com/image/581b64f3362ca41d008b6b75/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static3.businessinsider.com/image/581b64f3362ca41d008b6b75-50-50/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
-    <cse:Attribute name="sailthru.author" value="Biz Carson"/>
-    <cse:Attribute name="og:title" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
-    <cse:Attribute name="og:description" value="Snapchat has met with companies like Lily Robotics and Narrative to solve the selfie problem."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/snapchat-has-had-deal-talks-with-lily-robotics-narrative-2016-12"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-update-1-italy-ready-to-bail-out-monte-dei-paschi-if-needed-treasury-source-2016-12"/>
     <cse:Attribute name="og:site_name" value="Business Insider"/>
     <cse:Attribute name="fb:app_id" value="155043519637"/>
     <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Biz Carson"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/snapchat-has-had-deal-talks-with-lily-robotics-narrative-2016-12"/>
-    <cse:Attribute name="twitter:title" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
-    <cse:Attribute name="twitter:description" value="Snapchat has met with companies like Lily Robotics and Narrative to solve the selfie problem."/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-update-1-italy-ready-to-bail-out-monte-dei-paschi-if-needed-treasury-source-2016-12"/>
+    <cse:Attribute name="twitter:title" value="UPDATE 1-Italy ready to bail out Monte dei Paschi if needed-Treasury source"/>
+    <cse:Attribute name="twitter:description" value="(Adds details)ROME, Dec 12 (Reuters) - Italy is..."/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static6.businessinsider.com/image/5854508ca1a45e61008b6836-506-253/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
-    <cse:Attribute name="twitter:creator" value="bizcarson"/>
-    <cse:Attribute name="twitter:site" value="sai"/>
-    <cse:Attribute name="article:author" value="http://www.businessinsider.com/author/biz-carson"/>
-    <cse:Attribute name="og:image" value="http://static6.businessinsider.com/image/5854508ca1a45e61008b6836-1190-625/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
     <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="sai"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
     <cse:Attribute name="viewport" value="width=1024"/>
     <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
     <cse:Attribute name="application-name" value="Business Insider"/>
@@ -293,266 +170,67 @@ in&amp;nbsp;...</summary>
     <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
    </cse:DataObject>
    <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
-    <cse:Attribute name="url" value="Snapchat has looked to acquire everything from drone companies to cameras"/>
-    <cse:Attribute name="image" value="http://static5.businessinsider.com/image/581b64f3362ca41d008b6b75-100-100/snapchat-has-looked-to-acquire-everything-from-drone-companies-to-cameras.jpg"/>
-    <cse:Attribute name="description" value="Snapchat is on the hunt for a wide..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/56ba4d1c6e97c61f048b611b-2400/ap187914845154-1.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM2EFoUrVHYHrw73mIwCGnLQP2zQ5BvGj9QoWBxfij89vlMCh3O4Qpr20n"/>
+    <cse:Attribute name="name" value="UPDATE 1-Italy ready to bail out Monte dei Paschi if needed-Treasury source"/>
+    <cse:Attribute name="url" value="UPDATE 1-Italy ready to bail out Monte dei Paschi if needed-Treasury source"/>
+    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
+    <cse:Attribute name="description" value="(Adds details)ROME, Dec 12 (Reuters) - Italy is..."/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.politico.com/blogs/donald-trump-administration/2016/12/donald-trump-jr-interior-secretary-232640</id>
-  <updated>1970-01-18T03:40:51.791Z</updated>
-  <title type="html">Donald Trump Jr. played role in picking interior secretary - POLITICO</title>
-  <link href="http://www.politico.com/blogs/donald-trump-administration/2016/12/donald-trump-jr-interior-secretary-232640" title="www.politico.com"/>
-  <summary type="html">Donald Trump, Jr., the president elect&amp;#39;s eldest son, was involved with the &lt;br&gt;
-interview process for interior secretary, according to &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>IP3hGfk5uGAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.politico.com/.../donald-trump-jr-interior-secretary-232640</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Jake Sherman"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
-    <cse:Attribute name="url_text" value="Jake Sherman"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Matthew Nussbaum"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/matthew-nussbaum"/>
-    <cse:Attribute name="url_text" value="Matthew Nussbaum"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Jake Sherman"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
-    <cse:Attribute name="url_text" value="Jake Sherman"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Matthew Nussbaum"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/matthew-nussbaum"/>
-    <cse:Attribute name="url_text" value="Matthew Nussbaum"/>
-   </cse:DataObject>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="og:title" value="Donald Trump Jr. played role in picking interior secretary"/>
-    <cse:Attribute name="og:description" value="Don Jr. is known as an avid outdoorsman, which is why he might have an interest in the next head of the Interior Department."/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://politi.co/2hm8ZMu"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@politico"/>
-    <cse:Attribute name="twitter:creator" value="@politico"/>
-    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
-    <cse:Attribute name="og:site_name" value="POLITICO"/>
-    <cse:Attribute name="og:image" value="http://static.politico.com/c4/36/d7592a8b41daaefd1cd07fb2881a/091616-donald-trump-jr-ap-629.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static.politico.com/c4/36/d7592a8b41daaefd1cd07fb2881a/091616-donald-trump-jr-ap-629.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="305"/>
-    <cse:Attribute name="height" value="165"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLTklygyRNVz3LbhoS5msxlxvsSaAaEOaUyRm0VI5XNPAsOs2HO2QDFpA"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-capsugel-m-a-lonza-idUSKBN14015R</id>
-  <updated>1970-01-18T03:40:51.791Z</updated>
-  <title type="html">Exclusive: Lonza says in talks to buy Capsugel; deal could top $5 ...</title>
-  <link href="http://www.reuters.com/article/us-capsugel-m-a-lonza-idUSKBN14015R" title="www.reuters.com"/>
-  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the talks told Reuters that a potential transaction would be &lt;br&gt;
-valued at more than $5 billion. Capsugel &amp;quot;would fit perfectly with Lonza&amp;#39;s&amp;nbsp;...</summary>
-  <cse:cacheId>-CKmfWry6XkJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-capsugel-m-a-lonza-idUSKBN14015R</cse:formattedUrl>
+  <id>http://www.reuters.com/article/brazil-politics-idUSE6N1CB00G</id>
+  <updated>1970-01-18T03:42:16.123Z</updated>
+  <title type="html">Key economic aide to Brazil leader preparing to leave government ...</title>
+  <link href="http://www.reuters.com/article/brazil-politics-idUSE6N1CB00G" title="www.reuters.com"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Moreira Franco says he is offering his resignation to lessen &lt;br&gt;
+fallout for Temer&amp;#39;s scandal-plagued government. (Reporting by Leonardo Goy &lt;br&gt;
+and&amp;nbsp;...</summary>
+  <cse:cacheId>Hp7nN9OrJgoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/brazil-politics-idUSE6N1CB00G</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;healthNews;innovationNews;innovationNewsHealthcare;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;innovationAMD;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;audib2b;cfaglobal;shipping;dassaultuk;MBenz;ubs;Intel;huawei;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Lonza+says+in+talks+to+buy+Capsugel%3B+deal+could+top+%245+billion+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Greg Roumeliotis"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Greg Roumeliotis"/>
-    <cse:Attribute name="news_keywords" value="United States;United States;US;CAPSUGEL;M;A;LONZA;Chemicals (Legacy);Mergers / Acquisitions / Takeovers;Switzerland;Company News;Western Europe;Exclusive;Corporate Events;Biotechnology and Medical Research (TRBC);Chemicals (TRBC);Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Major News;Europe;Pharmaceuticals and Medical Research (TRBC);Science;Healthcare (TRBC);Generic and Specialty Pharmaceuticals (TRBC);Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
-    <cse:Attribute name="revision_date" value="Mon Dec 12 08:19:14 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Greg Roumeliotis"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-12T08:19:14+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Lonza says in talks to buy Capsugel; deal could top $5 billion - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Lonza says in talks to buy Capsugel; deal could top $5 billion - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-capsugel-m-a-lonza-idUSKBN14015R"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Swiss pharmaceutical manufacturer Lonza Group AG on Monday confirmed it is in advanced talks with private equity firm KKR &amp; Co LP to acquire Capsugel, a U.S. maker of capsule products and other drug delivery systems."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161212&amp;t=2&amp;i=1165098309&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBB01J"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-12T08:19:14+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-12T08:19:14+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Greg Roumeliotis"/>
-    <cse:Attribute name="og:article:tag" value="United States,United States,US,CAPSUGEL,M,A,LONZA,Chemicals (Legacy),Mergers / Acquisitions / Takeovers,Switzerland,Company News,Western Europe,Exclusive,Corporate Events,Biotechnology and Medical Research (TRBC),Chemicals (TRBC),Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Major News,Europe,Pharmaceuticals and Medical Research (TRBC),Science,Healthcare (TRBC),Generic and Specialty Pharmaceuticals (TRBC),Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Lonza says in talks to buy Capsugel; deal could top $5 billion - sources"/>
-    <cse:Attribute name="twitter:description" value="Swiss pharmaceutical manufacturer Lonza Group AG on Monday confirmed it is in advanced talks with private equity firm KKR &amp; Co LP to acquire Capsugel, a U.S. maker of capsule products and other drug delivery systems."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161212&amp;t=2&amp;i=1165098309&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBB01J"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161212&amp;t=2&amp;i=1165098309&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBB01J"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161212&amp;t=2&amp;i=1165098309&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBB01J"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="266"/>
-    <cse:Attribute name="height" value="189"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLQcaujwTpVbjLoKeYyYFBW73xKQmbGin-z193mwa3ldOjtKc_7IBMoSU"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2016/12/14/politics/ivanka-trump-white-house-office-of-the-first-family/index.html</id>
-  <updated>1970-01-18T03:40:51.791Z</updated>
-  <title type="html">Sources: Ivanka Trump to have East Wing office - CNNPolitics.com</title>
-  <link href="http://www.cnn.com/2016/12/14/politics/ivanka-trump-white-house-office-of-the-first-family/index.html" title="www.cnn.com"/>
-  <summary type="html">... already planning for an &amp;quot;Office of the First Family,&amp;quot; in the East Wing where the &lt;br&gt;
-current office of the first lady is located, &lt;b&gt;sources familiar with&lt;/b&gt; the plan told CNN.</summary>
-  <cse:cacheId>oWlpXJGJzoYJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2016/12/14/politics/ivanka-trump.../index.html</cse:formattedUrl>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-altice-cable-ipo-banks-idUSKBN143125</id>
-  <updated>1970-01-18T03:40:51.791Z</updated>
-  <title type="html">JPMorgan, Goldman Sachs expected to lead Altice USA listing ...</title>
-  <link href="http://www.reuters.com/article/us-altice-cable-ipo-banks-idUSKBN143125" title="www.reuters.com"/>
-  <summary type="html">N) and Goldman Sachs (GS.N) are in pole position to be mandated to lead the &lt;br&gt;
-initial public offering (IPO) of shares in Altice USA, three &lt;b&gt;sources familiar with&lt;/b&gt; the&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>uie4zBcHUgAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-altice-cable-ipo-banks-idUSKBN143125</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;newsproHome;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA"/>
-    <cse:Attribute name="dcsext.contentheadline" value="JPMorgan%2C+Goldman+Sachs+expected+to+lead+Altice+USA+listing%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="bondsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="bondsNews;marketsNews;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Key+economic+aide+to+Brazil+leader+preparing+to+leave+government+-+source"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-bondsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="US;ALTICE;CABLE;IPO;BANKS;Investment Banking and Investment Services (TRBC);Banks (TRBC);Security Listings / Delistings;Funds;Company News;Western Europe;Initial Public Offerings;New Issues;Equity Financing;Corporate Events;Integrated Telecommunications Services (TRBC);Investment Banking and Brokerage Services (TRBC);Europe;Technology / Media / Telecoms;Broadcasting (TRBC);Banking Services (Legacy);Netherlands;United States"/>
-    <cse:Attribute name="revision_date" value="Wed Dec 14 10:26:48 UTC 2016"/>
+    <cse:Attribute name="news_keywords" value="BRAZIL;POLITICS/ (URGENT);Americas;South America / Central America;Government / Politics;Corporate Events;Economic Events;Brazil;General News;National Government Debt;Debt / Fixed Income Markets;Monetary / Fiscal Policy / Policy Makers;Economic News (3rd Party);Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Dec 14 13:39:08 UTC 2016"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-14T10:26:48+0000"/>
-    <cse:Attribute name="sailthru.title" value="JPMorgan, Goldman Sachs expected to lead Altice USA listing: sources"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-14T13:39:08+0000"/>
+    <cse:Attribute name="sailthru.title" value="Key economic aide to Brazil leader preparing to leave government - source"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="JPMorgan, Goldman Sachs expected to lead Altice USA listing: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-altice-cable-ipo-banks-idUSKBN143125"/>
+    <cse:Attribute name="og:title" value="Key economic aide to Brazil leader preparing to leave government - source"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/brazil-politics-idUSE6N1CB00G"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Investment banks JPMorgan (JPM.N) and Goldman Sachs (GS.N) are in pole position to be mandated to lead the initial public offering (IPO) of shares in Altice USA, three sources familiar with the matter said."/>
+    <cse:Attribute name="og:description" value="Brazil&apos;s infrastructureinvestment secretary Wellington Moreira Franco, a top aide toPresident Michel Temer, has drafted his resignation letter andis preparing to leave the government, a source close to theofficial told Reuters Wednesday."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-14T10:26:48+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-14T10:26:48+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="US,ALTICE,CABLE,IPO,BANKS,Investment Banking and Investment Services (TRBC),Banks (TRBC),Security Listings / Delistings,Funds,Company News,Western Europe,Initial Public Offerings,New Issues,Equity Financing,Corporate Events,Integrated Telecommunications Services (TRBC),Investment Banking and Brokerage Services (TRBC),Europe,Technology / Media / Telecoms,Broadcasting (TRBC),Banking Services (Legacy),Netherlands,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="JPMorgan, Goldman Sachs expected to lead Altice USA listing: sources"/>
-    <cse:Attribute name="twitter:description" value="Investment banks JPMorgan (JPM.N) and Goldman Sachs (GS.N) are in pole position to be mandated to lead the initial public offering (IPO) of shares in Altice USA, three sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/schoeller-allibert-ma-idUSL5N1E93AO</id>
-  <updated>1970-01-18T03:40:51.791Z</updated>
-  <title type="html">UPDATE 1-Dutch packaging maker Schoeller Allibert explores sale ...</title>
-  <link href="http://www.reuters.com/article/schoeller-allibert-ma-idUSL5N1E93AO" title="www.reuters.com"/>
-  <summary type="html">... as leading bidder, while the interest of private equity groups such as Advent &lt;br&gt;
-and a consortium of PAI and Bain has cooled, &lt;b&gt;sources familiar with&lt;/b&gt; that deal said.</summary>
-  <cse:cacheId>OGvewFqEEDMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/schoeller-allibert-ma-idUSL5N1E93AO</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;bondsNews;marketsNews;fundsFundsNews;etfNews;privateEquity;mnaNewsFinancialServicesAndRealEstate;mnaNewsIndustryMaterialsAndUtilities;privateEquityFinancialServicesAndRealEstate;privateEquityIndustryMaterialsAndUtilities;americasMergersNews;euMergersNews;everything;Deals;AllianzInvestments;Allianz;audib2b;cfaglobal;aa48hours;shipping;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-Dutch+packaging+maker+Schoeller+Allibert%7F+explores+sale+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="SCHOELLER ALLIBERT;MandA/ (UPDATE 1);Investment Banking and Investment Services (TRBC);Germany;Mergers / Acquisitions / Takeovers;Western Europe;Credit and Corporate Debt;Central / Eastern Europe;Corporate Debt;Divestitures / Spin;Offs;Industry News (3rd Party);Government Borrowing Requirement;Paper Packaging (TRBC);Debt / Fixed Income Markets;Non;Paper Containers and Packaging (TRBC);Deals;United Kingdom;United States;Basic Materials (TRBC);Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);Corporate Events;Euro Zone;Banking and Investment Services (TRBC);Europe;Applied Resources (TRBC);Containers and Packaging (TRBC);Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Netherlands;Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Wed Dec 14 12:20:17 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-14T12:20:17+0000"/>
-    <cse:Attribute name="sailthru.title" value="UPDATE 1-Dutch packaging maker Schoeller Allibert  explores sale - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="UPDATE 1-Dutch packaging maker Schoeller Allibert  explores sale - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/schoeller-allibert-ma-idUSL5N1E93AO"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="* Citi hired to find buyer for Schoeller Allibert - sources* Could be valued at 400-500 mln eur - sources* Schoeller Allibert owned by JP Mor"/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-14T12:20:17+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-14T12:20:17+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2016-12-14T13:39:08+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-12-14T13:39:08+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="SCHOELLER ALLIBERT,MandA/ (UPDATE 1),Investment Banking and Investment Services (TRBC),Germany,Mergers / Acquisitions / Takeovers,Western Europe,Credit and Corporate Debt,Central / Eastern Europe,Corporate Debt,Divestitures / Spin,Offs,Industry News (3rd Party),Government Borrowing Requirement,Paper Packaging (TRBC),Debt / Fixed Income Markets,Non,Paper Containers and Packaging (TRBC),Deals,United Kingdom,United States,Basic Materials (TRBC),Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),Corporate Events,Euro Zone,Banking and Investment Services (TRBC),Europe,Applied Resources (TRBC),Containers and Packaging (TRBC),Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Netherlands,Private Equity Funds"/>
+    <cse:Attribute name="og:article:tag" value="BRAZIL,POLITICS/ (URGENT),Americas,South America / Central America,Government / Politics,Corporate Events,Economic Events,Brazil,General News,National Government Debt,Debt / Fixed Income Markets,Monetary / Fiscal Policy / Policy Makers,Economic News (3rd Party),Emerging Market Countries"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="UPDATE 1-Dutch packaging maker Schoeller Allibert  explores sale - sources"/>
-    <cse:Attribute name="twitter:description" value="* Citi hired to find buyer for Schoeller Allibert - sources* Could be valued at 400-500 mln eur - sources* Schoeller Allibert owned by JP Mor"/>
+    <cse:Attribute name="twitter:title" value="Key economic aide to Brazil leader preparing to leave government - source"/>
+    <cse:Attribute name="twitter:description" value="Brazil&apos;s infrastructureinvestment secretary Wellington Moreira Franco, a top aide toPresident Michel Temer, has drafted his resignation letter andis preparing to leave the government, a source close to theofficial told Reuters Wednesday."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/bonds/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Funds"/>
+    <cse:Attribute name="wt.cg_s" value="Bonds"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -561,6 +239,374 @@ and a consortium of PAI and Bain has cooled, &lt;b&gt;sources familiar with&lt;/
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://nypost.com/2016/12/16/verizon-may-acquire-yahoo-for-a-bargain-after-email-hack-disaster/</id>
+  <updated>1970-01-18T03:42:16.123Z</updated>
+  <title type="html">Verizon may acquire Yahoo for a bargain after email hack disaster ...</title>
+  <link href="http://nypost.com/2016/12/16/verizon-may-acquire-yahoo-for-a-bargain-after-email-hack-disaster/" title="nypost.com"/>
+  <summary type="html">“Most people in their 50s and 60s don&amp;#39;t take the time to shut down their accounts &lt;br&gt;
+— they just stop using them,” according to &lt;b&gt;a source close to&lt;/b&gt; Yahoo&amp;#39;s operations&amp;nbsp;...</summary>
+  <cse:cacheId>lPfwlAdxIYwJ</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/.../verizon-may-acquire-yahoo-for-a-bargain-after-email-hack- disaster/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="copyright" value="Copyright 2016 NYP Holdings. All rights reserved."/>
+    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Verizon may acquire Yahoo for a bargain after email hack disaster"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2016/12/16/verizon-may-acquire-yahoo-for-a-bargain-after-email-hack-disaster/"/>
+    <cse:Attribute name="og:description" value="Yahoo Chief Executive Marissa Mayer is getting hacked into a corner. The 40-year-old tech exec and her board will likely be forced to slash the price of a $4.8 billion merger with Verizon if they h…"/>
+    <cse:Attribute name="article:published_time" value="2016-12-16T06:42:34+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2016-12-16T16:44:32+00:00"/>
+    <cse:Attribute name="og:site_name" value="New York Post"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="799"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="twitter:site" value="@nypost"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2016/12/gettyimages-455203068.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:creator" value="@nypost"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
+    <cse:Attribute name="twitter:title" value="Verizon may acquire Yahoo for a bargain after email hack disaster"/>
+    <cse:Attribute name="twitter:description" value="Yahoo Chief Executive Marissa Mayer is getting hacked into a corner. The 40-year-old tech exec and her board will likely be forced to slash the price of a $4.8 billion merger with Verizon if they hope"/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2016/12/gettyimages-455203068.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2016/12/gettyimages-455203068.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i2.wp.com/thenypost.files.wordpress.com/2016/12/gettyimages-455203068.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="nypost-section" value="Business"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10609777&quot;}"/>
+    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
+    <cse:Attribute name="fb:pages" value="134486075205"/>
+    <cse:Attribute name="application-name" value="New York Post"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2016/12/gettyimages-455203068.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/wires/afp/article-4032202/Syria-army-resumed-Aleppo-assault-rebels-broke-truce-Russia.html</id>
+  <updated>1970-01-18T03:42:16.123Z</updated>
+  <title type="html">Syria rebels announce new evacuation deal for Aleppo | Daily Mail ...</title>
+  <link href="http://www.dailymail.co.uk/wires/afp/article-4032202/Syria-army-resumed-Aleppo-assault-rebels-broke-truce-Russia.html" title="www.dailymail.co.uk"/>
+  <summary type="html">However &lt;b&gt;a source close to&lt;/b&gt; Syria&amp;#39;s government denied the development, and the &lt;br&gt;
+Syrian Observatory for Human Rights said hostilities were ongoing after an&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Syria-army-resumed-Aleppo-assault-rebels-broke- truce-Russia.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Syria,army,resumed,Aleppo,assault,rebels,broke,truce,Russia"/>
+    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/afp/article-4032202/Syria-army-resumed-Aleppo-assault-rebels-broke-truce-Russia.html"/>
+    <cse:Attribute name="rating" value="General"/>
+    <cse:Attribute name="doc-class" value="Living Document"/>
+    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
+    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
+    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="articleid" value="4032202"/>
+    <cse:Attribute name="divclasspage" value="articlePage"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Syria rebels announce new evacuation deal for Aleppo"/>
+    <cse:Attribute name="twitter:description" value="Syrian rebels announced a new evacuation deal for Aleppo civilians and the injured, after shelling and air strikes sent terrified residents running through t..."/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/afp/article-4032202/Syria-army-resumed-Aleppo-assault-rebels-broke-truce-Russia.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/2016/12/15/article-doc-j397u-549WdWAo6N0da26d716c180213dd-602_636x382.jpg"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
+    <cse:Attribute name="article:published_time" value="2016-12-15T03:15:10+0000"/>
+    <cse:Attribute name="article:modified_time" value="2016-12-15T03:15:59+0000"/>
+    <cse:Attribute name="article:section" value="AFP"/>
+    <cse:Attribute name="article:tag" value="Syria army resumed Aleppo assault rebels broke truce Russia"/>
+    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Afp"/>
+    <cse:Attribute name="fb:app_id" value="146202712090395"/>
+    <cse:Attribute name="og:site_name" value="Mail Online"/>
+    <cse:Attribute name="og:title" value="Syria rebels announce new evacuation deal for Aleppo"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Syrian rebels announced a new evacuation deal for Aleppo civilians and the injured, after shelling and air strikes sent terrified residents running through t..."/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4032202/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/2016/12/15/article-doc-j397u-549WdWAo6N0da26d716c180213dd-602_636x382.jpg"/>
+    <cse:Attribute name="og:image:width" value="636"/>
+    <cse:Attribute name="og:image:height" value="382"/>
+    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Syria rebels announce new evacuation deal for Aleppo"/>
+    <cse:Attribute name="datepublished" value="2016-12-15T03:15:10+0000"/>
+    <cse:Attribute name="datemodified" value="2016-12-15T03:15:59+0000"/>
+    <cse:Attribute name="articlebody" value="Syria rebels announce new evacuation deal for Aleppo By Afp Published: 22:15 EST, 14 December 2016 | Updated: 22:15 EST, 14 December 2016 e-mail 6 shares Syrian rebels announced a new evacuation..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Afp"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/2016/12/15/article-doc-j397u-549WdWAo6N0da26d716c180213dd-602_636x382.jpg"/>
+    <cse:Attribute name="height" value="382"/>
+    <cse:Attribute name="width" value="636"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
+    <cse:Attribute name="width" value="350"/>
+    <cse:Attribute name="height" value="66"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/2016/12/15/article-doc-j397u-549WdWAo6N0da26d716c180213dd-602_636x382.jpg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
+  <updated>1970-01-18T03:42:16.123Z</updated>
+  <title type="html">Sources: Steelers RB Bell facing 4-game ban</title>
+  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
+  <summary type="html"/>
+  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-eurozone-banks-monte-dei-paschi-idUSKBN1411Z1</id>
+  <updated>1970-01-18T03:42:16.123Z</updated>
+  <title type="html">Italy ready to bail out Monte dei Paschi if needed: Treasury source ...</title>
+  <link href="http://www.reuters.com/article/us-eurozone-banks-monte-dei-paschi-idUSKBN1411Z1" title="www.reuters.com"/>
+  <summary type="html">Another 1 billion euros should come from Qatar&amp;#39;s sovereign wealth fund, &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;close to&lt;/b&gt; the bank&amp;#39;s board said on Sunday, while a consortium of banks led by&amp;nbsp;...</summary>
+  <cse:cacheId>cz8m_bBocUsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-eurozone-banks-monte-dei-paschi-idUSKBN1411Z1</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;euDealsNews;euPrivateEquityNews;ousivMolt;italy;everything;Deals;Davos;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;credit-rss;Davos2012;davosBackup;cfaglobal;aa48hours;archery;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Italy+ready+to+bail+out+Monte+dei+Paschi+if+needed%3A+Treasury+source"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Giuseppe Fonte"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Giuseppe Fonte"/>
+    <cse:Attribute name="news_keywords" value="Italy;Qatar;Matteo Renzi;Paolo Gentiloni;US;EUROZONE;BANKS;MONTE;DEI;PASCHI;Banks (TRBC);Company News;European Central Bank;Western Europe;New Issues;Italy;Government / Politics;Central Banks / Central Bank Events;Corporate Events;Economic Events;National Government Debt;Euro Zone as a Whole;Major News;Europe;Economic News (3rd Party);Banking Services (Legacy);Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Mon Dec 12 22:01:53 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Giuseppe Fonte"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-12T22:01:53+0000"/>
+    <cse:Attribute name="sailthru.title" value="Italy ready to bail out Monte dei Paschi if needed: Treasury source"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Italy ready to bail out Monte dei Paschi if needed: Treasury source"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-eurozone-banks-monte-dei-paschi-idUSKBN1411Z1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Italy is ready to pump capital into Monte dei Paschi di Siena (BMPS.MI) if the ailing bank fails to get the 5 billion euros ($5.3 billion) it needs to remain in business from private investors, a Treasury source said on Monday."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161212&amp;t=2&amp;i=1165187056&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBB1CF"/>
+    <cse:Attribute name="og:article:published_time" value="2016-12-12T22:01:53+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-12-12T22:01:53+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Giuseppe Fonte"/>
+    <cse:Attribute name="og:article:tag" value="Italy,Qatar,Matteo Renzi,Paolo Gentiloni,US,EUROZONE,BANKS,MONTE,DEI,PASCHI,Banks (TRBC),Company News,European Central Bank,Western Europe,New Issues,Italy,Government / Politics,Central Banks / Central Bank Events,Corporate Events,Economic Events,National Government Debt,Euro Zone as a Whole,Major News,Europe,Economic News (3rd Party),Banking Services (Legacy),Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Italy ready to bail out Monte dei Paschi if needed: Treasury source"/>
+    <cse:Attribute name="twitter:description" value="Italy is ready to pump capital into Monte dei Paschi di Siena (BMPS.MI) if the ailing bank fails to get the 5 billion euros ($5.3 billion) it needs to remain in business from private investors, a Treasury source said on Monday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161212&amp;t=2&amp;i=1165187056&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBB1CF"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161212&amp;t=2&amp;i=1165187056&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBB1CF"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20161212&amp;t=2&amp;i=1165187056&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBB1CF"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="278"/>
+    <cse:Attribute name="height" value="181"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfqx8Zzng-SxY7kHy5VFSX8Kih_LpRKrmHm0rNS85B8N1vphi044kHZzOY"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.theguardian.com/tv-and-radio/2016/dec/13/alan-thicke-dead-growing-pains-robin-thicke</id>
+  <updated>1970-01-18T03:42:16.123Z</updated>
+  <title type="html">Alan Thicke, star of 80s sitcom Growing Pains, dies aged 69 ...</title>
+  <link href="https://www.theguardian.com/tv-and-radio/2016/dec/13/alan-thicke-dead-growing-pains-robin-thicke" title="www.theguardian.com"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the family told Reuters by telephone that Thicke had a heart &lt;br&gt;
+attack and was transported to Providence Saint Joseph Medical Center, where &lt;br&gt;
+he&amp;nbsp;...</summary>
+  <cse:cacheId>aBYs-cpCZ9YJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.theguardian.com/.../alan-thicke-dead-growing-pains-robin-thicke</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="format-detection" value="telephone=no"/>
+    <cse:Attribute name="handheldfriendly" value="True"/>
+    <cse:Attribute name="viewport" value="width=device-width,minimum-scale=1,initial-scale=1"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Guardian"/>
+    <cse:Attribute name="application-name" value="The Guardian"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#005689"/>
+    <cse:Attribute name="theme-color" value="#005689"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://assets.guim.co.uk/images/favicons/f06f6996e193d1ddcd614ea852322d25/windows_tile_144_b.png"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=409128287, app-argument=https://www.theguardian.com/tv-and-radio/2016/dec/13/alan-thicke-dead-growing-pains-robin-thicke, affiliate-data=ct=newsmartappbanner&amp;pt=304191"/>
+    <cse:Attribute name="referrer" value="unsafe-url"/>
+    <cse:Attribute name="thumbnail" value="https://i.guim.co.uk/img/media/ae7063ef64c58e2216666f48bacc94be4616a9a6/0_173_3000_1799/3000.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=9992fa8130896c5b62d949aa6ff3c75e"/>
+    <cse:Attribute name="news_keywords" value="US television,Television,Culture,Canada,World news,Robin Thicke"/>
+    <cse:Attribute name="og:url" value="http://www.theguardian.com/tv-and-radio/2016/dec/13/alan-thicke-dead-growing-pains-robin-thicke"/>
+    <cse:Attribute name="og:description" value="The Canadian actor, best known for his leading role in the 1980s sitcom, was also the father of musician Robin Thicke"/>
+    <cse:Attribute name="og:image" value="https://i.guim.co.uk/img/media/ae7063ef64c58e2216666f48bacc94be4616a9a6/0_173_3000_1799/master/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8a4a3b7f8fda05d54887f6344d8a3503"/>
+    <cse:Attribute name="al:ios:url" value="gnmguardian://tv-and-radio/2016/dec/13/alan-thicke-dead-growing-pains-robin-thicke?contenttype=Article&amp;source=applinks"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/theguardian"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="al:ios:app_store_id" value="409128287"/>
+    <cse:Attribute name="article:section" value="Television &amp; radio"/>
+    <cse:Attribute name="article:published_time" value="2016-12-14T10:06:44.000Z"/>
+    <cse:Attribute name="og:title" value="Alan Thicke, star of 80s sitcom Growing Pains, dies aged 69"/>
+    <cse:Attribute name="fb:app_id" value="180444840287"/>
+    <cse:Attribute name="article:tag" value="US television,Television,Culture,Canada,World news,Robin Thicke"/>
+    <cse:Attribute name="al:ios:app_name" value="The Guardian"/>
+    <cse:Attribute name="og:site_name" value="the Guardian"/>
+    <cse:Attribute name="article:modified_time" value="2016-12-14T20:16:20.000Z"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="409128287"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="The Guardian"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="The Guardian"/>
+    <cse:Attribute name="twitter:image" value="https://i.guim.co.uk/img/media/ae7063ef64c58e2216666f48bacc94be4616a9a6/0_173_3000_1799/master/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNi8wNy9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=bfe8fae9b5c40f121fd48b3e41c56b3f"/>
+    <cse:Attribute name="twitter:site" value="@guardian"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="gnmguardian://tv-and-radio/2016/dec/13/alan-thicke-dead-growing-pains-robin-thicke?contenttype=Article&amp;source=twitter"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="The Guardian"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="409128287"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.guardian"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="guardian://www.theguardian.com/tv-and-radio/2016/dec/13/alan-thicke-dead-growing-pains-robin-thicke"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="gnmguardian://tv-and-radio/2016/dec/13/alan-thicke-dead-growing-pains-robin-thicke?contenttype=Article&amp;source=twitter"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="mainentityofpage" value="https://www.theguardian.com/tv-and-radio/2016/dec/13/alan-thicke-dead-growing-pains-robin-thicke"/>
+    <cse:Attribute name="headline" value="Alan Thicke, star of 80s sitcom Growing Pains, dies aged 69"/>
+    <cse:Attribute name="description" value="The Canadian actor, best known for his leading role in the 1980s sitcom, was also the father of musician Robin Thicke"/>
+    <cse:Attribute name="datepublished" value="2016-12-14T05:06:44-0500"/>
+    <cse:Attribute name="articlebody" value="Alan Thicke, the Canadian actor best known for his role as the father in the 1980s sitcom Growing Pains as well as being the father of singer Robin Thicke, has died, a source close to the family..."/>
+    <cse:Attribute name="keywords" value="More news"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="The Guardian"/>
+    <cse:Attribute name="sameas" value="http://www.theguardian.com/"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="representativeofpage" value="true"/>
+    <cse:Attribute name="url" value="https://i.guim.co.uk/img/media/ae7063ef64c58e2216666f48bacc94be4616a9a6/0_173_3000_1799/3000.jpg?w=700&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=d72fc86e374a8b0501226baf80078c65"/>
+    <cse:Attribute name="width" value="3000"/>
+    <cse:Attribute name="height" value="1799"/>
+    <cse:Attribute name="contenturl" value="https://i.guim.co.uk/img/media/ae7063ef64c58e2216666f48bacc94be4616a9a6/0_173_3000_1799/master/3000.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=be08c6d382b82b774ae1e89269f8e04c"/>
+    <cse:Attribute name="description" value="Alan Thicke, Growing Pains actor and father of Robin Thicke, has died aged 69. Photograph: Frazer Harrison/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="breadcrumb">
+    <cse:Attribute name="url" value="Arts"/>
+    <cse:Attribute name="title" value="Arts"/>
+   </cse:DataObject>
+   <cse:DataObject type="breadcrumb">
+    <cse:Attribute name="url" value="TV &amp; radio"/>
+    <cse:Attribute name="title" value="TV &amp; radio"/>
+   </cse:DataObject>
+   <cse:DataObject type="breadcrumb">
+    <cse:Attribute name="url" value="US television"/>
+    <cse:Attribute name="title" value="US television"/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/ae7063ef64c58e2216666f48bacc94be4616a9a6/0_173_3000_1799/3000.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=9992fa8130896c5b62d949aa6ff3c75e"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/ae7063ef64c58e2216666f48bacc94be4616a9a6/0_173_3000_1799/master/3000.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=be08c6d382b82b774ae1e89269f8e04c"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="240"/>
+    <cse:Attribute name="height" value="144"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.telegraph.co.uk/business/2016/12/15/government-mulls-stake-horizon-nuclear-plant/</id>
+  <updated>1970-01-18T03:42:16.123Z</updated>
+  <title type="html">Government mulls stake in Horizon nuclear plant</title>
+  <link href="http://www.telegraph.co.uk/business/2016/12/15/government-mulls-stake-horizon-nuclear-plant/" title="www.telegraph.co.uk"/>
+  <summary type="html">The likely cost of the proposed twin-reactor development at Wylfa has not been &lt;br&gt;
+disclosed but &lt;b&gt;a source close to&lt;/b&gt; the negotiations insisted a Reuters report that put&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>UDmxwH2_H4kJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.telegraph.co.uk/.../government-mulls-stake-horizon-nuclear-plant/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
+    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
+    <cse:Attribute name="tmgads.channel" value="business"/>
+    <cse:Attribute name="tmgads.section" value="business-2016"/>
+    <cse:Attribute name="tmgads.zone" value="business.2016.12.15"/>
+    <cse:Attribute name="tmgads.articleid" value="AnDyzLyVBs0L"/>
+    <cse:Attribute name="tmgads.pagetype" value="story"/>
+    <cse:Attribute name="tmgads.level" value="5"/>
+    <cse:Attribute name="tmgads.geo" value="US"/>
+    <cse:Attribute name="tmgads.keywords" value="Hinkley Point,EDF,Nuclear power,Standard,Horizon,Philip Hammond,Business"/>
+    <cse:Attribute name="dcsext.channel" value="business"/>
+    <cse:Attribute name="dcsext.category" value="2016"/>
+    <cse:Attribute name="dcsext.genre" value="12"/>
+    <cse:Attribute name="dcsext.mlc" value="/business/2016/12/15"/>
+    <cse:Attribute name="dcsext.articleid" value="AnDyzLyVBs0L"/>
+    <cse:Attribute name="dcsext.content_type" value="story"/>
+    <cse:Attribute name="dcsext.level" value="5"/>
+    <cse:Attribute name="dcsext.author" value="Emily Gosden"/>
+    <cse:Attribute name="dcsext.articlefirstpublished" value="2016-12-15 19:58"/>
+    <cse:Attribute name="dcsext.cf" value="1"/>
+    <cse:Attribute name="dcsext.cd" value="0"/>
+    <cse:Attribute name="dcsext.cn" value="0"/>
+    <cse:Attribute name="dcsext.pd" value="1"/>
+    <cse:Attribute name="og:title" value="Government mulls stake in Horizon nuclear plant"/>
+    <cse:Attribute name="og:description" value="The Government could invest billions of pounds in the Hitachi-owned Horizon project to build a new nuclear plant on Anglesey, under plans being discussed with Japan."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="The Telegraph"/>
+    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/business/2016/12/15/government-mulls-stake-horizon-nuclear-plant/"/>
+    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/business/2016/12/15/Horizon-Wylfa-NEW-CGI-HR-v3-LIGHTENED-xlarge_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpg"/>
+    <cse:Attribute name="twitter:title" value="Government mulls stake in Horizon nuclear plant"/>
+    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/business/2016/12/15/government-mulls-stake-horizon-nuclear-plant/"/>
+    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/business/2016/12/15/Horizon-Wylfa-NEW-CGI-HR-v3-LIGHTENED-xlarge_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpg"/>
+    <cse:Attribute name="twitter:description" value="The Government could invest billions of pounds in the Hitachi-owned Horizon project to build a new nuclear plant on Anglesey, under plans being discussed with Japan."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="tmgads.businesssegment" value="business"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=303301873"/>
+    <cse:Attribute name="tmg.premium.override" value="false"/>
+    <cse:Attribute name="tmg.premium.state" value="false"/>
+    <cse:Attribute name="premiumcontentonfirstpublish" value="false"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Government mulls stake in Horizon nuclear plant"/>
+    <cse:Attribute name="name" value="Government mulls stake in Horizon nuclear plant"/>
+    <cse:Attribute name="datepublished" value="2016-12-15T19:58+0000"/>
+    <cse:Attribute name="articlebody" value="The Government could invest billions of pounds in the Hitachi-owned Horizon project to build a new nuclear plant on Anglesey, under plans being discussed with Japan. The proposal, which could..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="A CGI image of how the proposed Wylfa plant might look"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Emily Gosden"/>
+    <cse:Attribute name="jobtitle" value="Energy Editor"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="Wylfa power station"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Christopher Furlong/ Getty"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/business/2016/12/15/Horizon-Wylfa-NEW-CGI-HR-v3-LIGHTENED-xlarge_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="177"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_sv-PiqVhf7mw8jFn7yp6b_UecMMwxt8yf6WCKX-ZMrA5zWP05qzsMuQ"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
