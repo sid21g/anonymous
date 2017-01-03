@@ -5,183 +5,137 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T03:55:37.739Z</updated>
+ <updated>1970-01-18T04:03:08.286Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="5220" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="5220" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>5220</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="2660" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="2660" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>2660</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.140304</cse:searchTime>
-  <cse:formattedSearchTime>0.14</cse:formattedSearchTime>
-  <cse:totalResults>5220</cse:totalResults>
-  <cse:formattedTotalResults>5,220</cse:formattedTotalResults>
+  <cse:searchTime>0.277807</cse:searchTime>
+  <cse:formattedSearchTime>0.28</cse:formattedSearchTime>
+  <cse:totalResults>2660</cse:totalResults>
+  <cse:formattedTotalResults>2,660</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://www.bloomberg.com/news/articles/2016-12-21/premier-league-said-to-meet-u-s-owners-on-soccer-agent-concerns</id>
-  <updated>1970-01-18T03:55:37.739Z</updated>
-  <title type="html">Premier League Said to Meet US Owners on Soccer Agent Concerns</title>
-  <link href="https://www.bloomberg.com/news/articles/2016-12-21/premier-league-said-to-meet-u-s-owners-on-soccer-agent-concerns" title="www.bloomberg.com"/>
-  <summary type="html">Top officials from soccer&amp;#39;s English Premier League, including Chief Executive &lt;br&gt;
-Officer Richard Scudamore, met with U.S.-based owners in New York last month &lt;br&gt;
-to&amp;nbsp;...</summary>
-  <cse:cacheId>DLEYaV5fgG4J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.bloomberg.com/.../premier-league-said-to-meet-u-s-owners-on- soccer-agent-concerns</cse:formattedUrl>
+  <id>http://www.businessinsider.com/tech-startups-that-could-ipo-in-2017-2016-12</id>
+  <updated>1970-01-18T04:03:08.286Z</updated>
+  <title type="html">Tech startups that could IPO in 2017 - Business Insider</title>
+  <link href="http://www.businessinsider.com/tech-startups-that-could-ipo-in-2017-2016-12" title="www.businessinsider.com"/>
+  <summary type="html">In an interview with Bloomberg, HotelTonight&amp;#39;s CEO Sam Shank said that he &lt;br&gt;
+wants to take the company public, possibly by late 2017. &lt;b&gt;Sources familiar with&lt;/b&gt; the&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>Mix8tWqKgd4J</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/tech-startups-that-could-ipo-in-2017-2016-12</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="referrer" value="unsafe-url"/>
-    <cse:Attribute name="og:description" value="Top officials from soccer’s English Premier League, including Chief Executive Officer Richard Scudamore, met with U.S.-based owners in New York last month to discuss ways to tighten oversight of player agents in the sport, according to people familiar with the matter."/>
-    <cse:Attribute name="og:image" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPF0vMrTxCjE/v0/-1x-1.jpg"/>
-    <cse:Attribute name="og:site_name" value="Bloomberg.com"/>
-    <cse:Attribute name="og:title" value="Premier League Said to Meet U.S. Owners on Soccer Agent Concerns"/>
+    <cse:Attribute name="date" value="2017-01-02"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-02"/>
+    <cse:Attribute name="news_keywords" value="Features, Snapchat, Dropbox, Spotify, AppDynamics, HotelTonight, Qualtrics, Cloudera, Blue Apron, Biz Carson"/>
+    <cse:Attribute name="sailthru.tags" value="Features, Snapchat, Dropbox, Spotify, AppDynamics, HotelTonight, Qualtrics, Cloudera, Blue Apron, Biz Carson"/>
+    <cse:Attribute name="sailthru.description" value="Snapchat, Spotify, Dropbox: 2017 could be a big year for tech IPOs."/>
+    <cse:Attribute name="title" value="These tech startups are IPO candidates to watch in 2017"/>
+    <cse:Attribute name="sailthru.verticals" value="sai,enterprise,clusterstock"/>
+    <cse:Attribute name="sailthru.title" value="These tech startups are IPO candidates to watch in 2017"/>
+    <cse:Attribute name="tbi-image" value="http://static4.businessinsider.com/image/586a9050ee14b618038b6067/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static4.businessinsider.com/image/586a9050ee14b618038b6067/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static2.businessinsider.com/image/586a9050ee14b618038b6067-50-50/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
+    <cse:Attribute name="sailthru.author" value="Biz Carson"/>
+    <cse:Attribute name="og:title" value="These tech startups are IPO candidates to watch in 2017"/>
+    <cse:Attribute name="og:description" value="Snapchat, Spotify, Dropbox: 2017 could be a big year for tech IPOs."/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="https://www.bloomberg.com/news/articles/2016-12-21/premier-league-said-to-meet-u-s-owners-on-soccer-agent-concerns"/>
-    <cse:Attribute name="fb:status" value="Top officials from soccer’s English Premier League, including Chief Executive Officer Richard Scudamore, met with U.S.-based owners in New York last month to discuss ways to tighten oversight of player agents in the sport, according to people familiar with the matter."/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:description" value="Top officials from soccer’s English Premier League, including Chief Executive Officer Richard Scudamore, met with U.S.-based owners in New York last month to discuss ways to tighten oversight of player agents in the sport, according to people familiar with the matter."/>
-    <cse:Attribute name="twitter:image" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPF0vMrTxCjE/v0/-1x-1.jpg"/>
-    <cse:Attribute name="twitter:site" value="@markets"/>
-    <cse:Attribute name="twitter:title" value="Premier League Said to Meet U.S. Owners on Soccer Agent Concerns"/>
-    <cse:Attribute name="parsely-title" value="Premier League Said to Meet U.S. Owners on Soccer Agent Concerns"/>
-    <cse:Attribute name="parsely-link" value="https://www.bloomberg.com/news/articles/2016-12-21/premier-league-said-to-meet-u-s-owners-on-soccer-agent-concerns"/>
-    <cse:Attribute name="parsely-type" value="post"/>
-    <cse:Attribute name="parsely-image-url" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPF0vMrTxCjE/v0/-1x-1.jpg"/>
-    <cse:Attribute name="parsely-pub-date" value="2016-12-21T15:10:50.162Z"/>
-    <cse:Attribute name="parsely-section" value="markets"/>
-    <cse:Attribute name="parsely-tags" value="National Football League,New York,Richard Craig Scudamore,Region: Global,Page: article"/>
-    <cse:Attribute name="parsely-post-id" value="OIJAN06S972N01"/>
-    <cse:Attribute name="parsely-author" value="Scott Soshnick"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
-    <cse:Attribute name="apple-mobile-web-app-capable" value="no"/>
-    <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/tech-startups-that-could-ipo-in-2017-2016-12"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Biz Carson"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/tech-startups-that-could-ipo-in-2017-2016-12"/>
+    <cse:Attribute name="twitter:title" value="These tech startups are IPO candidates to watch in 2017"/>
+    <cse:Attribute name="twitter:description" value="Snapchat, Spotify, Dropbox: 2017 could be a big year for tech IPOs."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://static4.businessinsider.com/image/54e75ae06da811b24b885280-506-253/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
+    <cse:Attribute name="twitter:creator" value="bizcarson"/>
+    <cse:Attribute name="twitter:site" value="sai"/>
+    <cse:Attribute name="article:author" value="http://www.businessinsider.com/author/biz-carson"/>
+    <cse:Attribute name="og:image" value="http://static6.businessinsider.com/image/54e75ae06da811b24b885280-1190-625/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="sai"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
    </cse:DataObject>
    <cse:DataObject type="article">
-    <cse:Attribute name="datepublished" value="2016-12-21T15:10:50.162Z"/>
+    <cse:Attribute name="name" value="These tech startups are IPO candidates to watch in 2017"/>
+    <cse:Attribute name="url" value="These tech startups are IPO candidates to watch in 2017"/>
+    <cse:Attribute name="image" value="http://static4.businessinsider.com/image/586a9050ee14b618038b6067-100-100/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
+    <cse:Attribute name="description" value="2016 saw a dry spell for tech IPOs, but..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://assets.bwbx.io/images/izrptLrH5AWw/v1/320x180.jpg"/>
+    <cse:Attribute name="src" value="http://static3.businessinsider.com/image/54e75acfecad044c2ae01aab-2400/evan-spiegel-15.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnLdKsMztMtCwCle-kWWPvpHqGjY7dMywxkjWRB4T9JTZlwjXAfD8NCQ3Z"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.nbcnews.com/politics/politics-news/husband-kellyanne-conway-short-list-solicitor-general-sources-n701701</id>
+  <updated>1970-01-18T04:03:08.286Z</updated>
+  <title type="html">Husband of Kellyanne Conway on &amp;#39;Short List&amp;#39; for Solicitor General ...</title>
+  <link href="http://www.nbcnews.com/politics/politics-news/husband-kellyanne-conway-short-list-solicitor-general-sources-n701701" title="www.nbcnews.com"/>
+  <summary type="html">The husband of Donald Trump&amp;#39;s adviser and campaign manager Kellyanne &lt;br&gt;
+Conway is &amp;quot;on the short list&amp;quot; to serve as U.S. Solicitor General, &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>QUvzDWEyUw8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.nbcnews.com/.../husband-kellyanne-conway-short-list-solicitor-general- sources-n701701</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
+    <cse:Attribute name="og:site_name" value="NBC News"/>
+    <cse:Attribute name="og:description" value="George T. Conway III has extensive litigation experience. The Solicitor General represents the U.S. before the Supreme Court."/>
+    <cse:Attribute name="og:title" value="Kellyanne Conway&apos;s husband on list for solicitor general, sources say"/>
+    <cse:Attribute name="og:url" value="http://www.nbcnews.com/politics/politics-news/husband-kellyanne-conway-short-list-solicitor-general-sources-n701701"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://media3.s-nbcnews.com/j/newscms/2016_52/1850236/161231-kellyanne-conway-jpo-901a_207bd57432779e5f037d78bbca625a1f.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="NBCNews"/>
+    <cse:Attribute name="twitter:title" value="Kellyanne Conway&apos;s husband on list for solicitor general, sources say"/>
+    <cse:Attribute name="twitter:description" value="George T. Conway III has extensive litigation experience. The Solicitor General represents the U.S. before the Supreme Court."/>
+    <cse:Attribute name="twitter:creator" value="NBCNews"/>
+    <cse:Attribute name="twitter:image" value="http://media3.s-nbcnews.com/j/newscms/2016_52/1850236/161231-kellyanne-conway-jpo-901a_207bd57432779e5f037d78bbca625a1f.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/politics/politics-news/husband-kellyanne-conway-short-list-solicitor-general-sources-n701701"/>
+    <cse:Attribute name="news_keywords" value="Politics,Politics News,U.S. news"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
+    <cse:Attribute name="dc.date.issued" value="2016-12-31"/>
+    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
+    <cse:Attribute name="tp:preferredruntimes" value="Universal,HTML5,Flash"/>
+    <cse:Attribute name="tp:preferredformats" value="FLV,F4M,MPEG4,M3U"/>
+    <cse:Attribute name="tp:initialize" value="false"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://media4.s-nbcnews.com/j/newscms/2016_52/1850001/ap_16339567305915_533391678f19cc94f1d9ed071aaa2f49.nbcnews-fp-320-240.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="256"/>
-    <cse:Attribute name="height" value="144"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_JAoMh-8M02DQsPd4QB9OaP8OC7Ly9PI3lGRyi29bd2WL3dDEFR7smF--"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2016/12/21/politics/state-department-donald-trump-john-bolton/</id>
-  <updated>1970-01-18T03:55:37.739Z</updated>
-  <title type="html">Trump team expands search pool for No. 2 at State - CNNPolitics.com</title>
-  <link href="http://www.cnn.com/2016/12/21/politics/state-department-donald-trump-john-bolton/" title="www.cnn.com"/>
-  <summary type="html">Washington (CNN) Donald Trump&amp;#39;s transition team has expanded its search for &lt;br&gt;
-the second-in command at the State Department, several &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>mU4zFBYVbvgJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2016/.../state-department-donald-trump-john-bolton/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2016-12-21T22:46:26Z"/>
-    <cse:Attribute name="pubdate" value="2016-12-21T22:46:26Z"/>
-    <cse:Attribute name="lastmod" value="2016-12-21T22:46:26Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2016/12/21/politics/state-department-donald-trump-john-bolton/index.html"/>
-    <cse:Attribute name="author" value="Elise Labott, CNN"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/EliseLabottCNN"/>
-    <cse:Attribute name="og:title" value="Trump team expands search pool for No. 2 at State"/>
-    <cse:Attribute name="twitter:title" value="Trump team expands search pool for No. 2 at State"/>
-    <cse:Attribute name="og:description" value="Donald Trump&apos;s transition team has expanded its search for the second-in command at the State Department, several sources familiar with the deliberation told CNN, as one of the leading candidates is facing resistance."/>
-    <cse:Attribute name="twitter:description" value="Donald Trump&apos;s transition team has expanded its search for the second-in command at the State Department, several sources familiar with the deliberation told CNN, as one of the leading candidates is facing resistance."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221173045-john-bolton-12-02-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="1100"/>
-    <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221173045-john-bolton-12-02-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221173045-john-bolton-12-02-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2016/12/21/politics/state-department-donald-trump-john-bolton/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2016-12-21T22:46:26Z"/>
-    <cse:Attribute name="datepublished" value="2016-12-21T22:46:26Z"/>
-    <cse:Attribute name="datemodified" value="2016-12-21T22:46:26Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2016/12/21/politics/state-department-donald-trump-john-bolton/index.html"/>
-    <cse:Attribute name="author" value="Elise Labott, CNN"/>
-    <cse:Attribute name="headline" value="Trump team expands search pool for No. 2 at State - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="Donald Trump&apos;s transition team has expanded its search for the second-in command at the State Department, several sources familiar with the deliberation told CNN, as one of the leading candidates..."/>
-    <cse:Attribute name="keywords" value="politics, Trump team expands search pool for No. 2 at State - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221173045-john-bolton-12-02-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221173045-john-bolton-12-02-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Trump team expands search pool for No. 2 at State"/>
-    <cse:Attribute name="articlebody" value="Story highlightsJohn Bolton is encountering headwinds from fellow RepublicansMembers of the foreign policy establishment have proposed alternative candidates for the jobWashington (CNN)Donald..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221173045-john-bolton-12-02-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221173045-john-bolton-12-02-super-tease.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/lauren-hirsch</id>
-  <updated>1970-01-18T03:55:37.739Z</updated>
-  <title type="html">Lauren Hirsch</title>
-  <link href="http://www.reuters.com/journalists/lauren-hirsch" title="www.reuters.com"/>
-  <summary type="html">... cereal maker Weetabix in a deal that could value the famous British brand at &lt;br&gt;
-roughly 1 billion pounds, according to three &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>WwaF03GQG6gJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/lauren-hirsch</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/lauren-hirsch"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="height" value="192"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdD_s27mRYRpgcEVvqi5xLmBNztOcsA9zcAlyCuFSyn8z1ia-k10zmEBw"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/</id>
-  <updated>1970-01-18T03:55:37.739Z</updated>
+  <updated>1970-01-18T04:03:08.286Z</updated>
   <title type="html">Sykes, Pryor among top contenders for Supreme Court vacancy ...</title>
   <link href="http://www.cnn.com/2016/12/15/politics/trump-supreme-court-vacancy/" title="www.cnn.com"/>
   <summary type="html">Judges Diane Sykes and William Pryor are among the top contenders, according &lt;br&gt;
@@ -242,58 +196,39 @@ to multiple &lt;b&gt;sources familiar with&lt;/b&gt; the process. CNN&amp;#39;s 
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/rbs-shipping-idUSL5N1EG51F</id>
-  <updated>1970-01-18T03:55:37.739Z</updated>
-  <title type="html">UPDATE 1-RBS near to selling $600 mln of shipping loans - sources ...</title>
-  <link href="http://www.reuters.com/article/rbs-shipping-idUSL5N1EG51F" title="www.reuters.com"/>
-  <summary type="html">Royal Bank of Scotland isclose to selling at least $600 million worth of shipping &lt;br&gt;
-loansfrom its portfolio, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter toldReuters.</summary>
-  <cse:cacheId>SUD5Q05CdmUJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/rbs-shipping-idUSL5N1EG51F</cse:formattedUrl>
+  <id>http://www.reuters.com/journalists/hadeel-al-sayegh</id>
+  <updated>1970-01-18T04:03:08.286Z</updated>
+  <title type="html">Hadeel Al Sayegh</title>
+  <link href="http://www.reuters.com/journalists/hadeel-al-sayegh" title="www.reuters.com"/>
+  <summary type="html">(QIC) plans a bond issue to boost its capital reserves, &lt;b&gt;sources familiar with&lt;/b&gt; the ... &lt;br&gt;
+and water plants around the world, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
+  <cse:cacheId>F9vPA9QcJdkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/hadeel-al-sayegh</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;bondsNews;marketsNews;fundsFundsNews;rbssFinancialServicesAndRealEstateNews;rbssIndustryMaterialsUtilitiesNews;etfNews;rbssConsumerFinancialServices;rbssInvestmentServices;rbssMarinePortServices;rbssMarineTransportation;everything;forexNewsCopy;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;verizonmm;marine;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;industrialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-RBS+near+to+selling+%24600+mln+of+shipping+loans+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="RBS;SHIPPING/ (UPDATE 1);Investment Banking and Investment Services (TRBC);Japan;Tanker Freight;Western Europe;Arts / Culture / Entertainment;Dry Bulk Freight;Transportation (TRBC);Credit and Corporate Debt;Corporate Debt;Asia / Pacific;Industry News (3rd Party);Major News;Government Borrowing Requirement;Industrials (TRBC);Debt / Fixed Income Markets;Marine Services (TRBC);United Kingdom;United States;Commodities Markets;Banking Services (TRBC);Wealth Management;Americas;Banks (TRBC);Freight Transportation : Marine (TRBC);Funds;Marine Port Services (TRBC);Company News;Consumer Financial Services (TRBC);Financials (TRBC);Financials (Legacy);Container;Corporate Events;Banking and Investment Services (TRBC);Europe;Transportation Markets / Transportation;Commodities News (3rd Party);Banking Services (Legacy);Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Wed Dec 21 19:48:52 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-21T19:48:52+0000"/>
-    <cse:Attribute name="sailthru.title" value="UPDATE 1-RBS near to selling $600 mln of shipping loans - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="UPDATE 1-RBS near to selling $600 mln of shipping loans - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/rbs-shipping-idUSL5N1EG51F"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Royal Bank of Scotland isclose to selling at least $600 million worth of shipping loansfrom its portfolio, two sources familiar with the matter toldReuters."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-21T19:48:52+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-21T19:48:52+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="RBS,SHIPPING/ (UPDATE 1),Investment Banking and Investment Services (TRBC),Japan,Tanker Freight,Western Europe,Arts / Culture / Entertainment,Dry Bulk Freight,Transportation (TRBC),Credit and Corporate Debt,Corporate Debt,Asia / Pacific,Industry News (3rd Party),Major News,Government Borrowing Requirement,Industrials (TRBC),Debt / Fixed Income Markets,Marine Services (TRBC),United Kingdom,United States,Commodities Markets,Banking Services (TRBC),Wealth Management,Americas,Banks (TRBC),Freight Transportation : Marine (TRBC),Funds,Marine Port Services (TRBC),Company News,Consumer Financial Services (TRBC),Financials (TRBC),Financials (Legacy),Container,Corporate Events,Banking and Investment Services (TRBC),Europe,Transportation Markets / Transportation,Commodities News (3rd Party),Banking Services (Legacy),Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="UPDATE 1-RBS near to selling $600 mln of shipping loans - sources"/>
-    <cse:Attribute name="twitter:description" value="Royal Bank of Scotland isclose to selling at least $600 million worth of shipping loansfrom its portfolio, two sources familiar with the matter toldReuters."/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/hadeel-al-sayegh"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -306,174 +241,52 @@ loansfrom its portfolio, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.dailymail.co.uk/wires/reuters/article-4055888/Investors-shun-Italian-bank-Monte-Paschis-share-offer--sources.html</id>
-  <updated>1970-01-18T03:55:37.739Z</updated>
-  <title type="html">Investors shun Italian bank Monte Paschi&amp;#39;s share offer - sources ...</title>
-  <link href="http://www.dailymail.co.uk/wires/reuters/article-4055888/Investors-shun-Italian-bank-Monte-Paschis-share-offer--sources.html" title="www.dailymail.co.uk"/>
-  <summary type="html">... wealth fund investing 1 billion euros in its cash call, but that option is no longer &lt;br&gt;
-on the table, said the &lt;b&gt;sources familiar with&lt;/b&gt; the progress of the rescue plan.</summary>
-  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Investors-shun-Italian-bank-Monte-Paschis-share- offer--sources.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="news_keywords" value="Investors,shun,Italian,bank,Monte,Paschis,share,offer,sources"/>
-    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4055888/Investors-shun-Italian-bank-Monte-Paschis-share-offer--sources.html"/>
-    <cse:Attribute name="rating" value="General"/>
-    <cse:Attribute name="doc-class" value="Living Document"/>
-    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
-    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
-    <cse:Attribute name="twitter:account_id" value="15438913"/>
-    <cse:Attribute name="articleid" value="4055888"/>
-    <cse:Attribute name="divclasspage" value="articlePage"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Investors shun Italian bank Monte Paschi&apos;s share offer - sources"/>
-    <cse:Attribute name="twitter:description" value="By Paola Arosio and Silvia Aloisi MILAN, Dec 21 (Reuters) - Ailing Italian bank Monte dei Paschi di Siena has all but failed to pull off a privately funded r..."/>
-    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4055888/Investors-shun-Italian-bank-Monte-Paschis-share-offer--sources.html"/>
-    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
-    <cse:Attribute name="article:published_time" value="2016-12-21T17:22:33+0000"/>
-    <cse:Attribute name="article:modified_time" value="2016-12-21T17:22:36+0000"/>
-    <cse:Attribute name="article:section" value="Reuters"/>
-    <cse:Attribute name="article:tag" value="Investors shun Italian bank Monte Paschis share offer  sources"/>
-    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
-    <cse:Attribute name="fb:app_id" value="146202712090395"/>
-    <cse:Attribute name="og:site_name" value="Mail Online"/>
-    <cse:Attribute name="og:title" value="Investors shun Italian bank Monte Paschi&apos;s share offer - sources"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="By Paola Arosio and Silvia Aloisi MILAN, Dec 21 (Reuters) - Ailing Italian bank Monte dei Paschi di Siena has all but failed to pull off a privately funded r..."/>
-    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4055888/index.html"/>
-    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="og:image:width" value="636"/>
-    <cse:Attribute name="og:image:height" value="382"/>
-    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Investors shun Italian bank Monte Paschi&apos;s share offer - sources"/>
-    <cse:Attribute name="datepublished" value="2016-12-21T17:22:33+0000"/>
-    <cse:Attribute name="datemodified" value="2016-12-21T17:22:36+0000"/>
-    <cse:Attribute name="articlebody" value="Investors shun Italian bank Monte Paschi&apos;s share offer - sources By Reuters Published: 12:22 EST, 21 December 2016 | Updated: 12:22 EST, 21 December 2016 e-mail By Paola Arosio and Silvia AloisiMIL..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="By Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="height" value="382"/>
-    <cse:Attribute name="width" value="636"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="MailOnline"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
-    <cse:Attribute name="width" value="350"/>
-    <cse:Attribute name="height" value="66"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="290"/>
-    <cse:Attribute name="height" value="174"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cbsnews.com/news/former-trump-adversaries-join-trump-at-his-mar-a-lago-club/</id>
-  <updated>1970-01-18T03:55:37.739Z</updated>
-  <title type="html">Trump meets with one-time adversary David Koch at Mar-a-Lago ...</title>
-  <link href="http://www.cbsnews.com/news/former-trump-adversaries-join-trump-at-his-mar-a-lago-club/" title="www.cbsnews.com"/>
-  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the impromptu meeting told the Washington Post that Mr. &lt;br&gt;
-Trump had met with billionaire businessman and philanthropist David Koch at his&lt;br&gt;
+  <id>http://www.businessinsider.com/sears-bears-will-be-right-in-2017-2016-12</id>
+  <updated>1970-01-18T04:03:08.286Z</updated>
+  <title type="html">Sears bears will be right in 2017 - Business Insider</title>
+  <link href="http://www.businessinsider.com/sears-bears-will-be-right-in-2017-2016-12" title="www.businessinsider.com"/>
+  <summary type="html">But on December 16, according to Debtwire, “three &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter” said that suppliers were “requesting cash in advance before they agree to&lt;br&gt;
 &amp;nbsp;...</summary>
-  <cse:cacheId>upFxWj09MIYJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cbsnews.com/.../former-trump-adversaries-join-trump-at-his-mar-a-lago -club/</cse:formattedUrl>
+  <cse:cacheId>q5zT5hRZJYoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/sears-bears-will-be-right-in-2017-2016-12</cse:formattedUrl>
   <cse:PageMap>
+   <cse:DataObject type="rel">
+    <cse:Attribute name="rel" value="syndication-source"/>
+    <cse:Attribute name="url" value="http://wolfstreet.com/2016/12/29/2nd-half-2017-when-sears-files-bankruptcy/"/>
+   </cse:DataObject>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width"/>
-    <cse:Attribute name="al:web:url" value="http://www.cbsnews.com/news/former-trump-adversaries-join-trump-at-his-mar-a-lago-club/"/>
-    <cse:Attribute name="al:ios:app_name" value="CBS News"/>
-    <cse:Attribute name="al:ios:app_store_id" value="334256223"/>
-    <cse:Attribute name="al:ios:url" value="cbsnewsapp://news/former-trump-adversaries-join-trump-at-his-mar-a-lago-club/"/>
-    <cse:Attribute name="al:android:app_name" value="CBS News"/>
-    <cse:Attribute name="al:android:package" value="com.treemolabs.apps.cbsnews"/>
+    <cse:Attribute name="date" value="2016-12-31"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-31"/>
+    <cse:Attribute name="news_keywords" value="Wolf Street, Sears, Eddie Lampert, Bankruptcy, Wolf Richter"/>
+    <cse:Attribute name="sailthru.tags" value="Wolf Street, Sears, Eddie Lampert, Bankruptcy, Wolf Richter"/>
+    <cse:Attribute name="sailthru.description" value="&quot;After many years of disappointment, Sears doom-and-gloomers might finally approach the end of their long wait&quot;"/>
+    <cse:Attribute name="title" value="The end of Sears is near"/>
+    <cse:Attribute name="sailthru.verticals" value="moneygame-contributor,moneygame,clusterstock,retail"/>
+    <cse:Attribute name="sailthru.title" value="The end of Sears is near"/>
+    <cse:Attribute name="tbi-image" value="http://static1.businessinsider.com/image/56cf1af26e97c629008b9955/the-end-of-sears-is-near.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static1.businessinsider.com/image/56cf1af26e97c629008b9955/the-end-of-sears-is-near.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static2.businessinsider.com/image/56cf1af26e97c629008b9955-50-50/the-end-of-sears-is-near.jpg"/>
+    <cse:Attribute name="sailthru.author" value="Wolf Richter"/>
+    <cse:Attribute name="og:title" value="The end of Sears is near"/>
+    <cse:Attribute name="og:description" value="&quot;After many years of disappointment, Sears doom-and-gloomers might finally approach the end of their long wait&quot;"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.cbsnews.com/news/former-trump-adversaries-join-trump-at-his-mar-a-lago-club/"/>
-    <cse:Attribute name="og:title" value="Trump meets with one-time adversary David Koch at Mar-a-Lago"/>
-    <cse:Attribute name="og:description" value="Conservative journalist reportedly set up the meeting, which also included Reince Priebus"/>
-    <cse:Attribute name="og:image" value="http://cbsnews2.cbsistatic.com/hub/i/r/2016/03/01/afa86e6e-59d7-4a3f-9eac-ae38b16d0de0/thumbnail/1200x630/c01a7fc1add3be0019e03d654f31572b/9-david-koch-ap33350922001.jpg"/>
-    <cse:Attribute name="og:image:width" value="1200"/>
-    <cse:Attribute name="og:image:height" value="630"/>
-    <cse:Attribute name="fb:app_id" value="1536620209892267"/>
-    <cse:Attribute name="twitter:app:country" value="US"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="CBS News"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="334256223"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="cbsnewsapp://news/former-trump-adversaries-join-trump-at-his-mar-a-lago-club/"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="CBS News"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="334256223"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="cbsnewsapp://news/former-trump-adversaries-join-trump-at-his-mar-a-lago-club/"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="CBS News"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.treemolabs.apps.cbsnews"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="http://www.cbsnews.com/news/former-trump-adversaries-join-trump-at-his-mar-a-lago-club/"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@CBSPolitics"/>
-    <cse:Attribute name="twitter:title" value="Trump meets with one-time adversary David Koch at Mar-a-Lago"/>
-    <cse:Attribute name="twitter:description" value="Conservative journalist reportedly set up the meeting, which also included Reince Priebus"/>
-    <cse:Attribute name="twitter:image" value="http://cbsnews2.cbsistatic.com/hub/i/r/2016/03/01/afa86e6e-59d7-4a3f-9eac-ae38b16d0de0/thumbnail/1200x630/c01a7fc1add3be0019e03d654f31572b/9-david-koch-ap33350922001.jpg"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/CBSPolitics"/>
-    <cse:Attribute name="news_keywords" value="koch brothers, trump administration, mar-a-lago club"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://cbsnews2.cbsistatic.com/hub/i/r/2016/03/01/afa86e6e-59d7-4a3f-9eac-ae38b16d0de0/thumbnail/1200x630/c01a7fc1add3be0019e03d654f31572b/9-david-koch-ap33350922001.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4OpOMCEMcQ4fednTfa-PdPqKbNM2JtUqoZ8XrMs2-1rETysUjuJHFL_Sq"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave---sources-2016-12</id>
-  <updated>1970-01-18T03:55:37.739Z</updated>
-  <title type="html">Exclusive: Viacom unit head overseeing MTV, Comedy Central to ...</title>
-  <link href="http://www.businessinsider.com/r-exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave---sources-2016-12" title="www.businessinsider.com"/>
-  <summary type="html">... who oversees the networks Comedy Central and MTV, is expected to leave the &lt;br&gt;
-company next month, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the matter. Herzog&amp;nbsp;...</summary>
-  <cse:cacheId>s_vpSEYGgMMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-exclusive-viacom-unit-head-overseeing-mtv- comedy-central-to-leave---sources-2016-12</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2016-12-21"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-21"/>
-    <cse:Attribute name="news_keywords" value="Reuters"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters"/>
-    <cse:Attribute name="sailthru.description" value="By Liana B. Baker and Jessica ToonkelSAN..."/>
-    <cse:Attribute name="title" value="Exclusive: Viacom unit head overseeing MTV, Comedy Central to leave - sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business,clusterstock"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Viacom unit head overseeing MTV, Comedy Central to leave - sources"/>
-    <cse:Attribute name="tbi-image" value="http://static1.businessinsider.com/image/585aca6b5124c9280c32c696/exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static1.businessinsider.com/image/585aca6b5124c9280c32c696/exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static3.businessinsider.com/image/585aca6b5124c9280c32c696-50-50/exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave-sources.jpg"/>
-    <cse:Attribute name="og:title" value="Exclusive: Viacom unit head overseeing MTV, Comedy Central to leave - sources"/>
-    <cse:Attribute name="og:description" value="By Liana B. Baker and Jessica ToonkelSAN..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave---sources-2016-12"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/sears-bears-will-be-right-in-2017-2016-12"/>
     <cse:Attribute name="og:site_name" value="Business Insider"/>
     <cse:Attribute name="fb:app_id" value="155043519637"/>
     <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave---sources-2016-12"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Viacom unit head overseeing MTV, Comedy Central to leave - sources"/>
-    <cse:Attribute name="twitter:description" value="By Liana B. Baker and Jessica ToonkelSAN..."/>
+    <cse:Attribute name="author" value="Wolf Richter, Wolf Street"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/sears-bears-will-be-right-in-2017-2016-12"/>
+    <cse:Attribute name="twitter:title" value="The end of Sears is near"/>
+    <cse:Attribute name="twitter:description" value="&quot;After many years of disappointment, Sears doom-and-gloomers might finally approach the end of their long wait&quot;"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static4.businessinsider.com/image/585aca6b5124c9280c32c696-506-253/exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave-sources.jpg"/>
-    <cse:Attribute name="og:image" value="http://static2.businessinsider.com/image/585aca6b5124c9280c32c696-1190-625/exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave-sources.jpg"/>
-    <cse:Attribute name="pm:template" value="noad-byline"/>
+    <cse:Attribute name="twitter:image" value="http://static4.businessinsider.com/image/58667395f10a9a1d008b5e11-506-253/the-end-of-sears-is-near.jpg"/>
+    <cse:Attribute name="twitter:creator" value="wolfofwallst"/>
+    <cse:Attribute name="twitter:site" value="bi_contributors"/>
+    <cse:Attribute name="article:author" value="http://www.businessinsider.com/author/wolf-richter"/>
+    <cse:Attribute name="og:image" value="http://static3.businessinsider.com/image/58667395f10a9a1d008b5e11-1190-625/the-end-of-sears-is-near.jpg"/>
     <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="tbi-vertical" value="moneygame-contributor"/>
     <cse:Attribute name="viewport" value="width=1024"/>
     <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
     <cse:Attribute name="application-name" value="Business Insider"/>
@@ -483,30 +296,240 @@ company next month, according to two &lt;b&gt;sources familiar with&lt;/b&gt; th
     <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
    </cse:DataObject>
    <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Exclusive: Viacom unit head overseeing MTV, Comedy Central to leave - sources"/>
-    <cse:Attribute name="url" value="Exclusive: Viacom unit head overseeing MTV, Comedy Central to leave - sources"/>
-    <cse:Attribute name="image" value="http://static4.businessinsider.com/image/585aca6b5124c9280c32c696-506-253/exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave-sources.jpg"/>
-    <cse:Attribute name="description" value="By Liana B. Baker and Jessica ToonkelSAN..."/>
+    <cse:Attribute name="name" value="The end of Sears is near"/>
+    <cse:Attribute name="url" value="The end of Sears is near"/>
+    <cse:Attribute name="image" value="http://static5.businessinsider.com/image/56cf1af26e97c629008b9955-100-100/the-end-of-sears-is-near.jpg"/>
+    <cse:Attribute name="description" value="Sears Holding Corp., which owns the Sears and..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static4.businessinsider.com/image/585aca6b5124c9280c32c696-506-253/exclusive-viacom-unit-head-overseeing-mtv-comedy-central-to-leave-sources.jpg"/>
+    <cse:Attribute name="src" value="http://static5.businessinsider.com/assets/images/logos/BI.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_yNVjcSO2WTf9y43BBWZuZbQKsyf536tXi_2_-ccawzKzysvIyeogn4vR"/>
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOfK1aTywzbJF5wT__2pDGkJ55dcsXy2pEeZanJRsGSNgD7zDifsz6b18a"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/finance/stocks/overview?symbol=RIO</id>
-  <updated>1970-01-18T03:55:37.739Z</updated>
-  <title type="html">Rio Tinto PLC (RIO) Quote| Reuters.com</title>
-  <link href="http://www.reuters.com/finance/stocks/overview?symbol=RIO" title="www.reuters.com"/>
+  <id>http://www.reuters.com/article/technology-ipos-factbox-idINKBN14J0GK</id>
+  <updated>1970-01-18T04:03:08.286Z</updated>
+  <title type="html">Factbox - Software companies preparing for 2017 IPOs | Reuters</title>
+  <link href="http://www.reuters.com/article/technology-ipos-factbox-idINKBN14J0GK" title="www.reuters.com"/>
+  <summary type="html">... the early stages of prepping an IPO for 2017, according to &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+the matter. It has not yet selected underwriters for its offering, the sources said.</summary>
+  <cse:cacheId>HVsgOUj4XYUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/technology-ipos-factbox-idINKBN14J0GK</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+    <cse:Attribute name="format-detection" value="telephone=no"/>
+    <cse:Attribute name="win-tracking-page-type" value="Article"/>
+    <cse:Attribute name="win-tracking-section-name" value="Article"/>
+    <cse:Attribute name="win-quote-link" value="/finance/stocks/overview"/>
+    <cse:Attribute name="dcsext.articleid" value="INKBN14J0GK"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.dartzone" value="mobile.us.reuters/technology/article"/>
+    <cse:Attribute name="news_keywords" value="United States;Kirk Krappe;TECHNOLOGY;IPOS;FACTBOX;Company News;Factboxes;Software and IT Services (TRBC);Analyses;Initial Public Offerings;Information Technologies / Computer Sciences;Software (TRBC);Corporate Events;Technology (TRBC);Business Support Services (TRBC);Investment Banking and Brokerage Services (TRBC);Major News;Corporate Finance;Enterprise Reporting;Science;Technology / Media / Telecoms;Private Equity Funds;United States;IT Services and Consulting (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Factbox - Software companies preparing for 2017 IPOs"/>
+    <cse:Attribute name="twitter:description" value="At least 15 enterprise software companies are preparing to go public in 2017. Here&apos;s a rundown of their plans and business models.  "/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v3/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image:alt" value="Factbox - Software companies preparing for 2017 IPOs"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Factbox - Software companies preparing for 2017 IPOs"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v3/images/rcom-default.png"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/technology-ipos-factbox-idINKBN14J0GK"/>
+    <cse:Attribute name="og:description" value="At least 15 enterprise software companies are preparing to go public in 2017. Here&apos;s a rundown of their plans and business models.  "/>
+    <cse:Attribute name="article:published_time" value="2016-12-30T21:07:40+0000"/>
+    <cse:Attribute name="article:modified_time" value="2016-12-30T21:07:40+0000"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=602660809"/>
+    <cse:Attribute name="application-name" value="Reuters.com"/>
+    <cse:Attribute name="msapplication-tap-highlight" value="no"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#da532c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://s2.reutersmedia.net/resources_v3/images/favicon/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-310x310.png"/>
+    <cse:Attribute name="analyticsattributes.topicchannel" value="Technology"/>
+    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Technology"/>
+    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="Factbox - Software companies preparing for 2017 IPOs"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="Fri Dec 30 21:07:40 UTC 2016"/>
+    <cse:Attribute name="analyticsattributes.contentchannel" value="Technology - Technology"/>
+    <cse:Attribute name="analyticsattributes.inlinetype" value="None"/>
+    <cse:Attribute name="analyticsattributes.author" value="Liana B. Baker and Lauren Hirsch"/>
+    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
+    <cse:Attribute name="win-tracking-article-id" value="INKBN14J0GK"/>
+    <cse:Attribute name="win-tracking-article-title" value="Factbox - Software companies preparing for 2017 IPOs"/>
+    <cse:Attribute name="win-tracking-article-author" value="Liana B. Baker and Lauren Hirsch"/>
+    <cse:Attribute name="win-tracking-article-publishdate" value="Fri Dec 30, 2016 | 4:07 PM EST"/>
+    <cse:Attribute name="win-tracking-article-type" value="None"/>
+    <cse:Attribute name="jjj" value="technologyNews"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v3/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNimnNyiGCKtwbJXfBunW-2jBCumDNasdNPEpEroaNM6YS3hwXAJ8q7C7G"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-cd-r-fundraising-idUSKBN14H181</id>
+  <updated>1970-01-18T04:03:08.286Z</updated>
+  <title type="html">CD&amp;amp;R clinches $6 billion for latest private equity fund: sources ...</title>
+  <link href="http://www.reuters.com/article/us-cd-r-fundraising-idUSKBN14H181" title="www.reuters.com"/>
+  <summary type="html">... its latest private equity fund, just a little more than two months after it began &lt;br&gt;
+fundraising with a $8.5 billion target, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>-2Kfn07vCuYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-cd-r-fundraising-idUSKBN14H181</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="newsOne;innovationNews;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;vbcSmallBusiness;everything;Deals;forexNewsCopy;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;shipping;nonegative;PorscheCayenne;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="CD%26R+clinches+%246+billion+for+latest+private+equity+fund%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Greg Roumeliotis"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Greg Roumeliotis"/>
+    <cse:Attribute name="news_keywords" value="United Kingdom;United States;US;CD;R;FUNDRAISING;Mergers / Acquisitions / Takeovers;Funds;Company News;Western Europe;Corporate Events;Investment Banking and Brokerage Services (TRBC);Government Borrowing Requirement;Corporate Finance;Europe;United Kingdom;Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Wed Dec 28 15:33:04 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Greg Roumeliotis"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-28T15:33:04+0000"/>
+    <cse:Attribute name="sailthru.title" value="CD&amp;R clinches $6 billion for latest private equity fund: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="CD&amp;R clinches $6 billion for latest private equity fund: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-cd-r-fundraising-idUSKBN14H181"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Clayton Dubilier &amp; Rice LLC (CD&amp;R) is close to securing $6 billion from investors for its latest private equity fund, just a little more than two months after it began fundraising with a $8.5 billion target, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-12-28T15:33:04+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-12-28T15:33:04+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Greg Roumeliotis"/>
+    <cse:Attribute name="og:article:tag" value="United Kingdom,United States,US,CD,R,FUNDRAISING,Mergers / Acquisitions / Takeovers,Funds,Company News,Western Europe,Corporate Events,Investment Banking and Brokerage Services (TRBC),Government Borrowing Requirement,Corporate Finance,Europe,United Kingdom,Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="CD&amp;R clinches $6 billion for latest private equity fund: sources"/>
+    <cse:Attribute name="twitter:description" value="Clayton Dubilier &amp; Rice LLC (CD&amp;R) is close to securing $6 billion from investors for its latest private equity fund, just a little more than two months after it began fundraising with a $8.5 billion target, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2016/12/30/politics/kellyanne-conways-husband-on-short-list-for-top-us-lawyer-job/index.html</id>
+  <updated>1970-01-18T04:03:08.286Z</updated>
+  <title type="html">Kellyanne Conway&amp;#39;s husband on short list for top US lawyer job ...</title>
+  <link href="http://www.cnn.com/2016/12/30/politics/kellyanne-conways-husband-on-short-list-for-top-us-lawyer-job/index.html" title="www.cnn.com"/>
+  <summary type="html">... Donald Trump&amp;#39;s senior advisers, is on the shortlist of candidates to be &lt;br&gt;
+nominated as US solicitor general, two &lt;b&gt;sources familiar with&lt;/b&gt; the process told &lt;br&gt;
+CNN.</summary>
+  <cse:cacheId>A4MqzALmi1IJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2016/12/30/politics/kellyanne.../index.html</cse:formattedUrl>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/russia-lukoil-idUSL5N1EL09R</id>
+  <updated>1970-01-18T04:03:08.286Z</updated>
+  <title type="html">Russia&amp;#39;s Lukoil appoints new VP for sales and supplies - sources ...</title>
+  <link href="http://www.reuters.com/article/russia-lukoil-idUSL5N1EL09R" title="www.reuters.com"/>
+  <summary type="html">... by Vadim Vorobyov, previously Lukoil&amp;#39;s vice-president for oil refining, gas &lt;br&gt;
+processing and petrochemicals, according to the &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>ObJA6CC0ZJwJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/russia-lukoil-idUSL5N1EL09R</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="energySector"/>
+    <cse:Attribute name="dcsext.channellist" value="swissMktRpt;rbssEnergyNews;rbssIntegratedOilGas;rbssOilGasExplorationProduction;everything;India;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;credit-rss;cfaglobal;aa48hours;nonegative;dassaultuk;ubs;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;MOC_US_2017;energySector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Russia%27s+Lukoil+appoints+new+VP+for+sales+and+supplies+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-energySector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="RUSSIA;LUKOIL/;Chemicals (Legacy);Energy Markets;Mergers / Acquisitions / Takeovers;Russia;Western Europe;Crude Oil;International Trade;Energy (Legacy);Equity Investments;Central / Eastern Europe;Oil and Gas Exploration and Production (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Industry News (3rd Party);Government Borrowing Requirement;Russia / Other CIS Crudes;Deals;United Kingdom;Commodities Markets;Key Personnel Changes;Switzerland;Company News;CIS Countries;Government / Politics;Corporate Events;Economic Events;Oil and Gas (TRBC);General News;Corporate Governance;Integrated Oil and Gas (TRBC);Refined Products;Energy (TRBC);Europe;Commodities News (3rd Party);Company Management Issues;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Tue Dec 27 07:00:01 UTC 2016"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2016-12-27T07:00:01+0000"/>
+    <cse:Attribute name="sailthru.title" value="Russia&apos;s Lukoil appoints new VP for sales and supplies - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Russia&apos;s Lukoil appoints new VP for sales and supplies - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/russia-lukoil-idUSL5N1EL09R"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Russia&apos;s second biggest oilproducer Lukoil has appointed a new vice-president forsales and supplies after state-owned rival Rosneft clinched several major deals at its expense, three sources toldReuters."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2016-12-27T07:00:01+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2016-12-27T07:00:01+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="RUSSIA,LUKOIL/,Chemicals (Legacy),Energy Markets,Mergers / Acquisitions / Takeovers,Russia,Western Europe,Crude Oil,International Trade,Energy (Legacy),Equity Investments,Central / Eastern Europe,Oil and Gas Exploration and Production (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Industry News (3rd Party),Government Borrowing Requirement,Russia / Other CIS Crudes,Deals,United Kingdom,Commodities Markets,Key Personnel Changes,Switzerland,Company News,CIS Countries,Government / Politics,Corporate Events,Economic Events,Oil and Gas (TRBC),General News,Corporate Governance,Integrated Oil and Gas (TRBC),Refined Products,Energy (TRBC),Europe,Commodities News (3rd Party),Company Management Issues,Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Russia&apos;s Lukoil appoints new VP for sales and supplies - sources"/>
+    <cse:Attribute name="twitter:description" value="Russia&apos;s second biggest oilproducer Lukoil has appointed a new vice-president forsales and supplies after state-owned rival Rosneft clinched several major deals at its expense, three sources toldReuters."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/energy/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/finance/stocks/overview?symbol=RIO.N</id>
+  <updated>1970-01-18T04:03:08.286Z</updated>
+  <title type="html">Rio Tinto PLC (RIO.N) Quote| Reuters.com</title>
+  <link href="http://www.reuters.com/finance/stocks/overview?symbol=RIO.N" title="www.reuters.com"/>
   <summary type="html">... billion impairment charge booked by miner Rio Tinto in 2013 on the value of a &lt;br&gt;
 Mozambican coal asset, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Tuesday.</summary>
-  <cse:cacheId>rd77ItQAGc0J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/finance/stocks/overview?symbol=RIO</cse:formattedUrl>
+  <cse:cacheId>SYouA9JMaGsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/finance/stocks/overview?symbol=RIO.N</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
@@ -521,7 +544,7 @@ Mozambican coal asset, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter s
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="og:title" value="${Instrument_CompanyName} ${Instrument_Ric}  Quote| Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/finance/stocks/overview?symbol=RIO"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/finance/stocks/overview?symbol=RIO.N"/>
     <cse:Attribute name="og:type" value="section"/>
     <cse:Attribute name="og:description" value="Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&amp;P, and Nasdaq at Reuters.com"/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -540,71 +563,6 @@ Mozambican coal asset, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter s
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-eurozone-banks-italy-montepaschi-offe-idUSKBN14A1NV</id>
-  <updated>1970-01-18T03:55:37.739Z</updated>
-  <title type="html">Exclusive: Investors snub Italian bank Monte Paschi&amp;#39;s share offer ...</title>
-  <link href="http://www.reuters.com/article/us-eurozone-banks-italy-montepaschi-offe-idUSKBN14A1NV" title="www.reuters.com"/>
-  <summary type="html">... Qatar&amp;#39;s sovereign wealth fund investing 1 billion euros in its cash call, but that &lt;br&gt;
-option is no longer on the table, said the &lt;b&gt;sources familiar with&lt;/b&gt; the progress of the&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>fS8sVQpuA4cJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-eurozone-banks-italy-montepaschi-offe- idUSKBN14A1NV</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="businessNews"/>
-    <cse:Attribute name="dcsext.channellist" value="businessNews;ousivMolt;Retirement;italy;everything;Deals;Davos;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;credit-rss;Davos2012;davosBackup;cfaglobal;aa48hours;greenpeace;Intel;PFG;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Investors+snub+Italian+bank+Monte+Paschi%27s+share+offer+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Paola Arosio and Silvia Aloisi"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-businessNews"/>
-    <cse:Attribute name="author" value="Paola Arosio and Silvia Aloisi"/>
-    <cse:Attribute name="news_keywords" value="Italy;Qatar;Paolo Gentiloni;US;EUROZONE;BANKS;ITALY;MONTEPASCHI;OFFER;EXCLUSIVE;Banks (TRBC);Mergers / Acquisitions / Takeovers;Company News;Western Europe;Financials (TRBC);Exclusive;Financials (Legacy);New Issues;Italy;Corporate Events;Qatar;National Government Debt;Reuters Top News;Banking and Investment Services (TRBC);Euro Zone as a Whole;Major News;Europe;Middle East;Banking Capital and Liquidity Requirements;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Wed Dec 21 21:49:09 UTC 2016"/>
-    <cse:Attribute name="sailthru.author" value="Paola Arosio and Silvia Aloisi"/>
-    <cse:Attribute name="sailthru.date" value="2016-12-21T21:49:09+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Investors snub Italian bank Monte Paschi&apos;s share offer - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Investors snub Italian bank Monte Paschi&apos;s share offer - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-eurozone-banks-italy-montepaschi-offe-idUSKBN14A1NV"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Monte dei Paschi di Siena (BMPS.MI) has all but failed to pull off a last-ditch rescue plan and a state bailout for the ailing Italian bank now looks inevitable, sources said on Wednesday."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161221&amp;t=2&amp;i=1166301183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBK10J"/>
-    <cse:Attribute name="og:article:published_time" value="2016-12-21T21:49:09+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2016-12-21T21:49:09+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Paola Arosio and Silvia Aloisi"/>
-    <cse:Attribute name="og:article:tag" value="Italy,Qatar,Paolo Gentiloni,US,EUROZONE,BANKS,ITALY,MONTEPASCHI,OFFER,EXCLUSIVE,Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Western Europe,Financials (TRBC),Exclusive,Financials (Legacy),New Issues,Italy,Corporate Events,Qatar,National Government Debt,Reuters Top News,Banking and Investment Services (TRBC),Euro Zone as a Whole,Major News,Europe,Middle East,Banking Capital and Liquidity Requirements,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Investors snub Italian bank Monte Paschi&apos;s share offer - sources"/>
-    <cse:Attribute name="twitter:description" value="Monte dei Paschi di Siena (BMPS.MI) has all but failed to pull off a last-ditch rescue plan and a state bailout for the ailing Italian bank now looks inevitable, sources said on Wednesday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161221&amp;t=2&amp;i=1166301183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBK10J"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161221&amp;t=2&amp;i=1166301183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBK10J"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Business"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20161221&amp;t=2&amp;i=1166301183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPECBK10J"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="280"/>
-    <cse:Attribute name="height" value="180"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj6HdEmAIt3-EB2FuS4wHvOXdu_R0ootcdphHDGkJ6ReXEedcja49uDzg"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
