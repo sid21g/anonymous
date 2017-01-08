@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T04:09:08.652Z</updated>
+ <updated>1970-01-18T04:11:27.592Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="7540" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="7540" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>7540</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="5170" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="5170" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>5170</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.311965</cse:searchTime>
-  <cse:formattedSearchTime>0.31</cse:formattedSearchTime>
-  <cse:totalResults>7540</cse:totalResults>
-  <cse:formattedTotalResults>7,540</cse:formattedTotalResults>
+  <cse:searchTime>0.290046</cse:searchTime>
+  <cse:formattedSearchTime>0.29</cse:formattedSearchTime>
+  <cse:totalResults>5170</cse:totalResults>
+  <cse:formattedTotalResults>5,170</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-iran-vitol-oil-idUSKBN14O0HR</id>
-  <updated>1970-01-18T04:09:08.652Z</updated>
+  <updated>1970-01-18T04:11:27.592Z</updated>
   <title type="html">Vitol clinches $1 billion pre-finance oil deal with Iran: sources | Reuters</title>
   <link href="http://www.reuters.com/article/us-iran-vitol-oil-idUSKBN14O0HR" title="www.reuters.com"/>
   <summary type="html">(NIOC) to loan it an equivalent of $1 billion in euros guaranteed by future exports &lt;br&gt;
@@ -59,7 +59,6 @@ of refined products, four &lt;b&gt;sources familiar with&lt;/b&gt; the matter sa
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170104&amp;t=2&amp;i=1167537685&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED030L8"/>
     <cse:Attribute name="og:article:published_time" value="2017-01-04T11:16:20+0000"/>
     <cse:Attribute name="og:article:modified_time" value="2017-01-04T11:16:20+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
     <cse:Attribute name="og:article:author" value="Julia Payne and Rania El Gamal"/>
     <cse:Attribute name="og:article:tag" value="Iran,Saudi Arabia,United States,BARAK OBAMA,Bob Dudley,Donald Trump,US,IRAN,VITOL,OIL,Chemicals (Legacy),Energy Markets,Iron Ore,Crude Oil,International Trade,Energy (Legacy),Oil and Gas Exploration and Production (TRBC),Oil and Gas Refining and Marketing (TRBC),Oil and Gas Drilling (TRBC),Middle East,Organization of the Petroleum Exporting Countries,United States,Switzerland,Company News,Iran,Middle East (Energy),Government / Politics,Corporate Events,Economic Events,Oil and Gas (TRBC),Europe / Middle East / Africa (Energy),Integrated Oil and Gas (TRBC),Refined Products,Europe"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
@@ -69,25 +68,22 @@ of refined products, four &lt;b&gt;sources familiar with&lt;/b&gt; the matter sa
     <cse:Attribute name="twitter:description" value="The world&apos;s largest oil trader, Vitol, has clinched a deal with the National Iranian Oil Co. (NIOC) to loan it an equivalent of $1 billion in euros guaranteed by future exports of refined products, four sources familiar with the matter said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170104&amp;t=2&amp;i=1167537685&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED030L8"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170104&amp;t=2&amp;i=1167537685&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED030L8"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170104&amp;t=2&amp;i=1167537685&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED030L8"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="280"/>
-    <cse:Attribute name="height" value="180"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxa4YY38YBTrV05U1pTwF2jPGHE20fLUc45m7l95tLZfYOX5VQIz0BKDU"/>
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.chicagotribune.com/news/nationworld/ct-charles-manson-hospitalized-20170103-story.html</id>
-  <updated>1970-01-18T04:09:08.652Z</updated>
+  <updated>1970-01-18T04:11:27.592Z</updated>
   <title type="html">Mass murderer Charles Manson seriously ill, moved to hospital ...</title>
   <link href="http://www.chicagotribune.com/news/nationworld/ct-charles-manson-hospitalized-20170103-story.html" title="www.chicagotribune.com"/>
   <summary type="html">Mass murderer Charles Manson was taken from a Central Valley prison to a &lt;br&gt;
@@ -114,7 +110,7 @@ hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt
     <cse:Attribute name="googlebot-news" value="index"/>
     <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/92253462"/>
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i18prod-1dcf16e-10-28.1"/>
+    <cse:Attribute name="x-servername" value="i18prod-1dcf16e-0-205.1"/>
    </cse:DataObject>
    <cse:DataObject type="article">
     <cse:Attribute name="articlesection" value="News"/>
@@ -126,11 +122,16 @@ hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://www.trbimg.com/img-586c2e60/turbine/ct-charles-manson-hospitalized-20170103"/>
    </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="292"/>
+    <cse:Attribute name="height" value="173"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj66GJ5XFPKVqnuuisXs728_MgcgTQ59b35VBPa5mQ6m0Bc9PleSp1GUs"/>
+   </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.latimes.com/local/lanow/la-me-charles-manson-hospitalized-20170103-story.html</id>
-  <updated>1970-01-18T04:09:08.652Z</updated>
+  <updated>1970-01-18T04:11:27.592Z</updated>
   <title type="html">Charles Manson hospitalized for a serious illness, sources say - LA ...</title>
   <link href="http://www.latimes.com/local/lanow/la-me-charles-manson-hospitalized-20170103-story.html" title="www.latimes.com"/>
   <summary type="html">Mass murderer Charles Manson has been taken from a Central Valley prison to a &lt;br&gt;
@@ -180,7 +181,7 @@ hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-usa-trump-intelligence-idUSKBN14Q00V</id>
-  <updated>1970-01-18T04:09:08.652Z</updated>
+  <updated>1970-01-18T04:11:27.592Z</updated>
   <title type="html">Trump team has differences of opinion on shaping spy agencies ...</title>
   <link href="http://www.reuters.com/article/us-usa-trump-intelligence-idUSKBN14Q00V" title="www.reuters.com"/>
   <summary type="html">... takes office and it is unclear whether his national security adviser will prevail in &lt;br&gt;
@@ -243,195 +244,116 @@ advocating a reorganization, &lt;b&gt;sources familiar with&lt;/b&gt; the matter
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/tech-startups-that-could-ipo-in-2017-2016-12</id>
-  <updated>1970-01-18T04:09:08.652Z</updated>
-  <title type="html">Tech startups that could IPO in 2017 - Business Insider</title>
-  <link href="http://www.businessinsider.com/tech-startups-that-could-ipo-in-2017-2016-12" title="www.businessinsider.com"/>
-  <summary type="html">Music streaming service Spotify has been on the rumored IPO list for years, but &lt;br&gt;
-2017 is definitely on its radar, according to &lt;b&gt;sources familiar with&lt;/b&gt; the company.</summary>
-  <cse:cacheId>Mix8tWqKgd4J</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/tech-startups-that-could-ipo-in-2017-2016-12</cse:formattedUrl>
+  <id>https://www.yahoo.com/news/m/a38baae5-0ab5-3152-bbd1-d9c043fd5b1b/ss_mass-murderer-charles-manson.html</id>
+  <updated>1970-01-18T04:11:27.592Z</updated>
+  <title type="html">Charles Manson hospitalized for a serious illness, sources say</title>
+  <link href="https://www.yahoo.com/news/m/a38baae5-0ab5-3152-bbd1-d9c043fd5b1b/ss_mass-murderer-charles-manson.html" title="www.yahoo.com"/>
+  <summary type="html">Mass murderer Charles Manson has been taken from a Central Valley prison to a &lt;br&gt;
+hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>xKPUsDcBES0J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.yahoo.com/.../ss_mass-murderer-charles-manson.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-01-03"/>
-    <cse:Attribute name="sailthru.date" value="2017-01-03"/>
-    <cse:Attribute name="news_keywords" value="Features, Snapchat, Dropbox, Spotify, AppDynamics, HotelTonight, Qualtrics, Cloudera, Blue Apron, Biz Carson"/>
-    <cse:Attribute name="sailthru.tags" value="Features, Snapchat, Dropbox, Spotify, AppDynamics, HotelTonight, Qualtrics, Cloudera, Blue Apron, Biz Carson"/>
-    <cse:Attribute name="sailthru.description" value="Snapchat, Spotify, Dropbox: 2017 could be a big year for tech IPOs."/>
-    <cse:Attribute name="title" value="These tech startups are IPO candidates to watch in 2017"/>
-    <cse:Attribute name="sailthru.verticals" value="sai,enterprise,clusterstock,moneygame,advertising"/>
-    <cse:Attribute name="sailthru.title" value="These tech startups are IPO candidates to watch in 2017"/>
-    <cse:Attribute name="tbi-image" value="http://static5.businessinsider.com/image/586bb5b2f10a9a23008b6262/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static5.businessinsider.com/image/586bb5b2f10a9a23008b6262/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static2.businessinsider.com/image/586bb5b2f10a9a23008b6262-50-50/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
-    <cse:Attribute name="sailthru.author" value="Biz Carson"/>
-    <cse:Attribute name="og:title" value="These tech startups are IPO candidates to watch in 2017"/>
-    <cse:Attribute name="og:description" value="Snapchat, Spotify, Dropbox: 2017 could be a big year for tech IPOs."/>
+    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
+    <cse:Attribute name="referrer" value="origin"/>
+    <cse:Attribute name="theme-color" value="#400090"/>
+    <cse:Attribute name="twitter:dnt" value="on"/>
+    <cse:Attribute name="twitter:site" value="@Yahoo"/>
+    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
+    <cse:Attribute name="yahoo" value="app-id=304158842,app-argument=yahoo://article/view?uuid=a38baae5-0ab5-3152-bbd1-d9c043fd5b1b&amp;src=web"/>
+    <cse:Attribute name="twitter:description" value="Mass murderer Charles Manson has been taken from a Central Valley prison to a hospital for an undisclosed medical issue, two sources familiar with the situation said. One of the sources said Manson was seriously ill but could not provide specific information. The sources requested anonymity because they were not authorized to speak publicly about the matter. Officials with the California Department of Corrections and Rehabilitation declined to comment, citing federal and state laws and saying inmates&apos; medical information is private. &quot;We do not disclose inmate movements for safety and security reasons,&quot; said Terry Thornton, a department spokeswoman.  However, she said: &quot;He is alive.&quot; On Wednesday,"/>
+    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/gc8Ig3DoGW74JwGXJWEM_w--/aD0xMzU0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://slingstone.zenfs.com/offnetwork/d4326eabf481b49054f0755d0f68b3af"/>
+    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/gc8Ig3DoGW74JwGXJWEM_w--/aD0xMzU0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://slingstone.zenfs.com/offnetwork/d4326eabf481b49054f0755d0f68b3af"/>
+    <cse:Attribute name="twitter:title" value="Charles Manson hospitalized for a serious illness, sources say"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/tech-startups-that-could-ipo-in-2017-2016-12"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Biz Carson"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/tech-startups-that-could-ipo-in-2017-2016-12"/>
-    <cse:Attribute name="twitter:title" value="These tech startups are IPO candidates to watch in 2017"/>
-    <cse:Attribute name="twitter:description" value="Snapchat, Spotify, Dropbox: 2017 could be a big year for tech IPOs."/>
+    <cse:Attribute name="fb:app_id" value="90376669494"/>
+    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
+    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=a38baae5-0ab5-3152-bbd1-d9c043fd5b1b&amp;src=web"/>
+    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
+    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
+    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=a38baae5-0ab5-3152-bbd1-d9c043fd5b1b&amp;src=web"/>
+    <cse:Attribute name="og:image:width" value="2000"/>
+    <cse:Attribute name="og:image:height" value="1354"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static6.businessinsider.com/image/586bb5a1f10a9ac1348b5e28-506-253/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
-    <cse:Attribute name="twitter:creator" value="bizcarson"/>
-    <cse:Attribute name="twitter:site" value="sai"/>
-    <cse:Attribute name="article:author" value="http://www.businessinsider.com/author/biz-carson"/>
-    <cse:Attribute name="og:image" value="http://static1.businessinsider.com/image/586bb5a1f10a9ac1348b5e28-1190-625/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
-    <cse:Attribute name="pm:template" value="noad-byline"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="sai"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="These tech startups are IPO candidates to watch in 2017"/>
-    <cse:Attribute name="url" value="These tech startups are IPO candidates to watch in 2017"/>
-    <cse:Attribute name="image" value="http://static6.businessinsider.com/image/586bb5b2f10a9a23008b6262-100-100/these-tech-startups-are-ipo-candidates-to-watch-in-2017.jpg"/>
-    <cse:Attribute name="description" value="2016 saw a dry spell for tech IPOs, but..."/>
+    <cse:Attribute name="og:description" value="Mass murderer Charles Manson has been taken from a Central Valley prison to a hospital for an undisclosed medical issue, two sources familiar with the situation said. One of the sources said Manson was seriously ill but could not provide specific information. The sources requested anonymity because they were not authorized to speak publicly about the matter. Officials with the California Department of Corrections and Rehabilitation declined to comment, citing federal and state laws and saying inmates&apos; medical information is private. &quot;We do not disclose inmate movements for safety and security reasons,&quot; said Terry Thornton, a department spokeswoman.  However, she said: &quot;He is alive.&quot; On Wednesday,"/>
+    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/gc8Ig3DoGW74JwGXJWEM_w--/aD0xMzU0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://slingstone.zenfs.com/offnetwork/d4326eabf481b49054f0755d0f68b3af"/>
+    <cse:Attribute name="og:title" value="Charles Manson hospitalized for a serious illness, sources say"/>
+    <cse:Attribute name="og:url" value="http://www.latimes.com/local/lanow/la-me-charles-manson-hospitalized-20170103-story.html"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static5.businessinsider.com/assets/images/logos/BI.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOfK1aTywzbJF5wT__2pDGkJ55dcsXy2pEeZanJRsGSNgD7zDifsz6b18a"/>
+    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/gc8Ig3DoGW74JwGXJWEM_w--/aD0xMzU0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://slingstone.zenfs.com/offnetwork/d4326eabf481b49054f0755d0f68b3af"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.dailymail.co.uk/wires/reuters/article-4086576/Vitol-clinches-1-bln-pre-finance-oil-deal-Iran-sources.html</id>
-  <updated>1970-01-18T04:09:08.652Z</updated>
-  <title type="html">Vitol clinches $1 bln pre-finance oil deal with Iran-sources | Daily ...</title>
-  <link href="http://www.dailymail.co.uk/wires/reuters/article-4086576/Vitol-clinches-1-bln-pre-finance-oil-deal-Iran-sources.html" title="www.dailymail.co.uk"/>
-  <summary type="html">(NIOC) to loan it an equivalent of $1 billion in euros guaranteed by future exports &lt;br&gt;
-of refined products, four &lt;b&gt;sources familiar with&lt;/b&gt; the matter said. The pre-finance&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Vitol-clinches-1-bln-pre-finance-oil-deal-Iran- sources.html</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C</id>
+  <updated>1970-01-18T04:11:27.592Z</updated>
+  <title type="html">Austrian bank Bawag eyes Allianz private bank OLB: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C" title="www.reuters.com"/>
+  <summary type="html">... investor Cerberus, is bidding for German private bank Oldenburgische &lt;br&gt;
+Landesbank (OLBG.F), two &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on &lt;br&gt;
+Thursday.</summary>
+  <cse:cacheId>oNrDhGkYY34J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="news_keywords" value="Vitol,clinches,1,bln,pre,finance,oil,deal,Iran,sources"/>
-    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4086576/Vitol-clinches-1-bln-pre-finance-oil-deal-Iran-sources.html"/>
-    <cse:Attribute name="rating" value="General"/>
-    <cse:Attribute name="doc-class" value="Living Document"/>
-    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
-    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
-    <cse:Attribute name="twitter:account_id" value="15438913"/>
-    <cse:Attribute name="articleid" value="4086576"/>
-    <cse:Attribute name="divclasspage" value="articlePage"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Vitol clinches $1 bln pre-finance oil deal with Iran-sources"/>
-    <cse:Attribute name="twitter:description" value="By Julia Payne and Rania El Gamal LONDON/DUBAI, Jan 4 (Reuters) - The world&apos;s largest oil trader, Vitol, has clinched a deal with the National Iranian Oil Co..."/>
-    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4086576/Vitol-clinches-1-bln-pre-finance-oil-deal-Iran-sources.html"/>
-    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
-    <cse:Attribute name="article:published_time" value="2017-01-04T07:00:12+0000"/>
-    <cse:Attribute name="article:modified_time" value="2017-01-04T07:00:15+0000"/>
-    <cse:Attribute name="article:section" value="Reuters"/>
-    <cse:Attribute name="article:tag" value="Vitol clinches 1 bln pre finance oil deal Iran sources"/>
-    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
-    <cse:Attribute name="fb:app_id" value="146202712090395"/>
-    <cse:Attribute name="og:site_name" value="Mail Online"/>
-    <cse:Attribute name="og:title" value="Vitol clinches $1 bln pre-finance oil deal with Iran-sources"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;newsproHome;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Austrian+bank+Bawag+eyes+Allianz+private+bank+OLB%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Germany;United States;US;ALLIANZ;BANK;BAWAG;Automobiles / Auto Parts (Legacy);Germany;Banks (TRBC);Mergers / Acquisitions / Takeovers;Company News;Multiline Insurance (TRBC);Insurance (TRBC);Western Europe;Corporate Events;Austria;Divestitures / Spin;Offs;Europe;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Thu Jan 05 11:07:48 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-05T11:07:48+0000"/>
+    <cse:Attribute name="sailthru.title" value="Austrian bank Bawag eyes Allianz private bank OLB: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Austrian bank Bawag eyes Allianz private bank OLB: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="By Julia Payne and Rania El Gamal LONDON/DUBAI, Jan 4 (Reuters) - The world&apos;s largest oil trader, Vitol, has clinched a deal with the National Iranian Oil Co..."/>
-    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4086576/index.html"/>
-    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="og:image:width" value="636"/>
-    <cse:Attribute name="og:image:height" value="382"/>
-    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Vitol clinches $1 bln pre-finance oil deal with Iran-sources"/>
-    <cse:Attribute name="datepublished" value="2017-01-04T07:00:12+0000"/>
-    <cse:Attribute name="datemodified" value="2017-01-04T07:00:15+0000"/>
-    <cse:Attribute name="articlebody" value="Vitol clinches $1 bln pre-finance oil deal with Iran-sources By Reuters Published: 02:00 EST, 4 January 2017 | Updated: 02:00 EST, 4 January 2017 e-mail By Julia Payne and Rania El GamalLONDON/DUBA..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="By Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="height" value="382"/>
-    <cse:Attribute name="width" value="636"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="MailOnline"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
-    <cse:Attribute name="width" value="350"/>
-    <cse:Attribute name="height" value="66"/>
+    <cse:Attribute name="og:description" value="Austrian bank BAWAG PSK [CCMLPB.UL], backed by US financial investor Cerberus, is bidding for German private bank Oldenburgische Landesbank (OLBG.F), two sources familiar with the matter told Reuters on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-05T11:07:48+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-05T11:07:48+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Germany,United States,US,ALLIANZ,BANK,BAWAG,Automobiles / Auto Parts (Legacy),Germany,Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Multiline Insurance (TRBC),Insurance (TRBC),Western Europe,Corporate Events,Austria,Divestitures / Spin,Offs,Europe,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Austrian bank Bawag eyes Allianz private bank OLB: sources"/>
+    <cse:Attribute name="twitter:description" value="Austrian bank BAWAG PSK [CCMLPB.UL], backed by US financial investor Cerberus, is bidding for German private bank Oldenburgische Landesbank (OLBG.F), two sources familiar with the matter told Reuters on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="290"/>
-    <cse:Attribute name="height" value="174"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.nbcnews.com/politics/politics-news/husband-kellyanne-conway-short-list-solicitor-general-sources-n701701</id>
-  <updated>1970-01-18T04:09:08.652Z</updated>
-  <title type="html">Husband of Kellyanne Conway on &amp;#39;Short List&amp;#39; for Solicitor General ...</title>
-  <link href="http://www.nbcnews.com/politics/politics-news/husband-kellyanne-conway-short-list-solicitor-general-sources-n701701" title="www.nbcnews.com"/>
-  <summary type="html">The husband of Donald Trump&amp;#39;s adviser and campaign manager Kellyanne &lt;br&gt;
-Conway is &amp;quot;on the short list&amp;quot; to serve as U.S. Solicitor General, &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;with&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>QUvzDWEyUw8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.nbcnews.com/.../husband-kellyanne-conway-short-list-solicitor-general- sources-n701701</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
-    <cse:Attribute name="og:site_name" value="NBC News"/>
-    <cse:Attribute name="og:description" value="George T. Conway III has extensive litigation experience. The Solicitor General represents the U.S. before the Supreme Court."/>
-    <cse:Attribute name="og:title" value="Kellyanne Conway&apos;s husband on list for solicitor general, sources say"/>
-    <cse:Attribute name="og:url" value="http://www.nbcnews.com/politics/politics-news/husband-kellyanne-conway-short-list-solicitor-general-sources-n701701"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://media3.s-nbcnews.com/j/newscms/2016_52/1850236/161231-kellyanne-conway-jpo-901a_207bd57432779e5f037d78bbca625a1f.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="NBCNews"/>
-    <cse:Attribute name="twitter:title" value="Kellyanne Conway&apos;s husband on list for solicitor general, sources say"/>
-    <cse:Attribute name="twitter:description" value="George T. Conway III has extensive litigation experience. The Solicitor General represents the U.S. before the Supreme Court."/>
-    <cse:Attribute name="twitter:creator" value="NBCNews"/>
-    <cse:Attribute name="twitter:image" value="http://media3.s-nbcnews.com/j/newscms/2016_52/1850236/161231-kellyanne-conway-jpo-901a_207bd57432779e5f037d78bbca625a1f.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/politics/politics-news/husband-kellyanne-conway-short-list-solicitor-general-sources-n701701"/>
-    <cse:Attribute name="news_keywords" value="Politics,Politics News,U.S. news"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
-    <cse:Attribute name="dc.date.issued" value="2016-12-31"/>
-    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
-    <cse:Attribute name="tp:preferredruntimes" value="Universal,HTML5,Flash"/>
-    <cse:Attribute name="tp:preferredformats" value="FLV,F4M,MPEG4,M3U"/>
-    <cse:Attribute name="tp:initialize" value="false"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://media2.s-nbcnews.com/i/MSNBC/Components/Video/201612/2016-12-30T23-31-44-9Z--1280x720.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ7BF6Hezg9-nbkBuU5M_AUp2aTNlkRGmrTAdmbV6_L1FPsPW9vYiMjFVO"/>
+    <cse:Attribute name="width" value="268"/>
+    <cse:Attribute name="height" value="188"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQR6Fm8QsSzcVOFL9I2pS5YWatXOiqSZkpELo18bkfFd-svhYAZCgult4"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.yahoo.com/news/m/a38baae5-0ab5-3152-bbd1-d9c043fd5b1b/ss_charles-manson-seriously-ill,.html</id>
-  <updated>1970-01-18T04:09:08.652Z</updated>
+  <updated>1970-01-18T04:11:27.592Z</updated>
   <title type="html">Charles Manson seriously ill, moved to hospital, sources say</title>
   <link href="https://www.yahoo.com/news/m/a38baae5-0ab5-3152-bbd1-d9c043fd5b1b/ss_charles-manson-seriously-ill,.html" title="www.yahoo.com"/>
   <summary type="html">Mass murderer Charles Manson was taken from a Central Valley prison to a &lt;br&gt;
@@ -475,7 +397,7 @@ hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/3i-agentprovocateur-sale-idUSL5N1ET29O</id>
-  <updated>1970-01-18T04:09:08.652Z</updated>
+  <updated>1970-01-18T04:11:27.592Z</updated>
   <title type="html">3i seeks buyers for lingerie chain Agent Provocateur -sources ...</title>
   <link href="http://www.reuters.com/article/3i-agentprovocateur-sale-idUSL5N1ET29O" title="www.reuters.com"/>
   <summary type="html">Private equity firm 3i hashired investment bank Rothschild to sell its troubled &lt;br&gt;
@@ -540,7 +462,7 @@ said.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.yahoo.com/news/m/b4610094-b9df-32e1-9dc3-4d8c0667e02e/ss_mass-murderer-charles-manson.html</id>
-  <updated>1970-01-18T04:09:08.652Z</updated>
+  <updated>1970-01-18T04:11:27.592Z</updated>
   <title type="html">Mass murderer Charles Manson seriously ill, moved to hospital ...</title>
   <link href="https://www.yahoo.com/news/m/b4610094-b9df-32e1-9dc3-4d8c0667e02e/ss_mass-murderer-charles-manson.html" title="www.yahoo.com"/>
   <summary type="html">Mass murderer Charles Manson was taken from a Central Valley prison to a &lt;br&gt;
@@ -579,6 +501,43 @@ hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/cP_V2o218Z_jiOeHtOEy4w--/aD0xMzU0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://slingstone.zenfs.com/offnetwork/450c89228342180236b72e1936e7632c"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/steve-holland</id>
+  <updated>1970-01-18T04:11:27.592Z</updated>
+  <title type="html">Steve Holland</title>
+  <link href="http://www.reuters.com/journalists/steve-holland" title="www.reuters.com"/>
+  <summary type="html">... the top candidate to head the U.S. Securities and Exchange Commission for &lt;br&gt;
+the Trump administration, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Tuesday.</summary>
+  <cse:cacheId>MBIIrSjErfAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/steve-holland</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/steve-holland"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
