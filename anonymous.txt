@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T04:11:27.592Z</updated>
+ <updated>1970-01-18T04:12:42.857Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="5170" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="5170" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>5170</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="4950" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="4950" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>4950</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.290046</cse:searchTime>
-  <cse:formattedSearchTime>0.29</cse:formattedSearchTime>
-  <cse:totalResults>5170</cse:totalResults>
-  <cse:formattedTotalResults>5,170</cse:formattedTotalResults>
+  <cse:searchTime>0.172247</cse:searchTime>
+  <cse:formattedSearchTime>0.17</cse:formattedSearchTime>
+  <cse:totalResults>4950</cse:totalResults>
+  <cse:formattedTotalResults>4,950</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-iran-vitol-oil-idUSKBN14O0HR</id>
-  <updated>1970-01-18T04:11:27.592Z</updated>
+  <updated>1970-01-18T04:12:42.857Z</updated>
   <title type="html">Vitol clinches $1 billion pre-finance oil deal with Iran: sources | Reuters</title>
   <link href="http://www.reuters.com/article/us-iran-vitol-oil-idUSKBN14O0HR" title="www.reuters.com"/>
   <summary type="html">(NIOC) to loan it an equivalent of $1 billion in euros guaranteed by future exports &lt;br&gt;
@@ -72,18 +72,18 @@ of refined products, four &lt;b&gt;sources familiar with&lt;/b&gt; the matter sa
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170104&amp;t=2&amp;i=1167537685&amp;w=200&amp;fh=&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED030L8"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="284"/>
-    <cse:Attribute name="height" value="178"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
+    <cse:Attribute name="width" value="160"/>
+    <cse:Attribute name="height" value="103"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwWKtWodfVJ0JigBQYWTL4gSs7J_hhz7plKHjSisgFHCejdLsH2WZgFQ"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.chicagotribune.com/news/nationworld/ct-charles-manson-hospitalized-20170103-story.html</id>
-  <updated>1970-01-18T04:11:27.592Z</updated>
+  <updated>1970-01-18T04:12:42.857Z</updated>
   <title type="html">Mass murderer Charles Manson seriously ill, moved to hospital ...</title>
   <link href="http://www.chicagotribune.com/news/nationworld/ct-charles-manson-hospitalized-20170103-story.html" title="www.chicagotribune.com"/>
   <summary type="html">Mass murderer Charles Manson was taken from a Central Valley prison to a &lt;br&gt;
@@ -131,7 +131,7 @@ hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.latimes.com/local/lanow/la-me-charles-manson-hospitalized-20170103-story.html</id>
-  <updated>1970-01-18T04:11:27.592Z</updated>
+  <updated>1970-01-18T04:12:42.857Z</updated>
   <title type="html">Charles Manson hospitalized for a serious illness, sources say - LA ...</title>
   <link href="http://www.latimes.com/local/lanow/la-me-charles-manson-hospitalized-20170103-story.html" title="www.latimes.com"/>
   <summary type="html">Mass murderer Charles Manson has been taken from a Central Valley prison to a &lt;br&gt;
@@ -141,7 +141,7 @@ hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i13prod-5fcda38-10-17.1"/>
+    <cse:Attribute name="x-servername" value="i13prod-5fcda38-0-30.1"/>
     <cse:Attribute name="author" value="Richard Winton, Hailey Branson-Potts"/>
     <cse:Attribute name="date" value="2017-01-04"/>
     <cse:Attribute name="copyright" value="Copyright (c) 2017 Los Angeles Times"/>
@@ -181,7 +181,7 @@ hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-usa-trump-intelligence-idUSKBN14Q00V</id>
-  <updated>1970-01-18T04:11:27.592Z</updated>
+  <updated>1970-01-18T04:12:42.857Z</updated>
   <title type="html">Trump team has differences of opinion on shaping spy agencies ...</title>
   <link href="http://www.reuters.com/article/us-usa-trump-intelligence-idUSKBN14Q00V" title="www.reuters.com"/>
   <summary type="html">... takes office and it is unclear whether his national security adviser will prevail in &lt;br&gt;
@@ -234,18 +234,18 @@ advocating a reorganization, &lt;b&gt;sources familiar with&lt;/b&gt; the matter
     <cse:Attribute name="wt.cg_s" value="Politics"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170106&amp;t=2&amp;i=1167781494&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0500D"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvD9dV_mgap2xlVPIPrnJr3PjBKMlsaFTrj0ds5XCugYSK9ZXaKG3XeZBP"/>
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.yahoo.com/news/m/a38baae5-0ab5-3152-bbd1-d9c043fd5b1b/ss_mass-murderer-charles-manson.html</id>
-  <updated>1970-01-18T04:11:27.592Z</updated>
+  <updated>1970-01-18T04:12:42.857Z</updated>
   <title type="html">Charles Manson hospitalized for a serious illness, sources say</title>
   <link href="https://www.yahoo.com/news/m/a38baae5-0ab5-3152-bbd1-d9c043fd5b1b/ss_mass-murderer-charles-manson.html" title="www.yahoo.com"/>
   <summary type="html">Mass murderer Charles Manson has been taken from a Central Valley prison to a &lt;br&gt;
@@ -287,73 +287,8 @@ hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C</id>
-  <updated>1970-01-18T04:11:27.592Z</updated>
-  <title type="html">Austrian bank Bawag eyes Allianz private bank OLB: sources | Reuters</title>
-  <link href="http://www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C" title="www.reuters.com"/>
-  <summary type="html">... investor Cerberus, is bidding for German private bank Oldenburgische &lt;br&gt;
-Landesbank (OLBG.F), two &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on &lt;br&gt;
-Thursday.</summary>
-  <cse:cacheId>oNrDhGkYY34J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;newsproHome;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Austrian+bank+Bawag+eyes+Allianz+private+bank+OLB%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Germany;United States;US;ALLIANZ;BANK;BAWAG;Automobiles / Auto Parts (Legacy);Germany;Banks (TRBC);Mergers / Acquisitions / Takeovers;Company News;Multiline Insurance (TRBC);Insurance (TRBC);Western Europe;Corporate Events;Austria;Divestitures / Spin;Offs;Europe;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
-    <cse:Attribute name="revision_date" value="Thu Jan 05 11:07:48 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-01-05T11:07:48+0000"/>
-    <cse:Attribute name="sailthru.title" value="Austrian bank Bawag eyes Allianz private bank OLB: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Austrian bank Bawag eyes Allianz private bank OLB: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Austrian bank BAWAG PSK [CCMLPB.UL], backed by US financial investor Cerberus, is bidding for German private bank Oldenburgische Landesbank (OLBG.F), two sources familiar with the matter told Reuters on Thursday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
-    <cse:Attribute name="og:article:published_time" value="2017-01-05T11:07:48+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-01-05T11:07:48+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Germany,United States,US,ALLIANZ,BANK,BAWAG,Automobiles / Auto Parts (Legacy),Germany,Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Multiline Insurance (TRBC),Insurance (TRBC),Western Europe,Corporate Events,Austria,Divestitures / Spin,Offs,Europe,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Austrian bank Bawag eyes Allianz private bank OLB: sources"/>
-    <cse:Attribute name="twitter:description" value="Austrian bank BAWAG PSK [CCMLPB.UL], backed by US financial investor Cerberus, is bidding for German private bank Oldenburgische Landesbank (OLBG.F), two sources familiar with the matter told Reuters on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="268"/>
-    <cse:Attribute name="height" value="188"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQR6Fm8QsSzcVOFL9I2pS5YWatXOiqSZkpELo18bkfFd-svhYAZCgult4"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>https://www.yahoo.com/news/m/a38baae5-0ab5-3152-bbd1-d9c043fd5b1b/ss_charles-manson-seriously-ill,.html</id>
-  <updated>1970-01-18T04:11:27.592Z</updated>
+  <updated>1970-01-18T04:12:42.857Z</updated>
   <title type="html">Charles Manson seriously ill, moved to hospital, sources say</title>
   <link href="https://www.yahoo.com/news/m/a38baae5-0ab5-3152-bbd1-d9c043fd5b1b/ss_charles-manson-seriously-ill,.html" title="www.yahoo.com"/>
   <summary type="html">Mass murderer Charles Manson was taken from a Central Valley prison to a &lt;br&gt;
@@ -397,7 +332,7 @@ hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/3i-agentprovocateur-sale-idUSL5N1ET29O</id>
-  <updated>1970-01-18T04:11:27.592Z</updated>
+  <updated>1970-01-18T04:12:42.857Z</updated>
   <title type="html">3i seeks buyers for lingerie chain Agent Provocateur -sources ...</title>
   <link href="http://www.reuters.com/article/3i-agentprovocateur-sale-idUSL5N1ET29O" title="www.reuters.com"/>
   <summary type="html">Private equity firm 3i hashired investment bank Rothschild to sell its troubled &lt;br&gt;
@@ -461,52 +396,8 @@ said.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/news/m/b4610094-b9df-32e1-9dc3-4d8c0667e02e/ss_mass-murderer-charles-manson.html</id>
-  <updated>1970-01-18T04:11:27.592Z</updated>
-  <title type="html">Mass murderer Charles Manson seriously ill, moved to hospital ...</title>
-  <link href="https://www.yahoo.com/news/m/b4610094-b9df-32e1-9dc3-4d8c0667e02e/ss_mass-murderer-charles-manson.html" title="www.yahoo.com"/>
-  <summary type="html">Mass murderer Charles Manson was taken from a Central Valley prison to a &lt;br&gt;
-hospital for an undisclosed medical issue, two &lt;b&gt;sources familiar with&lt;/b&gt; the situation&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>HLaCjXaEQ6AJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../ss_mass-murderer-charles-manson.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@Yahoo"/>
-    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
-    <cse:Attribute name="yahoo" value="app-id=304158842,app-argument=yahoo://article/view?uuid=b4610094-b9df-32e1-9dc3-4d8c0667e02e&amp;src=web"/>
-    <cse:Attribute name="twitter:description" value="Mass murderer Charles Manson was taken from a Central Valley prison to a hospital for an undisclosed medical issue, two sources familiar with the situation said. One of the sources said Manson was seriously ill but could not provide specific information. Officials with the Department of Corrections and Rehabilitation  declined to comment, citing federal and state laws and saying inmates&apos; medical information is private. &quot;We do not disclose inmate movements for safety and security reasons,&quot; said Terry Thornton, a spokeswoman for the California Department of Corrections and Rehabilitation.  However, she said: &quot;He is alive.&quot; Manson and other members of his so-called family were convicted of killing"/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/cP_V2o218Z_jiOeHtOEy4w--/aD0xMzU0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://slingstone.zenfs.com/offnetwork/450c89228342180236b72e1936e7632c"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/cP_V2o218Z_jiOeHtOEy4w--/aD0xMzU0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://slingstone.zenfs.com/offnetwork/450c89228342180236b72e1936e7632c"/>
-    <cse:Attribute name="twitter:title" value="Mass murderer Charles Manson seriously ill, moved to hospital, sources say"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="fb:app_id" value="90376669494"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=b4610094-b9df-32e1-9dc3-4d8c0667e02e&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=b4610094-b9df-32e1-9dc3-4d8c0667e02e&amp;src=web"/>
-    <cse:Attribute name="og:image:width" value="2000"/>
-    <cse:Attribute name="og:image:height" value="1354"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:description" value="Mass murderer Charles Manson was taken from a Central Valley prison to a hospital for an undisclosed medical issue, two sources familiar with the situation said. One of the sources said Manson was seriously ill but could not provide specific information. Officials with the Department of Corrections and Rehabilitation  declined to comment, citing federal and state laws and saying inmates&apos; medical information is private. &quot;We do not disclose inmate movements for safety and security reasons,&quot; said Terry Thornton, a spokeswoman for the California Department of Corrections and Rehabilitation.  However, she said: &quot;He is alive.&quot; Manson and other members of his so-called family were convicted of killing"/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/cP_V2o218Z_jiOeHtOEy4w--/aD0xMzU0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://slingstone.zenfs.com/offnetwork/450c89228342180236b72e1936e7632c"/>
-    <cse:Attribute name="og:title" value="Mass murderer Charles Manson seriously ill, moved to hospital, sources say"/>
-    <cse:Attribute name="og:url" value="http://www.latimes.com/local/lanow/la-me-charles-manson-hospitalized-20170103-story,amp.html"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/cP_V2o218Z_jiOeHtOEy4w--/aD0xMzU0O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://slingstone.zenfs.com/offnetwork/450c89228342180236b72e1936e7632c"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/journalists/steve-holland</id>
-  <updated>1970-01-18T04:11:27.592Z</updated>
+  <updated>1970-01-18T04:12:42.857Z</updated>
   <title type="html">Steve Holland</title>
   <link href="http://www.reuters.com/journalists/steve-holland" title="www.reuters.com"/>
   <summary type="html">... the top candidate to head the U.S. Securities and Exchange Commission for &lt;br&gt;
@@ -530,6 +421,136 @@ the Trump administration, two &lt;b&gt;sources familiar with&lt;/b&gt; the matte
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C</id>
+  <updated>1970-01-18T04:12:42.857Z</updated>
+  <title type="html">Austrian bank Bawag eyes Allianz private bank OLB: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C" title="www.reuters.com"/>
+  <summary type="html">... investor Cerberus, is bidding for German private bank Oldenburgische &lt;br&gt;
+Landesbank (OLBG.F), two &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on &lt;br&gt;
+Thursday.</summary>
+  <cse:cacheId>oNrDhGkYY34J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;newsproHome;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Austrian+bank+Bawag+eyes+Allianz+private+bank+OLB%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Germany;United States;US;ALLIANZ;BANK;BAWAG;Automobiles / Auto Parts (Legacy);Germany;Banks (TRBC);Mergers / Acquisitions / Takeovers;Company News;Multiline Insurance (TRBC);Insurance (TRBC);Western Europe;Corporate Events;Austria;Divestitures / Spin;Offs;Europe;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Thu Jan 05 11:07:48 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-05T11:07:48+0000"/>
+    <cse:Attribute name="sailthru.title" value="Austrian bank Bawag eyes Allianz private bank OLB: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Austrian bank Bawag eyes Allianz private bank OLB: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-allianz-bank-bawag-idUSKBN14P15C"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Austrian bank BAWAG PSK [CCMLPB.UL], backed by US financial investor Cerberus, is bidding for German private bank Oldenburgische Landesbank (OLBG.F), two sources familiar with the matter told Reuters on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-05T11:07:48+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-05T11:07:48+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Germany,United States,US,ALLIANZ,BANK,BAWAG,Automobiles / Auto Parts (Legacy),Germany,Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Multiline Insurance (TRBC),Insurance (TRBC),Western Europe,Corporate Events,Austria,Divestitures / Spin,Offs,Europe,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Austrian bank Bawag eyes Allianz private bank OLB: sources"/>
+    <cse:Attribute name="twitter:description" value="Austrian bank BAWAG PSK [CCMLPB.UL], backed by US financial investor Cerberus, is bidding for German private bank Oldenburgische Landesbank (OLBG.F), two sources familiar with the matter told Reuters on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170105&amp;t=2&amp;i=1167659745&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED040KZ"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="268"/>
+    <cse:Attribute name="height" value="188"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQR6Fm8QsSzcVOFL9I2pS5YWatXOiqSZkpELo18bkfFd-svhYAZCgult4"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/allianz-bank-bawag-idUSL5N1EV24M</id>
+  <updated>1970-01-18T04:12:42.857Z</updated>
+  <title type="html">Austrian bank Bawag eyes Allianz private bank OLB - sources ...</title>
+  <link href="http://www.reuters.com/article/allianz-bank-bawag-idUSL5N1EV24M" title="www.reuters.com"/>
+  <summary type="html">... US financial investor Cerberus, isbidding for German private bank &lt;br&gt;
+Oldenburgische Landesbank, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters &lt;br&gt;
+onThursday.</summary>
+  <cse:cacheId>zLI1js9X18EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/allianz-bank-bawag-idUSL5N1EV24M</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;marketsNews;fundsFundsNews;etfNews;americasMergersNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Austrian+bank+Bawag+eyes+Allianz+private+bank+OLB+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="ALLIANZ;BANK/BAWAG;Investment Banking and Investment Services (TRBC);Germany;Mergers / Acquisitions / Takeovers;Multiline Insurance (TRBC);Western Europe;Central / Eastern Europe;Divestitures / Spin;Offs;Industry News (3rd Party);Deals;United States;Automobiles / Auto Parts (Legacy);Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Insurance (TRBC);Financials (TRBC);Financials (Legacy);Corporate Events;Euro Zone;Austria;Banking and Investment Services (TRBC);Europe;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Thu Jan 05 10:59:45 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-05T10:59:45+0000"/>
+    <cse:Attribute name="sailthru.title" value="Austrian bank Bawag eyes Allianz private bank OLB - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Austrian bank Bawag eyes Allianz private bank OLB - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/allianz-bank-bawag-idUSL5N1EV24M"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Austrian bank BAWAG PSK, backed by US financial investor Cerberus, isbidding for German private bank Oldenburgische Landesbank, two sources familiar with the matter told Reuters onThursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-05T10:59:45+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-05T10:59:45+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="ALLIANZ,BANK/BAWAG,Investment Banking and Investment Services (TRBC),Germany,Mergers / Acquisitions / Takeovers,Multiline Insurance (TRBC),Western Europe,Central / Eastern Europe,Divestitures / Spin,Offs,Industry News (3rd Party),Deals,United States,Automobiles / Auto Parts (Legacy),Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Insurance (TRBC),Financials (TRBC),Financials (Legacy),Corporate Events,Euro Zone,Austria,Banking and Investment Services (TRBC),Europe,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Austrian bank Bawag eyes Allianz private bank OLB - sources"/>
+    <cse:Attribute name="twitter:description" value="Austrian bank BAWAG PSK, backed by US financial investor Cerberus, isbidding for German private bank Oldenburgische Landesbank, two sources familiar with the matter told Reuters onThursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
