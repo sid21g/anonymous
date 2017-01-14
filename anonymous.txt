@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T04:19:23.116Z</updated>
+ <updated>1970-01-18T04:20:03.623Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="17800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="17800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>17800</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>16100</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.403892</cse:searchTime>
-  <cse:formattedSearchTime>0.40</cse:formattedSearchTime>
-  <cse:totalResults>17800</cse:totalResults>
-  <cse:formattedTotalResults>17,800</cse:formattedTotalResults>
+  <cse:searchTime>0.244102</cse:searchTime>
+  <cse:formattedSearchTime>0.24</cse:formattedSearchTime>
+  <cse:totalResults>16100</cse:totalResults>
+  <cse:formattedTotalResults>16,100</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-desjardins-divestiture-idUSKBN14X2A7</id>
-  <updated>1970-01-18T04:19:23.116Z</updated>
+  <updated>1970-01-18T04:20:03.623Z</updated>
   <title type="html">Exclusive: Desjardins to sell Western Financial unit - sources | Reuters</title>
   <link href="http://www.reuters.com/article/us-desjardins-divestiture-idUSKBN14X2A7" title="www.reuters.com"/>
   <summary type="html">... Desjardins is selling Western Financial, an insurance brokerage unit in &lt;br&gt;
@@ -88,7 +88,7 @@ sale&amp;nbsp;...</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-eurozone-banks-unicredit-cash-call-idUSKBN14V1BA</id>
-  <updated>1970-01-18T04:19:23.116Z</updated>
+  <updated>1970-01-18T04:20:03.623Z</updated>
   <title type="html">Aabar set to invest in UniCredit&amp;#39;s share sale: sources | Reuters</title>
   <link href="http://www.reuters.com/article/us-eurozone-banks-unicredit-cash-call-idUSKBN14V1BA" title="www.reuters.com"/>
   <summary type="html">One of the three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said Aabar had confidence in &lt;br&gt;
@@ -151,94 +151,51 @@ UniCredit&amp;#39;s strategy and would buy new shares to keep its stake unchange
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/tech/trump-tech-tycoons-talk-overhaul-high-skilled-visa-110818289--finance.html</id>
-  <updated>1970-01-18T04:19:23.116Z</updated>
-  <title type="html">Trump, tech tycoons talk overhaul of H1B visas</title>
-  <link href="https://www.yahoo.com/tech/trump-tech-tycoons-talk-overhaul-high-skilled-visa-110818289--finance.html" title="www.yahoo.com"/>
-  <summary type="html">... revamp a temporary visa program used to bring foreign workers to the United &lt;br&gt;
-States to fill high-skilled jobs, according to &lt;b&gt;sources familiar with&lt;/b&gt; the discussions.</summary>
-  <cse:cacheId>6PzuK29rc9sJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../trump-tech-tycoons-talk-overhaul-high-skilled- visa-110818289--finance.html</cse:formattedUrl>
+  <id>https://www.msn.com/nb-no/nyheter/verden/trump-adviser-had-five-calls-with-russian-envoy-on-day-of-sanctions-sources/ar-AAlRevy</id>
+  <updated>1970-01-18T04:20:03.623Z</updated>
+  <title type="html">Trump adviser had five calls with Russian envoy on day of sanctions ...</title>
+  <link href="https://www.msn.com/nb-no/nyheter/verden/trump-adviser-had-five-calls-with-russian-envoy-on-day-of-sanctions-sources/ar-AAlRevy" title="www.msn.com"/>
+  <summary type="html">... to Washington on the day the United States retaliated for Moscow&amp;#39;s &lt;br&gt;
+interference in the U.S. presidential election, three &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter said.</summary>
+  <cse:cacheId>VsQqSHm5GwUJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.msn.com/nb-no/nyheter/...had.../ar-AAlRevy</cse:formattedUrl>
   <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="By Jonathan Landay and Arshad Mohammed"/>
+   </cse:DataObject>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@Yahoo"/>
-    <cse:Attribute name="yahoo" value="app-id=304158842,app-argument=yahoo://article/view?uuid=08d852b8-c0b1-37ce-868c-2720fd93f3ea&amp;src=web"/>
-    <cse:Attribute name="twitter:description" value="By Mica Rosenberg, Stephen Nellis and Emily Stephenson  NEW YORK/SAN FRANCISCO (Reuters) - President-elect Donald Trump&apos;s transition team has been actively considering ways to revamp a temporary visa program used to bring foreign workers to the United States to fill high-skilled jobs, according to"/>
-    <cse:Attribute name="twitter:title" value="Trump, tech tycoons talk overhaul of H1B visas"/>
+    <cse:Attribute name="application-name" value="Trump adviser had five calls with Russian envoy on day of sanctions - sources"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#1e1e1e"/>
+    <cse:Attribute name="msapplication-tileimage" value="//static-entertainment-eus-s-msn-com.akamaized.net/sc/1f/08ced4.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <cse:Attribute name="sharing_url" value="http://a.msn.com/01/nb-no/AAlRevy"/>
+    <cse:Attribute name="og:url" value="https://www.msn.com/nb-no/nyheter/verden/trump-adviser-had-five-calls-with-russian-envoy-on-day-of-sanctions-sources/ar-AAlRevy"/>
+    <cse:Attribute name="og:title" value="Trump adviser had five calls with Russian envoy on day of sanctions - sources"/>
+    <cse:Attribute name="og:description" value="The calls occurred between the time the Russian embassy was told about U.S. sanctions and the announcement by Russian President Vladimir Putin that he had decided against reprisals, said the sources."/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=08d852b8-c0b1-37ce-868c-2720fd93f3ea&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=08d852b8-c0b1-37ce-868c-2720fd93f3ea&amp;src=web"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="og:description" value="By Mica Rosenberg, Stephen Nellis and Emily Stephenson  NEW YORK/SAN FRANCISCO (Reuters) - President-elect Donald Trump&apos;s transition team has been actively considering ways to revamp a temporary visa program used to bring foreign workers to the United States to fill high-skilled jobs, according to"/>
-    <cse:Attribute name="og:title" value="Trump, tech tycoons talk overhaul of H1B visas"/>
-    <cse:Attribute name="og:url" value="https://www.yahoo.com/tech/trump-tech-tycoons-talk-overhaul-high-skilled-visa-110818289--finance.html"/>
+    <cse:Attribute name="og:site_name" value="MSN"/>
+    <cse:Attribute name="og:image" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAlQVzJ.img"/>
+    <cse:Attribute name="fb:app_id" value="1452940268301780"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="url" value="http://www.reuters.com/"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Jonathan Landay and Arshad Mohammed"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlebody" value="© REUTERS/Yuri Gripas/File Photo FILE PHOTO - Former Defense Intelligence Agency Director retired Army Lt. Gen. Michael Flynn, incoming White House national security adviser, speaks Michael..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/ny/api/res/1.2/6Xx7_hQn5VqV4IooWYmIyg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NDUwO2g9MzAwO2lsPXBsYW5l/http://media.zenfs.com/en_us/News/Reuters/2017-01-12T112109Z_2_LYNXMPED0B0P1_RTROPTP_2_TRUMP-IMMIGRATION-TECH.JPG.cf.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQk9hlP_mzsYjgVyLN3Q34bBU3sgF3XUAXjKYCLMShKkBZTcYJDjFGh2WE"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
-  <updated>1970-01-18T04:19:23.116Z</updated>
-  <title type="html">Davide Barbuscia</title>
-  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
-  <summary type="html">DUBAI, Jan 4 Dubai Islamic Bank (DIB) has asked banks to submit proposals to &lt;br&gt;
-arrange a potential U.S. dollar-denominated sukuk issue, &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="src" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAlQVzJ.img"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-usa-trump-russia-idUSKBN14X1YX</id>
-  <updated>1970-01-18T04:19:23.116Z</updated>
+  <updated>1970-01-18T04:20:03.623Z</updated>
   <title type="html">Trump adviser had five calls with Russian envoy on day of sanctions ...</title>
   <link href="http://www.reuters.com/article/us-usa-trump-russia-idUSKBN14X1YX" title="www.reuters.com"/>
   <summary type="html">... to Washington on the day the United States retaliated for Moscow&amp;#39;s &lt;br&gt;
@@ -302,58 +259,39 @@ matter said.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/boeing-spicejet-idUSL4N1F2372</id>
-  <updated>1970-01-18T04:19:23.116Z</updated>
-  <title type="html">India&amp;#39;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources</title>
-  <link href="http://www.reuters.com/article/boeing-spicejet-idUSL4N1F2372" title="www.reuters.com"/>
-  <summary type="html">... from Boeing in 2014 - is expected as early as Friday when SpiceJet&amp;#39;s chairman &lt;br&gt;
-holds a press event in New Delhi, the two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>WJ5D1_ZKVykJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/boeing-spicejet-idUSL4N1F2372</cse:formattedUrl>
+  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
+  <updated>1970-01-18T04:20:03.623Z</updated>
+  <title type="html">Davide Barbuscia</title>
+  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
+  <summary type="html">DUBAI, Jan 4 Dubai Islamic Bank (DIB) has asked banks to submit proposals to &lt;br&gt;
+arrange a potential U.S. dollar-denominated sukuk issue, &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;marketsNews;AIRLIN;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="India%27s+SpiceJet+to+seal+%2410+bln+deal+with+Boeing+for+737+jets+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="India;BOEING;SPICEJET/ (URGENT);Americas;Company News;India;Industrial Goods (TRBC);Transportation (TRBC);Aerospace / Defense (Legacy);Corporate Events;Asia / Pacific;Industrials (TRBC);Airline Services (TRBC);Airlines (TRBC);Emerging Market Countries;Industrial Machinery / Equipment (Legacy);United States;Aerospace and Defense (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Thu Jan 12 09:07:22 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-01-12T09:07:22+0000"/>
-    <cse:Attribute name="sailthru.title" value="India&apos;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="India&apos;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/boeing-spicejet-idUSL4N1F2372"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="India&apos;s SpiceJet is set to seal an order for at least 90 new 737 jetsfrom Boeing, two sources said on Thursday, an order worthabout $10 billion that will help the low-cost carrier tap intoIndia&apos;s booming air travel market."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-01-12T09:07:22+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-01-12T09:07:22+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="India,BOEING,SPICEJET/ (URGENT),Americas,Company News,India,Industrial Goods (TRBC),Transportation (TRBC),Aerospace / Defense (Legacy),Corporate Events,Asia / Pacific,Industrials (TRBC),Airline Services (TRBC),Airlines (TRBC),Emerging Market Countries,Industrial Machinery / Equipment (Legacy),United States,Aerospace and Defense (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="India&apos;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources"/>
-    <cse:Attribute name="twitter:description" value="India&apos;s SpiceJet is set to seal an order for at least 90 new 737 jetsfrom Boeing, two sources said on Thursday, an order worthabout $10 billion that will help the low-cost carrier tap intoIndia&apos;s booming air travel market."/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -366,8 +304,99 @@ holds a press event in New Delhi, the two &lt;b&gt;sources familiar with&lt;/b&g
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>https://www.yahoo.com/tech/trump-tech-tycoons-talk-overhaul-high-skilled-visa-110818289--finance.html</id>
+  <updated>1970-01-18T04:20:03.623Z</updated>
+  <title type="html">Trump, tech tycoons talk overhaul of H1B visas</title>
+  <link href="https://www.yahoo.com/tech/trump-tech-tycoons-talk-overhaul-high-skilled-visa-110818289--finance.html" title="www.yahoo.com"/>
+  <summary type="html">&amp;quot;In our view, the president-elect is not hostile to H-1B visas,&amp;quot; said one of the &lt;br&gt;
+&lt;b&gt;sources familiar with&lt;/b&gt; discussions at the meeting. Read More. While Trump could&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>6PzuK29rc9sJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.yahoo.com/.../trump-tech-tycoons-talk-overhaul-high-skilled- visa-110818289--finance.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
+    <cse:Attribute name="referrer" value="origin"/>
+    <cse:Attribute name="theme-color" value="#400090"/>
+    <cse:Attribute name="twitter:dnt" value="on"/>
+    <cse:Attribute name="twitter:site" value="@Yahoo"/>
+    <cse:Attribute name="yahoo" value="app-id=304158842,app-argument=yahoo://article/view?uuid=08d852b8-c0b1-37ce-868c-2720fd93f3ea&amp;src=web"/>
+    <cse:Attribute name="twitter:description" value="By Mica Rosenberg, Stephen Nellis and Emily Stephenson  NEW YORK/SAN FRANCISCO (Reuters) - President-elect Donald Trump&apos;s transition team has been actively considering ways to revamp a temporary visa program used to bring foreign workers to the United States to fill high-skilled jobs, according to"/>
+    <cse:Attribute name="twitter:title" value="Trump, tech tycoons talk overhaul of H1B visas"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
+    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=08d852b8-c0b1-37ce-868c-2720fd93f3ea&amp;src=web"/>
+    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
+    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
+    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=08d852b8-c0b1-37ce-868c-2720fd93f3ea&amp;src=web"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="og:description" value="By Mica Rosenberg, Stephen Nellis and Emily Stephenson  NEW YORK/SAN FRANCISCO (Reuters) - President-elect Donald Trump&apos;s transition team has been actively considering ways to revamp a temporary visa program used to bring foreign workers to the United States to fill high-skilled jobs, according to"/>
+    <cse:Attribute name="og:title" value="Trump, tech tycoons talk overhaul of H1B visas"/>
+    <cse:Attribute name="og:url" value="https://www.yahoo.com/tech/trump-tech-tycoons-talk-overhaul-high-skilled-visa-110818289--finance.html"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.businessinsider.com/r-indias-spicejet-to-seal-10-bln-deal-with-boeing-for-737-jets---sources-2017-1</id>
+  <updated>1970-01-18T04:20:03.623Z</updated>
+  <title type="html">India&amp;#39;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources</title>
+  <link href="http://www.businessinsider.com/r-indias-spicejet-to-seal-10-bln-deal-with-boeing-for-737-jets---sources-2017-1" title="www.businessinsider.com"/>
+  <summary type="html">... from Boeing in 2014 - is expected as early as Friday when SpiceJet&amp;#39;s chairman &lt;br&gt;
+holds a press event in New Delhi, the two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>bNlwtUMU4HEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-indias-spicejet-to-seal-10-bln-deal-with-boeing- for-737-jets---sources-2017-1</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="date" value="2017-01-12"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-12"/>
+    <cse:Attribute name="news_keywords" value="Reuters Company News, BOEING-SPICEJET/ (URGENT)"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters Company News, BOEING-SPICEJET/ (URGENT)"/>
+    <cse:Attribute name="sailthru.description" value="NEW DELHI/SINGAPORE, Jan 12 (Reuters) - India&apos;s..."/>
+    <cse:Attribute name="title" value="India&apos;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Company News"/>
+    <cse:Attribute name="sailthru.title" value="India&apos;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources"/>
+    <cse:Attribute name="og:title" value="India&apos;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources"/>
+    <cse:Attribute name="og:description" value="NEW DELHI/SINGAPORE, Jan 12 (Reuters) - India&apos;s..."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-indias-spicejet-to-seal-10-bln-deal-with-boeing-for-737-jets---sources-2017-1"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-indias-spicejet-to-seal-10-bln-deal-with-boeing-for-737-jets---sources-2017-1"/>
+    <cse:Attribute name="twitter:title" value="India&apos;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources"/>
+    <cse:Attribute name="twitter:description" value="NEW DELHI/SINGAPORE, Jan 12 (Reuters) - India&apos;s..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="India&apos;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources"/>
+    <cse:Attribute name="url" value="India&apos;s SpiceJet to seal $10 bln deal with Boeing for 737 jets - sources"/>
+    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
+    <cse:Attribute name="description" value="NEW DELHI/SINGAPORE, Jan 12 (Reuters) - India&apos;s..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static6.businessinsider.com/image/527c1340eab8eae65edf1732-400/20-must-have-tech-accessories-under-20.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyMPIc8VsuuuhZmH6f9eYDBJU91bb9_A1M53rmLqi3yMjB3cONG1Jbm0Q"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.businessinsider.com/r-update-1-saudi-keeps-feb-oil-exports-steady-to-most-buyers-in-asia-cuts-india-malaysia-2017-1</id>
-  <updated>1970-01-18T04:19:23.116Z</updated>
+  <updated>1970-01-18T04:20:03.623Z</updated>
   <title type="html">UPDATE 1-Saudi keeps Feb oil exports steady to most buyers in ...</title>
   <link href="http://www.businessinsider.com/r-update-1-saudi-keeps-feb-oil-exports-steady-to-most-buyers-in-asia-cuts-india-malaysia-2017-1" title="www.businessinsider.com"/>
   <summary type="html">... to Indian refiners Reliance Industries and Hindustan Mittal Energy Ltd (HMEL), &lt;br&gt;
@@ -412,11 +441,19 @@ as well as to Malaysia&amp;#39;s Petronas, four &lt;b&gt;sources familiar with&l
     <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
     <cse:Attribute name="description" value="* Cuts Feb supplies to India&apos;s Reliance, HMEL..."/>
    </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static6.businessinsider.com/image/527c1340eab8eae65edf1732-400/20-must-have-tech-accessories-under-20.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyMPIc8VsuuuhZmH6f9eYDBJU91bb9_A1M53rmLqi3yMjB3cONG1Jbm0Q"/>
+   </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.businessinsider.com/r-canadian-automakers-urge-moves-to-offset-carbon-emissions-costs-2017-1</id>
-  <updated>1970-01-18T04:19:23.116Z</updated>
+  <updated>1970-01-18T04:20:03.623Z</updated>
   <title type="html">Canadian automakers urge moves to offset carbon emissions costs ...</title>
   <link href="http://www.businessinsider.com/r-canadian-automakers-urge-moves-to-offset-carbon-emissions-costs-2017-1" title="www.businessinsider.com"/>
   <summary type="html">... to mitigate the costs of reducing carbon emissions under a new program &lt;br&gt;
@@ -461,19 +498,11 @@ designed to help fight climate change, two &lt;b&gt;sources familiar with&lt;/b&
     <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
     <cse:Attribute name="description" value="By Allison Lampert and Andrea HopkinsMONTREAL..."/>
    </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static6.businessinsider.com/image/527c1340eab8eae65edf1732-400/20-must-have-tech-accessories-under-20.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyMPIc8VsuuuhZmH6f9eYDBJU91bb9_A1M53rmLqi3yMjB3cONG1Jbm0Q"/>
-   </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.dailymail.co.uk/wires/reuters/article-4118252/Pratts-F135-engine-chief-employees-leave-ethics-issue-sources.html</id>
-  <updated>1970-01-18T04:19:23.116Z</updated>
+  <updated>1970-01-18T04:20:03.623Z</updated>
   <title type="html">Pratt&amp;#39;s F135 engine chief, other employees leave after ethics issue ...</title>
   <link href="http://www.dailymail.co.uk/wires/reuters/article-4118252/Pratts-F135-engine-chief-employees-leave-ethics-issue-sources.html" title="www.dailymail.co.uk"/>
   <summary type="html">... left the company after an internal audit uncovered an ethics issue linked to a &lt;br&gt;
@@ -519,82 +548,6 @@ visit by a South Korean delegation, &lt;b&gt;sources familiar with&lt;/b&gt; the
     <cse:Attribute name="datepublished" value="2017-01-13T18:42:56+0000"/>
     <cse:Attribute name="datemodified" value="2017-01-13T18:42:58+0000"/>
     <cse:Attribute name="articlebody" value="Pratt&apos;s F135 engine chief, other employees leave after ethics issue-sources By Reuters Published: 13:42 EST, 13 January 2017 | Updated: 13:42 EST, 13 January 2017 e-mail By Andrea ShalalBERLIN,..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="By Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="height" value="382"/>
-    <cse:Attribute name="width" value="636"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="MailOnline"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
-    <cse:Attribute name="width" value="350"/>
-    <cse:Attribute name="height" value="66"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="290"/>
-    <cse:Attribute name="height" value="174"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.dailymail.co.uk/wires/reuters/article-4109072/Aabar-set-UniCredits-share-sale--sources.html</id>
-  <updated>1970-01-18T04:19:23.116Z</updated>
-  <title type="html">Aabar set to back UniCredit&amp;#39;s share sale - sources | Daily Mail Online</title>
-  <link href="http://www.dailymail.co.uk/wires/reuters/article-4109072/Aabar-set-UniCredits-share-sale--sources.html" title="www.dailymail.co.uk"/>
-  <summary type="html">... ($14 billion) share issue at UniCredit to keep its 5 percent stake in Italy&amp;#39;s &lt;br&gt;
-biggest bank unchanged, three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on &lt;br&gt;
-Wednesday.</summary>
-  <cse:formattedUrl type="html">www.dailymail.co.uk/wires/.../Aabar-set-UniCredits-share-sale--sources.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="news_keywords" value="Aabar,set,UniCredits,share,sale,sources"/>
-    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4109072/Aabar-set-UniCredits-share-sale--sources.html"/>
-    <cse:Attribute name="rating" value="General"/>
-    <cse:Attribute name="doc-class" value="Living Document"/>
-    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
-    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
-    <cse:Attribute name="twitter:account_id" value="15438913"/>
-    <cse:Attribute name="articleid" value="4109072"/>
-    <cse:Attribute name="divclasspage" value="articlePage"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Aabar set to back UniCredit&apos;s share sale - sources"/>
-    <cse:Attribute name="twitter:description" value="MILAN/ABU DHABI, Jan 11 (Reuters) - Abu Dhabi&apos;s Aabar Investments is set to buy into an upcoming 13 billion euro ($14 billion) share issue at UniCredit to ke..."/>
-    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4109072/Aabar-set-UniCredits-share-sale--sources.html"/>
-    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
-    <cse:Attribute name="article:published_time" value="2017-01-11T11:28:58+0000"/>
-    <cse:Attribute name="article:modified_time" value="2017-01-11T11:29:01+0000"/>
-    <cse:Attribute name="article:section" value="Reuters"/>
-    <cse:Attribute name="article:tag" value="Aabar set UniCredits share sale  sources"/>
-    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
-    <cse:Attribute name="fb:app_id" value="146202712090395"/>
-    <cse:Attribute name="og:site_name" value="Mail Online"/>
-    <cse:Attribute name="og:title" value="Aabar set to back UniCredit&apos;s share sale - sources"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="MILAN/ABU DHABI, Jan 11 (Reuters) - Abu Dhabi&apos;s Aabar Investments is set to buy into an upcoming 13 billion euro ($14 billion) share issue at UniCredit to ke..."/>
-    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4109072/index.html"/>
-    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="og:image:width" value="636"/>
-    <cse:Attribute name="og:image:height" value="382"/>
-    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Aabar set to back UniCredit&apos;s share sale - sources"/>
-    <cse:Attribute name="datepublished" value="2017-01-11T11:28:58+0000"/>
-    <cse:Attribute name="datemodified" value="2017-01-11T11:29:01+0000"/>
-    <cse:Attribute name="articlebody" value="Aabar set to back UniCredit&apos;s share sale - sources By Reuters Published: 06:28 EST, 11 January 2017 | Updated: 06:29 EST, 11 January 2017 e-mail MILAN/ABU DHABI, Jan 11 (Reuters) - Abu Dhabi&apos;s..."/>
    </cse:DataObject>
    <cse:DataObject type="person">
     <cse:Attribute name="name" value="By Reuters"/>
