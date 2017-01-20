@@ -1,19 +1,684 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "a person involved in the negotiations"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="a person involved in the negotiations"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-18T04:27:57.882Z</updated>
+ <title>Google Custom Search - "sources familiar with"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-18T04:28:56.875Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a person involved in the negotiations&quot;" totalResults="0" searchTerms="&quot;a person involved in the negotiations&quot;" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9660" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9660" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9660</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.324549</cse:searchTime>
-  <cse:formattedSearchTime>0.32</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.395294</cse:searchTime>
+  <cse:formattedSearchTime>0.40</cse:formattedSearchTime>
+  <cse:totalResults>9660</cse:totalResults>
+  <cse:formattedTotalResults>9,660</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/wires/reuters/article-4128072/Airlines-Lufthansa-Etihad-merger-talks--newspaper.html</id>
+  <updated>1970-01-18T04:28:56.875Z</updated>
+  <title type="html">Lufthansa not in talks with Etihad over stake - sources | Daily Mail ...</title>
+  <link href="http://www.dailymail.co.uk/wires/reuters/article-4128072/Airlines-Lufthansa-Etihad-merger-talks--newspaper.html" title="www.dailymail.co.uk"/>
+  <summary type="html">FRANKFURT, Jan 17 (Reuters) - Germany&amp;#39;s Lufthansa is not in talks about Etihad &lt;br&gt;
+Airways taking a stake in the German airline, two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Airlines-Lufthansa-Etihad-merger-talks--newspaper. html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Airlines,Lufthansa,Etihad,merger,talks,newspaper"/>
+    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4128072/Airlines-Lufthansa-Etihad-merger-talks--newspaper.html"/>
+    <cse:Attribute name="rating" value="General"/>
+    <cse:Attribute name="doc-class" value="Living Document"/>
+    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
+    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
+    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="articleid" value="4128072"/>
+    <cse:Attribute name="divclasspage" value="articlePage"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Lufthansa not in talks with Etihad over stake - sources"/>
+    <cse:Attribute name="twitter:description" value="By Peter Maushagen FRANKFURT, Jan 17 (Reuters) - Germany&apos;s Lufthansa is not in talks about Etihad Airways taking a stake in the German airline, two sources f..."/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4128072/Airlines-Lufthansa-Etihad-merger-talks--newspaper.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
+    <cse:Attribute name="article:published_time" value="2017-01-17T17:19:32+0000"/>
+    <cse:Attribute name="article:modified_time" value="2017-01-17T17:19:34+0000"/>
+    <cse:Attribute name="article:section" value="Reuters"/>
+    <cse:Attribute name="article:tag" value="Airlines Lufthansa Etihad merger talks  newspaper"/>
+    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
+    <cse:Attribute name="fb:app_id" value="146202712090395"/>
+    <cse:Attribute name="og:site_name" value="Mail Online"/>
+    <cse:Attribute name="og:title" value="Lufthansa not in talks with Etihad over stake - sources"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="By Peter Maushagen FRANKFURT, Jan 17 (Reuters) - Germany&apos;s Lufthansa is not in talks about Etihad Airways taking a stake in the German airline, two sources f..."/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4128072/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="og:image:width" value="636"/>
+    <cse:Attribute name="og:image:height" value="382"/>
+    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Lufthansa not in talks with Etihad over stake - sources"/>
+    <cse:Attribute name="datepublished" value="2017-01-17T17:19:32+0000"/>
+    <cse:Attribute name="datemodified" value="2017-01-17T17:19:34+0000"/>
+    <cse:Attribute name="articlebody" value="Lufthansa not in talks with Etihad over stake - sources By Reuters Published: 12:19 EST, 17 January 2017 | Updated: 12:19 EST, 17 January 2017 e-mail By Peter MaushagenFRANKFURT, Jan 17 (Reuters)..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="height" value="382"/>
+    <cse:Attribute name="width" value="636"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
+    <cse:Attribute name="width" value="350"/>
+    <cse:Attribute name="height" value="66"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="290"/>
+    <cse:Attribute name="height" value="174"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-lufthansa-etihad-idUSKBN151100</id>
+  <updated>1970-01-18T04:28:56.875Z</updated>
+  <title type="html">Lufthansa not in talks with Etihad over stake: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-lufthansa-etihad-idUSKBN151100" title="www.reuters.com"/>
+  <summary type="html">Germany&amp;#39;s Lufthansa (LHAG.DE) is not in talks about Etihad Airways taking a &lt;br&gt;
+stake in the German airline, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Tuesday,&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>2JKhtV8AItUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-lufthansa-etihad-idUSKBN151100</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Aerospace"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsIndustryMaterialsAndUtilities;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;innovationAMD;Germany;italy;everything;Deals;Aerospace;AllianzInvestments;Allianz;newsproHome;cfaglobal;aa48hours;shipping;nonegative;PorscheCayenne;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Lufthansa+not+in+talks+with+Etihad+over+stake%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Peter Maushagen"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-Aerospace"/>
+    <cse:Attribute name="author" value="Peter Maushagen"/>
+    <cse:Attribute name="news_keywords" value="Germany;United States;Will Horton;US;LUFTHANSA;ETIHAD;Germany;Mergers / Acquisitions / Takeovers;Japan;Western Europe;Transportation (TRBC);Asia / Pacific;Singapore;Government Borrowing Requirement;Middle East;United Kingdom;United Arab Emirates;Company News;China (PRC);Italy;Corporate Events;Spain;Europe;Airlines (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Tue Jan 17 17:19:39 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Peter Maushagen"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-17T17:19:39+0000"/>
+    <cse:Attribute name="sailthru.title" value="Lufthansa not in talks with Etihad over stake: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Lufthansa not in talks with Etihad over stake: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-lufthansa-etihad-idUSKBN151100"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Germany&apos;s Lufthansa (LHAG.DE) is not in talks about Etihad Airways taking a stake in the German airline, two sources familiar with the matter said on Tuesday, denying an Italian newspaper report that said it was."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170117&amp;t=2&amp;i=1168990553&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0G0J7"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-17T17:19:39+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-17T17:19:39+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Peter Maushagen"/>
+    <cse:Attribute name="og:article:tag" value="Germany,United States,Will Horton,US,LUFTHANSA,ETIHAD,Germany,Mergers / Acquisitions / Takeovers,Japan,Western Europe,Transportation (TRBC),Asia / Pacific,Singapore,Government Borrowing Requirement,Middle East,United Kingdom,United Arab Emirates,Company News,China (PRC),Italy,Corporate Events,Spain,Europe,Airlines (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Lufthansa not in talks with Etihad over stake: sources"/>
+    <cse:Attribute name="twitter:description" value="Germany&apos;s Lufthansa (LHAG.DE) is not in talks about Etihad Airways taking a stake in the German airline, two sources familiar with the matter said on Tuesday, denying an Italian newspaper report that said it was."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170117&amp;t=2&amp;i=1168990553&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0G0J7"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170117&amp;t=2&amp;i=1168990553&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0G0J7"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/aerospace/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Aerospace"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170117&amp;t=2&amp;i=1168990553&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0G0J7"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyZ717eO8tvkjLS7vV2gQvzAq-Z6YEEG4UqU8zaVul7Yr5usJFacPcH7hC"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/investigates/special-report/russia-kremlin-hospital/</id>
+  <updated>1970-01-18T04:28:56.875Z</updated>
+  <title type="html">VIP treatment: Special health clinic planned for Putin&amp;#39;s elite</title>
+  <link href="http://www.reuters.com/investigates/special-report/russia-kremlin-hospital/" title="www.reuters.com"/>
+  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the project told Reuters the building is being planned &lt;br&gt;
+for Putin and his close entourage. The three-storey unit will be exclusive with&amp;nbsp;...</summary>
+  <cse:cacheId>0oJe9-536bgJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/investigates/special-report/russia-kremlin-hospital/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="fb:pages" value="211246788967215"/>
+    <cse:Attribute name="fb:app_id" value="319194411438328"/>
+    <cse:Attribute name="fb:admins" value="616167736"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/investigates/special-report/russia-kremlin-hospital/"/>
+    <cse:Attribute name="og:title" value="VIP treatment: Special health clinic planned for Putin&apos;s elite"/>
+    <cse:Attribute name="og:image" value="http://www.reuters.com/investigates/special-report/assets/russia-kremlin-hospital/mastheads/share_Hospital.LEAD.jpg?v=264812190117"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:description" value="Presidential communications, VIP rooms, swimming pool and more. Reuters uncovers plans for an exclusive hospital clinic for top Russian officials"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:title" value="VIP treatment: Special health clinic planned for Putin&apos;s elite"/>
+    <cse:Attribute name="twitter:description" value="Presidential communications, VIP rooms, swimming pool and more. Reuters uncovers plans for an exclusive hospital clinic for top Russian officials"/>
+    <cse:Attribute name="twitter:creator" value="@SpecialReports"/>
+    <cse:Attribute name="twitter:image:src" value="http://www.reuters.com/investigates/special-report/assets/russia-kremlin-hospital/mastheads/share_Hospital.LEAD.jpg?v=264812190117"/>
+    <cse:Attribute name="twitter:domain" value="http://www.reuters.com/investigates/"/>
+   </cse:DataObject>
+   <cse:DataObject type="webpage">
+    <cse:Attribute name="name" value="VIP treatment: Special health clinic planned for Putin&apos;s elite"/>
+    <cse:Attribute name="description" value="Presidential communications, VIP rooms, swimming pool and more. Reuters uncovers plans for an exclusive hospital clinic for top Russian officials"/>
+    <cse:Attribute name="image" value="http://www.reuters.com/investigates/special-report/assets/russia-kremlin-hospital/mastheads/share_Hospital.LEAD.jpg?v=264812190117"/>
+    <cse:Attribute name="maincontentofpage" value="Toggle navigation Putin&apos;s Russia Putin&apos;s Russia Follow Reuters Investigates Share Print Share on Tumblr inShare0 HOMEGROWN CURE: The main building of the Central Clinical Hospital in Moscow,..."/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="VIP treatment: Special health clinic planned for Putin&apos;s elite officials"/>
+    <cse:Attribute name="author" value="By Svetlana Reiter and Pavel Miledin"/>
+    <cse:Attribute name="datepublished" value="2017-01-19T12:45:00+00:00"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://www.reuters.com/investigates/special-report/assets/russia-kremlin-hospital/Putin.jpg?v=264812190117"/>
+    <cse:Attribute name="caption" value="FITNESS ENTHUSIAST: Vladimir Putin in southern Siberia&apos;s Tuva region in August, 2009, when he was Russia’s prime minister. REUTERS/RIA Novosti/Pool/Alexei Druzhinin"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://www.reuters.com/investigates/special-report/assets/russia-kremlin-hospital/Hospital-signage.jpg?v=264812190117"/>
+    <cse:Attribute name="caption" value="SOVIET HANGOVER: Former Russian leaders Leonid Brezhnev and Mikhail Gorbachev were treated at Moscow’s Central Clinical Hospital, pictured here in January 2017. REUTERS/Staff"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://www.reuters.com/investigates/special-report/assets/russia-kremlin-hospital/Hospital-walkway.jpg?v=264812190117"/>
+    <cse:Attribute name="caption" value="WELL CONNECTED: A walkway between buildings of the Central Clinical Hospital that is due to be refurbished. A planned clinic for top officials will be linked to other departments by underground..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://www.reuters.com/investigates/special-report/assets/russia-kremlin-hospital/SRPutinHospital.png?v=264812190117"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://www.reuters.com/investigates/special-report/assets/russia-kremlin-hospital/Timchenko_Kobzon.jpg?v=264812190117"/>
+    <cse:Attribute name="caption" value="SANCTION PROBLEMS: Russian billionaire Gennady Timchenko, left, has said his wife faced difficulties paying for medical treatment abroad. And, right, Russian singer Josef Kobzon, pictured here..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://www.reuters.com/investigates/special-report/assets/russia-kremlin-hospital/Hospital.CLOSER.jpg?v=264812190117"/>
+    <cse:Attribute name="caption" value="IMPOSING: Moscow’s Central Clinic Hospital has extensive grounds. A helicopter landing pad is to be built there this year. REUTERS/Staff"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="contenturl" value="http://www.reuters.com/investigates/special-report/assets/section-leads/homepage/usa-police-unions/usa-police-unions-home.jpg?v=025320130117"/>
+    <cse:Attribute name="headline" value="Protecting the Blue"/>
+    <cse:Attribute name="description" value="Across the U.S., many cities have signed police contracts that provide layers of protection for officers - and hurdles for residents complaining of abuse."/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="contenturl" value="http://www.reuters.com/investigates/special-report/assets/section-leads/homepage/philippines-duterte-photos/philippines-duterte-photos.jpg?v=025320130117"/>
+    <cse:Attribute name="headline" value="“The Punisher”"/>
+    <cse:Attribute name="description" value="Duterte&apos;s War | Reuters photojournalists Damir Sagolj and Ezra Acayan document the bloody drug crackdown of President Rodrigo Duterte in the Philippines."/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="contenturl" value="http://www.reuters.com/investigates/special-report/assets/section-leads/homepage/europe-migrants-girmay-sweden/europe-migrants-girmay-sweden-home.jpg?v=025320130117"/>
+    <cse:Attribute name="headline" value="Teenage Odyssey"/>
+    <cse:Attribute name="description" value="The Migration Machine | Girmay Mehari fled from Eritrea when he was just a boy and travelled alone to the safety of Sweden. Now he waits to hear whether he will be allowed to stay."/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="contenturl" value="http://www.reuters.com/investigates/special-report/assets/section-leads/homepage/philippines-davao-model/home_009.jpg?v=025320130117"/>
+    <cse:Attribute name="headline" value="Presidential Promise"/>
+    <cse:Attribute name="description" value="Duterte&apos;s War | The Filipino president is taking his iron-fist approach national. While his hometown praises him, critics fear Duterte&apos;s drug war is destroying basic freedoms."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.reuters.com/investigates/special-report/assets/russia-kremlin-hospital/mastheads/share_Hospital.LEAD.jpg?v=264812190117"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-lockheed-pentagon-idUSKBN15308A</id>
+  <updated>1970-01-18T04:28:56.875Z</updated>
+  <title type="html">Exclusive: Pentagon, Lockheed near deal on $9 billion F-35 contract ...</title>
+  <link href="http://www.reuters.com/article/us-lockheed-pentagon-idUSKBN15308A" title="www.reuters.com"/>
+  <summary type="html">... runner to become the Federal Reserve&amp;#39;s top Wall Street regulator under &lt;br&gt;
+President-elect Donald Trump, &lt;b&gt;sources familiar with&lt;/b&gt; the screening said on &lt;br&gt;
+Thursday.</summary>
+  <cse:cacheId>7MNtAwvtPOAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-lockheed-pentagon-idUSKBN15308A</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;politicsNews;innovationNews;innovationNewsIndustryMaterialsAndUtilities;americasDealsNews;americasPrivateEquityNews;innovationAMD;everything;Deals;Aerospace;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;audib2b;zurich;marine;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;MBenz;ubs;Intel;PFG;huawei;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Pentagon%2C+Lockheed+near+deal+on+%249+billion+F-35+contract+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Mike Stone"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Mike Stone"/>
+    <cse:Attribute name="news_keywords" value="United States;Donald Trump;Jeff Babione;US;LOCKHEED;PENTAGON;Defense;Company News;Exclusive;Government / Politics;Aerospace / Defense (Legacy);Corporate Events;Major News;Military Procurement;US Government News;United States;Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Thu Jan 19 10:37:12 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Mike Stone"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-19T10:37:12+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Pentagon, Lockheed near deal on $9 billion F-35 contract - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Pentagon, Lockheed near deal on $9 billion F-35 contract - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-lockheed-pentagon-idUSKBN15308A"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The U.S. Department of Defense and Lockheed Martin Corp (LMT.N) are close to deal for a contract worth almost $9 billion as negotiations are poised to bring the price per F-35 below $100 million for the first time, people familiar with the talks said Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170119&amp;t=2&amp;i=1169269945&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0I03M"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-19T10:37:12+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-19T10:37:12+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Mike Stone"/>
+    <cse:Attribute name="og:article:tag" value="United States,Donald Trump,Jeff Babione,US,LOCKHEED,PENTAGON,Defense,Company News,Exclusive,Government / Politics,Aerospace / Defense (Legacy),Corporate Events,Major News,Military Procurement,US Government News,United States,Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Pentagon, Lockheed near deal on $9 billion F-35 contract - sources"/>
+    <cse:Attribute name="twitter:description" value="The U.S. Department of Defense and Lockheed Martin Corp (LMT.N) are close to deal for a contract worth almost $9 billion as negotiations are poised to bring the price per F-35 below $100 million for the first time, people familiar with the talks said Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170119&amp;t=2&amp;i=1169269945&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0I03M"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170119&amp;t=2&amp;i=1169269945&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0I03M"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170119&amp;t=2&amp;i=1169269945&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0I03M"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="276"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtQ65bjHh-OW6Z_eBiCmtfAzzl7a5-_-8nr-kXM1x3yuSfdKtHO1Kk9dA"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-edf-poland-idUSKBN1521ZW</id>
+  <updated>1970-01-18T04:28:56.875Z</updated>
+  <title type="html">Exclusive: EDF to start talks to sell Polish power plants to local ...</title>
+  <link href="http://www.reuters.com/article/us-edf-poland-idUSKBN1521ZW" title="www.reuters.com"/>
+  <summary type="html">A consortium of Polish state-run utilities PGE, Enea, Energa and PGNiG also &lt;br&gt;
+submitted a joint bid for the assets and two &lt;b&gt;sources familiar with&lt;/b&gt; the situation said&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>kB_vxUZObwAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-edf-poland-idUSKBN1521ZW</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsEnergy;innovationNewsIndustryMaterialsAndUtilities;euDealsNews;euPrivateEquityNews;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;ubs;Intel;PFG;globalEnergyVbc;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+EDF+to+start+talks+to+sell+Polish+power+plants+to+local+consortium+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Anna Koper and Geert De Clercq"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Anna Koper and Geert De Clercq"/>
+    <cse:Attribute name="news_keywords" value="Australia;France;Poland;Russia;US;EDF;POLAND;Energy Markets;Western Europe;Energy (Legacy);Exclusive;France;Divestitures / Spin;Offs;Coal;Major News;Multiline Utilities (TRBC);Company News;Utilities (TRBC);Government / Politics;Aerospace / Defense (Legacy);Corporate Events;Integrated Oil and Gas (TRBC);East European Countries;Energy (TRBC);Czech Republic;Electric Utilities (TRBC);Europe;Poland;Emerging Market Countries;Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Wed Jan 18 14:25:38 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Anna Koper and Geert De Clercq"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-18T14:25:38+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: EDF to start talks to sell Polish power plants to local consortium - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: EDF to start talks to sell Polish power plants to local consortium - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-edf-poland-idUSKBN1521ZW"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="French power group EDF has agreed to talks with a consortium of Polish state-run utilities about selling its local power plants after Poland blocked a sale to foreign investors, sources familiar with the situation said."/>
+    <cse:Attribute name="og:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170118&amp;t=2&amp;i=1169192966&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0H171"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-18T14:25:38+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-18T14:25:38+0000"/>
+    <cse:Attribute name="og:article:author" value="Anna Koper and Geert De Clercq"/>
+    <cse:Attribute name="og:article:tag" value="Australia,France,Poland,Russia,US,EDF,POLAND,Energy Markets,Western Europe,Energy (Legacy),Exclusive,France,Divestitures / Spin,Offs,Coal,Major News,Multiline Utilities (TRBC),Company News,Utilities (TRBC),Government / Politics,Aerospace / Defense (Legacy),Corporate Events,Integrated Oil and Gas (TRBC),East European Countries,Energy (TRBC),Czech Republic,Electric Utilities (TRBC),Europe,Poland,Emerging Market Countries,Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: EDF to start talks to sell Polish power plants to local consortium - sources"/>
+    <cse:Attribute name="twitter:description" value="French power group EDF has agreed to talks with a consortium of Polish state-run utilities about selling its local power plants after Poland blocked a sale to foreign investors, sources familiar with the situation said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170118&amp;t=2&amp;i=1169192966&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0H171"/>
+    <cse:Attribute name="twitter:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170118&amp;t=2&amp;i=1169192966&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0H171"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170118&amp;t=2&amp;i=1169192966&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0H171"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTorl2oMFDOCYZo9NklPlxvIg4eVrFqDLYMVPhP3aQ2zV3kSzbxK56qT0ZZ"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.telegraph.co.uk/news/2017/01/14/theresa-may-side-eurosceptics-major-brexit-speech-revealing/</id>
+  <updated>1970-01-18T04:28:56.875Z</updated>
+  <title type="html">Theresa May to side with Eurosceptics in major Brexit speech ...</title>
+  <link href="http://www.telegraph.co.uk/news/2017/01/14/theresa-may-side-eurosceptics-major-brexit-speech-revealing/" title="www.telegraph.co.uk"/>
+  <summary type="html">However &lt;b&gt;sources familiar with&lt;/b&gt; the Prime Minister&amp;#39;s thinking have told The &lt;br&gt;
+Telegraph she will indicate support for many Eurosceptic demands. Hilary Benn: &lt;br&gt;
+Brexit&amp;nbsp;...</summary>
+  <cse:cacheId>xEFXmPIYQOMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.telegraph.co.uk/.../theresa-may-side-eurosceptics-major-brexit-speech- revealing/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
+    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
+    <cse:Attribute name="tmgads.channel" value="news"/>
+    <cse:Attribute name="tmgads.section" value="news-2017"/>
+    <cse:Attribute name="tmgads.zone" value="news.2017.01.14"/>
+    <cse:Attribute name="tmgads.articleid" value="AnNn3cm6Jqgd"/>
+    <cse:Attribute name="tmgads.pagetype" value="story"/>
+    <cse:Attribute name="tmgads.level" value="5"/>
+    <cse:Attribute name="tmgads.geo" value="US"/>
+    <cse:Attribute name="tmgads.keywords" value="Theresa May,Boris Johnson,Standard,UK News,News,Politics,Michel Barnier ,David Davis,Brexit,David Cameron"/>
+    <cse:Attribute name="dcsext.channel" value="news"/>
+    <cse:Attribute name="dcsext.category" value="2017"/>
+    <cse:Attribute name="dcsext.genre" value="01"/>
+    <cse:Attribute name="dcsext.mlc" value="/news/2017/01/14"/>
+    <cse:Attribute name="dcsext.articleid" value="AnNn3cm6Jqgd"/>
+    <cse:Attribute name="dcsext.content_type" value="story"/>
+    <cse:Attribute name="dcsext.level" value="5"/>
+    <cse:Attribute name="dcsext.author" value="Ben Riley-Smith"/>
+    <cse:Attribute name="dcsext.articlefirstpublished" value="2017-01-14 22:00"/>
+    <cse:Attribute name="dcsext.cf" value="1"/>
+    <cse:Attribute name="dcsext.cd" value="0"/>
+    <cse:Attribute name="dcsext.cn" value="0"/>
+    <cse:Attribute name="dcsext.pd" value="1"/>
+    <cse:Attribute name="og:title" value="Theresa May to side with Eurosceptics in major Brexit speech revealing what she wants from negotiations"/>
+    <cse:Attribute name="og:description" value="Theresa May will gamble this week by siding with Eurosceptics and signalling she is prepared to take Britain out of the single market and customs union."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="The Telegraph"/>
+    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2017/01/14/theresa-may-side-eurosceptics-major-brexit-speech-revealing/"/>
+    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2016/12/20/Theresa-May-Ahead-Of-Commons-Select-Committee-Hearing-On-Bre-xlarge_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdEbgHFEZVI1Pljic_pW9c90.jpg"/>
+    <cse:Attribute name="twitter:title" value="Theresa May to side with Eurosceptics in major Brexit speech revealing what she wants from negotiations"/>
+    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2017/01/14/theresa-may-side-eurosceptics-major-brexit-speech-revealing/"/>
+    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2016/12/20/Theresa-May-Ahead-Of-Commons-Select-Committee-Hearing-On-Bre-xlarge_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdEbgHFEZVI1Pljic_pW9c90.jpg"/>
+    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
+    <cse:Attribute name="twitter:description" value="Theresa May will gamble this week by siding with Eurosceptics and signalling she is prepared to take Britain out of the single market and customs union."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="tmgads.businesssegment" value="news"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=303301873"/>
+    <cse:Attribute name="tmg.premium.override" value="false"/>
+    <cse:Attribute name="tmg.premium.state" value="false"/>
+    <cse:Attribute name="premiumcontentonfirstpublish" value="false"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Theresa May to side with Eurosceptics in major Brexit speech revealing what she wants from negotiations"/>
+    <cse:Attribute name="name" value="Theresa May to side with Eurosceptics in major Brexit speech revealing what she wants from negotiations"/>
+    <cse:Attribute name="datepublished" value="2017-01-14T22:00+0000"/>
+    <cse:Attribute name="articlebody" value="Theresa May will gamble this week by siding with Eurosceptics and signalling she is prepared to take Britain out of the single market and customs union. In her most significant Brexit speech..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="Theresa May, the prime minister"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Chris Ratcliffe/Bloomberg"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Ben Riley-Smith"/>
+    <cse:Attribute name="jobtitle" value="Assistant Political Editor"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="International Trade Secretary Liam Fox, Foreign Secretary Boris Johnson and Brexit Secretary David Davis leave 10 Downing Street"/>
+    <cse:Attribute name="copyrightholder" value="Credit: PRESS ASSOCIATION"/>
+   </cse:DataObject>
+   <cse:DataObject type="rating">
+    <cse:Attribute name="ratingvalue" value="4"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2016/12/20/Theresa-May-Ahead-Of-Commons-Select-Committee-Hearing-On-Bre-xlarge_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdEbgHFEZVI1Pljic_pW9c90.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="177"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Y6WQiScggWqJo6j8UjMottQvz7LL5gDVArM3qlVNLWFkbw37knhFHBE"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.chicagotribune.com/news/nationworld/ct-fbi-kremlin-probe-20170118-story.html</id>
+  <updated>1970-01-18T04:28:56.875Z</updated>
+  <title type="html">Six agencies — including FBI, CIA, Treasury — probing possible ...</title>
+  <link href="http://www.chicagotribune.com/news/nationworld/ct-fbi-kremlin-probe-20170118-story.html" title="www.chicagotribune.com"/>
+  <summary type="html">But the FBI has been unable to establish that Cohen was in Prague during that &lt;br&gt;
+period, the two &lt;b&gt;sources familiar with&lt;/b&gt; the working group said. Cohen has denied&amp;nbsp;...</summary>
+  <cse:cacheId>3qTD4FOFTAsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-fbi-kremlin-probe-20170118-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="Peter Stone, Greg Gordon"/>
+    <cse:Attribute name="date" value="2017-01-18"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 Tribune News Service"/>
+    <cse:Attribute name="news_keywords" value="trump kremlin, trump russia"/>
+    <cse:Attribute name="fb_title" value="Six agencies — including FBI, CIA, Treasury — probing possible Russian aid to Trump&apos;s campaign: sources"/>
+    <cse:Attribute name="og:title" value="Six agencies — including FBI, CIA, Treasury — probing possible Russian aid to Trump&apos;s campaign: sources"/>
+    <cse:Attribute name="og:description" value="The  FBI  and five other law enforcement and intelligence  agencies  have collaborated for months in an investigation into Russian attempts to influence the November election, including whether money from the  Kremlin   covertly   aided  President-elect Donald  Trump , two people familiar with the matter said."/>
+    <cse:Attribute name="fb:page_id" value="5953023255"/>
+    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/nationworld/ct-fbi-kremlin-probe-20170118-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-587fdf82/turbine/ct-fbi-kremlin-probe-20170118"/>
+    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/92362926"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i18prod-2ff91a3-0-154.1"/>
+    <cse:Attribute name="so:status" value="5,1"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="News"/>
+    <cse:Attribute name="headline" value="Six agencies — including FBI, CIA, Treasury — probing possible Russian aid to Trump&apos;s campaign: sources"/>
+    <cse:Attribute name="author" value="Peter Stone, Greg Gordon"/>
+    <cse:Attribute name="datepublished" value="2017-01-18T20:45:00CST"/>
+    <cse:Attribute name="articlebody" value="The FBI and five other law enforcement and intelligence agencies have collaborated for months in an investigation into Russian attempts to influence the November election, including whether..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-587fdf82/turbine/ct-fbi-kremlin-probe-20170118"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-usa-trump-nason-idUSKBN15407Q</id>
+  <updated>1970-01-18T04:28:56.875Z</updated>
+  <title type="html">Nason, former Treasury official, being vetted for Fed role: sources ...</title>
+  <link href="http://www.reuters.com/article/us-usa-trump-nason-idUSKBN15407Q" title="www.reuters.com"/>
+  <summary type="html">... runner to become the Federal Reserve&amp;#39;s top Wall Street regulator under &lt;br&gt;
+President-elect Donald Trump, &lt;b&gt;sources familiar with&lt;/b&gt; the screening said on &lt;br&gt;
+Thursday.</summary>
+  <cse:cacheId>73NydJsLnA4J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-trump-nason-idUSKBN15407Q</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="politicsNews;Retirement;everything;forexNewsCopy;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;dassaultuk;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory13;GCA-us-election-2016"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Nason%2C+former+Treasury+official%2C+being+vetted+for+Fed+role%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Patrick Rucker and Olivia Oran"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Patrick Rucker and Olivia Oran"/>
+    <cse:Attribute name="news_keywords" value="United States;David Nason;Gary D. Cohn;Henry M. Paulson;Paul Atkins;Steven T. Mnuchin;US;USA;TRUMP;NASON;Banks (TRBC);US Federal Reserve;Company News;Financials (TRBC);Financials (Legacy);Central Banks / Central Bank Events;Corporate Events;Economic Events;Banking and Investment Services (TRBC);Major News;Heavy Electrical Equipment (TRBC);US Government News;Diversified Financial Services (TRBC);Regulation;Industrial Conglomerates (TRBC);Presidential Elections;Banking Services (Legacy);United States"/>
+    <cse:Attribute name="revision_date" value="Fri Jan 20 02:29:13 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Patrick Rucker and Olivia Oran"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-20T02:29:13+0000"/>
+    <cse:Attribute name="sailthru.title" value="Nason, former Treasury official, being vetted for Fed role: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Nason, former Treasury official, being vetted for Fed role: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-nason-idUSKBN15407Q"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="David Nason, a General Electric executive and former Treasury Department official, is the front runner to become the Federal Reserve&apos;s top Wall Street regulator under President-elect Donald Trump, sources familiar with the screening said on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170120&amp;t=2&amp;i=1169429512&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0J03U"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-20T02:29:13+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-20T02:29:13+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Patrick Rucker and Olivia Oran"/>
+    <cse:Attribute name="og:article:tag" value="United States,David Nason,Gary D. Cohn,Henry M. Paulson,Paul Atkins,Steven T. Mnuchin,US,USA,TRUMP,NASON,Banks (TRBC),US Federal Reserve,Company News,Financials (TRBC),Financials (Legacy),Central Banks / Central Bank Events,Corporate Events,Economic Events,Banking and Investment Services (TRBC),Major News,Heavy Electrical Equipment (TRBC),US Government News,Diversified Financial Services (TRBC),Regulation,Industrial Conglomerates (TRBC),Presidential Elections,Banking Services (Legacy),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Nason, former Treasury official, being vetted for Fed role: sources"/>
+    <cse:Attribute name="twitter:description" value="David Nason, a General Electric executive and former Treasury Department official, is the front runner to become the Federal Reserve&apos;s top Wall Street regulator under President-elect Donald Trump, sources familiar with the screening said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170120&amp;t=2&amp;i=1169429512&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0J03U"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170120&amp;t=2&amp;i=1169429512&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0J03U"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170120&amp;t=2&amp;i=1169429512&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0J03U"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="267"/>
+    <cse:Attribute name="height" value="189"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjKoOHFjrqnKFusA01AYdLh7sRy6VfQf1ytBAfGz4zbKTieO-pEUP-JUG6"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
+  <updated>1970-01-18T04:28:56.875Z</updated>
+  <title type="html">Davide Barbuscia</title>
+  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
+  <summary type="html">DUBAI, Jan 4 Dubai Islamic Bank (DIB) has asked banks to submit proposals to &lt;br&gt;
+arrange a potential U.S. dollar-denominated sukuk issue, &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/majid-al-fut-hld-loans-idUSL5N1F63PG</id>
+  <updated>1970-01-18T04:28:56.875Z</updated>
+  <title type="html">Dubai&amp;#39;s Majid Al Futtaim in talks with banks for revolving loan -sources</title>
+  <link href="http://www.reuters.com/article/majid-al-fut-hld-loans-idUSL5N1F63PG" title="www.reuters.com"/>
+  <summary type="html">... and North Africa, is in talks with banks to obtain arevolving credit facility likely &lt;br&gt;
+to be in excess of $1.5billion, &lt;b&gt;sources familiar with&lt;/b&gt; the situation said on Monday.</summary>
+  <cse:cacheId>flxqIPXrswcJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/majid-al-fut-hld-loans-idUSL5N1F63PG</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="SustainabilityGreen;SustainabilityCorporate;everything;AllianzRetirement;AllianzInvestments;Allianz;audib2b;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Dubai%27s+Majid+Al+Futtaim+in+talks+with+banks+for+revolving+loan+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Oman;United Arab Emirates;Majid Al Futtaim;MAJID AL FUT HLD;LOANS/;Investment Banking and Investment Services (TRBC);Credit and Corporate Debt;Corporate Debt;Asia / Pacific;Industry News (3rd Party);Industrials (TRBC);Debt / Fixed Income Markets;Middle East;Economic News (3rd Party);Loans;United Arab Emirates;Company News;Financials (TRBC);Financials (Legacy);Corporate Events;Economic Events;Real Estate (Legacy);Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Real Estate (TRBC);Industrial Conglomerates (TRBC);Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Mon Jan 16 14:18:42 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-16T14:18:42+0000"/>
+    <cse:Attribute name="sailthru.title" value="Dubai&apos;s Majid Al Futtaim in talks with banks for revolving loan -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Dubai&apos;s Majid Al Futtaim in talks with banks for revolving loan -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/majid-al-fut-hld-loans-idUSL5N1F63PG"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Dubai&apos;s Majid Al Futtaim, aholding company which owns and operates shopping centres in theMiddle East and North Africa, is in talks with banks to obtain arevolving credit facility likely to be in excess of $1.5billion, sources familiar with the situation said on Monday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-16T14:18:42+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-16T14:18:42+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Oman,United Arab Emirates,Majid Al Futtaim,MAJID AL FUT HLD,LOANS/,Investment Banking and Investment Services (TRBC),Credit and Corporate Debt,Corporate Debt,Asia / Pacific,Industry News (3rd Party),Industrials (TRBC),Debt / Fixed Income Markets,Middle East,Economic News (3rd Party),Loans,United Arab Emirates,Company News,Financials (TRBC),Financials (Legacy),Corporate Events,Economic Events,Real Estate (Legacy),Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Real Estate (TRBC),Industrial Conglomerates (TRBC),Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Dubai&apos;s Majid Al Futtaim in talks with banks for revolving loan -sources"/>
+    <cse:Attribute name="twitter:description" value="Dubai&apos;s Majid Al Futtaim, aholding company which owns and operates shopping centres in theMiddle East and North Africa, is in talks with banks to obtain arevolving credit facility likely to be in excess of $1.5billion, sources familiar with the situation said on Monday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
 </feed>
