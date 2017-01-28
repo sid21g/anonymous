@@ -1,529 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "a source close to"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="a source close to"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "sources familiar with"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T04:39:19.562Z</updated>
+ <updated>1970-01-18T04:40:05.045Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="13000" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="13000" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>13000</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="13800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="13800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>13800</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.436041</cse:searchTime>
-  <cse:formattedSearchTime>0.44</cse:formattedSearchTime>
-  <cse:totalResults>13000</cse:totalResults>
-  <cse:formattedTotalResults>13,000</cse:formattedTotalResults>
+  <cse:searchTime>0.28537</cse:searchTime>
+  <cse:formattedSearchTime>0.29</cse:formattedSearchTime>
+  <cse:totalResults>13800</cse:totalResults>
+  <cse:formattedTotalResults>13,800</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T04:39:19.562Z</updated>
-  <title type="html">TechCrunch - The latest technology news and information on startups</title>
-  <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">In these uncertain times, everyone who&amp;#39;s anyone has a secondary nation to flit off &lt;br&gt;
-to. Like a nonprofit foundation or a glittering Tesla, a second citizenship is a&amp;nbsp;...</summary>
-  <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="p:domain_verify" value="6189ff68ce30e30f12b40b3b40873027"/>
-    <cse:Attribute name="handheldfriendly" value="True"/>
-    <cse:Attribute name="mobileoptimized" value="320"/>
-    <cse:Attribute name="viewport" value="initial-scale=1.0,width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="TechCrunch"/>
-    <cse:Attribute name="msvalidate.01" value="5ABD8A078F3356F3A6A8C8643C31FB8F"/>
-    <cse:Attribute name="fb:app_id" value="187288694643718"/>
-    <cse:Attribute name="fb:admins" value="543710097,771265067,1661021707,1550970059,663677613,1178144075,726995222,506404657,4700188"/>
-    <cse:Attribute name="wp-parsely_version" value="1.10.2"/>
-    <cse:Attribute name="og:site_name" value="TechCrunch"/>
-    <cse:Attribute name="og:site" value="social.techcrunch.com"/>
-    <cse:Attribute name="og:title" value="TechCrunch|2"/>
-    <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2016/11/google-shop131.jpg?w=764&amp;h=400&amp;crop=1"/>
-    <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
-    <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="Frederic Lardinois"/>
-    <cse:Attribute name="id" value="1444256"/>
-    <cse:Attribute name="title" value="TechCrunch|2"/>
-    <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/01/26/more-than-3m-businesses-now-pay-for-googles-g-suite/"/>
-    <cse:Attribute name="timestamp" value="2017-01-26 14:32:50"/>
-    <cse:Attribute name="content" value="During today&apos;s earnings call, Google CEO Sundar Pichai announced a new milestone for the adoption of Google&apos;s G Suite productivity tools. &quot;G Suite achieved a significant new customer milestone last quarter,&quot; he said. &quot;More than 3 million paying businesses are now using G Suite to collaborate smartly and securely in the cloud.&quot; The last time Google announced a similar milestone was in November 2015. At that time, what was then called Google Apps for Work was being used by 2 million paying businesses. Pichai attributed G Suite&apos;s success -- especially with enterprise customers -- to Google&apos;s ability to provide its users with a highly secure platform. He also noted that Google continues to focus on expanding the partner ecosystem around G Suite (as well as the Google Cloud Platform). &quot;Our customers and partners are appreciating Google Cloud&apos;s dramatically accelerated pace of product rollout as well as our responsiveness to both their needs and aspirations,&quot; he added. It&apos;s no secret…"/>
-    <cse:Attribute name="excerpt" value="During today’s earnings call, Google CEO Sundar Pichai announced a new milestone for the adoption of Google’s G Suite productivity tools. “G Suite achieved a significant new customer milestone last quarter,” he said. “More than 3 million paying businesses are now using G Suite to collaborate smartly and securely in the cloud.” The last time Google announced a…"/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2016/11/google-shop131.jpg?w=150"/>
-    <cse:Attribute name="category" value="Cloud"/>
-    <cse:Attribute name="tag" value="Google"/>
-    <cse:Attribute name="application-name" value="TechCrunch"/>
-    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
-    <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=https://techcrunch.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=16"/>
-    <cse:Attribute name="st:robots" value="follow, index"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/11/google-shop131.jpg?w=764&amp;h=400&amp;crop=1"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="162"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnuWzhvtzXgPMZY1PJzfGgwkMLZQgtMmIPl4lFUjiZKQsuXPw9Ptqbg4WF"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.theguardian.com/uk-news/davehillblog/2017/jan/23/labour-nec-asked-to-inquire-into-newham-mayoral-trigger-ballot</id>
-  <updated>1970-01-18T04:39:19.562Z</updated>
-  <title type="html">Labour NEC asked to inquire into Newham mayoral &amp;#39;trigger ballot ...</title>
-  <link href="https://www.theguardian.com/uk-news/davehillblog/2017/jan/23/labour-nec-asked-to-inquire-into-newham-mayoral-trigger-ballot" title="www.theguardian.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Sir Robin has denied that the ballot process or its outcome are &lt;br&gt;
-questionable and a spokesperson for the London Labour Party said: “The&amp;nbsp;...</summary>
-  <cse:cacheId>gkKS1PwxAuYJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.theguardian.com/.../labour-nec-asked-to-inquire-into-newham- mayoral-trigger-ballot</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="format-detection" value="telephone=no"/>
-    <cse:Attribute name="handheldfriendly" value="True"/>
-    <cse:Attribute name="viewport" value="width=device-width,minimum-scale=1,initial-scale=1"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Guardian"/>
-    <cse:Attribute name="application-name" value="The Guardian"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#005689"/>
-    <cse:Attribute name="theme-color" value="#005689"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://assets.guim.co.uk/images/favicons/f06f6996e193d1ddcd614ea852322d25/windows_tile_144_b.png"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=409128287, app-argument=https://www.theguardian.com/uk-news/davehillblog/2017/jan/23/labour-nec-asked-to-inquire-into-newham-mayoral-trigger-ballot, affiliate-data=ct=newsmartappbanner&amp;pt=304191"/>
-    <cse:Attribute name="referrer" value="unsafe-url"/>
-    <cse:Attribute name="thumbnail" value="https://i.guim.co.uk/img/media/3df3e00f385386f3e27e21765df9560be6107f17/0_192_5760_3456/5760.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=8e36a54e0aea6d6373b6dfc01b8ba349"/>
-    <cse:Attribute name="news_keywords" value="UK news,Local government,Politics,Society,London politics,London,Local politics,Mayoral elections,Labour"/>
-    <cse:Attribute name="og:url" value="http://www.theguardian.com/uk-news/davehillblog/2017/jan/23/labour-nec-asked-to-inquire-into-newham-mayoral-trigger-ballot"/>
-    <cse:Attribute name="og:description" value="Nearly 50 party members in the east London borough want their national governing body to inquire into their claims that the process for reselecting Sir Robin Wales was flawed"/>
-    <cse:Attribute name="og:image" value="https://i.guim.co.uk/img/media/3df3e00f385386f3e27e21765df9560be6107f17/0_192_5760_3456/master/5760.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8b11197c3aadd0ffe52d7cbc51cc4a35"/>
-    <cse:Attribute name="al:ios:url" value="gnmguardian://uk-news/davehillblog/2017/jan/23/labour-nec-asked-to-inquire-into-newham-mayoral-trigger-ballot?contenttype=Article&amp;source=applinks"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/theguardian"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="al:ios:app_store_id" value="409128287"/>
-    <cse:Attribute name="article:section" value="UK news"/>
-    <cse:Attribute name="article:published_time" value="2017-01-23T19:51:09.000Z"/>
-    <cse:Attribute name="og:title" value="Labour NEC asked to inquire into Newham mayoral &apos;trigger ballot&apos;"/>
-    <cse:Attribute name="fb:app_id" value="180444840287"/>
-    <cse:Attribute name="article:tag" value="UK news,Local government,Politics,Society,London politics,London,Local politics,Mayoral elections,Labour"/>
-    <cse:Attribute name="al:ios:app_name" value="The Guardian"/>
-    <cse:Attribute name="og:site_name" value="the Guardian"/>
-    <cse:Attribute name="article:modified_time" value="2017-01-24T21:35:34.000Z"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="409128287"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="The Guardian"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="The Guardian"/>
-    <cse:Attribute name="twitter:image" value="https://i.guim.co.uk/img/media/3df3e00f385386f3e27e21765df9560be6107f17/0_192_5760_3456/master/5760.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNi8wNy9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=04ba3f6f7f5286656b042a11fa05fcb4"/>
-    <cse:Attribute name="twitter:site" value="@guardian"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="gnmguardian://uk-news/davehillblog/2017/jan/23/labour-nec-asked-to-inquire-into-newham-mayoral-trigger-ballot?contenttype=Article&amp;source=twitter"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="The Guardian"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="409128287"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.guardian"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="guardian://www.theguardian.com/uk-news/davehillblog/2017/jan/23/labour-nec-asked-to-inquire-into-newham-mayoral-trigger-ballot"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="gnmguardian://uk-news/davehillblog/2017/jan/23/labour-nec-asked-to-inquire-into-newham-mayoral-trigger-ballot?contenttype=Article&amp;source=twitter"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="mainentityofpage" value="https://www.theguardian.com/uk-news/davehillblog/2017/jan/23/labour-nec-asked-to-inquire-into-newham-mayoral-trigger-ballot"/>
-    <cse:Attribute name="headline" value="Labour NEC asked to inquire into Newham mayoral &apos;trigger ballot&apos;"/>
-    <cse:Attribute name="description" value="Nearly 50 party members in the east London borough want their national governing body to inquire into their claims that the process for reselecting Sir Robin Wales was flawed"/>
-    <cse:Attribute name="datepublished" value="2017-01-23T14:51:09-0500"/>
-    <cse:Attribute name="datemodified" value="2017-01-24T16:35:34-0500"/>
-    <cse:Attribute name="articlebody" value="Labour Party members in Newham have sent a 13-page letter to Labour’s national executive committee (NEC) asking it to establish a “full inquiry” into the “affirmative nomination”..."/>
-    <cse:Attribute name="contenturl" value="https://i.guim.co.uk/img/media/0fcd5dff58c9ca73181b3bbbca837a6968a696d8/0_0_2083_1250/2083.jpg?w=460&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=d5e52d4d36a166509895503a7a5880b8"/>
-    <cse:Attribute name="keywords" value="More blogposts"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="The Guardian"/>
-    <cse:Attribute name="sameas" value="http://www.theguardian.com/"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="representativeofpage" value="true"/>
-    <cse:Attribute name="url" value="https://i.guim.co.uk/img/media/3df3e00f385386f3e27e21765df9560be6107f17/0_192_5760_3456/5760.jpg?w=700&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=f26572848b958a9031db417dd0c3ce26"/>
-    <cse:Attribute name="width" value="5760"/>
-    <cse:Attribute name="height" value="3456"/>
-    <cse:Attribute name="contenturl" value="https://i.guim.co.uk/img/media/3df3e00f385386f3e27e21765df9560be6107f17/0_192_5760_3456/master/5760.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=026f88fdba08ba751266f75c18c878e1"/>
-    <cse:Attribute name="description" value="Newham’s directly-elected mayor Sir Robin Wales, photographed in 2015. Photograph: Graeme Robertson for the Guardian"/>
-   </cse:DataObject>
-   <cse:DataObject type="breadcrumb">
-    <cse:Attribute name="url" value="World"/>
-    <cse:Attribute name="title" value="World"/>
-   </cse:DataObject>
-   <cse:DataObject type="breadcrumb">
-    <cse:Attribute name="url" value="UK News"/>
-    <cse:Attribute name="title" value="UK News"/>
-   </cse:DataObject>
-   <cse:DataObject type="breadcrumb">
-    <cse:Attribute name="url" value="Local government"/>
-    <cse:Attribute name="title" value="Local government"/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/3df3e00f385386f3e27e21765df9560be6107f17/0_192_5760_3456/5760.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=8e36a54e0aea6d6373b6dfc01b8ba349"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/74234a1a32ed6fec77559747fa8ed2d25b7ce388/0_0_3000_1800/master/3000.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=51841b06f05bd3cb98f90023af84ca9b"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="240"/>
-    <cse:Attribute name="height" value="144"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.dailymail.co.uk/wires/reuters/article-4148462/UK-housebuilders-Bovis-Berkeley-little-logic-merger--sources.html</id>
-  <updated>1970-01-18T04:39:19.562Z</updated>
-  <title type="html">UK housebuilders Bovis, Berkeley see little logic in a merger - sources</title>
-  <link href="http://www.dailymail.co.uk/wires/reuters/article-4148462/UK-housebuilders-Bovis-Berkeley-little-logic-merger--sources.html" title="www.dailymail.co.uk"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Berkeley said there were better fits for Bovis when asked about &lt;br&gt;
-a report in The Sunday Times newspaper which said a fund manager at&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">www.dailymail.co.uk/.../UK-housebuilders-Bovis-Berkeley-little-logic- merger--sources.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="news_keywords" value="UK,housebuilders,Bovis,Berkeley,little,logic,merger,sources"/>
-    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4148462/UK-housebuilders-Bovis-Berkeley-little-logic-merger--sources.html"/>
-    <cse:Attribute name="rating" value="General"/>
-    <cse:Attribute name="doc-class" value="Living Document"/>
-    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
-    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
-    <cse:Attribute name="twitter:account_id" value="15438913"/>
-    <cse:Attribute name="articleid" value="4148462"/>
-    <cse:Attribute name="divclasspage" value="articlePage"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="UK housebuilders Bovis, Berkeley see little logic in a merger - sou..."/>
-    <cse:Attribute name="twitter:description" value="By Costas Pitas LONDON, Jan 23 (Reuters) - British housebuilders Bovis and Berkeley see little logic in a merger, sources close to the companies told Reuters..."/>
-    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4148462/UK-housebuilders-Bovis-Berkeley-little-logic-merger--sources.html"/>
-    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
-    <cse:Attribute name="article:published_time" value="2017-01-23T15:36:19+0000"/>
-    <cse:Attribute name="article:modified_time" value="2017-01-23T15:36:21+0000"/>
-    <cse:Attribute name="article:section" value="Reuters"/>
-    <cse:Attribute name="article:tag" value="UK housebuilders Bovis Berkeley little logic merger  sources"/>
-    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
-    <cse:Attribute name="fb:app_id" value="146202712090395"/>
-    <cse:Attribute name="og:site_name" value="Mail Online"/>
-    <cse:Attribute name="og:title" value="UK housebuilders Bovis, Berkeley see little logic in a merger - sou..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="By Costas Pitas LONDON, Jan 23 (Reuters) - British housebuilders Bovis and Berkeley see little logic in a merger, sources close to the companies told Reuters..."/>
-    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4148462/index.html"/>
-    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="og:image:width" value="636"/>
-    <cse:Attribute name="og:image:height" value="382"/>
-    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="UK housebuilders Bovis, Berkeley see little logic in a merger - sources"/>
-    <cse:Attribute name="datepublished" value="2017-01-23T15:36:19+0000"/>
-    <cse:Attribute name="datemodified" value="2017-01-23T15:36:21+0000"/>
-    <cse:Attribute name="articlebody" value="UK housebuilders Bovis, Berkeley see little logic in a merger - sources By Reuters Published: 10:36 EST, 23 January 2017 | Updated: 10:36 EST, 23 January 2017 e-mail By Costas PitasLONDON,..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="By Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="height" value="382"/>
-    <cse:Attribute name="width" value="636"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="MailOnline"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
-    <cse:Attribute name="width" value="350"/>
-    <cse:Attribute name="height" value="66"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="290"/>
-    <cse:Attribute name="height" value="174"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.freep.com/story/sports/college/iowa/football-recruiting/2017/01/26/michigan-expecting-four-star-wr-oliver-martin-visit-weekend/97091342/</id>
-  <updated>1970-01-18T04:39:19.562Z</updated>
-  <title type="html">Michigan expecting four-star WR Oliver Martin to visit this weekend</title>
-  <link href="http://www.freep.com/story/sports/college/iowa/football-recruiting/2017/01/26/michigan-expecting-four-star-wr-oliver-martin-visit-weekend/97091342/" title="www.freep.com"/>
-  <summary type="html">There were reports that Iowa was set to visit Martin on Friday morning and Notre &lt;br&gt;
-Dame was set for a visit Thursday night. &lt;b&gt;A source close to&lt;/b&gt; the situation also told&amp;nbsp;...</summary>
-  <cse:cacheId>Ng-EZblpQzYJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.freep.com/story/sports/college/iowa/.../97091342/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="content-type" value="text/html; charset=UTF-8"/>
-    <cse:Attribute name="google" value="notranslate"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=904023476"/>
-    <cse:Attribute name="fb:app_id" value="185931034751252"/>
-    <cse:Attribute name="og:site_name" value="Detroit Free Press"/>
-    <cse:Attribute name="og:image" value="http://www.gannett-cdn.com/-mm-/f37f07af5b3ccb85c47518c825ec1de53c8392e3/c=0-122-2400-1478&amp;r=x633&amp;c=1200x630/local/-/media/2016/10/21/IAGroup/IowaCity/636126830005416406-IOW-1021-West-High-vs-Ottumwa-04.jpg"/>
-    <cse:Attribute name="og:image:width" value="1200"/>
-    <cse:Attribute name="og:image:height" value="630"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://www.gannett-cdn.com/-mm-/600b8b924dd1162f6d962c941b5c390446762e7b/c=0-122-2400-1478&amp;r=x324&amp;c=600x321/local/-/media/2016/10/21/IAGroup/IowaCity/636126830005416406-IOW-1021-West-High-vs-Ottumwa-04.jpg"/>
-    <cse:Attribute name="twitter:site" value="@freep"/>
-    <cse:Attribute name="twitter:creator" value="@freep"/>
-    <cse:Attribute name="twitter:title" value="Michigan expecting four-star WR Oliver Martin to visit this weekend"/>
-    <cse:Attribute name="twitter:description" value="Michigan is expecting Oliver Martin to visit this weekend, a source within the Michigan program told Hawk Central."/>
-    <cse:Attribute name="og:title" value="Michigan expecting four-star WR Oliver Martin to visit this weekend"/>
-    <cse:Attribute name="og:description" value="Michigan is expecting Oliver Martin to visit this weekend, a source within the Michigan program told Hawk Central."/>
-    <cse:Attribute name="og:url" value="http://www.freep.com/story/sports/college/iowa/football-recruiting/2017/01/26/michigan-expecting-four-star-wr-oliver-martin-visit-weekend/97091342/"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="news_keywords" value="oliver martin recruiting, michigan recruiting"/>
-    <cse:Attribute name="viewport" value="width=1070"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="description" value="Michigan is expecting Oliver Martin to visit this weekend, a source within the Michigan program told Hawk Central."/>
-    <cse:Attribute name="thumbnailurl" value="http://www.gannett-cdn.com/-mm-/7a575521effad8cb2c4435694fb8a791c18243b5/c=797-0-2397-1600&amp;r=x153&amp;c=150x150/local/-/media/2016/10/21/IAGroup/IowaCity/636126830005416406-IOW-1021-West-High-vs-Ottumwa-04.jpg"/>
-    <cse:Attribute name="thumbnailheight" value="150"/>
-    <cse:Attribute name="thumbnailwidth" value="150"/>
-    <cse:Attribute name="image" value="http://www.gannett-cdn.com/-mm-/3f813a683439ff4c0799b7c65e476bfd49752b98/c=797-0-2397-1600&amp;r=x203&amp;c=200x200/local/-/media/2016/10/21/IAGroup/IowaCity/636126830005416406-IOW-1021-West-High-vs-Ottumwa-04.jpg"/>
-    <cse:Attribute name="datemodified" value="2017-01-26T19:40:11.713Z"/>
-    <cse:Attribute name="datepublished" value="2017-01-26T19:29:45.157Z"/>
-    <cse:Attribute name="articlesection" value="sports,college,iowa,football-recruiting"/>
-    <cse:Attribute name="headline" value="Michigan expecting four-star WR Oliver Martin to visit this weekend"/>
-    <cse:Attribute name="articlebody" value="Play VideoPlayMuteCurrent Time 0:00/Duration Time 0:00Loaded: 0%Progress: 0%Stream TypeLIVERemaining Time -0:00 Playback Rate1ChaptersChaptersdescriptions off, selectedDescriptionssubtitles..."/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TigersCan you name these Detroit Tigers?Can you name these Detroit Tigers?Here&apos;s a test of your Detroit Tigers knowledge. The first to get all nine correct will win an Ernie Harwell book.Tigers3..."/>
-    <cse:Attribute name="headline" value="Can you name these Detroit Tigers?"/>
-    <cse:Attribute name="articlesection" value="Tigers"/>
-    <cse:Attribute name="datepublished" value="3 hours, 45 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="RED WINGSJeff Blashill unhappy with Anthony Mantha&apos;s recent playJeff Blashill unhappy with Anthony Mantha&apos;s recent playMantha&apos;s minutes have declined over four straight gamesRED WINGS13 minutes ago"/>
-    <cse:Attribute name="headline" value="Jeff Blashill unhappy with Anthony Mantha&apos;s recent play"/>
-    <cse:Attribute name="articlesection" value="RED WINGS"/>
-    <cse:Attribute name="datepublished" value="13 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WolverinesClemson coach, on Italy trip: I&apos;d never do thatClemson coach, on Italy trip: I&apos;d never do thatAlong with 3 practices, U-M&apos;s trip will include a visit to the Vatican, the Colosseum..."/>
-    <cse:Attribute name="headline" value="Clemson coach, on Italy trip: I&apos;d never do that"/>
-    <cse:Attribute name="articlesection" value="Wolverines"/>
-    <cse:Attribute name="datepublished" value="7 hours, 43 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="GolfTiger Woods, Dan Gilbert hold key to PGA&apos;s return to MichiganTiger Woods, Dan Gilbert hold key to PGA&apos;s return to MichiganTiger Woods, who returns to golf this week, and Dan Gilbert could..."/>
-    <cse:Attribute name="headline" value="Tiger Woods, Dan Gilbert hold key to PGA&apos;s return to Michigan"/>
-    <cse:Attribute name="articlesection" value="Golf"/>
-    <cse:Attribute name="datepublished" value="43 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Christine BrennanDon&apos;t feel sorry that Usain Bolt is losing an Olympic gold medalDon&apos;t feel sorry that Usain Bolt is losing an Olympic gold medalBrennan: You can feel sorry for Usain Bolt,..."/>
-    <cse:Attribute name="headline" value="Don&apos;t feel sorry that Usain Bolt is losing an Olympic gold medal"/>
-    <cse:Attribute name="articlesection" value="Christine Brennan"/>
-    <cse:Attribute name="datepublished" value="50 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WolverinesHarbaugh raves about NICU doctors caring for sonHarbaugh raves about NICU doctors caring for sonMichigan football coach raved about the doctors at Mott Children&apos;s Hospital in the..."/>
-    <cse:Attribute name="headline" value="Harbaugh raves about NICU doctors caring for son"/>
-    <cse:Attribute name="articlesection" value="Wolverines"/>
-    <cse:Attribute name="datepublished" value="23 hours, 50 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="COLLEGE SPORTSBrent Musburger retiring from sportscasting at age 77Brent Musburger retiring from sportscasting at age 77Comments about Oklahoma football player Joe Mixon didn’t factor in..."/>
-    <cse:Attribute name="headline" value="Brent Musburger retiring from sportscasting at age 77"/>
-    <cse:Attribute name="articlesection" value="COLLEGE SPORTS"/>
-    <cse:Attribute name="datepublished" value="2 hours, 52 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NflWMU&apos;s Taylor Moton: I&apos;m rooting for P.J. Fleck at MinnesotaWMU&apos;s Taylor Moton: I&apos;m rooting for P.J. Fleck at MinnesotaTaylor Moton said the Broncos should remain a force under new coach..."/>
-    <cse:Attribute name="headline" value="WMU&apos;s Taylor Moton: I&apos;m rooting for P.J. Fleck at Minnesota"/>
-    <cse:Attribute name="articlesection" value="Nfl"/>
-    <cse:Attribute name="datepublished" value="8 hours, 45 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="MlbMLB off-season tracker: Joba, Salty find new homesMLB off-season tracker: Joba, Salty find new homesSaltalamacchia hit .171 with 12 home runs and 38 RBIs in 92 games with Detroit last season.Mlb..."/>
-    <cse:Attribute name="headline" value="MLB off-season tracker: Joba, Salty find new homes"/>
-    <cse:Attribute name="articlesection" value="Mlb"/>
-    <cse:Attribute name="datepublished" value="1 hour, 47 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="RED WINGSJeff Blashill on Anthony Mantha, grind up the standingsJeff Blashill on Anthony Mantha, grind up the standingsRed Wings coach Jeff Blashill discusses Anthony Mantha&apos;s minutes, grinding..."/>
-    <cse:Attribute name="headline" value="Jeff Blashill on Anthony Mantha, grind up the standings"/>
-    <cse:Attribute name="articlesection" value="RED WINGS"/>
-    <cse:Attribute name="datepublished" value="17 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="SpartansBlake Bueter hopes to be Spartans&apos; next OL walk-on-to-success storyBlake Bueter hopes to be Spartans&apos; next OL walk-on-to-success storyBlake Bueter’s complex college choice came down..."/>
-    <cse:Attribute name="headline" value="Blake Bueter hopes to be Spartans&apos; next OL walk-on-to-success story"/>
-    <cse:Attribute name="articlesection" value="Spartans"/>
-    <cse:Attribute name="datepublished" value="1 hour, 18 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="LionsDetroit Lions&apos; Matthew Stafford the highest paid QB? &apos;He&apos;s earned it&apos;Detroit Lions&apos; Matthew Stafford the highest paid QB? &apos;He&apos;s earned it&apos;Matthew Stafford is in line for a new deal that..."/>
-    <cse:Attribute name="headline" value="Detroit Lions&apos; Matthew Stafford the highest paid QB? &apos;He&apos;s earned it&apos;"/>
-    <cse:Attribute name="articlesection" value="Lions"/>
-    <cse:Attribute name="datepublished" value="1 hour, 35 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="SpartansSubmit Q&apos;s for MSU chat with Chris SolariSubmit Q&apos;s for MSU chat with Chris SolariChris will be here at 1 p.m. Thursday to answer your questions about the Michigan State football and..."/>
-    <cse:Attribute name="headline" value="Submit Q&apos;s for MSU chat with Chris Solari"/>
-    <cse:Attribute name="articlesection" value="Spartans"/>
-    <cse:Attribute name="datepublished" value="4 hours, 12 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="SpartansPhotos: Michigan State&apos;s 2017 football recruitsPhotos: Michigan State&apos;s 2017 football recruitsPhotos: Michigan State&apos;s 2017 football recruitsSpartans4 hours, 36 minutes ago"/>
-    <cse:Attribute name="headline" value="Photos: Michigan State&apos;s 2017 football recruits"/>
-    <cse:Attribute name="articlesection" value="Spartans"/>
-    <cse:Attribute name="datepublished" value="4 hours, 36 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="WolverinesMichigan&apos;s Jim Harbaugh, Tim Drevno make late pitch to Va. linemanMichigan&apos;s Jim Harbaugh, Tim Drevno make late pitch to Va. linemanAs the visiting days wind down in the 2017 class..."/>
-    <cse:Attribute name="headline" value="Michigan&apos;s Jim Harbaugh, Tim Drevno make late pitch to Va. lineman"/>
-    <cse:Attribute name="articlesection" value="Wolverines"/>
-    <cse:Attribute name="datepublished" value="4 hours, 43 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="LionsLions’ Anquan Boldin rues political climate, is willing to listenLions’ Anquan Boldin rues political climate, is willing to listen‘In order for anything to be changed, you have to..."/>
-    <cse:Attribute name="headline" value="Lions’ Anquan Boldin rues political climate, is willing to listen"/>
-    <cse:Attribute name="articlesection" value="Lions"/>
-    <cse:Attribute name="datepublished" value="5 hours, 2 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="HIGH SCHOOL SPORTSPowers North Central ties record for consecutive winsPowers North Central ties record for consecutive winsThe program’s 65th straight win ties it with Chassell, another..."/>
-    <cse:Attribute name="headline" value="Powers North Central ties record for consecutive wins"/>
-    <cse:Attribute name="articlesection" value="HIGH SCHOOL SPORTS"/>
-    <cse:Attribute name="datepublished" value="7 hours, 28 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Spartansisportsweb: Spartans&apos; game vs. Michigan is a must-winisportsweb: Spartans&apos; game vs. Michigan is a must-winTypically, a team needs at least 19-20 wins to get into the NCAA basketball..."/>
-    <cse:Attribute name="headline" value="isportsweb: Spartans&apos; game vs. Michigan is a must-win"/>
-    <cse:Attribute name="articlesection" value="Spartans"/>
-    <cse:Attribute name="datepublished" value="8 hours, 19 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="MICHIGAN BUSINESSIndoor cycling velodrome coming to Midtown DetroitIndoor cycling velodrome coming to Midtown DetroitThe center will be built as part of Detroit’s planned improvements to..."/>
-    <cse:Attribute name="headline" value="Indoor cycling velodrome coming to Midtown Detroit"/>
-    <cse:Attribute name="articlesection" value="MICHIGAN BUSINESS"/>
-    <cse:Attribute name="datepublished" value="8 hours, 36 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="NflWMU&apos;s Taylor Moton: &apos;Wonderful opportunity&apos; at Senior BowlWMU&apos;s Taylor Moton: &apos;Wonderful opportunity&apos; at Senior BowlWestern Michigan OL Taylor Moton discusses his Senior Bowl experience..."/>
-    <cse:Attribute name="headline" value="WMU&apos;s Taylor Moton: &apos;Wonderful opportunity&apos; at Senior Bowl"/>
-    <cse:Attribute name="articlesection" value="Nfl"/>
-    <cse:Attribute name="datepublished" value="8 hours, 52 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="SportsGame thread: Red Wings lose to Bruins, 4-3, in OTGame thread: Red Wings lose to Bruins, 4-3, in OT7 p.m., Fox Sports Detroit, WXYT-FM (97.1): Wings visiting Beantown as they chase B&apos;s..."/>
-    <cse:Attribute name="headline" value="Game thread: Red Wings lose to Bruins, 4-3, in OT"/>
-    <cse:Attribute name="articlesection" value="Sports"/>
-    <cse:Attribute name="datepublished" value="9 hours, 45 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="SpartansMiles Bridges stars, but Swanigan, Purdue too much for MSU, 84-73Miles Bridges stars, but Swanigan, Purdue too much for MSU, 84-73Bridges sets new MSU freshman scoring mark with 33,..."/>
-    <cse:Attribute name="headline" value="Miles Bridges stars, but Swanigan, Purdue too much for MSU, 84-73"/>
-    <cse:Attribute name="articlesection" value="Spartans"/>
-    <cse:Attribute name="datepublished" value="15 hours, 38 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="RED WINGSHow to watch tonight&apos;s Detroit Red Wings-Toronto Maple Leafs gameHow to watch tonight&apos;s Detroit Red Wings-Toronto Maple Leafs game7 p.m., Fox Sports Detroit, WXYT-FM (97.1): Wings..."/>
-    <cse:Attribute name="headline" value="How to watch tonight&apos;s Detroit Red Wings-Toronto Maple Leafs game"/>
-    <cse:Attribute name="articlesection" value="RED WINGS"/>
-    <cse:Attribute name="datepublished" value="15 hours, 56 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="COLLEGE SPORTSMetro &amp; state: EMU’s Alsu Bogdanova wins MAC weekly honorsMetro &amp; state: EMU’s Alsu Bogdanova wins MAC weekly honorsBogdanova had a pair of first-place finishes at the GVSU..."/>
-    <cse:Attribute name="headline" value="Metro &amp; state: EMU’s Alsu Bogdanova wins MAC weekly honors"/>
-    <cse:Attribute name="articlesection" value="COLLEGE SPORTS"/>
-    <cse:Attribute name="datepublished" value="16 hours, 23 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="SpartansMichigan State notes: Ex- Spartan commit Caleb Swanigan boosts PurdueMichigan State notes: Ex- Spartan commit Caleb Swanigan boosts PurdueSophomore shakes off Izzone jeers, drops 25..."/>
-    <cse:Attribute name="headline" value="Michigan State notes: Ex- Spartan commit Caleb Swanigan boosts Purdue"/>
-    <cse:Attribute name="articlesection" value="Spartans"/>
-    <cse:Attribute name="datepublished" value="16 hours, 30 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="COLLEGE SPORTSCollege basketball: Keene scores (only) 28; Central Michigan winsCollege basketball: Keene scores (only) 28; Central Michigan winsChippewas guard follows up 50-point game with..."/>
-    <cse:Attribute name="headline" value="College basketball: Keene scores (only) 28; Central Michigan wins"/>
-    <cse:Attribute name="articlesection" value="COLLEGE SPORTS"/>
-    <cse:Attribute name="datepublished" value="16 hours, 32 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="SpartansFoul trouble the beginning of trouble for MSUFoul trouble the beginning of trouble for MSUThe Spartans dropped their fourth in five games, losing, 84-73, to Purdue Tuesday at Breslin..."/>
-    <cse:Attribute name="headline" value="Foul trouble the beginning of trouble for MSU"/>
-    <cse:Attribute name="articlesection" value="Spartans"/>
-    <cse:Attribute name="datepublished" value="16 hours, 44 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="videoobject">
-    <cse:Attribute name="description" value="West High senior Oliver Martin looks back to when schools and coaches began recruiting him and how he spent his free time visiting college campuses."/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://www.gannett-cdn.com/-mm-/522976a650fa60755e7031ff2233b2d166cce81e/c=269-0-2397-1600&amp;r=x404&amp;c=534x401/local/-/media/2016/10/21/IAGroup/IowaCity/636126830005416406-IOW-1021-West-High-vs-Ottumwa-04.jpg"/>
-    <cse:Attribute name="name" value="636126830005416406-IOW-1021-West-High-vs-Ottumwa-04.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.gannett-cdn.com/-mm-/56d197262a5fb8c01f257607f54c5c9b6b7763d0/r=540/http/bcdownload.gannett.edgesuite.net/iowacity/35547430001/201611/1156/35547430001_5213297993001_5213264567001-vs.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSASwj_QHiMI1Wj3j18X449BhS1HTIWC0Ultbl__05cFlo6jBtmmwqsWVc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/01/23/politics/us-libya-bombing-isis-berlin-attack/index.html</id>
-  <updated>1970-01-18T04:39:19.562Z</updated>
-  <title type="html">US bombing in Libya was linked to Berlin truck attack - CNNPolitics ...</title>
-  <link href="http://www.cnn.com/2017/01/23/politics/us-libya-bombing-isis-berlin-attack/index.html" title="www.cnn.com"/>
-  <summary type="html">... attack contributed to the decision to strike Libyan camps 28 miles southwest of &lt;br&gt;
-Sirte last week, a US official and &lt;b&gt;a source close to&lt;/b&gt; Libyan intelligence told CNN.</summary>
-  <cse:cacheId>ZvocYd6UMcUJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/01/23/politics/us-libya...isis.../index.html</cse:formattedUrl>
+  <id>http://www.cnn.com/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/</id>
+  <updated>1970-01-18T04:40:05.045Z</updated>
+  <title type="html">Trans-Pacific Partnership trade deal withdrawal Trump&amp;#39;s first ...</title>
+  <link href="http://www.cnn.com/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/" title="www.cnn.com"/>
+  <summary type="html">President Donald Trump on Monday will start to unravel the behemoth trade deal &lt;br&gt;
+he inherited from his predecessor, as he signed an executive action to&amp;nbsp;...</summary>
+  <cse:cacheId>mF4pnGExLt4J</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/.../trans-pacific-partnership-trade-deal-withdrawal-trumps-first -executive-action-monday-sources-say/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
     <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-01-24T00:07:20Z"/>
-    <cse:Attribute name="pubdate" value="2017-01-24T00:07:20Z"/>
-    <cse:Attribute name="lastmod" value="2017-01-24T00:07:20Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/01/23/politics/us-libya-bombing-isis-berlin-attack/index.html"/>
-    <cse:Attribute name="author" value="Paul Cruickshank and Nic Robertson, CNN"/>
-    <cse:Attribute name="og:title" value="US bombing in Libya was linked to Berlin truck attack"/>
-    <cse:Attribute name="twitter:title" value="US bombing in Libya was linked to Berlin truck attack"/>
-    <cse:Attribute name="og:description" value="Intelligence indicating the possible presence of terrorists linked to the Berlin truck attack contributed to a US decision to strike Libyan camps, sources say."/>
-    <cse:Attribute name="twitter:description" value="Intelligence indicating the possible presence of terrorists linked to the Berlin truck attack contributed to a US decision to strike Libyan camps, sources say."/>
+    <cse:Attribute name="og:pubdate" value="2017-01-23T12:54:53Z"/>
+    <cse:Attribute name="pubdate" value="2017-01-23T12:54:53Z"/>
+    <cse:Attribute name="lastmod" value="2017-01-24T14:45:29Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/index.html"/>
+    <cse:Attribute name="author" value="Jeremy Diamond and Dana Bash, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/jdiamond15"/>
+    <cse:Attribute name="og:title" value="Trump signs order withdrawing from TPP"/>
+    <cse:Attribute name="twitter:title" value="Trump signs order withdrawing from TPP"/>
+    <cse:Attribute name="og:description" value="President Donald Trump on Monday will start to unravel the behemoth trade deal he inherited from his predecessor, as he signed an executive action to withdraw from the negotiating process of the Trans-Pacific Partnership."/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump on Monday will start to unravel the behemoth trade deal he inherited from his predecessor, as he signed an executive action to withdraw from the negotiating process of the Trans-Pacific Partnership."/>
     <cse:Attribute name="og:site_name" value="CNN"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221163527-church-spire-berlin-memorial-super-tease.jpg"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170120195839-03-trump-signs-exec-orders-super-tease.jpg"/>
     <cse:Attribute name="og:image:width" value="1100"/>
     <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221163527-church-spire-berlin-memorial-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221163527-church-spire-berlin-memorial-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/01/23/politics/us-libya-bombing-isis-berlin-attack/index.html"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170120195839-03-trump-signs-exec-orders-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170120195839-03-trump-signs-exec-orders-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/index.html"/>
     <cse:Attribute name="fb:app_id" value="80401312489"/>
     <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,bra-us-military,art-vid"/>
+    <cse:Attribute name="template-top" value="politics,art-vid-vls-col,col-donald-trump-and-foreign-policy"/>
    </cse:DataObject>
    <cse:DataObject type="newsarticle">
     <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-01-24T00:07:20Z"/>
-    <cse:Attribute name="datepublished" value="2017-01-24T00:07:20Z"/>
-    <cse:Attribute name="datemodified" value="2017-01-24T00:07:20Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/01/23/politics/us-libya-bombing-isis-berlin-attack/index.html"/>
-    <cse:Attribute name="author" value="Paul Cruickshank and Nic Robertson, CNN"/>
-    <cse:Attribute name="headline" value="US bombing in Libya was linked to Berlin truck attack - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="Intelligence indicating the possible presence of terrorists linked to the Berlin truck attack contributed to a US decision to strike Libyan camps, sources say."/>
-    <cse:Attribute name="keywords" value="politics, US bombing in Libya was linked to Berlin truck attack - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221163527-church-spire-berlin-memorial-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221163527-church-spire-berlin-memorial-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="US bombing in Libya was linked to Berlin truck attack"/>
-    <cse:Attribute name="articlebody" value="Story highlightsISIS says the Berlin Christmas market attacker was working on its behalfOther ISIS members linked to the attack may have been at Libya camp US bombed last week, officials say..."/>
+    <cse:Attribute name="datecreated" value="2017-01-23T12:54:53Z"/>
+    <cse:Attribute name="datepublished" value="2017-01-23T12:54:53Z"/>
+    <cse:Attribute name="datemodified" value="2017-01-24T14:45:29Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/index.html"/>
+    <cse:Attribute name="author" value="Jeremy Diamond and Dana Bash, CNN"/>
+    <cse:Attribute name="headline" value="Trans-Pacific Partnership trade deal withdrawal Trump&apos;s first executive action Monday - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="President Donald Trump on Monday will start to unravel the behemoth trade deal he inherited from his predecessor, as he signed an executive action to withdraw from the negotiating process of..."/>
+    <cse:Attribute name="keywords" value="politics, Trans-Pacific Partnership trade deal withdrawal Trump&apos;s first executive action Monday - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170120195839-03-trump-signs-exec-orders-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170120195839-03-trump-signs-exec-orders-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Trump signs order withdrawing from TPP, reinstate &apos;Mexico City policy&apos; on abortion"/>
+    <cse:Attribute name="articlebody" value="Story highlightsDonald Trump campaigned on a promise to withdraw from the Trans-Pacific Partnership negotiationsWashington (CNN)President Donald Trump on Monday will start to unravel the behemoth..."/>
    </cse:DataObject>
    <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221163527-church-spire-berlin-memorial-super-tease.jpg"/>
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170120195839-03-trump-signs-exec-orders-super-tease.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161221163527-church-spire-berlin-memorial-super-tease.jpg"/>
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170120195839-03-trump-signs-exec-orders-super-tease.jpg"/>
     <cse:Attribute name="type" value="1"/>
     <cse:Attribute name="width" value="299"/>
     <cse:Attribute name="height" value="168"/>
@@ -531,194 +84,405 @@ Sirte last week, a US official and &lt;b&gt;a source close to&lt;/b&gt; Libyan i
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.msn.com/en-au/news/world/hillary-clinton-rumoured-to-be-planning-her-own-talk-show/ar-AAmfGdi</id>
-  <updated>1970-01-18T04:39:19.562Z</updated>
-  <title type="html">Hillary Clinton rumoured to be planning her own talk show</title>
-  <link href="https://www.msn.com/en-au/news/world/hillary-clinton-rumoured-to-be-planning-her-own-talk-show/ar-AAmfGdi" title="www.msn.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Hillary Clinton has told New York Times Best Selling Author Ed &lt;br&gt;
-Klein that Clinton informed a group of her close confidants of her plans to return&amp;nbsp;...</summary>
-  <cse:cacheId>x4l8glsHlMsJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.msn.com/en-au/news/world/...to.../ar-AAmfGdi</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Arielle De Bono"/>
-   </cse:DataObject>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="application-name" value="Hillary Clinton rumoured to be planning her own talk show"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#1e1e1e"/>
-    <cse:Attribute name="msapplication-tileimage" value="//static-entertainment-wus-s-msn-com.akamaized.net/sc/1f/08ced4.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
-    <cse:Attribute name="sharing_url" value="http://a.msn.com/01/en-au/AAmfGdi"/>
-    <cse:Attribute name="og:url" value="https://www.msn.com/en-au/news/world/hillary-clinton-rumoured-to-be-planning-her-own-talk-show/ar-AAmfGdi"/>
-    <cse:Attribute name="og:title" value="Hillary Clinton rumoured to be planning her own talk show"/>
-    <cse:Attribute name="og:description" value="Although Hillary Clinton has been keeping a low profile since her lost fight for the white house, it seems she plans to return to the limelight in 2017. A source close to Hillary Clinton has told New York Times Best Selling Author Ed Klein that Clinton informed a group of her close confidants of her plans to return to the public eye as the host of her own talk show. The show would have a political focus and prospectively pave the way for Clinton&apos;s next presidential bid."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="MSN"/>
-    <cse:Attribute name="og:image" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAmg7jd.img"/>
-    <cse:Attribute name="fb:app_id" value="689384617806917"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Arielle De Bono"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlebody" value="© Bastiaan Slabbers/NurPhoto via Getty Images Could Hillary Clinton be the next Oprah Winfrey? Although Hillary Clinton has been keeping a low profile since her lost fight for the White House,..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAmg7jd.img"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.chicagotribune.com/sports/college/ct-mark-richt-life-is-too-short-to-block-transfers-20170124-story.html</id>
-  <updated>1970-01-18T04:39:19.562Z</updated>
-  <title type="html">Mark Richt in August: &amp;#39;Life is too short&amp;#39; to block transfers. Now he&amp;#39;s ...</title>
-  <link href="http://www.chicagotribune.com/sports/college/ct-mark-richt-life-is-too-short-to-block-transfers-20170124-story.html" title="www.chicagotribune.com"/>
-  <summary type="html">But &lt;b&gt;a source close to&lt;/b&gt; Edwards told McAllister that Richt is blocking the running &lt;br&gt;
-back from transferring to either of those schools because they&amp;#39;re on the&amp;nbsp;...</summary>
-  <cse:cacheId>XOVMp3mVPBAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-mark-richt-life-is-too-short-to-block-transfers -20170124-story.html</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-saudi-aramco-petronas-idUSKBN15911Y</id>
+  <updated>1970-01-18T04:40:05.045Z</updated>
+  <title type="html">Saudi Aramco shelves plan for joint venture with Malaysia&amp;#39;s Petronas</title>
+  <link href="http://www.reuters.com/article/us-saudi-aramco-petronas-idUSKBN15911Y" title="www.reuters.com"/>
+  <summary type="html">UL] in a $27 billion refining and petrochemical project in the southeast Asian &lt;br&gt;
+country, industry &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on Wednesday.</summary>
+  <cse:cacheId>kLx_508qIMQJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-saudi-aramco-petronas-idUSKBN15911Y</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="Matt Bonesteel"/>
-    <cse:Attribute name="date" value="2017-01-24"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 Washington Post"/>
-    <cse:Attribute name="news_keywords" value="Mark Richt, NCAA, college football, transfer, SEC, Georgia, Miami"/>
-    <cse:Attribute name="fb_title" value="Mark Richt in August: &apos;Life is too short&apos; to block transfers. Now he&apos;s blocking a transfer."/>
-    <cse:Attribute name="og:title" value="Mark Richt in August: &apos;Life is too short&apos; to block transfers. Now he&apos;s blocking a transfer."/>
-    <cse:Attribute name="og:description" value="Mark Richt never blocked a player from transferring to a specific school while he was the football coach at Georgia from 2001 to 2015, even if that meant allowing them to leave for Southeastern Conference rivals such as Alabama or Auburn . In August, he was asked why."/>
-    <cse:Attribute name="fb:page_id" value="5953023255"/>
-    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsEnergy;asiaDealsNews;asiaPrivateEquityNews;vbcSmallBusiness;corporateResponsibility;SustainabilityGreen;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;malaysia;asia;newsproHome;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Aramco+shelves+plan+for+joint+venture+with+Malaysia%27s+Petronas%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reem Shamseddine"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Reem Shamseddine"/>
+    <cse:Attribute name="news_keywords" value="Canada;China;Japan;Korea;Malaysia;Singapore;Sadad al;Husseini;US;SAUDI;ARAMCO;PETRONAS;Petrochemicals;Company News;Crude Oil;Middle East (Energy);Malaysia;Corporate Events;Saudi Arabia;Oil and Gas (TRBC);Oil and Gas Refining and Marketing (TRBC);Chemicals (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Strategic Combinations;Asia / Pacific;Major News;Middle East;Commodities News (3rd Party);Natural Gas"/>
+    <cse:Attribute name="revision_date" value="Wed Jan 25 12:09:01 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reem Shamseddine"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-25T12:09:01+0000"/>
+    <cse:Attribute name="sailthru.title" value="Saudi Aramco shelves plan for joint venture with Malaysia&apos;s Petronas: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Saudi Aramco shelves plan for joint venture with Malaysia&apos;s Petronas: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-saudi-aramco-petronas-idUSKBN15911Y"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/sports/college/ct-mark-richt-life-is-too-short-to-block-transfers-20170124-story.html"/>
-    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-588792ea/turbine/ct-mark-richt-life-is-too-short-to-block-transfers-20170124"/>
-    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
-    <cse:Attribute name="googlebot-news" value="index"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/92411464"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i18prod-979d8fe-0-27.1"/>
-    <cse:Attribute name="so:status" value="5,1"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="articlesection" value="Sports"/>
-    <cse:Attribute name="headline" value="Mark Richt in August: &apos;Life is too short&apos; to block transfers. Now he&apos;s blocking a transfer."/>
-    <cse:Attribute name="author" value="Matt Bonesteel"/>
-    <cse:Attribute name="datepublished" value="2017-01-24T11:46:00CST"/>
-    <cse:Attribute name="articlebody" value="Mark Richt never blocked a player from transferring to a specific school while he was the football coach at Georgia from 2001 to 2015, even if that meant allowing them to leave for Southeastern..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.trbimg.com/img-588792ea/turbine/ct-mark-richt-life-is-too-short-to-block-transfers-20170124"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="257"/>
-    <cse:Attribute name="height" value="196"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThEzb6zclHhk6OmIxWqkVMWLJGOzKvDAk21FZh2fLAiEc8V0R3D-XzGk6I"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T04:39:19.562Z</updated>
-  <title type="html">Sources: Steelers RB Bell facing 4-game ban</title>
-  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
-  <summary type="html"/>
-  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.telegraph.co.uk/news/2017/01/25/jeremy-corbyn-considers-giving-mps-freedom-vote-against-brexit/</id>
-  <updated>1970-01-18T04:39:19.562Z</updated>
-  <title type="html">Jeremy Corbyn considers giving MPs freedom to vote against Brexit ...</title>
-  <link href="http://www.telegraph.co.uk/news/2017/01/25/jeremy-corbyn-considers-giving-mps-freedom-vote-against-brexit/" title="www.telegraph.co.uk"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the Labour leader said that he recognises the &amp;quot;difficulties&amp;quot; that &lt;br&gt;
-his MPs face with constituents who voted to stay in the European Union.</summary>
-  <cse:cacheId>psYkrU8XiasJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.telegraph.co.uk/.../jeremy-corbyn-considers-giving-mps-freedom-vote- against-brexit/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
-    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
-    <cse:Attribute name="tmgads.channel" value="news"/>
-    <cse:Attribute name="tmgads.section" value="news-2017"/>
-    <cse:Attribute name="tmgads.zone" value="news.2017.01.25"/>
-    <cse:Attribute name="tmgads.articleid" value="AnRdbGYQv6MR"/>
-    <cse:Attribute name="tmgads.pagetype" value="story"/>
-    <cse:Attribute name="tmgads.level" value="5"/>
-    <cse:Attribute name="tmgads.geo" value="US"/>
-    <cse:Attribute name="tmgads.keywords" value="Catherine West,Tulip Siddiq,Dawn Butler,Standard,European Union,Jeremy Corbyn,Article 50,News,Clive Lewis,Brexit"/>
-    <cse:Attribute name="dcsext.channel" value="news"/>
-    <cse:Attribute name="dcsext.category" value="2017"/>
-    <cse:Attribute name="dcsext.genre" value="01"/>
-    <cse:Attribute name="dcsext.mlc" value="/news/2017/01/25"/>
-    <cse:Attribute name="dcsext.articleid" value="AnRdbGYQv6MR"/>
-    <cse:Attribute name="dcsext.content_type" value="story"/>
-    <cse:Attribute name="dcsext.level" value="5"/>
-    <cse:Attribute name="dcsext.author" value="Steven Swinford"/>
-    <cse:Attribute name="dcsext.articlefirstpublished" value="2017-01-25 17:03"/>
-    <cse:Attribute name="dcsext.cf" value="1"/>
-    <cse:Attribute name="dcsext.cd" value="0"/>
-    <cse:Attribute name="dcsext.cn" value="0"/>
-    <cse:Attribute name="dcsext.pd" value="1"/>
-    <cse:Attribute name="og:title" value="Jeremy Corbyn considers giving MPs freedom to vote against Brexit bill after front-bench rebellion"/>
-    <cse:Attribute name="og:description" value="Jeremy Corbyn has suggested that he could allow Labour MPs to oppose the Government&apos;s Brexit bill in the face of a rebellion by his front bench."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="The Telegraph"/>
-    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2017/01/25/jeremy-corbyn-considers-giving-mps-freedom-vote-against-brexit/"/>
-    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2017/01/18/GettyImages-487150840-xlarge_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdEbgHFEZVI1Pljic_pW9c90.jpg"/>
-    <cse:Attribute name="twitter:title" value="Jeremy Corbyn considers giving MPs freedom to vote against Brexit bill after front-bench rebellion"/>
-    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2017/01/25/jeremy-corbyn-considers-giving-mps-freedom-vote-against-brexit/"/>
-    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2017/01/18/GettyImages-487150840-xlarge_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdEbgHFEZVI1Pljic_pW9c90.jpg"/>
-    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
-    <cse:Attribute name="twitter:description" value="Jeremy Corbyn has suggested that he could allow Labour MPs to oppose the Government&apos;s Brexit bill in the face of a rebellion by his front bench."/>
+    <cse:Attribute name="og:description" value="Saudi Aramco IPO-ARMO.SE has shelved plans for a partnership with Malaysian state-oil firm Petroliam Nasional Berhad [PETR.UL] in a $27 billion refining and petrochemical project in  the southeast Asian country, industry sources familiar with the matter told Reuters on Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170091567&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0O0MT"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-25T12:09:01+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-25T12:09:01+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Reem Shamseddine"/>
+    <cse:Attribute name="og:article:tag" value="Canada,China,Japan,Korea,Malaysia,Singapore,Sadad al,Husseini,US,SAUDI,ARAMCO,PETRONAS,Petrochemicals,Company News,Crude Oil,Middle East (Energy),Malaysia,Corporate Events,Saudi Arabia,Oil and Gas (TRBC),Oil and Gas Refining and Marketing (TRBC),Chemicals (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Strategic Combinations,Asia / Pacific,Major News,Middle East,Commodities News (3rd Party),Natural Gas"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="tmgads.businesssegment" value="news"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=303301873"/>
-    <cse:Attribute name="tmg.premium.override" value="false"/>
-    <cse:Attribute name="tmg.premium.state" value="false"/>
-    <cse:Attribute name="premiumcontentonfirstpublish" value="false"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="headline" value="Jeremy Corbyn considers giving MPs freedom to vote against Brexit bill after front-bench rebellion"/>
-    <cse:Attribute name="name" value="Jeremy Corbyn considers giving MPs freedom to vote against Brexit bill after front-bench rebellion"/>
-    <cse:Attribute name="datepublished" value="2017-01-25T17:03+0000"/>
-    <cse:Attribute name="articlebody" value="Jeremy Corbyn has suggested that he could allow Labour MPs to oppose the Government&apos;s Brexit bill in the face of a rebellion by his front bench. A source close to the Labour leader said that..."/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="caption" value="Jeremy Corbyn, the Labour leader"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Steven Swinford"/>
-    <cse:Attribute name="jobtitle" value="Deputy Political Editor"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="caption" value="Tulip Siddiq"/>
-    <cse:Attribute name="copyrightholder" value="Credit: Lucy Young/REX/Shutterstock/Lucy Young/REX/Shutterstock"/>
+    <cse:Attribute name="twitter:title" value="Saudi Aramco shelves plan for joint venture with Malaysia&apos;s Petronas: sources"/>
+    <cse:Attribute name="twitter:description" value="Saudi Aramco IPO-ARMO.SE has shelved plans for a partnership with Malaysian state-oil firm Petroliam Nasional Berhad [PETR.UL] in a $27 billion refining and petrochemical project in  the southeast Asian country, industry sources familiar with the matter told Reuters on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170091567&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0O0MT"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170091567&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0O0MT"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2017/01/18/GettyImages-487150840-xlarge_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdEbgHFEZVI1Pljic_pW9c90.jpg"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170091567&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0O0MT"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="284"/>
-    <cse:Attribute name="height" value="177"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZjGjKUXU1lRkR8bvLNzQgpng0D3aVXaLKsdY1jFoqGOjnmMizg1SYmELj"/>
+    <cse:Attribute name="width" value="269"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS04RE_-mU_KOZBf5TTcLgpHf40G7Pz8MBMtE_kW52iDUItq8axZUvKFGg"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/news/syrian-talks-continue-may-produce-joint-document-source-162414639.html</id>
-  <updated>1970-01-18T04:39:19.562Z</updated>
-  <title type="html">Syrian talks to continue, may produce joint document: source</title>
-  <link href="https://www.yahoo.com/news/syrian-talks-continue-may-produce-joint-document-source-162414639.html" title="www.yahoo.com"/>
-  <summary type="html">... about potential progress, &lt;b&gt;a source close to&lt;/b&gt; the talks told Reuters on Monday. &lt;br&gt;
-The guarantor states - Russia, Turkey and Iran - are expected to continue talks.</summary>
-  <cse:cacheId>35shGC9LesAJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../syrian-talks-continue-may-produce-joint- document-source-162414639.html</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-vitacoco-m-a-idUSKBN15A2FM</id>
+  <updated>1970-01-18T04:40:05.045Z</updated>
+  <title type="html">Exclusive: Top coconut water maker Vita Coco exploring sale ...</title>
+  <link href="http://www.reuters.com/article/us-vitacoco-m-a-idUSKBN15A2FM" title="www.reuters.com"/>
+  <summary type="html">Vita Coco, the world&amp;#39;s leading brand of coconut water, is exploring a sale of the &lt;br&gt;
+company that could value it at up to $1 billion, according to &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>ZdiQ9ImOtIcJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-vitacoco-m-a-idUSKBN15A2FM</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsConsumerGoodsAndRetail;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;innovationAMD;SustainabilityGreen;everything;Deals;ShellEnergy;AllianzInvestments;Allianz;newsproHome;marine;cfaglobal;aa48hours;shipping;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Top+coconut+water+maker+Vita+Coco+exploring+sale+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Martinne Geller and Lauren Hirsch"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Martinne Geller and Lauren Hirsch"/>
+    <cse:Attribute name="news_keywords" value="United States;Howard Telford;Matthew McConaughey;Vita Coco;US;VITACOCO;M;A;Belgium;Mergers / Acquisitions / Takeovers;Company News;Exclusive;Picture available;Corporate Events;Brewers (TRBC);Major News;Europe;Pictures;United States;Beverages (TRBC);Non;Alcoholic Beverages (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Fri Jan 27 15:36:15 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Martinne Geller and Lauren Hirsch"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-27T15:36:15+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Top coconut water maker Vita Coco exploring sale - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Top coconut water maker Vita Coco exploring sale - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-vitacoco-m-a-idUSKBN15A2FM"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Vita Coco, the world&apos;s leading brand of coconut water, is exploring a sale of the company that could value it at up to $1 billion, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170126&amp;t=2&amp;i=1170322521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0P1GJ"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-27T15:36:15+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-27T15:36:15+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Martinne Geller and Lauren Hirsch"/>
+    <cse:Attribute name="og:article:tag" value="United States,Howard Telford,Matthew McConaughey,Vita Coco,US,VITACOCO,M,A,Belgium,Mergers / Acquisitions / Takeovers,Company News,Exclusive,Picture available,Corporate Events,Brewers (TRBC),Major News,Europe,Pictures,United States,Beverages (TRBC),Non,Alcoholic Beverages (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Top coconut water maker Vita Coco exploring sale - sources"/>
+    <cse:Attribute name="twitter:description" value="Vita Coco, the world&apos;s leading brand of coconut water, is exploring a sale of the company that could value it at up to $1 billion, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170126&amp;t=2&amp;i=1170322521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0P1GJ"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170126&amp;t=2&amp;i=1170322521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0P1GJ"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170126&amp;t=2&amp;i=1170322521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0P1GJ"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="266"/>
+    <cse:Attribute name="height" value="189"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC6KPPLe0M2CriQoKIT6_MSoXeRDg0Fw12JlLG2hf4tTLWCy1PJpGyedIU"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800</id>
+  <updated>1970-01-18T04:40:05.045Z</updated>
+  <title type="html">Trump May Suspend Some Immigration From Iraq and 6 Other ...</title>
+  <link href="http://abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800" title="abcnews.go.com"/>
+  <summary type="html">... to suspend some immigration from Iraq, Iran, Libya, Somalia, Sudan, Syria and &lt;br&gt;
+Yemen, either temporarily or &amp;quot;indefinitely,&amp;quot; said &lt;b&gt;sources familiar with&lt;/b&gt; the plans&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">abcnews.go.com/Politics/trump-suspend-immigration-iraq.../story?id...</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="ABC News"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
+    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="fb:admins" value="704409894"/>
+    <cse:Attribute name="fb:app_id" value="4942312939"/>
+    <cse:Attribute name="fb_title" value="Trump May Suspend Some Immigration From Iraq, 6 Other Countries: Sources"/>
+    <cse:Attribute name="og:site_name" value="ABC News"/>
+    <cse:Attribute name="og:title" value="Trump May Suspend Some Immigration From Iraq, 6 Other Countries: Sources"/>
+    <cse:Attribute name="og:description" value="Sources say Trump will visit the Department of Homeland Security on Wednesday."/>
+    <cse:Attribute name="og:url" value="http://abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800"/>
+    <cse:Attribute name="og:image:type" value="image/jpeg"/>
+    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/Politics/GTY-president-trump-jef-170123_16x9_992.jpg"/>
+    <cse:Attribute name="dc.date.issued" value="2017-01-25"/>
+    <cse:Attribute name="date" value="2017-01-25"/>
+    <cse:Attribute name="last-modified" value="2017-01-25 11:51:51"/>
+    <cse:Attribute name="article:author" value="/author/serena_marshall"/>
+    <cse:Attribute name="news_keywords" value="Donald Trump, Muslim Ban"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@ABC"/>
+    <cse:Attribute name="twitter:creator" value="@marykbruce"/>
+    <cse:Attribute name="twitter:title" value="Trump May Suspend Some Immigration From Iraq, 6 Other Countries: Sources"/>
+    <cse:Attribute name="twitter:description" value="Sources say Trump will visit the Department of Homeland Security on Wednesday."/>
+    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800"/>
+    <cse:Attribute name="twitter:image:width" value="150"/>
+    <cse:Attribute name="twitter:image:height" value="116"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,45023800"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,45023800"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800"/>
+    <cse:Attribute name="twitter:image" value="http://a.abcnews.com/images/Politics/GTY-president-trump-jef-170123_4x3t_240.jpg"/>
+    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,45023800"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
+    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
+    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,45023800"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
+    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
+    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800"/>
+    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
+    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
+    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800"/>
+   </cse:DataObject>
+   <cse:DataObject type="sitenavigationelement">
+    <cse:Attribute name="name" value="U.S."/>
+    <cse:Attribute name="url" value="U.S."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://a.abcnews.com/images/Politics/GTY-president-trump-jef-170123_16x9_992.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkF6GRmNVIpG-F0UIAXI6yCuzflGVWjBVyL9jZzoG4_BK4myz1ZQPpEJw"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-germany-military-exclusive-idUSKBN1581KX</id>
+  <updated>1970-01-18T04:40:05.045Z</updated>
+  <title type="html">Exclusive: Germany nears decision to beef up short-range air ...</title>
+  <link href="http://www.reuters.com/article/us-germany-military-exclusive-idUSKBN1581KX" title="www.reuters.com"/>
+  <summary type="html">... systems and help fill a gap that has caused concern among NATO members &lt;br&gt;
+after Russia&amp;#39;s annexation of Crimea, two &lt;b&gt;sources familiar with&lt;/b&gt; the issue said.</summary>
+  <cse:cacheId>utpEsApB5OkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-germany-military-exclusive-idUSKBN1581KX</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
+    <cse:Attribute name="dcsext.channellist" value="worldNews;newsMaps;russia;Germany;everything;Deals;Hyundai;europe;newsproHome;cfaglobal;aa48hours;shipping;nonegative;dassaultuk;greenpeace;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Germany+nears+decision+to+beef+up+short-range+air+defenses+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Andrea Shalal"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
+    <cse:Attribute name="author" value="Andrea Shalal"/>
+    <cse:Attribute name="news_keywords" value="Finland;Germany;Netherlands;Norway;Oman;Russia;Slovakia;Spain;Sweden;United States;Donald Trump;IRIS;T SLS;Thomas Karako;US;GERMANY;MILITARY;EXCLUSIVE;Germany;Norway;Belgium;Russia;Western Europe;Exclusive;Military Conflicts;North Atlantic Treaty Organization;Sweden;Government Borrowing Requirement;Military Procurement;Slovakia;United Kingdom;Conflicts / War / Peace;United States;Company News;Diplomacy / Foreign Policy;New Issues;Government / Politics;Aerospace / Defense (Legacy);Corporate Events;Technology (TRBC);Europe;International / National Security;Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Tue Jan 24 12:42:20 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Andrea Shalal"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-24T12:42:20+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Germany nears decision to beef up short-range air defenses - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Germany nears decision to beef up short-range air defenses - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-germany-military-exclusive-idUSKBN1581KX"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Germany is nearing a decision to replace its aging short-range air defense systems and help fill a gap that has caused concern among NATO members after Russia&apos;s annexation of Crimea, two sources familiar with the issue said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-24T12:42:20+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-24T12:42:20+0000"/>
+    <cse:Attribute name="og:article:section" value="World"/>
+    <cse:Attribute name="og:article:author" value="Andrea Shalal"/>
+    <cse:Attribute name="og:article:tag" value="Finland,Germany,Netherlands,Norway,Oman,Russia,Slovakia,Spain,Sweden,United States,Donald Trump,IRIS,T SLS,Thomas Karako,US,GERMANY,MILITARY,EXCLUSIVE,Germany,Norway,Belgium,Russia,Western Europe,Exclusive,Military Conflicts,North Atlantic Treaty Organization,Sweden,Government Borrowing Requirement,Military Procurement,Slovakia,United Kingdom,Conflicts / War / Peace,United States,Company News,Diplomacy / Foreign Policy,New Issues,Government / Politics,Aerospace / Defense (Legacy),Corporate Events,Technology (TRBC),Europe,International / National Security,Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Germany nears decision to beef up short-range air defenses - sources"/>
+    <cse:Attribute name="twitter:description" value="Germany is nearing a decision to replace its aging short-range air defense systems and help fill a gap that has caused concern among NATO members after Russia&apos;s annexation of Crimea, two sources familiar with the issue said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
+    <cse:Attribute name="wt.cg_n" value="World"/>
+    <cse:Attribute name="wt.cg_s" value="World"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-weetabix-bright-food-m-a-idUSKBN15B235</id>
+  <updated>1970-01-18T04:40:05.045Z</updated>
+  <title type="html">Four food firms prepare bids for British cereal maker Weetabix ...</title>
+  <link href="http://www.reuters.com/article/us-weetabix-bright-food-m-a-idUSKBN15B235" title="www.reuters.com"/>
+  <summary type="html">N), and the UK&amp;#39;s Associated British Foods (ABF.L) are among a group of four &lt;br&gt;
+bidders vying for British cereal brand Weetabix, &lt;b&gt;sources familiar with&lt;/b&gt; the matter&amp;nbsp;...</summary>
+  <cse:cacheId>ili36N999_AJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-weetabix-bright-food-m-a-idUSKBN15B235</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;americasDealsNews;americasPrivateEquityNews;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;everything;Deals;forexNewsCopy;ShellEnergy;AllianzInvestments;Allianz;newsproHome;audib2b;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;banks;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Four+food+firms+prepare+bids+for+British+cereal+maker+Weetabix%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="news_keywords" value="China;United Kingdom;US;WEETABIX;BRIGHT;FOOD;M;A;Retailers (Legacy);Chemicals (Legacy);Mergers / Acquisitions / Takeovers;Switzerland;Company News;Western Europe;China (PRC);Food Processing (TRBC);Corporate Events;Retailers excl Food and Drug Specialists (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Government Borrowing Requirement;Europe;Deals;United Kingdom;United States"/>
+    <cse:Attribute name="revision_date" value="Fri Jan 27 18:49:23 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-27T18:49:23+0000"/>
+    <cse:Attribute name="sailthru.title" value="Four food firms prepare bids for British cereal maker Weetabix: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Four food firms prepare bids for British cereal maker Weetabix: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-weetabix-bright-food-m-a-idUSKBN15B235"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="America&apos;s third-biggest cereal company, Post Holdings (POST.N), and the UK&apos;s Associated British Foods (ABF.L) are among a group of four bidders vying for British cereal brand Weetabix, sources familiar with the matter said on Friday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170127&amp;t=2&amp;i=1170439480&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0Q13V"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-27T18:49:23+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-27T18:49:23+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="og:article:tag" value="China,United Kingdom,US,WEETABIX,BRIGHT,FOOD,M,A,Retailers (Legacy),Chemicals (Legacy),Mergers / Acquisitions / Takeovers,Switzerland,Company News,Western Europe,China (PRC),Food Processing (TRBC),Corporate Events,Retailers excl Food and Drug Specialists (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Government Borrowing Requirement,Europe,Deals,United Kingdom,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Four food firms prepare bids for British cereal maker Weetabix: sources"/>
+    <cse:Attribute name="twitter:description" value="America&apos;s third-biggest cereal company, Post Holdings (POST.N), and the UK&apos;s Associated British Foods (ABF.L) are among a group of four bidders vying for British cereal brand Weetabix, sources familiar with the matter said on Friday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170127&amp;t=2&amp;i=1170439480&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0Q13V"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170127&amp;t=2&amp;i=1170439480&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0Q13V"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170127&amp;t=2&amp;i=1170439480&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0Q13V"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="270"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_dm-xjMwUt3eZdXE466iC6VH1kZVaohZe_tYDV1az1t7wuxmvQDk-1C4"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/moves-trading-citadel-idUSL1N1FF1ZP</id>
+  <updated>1970-01-18T04:40:05.045Z</updated>
+  <title type="html">MOVES-Citadel&amp;#39;s top natural gas trader steps down -sources | Reuters</title>
+  <link href="http://www.reuters.com/article/moves-trading-citadel-idUSL1N1FF1ZP" title="www.reuters.com"/>
+  <summary type="html">HOUSTON Jan 25 Harrison DeStefano, head of natural gas at hedge fund &lt;br&gt;
+Citadel LLC, has stepped down, two &lt;b&gt;sources familiar with&lt;/b&gt; the move said on&amp;nbsp;...</summary>
+  <cse:cacheId>c2LRflttRUkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/moves-trading-citadel-idUSL1N1FF1ZP</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="MOC_US_2015-16;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="MOVES-Citadel%27s+top+natural+gas+trader+steps+down+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Brian Sestak;Harrison DeStefano;MOVES;TRADING/CITADEL;Investment Banking and Investment Services (TRBC);Energy Markets;Crude Oil;Energy (Legacy);Pipelines;Hedge Funds;Industry News (3rd Party);Shale Oil / Shale Gas;Natural Gas Utilities (TRBC);Commodities Markets;Americas (Energy);Key Personnel Changes;Funds;Company News;Utilities (TRBC);Financials (TRBC);Financials (Legacy);Corporate Events;Oil and Gas (TRBC);Corporate Governance;Natural Gas Liquids;Refined Products;English;Banking and Investment Services (TRBC);Energy (TRBC);Commodities News (3rd Party);Company Management Issues;Natural Gas;Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Wed Jan 25 23:44:36 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-25T23:44:36+0000"/>
+    <cse:Attribute name="sailthru.title" value="MOVES-Citadel&apos;s top natural gas trader steps down -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="MOVES-Citadel&apos;s top natural gas trader steps down -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/moves-trading-citadel-idUSL1N1FF1ZP"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Harrison DeStefano, head ofnatural gas at hedge fund Citadel LLC, has stepped down, twosources familiar with the move said on Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-25T23:44:36+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-25T23:44:36+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Brian Sestak,Harrison DeStefano,MOVES,TRADING/CITADEL,Investment Banking and Investment Services (TRBC),Energy Markets,Crude Oil,Energy (Legacy),Pipelines,Hedge Funds,Industry News (3rd Party),Shale Oil / Shale Gas,Natural Gas Utilities (TRBC),Commodities Markets,Americas (Energy),Key Personnel Changes,Funds,Company News,Utilities (TRBC),Financials (TRBC),Financials (Legacy),Corporate Events,Oil and Gas (TRBC),Corporate Governance,Natural Gas Liquids,Refined Products,English,Banking and Investment Services (TRBC),Energy (TRBC),Commodities News (3rd Party),Company Management Issues,Natural Gas,Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="MOVES-Citadel&apos;s top natural gas trader steps down -sources"/>
+    <cse:Attribute name="twitter:description" value="Harrison DeStefano, head ofnatural gas at hedge fund Citadel LLC, has stepped down, twosources familiar with the move said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.yahoo.com/news/m/11b92317-7c7a-3755-acc6-a49f77542e79/ss_trans-pacific-partnership.html</id>
+  <updated>1970-01-18T04:40:05.045Z</updated>
+  <title type="html">Trans-Pacific Partnership trade deal withdrawal Trump&amp;#39;s first ...</title>
+  <link href="https://www.yahoo.com/news/m/11b92317-7c7a-3755-acc6-a49f77542e79/ss_trans-pacific-partnership.html" title="www.yahoo.com"/>
+  <summary type="html">(CNN) President Donald Trump on Monday will start to unravel the behemoth &lt;br&gt;
+trade deal he inherited from his predecessor, as two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>Pk1szzSbcxcJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.yahoo.com/news/.../ss_trans-pacific-partnership.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
@@ -728,31 +492,144 @@ The guarantor states - Russia, Turkey and Iran - are expected to continue talks.
     <cse:Attribute name="twitter:dnt" value="on"/>
     <cse:Attribute name="twitter:site" value="@Yahoo"/>
     <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
-    <cse:Attribute name="yahoo" value="app-id=304158842,app-argument=yahoo://article/view?uuid=d98ad414-c81b-33d7-afdf-d5ed78aabecc&amp;src=web"/>
-    <cse:Attribute name="twitter:description" value="ASTANA (Reuters) - The first day of indirect talks in Astana between the Syrian government and rebels has given grounds for­ cautious optimism about potential ­progress, a source close to the talks told Reuters on Monday. The guaran­tor states - Russia, Turkey and Iran - are expected to continue talk­s"/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="twitter:title" value="Syrian talks to continue, may produce joint document: source"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=11b92317-7c7a-3755-acc6-a49f77542e79&amp;src=web"/>
+    <cse:Attribute name="twitter:description" value="(CNN) President Donald Trump on Monday will start to unravel the behemoth trade deal he inherited from his predecessor, as two sources familiar with the matter told CNN he plans to sign an executive order to withdraw from the negotiating process of the Trans-Pacific Partnership. That executive order will send signals to Democrats and leaders in foreign capitals around the world that Trump&apos;s rhetoric on trade during the campaign is turning into action. Trump vowed during the campaign to withdraw the US from the Pacific trade deal, commonly known as TPP, which he argued was harmful to American workers and manufacturing. The TPP was negotiated under former President Barack Obama, but never ratified"/>
+    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/bIiYDiwXmnys3ivqZ1S3_g--/aD02MTk7dz0xMTAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://slingstone.zenfs.com/offnetwork/2c11ee3d37b32ec68efbc03cf5ed22e2"/>
+    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/bIiYDiwXmnys3ivqZ1S3_g--/aD02MTk7dz0xMTAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://slingstone.zenfs.com/offnetwork/2c11ee3d37b32ec68efbc03cf5ed22e2"/>
+    <cse:Attribute name="twitter:title" value="Trans-Pacific Partnership trade deal withdrawal Trump&apos;s first executive order, sources say"/>
     <cse:Attribute name="og:type" value="article"/>
     <cse:Attribute name="fb:app_id" value="90376669494"/>
     <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=d98ad414-c81b-33d7-afdf-d5ed78aabecc&amp;src=web"/>
+    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=11b92317-7c7a-3755-acc6-a49f77542e79&amp;src=web"/>
     <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
     <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=d98ad414-c81b-33d7-afdf-d5ed78aabecc&amp;src=web"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="og:description" value="ASTANA (Reuters) - The first day of indirect talks in Astana between the Syrian government and rebels has given grounds for­ cautious optimism about potential ­progress, a source close to the talks told Reuters on Monday. The guaran­tor states - Russia, Turkey and Iran - are expected to continue talk­s"/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="og:title" value="Syrian talks to continue, may produce joint document: source"/>
-    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/syrian-talks-continue-may-produce-joint-document-source-162414639.html"/>
+    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=11b92317-7c7a-3755-acc6-a49f77542e79&amp;src=web"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:description" value="(CNN) President Donald Trump on Monday will start to unravel the behemoth trade deal he inherited from his predecessor, as two sources familiar with the matter told CNN he plans to sign an executive order to withdraw from the negotiating process of the Trans-Pacific Partnership. That executive order will send signals to Democrats and leaders in foreign capitals around the world that Trump&apos;s rhetoric on trade during the campaign is turning into action. Trump vowed during the campaign to withdraw the US from the Pacific trade deal, commonly known as TPP, which he argued was harmful to American workers and manufacturing. The TPP was negotiated under former President Barack Obama, but never ratified"/>
+    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/bIiYDiwXmnys3ivqZ1S3_g--/aD02MTk7dz0xMTAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://slingstone.zenfs.com/offnetwork/2c11ee3d37b32ec68efbc03cf5ed22e2"/>
+    <cse:Attribute name="og:title" value="Trans-Pacific Partnership trade deal withdrawal Trump&apos;s first executive order, sources say"/>
+    <cse:Attribute name="og:url" value="https://amp.cnn.com/cnn/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/index.html"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/bIiYDiwXmnys3ivqZ1S3_g--/aD02MTk7dz0xMTAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://slingstone.zenfs.com/offnetwork/2c11ee3d37b32ec68efbc03cf5ed22e2"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="225"/>
-    <cse:Attribute name="height" value="225"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsu8h2qPcbEySow_b11yLyETddWLbICdJLk1xWXl-3molDDR1MTHSgF0Nw"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcST_OlWG7pE7OHD_BCT3u7HiUTdVJqFBSN4-UYvZ_Spjdr0_uZnInnVa1EJ"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/tom-arnold</id>
+  <updated>1970-01-18T04:40:05.045Z</updated>
+  <title type="html">Tom Arnold</title>
+  <link href="http://www.reuters.com/journalists/tom-arnold" title="www.reuters.com"/>
+  <summary type="html">... Bank (GIB) has chosen six banks to arrange an upcoming U.S. dollar-&lt;br&gt;
+denominated bond sale, &lt;b&gt;sources familiar with&lt;/b&gt; the situation told Reuters on &lt;br&gt;
+Wednesday.</summary>
+  <cse:cacheId>uP8GkiMAum8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/tom-arnold</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/tom-arnold"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-usa-trump-immigration-exclusive-idUSKBN1582XQ</id>
+  <updated>1970-01-18T04:40:05.045Z</updated>
+  <title type="html">Trump expected to order temporary ban on refugees | Reuters</title>
+  <link href="http://www.reuters.com/article/us-usa-trump-immigration-exclusive-idUSKBN1582XQ" title="www.reuters.com"/>
+  <summary type="html">... Trump is likely to tell the State Department to stop issuing visas to people from &lt;br&gt;
+those nations, according to &lt;b&gt;sources familiar with&lt;/b&gt; the visa process. He could also&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>LGQHZQL6j3IJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-usa-trump-immigration-exclusive-idUSKBN1582XQ</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;worldNews;politicsNews;newsMaps;iraqNews;google;Retirement;SustainabilitySocial;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;syria;middle-east;newsproHome;audib2b;credit-rss;marine;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;BigStory13;GCA-live-feed;GCA-us-election-2016"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Trump+expected+to+order+temporary+ban+on+refugees"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="3"/>
+    <cse:Attribute name="dcsext.contentversion" value="modified-editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Julia Edwards Ainsley"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
+    <cse:Attribute name="author" value="Julia Edwards Ainsley"/>
+    <cse:Attribute name="news_keywords" value="Iran;Iraq;Libya;Somalia;Sudan;Syria;United States;Yemen;Australia;El Salvador;Guatemala;Honduras;Iran;Iraq;Libya;Mexico;Nauru;Papua New Guinea;Somalia;Sudan;Syria;United States;Yemen;Donald Trump;Barack Obama;Behrouz Boochani;Catherine Stubberfield;Donald Trump;Hiroshi Motomura;John Kelly;Malcolm Turnbull;Rex Tillerson;Sean Spicer;Stephen Legomsky;US;USA;TRUMP;IMMIGRATION;EXCLUSIVE;Crime / Law / Justice;Lawmaking;Iron Ore;Exclusive;Islam;Judicial Process / Court Cases / Court Decisions;Military Conflicts;Crime;Yemen;Africa;Libya;Sudan;Asia / Pacific;Major News;Human Rights / Civil Rights;Middle East;Somalia;Conflicts / War / Peace;United States;Americas;South America / Central America;Syria;Asylum / Immigration / Refugees;Iraq;Iran;Diplomacy / Foreign Policy;Government / Politics;Fundamental Rights / Civil Liberties;Australia;US Government News;Religion / Belief;International / National Security;Emerging Market Countries;Insurgencies"/>
+    <cse:Attribute name="revision_date" value="Wed Jan 25 12:59:43 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Julia Edwards Ainsley"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-25T12:59:43+0000"/>
+    <cse:Attribute name="sailthru.title" value="Trump expected to order temporary ban on refugees"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Trump expected to order temporary ban on refugees"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-immigration-exclusive-idUSKBN1582XQ"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="U.S. President Donald Trump is expected to sign executive orders starting on Wednesday that include a temporary ban on most refugees and a suspension of visas for citizens of Syria and six other Middle Eastern and African countries, say congressional aides and immigration experts briefed on the matter."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170109791&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0N1JZ"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-25T12:59:43+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-25T12:59:43+0000"/>
+    <cse:Attribute name="og:article:section" value="World"/>
+    <cse:Attribute name="og:article:author" value="Julia Edwards Ainsley"/>
+    <cse:Attribute name="og:article:tag" value="Iran,Iraq,Libya,Somalia,Sudan,Syria,United States,Yemen,Australia,El Salvador,Guatemala,Honduras,Iran,Iraq,Libya,Mexico,Nauru,Papua New Guinea,Somalia,Sudan,Syria,United States,Yemen,Donald Trump,Barack Obama,Behrouz Boochani,Catherine Stubberfield,Donald Trump,Hiroshi Motomura,John Kelly,Malcolm Turnbull,Rex Tillerson,Sean Spicer,Stephen Legomsky,US,USA,TRUMP,IMMIGRATION,EXCLUSIVE,Crime / Law / Justice,Lawmaking,Iron Ore,Exclusive,Islam,Judicial Process / Court Cases / Court Decisions,Military Conflicts,Crime,Yemen,Africa,Libya,Sudan,Asia / Pacific,Major News,Human Rights / Civil Rights,Middle East,Somalia,Conflicts / War / Peace,United States,Americas,South America / Central America,Syria,Asylum / Immigration / Refugees,Iraq,Iran,Diplomacy / Foreign Policy,Government / Politics,Fundamental Rights / Civil Liberties,Australia,US Government News,Religion / Belief,International / National Security,Emerging Market Countries,Insurgencies"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Trump expected to order temporary ban on refugees"/>
+    <cse:Attribute name="twitter:description" value="U.S. President Donald Trump is expected to sign executive orders starting on Wednesday that include a temporary ban on most refugees and a suspension of visas for citizens of Syria and six other Middle Eastern and African countries, say congressional aides and immigration experts briefed on the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170109791&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0N1JZ"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170109791&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0N1JZ"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
+    <cse:Attribute name="wt.cg_n" value="World"/>
+    <cse:Attribute name="wt.cg_s" value="World"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170109791&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0N1JZ"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXm1LQ7DRcloID9A99BaqedEAxtz78xB2BAupC-8Mlg5hMPPjoL8WoSEQ"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
