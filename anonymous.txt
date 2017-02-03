@@ -5,89 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T04:44:39.234Z</updated>
+ <updated>1970-01-18T04:48:42.349Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="21300" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="21300" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>21300</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15300" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15300" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>15300</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.346618</cse:searchTime>
-  <cse:formattedSearchTime>0.35</cse:formattedSearchTime>
-  <cse:totalResults>21300</cse:totalResults>
-  <cse:formattedTotalResults>21,300</cse:formattedTotalResults>
+  <cse:searchTime>0.249403</cse:searchTime>
+  <cse:formattedSearchTime>0.25</cse:formattedSearchTime>
+  <cse:totalResults>15300</cse:totalResults>
+  <cse:formattedTotalResults>15,300</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-saudi-aramco-petronas-idUSKBN15911Y</id>
-  <updated>1970-01-18T04:44:39.234Z</updated>
-  <title type="html">Saudi Aramco shelves plan for joint venture with Malaysia&amp;#39;s Petronas</title>
-  <link href="http://www.reuters.com/article/us-saudi-aramco-petronas-idUSKBN15911Y" title="www.reuters.com"/>
-  <summary type="html">UL] in a $27 billion refining and petrochemical project in the southeast Asian &lt;br&gt;
-country, industry &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on Wednesday.</summary>
-  <cse:cacheId>kLx_508qIMQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-saudi-aramco-petronas-idUSKBN15911Y</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsEnergy;asiaDealsNews;asiaPrivateEquityNews;vbcSmallBusiness;corporateResponsibility;SustainabilityGreen;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;malaysia;asia;newsproHome;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Aramco+shelves+plan+for+joint+venture+with+Malaysia%27s+Petronas%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reem Shamseddine"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Reem Shamseddine"/>
-    <cse:Attribute name="news_keywords" value="Canada;China;Japan;Korea;Malaysia;Singapore;Sadad al;Husseini;US;SAUDI;ARAMCO;PETRONAS;Petrochemicals;Company News;Crude Oil;Middle East (Energy);Malaysia;Corporate Events;Saudi Arabia;Oil and Gas (TRBC);Oil and Gas Refining and Marketing (TRBC);Chemicals (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Strategic Combinations;Asia / Pacific;Major News;Middle East;Commodities News (3rd Party);Natural Gas"/>
-    <cse:Attribute name="revision_date" value="Wed Jan 25 12:09:01 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reem Shamseddine"/>
-    <cse:Attribute name="sailthru.date" value="2017-01-25T12:09:01+0000"/>
-    <cse:Attribute name="sailthru.title" value="Saudi Aramco shelves plan for joint venture with Malaysia&apos;s Petronas: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Saudi Aramco shelves plan for joint venture with Malaysia&apos;s Petronas: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-saudi-aramco-petronas-idUSKBN15911Y"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Saudi Aramco IPO-ARMO.SE has shelved plans for a partnership with Malaysian state-oil firm Petroliam Nasional Berhad [PETR.UL] in a $27 billion refining and petrochemical project in  the southeast Asian country, industry sources familiar with the matter told Reuters on Wednesday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170091567&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0O0MT"/>
-    <cse:Attribute name="og:article:published_time" value="2017-01-25T12:09:01+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-01-25T12:09:01+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reem Shamseddine"/>
-    <cse:Attribute name="og:article:tag" value="Canada,China,Japan,Korea,Malaysia,Singapore,Sadad al,Husseini,US,SAUDI,ARAMCO,PETRONAS,Petrochemicals,Company News,Crude Oil,Middle East (Energy),Malaysia,Corporate Events,Saudi Arabia,Oil and Gas (TRBC),Oil and Gas Refining and Marketing (TRBC),Chemicals (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Strategic Combinations,Asia / Pacific,Major News,Middle East,Commodities News (3rd Party),Natural Gas"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Saudi Aramco shelves plan for joint venture with Malaysia&apos;s Petronas: sources"/>
-    <cse:Attribute name="twitter:description" value="Saudi Aramco IPO-ARMO.SE has shelved plans for a partnership with Malaysian state-oil firm Petroliam Nasional Berhad [PETR.UL] in a $27 billion refining and petrochemical project in  the southeast Asian country, industry sources familiar with the matter told Reuters on Wednesday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170091567&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0O0MT"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170091567&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0O0MT"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170125&amp;t=2&amp;i=1170091567&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0O0MT"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="269"/>
-    <cse:Attribute name="height" value="187"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS04RE_-mU_KOZBf5TTcLgpHf40G7Pz8MBMtE_kW52iDUItq8axZUvKFGg"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-vitacoco-m-a-idUSKBN15A2FM</id>
-  <updated>1970-01-18T04:44:39.234Z</updated>
+  <updated>1970-01-18T04:48:42.349Z</updated>
   <title type="html">Exclusive: Top coconut water maker Vita Coco exploring sale ...</title>
   <link href="http://www.reuters.com/article/us-vitacoco-m-a-idUSKBN15A2FM" title="www.reuters.com"/>
   <summary type="html">Vita Coco, the world&amp;#39;s leading brand of coconut water, is exploring a sale of the &lt;br&gt;
@@ -150,143 +86,195 @@ company that could value it at up to $1 billion, according to &lt;b&gt;sources f
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/moves-trading-citadel-idUSL1N1FF1ZP</id>
-  <updated>1970-01-18T04:44:39.234Z</updated>
-  <title type="html">MOVES-Citadel&amp;#39;s top natural gas trader steps down -sources | Reuters</title>
-  <link href="http://www.reuters.com/article/moves-trading-citadel-idUSL1N1FF1ZP" title="www.reuters.com"/>
-  <summary type="html">HOUSTON Jan 25 Harrison DeStefano, head of natural gas at hedge fund &lt;br&gt;
-Citadel LLC, has stepped down, two &lt;b&gt;sources familiar with&lt;/b&gt; the move said on&amp;nbsp;...</summary>
-  <cse:cacheId>c2LRflttRUkJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/moves-trading-citadel-idUSL1N1FF1ZP</cse:formattedUrl>
+  <id>http://www.businessinsider.com/r-us-mexican-officials-meet-in-mexico-discuss-security-sources-2017-2</id>
+  <updated>1970-01-18T04:48:42.349Z</updated>
+  <title type="html">US, Mexican officials met in Mexico to discuss migrants and security ...</title>
+  <link href="http://www.businessinsider.com/r-us-mexican-officials-meet-in-mexico-discuss-security-sources-2017-2" title="www.businessinsider.com"/>
+  <summary type="html">... met with a Mexican delegation in the southern Mexican border city of &lt;br&gt;
+Tapachula on Tuesday to discuss security initiatives, &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter told&amp;nbsp;...</summary>
+  <cse:cacheId>tCgYLAbj9w8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-us-mexican-officials-meet-in-mexico-discuss- security-sources-2017-2</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="MOC_US_2015-16;MOC_US_2017;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="MOVES-Citadel%27s+top+natural+gas+trader+steps+down+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Brian Sestak;Harrison DeStefano;MOVES;TRADING/CITADEL;Investment Banking and Investment Services (TRBC);Energy Markets;Crude Oil;Energy (Legacy);Pipelines;Hedge Funds;Industry News (3rd Party);Shale Oil / Shale Gas;Natural Gas Utilities (TRBC);Commodities Markets;Americas (Energy);Key Personnel Changes;Funds;Company News;Utilities (TRBC);Financials (TRBC);Financials (Legacy);Corporate Events;Oil and Gas (TRBC);Corporate Governance;Natural Gas Liquids;Refined Products;English;Banking and Investment Services (TRBC);Energy (TRBC);Commodities News (3rd Party);Company Management Issues;Natural Gas;Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Wed Jan 25 23:44:36 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-01-25T23:44:36+0000"/>
-    <cse:Attribute name="sailthru.title" value="MOVES-Citadel&apos;s top natural gas trader steps down -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="MOVES-Citadel&apos;s top natural gas trader steps down -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/moves-trading-citadel-idUSL1N1FF1ZP"/>
+    <cse:Attribute name="date" value="2017-02-02"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-02"/>
+    <cse:Attribute name="news_keywords" value="Reuters, Mexico, Mexico president, Central America, migrants, Migrant Crisis, Refugee, Luis Videgaray, US-Mexico relations, US-Mexico border"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters, Mexico, Mexico president, Central America, migrants, Migrant Crisis, Refugee, Luis Videgaray, US-Mexico relations, US-Mexico border"/>
+    <cse:Attribute name="sailthru.description" value="US officials met with Mexican officials in Tapachula, a city near the Guatemalan border that has become a stopping point for migrants heading north."/>
+    <cse:Attribute name="title" value="US and Mexican officials reportedly met in Mexico to discuss migrants and security"/>
+    <cse:Attribute name="sailthru.verticals" value="defense-contributor,defense,politics,international"/>
+    <cse:Attribute name="sailthru.title" value="US and Mexican officials reportedly met in Mexico to discuss migrants and security"/>
+    <cse:Attribute name="tbi-image" value="http://static4.businessinsider.com/image/58937bec3149a1b6008b4b03/us-and-mexican-officials-reportedly-met-in-mexico-to-discuss-migrants-and-security.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static4.businessinsider.com/image/58937bec3149a1b6008b4b03/us-and-mexican-officials-reportedly-met-in-mexico-to-discuss-migrants-and-security.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static4.businessinsider.com/image/58937bec3149a1b6008b4b03-50-50/us-and-mexican-officials-reportedly-met-in-mexico-to-discuss-migrants-and-security.jpg"/>
+    <cse:Attribute name="og:title" value="US and Mexican officials reportedly met in Mexico to discuss migrants and security"/>
+    <cse:Attribute name="og:description" value="US officials met with Mexican officials in Tapachula, a city near the Guatemalan border that has become a stopping point for migrants heading north."/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Harrison DeStefano, head ofnatural gas at hedge fund Citadel LLC, has stepped down, twosources familiar with the move said on Wednesday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-01-25T23:44:36+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-01-25T23:44:36+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Brian Sestak,Harrison DeStefano,MOVES,TRADING/CITADEL,Investment Banking and Investment Services (TRBC),Energy Markets,Crude Oil,Energy (Legacy),Pipelines,Hedge Funds,Industry News (3rd Party),Shale Oil / Shale Gas,Natural Gas Utilities (TRBC),Commodities Markets,Americas (Energy),Key Personnel Changes,Funds,Company News,Utilities (TRBC),Financials (TRBC),Financials (Legacy),Corporate Events,Oil and Gas (TRBC),Corporate Governance,Natural Gas Liquids,Refined Products,English,Banking and Investment Services (TRBC),Energy (TRBC),Commodities News (3rd Party),Company Management Issues,Natural Gas,Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="MOVES-Citadel&apos;s top natural gas trader steps down -sources"/>
-    <cse:Attribute name="twitter:description" value="Harrison DeStefano, head ofnatural gas at hedge fund Citadel LLC, has stepped down, twosources familiar with the move said on Wednesday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-us-mexican-officials-meet-in-mexico-discuss-security-sources-2017-2"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-us-mexican-officials-meet-in-mexico-discuss-security-sources-2017-2"/>
+    <cse:Attribute name="twitter:title" value="US and Mexican officials reportedly met in Mexico to discuss migrants and security"/>
+    <cse:Attribute name="twitter:description" value="US officials met with Mexican officials in Tapachula, a city near the Guatemalan border that has become a stopping point for migrants heading north."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://static3.businessinsider.com/image/58937c5f6e09a87b008b4ade-506-253/us-and-mexican-officials-reportedly-met-in-mexico-to-discuss-migrants-and-security.jpg"/>
+    <cse:Attribute name="twitter:site" value="bi_contributors"/>
+    <cse:Attribute name="og:image" value="http://static5.businessinsider.com/image/58937c5f6e09a87b008b4ade-1190-625/us-and-mexican-officials-reportedly-met-in-mexico-to-discuss-migrants-and-security.jpg"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="defense-contributor"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="US and Mexican officials reportedly met in Mexico to discuss migrants and security"/>
+    <cse:Attribute name="url" value="US and Mexican officials reportedly met in Mexico to discuss migrants and security"/>
+    <cse:Attribute name="image" value="http://static4.businessinsider.com/image/58937bec3149a1b6008b4b03-100-100/us-and-mexican-officials-reportedly-met-in-mexico-to-discuss-migrants-and-security.jpg"/>
+    <cse:Attribute name="description" value="MEXICO CITY (Reuters) — US military..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="http://static2.businessinsider.com/image/586aa90ff10a9a98468b5c1a-2400"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkV-bmFiFlttYNibI0Ummoqgr98_3x3MOrXtCFH5rUsRxeazC7D2FlXbgR"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800</id>
-  <updated>1970-01-18T04:44:39.234Z</updated>
-  <title type="html">Trump May Suspend Some Immigration From Iraq and 6 Other ...</title>
-  <link href="http://abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800" title="abcnews.go.com"/>
-  <summary type="html">... to suspend some immigration from Iraq, Iran, Libya, Somalia, Sudan, Syria and &lt;br&gt;
-Yemen, either temporarily or &amp;quot;indefinitely,&amp;quot; said &lt;b&gt;sources familiar with&lt;/b&gt; the plans&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">abcnews.go.com/Politics/trump-suspend-immigration-iraq.../story?id...</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-weetabix-bright-food-m-a-idUSKBN15B235</id>
+  <updated>1970-01-18T04:48:42.349Z</updated>
+  <title type="html">Four food firms prepare bids for British cereal maker Weetabix ...</title>
+  <link href="http://www.reuters.com/article/us-weetabix-bright-food-m-a-idUSKBN15B235" title="www.reuters.com"/>
+  <summary type="html">N), and the UK&amp;#39;s Associated British Foods (ABF.L) are among a group of four &lt;br&gt;
+bidders vying for British cereal brand Weetabix, &lt;b&gt;sources familiar with&lt;/b&gt; the matter&amp;nbsp;...</summary>
+  <cse:cacheId>ili36N999_AJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-weetabix-bright-food-m-a-idUSKBN15B235</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="ABC News"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
-    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="fb:admins" value="704409894"/>
-    <cse:Attribute name="fb:app_id" value="4942312939"/>
-    <cse:Attribute name="fb_title" value="Trump May Suspend Some Immigration From Iraq, 6 Other Countries: Sources"/>
-    <cse:Attribute name="og:site_name" value="ABC News"/>
-    <cse:Attribute name="og:title" value="Trump May Suspend Some Immigration From Iraq, 6 Other Countries: Sources"/>
-    <cse:Attribute name="og:description" value="Sources say Trump will visit the Department of Homeland Security on Wednesday."/>
-    <cse:Attribute name="og:url" value="http://abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800"/>
-    <cse:Attribute name="og:image:type" value="image/jpeg"/>
-    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/Politics/GTY-president-trump-jef-170123_16x9_992.jpg"/>
-    <cse:Attribute name="dc.date.issued" value="2017-01-25"/>
-    <cse:Attribute name="date" value="2017-01-25"/>
-    <cse:Attribute name="last-modified" value="2017-01-25 11:51:51"/>
-    <cse:Attribute name="article:author" value="/author/serena_marshall"/>
-    <cse:Attribute name="news_keywords" value="Donald Trump, Muslim Ban"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;americasDealsNews;americasPrivateEquityNews;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;everything;Deals;forexNewsCopy;ShellEnergy;AllianzInvestments;Allianz;newsproHome;audib2b;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;banks;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Four+food+firms+prepare+bids+for+British+cereal+maker+Weetabix%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="news_keywords" value="China;United Kingdom;US;WEETABIX;BRIGHT;FOOD;M;A;Retailers (Legacy);Chemicals (Legacy);Mergers / Acquisitions / Takeovers;Switzerland;Company News;Western Europe;China (PRC);Food Processing (TRBC);Corporate Events;Retailers excl Food and Drug Specialists (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Government Borrowing Requirement;Europe;Deals;United Kingdom;United States"/>
+    <cse:Attribute name="revision_date" value="Fri Jan 27 18:49:23 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-27T18:49:23+0000"/>
+    <cse:Attribute name="sailthru.title" value="Four food firms prepare bids for British cereal maker Weetabix: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Four food firms prepare bids for British cereal maker Weetabix: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-weetabix-bright-food-m-a-idUSKBN15B235"/>
     <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="America&apos;s third-biggest cereal company, Post Holdings (POST.N), and the UK&apos;s Associated British Foods (ABF.L) are among a group of four bidders vying for British cereal brand Weetabix, sources familiar with the matter said on Friday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170127&amp;t=2&amp;i=1170439480&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0Q13V"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-27T18:49:23+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-27T18:49:23+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="og:article:tag" value="China,United Kingdom,US,WEETABIX,BRIGHT,FOOD,M,A,Retailers (Legacy),Chemicals (Legacy),Mergers / Acquisitions / Takeovers,Switzerland,Company News,Western Europe,China (PRC),Food Processing (TRBC),Corporate Events,Retailers excl Food and Drug Specialists (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Government Borrowing Requirement,Europe,Deals,United Kingdom,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@ABC"/>
-    <cse:Attribute name="twitter:creator" value="@marykbruce"/>
-    <cse:Attribute name="twitter:title" value="Trump May Suspend Some Immigration From Iraq, 6 Other Countries: Sources"/>
-    <cse:Attribute name="twitter:description" value="Sources say Trump will visit the Department of Homeland Security on Wednesday."/>
-    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800"/>
-    <cse:Attribute name="twitter:image:width" value="150"/>
-    <cse:Attribute name="twitter:image:height" value="116"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,45023800"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,45023800"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800"/>
-    <cse:Attribute name="twitter:image" value="http://a.abcnews.com/images/Politics/GTY-president-trump-jef-170123_4x3t_240.jpg"/>
-    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,45023800"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
-    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
-    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,45023800"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
-    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
-    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800"/>
-    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
-    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
-    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/Politics/trump-suspend-immigration-iraq-countries-sources/story?id=45023800"/>
-   </cse:DataObject>
-   <cse:DataObject type="sitenavigationelement">
-    <cse:Attribute name="name" value="U.S."/>
-    <cse:Attribute name="url" value="U.S."/>
+    <cse:Attribute name="twitter:title" value="Four food firms prepare bids for British cereal maker Weetabix: sources"/>
+    <cse:Attribute name="twitter:description" value="America&apos;s third-biggest cereal company, Post Holdings (POST.N), and the UK&apos;s Associated British Foods (ABF.L) are among a group of four bidders vying for British cereal brand Weetabix, sources familiar with the matter said on Friday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170127&amp;t=2&amp;i=1170439480&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0Q13V"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170127&amp;t=2&amp;i=1170439480&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0Q13V"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://a.abcnews.com/images/Politics/GTY-president-trump-jef-170123_16x9_992.jpg"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170127&amp;t=2&amp;i=1170439480&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0Q13V"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkF6GRmNVIpG-F0UIAXI6yCuzflGVWjBVyL9jZzoG4_BK4myz1ZQPpEJw"/>
+    <cse:Attribute name="width" value="270"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_dm-xjMwUt3eZdXE466iC6VH1kZVaohZe_tYDV1az1t7wuxmvQDk-1C4"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.businessinsider.com/r-saudi-aramcos-oil-reserves-confirmed-by-external-audit--sources-2017-1</id>
+  <updated>1970-01-18T04:48:42.349Z</updated>
+  <title type="html">Saudi Aramco&amp;#39;s oil reserves confirmed by external audit -sources ...</title>
+  <link href="http://www.businessinsider.com/r-saudi-aramcos-oil-reserves-confirmed-by-external-audit--sources-2017-1" title="www.businessinsider.com"/>
+  <summary type="html">... The first independent audit of Saudi Aramco&amp;#39;s oil reserves has confirmed the &lt;br&gt;
+state oil company&amp;#39;s own figures, &lt;b&gt;sources familiar with&lt;/b&gt; the situation said, ahead of&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>dVVGwj7vhfMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-saudi-aramcos-oil-reserves-confirmed-by- external-audit--sources-2017-1</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="date" value="2017-01-27"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-27"/>
+    <cse:Attribute name="news_keywords" value="Reuters Company News, SAUDI-ARAMCO/RESERVES (PIX)"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters Company News, SAUDI-ARAMCO/RESERVES (PIX)"/>
+    <cse:Attribute name="sailthru.description" value="By Rania El Gamal, Reem Shamseddine and Alex..."/>
+    <cse:Attribute name="title" value="Saudi Aramco&apos;s oil reserves confirmed by external audit -sources"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Company News"/>
+    <cse:Attribute name="sailthru.title" value="Saudi Aramco&apos;s oil reserves confirmed by external audit -sources"/>
+    <cse:Attribute name="og:title" value="Saudi Aramco&apos;s oil reserves confirmed by external audit -sources"/>
+    <cse:Attribute name="og:description" value="By Rania El Gamal, Reem Shamseddine and Alex..."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-saudi-aramcos-oil-reserves-confirmed-by-external-audit--sources-2017-1"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-saudi-aramcos-oil-reserves-confirmed-by-external-audit--sources-2017-1"/>
+    <cse:Attribute name="twitter:title" value="Saudi Aramco&apos;s oil reserves confirmed by external audit -sources"/>
+    <cse:Attribute name="twitter:description" value="By Rania El Gamal, Reem Shamseddine and Alex..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="pm:template" value="noad-byline"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="Saudi Aramco&apos;s oil reserves confirmed by external audit -sources"/>
+    <cse:Attribute name="url" value="Saudi Aramco&apos;s oil reserves confirmed by external audit -sources"/>
+    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
+    <cse:Attribute name="description" value="By Rania El Gamal, Reem Shamseddine and Alex..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static5.businessinsider.com/assets/images/logos/BI.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOfK1aTywzbJF5wT__2pDGkJ55dcsXy2pEeZanJRsGSNgD7zDifsz6b18a"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/usa-trump-japan-toyota-idUST9N1F103L</id>
-  <updated>1970-01-18T04:44:39.234Z</updated>
+  <updated>1970-01-18T04:48:42.349Z</updated>
   <title type="html">Japan PM Abe to meet with Toyota CEO this week - sources | Reuters</title>
   <link href="http://www.reuters.com/article/usa-trump-japan-toyota-idUST9N1F103L" title="www.reuters.com"/>
   <summary type="html">Japanese Prime Minister Shinzo Abeand Toyota Motor Corp Chief Executive &lt;br&gt;
@@ -349,256 +337,199 @@ Akio Toyoda areplanning to meet this week, &lt;b&gt;sources familiar with&lt;/b&
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/tech/snapchat-reveal-financials-within-week-sources-013608796--sector.html</id>
-  <updated>1970-01-18T04:44:39.234Z</updated>
-  <title type="html">Snapchat to reveal financials within a week: sources</title>
-  <link href="https://www.yahoo.com/tech/snapchat-reveal-financials-within-week-sources-013608796--sector.html" title="www.yahoo.com"/>
-  <summary type="html">... is due to reveal its financials within a week as it moves toward its eagerly &lt;br&gt;
-awaited initial public offering (IPO), &lt;b&gt;sources familiar with&lt;/b&gt; the situation said on &lt;br&gt;
-Friday.</summary>
-  <cse:cacheId>VjvnpagNMcAJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../snapchat-reveal-financials-within-week-sources- 013608796--sector.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@Yahoo"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=97471629-62ad-393a-894a-e7a2ae768790&amp;src=web"/>
-    <cse:Attribute name="twitter:description" value="The sources, who cautioned that Snapchat&apos;s plans may still change, asked not to be named because the information is private.  A spokeswoman for Snap Inc declined to comment.  Snap Inc expects to go public as soon as March and could be valued at $20 billion to $25 billion, based on reports of its"/>
-    <cse:Attribute name="twitter:title" value="Snapchat to reveal financials within a week: sources"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=97471629-62ad-393a-894a-e7a2ae768790&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=97471629-62ad-393a-894a-e7a2ae768790&amp;src=web"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="og:description" value="The sources, who cautioned that Snapchat&apos;s plans may still change, asked not to be named because the information is private.  A spokeswoman for Snap Inc declined to comment.  Snap Inc expects to go public as soon as March and could be valued at $20 billion to $25 billion, based on reports of its"/>
-    <cse:Attribute name="og:title" value="Snapchat to reveal financials within a week: sources"/>
-    <cse:Attribute name="og:url" value="http://finance.yahoo.com/news/snapchat-reveal-financials-within-week-sources-013608796--sector.html"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/ny/api/res/1.2/3ymC01MT0jzAOQkA79jGgA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NDUwO2g9MzAwO2lsPXBsYW5l/http://media.zenfs.com/en_us/News/Reuters/2017-01-28T013608Z_1006990001_LYNXMPED0R03G_RTROPTP_2_CTECH-US-SNAP-INC-IPO.JPG.cf.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaGNkEOzzE960EbOJQDeOAFkohLv2_s5Ngim2IP9UJOjdOTAA53UJHNlp-"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.chicagotribune.com/news/local/politics/ct-rahm-emanuel-donald-trump-police-politics-met-0128-20170127-story.html</id>
-  <updated>1970-01-18T04:44:39.234Z</updated>
-  <title type="html">After Trump criticism on Chicago violence, Emanuel touts police ...</title>
-  <link href="http://www.chicagotribune.com/news/local/politics/ct-rahm-emanuel-donald-trump-police-politics-met-0128-20170127-story.html" title="www.chicagotribune.com"/>
-  <summary type="html">... off canceled from Friday through Sunday, according to police &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;with&lt;/b&gt; the change that was announced during a meeting at police headquarters.</summary>
-  <cse:cacheId>N5tVfI-mCs4J</cse:cacheId>
-  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-rahm-emanuel-donald-trump-police-politics- met-0128-20170127-story.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="Bill Ruthhart, Jeremy Gorner, Hal Dardick"/>
-    <cse:Attribute name="date" value="2017-01-27"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 Chicago Tribune"/>
-    <cse:Attribute name="news_keywords" value="Rahm Emanuel, Donald Trump, Eddie Johnson, Chicago, homicide"/>
-    <cse:Attribute name="fb_title" value="After Trump criticism on Chicago violence, Emanuel touts police smarts"/>
-    <cse:Attribute name="og:title" value="After Trump criticism on Chicago violence, Emanuel touts police smarts"/>
-    <cse:Attribute name="og:description" value="Two days after President Donald Trump told a national television audience that Mayor Rahm Emanuel needed to &quot;smarten up and toughen up&quot; on fighting gun violence, the mayor held a carefully orchestrated news conference to discuss Chicago&apos;s &quot;smart-policing strategy.&quot;"/>
-    <cse:Attribute name="fb:page_id" value="5953023255"/>
-    <cse:Attribute name="fb:app_id" value="306836229411287"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/local/politics/ct-rahm-emanuel-donald-trump-police-politics-met-0128-20170127-story.html"/>
-    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-588d3956/turbine/ct-rahm-emanuel-donald-trump-police-politics-met-0128-20170127"/>
-    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
-    <cse:Attribute name="googlebot-news" value="index"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/92443214"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i18prod-979d8fe-10-71.1"/>
-    <cse:Attribute name="so:status" value="5,1"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="headline" value="After Trump criticism on Chicago violence, Emanuel touts police smarts"/>
-    <cse:Attribute name="author" value="Bill Ruthhart"/>
-    <cse:Attribute name="datepublished" value="2017-01-27T21:47:00CST"/>
-    <cse:Attribute name="articlebody" value="Two days after President Donald Trump told a national television audience that Mayor Rahm Emanuel needed to &quot;smarten up and toughen up&quot; on fighting gun violence, the mayor held a carefully..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.trbimg.com/img-588d3956/turbine/ct-rahm-emanuel-donald-trump-police-politics-met-0128-20170127"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLcuJKhmXxM7LUqNkalAAaBpGq7VRUWa7TFLLiaxYihJvqOGlApEG0gig"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/lauren-hirsch</id>
-  <updated>1970-01-18T04:44:39.234Z</updated>
-  <title type="html">Lauren Hirsch</title>
-  <link href="http://www.reuters.com/journalists/lauren-hirsch" title="www.reuters.com"/>
-  <summary type="html">... is due to reveal its financials within a week as it moves toward its eagerly &lt;br&gt;
-awaited initial public offering (IPO), &lt;b&gt;sources familiar with&lt;/b&gt; the situation said on &lt;br&gt;
-Friday.</summary>
-  <cse:cacheId>WwaF03GQG6gJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/lauren-hirsch</cse:formattedUrl>
+  <id>http://www.reuters.com/article/usa-trump-iran-sanctions-idUSKBN15H2OE</id>
+  <updated>1970-01-18T04:48:42.349Z</updated>
+  <title type="html">Exclusive: US expected to impose fresh sanctions on Iranian entities</title>
+  <link href="http://www.reuters.com/article/usa-trump-iran-sanctions-idUSKBN15H2OE" title="www.reuters.com"/>
+  <summary type="html">... following Tehran&amp;#39;s recent ballistic missile test, but in a way that will not violate &lt;br&gt;
+the 2015 Iran nuclear deal, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Thursday.</summary>
+  <cse:cacheId>_ylNnrBEUH0J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/usa-trump-iran-sanctions-idUSKBN15H2OE</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/lauren-hirsch"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/01/30/politics/donald-trump-mar-a-lago-fundraiser/</id>
-  <updated>1970-01-18T04:44:39.234Z</updated>
-  <title type="html">Sources: Trump plans to attend charity fundraiser at Mar-a-Lago ...</title>
-  <link href="http://www.cnn.com/2017/01/30/politics/donald-trump-mar-a-lago-fundraiser/" title="www.cnn.com"/>
-  <summary type="html">Washington (CNN) President Donald Trump is expected to attend his private &lt;br&gt;
-club&amp;#39;s flagship charity gala on Saturday, &lt;b&gt;sources familiar with&lt;/b&gt; his plans said,&amp;nbsp;...</summary>
-  <cse:cacheId>O0J5CvZQj5cJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/01/30/.../donald-trump-mar-a-lago-fundraiser/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-01-30T22:41:48Z"/>
-    <cse:Attribute name="pubdate" value="2017-01-30T22:41:48Z"/>
-    <cse:Attribute name="lastmod" value="2017-01-30T22:41:48Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/01/30/politics/donald-trump-mar-a-lago-fundraiser/index.html"/>
-    <cse:Attribute name="author" value="Kevin Liptak and Kate Bennett, CNN"/>
-    <cse:Attribute name="og:title" value="Sources: Trump plans to attend charity fundraiser at Mar-a-Lago"/>
-    <cse:Attribute name="twitter:title" value="Sources: Trump plans to attend charity fundraiser at Mar-a-Lago"/>
-    <cse:Attribute name="og:description" value="President Donald Trump is expected to attend his private club&apos;s flagship charity gala on Saturday, sources familiar with his plans said, making his first southern getaway from the White House since taking office."/>
-    <cse:Attribute name="twitter:description" value="President Donald Trump is expected to attend his private club&apos;s flagship charity gala on Saturday, sources familiar with his plans said, making his first southern getaway from the White House since taking office."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170101124831-trump-melania-nye-2016-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="1100"/>
-    <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170101124831-trump-melania-nye-2016-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170101124831-trump-melania-nye-2016-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/01/30/politics/donald-trump-mar-a-lago-fundraiser/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-01-30T22:41:48Z"/>
-    <cse:Attribute name="datepublished" value="2017-01-30T22:41:48Z"/>
-    <cse:Attribute name="datemodified" value="2017-01-30T22:41:48Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/01/30/politics/donald-trump-mar-a-lago-fundraiser/index.html"/>
-    <cse:Attribute name="author" value="Kevin Liptak and Kate Bennett, CNN"/>
-    <cse:Attribute name="headline" value="Sources: Trump plans to attend charity fundraiser at Mar-a-Lago - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="President Donald Trump is expected to attend his private club&apos;s flagship charity gala on Saturday, sources familiar with his plans said, making his first southern getaway from the White House..."/>
-    <cse:Attribute name="keywords" value="politics, Sources: Trump plans to attend charity fundraiser at Mar-a-Lago - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170101124831-trump-melania-nye-2016-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170101124831-trump-melania-nye-2016-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Sources: Trump plans to attend charity fundraiser at Mar-a-Lago"/>
-    <cse:Attribute name="articlebody" value="Story highlightsTrump plans to attend the International Red Cross BallThe ball, a long-running highlight on the Palm Beach social calendarWashington (CNN)President Donald Trump is expected..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170101124831-trump-melania-nye-2016-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170101124831-trump-melania-nye-2016-super-tease.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/saudi-aramco-petronas-idUSL5N1FF2DA</id>
-  <updated>1970-01-18T04:44:39.234Z</updated>
-  <title type="html">Saudi Aramco shelves plans for venture with Malaysia&amp;#39;s Petronas ...</title>
-  <link href="http://www.reuters.com/article/saudi-aramco-petronas-idUSL5N1FF2DA" title="www.reuters.com"/>
-  <summary type="html">SE has shelved plans for a multi-billion-dollar refining and petrochemical joint &lt;br&gt;
-venture with Malaysia&amp;#39;s Petronas, industry &lt;b&gt;sources familiar with&lt;/b&gt; the matter told&amp;nbsp;...</summary>
-  <cse:cacheId>cmJ2QTiqsloJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/saudi-aramco-petronas-idUSL5N1FF2DA</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="energySector"/>
-    <cse:Attribute name="dcsext.channellist" value="rbssEnergyNews;rbssIntegratedOilGas;rbssOilGasRefiningMarketing;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;energySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Aramco+shelves+plans+for+venture+with+Malaysia%27s+Petronas+-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;worldNews;politicsNews;newsMaps;Aerospace;newsproHome;audib2b;CathayPacific_US;USWire;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+U.S.+expected+to+impose+fresh+sanctions+on+Iranian+entities+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-energySector"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Malaysia;SAUDI ARAMCO;PETRONAS/ (URGENT);Energy Markets;Crude Oil;Energy (Legacy);Saudi Arabia;Oil and Gas Refining and Marketing (TRBC);Asia / Pacific;Middle East;Commodities Markets;Company News;Middle East (Energy);Malaysia;Corporate Events;Oil and Gas (TRBC);Europe / Middle East / Africa (Energy);Integrated Oil and Gas (TRBC);Oil Refineries;Energy (TRBC);Commodities News (3rd Party);ASEAN Countries;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Wed Jan 25 10:09:34 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Iran;United States;USA;TRUMP;IRAN;SANCTIONS;Iron Ore;International Trade;Exclusive;Iran;Diplomacy / Foreign Policy;Government / Politics;Economic Events;General News;English;Nuclear Armaments / Nuclear Proliferation;Major News;Europe;Middle East;International / National Security;Conflicts / War / Peace;Emerging Market Countries;United States"/>
+    <cse:Attribute name="revision_date" value="Thu Feb 02 20:27:33 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-01-25T10:09:34+0000"/>
-    <cse:Attribute name="sailthru.title" value="Saudi Aramco shelves plans for venture with Malaysia&apos;s Petronas -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-02T20:27:33+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: U.S. expected to impose fresh sanctions on Iranian entities - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Saudi Aramco shelves plans for venture with Malaysia&apos;s Petronas -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/saudi-aramco-petronas-idUSL5N1FF2DA"/>
+    <cse:Attribute name="og:title" value="Exclusive: U.S. expected to impose fresh sanctions on Iranian entities - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-trump-iran-sanctions-idUSKBN15H2OE"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="State oil giant Saudi AramcoIPO-ARMO.SE has shelved plans for a multi-billion-dollarrefining and petrochemical joint venture with Malaysia&apos;sPetronas, industry sources familiar with the mattertold Reuters on Wednesday."/>
+    <cse:Attribute name="og:description" value="The United States is expected to impose sanctions on multiple Iranian entities as early as Friday following Tehran&apos;s recent ballistic missile test, but in a way that will not violate the 2015 Iran nuclear deal, sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170202&amp;t=2&amp;i=1171206734&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED111EZ"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-02T20:27:33+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-02T20:27:33+0000"/>
+    <cse:Attribute name="og:article:section" value="World"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Iran,United States,USA,TRUMP,IRAN,SANCTIONS,Iron Ore,International Trade,Exclusive,Iran,Diplomacy / Foreign Policy,Government / Politics,Economic Events,General News,English,Nuclear Armaments / Nuclear Proliferation,Major News,Europe,Middle East,International / National Security,Conflicts / War / Peace,Emerging Market Countries,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: U.S. expected to impose fresh sanctions on Iranian entities - sources"/>
+    <cse:Attribute name="twitter:description" value="The United States is expected to impose sanctions on multiple Iranian entities as early as Friday following Tehran&apos;s recent ballistic missile test, but in a way that will not violate the 2015 Iran nuclear deal, sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170202&amp;t=2&amp;i=1171206734&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED111EZ"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170202&amp;t=2&amp;i=1171206734&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED111EZ"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
+    <cse:Attribute name="wt.cg_n" value="World"/>
+    <cse:Attribute name="wt.cg_s" value="World"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170202&amp;t=2&amp;i=1171206734&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED111EZ"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="279"/>
+    <cse:Attribute name="height" value="180"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-m40uVhKduryNRZ4i3Hw2uZTNwJpdCUN2IELKYsjiIv1AgX1tL07wRtGu"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/wires/reuters/article-4187204/Japan-push-Trump-meddles-BOJ-independence-sources.html</id>
+  <updated>1970-01-18T04:48:42.349Z</updated>
+  <title type="html">Japan to push back if Trump meddles with BOJ independence ...</title>
+  <link href="http://www.dailymail.co.uk/wires/reuters/article-4187204/Japan-push-Trump-meddles-BOJ-independence-sources.html" title="www.dailymail.co.uk"/>
+  <summary type="html">... Donald Trump&amp;#39;s administration to meddle with its independence on setting &lt;br&gt;
+currency and monetary policies, say &lt;b&gt;sources familiar with&lt;/b&gt; the deliberations in &lt;br&gt;
+Tokyo&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Japan-push-Trump-meddles-BOJ-independence- sources.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Japan,push,Trump,meddles,BOJ,independence,sources"/>
+    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4187204/Japan-push-Trump-meddles-BOJ-independence-sources.html"/>
+    <cse:Attribute name="rating" value="General"/>
+    <cse:Attribute name="doc-class" value="Living Document"/>
+    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
+    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
+    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="articleid" value="4187204"/>
+    <cse:Attribute name="divclasspage" value="articlePage"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Japan to push back if Trump meddles with BOJ independence -sources"/>
+    <cse:Attribute name="twitter:description" value="By Leika Kihara and Tetsushi Kajimoto TOKYO, Feb 3 (Reuters) - Japan will push back firmly on any attempts by U.S. President Donald Trump&apos;s administration to..."/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4187204/Japan-push-Trump-meddles-BOJ-independence-sources.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
+    <cse:Attribute name="article:published_time" value="2017-02-03T07:07:57+0000"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-03T07:07:59+0000"/>
+    <cse:Attribute name="article:section" value="Reuters"/>
+    <cse:Attribute name="article:tag" value="Japan push Trump meddles BOJ independence sources"/>
+    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
+    <cse:Attribute name="fb:app_id" value="146202712090395"/>
+    <cse:Attribute name="og:site_name" value="Mail Online"/>
+    <cse:Attribute name="og:title" value="Japan to push back if Trump meddles with BOJ independence -sources"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="By Leika Kihara and Tetsushi Kajimoto TOKYO, Feb 3 (Reuters) - Japan will push back firmly on any attempts by U.S. President Donald Trump&apos;s administration to..."/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4187204/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="og:image:width" value="636"/>
+    <cse:Attribute name="og:image:height" value="382"/>
+    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Japan to push back if Trump meddles with BOJ independence -sources"/>
+    <cse:Attribute name="datepublished" value="2017-02-03T07:07:57+0000"/>
+    <cse:Attribute name="datemodified" value="2017-02-03T07:07:59+0000"/>
+    <cse:Attribute name="articlebody" value="Japan to push back if Trump meddles with BOJ independence -sources By Reuters Published: 02:07 EST, 3 February 2017 | Updated: 02:07 EST, 3 February 2017 e-mail By Leika Kihara and Tetsushi..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="height" value="382"/>
+    <cse:Attribute name="width" value="636"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
+    <cse:Attribute name="width" value="350"/>
+    <cse:Attribute name="height" value="66"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="290"/>
+    <cse:Attribute name="height" value="174"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/usa-trump-japan-forex-idUSL4N1FN23F</id>
+  <updated>1970-01-18T04:48:42.349Z</updated>
+  <title type="html">Japan to push back if Trump meddles with BOJ independence ...</title>
+  <link href="http://www.reuters.com/article/usa-trump-japan-forex-idUSL4N1FN23F" title="www.reuters.com"/>
+  <summary type="html">... Donald Trump&amp;#39;s administration to meddle with its independence on setting &lt;br&gt;
+currency and monetary policies, say &lt;b&gt;sources familiar with&lt;/b&gt; the deliberations in &lt;br&gt;
+Tokyo&amp;nbsp;...</summary>
+  <cse:cacheId>k7Ngy3ilX5oJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/usa-trump-japan-forex-idUSL4N1FN23F</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="usDollarRpt;marketsNews;asianCurrencyNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Japan+to+push+back+if+Trump+meddles+with+BOJ+independence+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Japan;United States;Donald Trump;Masafumi Yamamoto;Shinzo Abe;USA;TRUMP/JAPAN;FOREX (PIX);Americas;Japan;Government / Politics;Central Banks / Central Bank Events;Currencies / Foreign Exchange Markets;Corporate Events;Interest Rates / Policy;Economic Events;General News;Asia / Pacific;Major News;Monetary / Fiscal Policy / Policy Makers;Bank of Japan;Economic News (3rd Party);United States"/>
+    <cse:Attribute name="revision_date" value="Fri Feb 03 07:07:29 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-03T07:07:29+0000"/>
+    <cse:Attribute name="sailthru.title" value="Japan to push back if Trump meddles with BOJ independence -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Japan to push back if Trump meddles with BOJ independence -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-trump-japan-forex-idUSL4N1FN23F"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="* Japan says Trump won&apos;t bind BOJ&apos;s hands on policy* Abe says he won&apos;t make deal on FX with Trump* BOJ fears risk of speculation it can&apos;t eas"/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-01-25T10:09:34+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-01-25T10:09:34+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-03T07:07:29+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-03T07:07:29+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Malaysia,SAUDI ARAMCO,PETRONAS/ (URGENT),Energy Markets,Crude Oil,Energy (Legacy),Saudi Arabia,Oil and Gas Refining and Marketing (TRBC),Asia / Pacific,Middle East,Commodities Markets,Company News,Middle East (Energy),Malaysia,Corporate Events,Oil and Gas (TRBC),Europe / Middle East / Africa (Energy),Integrated Oil and Gas (TRBC),Oil Refineries,Energy (TRBC),Commodities News (3rd Party),ASEAN Countries,Emerging Market Countries"/>
+    <cse:Attribute name="og:article:tag" value="Japan,United States,Donald Trump,Masafumi Yamamoto,Shinzo Abe,USA,TRUMP/JAPAN,FOREX (PIX),Americas,Japan,Government / Politics,Central Banks / Central Bank Events,Currencies / Foreign Exchange Markets,Corporate Events,Interest Rates / Policy,Economic Events,General News,Asia / Pacific,Major News,Monetary / Fiscal Policy / Policy Makers,Bank of Japan,Economic News (3rd Party),United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Saudi Aramco shelves plans for venture with Malaysia&apos;s Petronas -sources"/>
-    <cse:Attribute name="twitter:description" value="State oil giant Saudi AramcoIPO-ARMO.SE has shelved plans for a multi-billion-dollarrefining and petrochemical joint venture with Malaysia&apos;sPetronas, industry sources familiar with the mattertold Reuters on Wednesday."/>
+    <cse:Attribute name="twitter:title" value="Japan to push back if Trump meddles with BOJ independence -sources"/>
+    <cse:Attribute name="twitter:description" value="* Japan says Trump won&apos;t bind BOJ&apos;s hands on policy* Abe says he won&apos;t make deal on FX with Trump* BOJ fears risk of speculation it can&apos;t eas"/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/energy/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -607,6 +538,126 @@ venture with Malaysia&amp;#39;s Petronas, industry &lt;b&gt;sources familiar wit
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-deutsche-bank-russia-litigation-exclu-idUSKBN15E24Q</id>
+  <updated>1970-01-18T04:48:42.349Z</updated>
+  <title type="html">Exclusive: Deutsche poised to settle over Russian &amp;#39;mirror trades ...</title>
+  <link href="http://www.reuters.com/article/us-deutsche-bank-russia-litigation-exclu-idUSKBN15E24Q" title="www.reuters.com"/>
+  <summary type="html">TOKYO Japanese Prime Minister Shinzo Abe is considering increasing energy &lt;br&gt;
+imports from the United States, two &lt;b&gt;sources familiar with&lt;/b&gt; the plan told Reuters, as&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>EXMXiTMM6mAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-deutsche-bank-russia-litigation-exclu- idUSKBN15E24Q</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="businessNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;russia;everything;forexNewsCopy;AllianzRetirement;AllianzInvestments;Allianz;europe;newsproHome;verizonmm;audib2b;rates-rss;cfaglobal;aa48hours;dassaultuk;greenpeace;PorscheCayenne;Intel;PFG;banks;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Deutsche+poised+to+settle+over+Russian+%27mirror+trades%27%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Arno Schuetze, Kathrin Jones and Andreas Kröner"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-businessNews"/>
+    <cse:Attribute name="author" value="Arno Schuetze, Kathrin Jones and Andreas Kröner"/>
+    <cse:Attribute name="news_keywords" value="Germany;Russia;Ukraine;United Kingdom;United States;US;DEUTSCHE;BANK;RUSSIA;LITIGATION;EXCLUSIVE;Crime / Law / Justice;Investment Banking and Investment Services (TRBC);Germany;Performance / Results / Earnings;Russia;Financial Fraud / Securities Fraud;Western Europe;Exclusive;Judicial Process / Court Cases / Court Decisions;Corporate Litigation;Major News;Government Borrowing Requirement;United Kingdom;United States;Banks (TRBC);Company News;Financials (TRBC);Financials (Legacy);Government / Politics;Corporate Events;Monopolies / Antitrust Issues;Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Europe;US Government News;White Collar Crime / Fraud / Corporate Crime;Regulation;New York;Company Management Issues;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Mon Jan 30 18:14:36 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Arno Schuetze, Kathrin Jones and Andreas Kröner"/>
+    <cse:Attribute name="sailthru.date" value="2017-01-30T18:14:36+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Deutsche poised to settle over Russian &apos;mirror trades&apos;: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Deutsche poised to settle over Russian &apos;mirror trades&apos;: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-deutsche-bank-russia-litigation-exclu-idUSKBN15E24Q"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Deutsche Bank (DBKGn.DE) may settle investigations by British and U.S. authorities into so-called mirror trades by Russian clients as soon as Tuesday, sources told Reuters."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170130&amp;t=2&amp;i=1170747534&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0T16K"/>
+    <cse:Attribute name="og:article:published_time" value="2017-01-30T18:14:36+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-01-30T18:14:36+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Arno Schuetze, Kathrin Jones and Andreas Kröner"/>
+    <cse:Attribute name="og:article:tag" value="Germany,Russia,Ukraine,United Kingdom,United States,US,DEUTSCHE,BANK,RUSSIA,LITIGATION,EXCLUSIVE,Crime / Law / Justice,Investment Banking and Investment Services (TRBC),Germany,Performance / Results / Earnings,Russia,Financial Fraud / Securities Fraud,Western Europe,Exclusive,Judicial Process / Court Cases / Court Decisions,Corporate Litigation,Major News,Government Borrowing Requirement,United Kingdom,United States,Banks (TRBC),Company News,Financials (TRBC),Financials (Legacy),Government / Politics,Corporate Events,Monopolies / Antitrust Issues,Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Europe,US Government News,White Collar Crime / Fraud / Corporate Crime,Regulation,New York,Company Management Issues,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Deutsche poised to settle over Russian &apos;mirror trades&apos;: sources"/>
+    <cse:Attribute name="twitter:description" value="Deutsche Bank (DBKGn.DE) may settle investigations by British and U.S. authorities into so-called mirror trades by Russian clients as soon as Tuesday, sources told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170130&amp;t=2&amp;i=1170747534&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0T16K"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170130&amp;t=2&amp;i=1170747534&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0T16K"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Business"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170130&amp;t=2&amp;i=1170747534&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0T16K"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="295"/>
+    <cse:Attribute name="height" value="171"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRd8frSzVYOGjlQpPChSLyFea-vQRCUoJEha8YLhkqD9P9t6007ogfiVo"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.foxnews.com/politics/2017/02/02/us-plans-to-impose-sanctions-on-multiple-iranian-entities-sources-say.html</id>
+  <updated>1970-01-18T04:48:42.349Z</updated>
+  <title type="html">US plans to impose sanctions on multiple Iranian entities, sources say</title>
+  <link href="http://www.foxnews.com/politics/2017/02/02/us-plans-to-impose-sanctions-on-multiple-iranian-entities-sources-say.html" title="www.foxnews.com"/>
+  <summary type="html">... early as Friday new sanctions by the U.S. on multiple Iranian entities after a &lt;br&gt;
+recent ballistic missile test, &lt;b&gt;sources familiar with&lt;/b&gt; the matter confirmed to Fox &lt;br&gt;
+News.</summary>
+  <cse:formattedUrl type="html">www.foxnews.com/.../us-plans-to-impose-sanctions-on-multiple-iranian- entities-sources-say.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="dc.title" value="US plans to impose sanctions on multiple Iranian entities, sources say"/>
+    <cse:Attribute name="dc.description" value="The Trump administration is expected to announce as early as Friday new sanctions by the U.S. on multiple Iranian entities after a recent ballistic missile test, sources familiar with the matter confirmed to Fox News."/>
+    <cse:Attribute name="dcterms.abstract" value="The Trump administration is expected to announce as early as Friday new sanctions by the U.S. on multiple Iranian entities after a recent ballistic missile test, sources familiar with the matter confirmed to Fox News."/>
+    <cse:Attribute name="dc.publisher" value="Fox News"/>
+    <cse:Attribute name="dc.date" value="2017-02-02"/>
+    <cse:Attribute name="dcterms.created" value="2017-02-02 07:57:13 EST"/>
+    <cse:Attribute name="dcterms.modified" value="2017-02-02 07:57:13 EST"/>
+    <cse:Attribute name="dc.source" value="FoxNews.com"/>
+    <cse:Attribute name="dc.identifier" value="74ae909d-7c34-478e-a253-4c31f626727c"/>
+    <cse:Attribute name="prism.aggregationtype" value="subsection"/>
+    <cse:Attribute name="dc.type" value="Text.Article"/>
+    <cse:Attribute name="prism.channel" value="fnc"/>
+    <cse:Attribute name="prism.section" value="politics"/>
+    <cse:Attribute name="og:title" value="US plans to impose sanctions on multiple Iranian entities, sources say"/>
+    <cse:Attribute name="og:description" value="The Trump administration is expected to announce as early as Friday new sanctions by the U.S. on multiple Iranian entities after a recent ballistic missile test, sources familiar with the matter confirmed to Fox News."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/02/02/0/0/694940094001_5308486535001_5308469446001-vs.jpg?ve=1"/>
+    <cse:Attribute name="og:url" value="http://www.foxnews.com/politics/2017/02/02/us-plans-to-impose-sanctions-on-multiple-iranian-entities-sources-say.html"/>
+    <cse:Attribute name="og:site_name" value="Fox News"/>
+    <cse:Attribute name="classification" value="/FOX NEWS/WORLD/CONFLICTS/Iran,/FOX NEWS/POLITICS,/FOX NEWS/POLITICS/FOREIGN POLICY"/>
+    <cse:Attribute name="classification-isa" value="iran,politics,policy"/>
+    <cse:Attribute name="fb:app_id" value="113186182048399"/>
+    <cse:Attribute name="twitter:site" value="@foxnews"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="US plans to impose sanctions on multiple Iranian entities, sources say"/>
+    <cse:Attribute name="twitter:description" value="The Trump administration is expected to announce as early as Friday new sanctions by the U.S. on multiple Iranian entities after a recent ballistic missile test, sources familiar with the matter confirmed to Fox News."/>
+    <cse:Attribute name="twitter:url" value="http://www.foxnews.com/politics/2017/02/02/us-plans-to-impose-sanctions-on-multiple-iranian-entities-sources-say.html"/>
+    <cse:Attribute name="twitter:creator" value="@foxnews"/>
+    <cse:Attribute name="twitter:image" value="http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/02/02/0/0/694940094001_5308486535001_5308469446001-vs.jpg?ve=1"/>
+    <cse:Attribute name="dc.format" value="text/html"/>
+    <cse:Attribute name="dc.language" value="en-US"/>
+    <cse:Attribute name="pagetype" value="article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/02/02/0/0/694940094001_5308486535001_5308469446001-vs.jpg?ve=1"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWbiT6Xp4_-FxbuJLXEiYWk6KkE9swzmeR_GMsyc24XMP9CSfYZDF1HJY"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
