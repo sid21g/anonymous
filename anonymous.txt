@@ -5,29 +5,30 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T04:51:45.562Z</updated>
+ <updated>1970-01-18T04:53:47.955Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="17900" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="17900" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>17900</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14700" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14700" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>14700</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.197843</cse:searchTime>
-  <cse:formattedSearchTime>0.20</cse:formattedSearchTime>
-  <cse:totalResults>17900</cse:totalResults>
-  <cse:formattedTotalResults>17,900</cse:formattedTotalResults>
+  <cse:searchTime>0.557038</cse:searchTime>
+  <cse:formattedSearchTime>0.56</cse:formattedSearchTime>
+  <cse:totalResults>14700</cse:totalResults>
+  <cse:formattedTotalResults>14,700</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T04:51:45.562Z</updated>
+  <updated>1970-01-18T04:53:47.955Z</updated>
   <title type="html">TechCrunch - The latest technology news and information on startups</title>
   <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">Good riddance to one of the worst places to socialize on the internet. Amazon-&lt;br&gt;
-owned IMDb announced today it will be closing down its discussion board later&amp;nbsp;...</summary>
+  <summary type="html">There were 300 drones dancing behind Lady Gaga during the Super Bowl &lt;br&gt;
+halftime show. They&amp;#39;re called Shooting Stars and were previously used in a &lt;br&gt;
+holiday&amp;nbsp;...</summary>
   <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
   <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
   <cse:PageMap>
@@ -45,20 +46,19 @@ owned IMDb announced today it will be closing down its discussion board later&am
     <cse:Attribute name="og:site" value="social.techcrunch.com"/>
     <cse:Attribute name="og:title" value="TechCrunch|2"/>
     <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/gettyimages-632538376.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/american-flag-image.jpg?w=764&amp;h=400&amp;crop=1"/>
     <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
     <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="Sarah Perez"/>
-    <cse:Attribute name="id" value="1448017"/>
+    <cse:Attribute name="author" value="Matt Burns"/>
+    <cse:Attribute name="id" value="1446096"/>
     <cse:Attribute name="title" value="TechCrunch|2"/>
     <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/03/one-of-the-worst-comments-sections-on-the-internet-is-shutting-down/"/>
-    <cse:Attribute name="timestamp" value="2017-02-03 11:27:02"/>
-    <cse:Attribute name="content" value="Good riddance to one of the worst places to socialize on the internet. Amazon-owned IMDb announced today it will be closing down its discussion board later this month, and turning off the ability for users to private message each other. The company claimed the decision was made because the boards were &quot;no longer providing a positive, useful experience for the vast majority of our more than 250 million monthly users worldwide.&quot; Anyone familiar with the boards would say that&apos;s putting it mildly. Like many large, internet gathering places without strict moderation capabilities in place, IMDb&apos;s boards didn&apos;t serve the community as intended. That is, they failed to offer a place to have productive conversations about movies, shows, actors, and other members of the entertainment industry. Instead, the boards were notoriously known for hosting some of the most pointless and hateful commentary around. They&apos;ve been compared, in many cases, to YouTube&apos;s sort of unfettered brand of internet…"/>
-    <cse:Attribute name="excerpt" value="Good riddance to one of the worst places to socialize on the internet. Amazon-owned IMDb announced today it will be closing down its discussion board later this month, and turning off the ability for users to private message each other. The company claimed the decision was made because the boards were “no longer providing a positive, useful experience for the vast majority of our more than…"/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/gettyimages-632538376.jpg?w=150"/>
-    <cse:Attribute name="category" value="Social"/>
-    <cse:Attribute name="tag" value="Amazon"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/05/intel-powered-the-drones-during-lady-gagas-super-bowl-halftime-show/"/>
+    <cse:Attribute name="timestamp" value="2017-02-05 17:28:49"/>
+    <cse:Attribute name="content" value="There were 300 drones dancing behind Lady Gaga during the Super Bowl halftime show. They&apos;re called Shooting Stars and were previously used in a holiday show at Disney World. These hundreds of Shooting Star drones flash, fall and flock in unison and are all controlled by one person -- or rather one computer. This is the latest project in Intel’s quest to take drones from individuals to fleets. This is Ender’s Game brought to life. Just as in Orson Scott Card’s book, one person commands the group, sending instructions and monitoring the drones’ health. And Intel says its limitless in its scale, able to control more than 10,000 drones at a time. One of the secret to Intel&apos;s Shooting Star program is a desktop software suite of programs. The drones&apos; routes are pre-programmed and each drone does its own thing. The drones do not talk to each other and they lack the hardware to detect collisions. The software determines routes that eliminates collisions. The drones are simple.…"/>
+    <cse:Attribute name="excerpt" value="There were 300 drones dancing behind Lady Gaga during the Super Bowl halftime show. They’re called Shooting Stars and were previously used in a holiday show at Disney World. These hundreds of Shooting Star drones flash, fall and flock in unison and are all controlled by one person — or rather one computer. This is the latest project in Intel’s quest to take drones from…"/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/american-flag-image.jpg?w=150"/>
+    <cse:Attribute name="category" value="TC"/>
     <cse:Attribute name="application-name" value="TechCrunch"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
@@ -66,35 +66,25 @@ owned IMDb announced today it will be closing down its discussion board later&am
     <cse:Attribute name="st:robots" value="follow, index"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/02/gettyimages-632538376.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/02/american-flag-image.jpg?w=764&amp;h=400&amp;crop=1"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="162"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvIj_4sPoDW52qULuNq3hEakTOfNbFw31lq2dYRcuKsXa1xy1b3e2D9Bc"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-Wjvj2wNeyf3yZ_GuXWkyy1Gf-U64BBgriAsU7p2Se1iu3JR48ERsN3hg"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/story/2017/02/ivanka-trump-jared-kushner-lgbt-order-234617</id>
-  <updated>1970-01-18T04:51:45.562Z</updated>
-  <title type="html">Ivanka Trump and Jared Kushner worked to sink LGBT order ...</title>
+  <updated>1970-01-18T04:53:47.955Z</updated>
+  <title type="html">Ivanka Trump and Jared Kushner worked to sink LGBT order - Politico</title>
   <link href="http://www.politico.com/story/2017/02/ivanka-trump-jared-kushner-lgbt-order-234617" title="www.politico.com"/>
   <summary type="html">“There are some in Trump&amp;#39;s family that have some views on these things,” said &lt;b&gt;a&lt;/b&gt; &lt;br&gt;
 &lt;b&gt;source close to&lt;/b&gt; the discussions. “That&amp;#39;s where the decision is ultimately being&amp;nbsp;...</summary>
   <cse:cacheId>HN2HphR0vAAJ</cse:cacheId>
   <cse:formattedUrl type="html">www.politico.com/.../ivanka-trump-jared-kushner-lgbt-order-234617</cse:formattedUrl>
   <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="John F. Harris"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/john-f-harris"/>
-    <cse:Attribute name="url_text" value="John F. Harris"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Daniel Lippman"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/daniel-lippman"/>
-    <cse:Attribute name="url_text" value="Daniel Lippman"/>
-   </cse:DataObject>
    <cse:DataObject type="hcard">
     <cse:Attribute name="fn" value="Annie Karni"/>
     <cse:Attribute name="url" value="http://www.politico.com/staff/annie-karni"/>
@@ -140,7 +130,7 @@ owned IMDb announced today it will be closing down its discussion board later&am
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-canada-mosque-shooting-idUSKBN15F1RX</id>
-  <updated>1970-01-18T04:51:45.562Z</updated>
+  <updated>1970-01-18T04:53:47.955Z</updated>
   <title type="html">Canada shooting suspect rented apartment close to mosque ...</title>
   <link href="http://www.reuters.com/article/us-canada-mosque-shooting-idUSKBN15F1RX" title="www.reuters.com"/>
   <summary type="html">Bissonnette did not hide his hostility toward Muslims during his long interrogation &lt;br&gt;
@@ -204,15 +194,201 @@ by police, Montreal&amp;#39;s La Presse newspaper reported, quoting &lt;b&gt;a s
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T04:51:45.562Z</updated>
+  <updated>1970-01-18T04:53:47.955Z</updated>
   <title type="html">Sources: Steelers RB Bell facing 4-game ban</title>
   <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
   <summary type="html"/>
   <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://nypost.com/2017/02/05/inside-amazons-robot-run-supermarket-that-needs-just-3-human-workers/</id>
+  <updated>1970-01-18T04:53:47.955Z</updated>
+  <title type="html">Inside Amazon&amp;#39;s robot-run supermarket that needs just 3 human ...</title>
+  <link href="http://nypost.com/2017/02/05/inside-amazons-robot-run-supermarket-that-needs-just-3-human-workers/" title="nypost.com"/>
+  <summary type="html">“Amazon will utilize technology to minimize labor,” &lt;b&gt;a source close to&lt;/b&gt; the situation &lt;br&gt;
+told The Post. Job-cutting technology isn&amp;#39;t new for Amazon, which has&amp;nbsp;...</summary>
+  <cse:cacheId>Gh9xJqRHvmAJ</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/.../inside-amazons-robot-run-supermarket-that-needs-just-3- human-workers/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
+    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Inside Amazon’s robot-run supermarket that needs just 3 human workers"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/05/inside-amazons-robot-run-supermarket-that-needs-just-3-human-workers/"/>
+    <cse:Attribute name="og:description" value="If you’re a robot stealing somebody’s job, it’s best to stay hidden. That’s what Amazon CEO Jeff Bezos appears to be thinking, as his Seattle-based web giant has contemplate…"/>
+    <cse:Attribute name="article:published_time" value="2017-02-06T04:07:00+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-06T15:17:25+00:00"/>
+    <cse:Attribute name="og:site_name" value="New York Post"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="twitter:site" value="@nypost"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/170205-amazon-feature.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:creator" value="@joshkosman"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
+    <cse:Attribute name="twitter:title" value="Inside Amazon&apos;s robot-run supermarket that needs just 3 human workers"/>
+    <cse:Attribute name="twitter:description" value="If you’re a robot stealing somebody’s job, it’s best to stay hidden. That’s what Amazon CEO Jeff Bezos appears to be thinking, as his Seattle-based web giant has contemplated a"/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/170205-amazon-feature.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/170205-amazon-feature.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i0.wp.com/thenypost.files.wordpress.com/2017/02/170205-amazon-feature.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="nypost-section" value="Business"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10718390&quot;}"/>
+    <cse:Attribute name="news_keywords" value="Business,amazon,amazon go,drones,jeff bezos,robots,shopping"/>
+    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
+    <cse:Attribute name="fb:pages" value="134486075205"/>
+    <cse:Attribute name="application-name" value="New York Post"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://nyppagesix.files.wordpress.com/2017/02/kim1.jpg?quality=90&amp;strip=all"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKZ6JbNLDJwzgjHm0_R-mUyNGtstJMWVl7C9oyiplyGE8NOwUKi4w5Lpy_"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079</id>
+  <updated>1970-01-18T04:53:47.955Z</updated>
+  <title type="html">Source: Raiders move in doubt as Goldman Sachs mulls ...</title>
+  <link href="http://abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079" title="abcnews.go.com"/>
+  <summary type="html">... on Monday, investment bank Goldman Sachs is also re-evaluating its &lt;br&gt;
+relationship with the planned deal, &lt;b&gt;a source close to&lt;/b&gt; the negotiations told &lt;br&gt;
+Shelburne.</summary>
+  <cse:formattedUrl type="html">abcnews.go.com/Sports/source-raiders-move-doubt-goldman.../story?id...</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="ABC News"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
+    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="fb:admins" value="704409894"/>
+    <cse:Attribute name="fb:app_id" value="4942312939"/>
+    <cse:Attribute name="fb_title" value="Source: Raiders move in doubt as Goldman Sachs mulls involvement following investor&apos;s exit"/>
+    <cse:Attribute name="og:site_name" value="ABC News"/>
+    <cse:Attribute name="og:title" value="Source: Raiders move in doubt as Goldman Sachs mulls involvement following investor&apos;s exit"/>
+    <cse:Attribute name="og:description" value="The Oakland Raiders&apos; bid to relocate to Las Vegas has hit another financial roadblock that could put the team&apos;s planned move to the desert in jeopardy, a source told ESPN&apos;s Ramona Shelburne. With billionaire casino mogul Sheldon Adelson angrily withdrawing from the Raiders&apos; stadium..."/>
+    <cse:Attribute name="og:url" value="http://abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079"/>
+    <cse:Attribute name="og:image:type" value="image/jpeg"/>
+    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/Sports/espnapi_dm_170131_NFL_live_on_raiders_wmain.jpg"/>
+    <cse:Attribute name="dc.date.issued" value="2017-02-01"/>
+    <cse:Attribute name="date" value="2017-02-01"/>
+    <cse:Attribute name="last-modified" value="2017-02-01 11:41:26"/>
+    <cse:Attribute name="news_keywords" value="goldman sachs, funding, investment, relocation, lease, operations, Sheldon Adelson, Las Vegas, casino mogul, mark davis, stadium proposal, lease, nevada, sands"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@ABC"/>
+    <cse:Attribute name="twitter:title" value="Source: Raiders move in doubt as Goldman Sachs mulls involvement following investor&apos;s exit"/>
+    <cse:Attribute name="twitter:description" value="The Oakland Raiders&apos; bid to relocate to Las Vegas has hit another financial roadblock that could put the team&apos;s planned move to the desert in jeopardy, a source told ESPN&apos;s Ramona Shelburne. With billionaire casino mogul Sheldon Adelson angrily withdrawing from the Raiders&apos; stadium..."/>
+    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079"/>
+    <cse:Attribute name="twitter:image:width" value="150"/>
+    <cse:Attribute name="twitter:image:height" value="116"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,45178079"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,45178079"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079"/>
+    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,45178079"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
+    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
+    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,45178079"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
+    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
+    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079"/>
+    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
+    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
+    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079"/>
+   </cse:DataObject>
+   <cse:DataObject type="sitenavigationelement">
+    <cse:Attribute name="name" value="U.S."/>
+    <cse:Attribute name="url" value="U.S."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://a.abcnews.com/images/Sports/espnapi_dm_170131_NFL_live_on_raiders_wmain.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTut7C9kcOpGql0snxEfzC4tRp9CqMcA5pWY5P4w0dFr29VsRBNzwTWS08"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-france-shooting-suspect-egypt-idUSKBN15I2DJ</id>
+  <updated>1970-01-18T04:53:47.955Z</updated>
+  <title type="html">Paris Louvre attacks suspect was Egyptian national: source | Reuters</title>
+  <link href="http://www.reuters.com/article/us-france-shooting-suspect-egypt-idUSKBN15I2DJ" title="www.reuters.com"/>
+  <summary type="html">... museum on Friday and was shot by soldiers was an Egyptian national who &lt;br&gt;
+arrived in France at the end of January, &lt;b&gt;a source close to&lt;/b&gt; the investigation said.</summary>
+  <cse:cacheId>nK7kn51XKOAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-france-shooting-suspect-egypt-idUSKBN15I2DJ</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;worldNews;newsMaps;egypt;newsproHome;MOC_US_2015-16;USWire;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Paris+Louvre+attacks+suspect+was+Egyptian+national%3A+source"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="France;US;FRANCE;SHOOTING;SUSPECT;EGYPT;Crime / Law / Justice;Egypt;Western Europe;Asylum / Immigration / Refugees;Crime;France;Government / Politics;Africa;European Union;Fundamental Rights / Civil Liberties;Major News;Europe;Middle East;International / National Security;Conflicts / War / Peace;Civil Unrest;Murder / Suspected Murder;Insurgencies"/>
+    <cse:Attribute name="revision_date" value="Fri Feb 03 16:48:01 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-03T16:48:01+0000"/>
+    <cse:Attribute name="sailthru.title" value="Paris Louvre attacks suspect was Egyptian national: source"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Paris Louvre attacks suspect was Egyptian national: source"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-france-shooting-suspect-egypt-idUSKBN15I2DJ"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="A machete-wielding man who tried to enter the Paris Louvre museum on Friday and was shot by soldiers was an Egyptian national who arrived in France at the end of January, a source close to the investigation said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-03T16:48:01+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-03T16:48:01+0000"/>
+    <cse:Attribute name="og:article:section" value="World"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="France,US,FRANCE,SHOOTING,SUSPECT,EGYPT,Crime / Law / Justice,Egypt,Western Europe,Asylum / Immigration / Refugees,Crime,France,Government / Politics,Africa,European Union,Fundamental Rights / Civil Liberties,Major News,Europe,Middle East,International / National Security,Conflicts / War / Peace,Civil Unrest,Murder / Suspected Murder,Insurgencies"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Paris Louvre attacks suspect was Egyptian national: source"/>
+    <cse:Attribute name="twitter:description" value="A machete-wielding man who tried to enter the Paris Louvre museum on Friday and was shot by soldiers was an Egyptian national who arrived in France at the end of January, a source close to the investigation said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
+    <cse:Attribute name="wt.cg_n" value="World"/>
+    <cse:Attribute name="wt.cg_s" value="World"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.msn.com/en-ca/news/canada/canada-shooting-suspect-rented-apartment-close-to-quebec-mosque-reports/ar-AAmsAPA</id>
-  <updated>1970-01-18T04:51:45.562Z</updated>
+  <updated>1970-01-18T04:53:47.955Z</updated>
   <title type="html">Canada shooting suspect rented apartment close to Quebec ...</title>
   <link href="https://www.msn.com/en-ca/news/canada/canada-shooting-suspect-rented-apartment-close-to-quebec-mosque-reports/ar-AAmsAPA" title="www.msn.com"/>
   <summary type="html">Bissonnette did not hide his hostility toward Muslims during his long interrogation &lt;br&gt;
@@ -248,18 +424,13 @@ by police, Montreal&amp;#39;s La Presse newspaper, quoting &lt;b&gt;a source clo
     <cse:Attribute name="articlebody" value="© REUTERS Facebook photo of Alexandre Bissonnette, a suspect in a shooting at a Quebec City mosque The French-Canadian student accused of killing six people during evening prayers in a Quebec..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAmsqiZ.img?h=65&amp;w=136&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=421&amp;y=421"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="114"/>
-    <cse:Attribute name="height" value="54"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWQ34OgEQ8DGHw4MumdSydYwYDXfp4JZ7Jhy3WJ1W7y0lpYzTLdGnwGA"/>
+    <cse:Attribute name="src" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAmsqiZ.img"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.dailymail.co.uk/wires/reuters/article-4176186/Canada-shooting-suspect-rented-apartment-close-Quebec-mosque-reports.html</id>
-  <updated>1970-01-18T04:51:45.562Z</updated>
+  <updated>1970-01-18T04:53:47.955Z</updated>
   <title type="html">Canada shooting suspect rented apartment close to Quebec ...</title>
   <link href="http://www.dailymail.co.uk/wires/reuters/article-4176186/Canada-shooting-suspect-rented-apartment-close-Quebec-mosque-reports.html" title="www.dailymail.co.uk"/>
   <summary type="html">Bissonnette did not hide his hostility toward Muslims during his long interrogation &lt;br&gt;
@@ -333,193 +504,94 @@ by police, Montreal&amp;#39;s La Presse newspaper, quoting &lt;b&gt;a source clo
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/celebrity/robin-thicke-only-seen-son-020741849.html</id>
-  <updated>1970-01-18T04:51:45.562Z</updated>
-  <title type="html">Robin Thicke Has Only Seen Son Once Since Judge Granted Paula ...</title>
-  <link href="https://www.yahoo.com/celebrity/robin-thicke-only-seen-son-020741849.html" title="www.yahoo.com"/>
-  <summary type="html">However, &lt;b&gt;a source close to&lt;/b&gt; Thicke says the singer is “focused” on his son. “ &lt;br&gt;
-keeps trying to bury him, and this is a concerted effort to prejudice the public &lt;br&gt;
-against&amp;nbsp;...</summary>
-  <cse:cacheId>RcS8wa5ToW0J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../robin-thicke-only-seen-son-020741849.html</cse:formattedUrl>
+  <id>https://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court</id>
+  <updated>1970-01-18T04:53:47.955Z</updated>
+  <title type="html">African leaders plan mass withdrawal from international criminal court</title>
+  <link href="https://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court" title="www.theguardian.com"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the continental body&amp;#39;s legal council also confirmed it, saying &lt;br&gt;
+countries had been divided on whether to call for leaving the court individually or&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>KcNeND7CZIoJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.theguardian.com/.../african-leaders-plan-mass-withdrawal-from- international-criminal-court</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@Yahoo"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=5f506615-7dc0-31f9-a547-d3f9cb2b3b65&amp;src=web"/>
-    <cse:Attribute name="twitter:description" value="After losing temporary sole custody to ex Paula Patton, Robin Thicke spent time with his son Julian on Friday, two sources tell PEOPLE.  As for allegations of drug use, Pierce di Donato claims “DCFS asked both Paula and Robin to drug test."/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/mv8yqbGCO.XDxGV2Pi.4hw--/aD01ODA7dz00MzU7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/homerun/people_218/000de459c9f71f66b1f9e5e5724cfc98"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/mv8yqbGCO.XDxGV2Pi.4hw--/aD01ODA7dz00MzU7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/homerun/people_218/000de459c9f71f66b1f9e5e5724cfc98"/>
-    <cse:Attribute name="twitter:title" value="Robin Thicke Has Only Seen Son Once Since Judge Granted Paula Patton Temporary Sole Custody: Source"/>
+    <cse:Attribute name="format-detection" value="telephone=no"/>
+    <cse:Attribute name="handheldfriendly" value="True"/>
+    <cse:Attribute name="viewport" value="width=device-width,minimum-scale=1,initial-scale=1"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Guardian"/>
+    <cse:Attribute name="application-name" value="The Guardian"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#005689"/>
+    <cse:Attribute name="theme-color" value="#005689"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://assets.guim.co.uk/images/favicons/f06f6996e193d1ddcd614ea852322d25/windows_tile_144_b.png"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=409128287, app-argument=https://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court, affiliate-data=ct=newsmartappbanner&amp;pt=304191"/>
+    <cse:Attribute name="referrer" value="unsafe-url"/>
+    <cse:Attribute name="thumbnail" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/4096.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=75bc6aaa65de638a92130d43e0a9d6b2"/>
+    <cse:Attribute name="news_keywords" value="International criminal court,International criminal justice,Law,Africa,World news"/>
+    <cse:Attribute name="og:url" value="http://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court"/>
+    <cse:Attribute name="og:description" value="Decision reached at African Union summit follows announcements by South Africa, Burundi and the Gambia that they plan to leave the court"/>
+    <cse:Attribute name="og:image" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8745700ef3e6de7a23decf17780ce3a6"/>
+    <cse:Attribute name="al:ios:url" value="gnmguardian://law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court?contenttype=Article&amp;source=applinks"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/theguardian"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=5f506615-7dc0-31f9-a547-d3f9cb2b3b65&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=5f506615-7dc0-31f9-a547-d3f9cb2b3b65&amp;src=web"/>
-    <cse:Attribute name="og:image:width" value="435"/>
-    <cse:Attribute name="og:image:height" value="580"/>
+    <cse:Attribute name="al:ios:app_store_id" value="409128287"/>
+    <cse:Attribute name="article:section" value="Law"/>
+    <cse:Attribute name="article:published_time" value="2017-01-31T23:18:32.000Z"/>
+    <cse:Attribute name="og:title" value="African leaders plan mass withdrawal from international criminal court"/>
+    <cse:Attribute name="fb:app_id" value="180444840287"/>
+    <cse:Attribute name="article:tag" value="International criminal court,International criminal justice,Law,Africa,World news"/>
+    <cse:Attribute name="al:ios:app_name" value="The Guardian"/>
+    <cse:Attribute name="og:site_name" value="the Guardian"/>
+    <cse:Attribute name="article:modified_time" value="2017-01-31T23:26:46.000Z"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="409128287"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="The Guardian"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="The Guardian"/>
+    <cse:Attribute name="twitter:image" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNi8wNy9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=95b873733e930b0ebbbfdbca399042d0"/>
+    <cse:Attribute name="twitter:site" value="@guardian"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="gnmguardian://law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court?contenttype=Article&amp;source=twitter"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:description" value="After losing temporary sole custody to ex Paula Patton, Robin Thicke spent time with his son Julian on Friday, two sources tell PEOPLE.  As for allegations of drug use, Pierce di Donato claims “DCFS asked both Paula and Robin to drug test."/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/mv8yqbGCO.XDxGV2Pi.4hw--/aD01ODA7dz00MzU7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/homerun/people_218/000de459c9f71f66b1f9e5e5724cfc98"/>
-    <cse:Attribute name="og:title" value="Robin Thicke Has Only Seen Son Once Since Judge Granted Paula Patton Temporary Sole Custody: Source"/>
-    <cse:Attribute name="og:url" value="https://www.yahoo.com/celebrity/robin-thicke-only-seen-son-020741849.html"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/mv8yqbGCO.XDxGV2Pi.4hw--/aD01ODA7dz00MzU7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/homerun/people_218/000de459c9f71f66b1f9e5e5724cfc98"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="194"/>
-    <cse:Attribute name="height" value="259"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNQZFRiSKUR7_Ff9zV4nsOxJvkaqygmZwgTyXC8CC9H_SbMk0HUur9szDh"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/news/french-soldier-fires-man-trying-enter-louvre-museum-094309161.html</id>
-  <updated>1970-01-18T04:51:45.562Z</updated>
-  <title type="html">French soldier shoots, wounds machete-wielding attacker at Paris ...</title>
-  <link href="https://www.yahoo.com/news/french-soldier-fires-man-trying-enter-louvre-museum-094309161.html" title="www.yahoo.com"/>
-  <summary type="html">Paintspray cans - but no explosives - were found in his back packs, &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;close to&lt;/b&gt; the investigation told Reuters. &amp;quot;The soldier fired five bullets,&amp;quot; Michel &lt;br&gt;
-Cadot,&amp;nbsp;...</summary>
-  <cse:cacheId>T3_kYkIcYAoJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../french-soldier-fires-man-trying-enter-louvre- museum-094309161.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@Yahoo"/>
-    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=1eddff6d-2096-327f-b9d6-acc271ad5a6e&amp;src=web"/>
-    <cse:Attribute name="twitter:description" value="By Michel Rose and Elizabeth Pineau  PARIS (Reuters) - A French soldier shot and wounded a man armed with machetes and carrying two bags on his back on Friday as he tried to enter the Paris Louvre museum in what the government said appeared to have been a terrorist attack.  Initial indications were that"/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="twitter:title" value="French soldier shoots, wounds machete-wielding attacker at Paris Louvre"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="fb:app_id" value="90376669494"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=1eddff6d-2096-327f-b9d6-acc271ad5a6e&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=1eddff6d-2096-327f-b9d6-acc271ad5a6e&amp;src=web"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="og:description" value="By Michel Rose and Elizabeth Pineau  PARIS (Reuters) - A French soldier shot and wounded a man armed with machetes and carrying two bags on his back on Friday as he tried to enter the Paris Louvre museum in what the government said appeared to have been a terrorist attack.  Initial indications were that"/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="og:title" value="French soldier shoots, wounds machete-wielding attacker at Paris Louvre"/>
-    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/french-soldier-fires-man-trying-enter-louvre-museum-094309161.html"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="225"/>
-    <cse:Attribute name="height" value="225"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsu8h2qPcbEySow_b11yLyETddWLbICdJLk1xWXl-3molDDR1MTHSgF0Nw"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.msn.com/en-za/news/world/louvre-suspects-condition-no-longer-life-threatening/ar-AAmC89q</id>
-  <updated>1970-01-18T04:51:45.562Z</updated>
-  <title type="html">Louvre suspect&amp;#39;s condition &amp;#39;no longer life-threatening&amp;#39;</title>
-  <link href="https://www.msn.com/en-za/news/world/louvre-suspects-condition-no-longer-life-threatening/ar-AAmC89q" title="www.msn.com"/>
-  <summary type="html">The condition of a man who was shot after attacking troops at the Louvre in Paris &lt;br&gt;
-has improved and is &amp;quot;no longer life-threatening&amp;quot;, &lt;b&gt;a source close to&lt;/b&gt; the case&amp;nbsp;...</summary>
-  <cse:cacheId>lvy2u4WBOXgJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.msn.com/en-za/news/world/louvre.../ar-AAmC89q</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="application-name" value="Louvre suspect&apos;s condition &apos;no longer life-threatening&apos;"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#1e1e1e"/>
-    <cse:Attribute name="msapplication-tileimage" value="//static-entertainment-eus-s-msn-com.akamaized.net/sc/1f/08ced4.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
-    <cse:Attribute name="sharing_url" value="http://a.msn.com/01/en-za/AAmC89q"/>
-    <cse:Attribute name="og:url" value="https://www.msn.com/en-za/news/world/louvre-suspects-condition-no-longer-life-threatening/ar-AAmC89q"/>
-    <cse:Attribute name="og:title" value="Louvre suspect&apos;s condition &apos;no longer life-threatening&apos;"/>
-    <cse:Attribute name="og:description" value="The condition of a man who was shot after attacking troops at the Louvre in Paris has improved and is &quot;no longer life-threatening&quot;, a source close to the case said Saturday."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="MSN"/>
-    <cse:Attribute name="og:image" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAmBRZK.img"/>
-    <cse:Attribute name="fb:app_id" value="689384617806917"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="The Guardian"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="409128287"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.guardian"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="guardian://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="gnmguardian://law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court?contenttype=Article&amp;source=twitter"/>
    </cse:DataObject>
    <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlebody" value="© Provided by AFP People stand outside the Louvre Pyramid, hours after a machete-wielding attacker was shot outside the Paris museum on February 3, 2017 The condition of a man who was shot..."/>
+    <cse:Attribute name="mainentityofpage" value="https://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court"/>
+    <cse:Attribute name="headline" value="African leaders plan mass withdrawal from international criminal court"/>
+    <cse:Attribute name="description" value="Decision reached at African Union summit follows announcements by South Africa, Burundi and the Gambia that they plan to leave the court"/>
+    <cse:Attribute name="datepublished" value="2017-01-31T18:18:32-0500"/>
+    <cse:Attribute name="datemodified" value="2017-01-31T18:26:46-0500"/>
+    <cse:Attribute name="articlebody" value="African leaders have adopted a strategy calling for a collective withdrawal from the international criminal court. The non-binding decision came behind closed doors near the end of an African..."/>
+    <cse:Attribute name="keywords" value="More news"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="The Guardian"/>
+    <cse:Attribute name="sameas" value="http://www.theguardian.com/"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="representativeofpage" value="true"/>
+    <cse:Attribute name="url" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/4096.jpg?w=700&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=e416b4573b0c09084dc565d637bb0367"/>
+    <cse:Attribute name="width" value="4096"/>
+    <cse:Attribute name="height" value="2457"/>
+    <cse:Attribute name="contenturl" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/master/4096.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=c12304b2eddf3f9aac22c92d841e8f57"/>
+    <cse:Attribute name="description" value="The international criminal court in The Hague. Photograph: Martijn Beekman/EPA"/>
+   </cse:DataObject>
+   <cse:DataObject type="breadcrumb">
+    <cse:Attribute name="url" value="World"/>
+    <cse:Attribute name="title" value="World"/>
+   </cse:DataObject>
+   <cse:DataObject type="breadcrumb">
+    <cse:Attribute name="url" value="International criminal court"/>
+    <cse:Attribute name="title" value="International criminal court"/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/4096.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=75bc6aaa65de638a92130d43e0a9d6b2"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAmBRZK.img"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-france-shooting-suspect-egypt-idUSKBN15I2DJ</id>
-  <updated>1970-01-18T04:51:45.562Z</updated>
-  <title type="html">Paris Louvre attacks suspect was Egyptian national: source | Reuters</title>
-  <link href="http://www.reuters.com/article/us-france-shooting-suspect-egypt-idUSKBN15I2DJ" title="www.reuters.com"/>
-  <summary type="html">... museum on Friday and was shot by soldiers was an Egyptian national who &lt;br&gt;
-arrived in France at the end of January, &lt;b&gt;a source close to&lt;/b&gt; the investigation said.</summary>
-  <cse:cacheId>nK7kn51XKOAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-france-shooting-suspect-egypt-idUSKBN15I2DJ</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;worldNews;newsMaps;egypt;newsproHome;MOC_US_2015-16;USWire;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Paris+Louvre+attacks+suspect+was+Egyptian+national%3A+source"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="France;US;FRANCE;SHOOTING;SUSPECT;EGYPT;Crime / Law / Justice;Egypt;Western Europe;Asylum / Immigration / Refugees;Crime;France;Government / Politics;Africa;European Union;Fundamental Rights / Civil Liberties;Major News;Europe;Middle East;International / National Security;Conflicts / War / Peace;Civil Unrest;Murder / Suspected Murder;Insurgencies"/>
-    <cse:Attribute name="revision_date" value="Fri Feb 03 16:48:01 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-03T16:48:01+0000"/>
-    <cse:Attribute name="sailthru.title" value="Paris Louvre attacks suspect was Egyptian national: source"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Paris Louvre attacks suspect was Egyptian national: source"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-france-shooting-suspect-egypt-idUSKBN15I2DJ"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="A machete-wielding man who tried to enter the Paris Louvre museum on Friday and was shot by soldiers was an Egyptian national who arrived in France at the end of January, a source close to the investigation said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-03T16:48:01+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-03T16:48:01+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="France,US,FRANCE,SHOOTING,SUSPECT,EGYPT,Crime / Law / Justice,Egypt,Western Europe,Asylum / Immigration / Refugees,Crime,France,Government / Politics,Africa,European Union,Fundamental Rights / Civil Liberties,Major News,Europe,Middle East,International / National Security,Conflicts / War / Peace,Civil Unrest,Murder / Suspected Murder,Insurgencies"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Paris Louvre attacks suspect was Egyptian national: source"/>
-    <cse:Attribute name="twitter:description" value="A machete-wielding man who tried to enter the Paris Louvre museum on Friday and was shot by soldiers was an Egyptian national who arrived in France at the end of January, a source close to the investigation said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/aef5f4e1ecabc4aa9d538b2f0dfa1115a23c6f8c/0_0_7492_4494/master/7492.jpg?w=460&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=83b2b4302f8a16c84d8f75ad920f8bd7"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="290"/>
+    <cse:Attribute name="height" value="174"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
