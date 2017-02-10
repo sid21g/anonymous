@@ -5,30 +5,30 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T04:53:47.955Z</updated>
+ <updated>1970-01-18T04:58:05.269Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14700" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14700" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>14700</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14600" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14600" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>14600</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.557038</cse:searchTime>
-  <cse:formattedSearchTime>0.56</cse:formattedSearchTime>
-  <cse:totalResults>14700</cse:totalResults>
-  <cse:formattedTotalResults>14,700</cse:formattedTotalResults>
+  <cse:searchTime>0.587408</cse:searchTime>
+  <cse:formattedSearchTime>0.59</cse:formattedSearchTime>
+  <cse:totalResults>14600</cse:totalResults>
+  <cse:formattedTotalResults>14,600</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T04:53:47.955Z</updated>
+  <updated>1970-01-18T04:58:05.269Z</updated>
   <title type="html">TechCrunch - The latest technology news and information on startups</title>
   <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">There were 300 drones dancing behind Lady Gaga during the Super Bowl &lt;br&gt;
-halftime show. They&amp;#39;re called Shooting Stars and were previously used in a &lt;br&gt;
-holiday&amp;nbsp;...</summary>
+  <summary type="html">Facebook is rolling out a useful new feature that puts a full weather forecast &lt;br&gt;
+inside its mobile app and desktop site. The feature is accessible from News Feed &lt;br&gt;
+or&amp;nbsp;...</summary>
   <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
   <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
   <cse:PageMap>
@@ -46,19 +46,20 @@ holiday&amp;nbsp;...</summary>
     <cse:Attribute name="og:site" value="social.techcrunch.com"/>
     <cse:Attribute name="og:title" value="TechCrunch|2"/>
     <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/american-flag-image.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/facebook-weather-ios.jpg?w=764&amp;h=400&amp;crop=1"/>
     <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
     <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="Matt Burns"/>
-    <cse:Attribute name="id" value="1446096"/>
+    <cse:Attribute name="author" value="Sarah Perez"/>
+    <cse:Attribute name="id" value="1450514"/>
     <cse:Attribute name="title" value="TechCrunch|2"/>
     <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/05/intel-powered-the-drones-during-lady-gagas-super-bowl-halftime-show/"/>
-    <cse:Attribute name="timestamp" value="2017-02-05 17:28:49"/>
-    <cse:Attribute name="content" value="There were 300 drones dancing behind Lady Gaga during the Super Bowl halftime show. They&apos;re called Shooting Stars and were previously used in a holiday show at Disney World. These hundreds of Shooting Star drones flash, fall and flock in unison and are all controlled by one person -- or rather one computer. This is the latest project in Intel’s quest to take drones from individuals to fleets. This is Ender’s Game brought to life. Just as in Orson Scott Card’s book, one person commands the group, sending instructions and monitoring the drones’ health. And Intel says its limitless in its scale, able to control more than 10,000 drones at a time. One of the secret to Intel&apos;s Shooting Star program is a desktop software suite of programs. The drones&apos; routes are pre-programmed and each drone does its own thing. The drones do not talk to each other and they lack the hardware to detect collisions. The software determines routes that eliminates collisions. The drones are simple.…"/>
-    <cse:Attribute name="excerpt" value="There were 300 drones dancing behind Lady Gaga during the Super Bowl halftime show. They’re called Shooting Stars and were previously used in a holiday show at Disney World. These hundreds of Shooting Star drones flash, fall and flock in unison and are all controlled by one person — or rather one computer. This is the latest project in Intel’s quest to take drones from…"/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/american-flag-image.jpg?w=150"/>
-    <cse:Attribute name="category" value="TC"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/08/facebook-can-now-replace-your-weather-app/"/>
+    <cse:Attribute name="timestamp" value="2017-02-08 15:56:58"/>
+    <cse:Attribute name="content" value="Facebook is rolling out a useful new feature that puts a full weather forecast inside its mobile app and desktop site. The feature is accessible from News Feed or the mobile app&apos;s &quot;More&quot; menu -- the section that links you to areas like Friends, Events, Groups, Pages and other key Facebook features like On This Day or Saved items. Within the Weather section, you can view a full forecast for your week ahead, powered by data from Weather.com. Facebook confirmed that the new feature, an updated version of its earlier &quot;weather greetings,&quot; has launched to around 95 percent of its global population as of this week. This is not the first time Facebook has toyed with introducing weather information into its service. The company years ago added forecasts to events and public places, and more recently was spotted testing weather updates in its News Feed in the U.K. A year ago, Facebook also rolled out &quot;weather greetings&quot; in News Feed, which were short, informational weather updates that…"/>
+    <cse:Attribute name="excerpt" value="Facebook is rolling out a useful new feature that puts a full weather forecast inside its mobile app and desktop site. The feature is accessible from News Feed or the mobile app’s “More” menu — the section that links you to areas like Friends, Events, Groups, Pages and other key Facebook features like On This Day or Saved items. Within the Weather section, you can view a…"/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/facebook-weather-ios.jpg?w=150"/>
+    <cse:Attribute name="category" value="Apps"/>
+    <cse:Attribute name="tag" value="Facebook"/>
     <cse:Attribute name="application-name" value="TechCrunch"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
@@ -66,18 +67,18 @@ holiday&amp;nbsp;...</summary>
     <cse:Attribute name="st:robots" value="follow, index"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/02/american-flag-image.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/02/facebook-weather-ios.jpg?w=764&amp;h=400&amp;crop=1"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="162"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-Wjvj2wNeyf3yZ_GuXWkyy1Gf-U64BBgriAsU7p2Se1iu3JR48ERsN3hg"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrYaKEUMdCy0SdVSHpkJGjTVR8vwnGtoQ5zco1UMPjBacTQ3hkvSS7cpc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/story/2017/02/ivanka-trump-jared-kushner-lgbt-order-234617</id>
-  <updated>1970-01-18T04:53:47.955Z</updated>
+  <updated>1970-01-18T04:58:05.269Z</updated>
   <title type="html">Ivanka Trump and Jared Kushner worked to sink LGBT order - Politico</title>
   <link href="http://www.politico.com/story/2017/02/ivanka-trump-jared-kushner-lgbt-order-234617" title="www.politico.com"/>
   <summary type="html">“There are some in Trump&amp;#39;s family that have some views on these things,” said &lt;b&gt;a&lt;/b&gt; &lt;br&gt;
@@ -85,6 +86,11 @@ holiday&amp;nbsp;...</summary>
   <cse:cacheId>HN2HphR0vAAJ</cse:cacheId>
   <cse:formattedUrl type="html">www.politico.com/.../ivanka-trump-jared-kushner-lgbt-order-234617</cse:formattedUrl>
   <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jack Shafer"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jack-shafer"/>
+    <cse:Attribute name="url_text" value="Jack Shafer"/>
+   </cse:DataObject>
    <cse:DataObject type="hcard">
     <cse:Attribute name="fn" value="Annie Karni"/>
     <cse:Attribute name="url" value="http://www.politico.com/staff/annie-karni"/>
@@ -129,72 +135,8 @@ holiday&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-canada-mosque-shooting-idUSKBN15F1RX</id>
-  <updated>1970-01-18T04:53:47.955Z</updated>
-  <title type="html">Canada shooting suspect rented apartment close to mosque ...</title>
-  <link href="http://www.reuters.com/article/us-canada-mosque-shooting-idUSKBN15F1RX" title="www.reuters.com"/>
-  <summary type="html">Bissonnette did not hide his hostility toward Muslims during his long interrogation &lt;br&gt;
-by police, Montreal&amp;#39;s La Presse newspaper reported, quoting &lt;b&gt;a source close to&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>dwLm8CaC-FkJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-canada-mosque-shooting-idUSKBN15F1RX</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;worldNews;newsMaps;everything;forexNewsCopy;newsproHome;audib2b;credit-rss;shipping;dassaultuk;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Canada+shooting+suspect+rented+apartment+close+to+mosque%3A+neighbors"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Kevin Dougherty and Allison Lampert"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
-    <cse:Attribute name="author" value="Kevin Dougherty and Allison Lampert"/>
-    <cse:Attribute name="news_keywords" value="Canada;United States;Canada;United States;ALEXANDRE BISSONNETTE;Donald Trump;Jean Petit;Julien Clement;Justin Trudeau;Katy Perry;Martin Coiteux;Parti Quebecois;Philippe Couillard;Philippe Pichet;ALEXANDRE BISSONNETTE;Donald Trump;Jean Petit;Justin Trudeau;Martin Coiteux;Philippe Couillard;Refet Kaplan;US;CANADA;MOSQUE;SHOOTING;Crime / Law / Justice;Islam;Judicial Process / Court Cases / Court Decisions;Picture available;Arts / Culture / Entertainment;Media and Publishing (TRBC);Crime;France;Video;Major News;Education;Pictures;Media / Publishing (Legacy);Conflicts / War / Peace;Canada;United States;Americas;Government / Politics;Fundamental Rights / Civil Liberties;Internet / World Wide Web;Europe;Religion / Belief;Science;International / National Security;Civil Unrest;Murder / Suspected Murder;Insurgencies"/>
-    <cse:Attribute name="revision_date" value="Wed Feb 01 04:54:58 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Kevin Dougherty and Allison Lampert"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-01T04:54:58+0000"/>
-    <cse:Attribute name="sailthru.title" value="Canada shooting suspect rented apartment close to mosque: neighbors"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Canada shooting suspect rented apartment close to mosque: neighbors"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-canada-mosque-shooting-idUSKBN15F1RX"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The French-Canadian student accused of killing six people during evening prayers in a Quebec City mosque had rented an apartment nearby, neighbors said on Tuesday, a sign he may have been targeting the house of worship."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170131&amp;t=2&amp;i=1170919235&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0U15S"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-01T04:54:58+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-01T04:54:58+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
-    <cse:Attribute name="og:article:author" value="Kevin Dougherty and Allison Lampert"/>
-    <cse:Attribute name="og:article:tag" value="Canada,United States,Canada,United States,ALEXANDRE BISSONNETTE,Donald Trump,Jean Petit,Julien Clement,Justin Trudeau,Katy Perry,Martin Coiteux,Parti Quebecois,Philippe Couillard,Philippe Pichet,ALEXANDRE BISSONNETTE,Donald Trump,Jean Petit,Justin Trudeau,Martin Coiteux,Philippe Couillard,Refet Kaplan,US,CANADA,MOSQUE,SHOOTING,Crime / Law / Justice,Islam,Judicial Process / Court Cases / Court Decisions,Picture available,Arts / Culture / Entertainment,Media and Publishing (TRBC),Crime,France,Video,Major News,Education,Pictures,Media / Publishing (Legacy),Conflicts / War / Peace,Canada,United States,Americas,Government / Politics,Fundamental Rights / Civil Liberties,Internet / World Wide Web,Europe,Religion / Belief,Science,International / National Security,Civil Unrest,Murder / Suspected Murder,Insurgencies"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Canada shooting suspect rented apartment close to mosque: neighbors"/>
-    <cse:Attribute name="twitter:description" value="The French-Canadian student accused of killing six people during evening prayers in a Quebec City mosque had rented an apartment nearby, neighbors said on Tuesday, a sign he may have been targeting the house of worship."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170131&amp;t=2&amp;i=1170919235&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0U15S"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170131&amp;t=2&amp;i=1170919235&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0U15S"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170131&amp;t=2&amp;i=1170919235&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED0U15S"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="301"/>
-    <cse:Attribute name="height" value="167"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ3w686nfWjLvmUAblk2CIqzc_ISfTuua26XnD3vzaBkW0EwcDLtqPfx8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T04:53:47.955Z</updated>
+  <updated>1970-01-18T04:58:05.269Z</updated>
   <title type="html">Sources: Steelers RB Bell facing 4-game ban</title>
   <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
   <summary type="html"/>
@@ -202,7 +144,7 @@ by police, Montreal&amp;#39;s La Presse newspaper reported, quoting &lt;b&gt;a s
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2017/02/05/inside-amazons-robot-run-supermarket-that-needs-just-3-human-workers/</id>
-  <updated>1970-01-18T04:53:47.955Z</updated>
+  <updated>1970-01-18T04:58:05.269Z</updated>
   <title type="html">Inside Amazon&amp;#39;s robot-run supermarket that needs just 3 human ...</title>
   <link href="http://nypost.com/2017/02/05/inside-amazons-robot-run-supermarket-that-needs-just-3-human-workers/" title="nypost.com"/>
   <summary type="html">“Amazon will utilize technology to minimize labor,” &lt;b&gt;a source close to&lt;/b&gt; the situation &lt;br&gt;
@@ -244,87 +186,89 @@ told The Post. Job-cutting technology isn&amp;#39;t new for Amazon, which has&am
     <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://nyppagesix.files.wordpress.com/2017/02/kim1.jpg?quality=90&amp;strip=all"/>
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/170205-amazon-feature.jpg?quality=90&amp;strip=all&amp;w=1200"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKZ6JbNLDJwzgjHm0_R-mUyNGtstJMWVl7C9oyiplyGE8NOwUKi4w5Lpy_"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5gFH3xmLPfxQQVNskbc-YQQUHBZXS0BSUVsoErbu9aq5orXMhb9J1WYk"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079</id>
-  <updated>1970-01-18T04:53:47.955Z</updated>
-  <title type="html">Source: Raiders move in doubt as Goldman Sachs mulls ...</title>
-  <link href="http://abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079" title="abcnews.go.com"/>
-  <summary type="html">... on Monday, investment bank Goldman Sachs is also re-evaluating its &lt;br&gt;
-relationship with the planned deal, &lt;b&gt;a source close to&lt;/b&gt; the negotiations told &lt;br&gt;
-Shelburne.</summary>
-  <cse:formattedUrl type="html">abcnews.go.com/Sports/source-raiders-move-doubt-goldman.../story?id...</cse:formattedUrl>
+  <id>http://www.nydailynews.com/entertainment/gossip/confidential/floyd-mayweather-couldn-book-drake-big-gig-article-1.2963897</id>
+  <updated>1970-01-18T04:58:05.269Z</updated>
+  <title type="html">Floyd Mayweather couldn&amp;#39;t book Drake for a big gig in D.C. - NY ...</title>
+  <link href="http://www.nydailynews.com/entertainment/gossip/confidential/floyd-mayweather-couldn-book-drake-big-gig-article-1.2963897" title="www.nydailynews.com"/>
+  <summary type="html">“The theme was &amp;#39;Retro to Rap,&amp;#39;” says &lt;b&gt;a source close to&lt;/b&gt; the Moblze Foundation &lt;br&gt;
+shindig that was produced by billionaire Colt Ventures founder Darren Blanton.</summary>
+  <cse:formattedUrl type="html">www.nydailynews.com/.../floyd-mayweather-couldn-book-drake-big-gig- article-1.2963897</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="ABC News"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
-    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="fb:admins" value="704409894"/>
-    <cse:Attribute name="fb:app_id" value="4942312939"/>
-    <cse:Attribute name="fb_title" value="Source: Raiders move in doubt as Goldman Sachs mulls involvement following investor&apos;s exit"/>
-    <cse:Attribute name="og:site_name" value="ABC News"/>
-    <cse:Attribute name="og:title" value="Source: Raiders move in doubt as Goldman Sachs mulls involvement following investor&apos;s exit"/>
-    <cse:Attribute name="og:description" value="The Oakland Raiders&apos; bid to relocate to Las Vegas has hit another financial roadblock that could put the team&apos;s planned move to the desert in jeopardy, a source told ESPN&apos;s Ramona Shelburne. With billionaire casino mogul Sheldon Adelson angrily withdrawing from the Raiders&apos; stadium..."/>
-    <cse:Attribute name="og:url" value="http://abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079"/>
-    <cse:Attribute name="og:image:type" value="image/jpeg"/>
-    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/Sports/espnapi_dm_170131_NFL_live_on_raiders_wmain.jpg"/>
-    <cse:Attribute name="dc.date.issued" value="2017-02-01"/>
-    <cse:Attribute name="date" value="2017-02-01"/>
-    <cse:Attribute name="last-modified" value="2017-02-01 11:41:26"/>
-    <cse:Attribute name="news_keywords" value="goldman sachs, funding, investment, relocation, lease, operations, Sheldon Adelson, Las Vegas, casino mogul, mark davis, stadium proposal, lease, nevada, sands"/>
-    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="nydn_section" value="Confidential"/>
+    <cse:Attribute name="fb:app_id" value="107464888913"/>
+    <cse:Attribute name="fb:admins" value="1594068001"/>
+    <cse:Attribute name="fb:pages" value="268914272540"/>
+    <cse:Attribute name="og:site_name" value="NY Daily News"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/NYDailyNews/"/>
+    <cse:Attribute name="msvalidate.01" value="02916AAC0DA8B068EFE01D721E03ED7E"/>
+    <cse:Attribute name="p:domain_verify" value="78efe4f5c9935744af497772f68a0ee7"/>
+    <cse:Attribute name="viewport" value="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@ABC"/>
-    <cse:Attribute name="twitter:title" value="Source: Raiders move in doubt as Goldman Sachs mulls involvement following investor&apos;s exit"/>
-    <cse:Attribute name="twitter:description" value="The Oakland Raiders&apos; bid to relocate to Las Vegas has hit another financial roadblock that could put the team&apos;s planned move to the desert in jeopardy, a source told ESPN&apos;s Ramona Shelburne. With billionaire casino mogul Sheldon Adelson angrily withdrawing from the Raiders&apos; stadium..."/>
-    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079"/>
-    <cse:Attribute name="twitter:image:width" value="150"/>
-    <cse:Attribute name="twitter:image:height" value="116"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,45178079"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,45178079"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079"/>
-    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,45178079"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
-    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
-    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,45178079"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
-    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
-    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079"/>
-    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
-    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
-    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/Sports/source-raiders-move-doubt-goldman-sachs-mulls-involvement/story?id=45178079"/>
+    <cse:Attribute name="twitter:site" value="@nydailynews"/>
+    <cse:Attribute name="twitter:url" value="http://www.nydailynews.com/entertainment/gossip/confidential/floyd-mayweather-couldn-book-drake-big-gig-article-1.2963897"/>
+    <cse:Attribute name="twitter:title" value="Floyd Mayweather couldn&apos;t book Drake for a big gig in D.C."/>
+    <cse:Attribute name="twitter:description" value="The more things fall apart around Drake, the better he comes out looking."/>
+    <cse:Attribute name="sailthru.title" value="Floyd Mayweather couldn&apos;t book Drake for a big gig in D.C."/>
+    <cse:Attribute name="og:title" value="Floyd Mayweather couldn&apos;t book Drake for a big gig in D.C."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.nydailynews.com/entertainment/gossip/confidential/floyd-mayweather-couldn-book-drake-big-gig-article-1.2963897"/>
+    <cse:Attribute name="news_keywords" value="Drake, Floyd Mayweather, Kid Rock, inauguration, DC"/>
+    <cse:Attribute name="og:image" value="http://assets.nydailynews.com/polopoly_fs/1.2963896.1486163350!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/conflead5f-1-web.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://assets.nydailynews.com/polopoly_fs/1.2963896.1486163350!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/conflead5f-1-web.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://assets.nydailynews.com/polopoly_fs/1.2963896.1486163350!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/conflead5f-1-web.jpg"/>
+    <cse:Attribute name="og:description" value="The more things fall apart around Drake, the better he comes out looking."/>
+    <cse:Attribute name="sailthru.description" value="The more things fall apart around Drake, the better he comes out looking."/>
+    <cse:Attribute name="sailthru.date" value="2017-02-04T19:41:57-0500"/>
+    <cse:Attribute name="nydn_tags" value="floyd mayweather, drake, travis scott"/>
+    <cse:Attribute name="nydn_byline" value="Confidential"/>
+    <cse:Attribute name="sailthru.author" value="Confidential"/>
+    <cse:Attribute name="sailthru.credits" value="NEW YORK DAILY NEWS"/>
+    <cse:Attribute name="parsely-title" value="Floyd Mayweather couldn&apos;t book Drake for a big gig in D.C."/>
+    <cse:Attribute name="parsely-link" value="http://www.nydailynews.com/entertainment/gossip/confidential/floyd-mayweather-couldn-book-drake-big-gig-article-1.2963897"/>
+    <cse:Attribute name="parsely-type" value="article"/>
+    <cse:Attribute name="parsely-image-url" value="http://assets.nydailynews.com/polopoly_fs/1.2963896.1486163350!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/conflead5f-1-web.jpg"/>
+    <cse:Attribute name="parsely-pub-date" value="2017-02-05T00:41:57"/>
+    <cse:Attribute name="sailthru.tags" value="Entertainment,Confidential,floydmayweather,drake,travisscott"/>
+    <cse:Attribute name="parsely-section" value="Confidential"/>
+    <cse:Attribute name="parsely-author" value="Confidential"/>
+    <cse:Attribute name="parsely-tags" value="floyd mayweather, drake, travis scott"/>
    </cse:DataObject>
-   <cse:DataObject type="sitenavigationelement">
-    <cse:Attribute name="name" value="U.S."/>
-    <cse:Attribute name="url" value="U.S."/>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Floyd Mayweather couldn&apos;t hook Drake for an inauguration weekend show"/>
+    <cse:Attribute name="articlebody" value="The more things fall apart around Drake, the better he comes out looking. While performing in London on Wednesday, the “Fake Love” singer literally saw the stage collapse around him and..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Drake didn&apos;t perform in D.C. during the President&apos;s inauguration, and now he&apos;s taking Europe by storm."/>
+    <cse:Attribute name="copyrightholder" value="(Grant Lamos IV/Getty Images)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="description" value="Floyd Mayweather Jr. was bummed that politics prevented Drake from showing up."/>
+    <cse:Attribute name="copyrightholder" value="(Christian Petersen/Getty Images)"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://a.abcnews.com/images/Sports/espnapi_dm_170131_NFL_live_on_raiders_wmain.jpg"/>
+    <cse:Attribute name="src" value="http://assets.nydailynews.com/polopoly_fs/1.2963896.1486163350!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/conflead5f-1-web.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTut7C9kcOpGql0snxEfzC4tRp9CqMcA5pWY5P4w0dFr29VsRBNzwTWS08"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkxxVU6zyR3H8Vjso6nQyCcYEgMbsusi7Bxi2AMqmyKhSC3Qcp9Mxax6s"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-france-shooting-suspect-egypt-idUSKBN15I2DJ</id>
-  <updated>1970-01-18T04:53:47.955Z</updated>
+  <updated>1970-01-18T04:58:05.269Z</updated>
   <title type="html">Paris Louvre attacks suspect was Egyptian national: source | Reuters</title>
   <link href="http://www.reuters.com/article/us-france-shooting-suspect-egypt-idUSKBN15I2DJ" title="www.reuters.com"/>
   <summary type="html">... museum on Friday and was shot by soldiers was an Egyptian national who &lt;br&gt;
@@ -387,211 +331,265 @@ arrived in France at the end of January, &lt;b&gt;a source close to&lt;/b&gt; th
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.msn.com/en-ca/news/canada/canada-shooting-suspect-rented-apartment-close-to-quebec-mosque-reports/ar-AAmsAPA</id>
-  <updated>1970-01-18T04:53:47.955Z</updated>
-  <title type="html">Canada shooting suspect rented apartment close to Quebec ...</title>
-  <link href="https://www.msn.com/en-ca/news/canada/canada-shooting-suspect-rented-apartment-close-to-quebec-mosque-reports/ar-AAmsAPA" title="www.msn.com"/>
-  <summary type="html">Bissonnette did not hide his hostility toward Muslims during his long interrogation &lt;br&gt;
-by police, Montreal&amp;#39;s La Presse newspaper, quoting &lt;b&gt;a source close to&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>9sHKtFCk7WQJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.msn.com/en-ca/news/canada/...to.../ar-AAmsAPA</cse:formattedUrl>
+  <id>http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/</id>
+  <updated>1970-01-18T04:58:05.269Z</updated>
+  <title type="html">Anthony Scaramucci tries to save job prospects with White House visit</title>
+  <link href="http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/" title="nypost.com"/>
+  <summary type="html">“Getting in the building is the easy part, the hard part is staying there,” &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;close to&lt;/b&gt; Priebus told The Post. Priebus, the former chairman of the Republican&amp;nbsp;...</summary>
+  <cse:cacheId>aTbjbLjeOjAJ</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/.../anthony-scaramucci-tries-to-save-job-prospects-with-white- house-visit/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
+    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Anthony Scaramucci tries to save job prospects with White House visit"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/"/>
+    <cse:Attribute name="og:description" value="Wall Street hedgie Anthony Scaramucci paid a visit to the White House on Wednesday in a last-ditch effort to keep alive the offer of a top job in the Trump administration, The Post has learned. The…"/>
+    <cse:Attribute name="article:published_time" value="2017-02-09T04:25:57+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-09T04:25:57+00:00"/>
+    <cse:Attribute name="og:site_name" value="New York Post"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="twitter:site" value="@nypost"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:creator" value="@joshkosman"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
+    <cse:Attribute name="twitter:title" value="Anthony Scaramucci tries to save job prospects with White House visit"/>
+    <cse:Attribute name="twitter:description" value="Wall Street hedgie Anthony Scaramucci paid a visit to the White House on Wednesday in a last-ditch effort to keep alive the offer of a top job in the Trump administration, The Post has learned. The"/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i1.wp.com/thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="nypost-section" value="Business"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10726660&quot;}"/>
+    <cse:Attribute name="news_keywords" value="Business,anthony scaramucci,donald trump,hedge funds,reince priebus,skybridge capital,stephen schwarzman,wall street,white house"/>
+    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
+    <cse:Attribute name="fb:pages" value="134486075205"/>
+    <cse:Attribute name="application-name" value="New York Post"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://nyppagesix.files.wordpress.com/2017/02/peter-cook.jpg?quality=90&amp;strip=all"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRleQMHaEYVWJq8g4Y54wSQNQqHwqzreCXnBNkkBWMw9iklhWjENLEZq2WM"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.politico.com/story/2017/02/donald-trump-kevin-mccarthy-234623</id>
+  <updated>1970-01-18T04:58:05.269Z</updated>
+  <title type="html">Donald Trump&amp;#39;s guy on Capitol Hill - POLITICO</title>
+  <link href="http://www.politico.com/story/2017/02/donald-trump-kevin-mccarthy-234623" title="www.politico.com"/>
+  <summary type="html">It doesn&amp;#39;t help rally people to your cause when you attack Paul,&amp;#39;” said &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;close to&lt;/b&gt; McCarthy. “And likewise with Paul, [McCarthy] was saying, &amp;#39;You&amp;#39;ve got to&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>qseDMQLvudYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/story/.../donald-trump-kevin-mccarthy-234623</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="By Kevin Dougherty"/>
+    <cse:Attribute name="fn" value="Rachael Bade"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/rachael-bade"/>
+    <cse:Attribute name="url_text" value="Rachael Bade"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jack Shafer"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jack-shafer"/>
+    <cse:Attribute name="url_text" value="Jack Shafer"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Kyle Cheney"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/kyle-cheney"/>
+    <cse:Attribute name="url_text" value="Kyle Cheney"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="John Bresnahan"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/john-bresnahan"/>
+    <cse:Attribute name="url_text" value="John Bresnahan"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Burgess Everett"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/burgess-everett"/>
+    <cse:Attribute name="url_text" value="Burgess Everett"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Edward-Isaac Dovere"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/edward-isaac-dovere"/>
+    <cse:Attribute name="url_text" value="Edward-Isaac Dovere"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Rachael Bade"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/rachael-bade"/>
+    <cse:Attribute name="url_text" value="Rachael Bade"/>
    </cse:DataObject>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="application-name" value="Canada shooting suspect rented apartment close to Quebec mosque: reports"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#1e1e1e"/>
+    <cse:Attribute name="og:title" value="Donald Trump&apos;s guy on Capitol Hill"/>
+    <cse:Attribute name="og:description" value="House Majority Leader Kevin McCarthy stuck with Trump when other establishment Republicans bailed. Their alliance now is one to watch."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2jRJJv4"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/rachael.bade.9"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@politico"/>
+    <cse:Attribute name="twitter:creator" value="@politico"/>
+    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
+    <cse:Attribute name="og:site_name" value="POLITICO"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/7d/c6/fc06c8874ffba782f5bae1d89c35/170203-kevin-mccarthy-trump-ap-1160.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static.politico.com/7d/c6/fc06c8874ffba782f5bae1d89c35/170203-kevin-mccarthy-trump-ap-1160.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="305"/>
+    <cse:Attribute name="height" value="165"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7KC8AVIV8_5MdSlC6i9zSnmcsW6eixMS66ey2tddgWiNjkG_BTjzQ6Qg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.telegraph.co.uk/news/2017/02/06/david-beckham-considers-hiring-private-investigator-fears-damaging/</id>
+  <updated>1970-01-18T04:58:05.269Z</updated>
+  <title type="html">David Beckham considers hiring private investigator over fears more ...</title>
+  <link href="http://www.telegraph.co.uk/news/2017/02/06/david-beckham-considers-hiring-private-investigator-fears-damaging/" title="www.telegraph.co.uk"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Beckham said: “If he was just doing this for a token gesture to &lt;br&gt;
+impress the honours committee he would have turned up for a day and done&amp;nbsp;...</summary>
+  <cse:cacheId>uXprByPlrfEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.telegraph.co.uk/.../david-beckham-considers-hiring-private-investigator -fears-damaging/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
+    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
+    <cse:Attribute name="tmgads.channel" value="news"/>
+    <cse:Attribute name="tmgads.section" value="news-2017"/>
+    <cse:Attribute name="tmgads.zone" value="news.2017.02.06"/>
+    <cse:Attribute name="tmgads.articleid" value="AnVqT5sxn0nm"/>
+    <cse:Attribute name="tmgads.pagetype" value="story"/>
+    <cse:Attribute name="tmgads.level" value="5"/>
+    <cse:Attribute name="tmgads.geo" value="US"/>
+    <cse:Attribute name="tmgads.keywords" value="News,Standard,David Beckham,UK News,Portugal"/>
+    <cse:Attribute name="dcsext.channel" value="news"/>
+    <cse:Attribute name="dcsext.category" value="2017"/>
+    <cse:Attribute name="dcsext.genre" value="02"/>
+    <cse:Attribute name="dcsext.mlc" value="/news/2017/02/06"/>
+    <cse:Attribute name="dcsext.articleid" value="AnVqT5sxn0nm"/>
+    <cse:Attribute name="dcsext.content_type" value="story"/>
+    <cse:Attribute name="dcsext.level" value="5"/>
+    <cse:Attribute name="dcsext.author" value="Gordon Rayner"/>
+    <cse:Attribute name="dcsext.articlefirstpublished" value="2017-02-06 22:20"/>
+    <cse:Attribute name="dcsext.cf" value="1"/>
+    <cse:Attribute name="dcsext.cd" value="0"/>
+    <cse:Attribute name="dcsext.cn" value="0"/>
+    <cse:Attribute name="dcsext.pd" value="1"/>
+    <cse:Attribute name="og:title" value="David Beckham considers hiring private investigator over fears more damaging emails could be published "/>
+    <cse:Attribute name="og:description" value="David Beckham fears further damaging material from his private emails may become public and is considering hiring a private investigator to find the person who tried to blackmail his publicist for &amp;pound;1&amp;thinsp;million, it has emerged."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="The Telegraph"/>
+    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2017/02/06/david-beckham-considers-hiring-private-investigator-fears-damaging/"/>
+    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2017/02/06/JS119856265_PA_David-Beckham-emails-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYAQgXTYMvNkizEpIaU6uTo.jpg"/>
+    <cse:Attribute name="twitter:title" value="David Beckham considers hiring private investigator over fears more damaging emails could be published "/>
+    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2017/02/06/david-beckham-considers-hiring-private-investigator-fears-damaging/"/>
+    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2017/02/06/JS119856265_PA_David-Beckham-emails-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYAQgXTYMvNkizEpIaU6uTo.jpg"/>
+    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
+    <cse:Attribute name="twitter:description" value="David Beckham fears further damaging material from his private emails may become public and is considering hiring a private investigator to find the person who tried to blackmail his publicist for &amp;pound;1&amp;thinsp;million, it has emerged."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="tmgads.businesssegment" value="news"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=303301873"/>
+    <cse:Attribute name="tmg.premium.override" value="false"/>
+    <cse:Attribute name="tmg.premium.state" value="false"/>
+    <cse:Attribute name="premiumcontentonfirstpublish" value="false"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="David Beckham considers hiring private investigator over fears more damaging emails could be published"/>
+    <cse:Attribute name="name" value="David Beckham considers hiring private investigator over fears more damaging emails could be published"/>
+    <cse:Attribute name="datepublished" value="2017-02-07T15:11+0000"/>
+    <cse:Attribute name="articlebody" value="David Beckham fears further damaging material from his private emails may become public and is considering hiring a private investigator to find the person who tried to blackmail his publicist..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="David Beckham, pictured with wife Victoria, allegedly called the honours committee “unappreciative&quot;"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Fiona Hanson /PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Gordon Rayner"/>
+    <cse:Attribute name="jobtitle" value="Chief Reporter"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="David Beckham with his family and editor-in-chief of American Vogue Anna Wintour"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Stefanie Keenan/Getty"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="David Beckham has volunteered as a Unicef ambassador"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Unicef / PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="The Queen greets David Beckham at an awards ceremony last year"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Steve Parsons/PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2017/02/06/JS119856265_PA_David-Beckham-emails-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYAQgXTYMvNkizEpIaU6uTo.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="177"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUWEbLqXSFMN9sYKfHaAAqR0gyHLVB5TXyBjqPzh8oie2sILdLHE46xwU"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.msn.com/en-us/music/celebrity/beyonc%C3%A9-%E2%80%98very-happy%E2%80%99-to-be-expecting-twins-after-a-%E2%80%98few-years-of-trying%E2%80%99-source/ar-AAmHSPX</id>
+  <updated>1970-01-18T04:58:05.269Z</updated>
+  <title type="html">Beyoncé &amp;#39;Very Happy&amp;#39; to Be Expecting Twins After a &amp;#39;Few Years of ...</title>
+  <link href="https://www.msn.com/en-us/music/celebrity/beyonc%C3%A9-%E2%80%98very-happy%E2%80%99-to-be-expecting-twins-after-a-%E2%80%98few-years-of-trying%E2%80%99-source/ar-AAmHSPX" title="www.msn.com"/>
+  <summary type="html">“They wanted another child and after a few years of trying, it&amp;#39;s a great feeling,” &lt;b&gt;a&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;source close to&lt;/b&gt; the “Formation” singer and her husband Jay Z tells PEOPLE&amp;nbsp;...</summary>
+  <cse:cacheId>GIEOJszePIgJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.msn.com/en-us/music/...to.../ar-AAmHSPX</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Liz McNeil and Melody Chiu"/>
+   </cse:DataObject>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="application-name" value="Beyoncé ‘Very Happy’ to Be Expecting Twins After a ‘Few Years of Trying’: Source"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ab1142"/>
     <cse:Attribute name="msapplication-tileimage" value="//static-entertainment-eus-s-msn-com.akamaized.net/sc/1f/08ced4.png"/>
     <cse:Attribute name="msapplication-config" value="none"/>
     <cse:Attribute name="viewport" value="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
-    <cse:Attribute name="sharing_url" value="http://a.msn.com/01/en-ca/AAmsAPA"/>
-    <cse:Attribute name="og:url" value="https://www.msn.com/en-ca/news/canada/canada-shooting-suspect-rented-apartment-close-to-quebec-mosque-reports/ar-AAmsAPA"/>
-    <cse:Attribute name="og:title" value="Canada shooting suspect rented apartment close to Quebec mosque: reports"/>
-    <cse:Attribute name="og:description" value="By Kevin Dougherty"/>
+    <cse:Attribute name="sharing_url" value="http://a.msn.com/0B/en-us/AAmHSPX"/>
+    <cse:Attribute name="og:url" value="https://www.msn.com/en-us/music/celebrity/beyonc%C3%A9-%E2%80%98very-happy%E2%80%99-to-be-expecting-twins-after-a-%E2%80%98few-years-of-trying%E2%80%99-source/ar-AAmHSPX"/>
+    <cse:Attribute name="og:title" value="Beyoncé ‘Very Happy’ to Be Expecting Twins After a ‘Few Years of Trying’: Source"/>
+    <cse:Attribute name="og:description" value="Beyoncé‘s always talked about giving her daughter Blue Ivy siblings to play with, and now with two babies on the way, the super star is on cloud nine. &amp;nbsp;"/>
     <cse:Attribute name="og:type" value="article"/>
     <cse:Attribute name="og:site_name" value="MSN"/>
-    <cse:Attribute name="og:image" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAmsqiZ.img"/>
-    <cse:Attribute name="fb:app_id" value="829406873836572"/>
+    <cse:Attribute name="og:image" value="https://static-entertainment-eus-s-msn-com.akamaized.net/sc/c6/519670.jpg"/>
+    <cse:Attribute name="fb:app_id" value="125117174535490"/>
    </cse:DataObject>
    <cse:DataObject type="organization">
-    <cse:Attribute name="url" value="http://www.reuters.com/"/>
+    <cse:Attribute name="url" value="http://www.people.com/"/>
    </cse:DataObject>
    <cse:DataObject type="person">
-    <cse:Attribute name="name" value="By Kevin Dougherty"/>
+    <cse:Attribute name="name" value="Liz McNeil and Melody Chiu"/>
    </cse:DataObject>
    <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlebody" value="© REUTERS Facebook photo of Alexandre Bissonnette, a suspect in a shooting at a Quebec City mosque The French-Canadian student accused of killing six people during evening prayers in a Quebec..."/>
+    <cse:Attribute name="articlebody" value="Click to expand Replay Video What &apos;90s Characters Would Look Like Now No more school, no more bedtime, no more diapers BuzzFeed Marvel’s New Superhero is a Latina Lesbian She’s strong,..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAmsqiZ.img"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.dailymail.co.uk/wires/reuters/article-4176186/Canada-shooting-suspect-rented-apartment-close-Quebec-mosque-reports.html</id>
-  <updated>1970-01-18T04:53:47.955Z</updated>
-  <title type="html">Canada shooting suspect rented apartment close to Quebec ...</title>
-  <link href="http://www.dailymail.co.uk/wires/reuters/article-4176186/Canada-shooting-suspect-rented-apartment-close-Quebec-mosque-reports.html" title="www.dailymail.co.uk"/>
-  <summary type="html">Bissonnette did not hide his hostility toward Muslims during his long interrogation &lt;br&gt;
-by police, Montreal&amp;#39;s La Presse newspaper, quoting &lt;b&gt;a source close to&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Canada-shooting-suspect-rented-apartment-close- Quebec-mosque-reports.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="news_keywords" value="Canada,shooting,suspect,rented,apartment,close,Quebec,mosque,reports"/>
-    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4176186/Canada-shooting-suspect-rented-apartment-close-Quebec-mosque-reports.html"/>
-    <cse:Attribute name="rating" value="General"/>
-    <cse:Attribute name="doc-class" value="Living Document"/>
-    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
-    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
-    <cse:Attribute name="twitter:account_id" value="15438913"/>
-    <cse:Attribute name="articleid" value="4176186"/>
-    <cse:Attribute name="divclasspage" value="articlePage"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Canada shooting suspect rented apartment close to Quebec mosque -re..."/>
-    <cse:Attribute name="twitter:description" value="By Kevin Dougherty QUEBEC CITY, Jan 31 (Reuters) - The French-Canadian student accused of killing six people during evening prayers in a Quebec City mosque h..."/>
-    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4176186/Canada-shooting-suspect-rented-apartment-close-Quebec-mosque-reports.html"/>
-    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
-    <cse:Attribute name="article:published_time" value="2017-01-31T14:28:05+0000"/>
-    <cse:Attribute name="article:modified_time" value="2017-01-31T14:28:07+0000"/>
-    <cse:Attribute name="article:section" value="Reuters"/>
-    <cse:Attribute name="article:tag" value="Canada shooting suspect rented apartment close Quebec mosque reports"/>
-    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
-    <cse:Attribute name="fb:app_id" value="146202712090395"/>
-    <cse:Attribute name="og:site_name" value="Mail Online"/>
-    <cse:Attribute name="og:title" value="Canada shooting suspect rented apartment close to Quebec mosque -re..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="By Kevin Dougherty QUEBEC CITY, Jan 31 (Reuters) - The French-Canadian student accused of killing six people during evening prayers in a Quebec City mosque h..."/>
-    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4176186/index.html"/>
-    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="og:image:width" value="636"/>
-    <cse:Attribute name="og:image:height" value="382"/>
-    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Canada shooting suspect rented apartment close to Quebec mosque -reports"/>
-    <cse:Attribute name="datepublished" value="2017-01-31T14:28:05+0000"/>
-    <cse:Attribute name="datemodified" value="2017-01-31T14:28:07+0000"/>
-    <cse:Attribute name="articlebody" value="Canada shooting suspect rented apartment close to Quebec mosque -reports By Reuters Published: 09:28 EST, 31 January 2017 | Updated: 09:28 EST, 31 January 2017 e-mail By Kevin DoughertyQUEBEC..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="By Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="height" value="382"/>
-    <cse:Attribute name="width" value="636"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="MailOnline"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
-    <cse:Attribute name="width" value="350"/>
-    <cse:Attribute name="height" value="66"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="src" value="https://static-entertainment-eus-s-msn-com.akamaized.net/sc/c6/519670.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="290"/>
-    <cse:Attribute name="height" value="174"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court</id>
-  <updated>1970-01-18T04:53:47.955Z</updated>
-  <title type="html">African leaders plan mass withdrawal from international criminal court</title>
-  <link href="https://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court" title="www.theguardian.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the continental body&amp;#39;s legal council also confirmed it, saying &lt;br&gt;
-countries had been divided on whether to call for leaving the court individually or&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>KcNeND7CZIoJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.theguardian.com/.../african-leaders-plan-mass-withdrawal-from- international-criminal-court</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="format-detection" value="telephone=no"/>
-    <cse:Attribute name="handheldfriendly" value="True"/>
-    <cse:Attribute name="viewport" value="width=device-width,minimum-scale=1,initial-scale=1"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Guardian"/>
-    <cse:Attribute name="application-name" value="The Guardian"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#005689"/>
-    <cse:Attribute name="theme-color" value="#005689"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://assets.guim.co.uk/images/favicons/f06f6996e193d1ddcd614ea852322d25/windows_tile_144_b.png"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=409128287, app-argument=https://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court, affiliate-data=ct=newsmartappbanner&amp;pt=304191"/>
-    <cse:Attribute name="referrer" value="unsafe-url"/>
-    <cse:Attribute name="thumbnail" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/4096.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=75bc6aaa65de638a92130d43e0a9d6b2"/>
-    <cse:Attribute name="news_keywords" value="International criminal court,International criminal justice,Law,Africa,World news"/>
-    <cse:Attribute name="og:url" value="http://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court"/>
-    <cse:Attribute name="og:description" value="Decision reached at African Union summit follows announcements by South Africa, Burundi and the Gambia that they plan to leave the court"/>
-    <cse:Attribute name="og:image" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8745700ef3e6de7a23decf17780ce3a6"/>
-    <cse:Attribute name="al:ios:url" value="gnmguardian://law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court?contenttype=Article&amp;source=applinks"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/theguardian"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="al:ios:app_store_id" value="409128287"/>
-    <cse:Attribute name="article:section" value="Law"/>
-    <cse:Attribute name="article:published_time" value="2017-01-31T23:18:32.000Z"/>
-    <cse:Attribute name="og:title" value="African leaders plan mass withdrawal from international criminal court"/>
-    <cse:Attribute name="fb:app_id" value="180444840287"/>
-    <cse:Attribute name="article:tag" value="International criminal court,International criminal justice,Law,Africa,World news"/>
-    <cse:Attribute name="al:ios:app_name" value="The Guardian"/>
-    <cse:Attribute name="og:site_name" value="the Guardian"/>
-    <cse:Attribute name="article:modified_time" value="2017-01-31T23:26:46.000Z"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="409128287"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="The Guardian"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="The Guardian"/>
-    <cse:Attribute name="twitter:image" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/master/4096.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNi8wNy9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=95b873733e930b0ebbbfdbca399042d0"/>
-    <cse:Attribute name="twitter:site" value="@guardian"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="gnmguardian://law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court?contenttype=Article&amp;source=twitter"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="The Guardian"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="409128287"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.guardian"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="guardian://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="gnmguardian://law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court?contenttype=Article&amp;source=twitter"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="mainentityofpage" value="https://www.theguardian.com/law/2017/jan/31/african-leaders-plan-mass-withdrawal-from-international-criminal-court"/>
-    <cse:Attribute name="headline" value="African leaders plan mass withdrawal from international criminal court"/>
-    <cse:Attribute name="description" value="Decision reached at African Union summit follows announcements by South Africa, Burundi and the Gambia that they plan to leave the court"/>
-    <cse:Attribute name="datepublished" value="2017-01-31T18:18:32-0500"/>
-    <cse:Attribute name="datemodified" value="2017-01-31T18:26:46-0500"/>
-    <cse:Attribute name="articlebody" value="African leaders have adopted a strategy calling for a collective withdrawal from the international criminal court. The non-binding decision came behind closed doors near the end of an African..."/>
-    <cse:Attribute name="keywords" value="More news"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="The Guardian"/>
-    <cse:Attribute name="sameas" value="http://www.theguardian.com/"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="representativeofpage" value="true"/>
-    <cse:Attribute name="url" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/4096.jpg?w=700&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=e416b4573b0c09084dc565d637bb0367"/>
-    <cse:Attribute name="width" value="4096"/>
-    <cse:Attribute name="height" value="2457"/>
-    <cse:Attribute name="contenturl" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/master/4096.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=c12304b2eddf3f9aac22c92d841e8f57"/>
-    <cse:Attribute name="description" value="The international criminal court in The Hague. Photograph: Martijn Beekman/EPA"/>
-   </cse:DataObject>
-   <cse:DataObject type="breadcrumb">
-    <cse:Attribute name="url" value="World"/>
-    <cse:Attribute name="title" value="World"/>
-   </cse:DataObject>
-   <cse:DataObject type="breadcrumb">
-    <cse:Attribute name="url" value="International criminal court"/>
-    <cse:Attribute name="title" value="International criminal court"/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/6bdcf428926e5a45291dba5da2ae148897c619b1/0_68_4096_2457/4096.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=75bc6aaa65de638a92130d43e0a9d6b2"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/aef5f4e1ecabc4aa9d538b2f0dfa1115a23c6f8c/0_0_7492_4494/master/7492.jpg?w=460&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=83b2b4302f8a16c84d8f75ad920f8bd7"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="290"/>
-    <cse:Attribute name="height" value="174"/>
+    <cse:Attribute name="width" value="80"/>
+    <cse:Attribute name="height" value="80"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QVPDIEW2yP3gflNiEYdu6h6wGXRDkl9IK1jNcHVCSolXdwBiH6OjVA"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
