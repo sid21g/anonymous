@@ -5,29 +5,29 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:00:29.470Z</updated>
+ <updated>1970-01-18T05:01:49.818Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="19800" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="19800" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>19800</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="19600" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="19600" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>19600</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.479865</cse:searchTime>
-  <cse:formattedSearchTime>0.48</cse:formattedSearchTime>
-  <cse:totalResults>19800</cse:totalResults>
-  <cse:formattedTotalResults>19,800</cse:formattedTotalResults>
+  <cse:searchTime>0.31704</cse:searchTime>
+  <cse:formattedSearchTime>0.32</cse:formattedSearchTime>
+  <cse:totalResults>19600</cse:totalResults>
+  <cse:formattedTotalResults>19,600</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T05:00:29.470Z</updated>
+  <updated>1970-01-18T05:01:49.818Z</updated>
   <title type="html">TechCrunch - The latest technology news and information on startups</title>
   <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">With the rise of algorithmic stock trading it&amp;#39;s gotten harder and harder for humans &lt;br&gt;
-to actually trade strategically. However, now that Trump&amp;#39;s chaotic twitter feed&amp;nbsp;...</summary>
+  <summary type="html">You know that Twitter is getting serious about live streaming when the company &lt;br&gt;
+starts signing deals for rugby matches just for French users. The company&amp;nbsp;...</summary>
   <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
   <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
   <cse:PageMap>
@@ -45,20 +45,20 @@ to actually trade strategically. However, now that Trump&amp;#39;s chaotic twitt
     <cse:Attribute name="og:site" value="social.techcrunch.com"/>
     <cse:Attribute name="og:title" value="TechCrunch|2"/>
     <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/1i7bliuxffrkdzj77han6lw.png?w=700&amp;h=380&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/rugby.jpeg?w=764&amp;h=400&amp;crop=1"/>
     <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
     <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="John Biggs"/>
-    <cse:Attribute name="id" value="1451235"/>
+    <cse:Attribute name="author" value="Romain Dillet"/>
+    <cse:Attribute name="id" value="1451310"/>
     <cse:Attribute name="title" value="TechCrunch|2"/>
     <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/10/trump2cash-lets-you-invest-automatically-whenever-the-president-mentions-a-publicly-traded-company/"/>
-    <cse:Attribute name="timestamp" value="2017-02-10 07:47:48"/>
-    <cse:Attribute name="content" value="With the rise of algorithmic stock trading it&apos;s gotten harder and harder for humans to actually trade strategically. However, now that Trump&apos;s chaotic twitter feed can make or break a company with a single mention, you can easily trade against positive or negative sentiment and make a little money in the process! An app, called Trump2Cash, is partially tongue in cheek but quite interesting. It&apos;s a bot written in Python that watches Trumps feed and does a sentiment analysis on any Tweet mentioning a public company. Is Trump saying NO WAY to Toyota? Short some stock! Is Ford bringing 700 jobs from Mexico because it believes in America (not really)? Buy buy buy! Programmer Max Braun created the app as a test and it&apos;s currently making recommendations on Twitter about whether to buy or sell. He writes: ￼Check out the benchmark report. It’s essentially a test run that shows you how the algorithm performs on past tweets and market data. You’ll see that it sometimes misses a company…"/>
-    <cse:Attribute name="excerpt" value="With the rise of algorithmic stock trading it’s gotten harder and harder for humans to actually trade strategically. However, now that Trump’s chaotic twitter feed can make or break a company with a single mention, you can easily trade against positive or negative sentiment and make a little money in the process! An app, called Trump2Cash, is partially tongue in cheek but quite…"/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/1i7bliuxffrkdzj77han6lw.png?w=150"/>
-    <cse:Attribute name="category" value="Apps"/>
-    <cse:Attribute name="tag" value="Software"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/10/twitter-to-live-stream-the-6-nations-rugby-tournament-in-france/"/>
+    <cse:Attribute name="timestamp" value="2017-02-10 10:33:05"/>
+    <cse:Attribute name="content" value="You know that Twitter is getting serious about live streaming when the company starts signing deals for rugby matches just for French users. The company announced that it would stream the next 4 matches involving the French team in the 6 nations tournament. And if you know absolutely nothing about rugby, the 6 nations tournament happens every year and is probably my favorite tournament to follow. The six main national rugby teams in Europe face each other nearly every weekend for a couple of months: England, France, Ireland, Italy, Scotland and Wales. Today’s Twitter deal means that you’ll be able to watch the four upcoming 6 nations matches involving the French team, starting with France vs. Scotland this Sunday at 3:50 PM French time. Just head over to 6nations.twitter.com. Behind the scene, Twitter partnered with France Télévisions, the French TV network that covers the tournament. Twitter bought the live streaming rights for those matches. Only Twitter users in France will…"/>
+    <cse:Attribute name="excerpt" value="You know that Twitter is getting serious about live streaming when the company starts signing deals for rugby matches just for French users. The company announced that it would stream the next 4 matches involving the French team in the 6 nations tournament. And if you know absolutely nothing about rugby, the 6 nations tournament happens every year and is probably my favorite tournament to follow."/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/rugby.jpeg?w=150"/>
+    <cse:Attribute name="category" value="Entertainment"/>
+    <cse:Attribute name="tag" value="Twitter"/>
     <cse:Attribute name="application-name" value="TechCrunch"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
@@ -66,18 +66,18 @@ to actually trade strategically. However, now that Trump&amp;#39;s chaotic twitt
     <cse:Attribute name="st:robots" value="follow, index"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/02/1i7bliuxffrkdzj77han6lw.png?w=700&amp;h=380&amp;crop=1"/>
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/02/rugby.jpeg?w=764&amp;h=400&amp;crop=1"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="305"/>
-    <cse:Attribute name="height" value="165"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGcojzbpHd8-KfB7PTeF5AsXTJdamKUAEjXyjjWQ9a-ygQUDmgSZAH2ke"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="162"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDhXjLdHVVgdqv09-h3OyOIxdaMEPFr3uwVgNFv7f-gvoshrPk_U6yrs"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/amp/</id>
-  <updated>1970-01-18T05:00:29.470Z</updated>
+  <updated>1970-01-18T05:01:49.818Z</updated>
   <title type="html">Anthony Scaramucci tries to save job prospects with White House visit</title>
   <link href="http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/amp/" title="nypost.com"/>
   <summary type="html">“Getting in the building is the easy part, the hard part is staying there,” &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
@@ -115,8 +115,16 @@ to actually trade strategically. However, now that Trump&amp;#39;s chaotic twitt
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
+  <updated>1970-01-18T05:01:49.818Z</updated>
+  <title type="html">Steelers RB Le&amp;#39;Veon Bell facing 4-game ban for missed drug test</title>
+  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
+  <summary type="html"/>
+  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2017/02/10/europe/france-terror-arrest/index.html</id>
-  <updated>1970-01-18T05:00:29.470Z</updated>
+  <updated>1970-01-18T05:01:49.818Z</updated>
   <title type="html">Foiled France terror plot appears ISIS-inspired, source says - CNN ...</title>
   <link href="http://www.cnn.com/2017/02/10/europe/france-terror-arrest/index.html" title="www.cnn.com"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the investigation told CNN that a 21-year-old man arrested in &lt;br&gt;
@@ -130,7 +138,7 @@ Clapiers is suspected of planning a suicide attack in France. French intelligenc
     <cse:Attribute name="section" value="europe"/>
     <cse:Attribute name="og:pubdate" value="2017-02-10T13:29:42Z"/>
     <cse:Attribute name="pubdate" value="2017-02-10T13:29:42Z"/>
-    <cse:Attribute name="lastmod" value="2017-02-11T02:54:04Z"/>
+    <cse:Attribute name="lastmod" value="2017-02-11T10:22:19Z"/>
     <cse:Attribute name="og:url" value="http://www.cnn.com/2017/02/10/europe/france-terror-arrest/index.html"/>
     <cse:Attribute name="author" value="Paul Cruickshank, Rebecca Coleman and Eric Levenson, CNN"/>
     <cse:Attribute name="og:title" value="Foiled France terror plot appears ISIS-inspired, source says"/>
@@ -154,7 +162,7 @@ Clapiers is suspected of planning a suicide attack in France. French intelligenc
     <cse:Attribute name="articlesection" value="europe"/>
     <cse:Attribute name="datecreated" value="2017-02-10T13:29:42Z"/>
     <cse:Attribute name="datepublished" value="2017-02-10T13:29:42Z"/>
-    <cse:Attribute name="datemodified" value="2017-02-11T02:54:04Z"/>
+    <cse:Attribute name="datemodified" value="2017-02-11T10:22:19Z"/>
     <cse:Attribute name="url" value="http://www.cnn.com/2017/02/10/europe/france-terror-arrest/index.html"/>
     <cse:Attribute name="author" value="Paul Cruickshank, Rebecca Coleman and Eric Levenson, CNN"/>
     <cse:Attribute name="headline" value="Foiled France terror plot appears ISIS-inspired, source says - CNN.com"/>
@@ -177,82 +185,8 @@ Clapiers is suspected of planning a suicide attack in France. French intelligenc
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/sebastian-thrun-is-working-on-a-new-stealth-food-tech-startup-2017-2</id>
-  <updated>1970-01-18T05:00:29.470Z</updated>
-  <title type="html">Sebastian Thrun is working on a new stealth food tech startup ...</title>
-  <link href="http://www.businessinsider.com/sebastian-thrun-is-working-on-a-new-stealth-food-tech-startup-2017-2" title="www.businessinsider.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Thrun said he&amp;#39;s currently &amp;quot;obsessed&amp;quot; with the idea of steaming &lt;br&gt;
-things, but Thrun declined to elaborate on his project to Business Insider.</summary>
-  <cse:cacheId>jCF2YBhAHX0J</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/sebastian-thrun-is-working-on-a-new-stealth-food- tech-startup-2017-2</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-02-09"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-09"/>
-    <cse:Attribute name="news_keywords" value="Sebastian Thrun, food technology, Food tech, Biz Carson"/>
-    <cse:Attribute name="sailthru.tags" value="Sebastian Thrun, food technology, Food tech, Biz Carson"/>
-    <cse:Attribute name="sailthru.description" value="The father of the self-driving car, Udacity founder Sebastian Thrun, is now working on a food technology project."/>
-    <cse:Attribute name="title" value="The man building flying cars for Larry Page wants to reinvent the way you prepare dinner"/>
-    <cse:Attribute name="sailthru.verticals" value="sai"/>
-    <cse:Attribute name="sailthru.title" value="The man building flying cars for Larry Page wants to reinvent the way you prepare dinner"/>
-    <cse:Attribute name="tbi-image" value="http://static5.businessinsider.com/image/589d14b43149a1f2778b4c5c/the-man-building-flying-cars-for-larry-page-wants-to-reinvent-the-way-you-prepare-dinner.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static5.businessinsider.com/image/589d14b43149a1f2778b4c5c/the-man-building-flying-cars-for-larry-page-wants-to-reinvent-the-way-you-prepare-dinner.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static2.businessinsider.com/image/589d14b43149a1f2778b4c5c-50-50/the-man-building-flying-cars-for-larry-page-wants-to-reinvent-the-way-you-prepare-dinner.jpg"/>
-    <cse:Attribute name="sailthru.author" value="Biz Carson"/>
-    <cse:Attribute name="og:title" value="The man building flying cars for Larry Page wants to reinvent the way you prepare dinner"/>
-    <cse:Attribute name="og:description" value="The father of the self-driving car, Udacity founder Sebastian Thrun, is now working on a food technology project."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/sebastian-thrun-is-working-on-a-new-stealth-food-tech-startup-2017-2"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Biz Carson"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/sebastian-thrun-is-working-on-a-new-stealth-food-tech-startup-2017-2"/>
-    <cse:Attribute name="twitter:title" value="The man building flying cars for Larry Page wants to reinvent the way you prepare dinner"/>
-    <cse:Attribute name="twitter:description" value="The father of the self-driving car, Udacity founder Sebastian Thrun, is now working on a food technology project."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static3.businessinsider.com/image/589d14a83149a195008b63b6-506-253/the-man-building-flying-cars-for-larry-page-wants-to-reinvent-the-way-you-prepare-dinner.jpg"/>
-    <cse:Attribute name="twitter:creator" value="bizcarson"/>
-    <cse:Attribute name="twitter:site" value="sai"/>
-    <cse:Attribute name="article:author" value="http://www.businessinsider.com/author/biz-carson"/>
-    <cse:Attribute name="og:image" value="http://static6.businessinsider.com/image/589d14a83149a195008b63b6-1190-625/the-man-building-flying-cars-for-larry-page-wants-to-reinvent-the-way-you-prepare-dinner.jpg"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="sai"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="The man building flying cars for Larry Page wants to reinvent the way you prepare dinner"/>
-    <cse:Attribute name="url" value="The man building flying cars for Larry Page wants to reinvent the way you prepare dinner"/>
-    <cse:Attribute name="image" value="http://static6.businessinsider.com/image/589d14b43149a1f2778b4c5c-100-100/the-man-building-flying-cars-for-larry-page-wants-to-reinvent-the-way-you-prepare-dinner.jpg"/>
-    <cse:Attribute name="description" value="What do flying cars, robots, and..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static5.businessinsider.com/assets/images/logos/BI.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOfK1aTywzbJF5wT__2pDGkJ55dcsXy2pEeZanJRsGSNgD7zDifsz6b18a"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T05:00:29.470Z</updated>
-  <title type="html">Sources: Steelers RB Bell facing 4-game ban</title>
-  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
-  <summary type="html"/>
-  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2017/02/05/inside-amazons-robot-run-supermarket-that-needs-just-3-human-workers/</id>
-  <updated>1970-01-18T05:00:29.470Z</updated>
+  <updated>1970-01-18T05:01:49.818Z</updated>
   <title type="html">Inside Amazon&amp;#39;s robot-run supermarket that needs just 3 human ...</title>
   <link href="http://nypost.com/2017/02/05/inside-amazons-robot-run-supermarket-that-needs-just-3-human-workers/" title="nypost.com"/>
   <summary type="html">“Amazon will utilize technology to minimize labor,” &lt;b&gt;a source close to&lt;/b&gt; the situation &lt;br&gt;
@@ -294,18 +228,18 @@ told The Post. Job-cutting technology isn&amp;#39;t new for Amazon, which has&am
     <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/170205-amazon-feature.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2016/12/161229-amazon-flying-warehouse-02.jpg?quality=90&amp;strip=all&amp;w=300&amp;strip=all"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5gFH3xmLPfxQQVNskbc-YQQUHBZXS0BSUVsoErbu9aq5orXMhb9J1WYk"/>
+    <cse:Attribute name="width" value="240"/>
+    <cse:Attribute name="height" value="185"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6WW1hPnHzpvVoLW8mqHUGMc6qkSQR0sf2UGfj99rzjtggFeQ8f3UUICX_"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html</id>
-  <updated>1970-01-18T05:00:29.470Z</updated>
+  <updated>1970-01-18T05:01:49.818Z</updated>
   <title type="html">Missing China billionaire taken from Hong Kong hotel in wheelchair ...</title>
   <link href="http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html" title="www.dailymail.co.uk"/>
   <summary type="html">... whisked in a wheelchair from a luxury Hong Kong hotel in the early hours of &lt;br&gt;
@@ -380,7 +314,7 @@ Jan 27 with his head covered, &lt;b&gt;a source close to&lt;/b&gt; the businessm
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-china-hongkong-billionaire-idUSKBN15Q09Q</id>
-  <updated>1970-01-18T05:00:29.470Z</updated>
+  <updated>1970-01-18T05:01:49.818Z</updated>
   <title type="html">Missing China billionaire taken from Hong Kong hotel in wheelchair ...</title>
   <link href="http://www.reuters.com/article/us-china-hongkong-billionaire-idUSKBN15Q09Q" title="www.reuters.com"/>
   <summary type="html">... was whisked in a wheelchair from a luxury Hong Kong hotel in the early hours &lt;br&gt;
@@ -433,18 +367,164 @@ of Jan 27 with his head covered, &lt;b&gt;a source close to&lt;/b&gt; the busine
     <cse:Attribute name="wt.cg_s" value="World"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170211&amp;t=2&amp;i=1172264782&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1A088"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwetW02UN_mv0-SC_zd7nKg0EXRRbL1Padt73eJPGl9ZvMGl3gOw4Z29A"/>
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K</id>
+  <updated>1970-01-18T05:01:49.818Z</updated>
+  <title type="html">Italy&amp;#39;s foreign ministry came under cyber attack in 2016: source ...</title>
+  <link href="http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K" title="www.reuters.com"/>
+  <summary type="html">Italy&amp;#39;s foreign ministry was hacked last year, &lt;b&gt;a source close to&lt;/b&gt; the department &lt;br&gt;
+said on Friday, confirming a report in the Guardian newspaper which also said&amp;nbsp;...</summary>
+  <cse:cacheId>XmCqGWm6i5gJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-italy-cyber-idUSKBN15P25K</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;internetNews;everything;Davos;cybersecurity;newsproHome;audib2b;credit-rss;cfaglobal;aa48hours;shipping;Intel;PFG;LinkedInBusTech;CathayPacific_US;cyberRisk;cyber;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Italy%27s+foreign+ministry+came+under+cyber+attack+in+2016%3A+source"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Italy;Russia;United States;Mario Draghi;Paolo Gentiloni;US;ITALY;CYBER;Crime / Law / Justice;Computer Crime / Hacking / Cybercrime;Russia;Western Europe;Diplomacy / Foreign Policy;Italy;Crime;Government / Politics;Internet / World Wide Web;Europe;Science;International / National Security;Conflicts / War / Peace;United States"/>
+    <cse:Attribute name="revision_date" value="Fri Feb 10 16:56:27 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-10T16:56:27+0000"/>
+    <cse:Attribute name="sailthru.title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Italy&apos;s foreign ministry was hacked last year, a source close to the department said on Friday, confirming a report in the Guardian newspaper which also said Russia was suspected of perpetrating the attack."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-10T16:56:27+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-10T16:56:27+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Italy,Russia,United States,Mario Draghi,Paolo Gentiloni,US,ITALY,CYBER,Crime / Law / Justice,Computer Crime / Hacking / Cybercrime,Russia,Western Europe,Diplomacy / Foreign Policy,Italy,Crime,Government / Politics,Internet / World Wide Web,Europe,Science,International / National Security,Conflicts / War / Peace,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
+    <cse:Attribute name="twitter:description" value="Italy&apos;s foreign ministry was hacked last year, a source close to the department said on Friday, confirming a report in the Guardian newspaper which also said Russia was suspected of perpetrating the attack."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.telegraph.co.uk/news/2017/02/07/david-beckham-changed-date-unicef-downing-street-visit-tax-purposes/</id>
+  <updated>1970-01-18T05:01:49.818Z</updated>
+  <title type="html">David Beckham &amp;#39;changed date of Unicef Downing Street visit for tax ...</title>
+  <link href="http://www.telegraph.co.uk/news/2017/02/07/david-beckham-changed-date-unicef-downing-street-visit-tax-purposes/" title="www.telegraph.co.uk"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Beckham told the newspaper: &amp;#39;David is now domiciled in the &lt;br&gt;
+UK for tax, but he wasn&amp;#39;t when he worked overseas. For periods of time, he was&amp;nbsp;...</summary>
+  <cse:cacheId>ZqyJoShfZ4EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.telegraph.co.uk/.../david-beckham-changed-date-unicef-downing-street -visit-tax-purposes/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
+    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
+    <cse:Attribute name="tmgads.channel" value="news"/>
+    <cse:Attribute name="tmgads.section" value="news-2017"/>
+    <cse:Attribute name="tmgads.zone" value="news.2017.02.07"/>
+    <cse:Attribute name="tmgads.articleid" value="AnVrph7lS1j9"/>
+    <cse:Attribute name="tmgads.pagetype" value="story"/>
+    <cse:Attribute name="tmgads.level" value="5"/>
+    <cse:Attribute name="tmgads.geo" value="US"/>
+    <cse:Attribute name="tmgads.keywords" value="Children,United Nations,Standard,LA Galaxy,UK News,News,David Beckham,David Cameron"/>
+    <cse:Attribute name="dcsext.channel" value="news"/>
+    <cse:Attribute name="dcsext.category" value="2017"/>
+    <cse:Attribute name="dcsext.genre" value="02"/>
+    <cse:Attribute name="dcsext.mlc" value="/news/2017/02/07"/>
+    <cse:Attribute name="dcsext.articleid" value="AnVrph7lS1j9"/>
+    <cse:Attribute name="dcsext.content_type" value="story"/>
+    <cse:Attribute name="dcsext.level" value="5"/>
+    <cse:Attribute name="dcsext.author" value="Telegraph Reporters"/>
+    <cse:Attribute name="dcsext.articlefirstpublished" value="2017-02-07 06:25"/>
+    <cse:Attribute name="dcsext.cf" value="1"/>
+    <cse:Attribute name="dcsext.cd" value="0"/>
+    <cse:Attribute name="dcsext.cn" value="0"/>
+    <cse:Attribute name="dcsext.pd" value="1"/>
+    <cse:Attribute name="og:title" value="David Beckham &apos;changed date of Unicef Downing Street visit for tax purposes&apos;"/>
+    <cse:Attribute name="og:description" value="David Beckham reportedly put off a visit to Downing Street as part of a Unicef delegation &amp;quot;for tax reasons&amp;quot;."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="The Telegraph"/>
+    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2017/02/07/david-beckham-changed-date-unicef-downing-street-visit-tax-purposes/"/>
+    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2017/02/04/beckham1-xlarge_trans_NvBQzQNjv4BqjZCqkh21MTy1LvXE-PcUNQgWqwm85JEWpGVhFb46TTg.jpg"/>
+    <cse:Attribute name="twitter:title" value="David Beckham &apos;changed date of Unicef Downing Street visit for tax purposes&apos;"/>
+    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2017/02/07/david-beckham-changed-date-unicef-downing-street-visit-tax-purposes/"/>
+    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2017/02/04/beckham1-xlarge_trans_NvBQzQNjv4BqjZCqkh21MTy1LvXE-PcUNQgWqwm85JEWpGVhFb46TTg.jpg"/>
+    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
+    <cse:Attribute name="twitter:description" value="David Beckham reportedly put off a visit to Downing Street as part of a Unicef delegation &amp;quot;for tax reasons&amp;quot;."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="tmgads.businesssegment" value="news"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=303301873"/>
+    <cse:Attribute name="tmg.premium.override" value="false"/>
+    <cse:Attribute name="tmg.premium.state" value="false"/>
+    <cse:Attribute name="premiumcontentonfirstpublish" value="false"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="David Beckham &apos;changed date of Unicef Downing Street visit for tax purposes&apos;"/>
+    <cse:Attribute name="name" value="David Beckham &apos;changed date of Unicef Downing Street visit for tax purposes&apos;"/>
+    <cse:Attribute name="datepublished" value="2017-02-07T06:25+0000"/>
+    <cse:Attribute name="articlebody" value="David Beckham reportedly put off a visit to Downing Street as part of a Unicef delegation &quot;for tax reasons&quot;. The former England football captain, who was living in the US at the time, was asked..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="David Beckham meets children in the Philippines as part of his Unicef work"/>
+    <cse:Attribute name="copyrightholder" value="Credit: PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Telegraph Reporters"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="David Beckham with his wife Victoria after receiving the OBE"/>
+    <cse:Attribute name="copyrightholder" value="Credit: PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="rating">
+    <cse:Attribute name="ratingvalue" value="3"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2017/02/04/beckham1-xlarge_trans_NvBQzQNjv4BqjZCqkh21MTy1LvXE-PcUNQgWqwm85JEWpGVhFb46TTg.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="177"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCmLs_KRO46gu66PIN8DWrW3YvniqN-YYq27EaPCzRBD0z01k89LI0uBe"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.businessinsider.com/r-daimler-vw-directors-meet-to-discuss-bernhard-diess-sources-2017-2</id>
-  <updated>1970-01-18T05:00:29.470Z</updated>
+  <updated>1970-01-18T05:01:49.818Z</updated>
   <title type="html">Daimler, VW directors meet to discuss Bernhard, Diess: sources ...</title>
   <link href="http://www.businessinsider.com/r-daimler-vw-directors-meet-to-discuss-bernhard-diess-sources-2017-2" title="www.businessinsider.com"/>
   <summary type="html">... discuss a potential contract extension for Wolfgang Bernhard, who currently &lt;br&gt;
@@ -501,77 +581,6 @@ heads up the company&amp;#39;s trucks division, &lt;b&gt;a source close to&lt;/b
     <cse:Attribute name="width" value="274"/>
     <cse:Attribute name="height" value="184"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJn7v8kmE_bgwZwBy1ojrvsTdNGynqwjkrb06Ozfj4Mzq5ZNa8g6h_6Kso"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.nydailynews.com/entertainment/gossip/confidential/floyd-mayweather-couldn-book-drake-big-gig-article-1.2963897</id>
-  <updated>1970-01-18T05:00:29.470Z</updated>
-  <title type="html">Floyd Mayweather couldn&amp;#39;t book Drake for a big gig in D.C. - NY ...</title>
-  <link href="http://www.nydailynews.com/entertainment/gossip/confidential/floyd-mayweather-couldn-book-drake-big-gig-article-1.2963897" title="www.nydailynews.com"/>
-  <summary type="html">“The theme was &amp;#39;Retro to Rap,&amp;#39;” says &lt;b&gt;a source close to&lt;/b&gt; the Moblze Foundation &lt;br&gt;
-shindig that was produced by billionaire Colt Ventures founder Darren Blanton.</summary>
-  <cse:formattedUrl type="html">www.nydailynews.com/.../floyd-mayweather-couldn-book-drake-big-gig- article-1.2963897</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="nydn_section" value="Confidential"/>
-    <cse:Attribute name="fb:app_id" value="107464888913"/>
-    <cse:Attribute name="fb:admins" value="1594068001"/>
-    <cse:Attribute name="fb:pages" value="268914272540"/>
-    <cse:Attribute name="og:site_name" value="NY Daily News"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/NYDailyNews/"/>
-    <cse:Attribute name="msvalidate.01" value="02916AAC0DA8B068EFE01D721E03ED7E"/>
-    <cse:Attribute name="p:domain_verify" value="78efe4f5c9935744af497772f68a0ee7"/>
-    <cse:Attribute name="viewport" value="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@nydailynews"/>
-    <cse:Attribute name="twitter:url" value="http://www.nydailynews.com/entertainment/gossip/confidential/floyd-mayweather-couldn-book-drake-big-gig-article-1.2963897"/>
-    <cse:Attribute name="twitter:title" value="Floyd Mayweather couldn&apos;t book Drake for a big gig in D.C."/>
-    <cse:Attribute name="twitter:description" value="The more things fall apart around Drake, the better he comes out looking."/>
-    <cse:Attribute name="sailthru.title" value="Floyd Mayweather couldn&apos;t book Drake for a big gig in D.C."/>
-    <cse:Attribute name="og:title" value="Floyd Mayweather couldn&apos;t book Drake for a big gig in D.C."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.nydailynews.com/entertainment/gossip/confidential/floyd-mayweather-couldn-book-drake-big-gig-article-1.2963897"/>
-    <cse:Attribute name="news_keywords" value="Drake, Floyd Mayweather, Kid Rock, inauguration, DC"/>
-    <cse:Attribute name="og:image" value="http://assets.nydailynews.com/polopoly_fs/1.2963896.1486163350!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/conflead5f-1-web.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://assets.nydailynews.com/polopoly_fs/1.2963896.1486163350!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/conflead5f-1-web.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://assets.nydailynews.com/polopoly_fs/1.2963896.1486163350!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/conflead5f-1-web.jpg"/>
-    <cse:Attribute name="og:description" value="The more things fall apart around Drake, the better he comes out looking."/>
-    <cse:Attribute name="sailthru.description" value="The more things fall apart around Drake, the better he comes out looking."/>
-    <cse:Attribute name="sailthru.date" value="2017-02-04T19:41:57-0500"/>
-    <cse:Attribute name="nydn_tags" value="floyd mayweather, drake, travis scott"/>
-    <cse:Attribute name="nydn_byline" value="Confidential"/>
-    <cse:Attribute name="sailthru.author" value="Confidential"/>
-    <cse:Attribute name="sailthru.credits" value="NEW YORK DAILY NEWS"/>
-    <cse:Attribute name="parsely-title" value="Floyd Mayweather couldn&apos;t book Drake for a big gig in D.C."/>
-    <cse:Attribute name="parsely-link" value="http://www.nydailynews.com/entertainment/gossip/confidential/floyd-mayweather-couldn-book-drake-big-gig-article-1.2963897"/>
-    <cse:Attribute name="parsely-type" value="article"/>
-    <cse:Attribute name="parsely-image-url" value="http://assets.nydailynews.com/polopoly_fs/1.2963896.1486163350!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/conflead5f-1-web.jpg"/>
-    <cse:Attribute name="parsely-pub-date" value="2017-02-05T00:41:57"/>
-    <cse:Attribute name="sailthru.tags" value="Entertainment,Confidential,floydmayweather,drake,travisscott"/>
-    <cse:Attribute name="parsely-section" value="Confidential"/>
-    <cse:Attribute name="parsely-author" value="Confidential"/>
-    <cse:Attribute name="parsely-tags" value="floyd mayweather, drake, travis scott"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Floyd Mayweather couldn&apos;t hook Drake for an inauguration weekend show"/>
-    <cse:Attribute name="articlebody" value="The more things fall apart around Drake, the better he comes out looking. While performing in London on Wednesday, the “Fake Love” singer literally saw the stage collapse around him and..."/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="description" value="Drake didn&apos;t perform in D.C. during the President&apos;s inauguration, and now he&apos;s taking Europe by storm."/>
-    <cse:Attribute name="copyrightholder" value="(Grant Lamos IV/Getty Images)"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="description" value="Floyd Mayweather Jr. was bummed that politics prevented Drake from showing up."/>
-    <cse:Attribute name="copyrightholder" value="(Christian Petersen/Getty Images)"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://assets.nydailynews.com/polopoly_fs/1.2963896.1486163350!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/conflead5f-1-web.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkxxVU6zyR3H8Vjso6nQyCcYEgMbsusi7Bxi2AMqmyKhSC3Qcp9Mxax6s"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
