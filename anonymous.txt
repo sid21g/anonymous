@@ -5,29 +5,30 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:01:49.818Z</updated>
+ <updated>1970-01-18T05:03:52.953Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="19600" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="19600" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>19600</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="19800" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="19800" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>19800</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.31704</cse:searchTime>
-  <cse:formattedSearchTime>0.32</cse:formattedSearchTime>
-  <cse:totalResults>19600</cse:totalResults>
-  <cse:formattedTotalResults>19,600</cse:formattedTotalResults>
+  <cse:searchTime>0.241852</cse:searchTime>
+  <cse:formattedSearchTime>0.24</cse:formattedSearchTime>
+  <cse:totalResults>19800</cse:totalResults>
+  <cse:formattedTotalResults>19,800</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T05:01:49.818Z</updated>
+  <updated>1970-01-18T05:03:52.953Z</updated>
   <title type="html">TechCrunch - The latest technology news and information on startups</title>
   <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">You know that Twitter is getting serious about live streaming when the company &lt;br&gt;
-starts signing deals for rugby matches just for French users. The company&amp;nbsp;...</summary>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; discussions confirmed to TechCrunch that talks are ongoing &lt;br&gt;
+and a deal could be announced as soon this week. Reuters first reported the deal&lt;br&gt;
+,&amp;nbsp;...</summary>
   <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
   <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
   <cse:PageMap>
@@ -45,20 +46,20 @@ starts signing deals for rugby matches just for French users. The company&amp;nb
     <cse:Attribute name="og:site" value="social.techcrunch.com"/>
     <cse:Attribute name="og:title" value="TechCrunch|2"/>
     <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/rugby.jpeg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/iphone-horizontal-image_ar.jpg?w=764&amp;h=400&amp;crop=1"/>
     <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
     <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="Romain Dillet"/>
-    <cse:Attribute name="id" value="1451310"/>
+    <cse:Attribute name="author" value="Ingrid Lunden"/>
+    <cse:Attribute name="id" value="1451614"/>
     <cse:Attribute name="title" value="TechCrunch|2"/>
     <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/10/twitter-to-live-stream-the-6-nations-rugby-tournament-in-france/"/>
-    <cse:Attribute name="timestamp" value="2017-02-10 10:33:05"/>
-    <cse:Attribute name="content" value="You know that Twitter is getting serious about live streaming when the company starts signing deals for rugby matches just for French users. The company announced that it would stream the next 4 matches involving the French team in the 6 nations tournament. And if you know absolutely nothing about rugby, the 6 nations tournament happens every year and is probably my favorite tournament to follow. The six main national rugby teams in Europe face each other nearly every weekend for a couple of months: England, France, Ireland, Italy, Scotland and Wales. Today’s Twitter deal means that you’ll be able to watch the four upcoming 6 nations matches involving the French team, starting with France vs. Scotland this Sunday at 3:50 PM French time. Just head over to 6nations.twitter.com. Behind the scene, Twitter partnered with France Télévisions, the French TV network that covers the tournament. Twitter bought the live streaming rights for those matches. Only Twitter users in France will…"/>
-    <cse:Attribute name="excerpt" value="You know that Twitter is getting serious about live streaming when the company starts signing deals for rugby matches just for French users. The company announced that it would stream the next 4 matches involving the French team in the 6 nations tournament. And if you know absolutely nothing about rugby, the 6 nations tournament happens every year and is probably my favorite tournament to follow."/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/rugby.jpeg?w=150"/>
-    <cse:Attribute name="category" value="Entertainment"/>
-    <cse:Attribute name="tag" value="Twitter"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/13/revel-co-founders-new-startup-aims-to-build-a-web-of-authentic-identities/"/>
+    <cse:Attribute name="timestamp" value="2017-02-13 05:00:29"/>
+    <cse:Attribute name="content" value="As people continue to think about how the rise of &quot;fake news&quot;, psychometric big data, and other developments in the tech world could have influenced big elections this year, a new startup called Authenticated Reality is launching today with a mission to help fix that with a focus on real-name identities and reputation management. The basic idea with Authenticated Reality (URL is &quot;areyoureal.com&quot;) is two-fold. At the front end, you will have a sidebar that appears to function like a Disqus- or Reddit-style commenting stream. This comes up with every piece of news or other content that you browse online, and there you can see what people are saying about those web pages. If something is being commented on, you can see the actual identity of the person making the criticism or the praise. The theory is that by pinning your comments to your actual name, you will be forced to be more authentic. (More on that below.) At the back end, there is an extensive authentication service that…"/>
+    <cse:Attribute name="excerpt" value="As people continue to think about how the rise of “fake news”, psychometric big data, and other developments in the tech world could have influenced big elections this year, a new startup called Authenticated Reality is launching today with a mission to help fix that with a focus on real-name identities and reputation management. The basic idea with Authenticated Reality (URL is…"/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/iphone-horizontal-image_ar.jpg?w=150"/>
+    <cse:Attribute name="category" value="TC"/>
+    <cse:Attribute name="tag" value="authenticated-reality"/>
     <cse:Attribute name="application-name" value="TechCrunch"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
@@ -66,65 +67,254 @@ starts signing deals for rugby matches just for French users. The company&amp;nb
     <cse:Attribute name="st:robots" value="follow, index"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/02/rugby.jpeg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/06/p1010786.jpg?w=208&amp;h=156&amp;crop=1&amp;quality=85&amp;strip=all"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="162"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDhXjLdHVVgdqv09-h3OyOIxdaMEPFr3uwVgNFv7f-gvoshrPk_U6yrs"/>
+    <cse:Attribute name="width" value="166"/>
+    <cse:Attribute name="height" value="124"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe3dA1XHWhw2cCT_L6yn2GddUWq9JLGvhnt6cg0RmUH2OcbWCpQAOOYA"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/amp/</id>
-  <updated>1970-01-18T05:01:49.818Z</updated>
-  <title type="html">Anthony Scaramucci tries to save job prospects with White House visit</title>
-  <link href="http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/amp/" title="nypost.com"/>
-  <summary type="html">“Getting in the building is the easy part, the hard part is staying there,” &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;close to&lt;/b&gt; Priebus told The Post. Priebus, the former chairman of the Republican&amp;nbsp;...</summary>
-  <cse:cacheId>PXZAXzVfEZkJ</cse:cacheId>
-  <cse:formattedUrl type="html">nypost.com/2017/02/08/anthony-scaramucci-tries-to.../amp/</cse:formattedUrl>
+  <id>http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis</id>
+  <updated>1970-01-18T05:03:52.953Z</updated>
+  <title type="html">How New Orleans Pelicans Front Office Failed Its All-Alone-Star ...</title>
+  <link href="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis" title="bleacherreport.com"/>
+  <summary type="html">According to &lt;b&gt;a source close to&lt;/b&gt; the situation who&amp;#39;s not authorized to speak on the &lt;br&gt;
+record, Loomis brought a win-now attitude with him from the Saints office.</summary>
+  <cse:cacheId>hI8XyEHOFCcJ</cse:cacheId>
+  <cse:formattedUrl type="html">bleacherreport.com/.../2692441-how-new-orleans-pelicans-front-office-failed -its-all-alone-star-anthony-davis</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:title" value="Anthony Scaramucci tries to save job prospects with White House visit"/>
-    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/"/>
-    <cse:Attribute name="og:description" value="Wall Street hedgie Anthony Scaramucci paid a visit to the White House on Wednesday in a last-ditch effort to keep alive the offer of a top job in the Trump administration, The Post has learned. The…"/>
-    <cse:Attribute name="article:published_time" value="2017-02-09T04:25:57+00:00"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-09T04:25:57+00:00"/>
-    <cse:Attribute name="og:site_name" value="New York Post"/>
-    <cse:Attribute name="og:image:width" value="1200"/>
-    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="aol-te-auth" value="1c424580-0f86-4d9b-88b2-bc8c0d029d4c"/>
+    <cse:Attribute name="blitz" value="mu-6e4ce5cd-57f20d11-7c0ecee9-d55c79e2"/>
+    <cse:Attribute name="msvalidate.01" value="7A63840181953B2A5A1FEA25FB45A991"/>
+    <cse:Attribute name="viewport" value="initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="fb:app_id" value="135174055162"/>
+    <cse:Attribute name="al:iphone:url" value="teamstream://article/bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="418075935"/>
+    <cse:Attribute name="al:iphone:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:ipad:url" value="teamstream://article/bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="484725748"/>
+    <cse:Attribute name="al:ipad:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
+    <cse:Attribute name="al:android:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:android:package" value="com.bleacherreport.android.teamstream"/>
+    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
+    <cse:Attribute name="og:site_name" value="Bleacher Report"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="twitter:site" value="@nypost"/>
-    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=80&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="p:domain_verify" value="0c768466449ebb550411234d6d4ffc30"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="418075935"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="484725748"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.bleacherreport.android.teamstream"/>
+    <cse:Attribute name="twitter:widgets:new-embed-design" value="on"/>
+    <cse:Attribute name="twitter:site" value="@bleacherreport"/>
+    <cse:Attribute name="article:publisher" value="http://www.facebook.com/bleacherreport"/>
+    <cse:Attribute name="author" value="Brian Boyles"/>
+    <cse:Attribute name="og:description" value="On Dec. 18, the night the  San Antonio Spurs  retired Tim Duncan&apos;s jersey, Alvin Gentry told his players they could stay for the postgame ceremony..."/>
+    <cse:Attribute name="og:image" value="http://img.bleacherreport.net/img/images/photos/003/658/765/hi-res-63950a06e4f60d6892d4d11eb482adfa_crop_north.jpg?1486782344&amp;w=9999&amp;h=9999"/>
+    <cse:Attribute name="og:title" value="How New Orleans Pelicans Front Office Failed Its All-Alone-Star Anthony Davis"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
+    <cse:Attribute name="pubdate" value="2017-02-13T07:00:04-05:00"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="teamstream://article/bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="teamstream://article/bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:creator" value="@joshkosman"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
-    <cse:Attribute name="twitter:title" value="Anthony Scaramucci tries to save job prospects with White House visit"/>
-    <cse:Attribute name="twitter:description" value="Wall Street hedgie Anthony Scaramucci paid a visit to the White House on Wednesday in a last-ditch effort to keep alive the offer of a top job in the Trump administration, The Post has learned. The"/>
-    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=80&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
-    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=80&amp;strip=all&amp;w=1200"/>
-    <cse:Attribute name="og:image:secure_url" value="https://i1.wp.com/thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=80&amp;strip=all&amp;ssl=1"/>
-    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10726660&quot;}"/>
+    <cse:Attribute name="twitter:description" value="On Dec. 18, the night the  San Antonio Spurs  retired Tim Duncan&apos;s jersey, Alvin Gentry told his players they could stay for the postgame ceremony..."/>
+    <cse:Attribute name="twitter:image" value="http://img.bleacherreport.net/img/images/photos/003/658/765/hi-res-63950a06e4f60d6892d4d11eb482adfa_crop_north.jpg?1486782344&amp;w=9999&amp;h=9999"/>
+    <cse:Attribute name="twitter:title" value="How New Orleans Pelicans Front Office Failed Its All-Alone-Star Anthony Davis"/>
+    <cse:Attribute name="twitter:url" value="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/images/photos/003/658/765/hi-res-63950a06e4f60d6892d4d11eb482adfa_crop_north.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Jonathan Bachman/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/172/3fc4d65f02e9ea7924a781423bb457fa_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Hannah Foslien/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/168/8635f3e7c7d9c9dc743697c88d06c818_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Layne Murdoch/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/635/240/107d5a08c069276a49bafd7bee2a8399_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Sean Gardner/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/166/727ebaa02fddc7f17b257ec8a07bc1aa_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Layne Murdoch Jr./Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/169/fe6e5f96c6a2259e8785475e0de2cdc9_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Layne Murdoch/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/635/239/b8d4b14a9c8ccce45a42a22d46075d1e_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Chuck Cook-USA TODAY Sports"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/170/0124b9bee8f84be68e38ac933a6111a8_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Stacy Revere/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=80&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="src" value="http://img.bleacherreport.net/img/images/photos/003/658/765/hi-res-63950a06e4f60d6892d4d11eb482adfa_crop_north.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqJQcsKcMr5Rhf880K114HuZitmWY8IEYOiAQ08QNwjqBLomZAXFy9whl5"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.politico.com/story/2017/02/kellyanne-conways-dangerous-game-234935</id>
+  <updated>1970-01-18T05:03:52.953Z</updated>
+  <title type="html">Kellyanne Conway&amp;#39;s dangerous game - POLITICO</title>
+  <link href="http://www.politico.com/story/2017/02/kellyanne-conways-dangerous-game-234935" title="www.politico.com"/>
+  <summary type="html">According to &lt;b&gt;a source close to&lt;/b&gt; Trump, the real estate magnate respects the aides &lt;br&gt;
+who he perceives don&amp;#39;t need him, like chief strategist Steve Bannon,&amp;nbsp;...</summary>
+  <cse:cacheId>ERj9IwhO-ZsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/.../kellyanne-conways-dangerous-game-234935</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Tara Palmeri"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/tara-palmeri"/>
+    <cse:Attribute name="url_text" value="Tara Palmeri"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Susan B. Glasser"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/susan-b-glasser"/>
+    <cse:Attribute name="url_text" value="Susan B. Glasser"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Natasha Korecki"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/korecki-natasha/"/>
+    <cse:Attribute name="url_text" value="Natasha Korecki"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Alex Guillén"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/alex-guillen"/>
+    <cse:Attribute name="url_text" value="Alex Guillén"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Marianne LeVine"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/marianne-levine"/>
+    <cse:Attribute name="url_text" value="Marianne LeVine"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Annie Karni"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/annie-karni"/>
+    <cse:Attribute name="url_text" value="Annie Karni"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Tara Palmeri"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/tara-palmeri"/>
+    <cse:Attribute name="url_text" value="Tara Palmeri"/>
+   </cse:DataObject>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="og:title" value="Kellyanne Conway’s dangerous game"/>
+    <cse:Attribute name="og:description" value="The president’s counselor is taking chances now in the hopes of a high-profile payoff down the line."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2lBMwcZ"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@politico"/>
+    <cse:Attribute name="twitter:creator" value="@politico"/>
+    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
+    <cse:Attribute name="og:site_name" value="POLITICO"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/a9/fa/cd8307554a088abbf397064021fc/170208-kellyanne-conway-gty-1-1160.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static.politico.com/a9/fa/cd8307554a088abbf397064021fc/170208-kellyanne-conway-gty-1-1160.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="305"/>
+    <cse:Attribute name="height" value="165"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ9KXPjNqGJTS3E8yNG7ZBrolHXzujCn-nfGJdWSNxM3Bwt-otebLRFFwT"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K</id>
+  <updated>1970-01-18T05:03:52.953Z</updated>
+  <title type="html">Italy&amp;#39;s foreign ministry came under cyber attack in 2016: source ...</title>
+  <link href="http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K" title="www.reuters.com"/>
+  <summary type="html">Italy&amp;#39;s foreign ministry was hacked last year, &lt;b&gt;a source close to&lt;/b&gt; the department &lt;br&gt;
+said on Friday, confirming a report in the Guardian newspaper which also said&amp;nbsp;...</summary>
+  <cse:cacheId>XmCqGWm6i5gJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-italy-cyber-idUSKBN15P25K</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;internetNews;everything;Davos;cybersecurity;newsproHome;audib2b;credit-rss;cfaglobal;aa48hours;shipping;Intel;PFG;LinkedInBusTech;CathayPacific_US;cyberRisk;cyber;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Italy%27s+foreign+ministry+came+under+cyber+attack+in+2016%3A+source"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Italy;Russia;United States;Mario Draghi;Paolo Gentiloni;US;ITALY;CYBER;Crime / Law / Justice;Computer Crime / Hacking / Cybercrime;Russia;Western Europe;Diplomacy / Foreign Policy;Italy;Crime;Government / Politics;Internet / World Wide Web;Europe;Science;International / National Security;Conflicts / War / Peace;United States"/>
+    <cse:Attribute name="revision_date" value="Fri Feb 10 16:56:27 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-10T16:56:27+0000"/>
+    <cse:Attribute name="sailthru.title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Italy&apos;s foreign ministry was hacked last year, a source close to the department said on Friday, confirming a report in the Guardian newspaper which also said Russia was suspected of perpetrating the attack."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-10T16:56:27+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-10T16:56:27+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Italy,Russia,United States,Mario Draghi,Paolo Gentiloni,US,ITALY,CYBER,Crime / Law / Justice,Computer Crime / Hacking / Cybercrime,Russia,Western Europe,Diplomacy / Foreign Policy,Italy,Crime,Government / Politics,Internet / World Wide Web,Europe,Science,International / National Security,Conflicts / War / Peace,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
+    <cse:Attribute name="twitter:description" value="Italy&apos;s foreign ministry was hacked last year, a source close to the department said on Friday, confirming a report in the Guardian newspaper which also said Russia was suspected of perpetrating the attack."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvJoOJ8DydNJ8gCt8V02C4m9UT0XFx9-oPj5lwzm8XATZViJOQgWFeAU"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T05:01:49.818Z</updated>
-  <title type="html">Steelers RB Le&amp;#39;Veon Bell facing 4-game ban for missed drug test</title>
+  <updated>1970-01-18T05:03:52.953Z</updated>
+  <title type="html">Sources: Steelers RB Bell facing 4-game ban</title>
   <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
   <summary type="html"/>
   <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2017/02/10/europe/france-terror-arrest/index.html</id>
-  <updated>1970-01-18T05:01:49.818Z</updated>
+  <updated>1970-01-18T05:03:52.953Z</updated>
   <title type="html">Foiled France terror plot appears ISIS-inspired, source says - CNN ...</title>
   <link href="http://www.cnn.com/2017/02/10/europe/france-terror-arrest/index.html" title="www.cnn.com"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the investigation told CNN that a 21-year-old man arrested in &lt;br&gt;
@@ -185,41 +375,41 @@ Clapiers is suspected of planning a suicide attack in France. French intelligenc
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://nypost.com/2017/02/05/inside-amazons-robot-run-supermarket-that-needs-just-3-human-workers/</id>
-  <updated>1970-01-18T05:01:49.818Z</updated>
-  <title type="html">Inside Amazon&amp;#39;s robot-run supermarket that needs just 3 human ...</title>
-  <link href="http://nypost.com/2017/02/05/inside-amazons-robot-run-supermarket-that-needs-just-3-human-workers/" title="nypost.com"/>
-  <summary type="html">“Amazon will utilize technology to minimize labor,” &lt;b&gt;a source close to&lt;/b&gt; the situation &lt;br&gt;
-told The Post. Job-cutting technology isn&amp;#39;t new for Amazon, which has&amp;nbsp;...</summary>
-  <cse:cacheId>Gh9xJqRHvmAJ</cse:cacheId>
-  <cse:formattedUrl type="html">nypost.com/.../inside-amazons-robot-run-supermarket-that-needs-just-3- human-workers/</cse:formattedUrl>
+  <id>http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/</id>
+  <updated>1970-01-18T05:03:52.953Z</updated>
+  <title type="html">Anthony Scaramucci tries to save job prospects with White House visit</title>
+  <link href="http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/" title="nypost.com"/>
+  <summary type="html">“Getting in the building is the easy part, the hard part is staying there,” &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;close to&lt;/b&gt; Priebus told The Post. Priebus, the former chairman of the Republican&amp;nbsp;...</summary>
+  <cse:cacheId>aTbjbLjeOjAJ</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/.../anthony-scaramucci-tries-to-save-job-prospects-with-white- house-visit/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
     <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:title" value="Inside Amazon’s robot-run supermarket that needs just 3 human workers"/>
-    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/05/inside-amazons-robot-run-supermarket-that-needs-just-3-human-workers/"/>
-    <cse:Attribute name="og:description" value="If you’re a robot stealing somebody’s job, it’s best to stay hidden. That’s what Amazon CEO Jeff Bezos appears to be thinking, as his Seattle-based web giant has contemplate…"/>
-    <cse:Attribute name="article:published_time" value="2017-02-06T04:07:00+00:00"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-06T15:17:25+00:00"/>
+    <cse:Attribute name="og:title" value="Anthony Scaramucci tries to save job prospects with White House visit"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/"/>
+    <cse:Attribute name="og:description" value="Wall Street hedgie Anthony Scaramucci paid a visit to the White House on Wednesday in a last-ditch effort to keep alive the offer of a top job in the Trump administration, The Post has learned. The…"/>
+    <cse:Attribute name="article:published_time" value="2017-02-09T04:25:57+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-09T04:25:57+00:00"/>
     <cse:Attribute name="og:site_name" value="New York Post"/>
     <cse:Attribute name="og:image:width" value="1200"/>
     <cse:Attribute name="og:image:height" value="800"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="twitter:site" value="@nypost"/>
-    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/170205-amazon-feature.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
     <cse:Attribute name="twitter:creator" value="@joshkosman"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
-    <cse:Attribute name="twitter:title" value="Inside Amazon&apos;s robot-run supermarket that needs just 3 human workers"/>
-    <cse:Attribute name="twitter:description" value="If you’re a robot stealing somebody’s job, it’s best to stay hidden. That’s what Amazon CEO Jeff Bezos appears to be thinking, as his Seattle-based web giant has contemplated a"/>
-    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/170205-amazon-feature.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
-    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/170205-amazon-feature.jpg?quality=90&amp;strip=all&amp;w=1200"/>
-    <cse:Attribute name="og:image:secure_url" value="https://i0.wp.com/thenypost.files.wordpress.com/2017/02/170205-amazon-feature.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="twitter:title" value="Anthony Scaramucci tries to save job prospects with White House visit"/>
+    <cse:Attribute name="twitter:description" value="Wall Street hedgie Anthony Scaramucci paid a visit to the White House on Wednesday in a last-ditch effort to keep alive the offer of a top job in the Trump administration, The Post has learned. The"/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i1.wp.com/thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
     <cse:Attribute name="nypost-section" value="Business"/>
-    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10718390&quot;}"/>
-    <cse:Attribute name="news_keywords" value="Business,amazon,amazon go,drones,jeff bezos,robots,shopping"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10726660&quot;}"/>
+    <cse:Attribute name="news_keywords" value="Business,anthony scaramucci,donald trump,hedge funds,reince priebus,skybridge capital,stephen schwarzman,wall street,white house"/>
     <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
     <cse:Attribute name="fb:pages" value="134486075205"/>
     <cse:Attribute name="application-name" value="New York Post"/>
@@ -228,18 +418,18 @@ told The Post. Job-cutting technology isn&amp;#39;t new for Amazon, which has&am
     <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2016/12/161229-amazon-flying-warehouse-02.jpg?quality=90&amp;strip=all&amp;w=300&amp;strip=all"/>
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-627325100.jpg?quality=90&amp;strip=all&amp;w=1200"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="240"/>
-    <cse:Attribute name="height" value="185"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6WW1hPnHzpvVoLW8mqHUGMc6qkSQR0sf2UGfj99rzjtggFeQ8f3UUICX_"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaNhA0JTk7s3A7QPkhLQe4nP-odpDubAQg6hXLlFoNo_gYWhNDaUiQS8za"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html</id>
-  <updated>1970-01-18T05:01:49.818Z</updated>
+  <updated>1970-01-18T05:03:52.953Z</updated>
   <title type="html">Missing China billionaire taken from Hong Kong hotel in wheelchair ...</title>
   <link href="http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html" title="www.dailymail.co.uk"/>
   <summary type="html">... whisked in a wheelchair from a luxury Hong Kong hotel in the early hours of &lt;br&gt;
@@ -313,117 +503,109 @@ Jan 27 with his head covered, &lt;b&gt;a source close to&lt;/b&gt; the businessm
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-china-hongkong-billionaire-idUSKBN15Q09Q</id>
-  <updated>1970-01-18T05:01:49.818Z</updated>
-  <title type="html">Missing China billionaire taken from Hong Kong hotel in wheelchair ...</title>
-  <link href="http://www.reuters.com/article/us-china-hongkong-billionaire-idUSKBN15Q09Q" title="www.reuters.com"/>
-  <summary type="html">... was whisked in a wheelchair from a luxury Hong Kong hotel in the early hours &lt;br&gt;
-of Jan 27 with his head covered, &lt;b&gt;a source close to&lt;/b&gt; the businessman told Reuters.</summary>
-  <cse:cacheId>L8Wp92vfNPAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-china-hongkong-billionaire-idUSKBN15Q09Q</cse:formattedUrl>
+  <id>http://bleacherreport.com/nba</id>
+  <updated>1970-01-18T05:03:52.953Z</updated>
+  <title type="html">NBA | Bleacher Report</title>
+  <link href="http://bleacherreport.com/nba" title="bleacherreport.com"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; AD&amp;#39;s agent has indicated the possibility of Davis and Russ &lt;br&gt;
+teaming up together in LA down the line https://t.co/Ud1tAjMF2O https://t.co/&amp;nbsp;...</summary>
+  <cse:cacheId>zqoihZJwCEsJ</cse:cacheId>
+  <cse:formattedUrl type="html">bleacherreport.com/nba</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="worldNews;newsMaps;china;SustainabilityGreen;SustainabilityCorporate;SustainabilitySocial;everything;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;asia;newsproHome;verizonmm;credit-rss;cfaglobal;aa48hours;shipping;nonegative;PorscheCayenne;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Missing+China+billionaire+taken+from+Hong+Kong+hotel+in+wheelchair%3A+source"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="3"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Venus Wu and Julie  Zhu"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
-    <cse:Attribute name="author" value="Venus Wu and Julie  Zhu"/>
-    <cse:Attribute name="news_keywords" value="Canada;China;Hong Kong;Lo Wai;chung;Xi Jinping;Xiao Jianhua;US;CHINA;HONGKONG;BILLIONAIRE;Crime / Law / Justice;Hong Kong;China (PRC);Media and Publishing (TRBC);Crime;Government / Politics;Video;Asia / Pacific;Major News;Corruption / Bribery / Embezzlement;Media / Publishing (Legacy);Conflicts / War / Peace;United States"/>
-    <cse:Attribute name="revision_date" value="Sat Feb 11 09:33:07 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Venus Wu and Julie  Zhu"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-11T09:33:07+0000"/>
-    <cse:Attribute name="sailthru.title" value="Missing China billionaire taken from Hong Kong hotel in wheelchair: source"/>
+    <cse:Attribute name="aol-te-auth" value="1c424580-0f86-4d9b-88b2-bc8c0d029d4c"/>
+    <cse:Attribute name="blitz" value="mu-6e4ce5cd-57f20d11-7c0ecee9-d55c79e2"/>
+    <cse:Attribute name="msvalidate.01" value="7A63840181953B2A5A1FEA25FB45A991"/>
+    <cse:Attribute name="viewport" value="initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="fb:app_id" value="135174055162"/>
+    <cse:Attribute name="al:iphone:url" value="teamstream://stream/nba?st=p"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="418075935"/>
+    <cse:Attribute name="al:iphone:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:ipad:url" value="teamstream://stream/nba?st=p"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="484725748"/>
+    <cse:Attribute name="al:ipad:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/nba"/>
+    <cse:Attribute name="al:android:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:android:package" value="com.bleacherreport.android.teamstream"/>
+    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/nba"/>
+    <cse:Attribute name="og:site_name" value="Bleacher Report"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Missing China billionaire taken from Hong Kong hotel in wheelchair: source"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-china-hongkong-billionaire-idUSKBN15Q09Q"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Missing China-born billionaire Xiao Jianhua was whisked in a wheelchair from a luxury Hong Kong hotel in the early hours of Jan 27 with his head covered, a source close to the businessman told Reuters."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170211&amp;t=2&amp;i=1172264782&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1A088"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-11T09:33:07+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-11T09:33:07+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
-    <cse:Attribute name="og:article:author" value="Venus Wu and Julie  Zhu"/>
-    <cse:Attribute name="og:article:tag" value="Canada,China,Hong Kong,Lo Wai,chung,Xi Jinping,Xiao Jianhua,US,CHINA,HONGKONG,BILLIONAIRE,Crime / Law / Justice,Hong Kong,China (PRC),Media and Publishing (TRBC),Crime,Government / Politics,Video,Asia / Pacific,Major News,Corruption / Bribery / Embezzlement,Media / Publishing (Legacy),Conflicts / War / Peace,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Missing China billionaire taken from Hong Kong hotel in wheelchair: source"/>
-    <cse:Attribute name="twitter:description" value="Missing China-born billionaire Xiao Jianhua was whisked in a wheelchair from a luxury Hong Kong hotel in the early hours of Jan 27 with his head covered, a source close to the businessman told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170211&amp;t=2&amp;i=1172264782&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1A088"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170211&amp;t=2&amp;i=1172264782&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1A088"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
+    <cse:Attribute name="p:domain_verify" value="0c768466449ebb550411234d6d4ffc30"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="418075935"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="484725748"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.bleacherreport.android.teamstream"/>
+    <cse:Attribute name="twitter:widgets:new-embed-design" value="on"/>
+    <cse:Attribute name="twitter:site" value="@bleacherreport"/>
+    <cse:Attribute name="og:description" value="Get the latest NBA news, photos, rankings, lists and more on Bleacher Report"/>
+    <cse:Attribute name="og:image" value="http://cdn.bleacherreport.net/images/team_logos/328x328/nba.png"/>
+    <cse:Attribute name="og:title" value="NBA"/>
+    <cse:Attribute name="og:type" value="website"/>
+    <cse:Attribute name="og:url" value="http://bleacherreport.com/nba"/>
+    <cse:Attribute name="twitter:card" value="app"/>
+    <cse:Attribute name="twitter:description" value="Get the latest NBA news, photos, rankings, lists and more on Bleacher Report"/>
+    <cse:Attribute name="twitter:image" value="http://cdn.bleacherreport.net/images/team_logos/328x328/nba.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+    <cse:Attribute name="src" value="http://cdn.bleacherreport.net/images/team_logos/328x328/nba.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="284"/>
-    <cse:Attribute name="height" value="178"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
+    <cse:Attribute name="width" value="225"/>
+    <cse:Attribute name="height" value="225"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfPig3T_pLKIdCCuANnNKE8569pcmIetPINbXtTw770zCbvfY9gmDvA58"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K</id>
-  <updated>1970-01-18T05:01:49.818Z</updated>
-  <title type="html">Italy&amp;#39;s foreign ministry came under cyber attack in 2016: source ...</title>
-  <link href="http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K" title="www.reuters.com"/>
-  <summary type="html">Italy&amp;#39;s foreign ministry was hacked last year, &lt;b&gt;a source close to&lt;/b&gt; the department &lt;br&gt;
-said on Friday, confirming a report in the Guardian newspaper which also said&amp;nbsp;...</summary>
-  <cse:cacheId>XmCqGWm6i5gJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-italy-cyber-idUSKBN15P25K</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-indonesia-grab-m-a-idUSKBN15S0VG</id>
+  <updated>1970-01-18T05:03:52.953Z</updated>
+  <title type="html">Uber rival Grab to buy Indonesian online payment startup for over ...</title>
+  <link href="http://www.reuters.com/article/us-indonesia-grab-m-a-idUSKBN15S0VG" title="www.reuters.com"/>
+  <summary type="html">Grab is likely to announce a deal to buy Indonesian online payment startup Kudo &lt;br&gt;
+for over $100 million, &lt;b&gt;a source close to&lt;/b&gt; the matter said, in a move that will help&amp;nbsp;...</summary>
+  <cse:cacheId>chXgb0_S20UJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-indonesia-grab-m-a-idUSKBN15S0VG</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;internetNews;everything;Davos;cybersecurity;newsproHome;audib2b;credit-rss;cfaglobal;aa48hours;shipping;Intel;PFG;LinkedInBusTech;CathayPacific_US;cyberRisk;cyber;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Italy%27s+foreign+ministry+came+under+cyber+attack+in+2016%3A+source"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;everything;Deals;AllianzInvestments;Hyundai;Allianz;asia;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;dassaultuk;MBenz;ubs;globalinnovations;Intel;PFG;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Uber+rival+Grab+to+buy+Indonesian+online+payment+startup+for+over+%24100+million%3A+source"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Eveline Danubrata"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Italy;Russia;United States;Mario Draghi;Paolo Gentiloni;US;ITALY;CYBER;Crime / Law / Justice;Computer Crime / Hacking / Cybercrime;Russia;Western Europe;Diplomacy / Foreign Policy;Italy;Crime;Government / Politics;Internet / World Wide Web;Europe;Science;International / National Security;Conflicts / War / Peace;United States"/>
-    <cse:Attribute name="revision_date" value="Fri Feb 10 16:56:27 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-10T16:56:27+0000"/>
-    <cse:Attribute name="sailthru.title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
+    <cse:Attribute name="author" value="Eveline Danubrata"/>
+    <cse:Attribute name="news_keywords" value="Indonesia;United States;Anthony Tan;US;INDONESIA;GRAB;M;A;Mergers / Acquisitions / Takeovers;Transportation : Ground (TRBC);Software (TRBC);Transportation (TRBC);Integrated Data Network;Asia / Pacific;Deals;Indonesia;Pictures;Passenger Transportation : Ground and Sea (TRBC);Company News;Financials (TRBC);Software and IT Services (TRBC);Financials (Legacy);Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Corporate Events;Technology (TRBC);Banking and Investment Services (TRBC);Internet / World Wide Web;Science;ASEAN Countries;Technology / Media / Telecoms;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Mon Feb 13 09:17:24 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Eveline Danubrata"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-13T09:17:24+0000"/>
+    <cse:Attribute name="sailthru.title" value="Uber rival Grab to buy Indonesian online payment startup for over $100 million: source"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K"/>
+    <cse:Attribute name="og:title" value="Uber rival Grab to buy Indonesian online payment startup for over $100 million: source"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-indonesia-grab-m-a-idUSKBN15S0VG"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Italy&apos;s foreign ministry was hacked last year, a source close to the department said on Friday, confirming a report in the Guardian newspaper which also said Russia was suspected of perpetrating the attack."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-10T16:56:27+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-10T16:56:27+0000"/>
+    <cse:Attribute name="og:description" value="Grab is likely to announce a deal to buy Indonesian online payment startup Kudo for over $100 million, a source close to the matter said, in a move that will help the Southeast Asian ride-hailing firm roll out its services to more customers."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170213&amp;t=2&amp;i=1172441844&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MB"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-13T09:17:24+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-13T09:17:24+0000"/>
     <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Italy,Russia,United States,Mario Draghi,Paolo Gentiloni,US,ITALY,CYBER,Crime / Law / Justice,Computer Crime / Hacking / Cybercrime,Russia,Western Europe,Diplomacy / Foreign Policy,Italy,Crime,Government / Politics,Internet / World Wide Web,Europe,Science,International / National Security,Conflicts / War / Peace,United States"/>
+    <cse:Attribute name="og:article:author" value="Eveline Danubrata"/>
+    <cse:Attribute name="og:article:tag" value="Indonesia,United States,Anthony Tan,US,INDONESIA,GRAB,M,A,Mergers / Acquisitions / Takeovers,Transportation : Ground (TRBC),Software (TRBC),Transportation (TRBC),Integrated Data Network,Asia / Pacific,Deals,Indonesia,Pictures,Passenger Transportation : Ground and Sea (TRBC),Company News,Financials (TRBC),Software and IT Services (TRBC),Financials (Legacy),Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Corporate Events,Technology (TRBC),Banking and Investment Services (TRBC),Internet / World Wide Web,Science,ASEAN Countries,Technology / Media / Telecoms,Emerging Market Countries"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
-    <cse:Attribute name="twitter:description" value="Italy&apos;s foreign ministry was hacked last year, a source close to the department said on Friday, confirming a report in the Guardian newspaper which also said Russia was suspected of perpetrating the attack."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
+    <cse:Attribute name="twitter:title" value="Uber rival Grab to buy Indonesian online payment startup for over $100 million: source"/>
+    <cse:Attribute name="twitter:description" value="Grab is likely to announce a deal to buy Indonesian online payment startup Kudo for over $100 million, a source close to the matter said, in a move that will help the Southeast Asian ride-hailing firm roll out its services to more customers."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170213&amp;t=2&amp;i=1172441844&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MB"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170213&amp;t=2&amp;i=1172441844&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MB"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
@@ -431,156 +613,12 @@ said on Friday, confirming a report in the Guardian newspaper which also said&am
     <cse:Attribute name="wt.cg_s" value="Technology"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.telegraph.co.uk/news/2017/02/07/david-beckham-changed-date-unicef-downing-street-visit-tax-purposes/</id>
-  <updated>1970-01-18T05:01:49.818Z</updated>
-  <title type="html">David Beckham &amp;#39;changed date of Unicef Downing Street visit for tax ...</title>
-  <link href="http://www.telegraph.co.uk/news/2017/02/07/david-beckham-changed-date-unicef-downing-street-visit-tax-purposes/" title="www.telegraph.co.uk"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Beckham told the newspaper: &amp;#39;David is now domiciled in the &lt;br&gt;
-UK for tax, but he wasn&amp;#39;t when he worked overseas. For periods of time, he was&amp;nbsp;...</summary>
-  <cse:cacheId>ZqyJoShfZ4EJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.telegraph.co.uk/.../david-beckham-changed-date-unicef-downing-street -visit-tax-purposes/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
-    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
-    <cse:Attribute name="tmgads.channel" value="news"/>
-    <cse:Attribute name="tmgads.section" value="news-2017"/>
-    <cse:Attribute name="tmgads.zone" value="news.2017.02.07"/>
-    <cse:Attribute name="tmgads.articleid" value="AnVrph7lS1j9"/>
-    <cse:Attribute name="tmgads.pagetype" value="story"/>
-    <cse:Attribute name="tmgads.level" value="5"/>
-    <cse:Attribute name="tmgads.geo" value="US"/>
-    <cse:Attribute name="tmgads.keywords" value="Children,United Nations,Standard,LA Galaxy,UK News,News,David Beckham,David Cameron"/>
-    <cse:Attribute name="dcsext.channel" value="news"/>
-    <cse:Attribute name="dcsext.category" value="2017"/>
-    <cse:Attribute name="dcsext.genre" value="02"/>
-    <cse:Attribute name="dcsext.mlc" value="/news/2017/02/07"/>
-    <cse:Attribute name="dcsext.articleid" value="AnVrph7lS1j9"/>
-    <cse:Attribute name="dcsext.content_type" value="story"/>
-    <cse:Attribute name="dcsext.level" value="5"/>
-    <cse:Attribute name="dcsext.author" value="Telegraph Reporters"/>
-    <cse:Attribute name="dcsext.articlefirstpublished" value="2017-02-07 06:25"/>
-    <cse:Attribute name="dcsext.cf" value="1"/>
-    <cse:Attribute name="dcsext.cd" value="0"/>
-    <cse:Attribute name="dcsext.cn" value="0"/>
-    <cse:Attribute name="dcsext.pd" value="1"/>
-    <cse:Attribute name="og:title" value="David Beckham &apos;changed date of Unicef Downing Street visit for tax purposes&apos;"/>
-    <cse:Attribute name="og:description" value="David Beckham reportedly put off a visit to Downing Street as part of a Unicef delegation &amp;quot;for tax reasons&amp;quot;."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="The Telegraph"/>
-    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2017/02/07/david-beckham-changed-date-unicef-downing-street-visit-tax-purposes/"/>
-    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2017/02/04/beckham1-xlarge_trans_NvBQzQNjv4BqjZCqkh21MTy1LvXE-PcUNQgWqwm85JEWpGVhFb46TTg.jpg"/>
-    <cse:Attribute name="twitter:title" value="David Beckham &apos;changed date of Unicef Downing Street visit for tax purposes&apos;"/>
-    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2017/02/07/david-beckham-changed-date-unicef-downing-street-visit-tax-purposes/"/>
-    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2017/02/04/beckham1-xlarge_trans_NvBQzQNjv4BqjZCqkh21MTy1LvXE-PcUNQgWqwm85JEWpGVhFb46TTg.jpg"/>
-    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
-    <cse:Attribute name="twitter:description" value="David Beckham reportedly put off a visit to Downing Street as part of a Unicef delegation &amp;quot;for tax reasons&amp;quot;."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="tmgads.businesssegment" value="news"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=303301873"/>
-    <cse:Attribute name="tmg.premium.override" value="false"/>
-    <cse:Attribute name="tmg.premium.state" value="false"/>
-    <cse:Attribute name="premiumcontentonfirstpublish" value="false"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="headline" value="David Beckham &apos;changed date of Unicef Downing Street visit for tax purposes&apos;"/>
-    <cse:Attribute name="name" value="David Beckham &apos;changed date of Unicef Downing Street visit for tax purposes&apos;"/>
-    <cse:Attribute name="datepublished" value="2017-02-07T06:25+0000"/>
-    <cse:Attribute name="articlebody" value="David Beckham reportedly put off a visit to Downing Street as part of a Unicef delegation &quot;for tax reasons&quot;. The former England football captain, who was living in the US at the time, was asked..."/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="caption" value="David Beckham meets children in the Philippines as part of his Unicef work"/>
-    <cse:Attribute name="copyrightholder" value="Credit: PA"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Telegraph Reporters"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="caption" value="David Beckham with his wife Victoria after receiving the OBE"/>
-    <cse:Attribute name="copyrightholder" value="Credit: PA"/>
-   </cse:DataObject>
-   <cse:DataObject type="rating">
-    <cse:Attribute name="ratingvalue" value="3"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2017/02/04/beckham1-xlarge_trans_NvBQzQNjv4BqjZCqkh21MTy1LvXE-PcUNQgWqwm85JEWpGVhFb46TTg.jpg"/>
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170213&amp;t=2&amp;i=1172441844&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MB"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="284"/>
-    <cse:Attribute name="height" value="177"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCmLs_KRO46gu66PIN8DWrW3YvniqN-YYq27EaPCzRBD0z01k89LI0uBe"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-daimler-vw-directors-meet-to-discuss-bernhard-diess-sources-2017-2</id>
-  <updated>1970-01-18T05:01:49.818Z</updated>
-  <title type="html">Daimler, VW directors meet to discuss Bernhard, Diess: sources ...</title>
-  <link href="http://www.businessinsider.com/r-daimler-vw-directors-meet-to-discuss-bernhard-diess-sources-2017-2" title="www.businessinsider.com"/>
-  <summary type="html">... discuss a potential contract extension for Wolfgang Bernhard, who currently &lt;br&gt;
-heads up the company&amp;#39;s trucks division, &lt;b&gt;a source close to&lt;/b&gt; the matter told Reuters.</summary>
-  <cse:cacheId>IdgYaZfEPJIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-daimler-vw-directors-meet-to-discuss-bernhard- diess-sources-2017-2</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-02-10"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-10"/>
-    <cse:Attribute name="news_keywords" value="Reuters"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters"/>
-    <cse:Attribute name="sailthru.description" value="FRANKFURT (Reuters) - Directors at Daimler  and..."/>
-    <cse:Attribute name="title" value="Daimler, VW directors meet to discuss Bernhard, Diess: sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business,clusterstock"/>
-    <cse:Attribute name="sailthru.title" value="Daimler, VW directors meet to discuss Bernhard, Diess: sources"/>
-    <cse:Attribute name="tbi-image" value="http://static3.businessinsider.com/image/589dc4135124c965389385e4/daimler-vw-directors-meet-to-discuss-bernhard-diess-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static3.businessinsider.com/image/589dc4135124c965389385e4/daimler-vw-directors-meet-to-discuss-bernhard-diess-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static6.businessinsider.com/image/589dc4135124c965389385e4-50-50/daimler-vw-directors-meet-to-discuss-bernhard-diess-sources.jpg"/>
-    <cse:Attribute name="og:title" value="Daimler, VW directors meet to discuss Bernhard, Diess: sources"/>
-    <cse:Attribute name="og:description" value="FRANKFURT (Reuters) - Directors at Daimler  and..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-daimler-vw-directors-meet-to-discuss-bernhard-diess-sources-2017-2"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-daimler-vw-directors-meet-to-discuss-bernhard-diess-sources-2017-2"/>
-    <cse:Attribute name="twitter:title" value="Daimler, VW directors meet to discuss Bernhard, Diess: sources"/>
-    <cse:Attribute name="twitter:description" value="FRANKFURT (Reuters) - Directors at Daimler  and..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static6.businessinsider.com/image/589dc4135124c965389385e4-506-253/daimler-vw-directors-meet-to-discuss-bernhard-diess-sources.jpg"/>
-    <cse:Attribute name="og:image" value="http://static1.businessinsider.com/image/589dc4135124c965389385e4-1190-625/daimler-vw-directors-meet-to-discuss-bernhard-diess-sources.jpg"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Daimler, VW directors meet to discuss Bernhard, Diess: sources"/>
-    <cse:Attribute name="url" value="Daimler, VW directors meet to discuss Bernhard, Diess: sources"/>
-    <cse:Attribute name="image" value="http://static6.businessinsider.com/image/589dc4135124c965389385e4-506-253/daimler-vw-directors-meet-to-discuss-bernhard-diess-sources.jpg"/>
-    <cse:Attribute name="description" value="FRANKFURT (Reuters) - Directors at Daimler and..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/589dc4135124c965389385e4-1190-625/daimler-vw-directors-meet-to-discuss-bernhard-diess-sources.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="274"/>
-    <cse:Attribute name="height" value="184"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJn7v8kmE_bgwZwBy1ojrvsTdNGynqwjkrb06Ozfj4Mzq5ZNa8g6h_6Kso"/>
+    <cse:Attribute name="width" value="280"/>
+    <cse:Attribute name="height" value="180"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8ITaAQPjszetNIV0Zpr0bRz9wvuR_VdLtvOULGzafLLS_H7ySznEMRw"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
