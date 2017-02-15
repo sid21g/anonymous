@@ -5,30 +5,79 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:03:52.953Z</updated>
+ <updated>1970-01-18T05:05:17.371Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="19800" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="19800" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>19800</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="27200" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="27200" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>27200</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.241852</cse:searchTime>
-  <cse:formattedSearchTime>0.24</cse:formattedSearchTime>
-  <cse:totalResults>19800</cse:totalResults>
-  <cse:formattedTotalResults>19,800</cse:formattedTotalResults>
+  <cse:searchTime>0.252643</cse:searchTime>
+  <cse:formattedSearchTime>0.25</cse:formattedSearchTime>
+  <cse:totalResults>27200</cse:totalResults>
+  <cse:formattedTotalResults>27,200</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
+  <id>http://www.chicagotribune.com/sports/breaking/ct-conor-mcgregor-floyd-mayweather-fight-20170214-story.html</id>
+  <updated>1970-01-18T05:05:17.371Z</updated>
+  <title type="html">Conor McGregor, Floyd Mayweather reportedly come to terms on a ...</title>
+  <link href="http://www.chicagotribune.com/sports/breaking/ct-conor-mcgregor-floyd-mayweather-fight-20170214-story.html" title="www.chicagotribune.com"/>
+  <summary type="html">The Irish Sun cited &lt;b&gt;a source close to&lt;/b&gt; McGregor who told the newspaper that the &lt;br&gt;
+UFC lightweight champion and Mayweather &amp;quot;have both settled on their&amp;nbsp;...</summary>
+  <cse:cacheId>NSiJtLI48noJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-conor-mcgregor-floyd-mayweather-fight- 20170214-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="Des Bieler"/>
+    <cse:Attribute name="date" value="2017-02-14"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 Washington Post"/>
+    <cse:Attribute name="news_keywords" value="Conor McGregor, Floyd Mayweather, Irish Sun, UFC, boxing"/>
+    <cse:Attribute name="fb_title" value="Conor McGregor, Floyd Mayweather reportedly come to terms on a mega-fight"/>
+    <cse:Attribute name="og:title" value="Conor McGregor, Floyd Mayweather reportedly come to terms on a mega-fight"/>
+    <cse:Attribute name="og:description" value="Over months of verbal sparring between Conor McGregor and Floyd Mayweather, it became increasingly apparent that a mega-fight between the two wasn&apos;t a mere vehicle for trash talk, but an event that might actually take place. Monday brought news that the two combat-sports superstars have, in fact, agreed to terms on a meeting in the ring."/>
+    <cse:Attribute name="fb:page_id" value="5953023255"/>
+    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/sports/breaking/ct-conor-mcgregor-floyd-mayweather-fight-20170214-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-58a31ca7/turbine/ct-conor-mcgregor-floyd-mayweather-fight-20170214"/>
+    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/92574767"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i18prod-4934743-0-68.1"/>
+    <cse:Attribute name="so:status" value="5,1"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="Sports"/>
+    <cse:Attribute name="headline" value="Conor McGregor, Floyd Mayweather reportedly come to terms on a mega-fight"/>
+    <cse:Attribute name="author" value="Des Bieler"/>
+    <cse:Attribute name="datepublished" value="2017-02-14T09:05:00CST"/>
+    <cse:Attribute name="articlebody" value="Over months of verbal sparring between Conor McGregor and Floyd Mayweather, it became increasingly apparent that a mega-fight between the two wasn&apos;t a mere vehicle for trash talk, but an event..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-58a31ca7/turbine/ct-conor-mcgregor-floyd-mayweather-fight-20170214"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="258"/>
+    <cse:Attribute name="height" value="195"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiaCvHM-SUEhVohD2b3K0rjpUy2dCyyQ60fSiX-UE2PIBmPmlZ7NlUyEl-"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T05:03:52.953Z</updated>
+  <updated>1970-01-18T05:05:17.371Z</updated>
   <title type="html">TechCrunch - The latest technology news and information on startups</title>
   <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; discussions confirmed to TechCrunch that talks are ongoing &lt;br&gt;
-and a deal could be announced as soon this week. Reuters first reported the deal&lt;br&gt;
-,&amp;nbsp;...</summary>
+  <summary type="html">Samanage, makers of customer service software in the cloud, had a couple of &lt;br&gt;
+major announcements today. For starters, they got a $20 million investment, and&lt;br&gt;
+&amp;nbsp;...</summary>
   <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
   <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
   <cse:PageMap>
@@ -46,20 +95,20 @@ and a deal could be announced as soon this week. Reuters first reported the deal
     <cse:Attribute name="og:site" value="social.techcrunch.com"/>
     <cse:Attribute name="og:title" value="TechCrunch|2"/>
     <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/iphone-horizontal-image_ar.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2016/09/htc-evo-3d.jpg?w=620&amp;h=386&amp;crop=1"/>
     <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
     <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="Ingrid Lunden"/>
-    <cse:Attribute name="id" value="1451614"/>
+    <cse:Attribute name="author" value="Natasha Lomas"/>
+    <cse:Attribute name="id" value="1452442"/>
     <cse:Attribute name="title" value="TechCrunch|2"/>
     <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/13/revel-co-founders-new-startup-aims-to-build-a-web-of-authentic-identities/"/>
-    <cse:Attribute name="timestamp" value="2017-02-13 05:00:29"/>
-    <cse:Attribute name="content" value="As people continue to think about how the rise of &quot;fake news&quot;, psychometric big data, and other developments in the tech world could have influenced big elections this year, a new startup called Authenticated Reality is launching today with a mission to help fix that with a focus on real-name identities and reputation management. The basic idea with Authenticated Reality (URL is &quot;areyoureal.com&quot;) is two-fold. At the front end, you will have a sidebar that appears to function like a Disqus- or Reddit-style commenting stream. This comes up with every piece of news or other content that you browse online, and there you can see what people are saying about those web pages. If something is being commented on, you can see the actual identity of the person making the criticism or the praise. The theory is that by pinning your comments to your actual name, you will be forced to be more authentic. (More on that below.) At the back end, there is an extensive authentication service that…"/>
-    <cse:Attribute name="excerpt" value="As people continue to think about how the rise of “fake news”, psychometric big data, and other developments in the tech world could have influenced big elections this year, a new startup called Authenticated Reality is launching today with a mission to help fix that with a focus on real-name identities and reputation management. The basic idea with Authenticated Reality (URL is…"/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/iphone-horizontal-image_ar.jpg?w=150"/>
-    <cse:Attribute name="category" value="TC"/>
-    <cse:Attribute name="tag" value="authenticated-reality"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/14/htc-has-another-tough-quarter-with-revenue-down-13-yoy-but-smaller-losses/"/>
+    <cse:Attribute name="timestamp" value="2017-02-14 05:15:58"/>
+    <cse:Attribute name="content" value="HTC&apos;s latest financials make for another fairly dismal read for the mobile device and VR headset maker, though -- crumbs of comfort -- it&apos;s making a slightly smaller year-over-year loss. Its operating loss for Q4 2016 was NT$3.6 billion ($116.8M) vs a loss of NT$4.1 billion ($133.1M) in Q4 2015. Revenue for Q4 2016 was also down at NT$22.2 billion ($720.7M), which is a year-over-year drop of around 13 per cent. Not great news, clearly, but less of a YOY revenue slide than in other recent quarters. However gross margin declined year over year too, dropping from 13.9 per cent in Q4 2015 to 10.5 per cent in Q4 2016. While HTC&apos;s year over year operating margin was almost the same, at -16.0 per cent for the quarter. In its report for Q4, HTC claims &quot;robust sales performance&quot; and notes sequential revenue &quot;improving sequentially over 2016&quot;, though revenue was actually flat between Q3 and Q4 -- at a point in the sales cycle when you might be expecting a holiday boost to earnings.…"/>
+    <cse:Attribute name="excerpt" value="HTC’s latest financials make for another fairly dismal read for the mobile device and VR headset maker, though — crumbs of comfort — it’s making a slightly smaller year-over-year loss."/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2016/09/htc-evo-3d.jpg?w=150"/>
+    <cse:Attribute name="category" value="Asia"/>
+    <cse:Attribute name="tag" value="smartphones"/>
     <cse:Attribute name="application-name" value="TechCrunch"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
@@ -67,18 +116,18 @@ and a deal could be announced as soon this week. Reuters first reported the deal
     <cse:Attribute name="st:robots" value="follow, index"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/06/p1010786.jpg?w=208&amp;h=156&amp;crop=1&amp;quality=85&amp;strip=all"/>
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/09/htc-evo-3d.jpg?w=620&amp;h=386&amp;crop=1"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="166"/>
-    <cse:Attribute name="height" value="124"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe3dA1XHWhw2cCT_L6yn2GddUWq9JLGvhnt6cg0RmUH2OcbWCpQAOOYA"/>
+    <cse:Attribute name="width" value="285"/>
+    <cse:Attribute name="height" value="177"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8hHT6ugcy3qn5r8TzIJuy61ufXUcQzIS4713M0tGEoEWha31hgC5iRAH"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis</id>
-  <updated>1970-01-18T05:03:52.953Z</updated>
+  <updated>1970-01-18T05:05:17.371Z</updated>
   <title type="html">How New Orleans Pelicans Front Office Failed Its All-Alone-Star ...</title>
   <link href="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis" title="bleacherreport.com"/>
   <summary type="html">According to &lt;b&gt;a source close to&lt;/b&gt; the situation who&amp;#39;s not authorized to speak on the &lt;br&gt;
@@ -135,46 +184,46 @@ record, Loomis brought a win-now attitude with him from the Saints office.</summ
     <cse:Attribute name="citation" value="Jonathan Bachman/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/172/3fc4d65f02e9ea7924a781423bb457fa_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/172/3fc4d65f02e9ea7924a781423bb457fa_crop_exact.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
     <cse:Attribute name="citation" value="Hannah Foslien/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/168/8635f3e7c7d9c9dc743697c88d06c818_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/168/8635f3e7c7d9c9dc743697c88d06c818_crop_exact.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
     <cse:Attribute name="citation" value="Layne Murdoch/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/635/240/107d5a08c069276a49bafd7bee2a8399_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/635/240/107d5a08c069276a49bafd7bee2a8399_crop_exact.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
     <cse:Attribute name="citation" value="Sean Gardner/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/166/727ebaa02fddc7f17b257ec8a07bc1aa_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/166/727ebaa02fddc7f17b257ec8a07bc1aa_crop_exact.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
     <cse:Attribute name="citation" value="Layne Murdoch Jr./Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/169/fe6e5f96c6a2259e8785475e0de2cdc9_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/169/fe6e5f96c6a2259e8785475e0de2cdc9_crop_exact.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
     <cse:Attribute name="citation" value="Layne Murdoch/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/635/239/b8d4b14a9c8ccce45a42a22d46075d1e_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/635/239/b8d4b14a9c8ccce45a42a22d46075d1e_crop_exact.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
     <cse:Attribute name="citation" value="Chuck Cook-USA TODAY Sports"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/170/0124b9bee8f84be68e38ac933a6111a8_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/170/0124b9bee8f84be68e38ac933a6111a8_crop_exact.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
     <cse:Attribute name="citation" value="Stacy Revere/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://img.bleacherreport.net/img/images/photos/003/658/765/hi-res-63950a06e4f60d6892d4d11eb482adfa_crop_north.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="src" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/172/3fc4d65f02e9ea7924a781423bb457fa_crop_exact.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqJQcsKcMr5Rhf880K114HuZitmWY8IEYOiAQ08QNwjqBLomZAXFy9whl5"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLa6djrQ7_rF1SC1LC2fB_4aE2J_QMxNa9lOa_ijs_-dVoIiROeBWiCk"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/story/2017/02/kellyanne-conways-dangerous-game-234935</id>
-  <updated>1970-01-18T05:03:52.953Z</updated>
+  <updated>1970-01-18T05:05:17.371Z</updated>
   <title type="html">Kellyanne Conway&amp;#39;s dangerous game - POLITICO</title>
   <link href="http://www.politico.com/story/2017/02/kellyanne-conways-dangerous-game-234935" title="www.politico.com"/>
   <summary type="html">According to &lt;b&gt;a source close to&lt;/b&gt; Trump, the real estate magnate respects the aides &lt;br&gt;
@@ -188,9 +237,14 @@ who he perceives don&amp;#39;t need him, like chief strategist Steve Bannon,&amp
     <cse:Attribute name="url_text" value="Tara Palmeri"/>
    </cse:DataObject>
    <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Susan B. Glasser"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/susan-b-glasser"/>
-    <cse:Attribute name="url_text" value="Susan B. Glasser"/>
+    <cse:Attribute name="fn" value="Jack Shafer"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jack-shafer"/>
+    <cse:Attribute name="url_text" value="Jack Shafer"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Blake Hounshell"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/blake-hounshell"/>
+    <cse:Attribute name="url_text" value="Blake Hounshell"/>
    </cse:DataObject>
    <cse:DataObject type="hcard">
     <cse:Attribute name="fn" value="Natasha Korecki"/>
@@ -241,87 +295,14 @@ who he perceives don&amp;#39;t need him, like chief strategist Steve Bannon,&amp
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K</id>
-  <updated>1970-01-18T05:03:52.953Z</updated>
-  <title type="html">Italy&amp;#39;s foreign ministry came under cyber attack in 2016: source ...</title>
-  <link href="http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K" title="www.reuters.com"/>
-  <summary type="html">Italy&amp;#39;s foreign ministry was hacked last year, &lt;b&gt;a source close to&lt;/b&gt; the department &lt;br&gt;
-said on Friday, confirming a report in the Guardian newspaper which also said&amp;nbsp;...</summary>
-  <cse:cacheId>XmCqGWm6i5gJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-italy-cyber-idUSKBN15P25K</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;internetNews;everything;Davos;cybersecurity;newsproHome;audib2b;credit-rss;cfaglobal;aa48hours;shipping;Intel;PFG;LinkedInBusTech;CathayPacific_US;cyberRisk;cyber;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Italy%27s+foreign+ministry+came+under+cyber+attack+in+2016%3A+source"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Italy;Russia;United States;Mario Draghi;Paolo Gentiloni;US;ITALY;CYBER;Crime / Law / Justice;Computer Crime / Hacking / Cybercrime;Russia;Western Europe;Diplomacy / Foreign Policy;Italy;Crime;Government / Politics;Internet / World Wide Web;Europe;Science;International / National Security;Conflicts / War / Peace;United States"/>
-    <cse:Attribute name="revision_date" value="Fri Feb 10 16:56:27 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-10T16:56:27+0000"/>
-    <cse:Attribute name="sailthru.title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-italy-cyber-idUSKBN15P25K"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Italy&apos;s foreign ministry was hacked last year, a source close to the department said on Friday, confirming a report in the Guardian newspaper which also said Russia was suspected of perpetrating the attack."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-10T16:56:27+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-10T16:56:27+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Italy,Russia,United States,Mario Draghi,Paolo Gentiloni,US,ITALY,CYBER,Crime / Law / Justice,Computer Crime / Hacking / Cybercrime,Russia,Western Europe,Diplomacy / Foreign Policy,Italy,Crime,Government / Politics,Internet / World Wide Web,Europe,Science,International / National Security,Conflicts / War / Peace,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Italy&apos;s foreign ministry came under cyber attack in 2016: source"/>
-    <cse:Attribute name="twitter:description" value="Italy&apos;s foreign ministry was hacked last year, a source close to the department said on Friday, confirming a report in the Guardian newspaper which also said Russia was suspected of perpetrating the attack."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170210&amp;t=2&amp;i=1172193033&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1913V"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvJoOJ8DydNJ8gCt8V02C4m9UT0XFx9-oPj5lwzm8XATZViJOQgWFeAU"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T05:03:52.953Z</updated>
-  <title type="html">Sources: Steelers RB Bell facing 4-game ban</title>
-  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
-  <summary type="html"/>
-  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/02/10/europe/france-terror-arrest/index.html</id>
-  <updated>1970-01-18T05:03:52.953Z</updated>
+  <id>http://www.cnn.com/2017/02/10/europe/france-terror-arrest/</id>
+  <updated>1970-01-18T05:05:17.371Z</updated>
   <title type="html">Foiled France terror plot appears ISIS-inspired, source says - CNN ...</title>
-  <link href="http://www.cnn.com/2017/02/10/europe/france-terror-arrest/index.html" title="www.cnn.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the investigation told CNN that a 21-year-old man arrested in &lt;br&gt;
-Clapiers is suspected of planning a suicide attack in France. French intelligence&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>W_p5P2oilbMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/02/10/europe/france-terror-arrest/index.html</cse:formattedUrl>
+  <link href="http://www.cnn.com/2017/02/10/europe/france-terror-arrest/" title="www.cnn.com"/>
+  <summary type="html">... used in the ISIS-directed Paris and Brussels attacks, and they appear to have &lt;br&gt;
+been inspired by the terrorist group, &lt;b&gt;a source close to&lt;/b&gt; the investigation told CNN.</summary>
+  <cse:cacheId>TeznLhwxB38J</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/02/10/europe/france-terror-arrest/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
@@ -375,8 +356,99 @@ Clapiers is suspected of planning a suicide attack in France. French intelligenc
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.latimes.com/entertainment/</id>
+  <updated>1970-01-18T05:05:17.371Z</updated>
+  <title type="html">Entertainment News - Los Angeles Times</title>
+  <link href="http://www.latimes.com/entertainment/" title="www.latimes.com"/>
+  <summary type="html">... on “The Bachelor,” has been tapped for the 13th season — which premieres on &lt;br&gt;
+May 22— of “The Bachelorette,” &lt;b&gt;a source close to&lt;/b&gt; the show told The Times.</summary>
+  <cse:cacheId>LFRpAVRu2rMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.latimes.com/entertainment/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i13prod-4934743-10-81.1"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/sectionfront/entertainment/"/>
+    <cse:Attribute name="fb:page_id" value="5863113009"/>
+    <cse:Attribute name="fb:admins" value="100000786395051"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-56fd643a/turbine/la-l-a-times-logo-20160331/600"/>
+    <cse:Attribute name="p:domain_verify" value="c5a826a91e9ecaaa414e2c708f25a0c6"/>
+    <cse:Attribute name="y_key" value="cee2fe4077f8d050"/>
+    <cse:Attribute name="msvalidate.01" value="AAC9C18F70AC386BC4DCF4DDF9BF1786"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-56fd643a/turbine/la-l-a-times-logo-20160331/600"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="160"/>
+    <cse:Attribute name="height" value="160"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAA6LFtP5Pzb0orrfvYO6QmmKk2aaWp69a4yZPCeolSoJ7LyfJ_CsP1upb"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
+  <updated>1970-01-18T05:05:17.371Z</updated>
+  <title type="html">Sources: Steelers RB Bell facing 4-game ban</title>
+  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
+  <summary type="html"/>
+  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.bbc.com/news/world/asia</id>
+  <updated>1970-01-18T05:05:17.371Z</updated>
+  <title type="html">Asia - BBC News</title>
+  <link href="http://www.bbc.com/news/world/asia" title="www.bbc.com"/>
+  <summary type="html">In a picture taken on June 4, 2010 Kim Jong-Nam, the eldest. &lt;b&gt;A source close to&lt;/b&gt; &lt;br&gt;
+the Malaysian PM&amp;#39;s office tells the BBC that Kim Jong-nam died in Kuala Lumpur.</summary>
+  <cse:cacheId>v7Youh2NNOUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.bbc.com/news/world/asia</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="x-country" value="us"/>
+    <cse:Attribute name="x-audience" value="US"/>
+    <cse:Attribute name="cps_audience" value="US"/>
+    <cse:Attribute name="cps_changequeueid" value="298231843"/>
+    <cse:Attribute name="og:title" value="Asia - BBC News"/>
+    <cse:Attribute name="og:type" value="website"/>
+    <cse:Attribute name="og:description" value="Get the latest Asian news from BBC News in Asia: breaking news, features, analysis and special reports plus audio and video from across the Asian continent."/>
+    <cse:Attribute name="og:site_name" value="BBC News"/>
+    <cse:Attribute name="og:locale" value="en_GB"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/bbcnews"/>
+    <cse:Attribute name="article:section" value="Asia"/>
+    <cse:Attribute name="og:url" value="http://www.bbc.com/news/world/asia"/>
+    <cse:Attribute name="og:image" value="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@BBCWorld"/>
+    <cse:Attribute name="twitter:title" value="Asia - BBC News"/>
+    <cse:Attribute name="twitter:description" value="Get the latest Asian news from BBC News in Asia: breaking news, features, analysis and special reports plus audio and video from across the Asian continent."/>
+    <cse:Attribute name="twitter:creator" value="@BBCWorld"/>
+    <cse:Attribute name="twitter:image:src" value="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1"/>
+    <cse:Attribute name="twitter:image:alt" value="BBC News"/>
+    <cse:Attribute name="twitter:domain" value="www.bbc.com"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="BBC News"/>
+    <cse:Attribute name="application-name" value="BBC News"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static.bbci.co.uk/news/1.175.01312/windows-eight-icon-144x144.png"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#bb1919"/>
+    <cse:Attribute name="mobile-web-app-capable" value="yes"/>
+    <cse:Attribute name="theme-color" value="#bb1919"/>
+    <cse:Attribute name="fb:app_id" value="1609039196070050"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
+    <cse:Attribute name="fb:admins" value="100004154058350"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTci4iZWnnJwADVgtU2-OKQapnOe9u0DRLuhVVolGKS6tSXatkpkInkcwvR"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/</id>
-  <updated>1970-01-18T05:03:52.953Z</updated>
+  <updated>1970-01-18T05:05:17.371Z</updated>
   <title type="html">Anthony Scaramucci tries to save job prospects with White House visit</title>
   <link href="http://nypost.com/2017/02/08/anthony-scaramucci-tries-to-save-job-prospects-with-white-house-visit/" title="nypost.com"/>
   <summary type="html">“Getting in the building is the easy part, the hard part is staying there,” &lt;b&gt;a source&lt;/b&gt; &lt;br&gt;
@@ -428,197 +500,45 @@ Clapiers is suspected of planning a suicide attack in France. French intelligenc
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html</id>
-  <updated>1970-01-18T05:03:52.953Z</updated>
-  <title type="html">Missing China billionaire taken from Hong Kong hotel in wheelchair ...</title>
-  <link href="http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html" title="www.dailymail.co.uk"/>
-  <summary type="html">... whisked in a wheelchair from a luxury Hong Kong hotel in the early hours of &lt;br&gt;
-Jan 27 with his head covered, &lt;b&gt;a source close to&lt;/b&gt; the businessman told Reuters.</summary>
-  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Missing-China-billionaire-taken-Hong-Kong-hotel- wheelchair-source.html</cse:formattedUrl>
+  <id>http://www.chicagotribune.com/sports/breaking/92577368-132.html</id>
+  <updated>1970-01-18T05:05:17.371Z</updated>
+  <title type="html">The drama behind the McGregor-Mayweather fight - Chicago Tribune</title>
+  <link href="http://www.chicagotribune.com/sports/breaking/92577368-132.html" title="www.chicagotribune.com"/>
+  <summary type="html">The Irish Sun cites &lt;b&gt;a source close to&lt;/b&gt; McGregor saying that the two fighters have &lt;br&gt;
+now “both settled on their respective fees.” (Feb. 14, 2017)</summary>
+  <cse:cacheId>x-tyY6Jo8FIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.chicagotribune.com/sports/breaking/92577368-132.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="news_keywords" value="Missing,China,billionaire,taken,Hong,Kong,hotel,wheelchair,source"/>
-    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html"/>
-    <cse:Attribute name="rating" value="General"/>
-    <cse:Attribute name="doc-class" value="Living Document"/>
-    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
-    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
-    <cse:Attribute name="twitter:account_id" value="15438913"/>
-    <cse:Attribute name="articleid" value="4214450"/>
-    <cse:Attribute name="divclasspage" value="articlePage"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Missing China billionaire taken from Hong Kong hotel in wheelchair ..."/>
-    <cse:Attribute name="twitter:description" value="By Venus Wu and Julie Zhu HONG KONG, Feb 11 (Reuters) - Missing China-born billionaire Xiao Jianhua was whisked in a wheelchair from a luxury Hong Kong hotel..."/>
-    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html"/>
-    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
-    <cse:Attribute name="article:published_time" value="2017-02-11T09:42:49+0000"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-11T09:42:52+0000"/>
-    <cse:Attribute name="article:section" value="Reuters"/>
-    <cse:Attribute name="article:tag" value="Missing China billionaire taken Hong Kong hotel wheelchair source"/>
-    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
-    <cse:Attribute name="fb:app_id" value="146202712090395"/>
-    <cse:Attribute name="og:site_name" value="Mail Online"/>
-    <cse:Attribute name="og:title" value="Missing China billionaire taken from Hong Kong hotel in wheelchair ..."/>
+    <cse:Attribute name="author" value="tronc video"/>
+    <cse:Attribute name="date" value="2017-02-14"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 tronc video"/>
+    <cse:Attribute name="og:title" value="The drama behind the McGregor-Mayweather fight"/>
+    <cse:Attribute name="og:description" value="The Irish Sun cites a source close to McGregor saying that the two fighters have now “both settled on their respective fees.” (Feb. 14, 2017)"/>
+    <cse:Attribute name="fb:page_id" value="5953023255"/>
+    <cse:Attribute name="fb:app_id" value="306836229411287"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="By Venus Wu and Julie Zhu HONG KONG, Feb 11 (Reuters) - Missing China-born billionaire Xiao Jianhua was whisked in a wheelchair from a luxury Hong Kong hotel..."/>
-    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4214450/index.html"/>
-    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="og:image:width" value="636"/>
-    <cse:Attribute name="og:image:height" value="382"/>
-    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Missing China billionaire taken from Hong Kong hotel in wheelchair -source"/>
-    <cse:Attribute name="datepublished" value="2017-02-11T09:42:49+0000"/>
-    <cse:Attribute name="datemodified" value="2017-02-11T09:42:52+0000"/>
-    <cse:Attribute name="articlebody" value="Missing China billionaire taken from Hong Kong hotel in wheelchair -source By Reuters Published: 04:42 EST, 11 February 2017 | Updated: 04:42 EST, 11 February 2017 e-mail By Venus Wu and Julie..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="By Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="height" value="382"/>
-    <cse:Attribute name="width" value="636"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="MailOnline"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
-    <cse:Attribute name="width" value="350"/>
-    <cse:Attribute name="height" value="66"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="290"/>
-    <cse:Attribute name="height" value="174"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://bleacherreport.com/nba</id>
-  <updated>1970-01-18T05:03:52.953Z</updated>
-  <title type="html">NBA | Bleacher Report</title>
-  <link href="http://bleacherreport.com/nba" title="bleacherreport.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; AD&amp;#39;s agent has indicated the possibility of Davis and Russ &lt;br&gt;
-teaming up together in LA down the line https://t.co/Ud1tAjMF2O https://t.co/&amp;nbsp;...</summary>
-  <cse:cacheId>zqoihZJwCEsJ</cse:cacheId>
-  <cse:formattedUrl type="html">bleacherreport.com/nba</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="aol-te-auth" value="1c424580-0f86-4d9b-88b2-bc8c0d029d4c"/>
-    <cse:Attribute name="blitz" value="mu-6e4ce5cd-57f20d11-7c0ecee9-d55c79e2"/>
-    <cse:Attribute name="msvalidate.01" value="7A63840181953B2A5A1FEA25FB45A991"/>
-    <cse:Attribute name="viewport" value="initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="fb:app_id" value="135174055162"/>
-    <cse:Attribute name="al:iphone:url" value="teamstream://stream/nba?st=p"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="418075935"/>
-    <cse:Attribute name="al:iphone:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:ipad:url" value="teamstream://stream/nba?st=p"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="484725748"/>
-    <cse:Attribute name="al:ipad:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/nba"/>
-    <cse:Attribute name="al:android:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:android:package" value="com.bleacherreport.android.teamstream"/>
-    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/nba"/>
-    <cse:Attribute name="og:site_name" value="Bleacher Report"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="p:domain_verify" value="0c768466449ebb550411234d6d4ffc30"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="418075935"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="484725748"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.bleacherreport.android.teamstream"/>
-    <cse:Attribute name="twitter:widgets:new-embed-design" value="on"/>
-    <cse:Attribute name="twitter:site" value="@bleacherreport"/>
-    <cse:Attribute name="og:description" value="Get the latest NBA news, photos, rankings, lists and more on Bleacher Report"/>
-    <cse:Attribute name="og:image" value="http://cdn.bleacherreport.net/images/team_logos/328x328/nba.png"/>
-    <cse:Attribute name="og:title" value="NBA"/>
-    <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="og:url" value="http://bleacherreport.com/nba"/>
-    <cse:Attribute name="twitter:card" value="app"/>
-    <cse:Attribute name="twitter:description" value="Get the latest NBA news, photos, rankings, lists and more on Bleacher Report"/>
-    <cse:Attribute name="twitter:image" value="http://cdn.bleacherreport.net/images/team_logos/328x328/nba.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://cdn.bleacherreport.net/images/team_logos/328x328/nba.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="225"/>
-    <cse:Attribute name="height" value="225"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfPig3T_pLKIdCCuANnNKE8569pcmIetPINbXtTw770zCbvfY9gmDvA58"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-indonesia-grab-m-a-idUSKBN15S0VG</id>
-  <updated>1970-01-18T05:03:52.953Z</updated>
-  <title type="html">Uber rival Grab to buy Indonesian online payment startup for over ...</title>
-  <link href="http://www.reuters.com/article/us-indonesia-grab-m-a-idUSKBN15S0VG" title="www.reuters.com"/>
-  <summary type="html">Grab is likely to announce a deal to buy Indonesian online payment startup Kudo &lt;br&gt;
-for over $100 million, &lt;b&gt;a source close to&lt;/b&gt; the matter said, in a move that will help&amp;nbsp;...</summary>
-  <cse:cacheId>chXgb0_S20UJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-indonesia-grab-m-a-idUSKBN15S0VG</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;everything;Deals;AllianzInvestments;Hyundai;Allianz;asia;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;dassaultuk;MBenz;ubs;globalinnovations;Intel;PFG;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Uber+rival+Grab+to+buy+Indonesian+online+payment+startup+for+over+%24100+million%3A+source"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Eveline Danubrata"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Eveline Danubrata"/>
-    <cse:Attribute name="news_keywords" value="Indonesia;United States;Anthony Tan;US;INDONESIA;GRAB;M;A;Mergers / Acquisitions / Takeovers;Transportation : Ground (TRBC);Software (TRBC);Transportation (TRBC);Integrated Data Network;Asia / Pacific;Deals;Indonesia;Pictures;Passenger Transportation : Ground and Sea (TRBC);Company News;Financials (TRBC);Software and IT Services (TRBC);Financials (Legacy);Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Corporate Events;Technology (TRBC);Banking and Investment Services (TRBC);Internet / World Wide Web;Science;ASEAN Countries;Technology / Media / Telecoms;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Mon Feb 13 09:17:24 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Eveline Danubrata"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-13T09:17:24+0000"/>
-    <cse:Attribute name="sailthru.title" value="Uber rival Grab to buy Indonesian online payment startup for over $100 million: source"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Uber rival Grab to buy Indonesian online payment startup for over $100 million: source"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-indonesia-grab-m-a-idUSKBN15S0VG"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Grab is likely to announce a deal to buy Indonesian online payment startup Kudo for over $100 million, a source close to the matter said, in a move that will help the Southeast Asian ride-hailing firm roll out its services to more customers."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170213&amp;t=2&amp;i=1172441844&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MB"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-13T09:17:24+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-13T09:17:24+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Eveline Danubrata"/>
-    <cse:Attribute name="og:article:tag" value="Indonesia,United States,Anthony Tan,US,INDONESIA,GRAB,M,A,Mergers / Acquisitions / Takeovers,Transportation : Ground (TRBC),Software (TRBC),Transportation (TRBC),Integrated Data Network,Asia / Pacific,Deals,Indonesia,Pictures,Passenger Transportation : Ground and Sea (TRBC),Company News,Financials (TRBC),Software and IT Services (TRBC),Financials (Legacy),Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Corporate Events,Technology (TRBC),Banking and Investment Services (TRBC),Internet / World Wide Web,Science,ASEAN Countries,Technology / Media / Telecoms,Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/sports/breaking/92577368-132.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-58a35d25/turbine/sns-the-drama-behind-the-mcgregor-ma-20170214"/>
+    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Uber rival Grab to buy Indonesian online payment startup for over $100 million: source"/>
-    <cse:Attribute name="twitter:description" value="Grab is likely to announce a deal to buy Indonesian online payment startup Kudo for over $100 million, a source close to the matter said, in a move that will help the Southeast Asian ride-hailing firm roll out its services to more customers."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170213&amp;t=2&amp;i=1172441844&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MB"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170213&amp;t=2&amp;i=1172441844&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MB"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
+    <cse:Attribute name="twitter:title" value="The drama behind the McGregor-Mayweather fight"/>
+    <cse:Attribute name="twitter:description" value="The Irish Sun cites a source close to McGregor saying that the two fighters have now “both settled on their respective fees.” (Feb. 14, 2017)"/>
+    <cse:Attribute name="twitter:url" value="http://www.chicagotribune.com/sports/breaking/92577368-132.html"/>
+    <cse:Attribute name="twitter:image:src" value="http://www.trbimg.com/img-58a35d25/turbine/sns-the-drama-behind-the-mcgregor-ma-20170214"/>
+    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/92577368"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i18prod-4934743-10-93.1"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170213&amp;t=2&amp;i=1172441844&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MB"/>
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-58a35d25/turbine/sns-the-drama-behind-the-mcgregor-ma-20170214"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="280"/>
-    <cse:Attribute name="height" value="180"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8ITaAQPjszetNIV0Zpr0bRz9wvuR_VdLtvOULGzafLLS_H7ySznEMRw"/>
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9CMPXbAnz9AYEFTLQp1uMF48JIhaQ6ekk0kLmAx09ooaULttJq73RF0iR"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
