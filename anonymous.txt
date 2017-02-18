@@ -1,1069 +1,608 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "a source close to"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="a source close to"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "sources familiar with"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:08:14.752Z</updated>
+ <updated>1970-01-18T05:10:20.056Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="21500" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="21500" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>21500</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="14500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="14500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>14500</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.492749</cse:searchTime>
-  <cse:formattedSearchTime>0.49</cse:formattedSearchTime>
-  <cse:totalResults>21500</cse:totalResults>
-  <cse:formattedTotalResults>21,500</cse:formattedTotalResults>
+  <cse:searchTime>0.265976</cse:searchTime>
+  <cse:formattedSearchTime>0.27</cse:formattedSearchTime>
+  <cse:totalResults>14500</cse:totalResults>
+  <cse:formattedTotalResults>14,500</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://nypost.com/2017/02/12/trumps-white-house-eyes-potential-foes-in-2020-election/</id>
-  <updated>1970-01-18T05:08:14.752Z</updated>
-  <title type="html">Trump&amp;#39;s White House eyes potential foes in 2020 election | New ...</title>
-  <link href="http://nypost.com/2017/02/12/trumps-white-house-eyes-potential-foes-in-2020-election/" title="nypost.com"/>
-  <summary type="html">The White House is already tracking which Democrats could challenge President &lt;br&gt;
-Trump in 2020 and Gov. Andrew Cuomo and Sen. Kirsten Gillibrand aren&amp;#39;t on&amp;nbsp;...</summary>
-  <cse:cacheId>yhUl5NWh_2wJ</cse:cacheId>
-  <cse:formattedUrl type="html">nypost.com/.../trumps-white-house-eyes-potential-foes-in-2020-election/</cse:formattedUrl>
+  <id>http://www.reuters.com/article/arabtec-moelis-idUSL8N1FX02G</id>
+  <updated>1970-01-18T05:10:20.056Z</updated>
+  <title type="html">Dubai&amp;#39;s troubled Arabtec working with boutique investment bank ...</title>
+  <link href="http://www.reuters.com/article/arabtec-moelis-idUSL8N1FX02G" title="www.reuters.com"/>
+  <summary type="html">... is working with boutique investment bankMoelis to study options for the &lt;br&gt;
+company&amp;#39;s capitalstructure, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters &lt;br&gt;
+onSunday.</summary>
+  <cse:cacheId>fo17JhkhrMIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/arabtec-moelis-idUSL8N1FX02G</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
-    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:title" value="Trump’s White House eyes potential foes in 2020 election"/>
-    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/12/trumps-white-house-eyes-potential-foes-in-2020-election/"/>
-    <cse:Attribute name="og:description" value="The White House is already tracking which Democrats could challenge President Trump in 2020 and Gov. Andrew Cuomo and Sen. Kirsten Gillibrand aren’t on the list, sources told The Post. Trump’s chie…"/>
-    <cse:Attribute name="article:published_time" value="2017-02-12T11:52:31+00:00"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-13T15:13:33+00:00"/>
-    <cse:Attribute name="og:site_name" value="New York Post"/>
-    <cse:Attribute name="og:image:width" value="1200"/>
-    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;marketsNews;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Dubai%27s+troubled+Arabtec+working+with+boutique+investment+bank+Moelis+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="ARABTEC;MOELIS/;Investment Banking and Investment Services (TRBC);Americas;United Arab Emirates;Company News;Financials (TRBC);Construction and Engineering (TRBC);Financials (Legacy);Corporate Events;Investment Banking and Brokerage Services (TRBC);Asia / Pacific;Banking and Investment Services (TRBC);Industrial Services (TRBC);Industrials (TRBC);Middle East;Emerging Market Countries;United States"/>
+    <cse:Attribute name="revision_date" value="Sun Feb 12 11:37:39 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-12T11:37:39+0000"/>
+    <cse:Attribute name="sailthru.title" value="Dubai&apos;s troubled Arabtec working with boutique investment bank Moelis -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="twitter:site" value="@nypost"/>
-    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/3-way-split.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:creator" value="@nypost"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
-    <cse:Attribute name="twitter:title" value="Trump&apos;s White House eyes potential foes in 2020 election"/>
-    <cse:Attribute name="twitter:description" value="The White House is already tracking which Democrats could challenge President Trump in 2020 and Gov. Andrew Cuomo and Sen. Kirsten Gillibrand aren’t on the list, sources told The Post. Trump’s"/>
-    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/3-way-split.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
-    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/3-way-split.jpg?quality=90&amp;strip=all&amp;w=1200"/>
-    <cse:Attribute name="og:image:secure_url" value="https://i0.wp.com/thenypost.files.wordpress.com/2017/02/3-way-split.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
-    <cse:Attribute name="nypost-section" value="News"/>
-    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10733851&quot;}"/>
-    <cse:Attribute name="news_keywords" value="News,andrew cuomo,bernie sanders,donald trump,elizabeth warren,kirsten gillibrand,mark cuban,presidential election"/>
-    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
-    <cse:Attribute name="fb:pages" value="134486075205"/>
-    <cse:Attribute name="application-name" value="New York Post"/>
-    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
-    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Dubai&apos;s troubled Arabtec working with boutique investment bank Moelis -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/arabtec-moelis-idUSL8N1FX02G"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Loss-making Dubai constructionfirm Arabtec is working with boutique investment bankMoelis to study options for the company&apos;s capitalstructure, sources familiar with the matter told Reuters onSunday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-12T11:37:39+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-12T11:37:39+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="ARABTEC,MOELIS/,Investment Banking and Investment Services (TRBC),Americas,United Arab Emirates,Company News,Financials (TRBC),Construction and Engineering (TRBC),Financials (Legacy),Corporate Events,Investment Banking and Brokerage Services (TRBC),Asia / Pacific,Banking and Investment Services (TRBC),Industrial Services (TRBC),Industrials (TRBC),Middle East,Emerging Market Countries,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Dubai&apos;s troubled Arabtec working with boutique investment bank Moelis -sources"/>
+    <cse:Attribute name="twitter:description" value="Loss-making Dubai constructionfirm Arabtec is working with boutique investment bankMoelis to study options for the company&apos;s capitalstructure, sources familiar with the matter told Reuters onSunday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/3-way-split.jpg?quality=90&amp;strip=all&amp;w=1200"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS900Pil6cTDRfoYzk2llTr1iNL26C-3s7ENlqmqjqHGuPLNlejZhuOMFGH"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T05:08:14.752Z</updated>
-  <title type="html">TechCrunch - The latest technology news and information on startups</title>
-  <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">Whether you agree or disagree with his policies, one thing is certain: making &lt;br&gt;
-someone&amp;#39;s Tweets look like they were written by a third-grader is really funny.</summary>
-  <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="p:domain_verify" value="6189ff68ce30e30f12b40b3b40873027"/>
-    <cse:Attribute name="handheldfriendly" value="True"/>
-    <cse:Attribute name="mobileoptimized" value="320"/>
-    <cse:Attribute name="viewport" value="initial-scale=1.0,width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="TechCrunch"/>
-    <cse:Attribute name="msvalidate.01" value="5ABD8A078F3356F3A6A8C8643C31FB8F"/>
-    <cse:Attribute name="fb:app_id" value="187288694643718"/>
-    <cse:Attribute name="fb:admins" value="543710097,771265067,1661021707,1550970059,663677613,1178144075,726995222,506404657,4700188"/>
-    <cse:Attribute name="wp-parsely_version" value="1.10.2"/>
-    <cse:Attribute name="og:site_name" value="TechCrunch"/>
-    <cse:Attribute name="og:site" value="social.techcrunch.com"/>
-    <cse:Attribute name="og:title" value="TechCrunch|2"/>
-    <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/bc47fe5a-bc2d-4527-9f16-0984d9e62761.jpg?w=764&amp;h=400&amp;crop=1"/>
-    <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
-    <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="John Biggs"/>
-    <cse:Attribute name="id" value="1453730"/>
-    <cse:Attribute name="title" value="TechCrunch|2"/>
-    <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/16/the-daily-shows-maketrumptweetseightagain-is-political-commentary-at-its-geekiest/"/>
-    <cse:Attribute name="timestamp" value="2017-02-16 08:10:42"/>
-    <cse:Attribute name="content" value="Whether you agree or disagree with his policies, one thing is certain: making someone&apos;s Tweets look like they were written by a third-grader is really funny. The folks at the Daily Show proved this with their Chrome/Firefox plugin MakeTrumpTweetsEightAgain. The extension is pretty simple: any Trump Tweet is automatically turned from a measured, well-crafted response to a pressing geopolitical issue into the scribblings of Walker, your 8-year-old nephew who is really into The Force Awakens. It works on Chrome and Firefox only - Safari users are SOL - and you can turn it off in case you need a dose of seriousness in your political discourse. This isn&apos;t the first political Chrome extension and I doubt it will be the last. Obama had his share and and there&apos;s even a whole-hog filter that removes the entire political spectrum from your browsing experience. Technology, it seems, is as good at filtering our experience as it is dumping a firehose of data down our gullets. In the end…"/>
-    <cse:Attribute name="excerpt" value="Whether you agree or disagree with his policies, one thing is certain: making someone’s Tweets look like they were written by a third-grader is really funny. The folks at the Daily Show proved this with their Chrome/Firefox plugin MakeTrumpTweetsEightAgain. The extension is pretty simple: any Trump Tweet is automatically turned from a measured, well-crafted response to a pressing…"/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/bc47fe5a-bc2d-4527-9f16-0984d9e62761.jpg?w=150"/>
-    <cse:Attribute name="category" value="Apps"/>
-    <cse:Attribute name="tag" value="Software"/>
-    <cse:Attribute name="application-name" value="TechCrunch"/>
-    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
-    <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=https://techcrunch.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=16"/>
-    <cse:Attribute name="st:robots" value="follow, index"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/02/bc47fe5a-bc2d-4527-9f16-0984d9e62761.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="162"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaH3VeRUKkvEgmoT2tMjID0gyQwAip_B37Bv5M5ss3LERfAbtG1ocJa8vK"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis</id>
-  <updated>1970-01-18T05:08:14.752Z</updated>
-  <title type="html">How New Orleans Pelicans Front Office Failed Its All-Alone-Star ...</title>
-  <link href="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis" title="bleacherreport.com"/>
-  <summary type="html">According to &lt;b&gt;a source close to&lt;/b&gt; the situation who&amp;#39;s not authorized to speak on the &lt;br&gt;
-record, Loomis brought a win-now attitude with him from the Saints office.</summary>
-  <cse:cacheId>hI8XyEHOFCcJ</cse:cacheId>
-  <cse:formattedUrl type="html">bleacherreport.com/.../2692441-how-new-orleans-pelicans-front-office-failed -its-all-alone-star-anthony-davis</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-gm-autonomous-exclusive-idUSKBN15W283</id>
+  <updated>1970-01-18T05:10:20.056Z</updated>
+  <title type="html">Exclusive: GM plans to build, test thousands of self-driving Bolts in ...</title>
+  <link href="http://www.reuters.com/article/us-gm-autonomous-exclusive-idUSKBN15W283" title="www.reuters.com"/>
+  <summary type="html">... thousands of self-driving electric cars in test fleets in partnership with ride-&lt;br&gt;
+sharing affiliate Lyft Inc, beginning in 2018, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+automaker&amp;#39;s&amp;nbsp;...</summary>
+  <cse:cacheId>QdafE-jo79EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-gm-autonomous-exclusive-idUSKBN15W283</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="aol-te-auth" value="1c424580-0f86-4d9b-88b2-bc8c0d029d4c"/>
-    <cse:Attribute name="blitz" value="mu-6e4ce5cd-57f20d11-7c0ecee9-d55c79e2"/>
-    <cse:Attribute name="msvalidate.01" value="7A63840181953B2A5A1FEA25FB45A991"/>
-    <cse:Attribute name="viewport" value="initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="fb:app_id" value="135174055162"/>
-    <cse:Attribute name="al:iphone:url" value="teamstream://article/bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="418075935"/>
-    <cse:Attribute name="al:iphone:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:ipad:url" value="teamstream://article/bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="484725748"/>
-    <cse:Attribute name="al:ipad:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
-    <cse:Attribute name="al:android:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:android:package" value="com.bleacherreport.android.teamstream"/>
-    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
-    <cse:Attribute name="og:site_name" value="Bleacher Report"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;technologyNews;ousivMolt;vbcSmallBusiness;Auto;corporateResponsibility;innovationAMD;SustainabilityGreen;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;autos;Allianz;newsproHome;verizonmm;audib2b;marine;davosBackup;cfaglobal;aa48hours;nonegative;MBenz;ubs;globalinnovations;Intel;intelmicrosite;PFG;huawei;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+GM+plans+to+build%2C+test+thousands+of+self-driving+Bolts+in+2018+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Paul Lienert"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Paul Lienert"/>
+    <cse:Attribute name="news_keywords" value="United States;Daniel Ammann;John Zimmer;Logan Green;Mary T. Barra;Mike Ableson;US;GM;AUTONOMOUS;EXCLUSIVE;Automobiles / Auto Parts (Legacy);Company News;Auto and Truck Manufacturers (TRBC);Exclusive;Picture available;Transportation (TRBC);Corporate Events;Automobiles and Auto Parts (TRBC);Technology (TRBC);Major News;Science;Pictures;United States;IT Services and Consulting (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Fri Feb 17 20:02:21 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Paul Lienert"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-17T20:02:21+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: GM plans to build, test thousands of self-driving Bolts in 2018 - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="p:domain_verify" value="0c768466449ebb550411234d6d4ffc30"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="418075935"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="484725748"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.bleacherreport.android.teamstream"/>
-    <cse:Attribute name="twitter:widgets:new-embed-design" value="on"/>
-    <cse:Attribute name="twitter:site" value="@bleacherreport"/>
-    <cse:Attribute name="article:publisher" value="http://www.facebook.com/bleacherreport"/>
-    <cse:Attribute name="author" value="Brian Boyles"/>
-    <cse:Attribute name="og:description" value="On Dec. 18, the night the  San Antonio Spurs  retired Tim Duncan&apos;s jersey, Alvin Gentry told his players they could stay for the postgame ceremony..."/>
-    <cse:Attribute name="og:image" value="http://img.bleacherreport.net/img/images/photos/003/658/765/hi-res-63950a06e4f60d6892d4d11eb482adfa_crop_north.jpg?1486782344&amp;w=9999&amp;h=9999"/>
-    <cse:Attribute name="og:title" value="How New Orleans Pelicans Front Office Failed Its All-Alone-Star Anthony Davis"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: GM plans to build, test thousands of self-driving Bolts in 2018 - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-gm-autonomous-exclusive-idUSKBN15W283"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
-    <cse:Attribute name="pubdate" value="2017-02-13T07:00:04-05:00"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="teamstream://article/bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="teamstream://article/bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
+    <cse:Attribute name="og:description" value="General Motors Co plans to deploy thousands of self-driving electric cars in test fleets in partnership with ride-sharing affiliate Lyft Inc, beginning in 2018, two sources familiar with the automaker’s plans said this week."/>
+    <cse:Attribute name="og:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173125959&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G191"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-17T20:02:21+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-17T20:02:21+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Paul Lienert"/>
+    <cse:Attribute name="og:article:tag" value="United States,Daniel Ammann,John Zimmer,Logan Green,Mary T. Barra,Mike Ableson,US,GM,AUTONOMOUS,EXCLUSIVE,Automobiles / Auto Parts (Legacy),Company News,Auto and Truck Manufacturers (TRBC),Exclusive,Picture available,Transportation (TRBC),Corporate Events,Automobiles and Auto Parts (TRBC),Technology (TRBC),Major News,Science,Pictures,United States,IT Services and Consulting (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="On Dec. 18, the night the  San Antonio Spurs  retired Tim Duncan&apos;s jersey, Alvin Gentry told his players they could stay for the postgame ceremony..."/>
-    <cse:Attribute name="twitter:image" value="http://img.bleacherreport.net/img/images/photos/003/658/765/hi-res-63950a06e4f60d6892d4d11eb482adfa_crop_north.jpg?1486782344&amp;w=9999&amp;h=9999"/>
-    <cse:Attribute name="twitter:title" value="How New Orleans Pelicans Front Office Failed Its All-Alone-Star Anthony Davis"/>
-    <cse:Attribute name="twitter:url" value="http://bleacherreport.com/articles/2692441-how-new-orleans-pelicans-front-office-failed-its-all-alone-star-anthony-davis"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/images/photos/003/658/765/hi-res-63950a06e4f60d6892d4d11eb482adfa_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Jonathan Bachman/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/172/3fc4d65f02e9ea7924a781423bb457fa_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Hannah Foslien/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/168/8635f3e7c7d9c9dc743697c88d06c818_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Layne Murdoch/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/635/240/107d5a08c069276a49bafd7bee2a8399_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Sean Gardner/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/166/727ebaa02fddc7f17b257ec8a07bc1aa_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Layne Murdoch Jr./Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/169/fe6e5f96c6a2259e8785475e0de2cdc9_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Layne Murdoch/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/635/239/b8d4b14a9c8ccce45a42a22d46075d1e_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Chuck Cook-USA TODAY Sports"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/636/170/0124b9bee8f84be68e38ac933a6111a8_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Stacy Revere/Getty Images"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: GM plans to build, test thousands of self-driving Bolts in 2018 - sources"/>
+    <cse:Attribute name="twitter:description" value="General Motors Co plans to deploy thousands of self-driving electric cars in test fleets in partnership with ride-sharing affiliate Lyft Inc, beginning in 2018, two sources familiar with the automaker’s plans said this week."/>
+    <cse:Attribute name="twitter:image:src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173125959&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G191"/>
+    <cse:Attribute name="twitter:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173125959&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G191"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img.bleacherreport.net/img/images/photos/003/658/765/hi-res-63950a06e4f60d6892d4d11eb482adfa_crop_exact.jpg?h=316&amp;w=612&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173125959&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G191"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="313"/>
-    <cse:Attribute name="height" value="161"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQL-VlSqC307NQt3GfUb3TtFEu_cSKiqPQEGq4--LFO3zJ1DJ-BCbSa0o8"/>
+    <cse:Attribute name="width" value="287"/>
+    <cse:Attribute name="height" value="175"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHhdZxg7vCLXuTiwfMrhitOg9R5i9AqvQSD1TYcB3UV0waW_X_EYfsV-TD"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.chicagotribune.com/sports/breaking/ct-conor-mcgregor-floyd-mayweather-fight-20170214-story.html</id>
-  <updated>1970-01-18T05:08:14.752Z</updated>
-  <title type="html">Conor McGregor, Floyd Mayweather reportedly come to terms on a ...</title>
-  <link href="http://www.chicagotribune.com/sports/breaking/ct-conor-mcgregor-floyd-mayweather-fight-20170214-story.html" title="www.chicagotribune.com"/>
-  <summary type="html">The Irish Sun cites &lt;b&gt;a source close to&lt;/b&gt; McGregor saying that the two fighters have &lt;br&gt;
-now “both settled on their respective fees.” (Feb. 14, 2017). Des BielerThe&amp;nbsp;...</summary>
-  <cse:cacheId>NSiJtLI48noJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-conor-mcgregor-floyd-mayweather-fight- 20170214-story.html</cse:formattedUrl>
+  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
+  <updated>1970-01-18T05:10:20.056Z</updated>
+  <title type="html">Davide Barbuscia</title>
+  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
+  <summary type="html">... quarter, though it has not yet sent to banks any official requests for proposals to &lt;br&gt;
+arrange the issue, banking &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Thursday.</summary>
+  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="Des Bieler"/>
-    <cse:Attribute name="date" value="2017-02-14"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 Washington Post"/>
-    <cse:Attribute name="news_keywords" value="Conor McGregor, Floyd Mayweather, Irish Sun, UFC, boxing"/>
-    <cse:Attribute name="fb_title" value="Conor McGregor, Floyd Mayweather reportedly come to terms on a mega-fight"/>
-    <cse:Attribute name="og:title" value="Conor McGregor, Floyd Mayweather reportedly come to terms on a mega-fight"/>
-    <cse:Attribute name="og:description" value="Over months of verbal sparring between Conor McGregor and Floyd Mayweather, it became increasingly apparent that a mega-fight between the two wasn&apos;t a mere vehicle for trash talk, but an event that might actually take place. Monday brought news that the two combat-sports superstars have, in fact, agreed to terms on a meeting in the ring."/>
-    <cse:Attribute name="fb:page_id" value="5953023255"/>
-    <cse:Attribute name="fb:app_id" value="306836229411287"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/sports/breaking/ct-conor-mcgregor-floyd-mayweather-fight-20170214-story.html"/>
-    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-58a31ca7/turbine/ct-conor-mcgregor-floyd-mayweather-fight-20170214"/>
-    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
-    <cse:Attribute name="googlebot-news" value="index"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/92574767"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i18prod-4934743-10-93.1"/>
-    <cse:Attribute name="so:status" value="5,1"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="articlesection" value="Sports"/>
-    <cse:Attribute name="headline" value="Conor McGregor, Floyd Mayweather reportedly come to terms on a mega-fight"/>
-    <cse:Attribute name="video" value="Play VideoPlayMuteCurrent Time 0:00/Duration Time 0:00Loaded: 0%0:00Progress: 0%0:00 Progress: 0%Stream TypeLIVERemaining Time -0:00 SharePlayback Rate1ChaptersChaptersdescriptions off, selectedDes..."/>
-    <cse:Attribute name="author" value="Des Bieler"/>
-    <cse:Attribute name="datepublished" value="2017-02-14T09:05:00CST"/>
-    <cse:Attribute name="articlebody" value="Over months of verbal sparring between Conor McGregor and Floyd Mayweather, it became increasingly apparent that a mega-fight between the two wasn&apos;t a mere vehicle for trash talk, but an event..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.trbimg.com/img-58a31ca7/turbine/ct-conor-mcgregor-floyd-mayweather-fight-20170214"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="258"/>
-    <cse:Attribute name="height" value="195"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiaCvHM-SUEhVohD2b3K0rjpUy2dCyyQ60fSiX-UE2PIBmPmlZ7NlUyEl-"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.politico.com/story/2017/02/kellyanne-conways-dangerous-game-234935</id>
-  <updated>1970-01-18T05:08:14.752Z</updated>
-  <title type="html">Kellyanne Conway&amp;#39;s dangerous game - POLITICO</title>
-  <link href="http://www.politico.com/story/2017/02/kellyanne-conways-dangerous-game-234935" title="www.politico.com"/>
-  <summary type="html">According to &lt;b&gt;a source close to&lt;/b&gt; Trump, the real estate magnate respects the aides &lt;br&gt;
-who he perceives don&amp;#39;t need him, like chief strategist Steve Bannon,&amp;nbsp;...</summary>
-  <cse:cacheId>ERj9IwhO-ZsJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.politico.com/.../kellyanne-conways-dangerous-game-234935</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Tara Palmeri"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/tara-palmeri"/>
-    <cse:Attribute name="url_text" value="Tara Palmeri"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Jack Shafer"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/jack-shafer"/>
-    <cse:Attribute name="url_text" value="Jack Shafer"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Natasha Korecki"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/korecki-natasha/"/>
-    <cse:Attribute name="url_text" value="Natasha Korecki"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Alex Guillén"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/alex-guillen"/>
-    <cse:Attribute name="url_text" value="Alex Guillén"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Marianne LeVine"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/marianne-levine"/>
-    <cse:Attribute name="url_text" value="Marianne LeVine"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Annie Karni"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/annie-karni"/>
-    <cse:Attribute name="url_text" value="Annie Karni"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Tara Palmeri"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/tara-palmeri"/>
-    <cse:Attribute name="url_text" value="Tara Palmeri"/>
-   </cse:DataObject>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="og:title" value="Kellyanne Conway’s dangerous game"/>
-    <cse:Attribute name="og:description" value="The president’s counselor is taking chances now in the hopes of a high-profile payoff down the line."/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://politi.co/2lBMwcZ"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@politico"/>
-    <cse:Attribute name="twitter:creator" value="@politico"/>
-    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
-    <cse:Attribute name="og:site_name" value="POLITICO"/>
-    <cse:Attribute name="og:image" value="http://static.politico.com/a9/fa/cd8307554a088abbf397064021fc/170208-kellyanne-conway-gty-1-1160.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static.politico.com/a9/fa/cd8307554a088abbf397064021fc/170208-kellyanne-conway-gty-1-1160.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="305"/>
-    <cse:Attribute name="height" value="165"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ9KXPjNqGJTS3E8yNG7ZBrolHXzujCn-nfGJdWSNxM3Bwt-otebLRFFwT"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.theguardian.com/books/2017/feb/13/edinburgh-international-book-festival-move-charlotte-square</id>
-  <updated>1970-01-18T05:08:14.752Z</updated>
-  <title type="html">Edinburgh international book festival may be forced to move | Books ...</title>
-  <link href="https://www.theguardian.com/books/2017/feb/13/edinburgh-international-book-festival-move-charlotte-square" title="www.theguardian.com"/>
-  <summary type="html">... in August as part of the wider Edinburgh festival, has a substantial impact on &lt;br&gt;
-the private gardens in Charlotte Square, &lt;b&gt;a source close to&lt;/b&gt; the association said.</summary>
-  <cse:formattedUrl type="html">https://www.theguardian.com/.../edinburgh-international-book-festival-move- charlotte-square</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="format-detection" value="telephone=no"/>
-    <cse:Attribute name="handheldfriendly" value="True"/>
-    <cse:Attribute name="viewport" value="width=device-width,minimum-scale=1,initial-scale=1"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Guardian"/>
-    <cse:Attribute name="application-name" value="The Guardian"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#005689"/>
-    <cse:Attribute name="theme-color" value="#005689"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://assets.guim.co.uk/images/favicons/f06f6996e193d1ddcd614ea852322d25/windows_tile_144_b.png"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=409128287, app-argument=https://www.theguardian.com/books/2017/feb/13/edinburgh-international-book-festival-move-charlotte-square, affiliate-data=ct=newsmartappbanner&amp;pt=304191"/>
-    <cse:Attribute name="referrer" value="unsafe-url"/>
-    <cse:Attribute name="author" value="Danuta Kean"/>
-    <cse:Attribute name="thumbnail" value="https://i.guim.co.uk/img/media/8cc2119d0f767b78f5ce1c4fc3b65b583dbd600c/0_183_5616_3370/5616.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=ae013dd4d03d87ea0989901d95e3448d"/>
-    <cse:Attribute name="news_keywords" value="Edinburgh international book festival,Books,Culture,Edinburgh,Edinburgh festival,Festivals,Scotland,UK news"/>
-    <cse:Attribute name="og:url" value="http://www.theguardian.com/books/2017/feb/13/edinburgh-international-book-festival-move-charlotte-square"/>
-    <cse:Attribute name="article:author" value="https://www.theguardian.com/profile/danutakean"/>
-    <cse:Attribute name="og:description" value="Spokesman says that while the annual festival may have to relocate from usual spot in Charlotte Square, ‘we are sure we can come up with a solution’"/>
-    <cse:Attribute name="og:image" value="https://i.guim.co.uk/img/media/8cc2119d0f767b78f5ce1c4fc3b65b583dbd600c/0_183_5616_3370/master/5616.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=527252c0f2985cbfa331f62341a483fa"/>
-    <cse:Attribute name="al:ios:url" value="gnmguardian://books/2017/feb/13/edinburgh-international-book-festival-move-charlotte-square?contenttype=Article&amp;source=applinks"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/theguardian"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="al:ios:app_store_id" value="409128287"/>
-    <cse:Attribute name="article:section" value="Books"/>
-    <cse:Attribute name="article:published_time" value="2017-02-13T14:47:29.000Z"/>
-    <cse:Attribute name="og:title" value="Edinburgh international book festival may be forced to move"/>
-    <cse:Attribute name="fb:app_id" value="180444840287"/>
-    <cse:Attribute name="article:tag" value="Edinburgh international book festival,Books,Culture,Edinburgh,Edinburgh festival,Festivals,Scotland,UK news"/>
-    <cse:Attribute name="al:ios:app_name" value="The Guardian"/>
-    <cse:Attribute name="og:site_name" value="the Guardian"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-13T14:51:35.000Z"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="409128287"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="The Guardian"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="The Guardian"/>
-    <cse:Attribute name="twitter:image" value="https://i.guim.co.uk/img/media/8cc2119d0f767b78f5ce1c4fc3b65b583dbd600c/0_183_5616_3370/master/5616.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNi8wNy9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=37dc0406a016d9ac1a0ab4dc8ade9a0d"/>
-    <cse:Attribute name="twitter:site" value="@guardian"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="gnmguardian://books/2017/feb/13/edinburgh-international-book-festival-move-charlotte-square?contenttype=Article&amp;source=twitter"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="The Guardian"/>
-    <cse:Attribute name="twitter:creator" value="@Danoosha"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="409128287"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.guardian"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="guardian://www.theguardian.com/books/2017/feb/13/edinburgh-international-book-festival-move-charlotte-square"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="gnmguardian://books/2017/feb/13/edinburgh-international-book-festival-move-charlotte-square?contenttype=Article&amp;source=twitter"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="mainentityofpage" value="https://www.theguardian.com/books/2017/feb/13/edinburgh-international-book-festival-move-charlotte-square"/>
-    <cse:Attribute name="headline" value="Edinburgh international book festival may be forced to move"/>
-    <cse:Attribute name="description" value="Spokesman says that while the annual festival may have to relocate from usual spot in Charlotte Square, ‘we are sure we can come up with a solution’"/>
-    <cse:Attribute name="datepublished" value="2017-02-13T09:47:29-0500"/>
-    <cse:Attribute name="datemodified" value="2017-02-13T09:51:35-0500"/>
-    <cse:Attribute name="articlebody" value="Edinburgh international book festival has moved to quash fears for its future, after it emerged that it may be forced to move from it historic home in Charlotte Square. The festival, which..."/>
-    <cse:Attribute name="keywords" value="More news"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="The Guardian"/>
-    <cse:Attribute name="sameas" value="https://www.theguardian.com/"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2015/10/1/1443713974413/Guardiantitlepiecedigitalon.png"/>
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="60"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="representativeofpage" value="true"/>
-    <cse:Attribute name="url" value="https://i.guim.co.uk/img/media/8cc2119d0f767b78f5ce1c4fc3b65b583dbd600c/0_183_5616_3370/5616.jpg?w=700&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=c60ba1bb9ce93b26fc730e050ef2d13e"/>
-    <cse:Attribute name="width" value="5616"/>
-    <cse:Attribute name="height" value="3370"/>
-    <cse:Attribute name="contenturl" value="https://i.guim.co.uk/img/media/8cc2119d0f767b78f5ce1c4fc3b65b583dbd600c/0_183_5616_3370/master/5616.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=58893b594dba4acc372ad1709e2d205a"/>
-    <cse:Attribute name="description" value="‘Disruption in the gardens’ … the 2012 Edinburgh international book festival. Photograph: Murdo Macleod for the Guardian"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="sameas" value="Danuta Kean"/>
-    <cse:Attribute name="name" value="Danuta Kean"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T14:50:33Z"/>
-    <cse:Attribute name="text" value="I blame the SNP."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Marlowe29"/>
-    <cse:Attribute name="givenname" value="Marlowe29"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T15:10:08Z"/>
-    <cse:Attribute name="text" value="I&apos;m surprised the Guardian did not try to make it Corbyn&apos;s fault."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Chris Gilmore"/>
-    <cse:Attribute name="givenname" value="Chris Gilmore"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T15:32:02Z"/>
-    <cse:Attribute name="text" value="That is taken. They no longer need to spell it out."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Terence Cass"/>
-    <cse:Attribute name="givenname" value="Terence Cass"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T15:36:01Z"/>
-    <cse:Attribute name="text" value="Surely time to abolish Holyrood...then they can use that silly parliament building....or better still just move it to London, then Guardian journalists wouldn&apos;t have to bother travelling and..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="crossedseven"/>
-    <cse:Attribute name="givenname" value="crossedseven"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T13:12:13Z"/>
-    <cse:Attribute name="text" value="1. The silly parliament building is Labour&apos;s fault. A lot of SNP and Indy supporters would agree with you. But it is the parliament building and there is no appetite to waste a pile of money..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Muscleguy"/>
-    <cse:Attribute name="givenname" value="Muscleguy"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T18:13:06Z"/>
-    <cse:Attribute name="text" value="You&apos;re right about 2. I&apos;m amazed. But how can that be given the absolute sovereignty of the Westminster parliament? I guess they could pass another amendment to the Scotland Act to delete that..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="crossedseven"/>
-    <cse:Attribute name="givenname" value="crossedseven"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T15:42:42Z"/>
-    <cse:Attribute name="text" value="Charlotte Square is only a small part of Edinburgh New Town. The &apos;proprietors&apos; are being a bit precious. In this day and age it surely has to be possible to allow the festival whilst at the..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="EdinburghQuine"/>
-    <cse:Attribute name="givenname" value="EdinburghQuine"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T15:50:04Z"/>
-    <cse:Attribute name="text" value="&quot;Only a small part&quot; of the New Town, perhaps, but one of the very few flat, level ones."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="ID392864"/>
-    <cse:Attribute name="givenname" value="ID392864"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T16:41:54Z"/>
-    <cse:Attribute name="text" value="We&apos;ve had similar problems with use of Meadows over the festival"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="CathieL"/>
-    <cse:Attribute name="givenname" value="CathieL"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T16:57:14Z"/>
-    <cse:Attribute name="text" value="Isn&apos;t George St. closed to all vehicles during the festivals anyway?"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="asparagusnextleft"/>
-    <cse:Attribute name="givenname" value="asparagusnextleft"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T15:56:13Z"/>
-    <cse:Attribute name="text" value="There&apos;s no need to worry. They&apos;re writers. They&apos;re creative. They&apos;ll come up with something."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="loudmouth"/>
-    <cse:Attribute name="givenname" value="loudmouth"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T16:09:55Z"/>
-    <cse:Attribute name="text" value="What about moving it out of the New Town altogether into a different bit of the city? What about somewhere along the Waterfront or in Leith Links or further south along the canal? It would..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="GrumpyYoungLad"/>
-    <cse:Attribute name="givenname" value="GrumpyYoungLad"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T16:22:00Z"/>
-    <cse:Attribute name="text" value="I hear Wester Hailes and Craigmiller/Niddrie are lovely in August. Move it there."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="EricHall"/>
-    <cse:Attribute name="givenname" value="EricHall"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T16:39:22Z"/>
-    <cse:Attribute name="text" value="Few pints in the Westsider after a book reading..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="GrumpyYoungLad"/>
-    <cse:Attribute name="givenname" value="GrumpyYoungLad"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T18:30:32Z"/>
-    <cse:Attribute name="text" value="Craigmillar Castle mate. Nip to Oman&apos;s for a pint at half time."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="montfleury"/>
-    <cse:Attribute name="givenname" value="montfleury"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T16:16:54Z"/>
-    <cse:Attribute name="text" value="No mention of BREXIT?"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="McMirdif"/>
-    <cse:Attribute name="givenname" value="McMirdif"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T16:34:33Z"/>
-    <cse:Attribute name="text" value="Well, once again I haven&apos;t been invited to appear, so fuck them, they can hold it in a Tesco car park in Airdrie. I&apos;m not bitter, no. They do invite some shite, though. If you&apos;re ever been..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="William McRae"/>
-    <cse:Attribute name="givenname" value="William McRae"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T18:29:50Z"/>
-    <cse:Attribute name="text" value="Nah, just turn up do your talk uninvited. They won&apos;t touch you."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="montfleury"/>
-    <cse:Attribute name="givenname" value="montfleury"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T19:25:37Z"/>
-    <cse:Attribute name="text" value="Last time I left with my head held high, and my feet held higher."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="William McRae"/>
-    <cse:Attribute name="givenname" value="William McRae"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T16:35:49Z"/>
-    <cse:Attribute name="text" value="&quot;we can’t use them for anything else&quot;... this puzzles me as it&apos;s only the Book Festival and St Columbus Hospice Christmas tree I remember seeing using it!"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="thegarett"/>
-    <cse:Attribute name="givenname" value="thegarett"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T23:43:13Z"/>
-    <cse:Attribute name="text" value="Exactly, those gardens are locked to the public for the other 347 days a year!"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="olliehowe"/>
-    <cse:Attribute name="givenname" value="olliehowe"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T17:27:39Z"/>
-    <cse:Attribute name="text" value="Why doesn&apos;t the SNP government prove it&apos;s not a conservative nationalist party by taking the square into public ownership and allow the Book Festival to manage it all year-round? The SNP are..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="whitman100"/>
-    <cse:Attribute name="givenname" value="whitman100"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T18:29:06Z"/>
-    <cse:Attribute name="text" value="What do you think the press response would be to a CPO on the gardens in front of Bute House? This festival belongs in Craigmillar. Simples. Big castle, plenty space."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="montfleury"/>
-    <cse:Attribute name="givenname" value="montfleury"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T19:24:11Z"/>
-    <cse:Attribute name="text" value="It hasn&apos;t the power to nationalize anything. And, as a Unionist, surely that&apos;s the way you like it?"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Sinead Black"/>
-    <cse:Attribute name="givenname" value="Sinead Black"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T19:27:23Z"/>
-    <cse:Attribute name="text" value="I&apos;m with you there."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="William McRae"/>
-    <cse:Attribute name="givenname" value="William McRae"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T17:35:23Z"/>
-    <cse:Attribute name="text" value="Its a parochial joke - &quot;international&quot; should be removed from its title as its mainly white middle class (and at that Edinburgh citizens) who attend... they don&apos;t accept American Express at..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="jamesa0330"/>
-    <cse:Attribute name="givenname" value="jamesa0330"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T18:27:56Z"/>
-    <cse:Attribute name="text" value="they don&apos;t accept American Express at the bookshop tills Handling fees that&apos;s all."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="montfleury"/>
-    <cse:Attribute name="givenname" value="montfleury"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T23:05:04Z"/>
-    <cse:Attribute name="text" value="I&apos;m not middle class or from Edinburgh..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Chocolatesoup"/>
-    <cse:Attribute name="givenname" value="Chocolatesoup"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T01:57:02Z"/>
-    <cse:Attribute name="text" value="We tried to go to it in one of the Book Festival&apos;s first years, in the 1980s. But we live in New Zealand, and the internet did not exist - so by the time the programme turned up in the mail,..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="daleaway"/>
-    <cse:Attribute name="givenname" value="daleaway"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T17:50:34Z"/>
-    <cse:Attribute name="text" value="&quot;Intends to open the gardens up to public events throughout the year as part of a £1m refurbishment&quot; So it sounds like Charlotte Sq proprietors are jealous of the mint being made at the other..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="milgram"/>
-    <cse:Attribute name="givenname" value="milgram"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T18:04:32Z"/>
-    <cse:Attribute name="text" value="I have often enjoyed the book festival but have never thought its Charlotte Square home was fit for purpose. It is a very large roundabout in one of the busiest traffic zones in the city, and..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Martin Daly"/>
-    <cse:Attribute name="givenname" value="Martin Daly"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T23:23:54Z"/>
-    <cse:Attribute name="text" value="I like it where it is."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Joeyredeye"/>
-    <cse:Attribute name="givenname" value="Joeyredeye"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T12:38:53Z"/>
-    <cse:Attribute name="text" value="I love it where it is."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Rosemary Wilson"/>
-    <cse:Attribute name="givenname" value="Rosemary Wilson"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T18:27:10Z"/>
-    <cse:Attribute name="text" value="There&apos;s plenty of space for the Book Festival in Edinburgh. What there isn&apos;t room for is private motor cars. Remove the cars, leave peds bikes, buses and trams. That or have the Book Festival..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="montfleury"/>
-    <cse:Attribute name="givenname" value="montfleury"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T13:16:46Z"/>
-    <cse:Attribute name="text" value="Does the tram go there? I think that will be the killer if it doesn&apos;t."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Muscleguy"/>
-    <cse:Attribute name="givenname" value="Muscleguy"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-15T03:48:02Z"/>
-    <cse:Attribute name="text" value="The tram goes hardly anywhere. That it doesn&apos;t go to Craigmillar Castle (which it doesn&apos;t) is immaterial."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="littlecandle"/>
-    <cse:Attribute name="givenname" value="littlecandle"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-16T12:41:01Z"/>
-    <cse:Attribute name="text" value="Remove the cars, leave peds bikes, buses and trams. terrible idea, remove the trams, shouldnt even damn be there in the first place have the Book Festival at Craigmillar Castle That is possibly..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Akkarrin"/>
-    <cse:Attribute name="givenname" value="Akkarrin"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T19:14:21Z"/>
-    <cse:Attribute name="text" value="Edinburgh International Ruth Festival may be forced to move.......and the Guardian&apos;s love affair with her will surely end in tears"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="scrandoonyeah"/>
-    <cse:Attribute name="givenname" value="scrandoonyeah"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T13:20:02Z"/>
-    <cse:Attribute name="text" value="This comment was removed by a moderator because it didn&apos;t abide by our community standards. Replies may also be deleted. For more detail see our FAQs."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Muscleguy"/>
-    <cse:Attribute name="givenname" value="Muscleguy"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T19:28:36Z"/>
-    <cse:Attribute name="text" value="Although I can see the point of the owners of the Square, the Book Festival is such a sublime Mecca of free-thinking and cultural cross-fertilisation that even greater sacrifices might be considere..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="SleepingDog"/>
-    <cse:Attribute name="givenname" value="SleepingDog"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T11:27:16Z"/>
-    <cse:Attribute name="text" value="They had to make it bigger every year. They had to grow it. They had to up the numbers ad infinitum. I don&apos;t blame the locals one bit. Locals can&apos;t even get a ticket these days."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="BeckySharp"/>
-    <cse:Attribute name="givenname" value="BeckySharp"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T13:05:55Z"/>
-    <cse:Attribute name="text" value="Becky, a few years ago, when the system crashed I may have agreed with you, and I can&apos;t deny there were some stressful times. However, the last couple of years it has improved. Granted, I&apos;m..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="goodyorkshirelass"/>
-    <cse:Attribute name="givenname" value="goodyorkshirelass"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T19:47:18Z"/>
-    <cse:Attribute name="text" value="Edinburgh has a wealth of alternatives and the squares at both ends of George Street are too fine to be used by what look like squatter camps."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="JohnAndrews57"/>
-    <cse:Attribute name="givenname" value="JohnAndrews57"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T21:56:09Z"/>
-    <cse:Attribute name="text" value="It&apos;s a great location Edinburgh-wise, would be a shame to mess with it. Although if they want to move it to Glasgow, that would be handier for me."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="ID2499352"/>
-    <cse:Attribute name="givenname" value="ID2499352"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T09:07:43Z"/>
-    <cse:Attribute name="text" value="Glasgow has the Aye Write festival on next month :)"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Chocolatesoup"/>
-    <cse:Attribute name="givenname" value="Chocolatesoup"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T13:49:52Z"/>
-    <cse:Attribute name="text" value="I know, brilliant festival. Because of the time of year there isn&apos;t the same scope for civilised outdoor drinking though."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="ID2499352"/>
-    <cse:Attribute name="givenname" value="ID2499352"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T22:24:30Z"/>
-    <cse:Attribute name="text" value="&quot;You&apos;ll have had your fee.&quot;"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="mooneym"/>
-    <cse:Attribute name="givenname" value="mooneym"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-13T23:08:23Z"/>
-    <cse:Attribute name="text" value="Stick it up Carlton Hill. x :)"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Goldie Dee"/>
-    <cse:Attribute name="givenname" value="Goldie Dee"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T16:20:57Z"/>
-    <cse:Attribute name="text" value="Oh, which town is that in?"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="DKradianTsmilE"/>
-    <cse:Attribute name="givenname" value="DKradianTsmilE"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T17:39:52Z"/>
-    <cse:Attribute name="text" value="I ment to post &quot;Calton Hill&quot; but my dyslexia bet me to it, and it&apos;s in Edinburgh toots, although Inverleith Park &amp; Leith Links could easily accommodate the Book Festie as well. x"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Goldie Dee"/>
-    <cse:Attribute name="givenname" value="Goldie Dee"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T11:26:09Z"/>
-    <cse:Attribute name="text" value="A victim of its own success. The book festival used to be lovely, but it&apos;s been pushed, widely advertised, most tickets are sold online to tourists, and it&apos;s now just horrible for the locals...."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="BeckySharp"/>
-    <cse:Attribute name="givenname" value="BeckySharp"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T13:51:15Z"/>
-    <cse:Attribute name="text" value="I hated hipsters before it was cool..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="ID2499352"/>
-    <cse:Attribute name="givenname" value="ID2499352"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T17:20:20Z"/>
-    <cse:Attribute name="text" value="If you have not been there for years, how do you know it is horrible or full of tourists?"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="deltahotel"/>
-    <cse:Attribute name="givenname" value="deltahotel"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-14T12:13:25Z"/>
-    <cse:Attribute name="text" value="No, no, no, no, nooooooooooh! Charlotte Square is an oasis of calm in Edinburgh in August. It&apos;s only for two weeks for god&apos;s sake. Considering the huge amount of pedestrian traffic in George..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="goodyorkshirelass"/>
-    <cse:Attribute name="givenname" value="goodyorkshirelass"/>
-   </cse:DataObject>
-   <cse:DataObject type="comment">
-    <cse:Attribute name="datecreated" value="2017-02-16T10:09:18Z"/>
-    <cse:Attribute name="text" value="The Edinburgh Book Festival. Headlines in the Guardian! Apart from the existence of its Jockland foreign correspondent, Severin Carrell, the Edinburgh Book Festival is what the Guardian thinks..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="url" value="Sciencenotfashion"/>
-    <cse:Attribute name="givenname" value="Sciencenotfashion"/>
-   </cse:DataObject>
-   <cse:DataObject type="breadcrumb">
-    <cse:Attribute name="url" value="Arts"/>
-    <cse:Attribute name="title" value="Arts"/>
-   </cse:DataObject>
-   <cse:DataObject type="breadcrumb">
-    <cse:Attribute name="url" value="Books"/>
-    <cse:Attribute name="title" value="Books"/>
-   </cse:DataObject>
-   <cse:DataObject type="breadcrumb">
-    <cse:Attribute name="url" value="Edinburgh international book festival"/>
-    <cse:Attribute name="title" value="Edinburgh international book festival"/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/8cc2119d0f767b78f5ce1c4fc3b65b583dbd600c/0_183_5616_3370/5616.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=ae013dd4d03d87ea0989901d95e3448d"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/1756daeed2ac9dc8aaf62a95205c32ef1db8277a/71_21_616_370/master/616.png?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=5f136b21227c6dca13869065d9b16599"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="240"/>
-    <cse:Attribute name="height" value="144"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://nypost.com/2017/02/13/burger-king-owner-chickens-out-on-deal-with-popeyes/</id>
-  <updated>1970-01-18T05:08:14.752Z</updated>
-  <title type="html">Burger King owner chickens out on deal with Popeyes | New York Post</title>
-  <link href="http://nypost.com/2017/02/13/burger-king-owner-chickens-out-on-deal-with-popeyes/" title="nypost.com"/>
-  <summary type="html">... Restaurant Brands was interested in buying Popeyes Louisiana Kitchen a few &lt;br&gt;
-months ago, but walked away from the deal, &lt;b&gt;a source close to&lt;/b&gt; the situation said.</summary>
-  <cse:cacheId>G0YaqfSAS_MJ</cse:cacheId>
-  <cse:formattedUrl type="html">nypost.com/.../burger-king-owner-chickens-out-on-deal-with-popeyes/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
-    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:title" value="Burger King owner chickens out on deal with Popeyes"/>
-    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/13/burger-king-owner-chickens-out-on-deal-with-popeyes/"/>
-    <cse:Attribute name="og:description" value="Don’t expect Burger King to be frying Popeyes’ chicken. Burger King/Tim Hortons parent Restaurant Brands was interested in buying Popeyes Louisiana Kitchen a few months ago, but walked away from th…"/>
-    <cse:Attribute name="article:published_time" value="2017-02-14T03:00:28+00:00"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-14T03:00:28+00:00"/>
-    <cse:Attribute name="og:site_name" value="New York Post"/>
-    <cse:Attribute name="og:image:width" value="1200"/>
-    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="twitter:site" value="@nypost"/>
-    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-536072917.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:creator" value="@joshkosman"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
-    <cse:Attribute name="twitter:title" value="Burger King owner chickens out on deal with Popeyes"/>
-    <cse:Attribute name="twitter:description" value="Don’t expect Burger King to be frying Popeyes’ chicken. Burger King/Tim Hortons parent Restaurant Brands was interested in buying Popeyes Louisiana Kitchen a few months ago, but walked away from"/>
-    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-536072917.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
-    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-536072917.jpg?quality=90&amp;strip=all&amp;w=1200"/>
-    <cse:Attribute name="og:image:secure_url" value="https://i2.wp.com/thenypost.files.wordpress.com/2017/02/gettyimages-536072917.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
-    <cse:Attribute name="nypost-section" value="Business"/>
-    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10738005&quot;}"/>
-    <cse:Attribute name="news_keywords" value="Business,burger king,fast food,mergers &amp; acquisitions"/>
-    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
-    <cse:Attribute name="fb:pages" value="134486075205"/>
-    <cse:Attribute name="application-name" value="New York Post"/>
-    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
-    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/gettyimages-536072917.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7</id>
+  <updated>1970-01-18T05:10:20.056Z</updated>
+  <title type="html">Trump&amp;#39;s pick for national security adviser turns down offer: White ...</title>
+  <link href="http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7" title="www.reuters.com"/>
+  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the decision said Harward turned down the job in part &lt;br&gt;
+because he wanted to bring in his own team. Vice Adm. Robert S. Harward,&amp;nbsp;...</summary>
+  <cse:cacheId>Uk09DvhiJSAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;domesticNews;politicsNews;Retirement;everything;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;greenpeace;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;USWire;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Trump%27s+pick+for+national+security+adviser+turns+down+offer%3A+White+House+official"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Russia;United States;Russia;United States;Donald Trump;K.T. McFarland;Michael Flynn;Mike Pence;Robert Harward;Sergei Kislyak;Donald Trump;K.T. McFarland;Michael Flynn;Mike Pence;Robert Harward;Sergei Kislyak;US;USA;TRUMP;HARWARD;Key Personnel Changes;Russia;Defense;Diplomacy / Foreign Policy;Arts / Culture / Entertainment;Government / Politics;Personalities / People;Major News;Europe;US Government News;International / National Security;Conflicts / War / Peace;United States"/>
+    <cse:Attribute name="revision_date" value="Fri Feb 17 16:00:50 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-17T16:00:50+0000"/>
+    <cse:Attribute name="sailthru.title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, a senior White House official said on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-17T16:00:50+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-17T16:00:50+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Russia,United States,Russia,United States,Donald Trump,K.T. McFarland,Michael Flynn,Mike Pence,Robert Harward,Sergei Kislyak,Donald Trump,K.T. McFarland,Michael Flynn,Mike Pence,Robert Harward,Sergei Kislyak,US,USA,TRUMP,HARWARD,Key Personnel Changes,Russia,Defense,Diplomacy / Foreign Policy,Arts / Culture / Entertainment,Government / Politics,Personalities / People,Major News,Europe,US Government News,International / National Security,Conflicts / War / Peace,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, a senior White House official said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdyLjZaMMr8G8zcawzOlEMQYba4lL4Pqv-hbA0ZsqlQvg5ZlPGH9z4s0"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEC_JIj6zZ0qgVwUhAmNszMvcYrVAIixJcIwUMCHSUDe8M05PTssJnEft"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T05:08:14.752Z</updated>
-  <title type="html">Sources: Steelers RB Bell facing 4-game ban</title>
-  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
-  <summary type="html"/>
-  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.chicagotribune.com/sports/breaking/92577368-132.html</id>
-  <updated>1970-01-18T05:08:14.752Z</updated>
-  <title type="html">The drama behind the McGregor-Mayweather fight - Chicago Tribune</title>
-  <link href="http://www.chicagotribune.com/sports/breaking/92577368-132.html" title="www.chicagotribune.com"/>
-  <summary type="html">The Irish Sun cites &lt;b&gt;a source close to&lt;/b&gt; McGregor saying that the two fighters have &lt;br&gt;
-now “both settled on their respective fees.” (Feb. 14, 2017)</summary>
-  <cse:cacheId>x-tyY6Jo8FIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.chicagotribune.com/sports/breaking/92577368-132.html</cse:formattedUrl>
+  <id>http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891</id>
+  <updated>1970-01-18T05:10:20.056Z</updated>
+  <title type="html">Trump associates communicated with suspected Russian intel...</title>
+  <link href="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891" title="abcnews.go.com"/>
+  <summary type="html">... Trump and suspected Russian intelligence officials in the lead-up to the 2016 &lt;br&gt;
+presidential election, &lt;b&gt;sources familiar with&lt;/b&gt; the matter confirm to ABC News.</summary>
+  <cse:formattedUrl type="html">abcnews.go.com/Politics/trump-associates-communicated.../story?id...</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="tronc video"/>
-    <cse:Attribute name="date" value="2017-02-14"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 tronc video"/>
-    <cse:Attribute name="og:title" value="The drama behind the McGregor-Mayweather fight"/>
-    <cse:Attribute name="og:description" value="The Irish Sun cites a source close to McGregor saying that the two fighters have now “both settled on their respective fees.” (Feb. 14, 2017)"/>
-    <cse:Attribute name="fb:page_id" value="5953023255"/>
-    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="author" value="ABC News"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
+    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="fb:admins" value="704409894"/>
+    <cse:Attribute name="fb:app_id" value="4942312939"/>
+    <cse:Attribute name="fb_title" value="Trump associates communicated with suspected Russian intel officers: Sources"/>
+    <cse:Attribute name="og:site_name" value="ABC News"/>
+    <cse:Attribute name="og:title" value="Trump associates communicated with suspected Russian intel officers: Sources"/>
+    <cse:Attribute name="og:description" value="U.S. authorities were concerned with and probing communications between associates of President Donald Trump and suspected Russian intelligence officials in the lead-up to the 2016 presidential election, sources familiar with the matter confirm to ABC News. The news comes just a day after Trump&apos;s..."/>
+    <cse:Attribute name="og:url" value="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891"/>
+    <cse:Attribute name="og:image:type" value="image/jpeg"/>
+    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/International/gty-trump-flynn-2-er-170210_16x9_992.jpg"/>
+    <cse:Attribute name="dc.date.issued" value="2017-02-15"/>
+    <cse:Attribute name="date" value="2017-02-15"/>
+    <cse:Attribute name="last-modified" value="2017-02-15 12:14:17"/>
+    <cse:Attribute name="news_keywords" value="President Trump, Russia, Vladimir Putin, Paul Manafort"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/sports/breaking/92577368-132.html"/>
-    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-58a35d25/turbine/sns-the-drama-behind-the-mcgregor-ma-20170214"/>
-    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="The drama behind the McGregor-Mayweather fight"/>
-    <cse:Attribute name="twitter:description" value="The Irish Sun cites a source close to McGregor saying that the two fighters have now “both settled on their respective fees.” (Feb. 14, 2017)"/>
-    <cse:Attribute name="twitter:url" value="http://www.chicagotribune.com/sports/breaking/92577368-132.html"/>
-    <cse:Attribute name="twitter:image:src" value="http://www.trbimg.com/img-58a35d25/turbine/sns-the-drama-behind-the-mcgregor-ma-20170214"/>
-    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
-    <cse:Attribute name="googlebot-news" value="index"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/92577368"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i18prod-4934743-10-93.1"/>
+    <cse:Attribute name="twitter:site" value="@ABC"/>
+    <cse:Attribute name="twitter:creator" value="@mlevinereports"/>
+    <cse:Attribute name="twitter:title" value="Trump associates communicated with suspected Russian intel officers: Sources"/>
+    <cse:Attribute name="twitter:description" value="U.S. authorities were concerned with and probing communications between associates of President Donald Trump and suspected Russian intelligence officials in the lead-up to the 2016 presidential election, sources familiar with the matter confirm to ABC News. The news comes just a day after Trump&apos;s..."/>
+    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891"/>
+    <cse:Attribute name="twitter:image:width" value="150"/>
+    <cse:Attribute name="twitter:image:height" value="116"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,45500891"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,45500891"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891"/>
+    <cse:Attribute name="twitter:image" value="http://a.abcnews.com/images/International/gty-trump-flynn-2-er-170210_4x3t_240.jpg"/>
+    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,45500891"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
+    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
+    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,45500891"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
+    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
+    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891"/>
+    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
+    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
+    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891"/>
+   </cse:DataObject>
+   <cse:DataObject type="sitenavigationelement">
+    <cse:Attribute name="name" value="U.S."/>
+    <cse:Attribute name="url" value="U.S."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.trbimg.com/img-58a35d25/turbine/sns-the-drama-behind-the-mcgregor-ma-20170214"/>
+    <cse:Attribute name="src" value="http://a.abcnews.com/images/International/gty-trump-flynn-2-er-170210_16x9_992.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="300"/>
     <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9CMPXbAnz9AYEFTLQp1uMF48JIhaQ6ekk0kLmAx09ooaULttJq73RF0iR"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBgT9ObxwO8Nq-Bd84A2lGbWjWq5pdsbAlT5Hb5roVwHzVenNzaXq9-ajM"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html</id>
-  <updated>1970-01-18T05:08:14.752Z</updated>
-  <title type="html">Missing China billionaire taken from Hong Kong hotel in wheelchair ...</title>
-  <link href="http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html" title="www.dailymail.co.uk"/>
-  <summary type="html">... whisked in a wheelchair from a luxury Hong Kong hotel in the early hours of &lt;br&gt;
-Jan 27 with his head covered, &lt;b&gt;a source close to&lt;/b&gt; the businessman told Reuters.</summary>
-  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Missing-China-billionaire-taken-Hong-Kong-hotel- wheelchair-source.html</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP</id>
+  <updated>1970-01-18T05:10:20.056Z</updated>
+  <title type="html">Exclusive: China&amp;#39;s Sinochem in early talks to buy stake in Noble ...</title>
+  <link href="http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP" title="www.reuters.com"/>
+  <summary type="html">China&amp;#39;s state-owned Sinochem is in early talks with Noble Group to buy an equity &lt;br&gt;
+stake in the embattled trader, three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, in a&amp;nbsp;...</summary>
+  <cse:cacheId>l-OvqVBegK8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="news_keywords" value="Missing,China,billionaire,taken,Hong,Kong,hotel,wheelchair,source"/>
-    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html"/>
-    <cse:Attribute name="rating" value="General"/>
-    <cse:Attribute name="doc-class" value="Living Document"/>
-    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
-    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
-    <cse:Attribute name="twitter:account_id" value="15438913"/>
-    <cse:Attribute name="articleid" value="4214450"/>
-    <cse:Attribute name="divclasspage" value="articlePage"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Missing China billionaire taken from Hong Kong hotel in wheelchair ..."/>
-    <cse:Attribute name="twitter:description" value="By Venus Wu and Julie Zhu HONG KONG, Feb 11 (Reuters) - Missing China-born billionaire Xiao Jianhua was whisked in a wheelchair from a luxury Hong Kong hotel..."/>
-    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4214450/Missing-China-billionaire-taken-Hong-Kong-hotel-wheelchair-source.html"/>
-    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
-    <cse:Attribute name="article:published_time" value="2017-02-11T09:42:49+0000"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-11T09:42:52+0000"/>
-    <cse:Attribute name="article:section" value="Reuters"/>
-    <cse:Attribute name="article:tag" value="Missing China billionaire taken Hong Kong hotel wheelchair source"/>
-    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
-    <cse:Attribute name="fb:app_id" value="146202712090395"/>
-    <cse:Attribute name="og:site_name" value="Mail Online"/>
-    <cse:Attribute name="og:title" value="Missing China billionaire taken from Hong Kong hotel in wheelchair ..."/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsEnergy;innovationNewsFinancialServicesAndRealEstate;innovationNewsIndustryMaterialsAndUtilities;asiaDealsNews;asiaPrivateEquityNews;vbcSmallBusiness;china;innovationAMD;SustainabilityCorporate;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;singapore;asia;newsproHome;zurich;credit-rss;marine;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+China%27s+Sinochem+in+early+talks+to+buy+stake+in+Noble+Group+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Anshuman Daga and Sumeet Chatterjee"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Anshuman Daga and Sumeet Chatterjee"/>
+    <cse:Attribute name="news_keywords" value="China;United States;China;Singapore;United States;Richard Samuel Elman;Noble;Richard Samuel Elman;US;NOBLE;M;A;SINOCHEM;Investment Trusts (TRBC);Mergers / Acquisitions / Takeovers;Company News;Diversified Trading and Distributing (TRBC);Exclusive;China (PRC);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Asia / Pacific;Singapore;Major News;Marine Services (TRBC);Natural Gas"/>
+    <cse:Attribute name="revision_date" value="Tue Feb 14 06:30:53 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Anshuman Daga and Sumeet Chatterjee"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-14T06:30:53+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="By Venus Wu and Julie Zhu HONG KONG, Feb 11 (Reuters) - Missing China-born billionaire Xiao Jianhua was whisked in a wheelchair from a luxury Hong Kong hotel..."/>
-    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4214450/index.html"/>
-    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="og:image:width" value="636"/>
-    <cse:Attribute name="og:image:height" value="382"/>
-    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Missing China billionaire taken from Hong Kong hotel in wheelchair -source"/>
-    <cse:Attribute name="datepublished" value="2017-02-11T09:42:49+0000"/>
-    <cse:Attribute name="datemodified" value="2017-02-11T09:42:52+0000"/>
-    <cse:Attribute name="articlebody" value="Missing China billionaire taken from Hong Kong hotel in wheelchair -source By Reuters Published: 04:42 EST, 11 February 2017 | Updated: 04:42 EST, 11 February 2017 e-mail By Venus Wu and Julie..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="By Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="height" value="382"/>
-    <cse:Attribute name="width" value="636"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="MailOnline"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
-    <cse:Attribute name="width" value="350"/>
-    <cse:Attribute name="height" value="66"/>
+    <cse:Attribute name="og:description" value="China&apos;s state-owned Sinochem is in early talks with Noble Group to buy an equity stake in the embattled trader, three sources familiar with the matter said, in a move that would help it gain access to the commodity trader&apos;s global supply chain."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-14T06:30:53+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-14T06:30:53+0000"/>
+    <cse:Attribute name="og:article:author" value="Anshuman Daga and Sumeet Chatterjee"/>
+    <cse:Attribute name="og:article:tag" value="China,United States,China,Singapore,United States,Richard Samuel Elman,Noble,Richard Samuel Elman,US,NOBLE,M,A,SINOCHEM,Investment Trusts (TRBC),Mergers / Acquisitions / Takeovers,Company News,Diversified Trading and Distributing (TRBC),Exclusive,China (PRC),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Asia / Pacific,Singapore,Major News,Marine Services (TRBC),Natural Gas"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
+    <cse:Attribute name="twitter:description" value="China&apos;s state-owned Sinochem is in early talks with Noble Group to buy an equity stake in the embattled trader, three sources familiar with the matter said, in a move that would help it gain access to the commodity trader&apos;s global supply chain."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="290"/>
-    <cse:Attribute name="height" value="174"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
+    <cse:Attribute name="width" value="281"/>
+    <cse:Attribute name="height" value="180"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmt6h2OfZjCQBdcIanU89sYY5T9xCwybeA9V1DgWN9ZL1vsCcd8Z7BUdc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2</id>
+  <updated>1970-01-18T05:10:20.056Z</updated>
+  <title type="html">Exclusive: Paramount CEO Grey to depart as soon as next week ...</title>
+  <link href="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2" title="www.businessinsider.com"/>
+  <summary type="html">... Paramount Pictures film studio is expected to leave with an announcement &lt;br&gt;
+coming as early as next week, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the situation&lt;br&gt;
+.</summary>
+  <cse:cacheId>CLZWD93NEDMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon -as-next-week-sources-2017-2</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="date" value="2017-02-17"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-17"/>
+    <cse:Attribute name="news_keywords" value="Reuters"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters"/>
+    <cse:Attribute name="sailthru.description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="tbi-image" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static5.businessinsider.com/image/58a771695124c9697d250a43-50-50/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="og:title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="og:description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="twitter:description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://static1.businessinsider.com/image/58a771695124c9697d250a43-506-253/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="og:image" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43-1190-625/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="url" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="image" value="http://static1.businessinsider.com/image/58a771695124c9697d250a43-506-253/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/58a4d84501fe5877368b4781-400/32-high-paying-jobs-for-people-who-dont-like-stress.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQriRjefNUf8zFQoTnmP7d6Z-KnHebyYbdE9ET0cBTWVK3IHso2iXaiOzc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-banco-santander-tech-investment-idUSKBN15W1WB</id>
+  <updated>1970-01-18T05:10:20.056Z</updated>
+  <title type="html">Santander invests in artificial intelligence startups: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-banco-santander-tech-investment-idUSKBN15W1WB" title="www.reuters.com"/>
+  <summary type="html">... artificial-intelligence companies, part of the financial industry&amp;#39;s increased focus &lt;br&gt;
+on technology smart enough to mimic human thinking, &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>IA4iC3NWX58J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-banco-santander-tech-investment-idUSKBN15W1WB</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;innovationIntellectualProperty;innovationAMD;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;newsproHome;audib2b;cfaglobal;aa48hours;greenpeace;PorscheCayenne;MBenz;globalinnovations;Intel;PFG;Fidelity2014;top100Innovators;top100InnovatorsVBC;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Santander+invests+in+artificial+intelligence+startups%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Anna Irrera"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Anna Irrera"/>
+    <cse:Attribute name="news_keywords" value="Blythe Masters;US;BANCO;SANTANDER;TECH;INVESTMENT;Banks (TRBC);Funds;Company News;Western Europe;France;Corporate Events;Spain;Technology (TRBC);Debt / Fixed Income Markets;Europe;Science;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);United States;IT Services and Consulting (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Fri Feb 17 16:57:34 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Anna Irrera"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-17T16:57:34+0000"/>
+    <cse:Attribute name="sailthru.title" value="Santander invests in artificial intelligence startups: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Santander invests in artificial intelligence startups: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-banco-santander-tech-investment-idUSKBN15W1WB"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Spanish lender Banco Santander SA has invested in two artificial-intelligence companies, part of the financial industry&apos;s increased focus on technology smart enough to mimic human thinking, sources familiar with the deals told Reuters."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-17T16:57:34+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-17T16:57:34+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Anna Irrera"/>
+    <cse:Attribute name="og:article:tag" value="Blythe Masters,US,BANCO,SANTANDER,TECH,INVESTMENT,Banks (TRBC),Funds,Company News,Western Europe,France,Corporate Events,Spain,Technology (TRBC),Debt / Fixed Income Markets,Europe,Science,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),United States,IT Services and Consulting (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Santander invests in artificial intelligence startups: sources"/>
+    <cse:Attribute name="twitter:description" value="Spanish lender Banco Santander SA has invested in two artificial-intelligence companies, part of the financial industry&apos;s increased focus on technology smart enough to mimic human thinking, sources familiar with the deals told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.yahoo.com/news/trumps-choice-national-security-adviser-turned-down-offer-231202855.html</id>
+  <updated>1970-01-18T05:10:20.056Z</updated>
+  <title type="html">Trump&amp;#39;s choice for national security adviser has turned down offer ...</title>
+  <link href="https://www.yahoo.com/news/trumps-choice-national-security-adviser-turned-down-offer-231202855.html" title="www.yahoo.com"/>
+  <summary type="html">President Donald Trump&amp;#39;s choice for national security adviser, retired Vice &lt;br&gt;
+Admiral Robert Harward, has turned down the offer, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+Harward&amp;#39;s&amp;nbsp;...</summary>
+  <cse:cacheId>j2Xq1PdDNfwJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.yahoo.com/.../trumps-choice-national-security-adviser-turned- down-offer-231202855.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
+    <cse:Attribute name="referrer" value="origin"/>
+    <cse:Attribute name="theme-color" value="#400090"/>
+    <cse:Attribute name="twitter:dnt" value="on"/>
+    <cse:Attribute name="twitter:site" value="@Yahoo"/>
+    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=c572f7e3-814a-35d9-ae6b-c9d763d3ba2e&amp;src=web"/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, sources familiar with Harward&apos;s decision said on Thursday.  Harward was offered the job after Michael Flynn was fired by Trump on Monday for misleading Vice President"/>
+    <cse:Attribute name="twitter:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+    <cse:Attribute name="twitter:title" value="Trump&apos;s choice for national security adviser has turned down offer: sources"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="fb:app_id" value="90376669494"/>
+    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
+    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=c572f7e3-814a-35d9-ae6b-c9d763d3ba2e&amp;src=web"/>
+    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
+    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
+    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=c572f7e3-814a-35d9-ae6b-c9d763d3ba2e&amp;src=web"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="og:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, sources familiar with Harward&apos;s decision said on Thursday.  Harward was offered the job after Michael Flynn was fired by Trump on Monday for misleading Vice President"/>
+    <cse:Attribute name="og:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+    <cse:Attribute name="og:title" value="Trump&apos;s choice for national security adviser has turned down offer: sources"/>
+    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/trumps-choice-national-security-adviser-turned-down-offer-231202855.html"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="225"/>
+    <cse:Attribute name="height" value="225"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsu8h2qPcbEySow_b11yLyETddWLbICdJLk1xWXl-3molDDR1MTHSgF0Nw"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.chicagotribune.com/ct-rahm-emanuel-dc-meetings-met-0214-20170213-story.html</id>
+  <updated>1970-01-18T05:10:20.056Z</updated>
+  <title type="html">Emanuel in DC to meet with AG Sessions, Trump son-in-law Kushner</title>
+  <link href="http://www.chicagotribune.com/ct-rahm-emanuel-dc-meetings-met-0214-20170213-story.html" title="www.chicagotribune.com"/>
+  <summary type="html">... Trump administration officials, including new Attorney General Jeff Sessions &lt;br&gt;
+and senior adviser Jared Kushner, according to &lt;b&gt;sources familiar with&lt;/b&gt; the mayor&amp;#39;s&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>lSSH-OMSPuAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.chicagotribune.com/ct-rahm-emanuel-dc-meetings-met-0214- 20170213-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="Bill Ruthhart"/>
+    <cse:Attribute name="date" value="2017-02-13"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 Chicago Tribune"/>
+    <cse:Attribute name="news_keywords" value="Rahm Emanuel, Donald Trump, Jeff Sessions, Jared Kushner"/>
+    <cse:Attribute name="fb_title" value="Emanuel in D.C. to meet with AG Sessions, Trump son-in-law Kushner"/>
+    <cse:Attribute name="og:title" value="Emanuel in D.C. to meet with AG Sessions, Trump son-in-law Kushner"/>
+    <cse:Attribute name="og:description" value="Mayor Rahm Emanuel is in Washington on Monday for meetings with senior Trump administration officials, including new Attorney General Jeff Sessions and senior adviser Jared Kushner , according to sources familiar with the mayor&apos;s schedule."/>
+    <cse:Attribute name="fb:page_id" value="5953023255"/>
+    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/local/politics/ct-rahm-emanuel-dc-meetings-met-0214-20170213-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-58a20ca8/turbine/ct-rahm-emanuel-dc-meetings-met-0214-20170213"/>
+    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/92568550"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i18prod-4934743-0-68.1"/>
+    <cse:Attribute name="so:status" value="5,1"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="News"/>
+    <cse:Attribute name="headline" value="Emanuel in D.C. to meet with AG Sessions, Trump son-in-law Kushner"/>
+    <cse:Attribute name="author" value="Bill Ruthhart"/>
+    <cse:Attribute name="datepublished" value="2017-02-13T13:35:00CST"/>
+    <cse:Attribute name="articlebody" value="Mayor Rahm Emanuel is in Washington on Monday for meetings with senior Trump administration officials, including new Attorney General Jeff Sessions and senior adviser Jared Kushner, according..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-58a20ca8/turbine/ct-rahm-emanuel-dc-meetings-met-0214-20170213"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="268"/>
+    <cse:Attribute name="height" value="188"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWEjjL_ex2DWhW8DXQfIiZTWcyTgWQTNUWQE8mVoXJsYMF0cFTmBW7KDs"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
