@@ -5,90 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:10:20.056Z</updated>
+ <updated>1970-01-18T05:11:55.851Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="14500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="14500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>14500</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>15500</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.265976</cse:searchTime>
-  <cse:formattedSearchTime>0.27</cse:formattedSearchTime>
-  <cse:totalResults>14500</cse:totalResults>
-  <cse:formattedTotalResults>14,500</cse:formattedTotalResults>
+  <cse:searchTime>0.436626</cse:searchTime>
+  <cse:formattedSearchTime>0.44</cse:formattedSearchTime>
+  <cse:totalResults>15500</cse:totalResults>
+  <cse:formattedTotalResults>15,500</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/arabtec-moelis-idUSL8N1FX02G</id>
-  <updated>1970-01-18T05:10:20.056Z</updated>
-  <title type="html">Dubai&amp;#39;s troubled Arabtec working with boutique investment bank ...</title>
-  <link href="http://www.reuters.com/article/arabtec-moelis-idUSL8N1FX02G" title="www.reuters.com"/>
-  <summary type="html">... is working with boutique investment bankMoelis to study options for the &lt;br&gt;
-company&amp;#39;s capitalstructure, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters &lt;br&gt;
-onSunday.</summary>
-  <cse:cacheId>fo17JhkhrMIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/arabtec-moelis-idUSL8N1FX02G</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;marketsNews;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Dubai%27s+troubled+Arabtec+working+with+boutique+investment+bank+Moelis+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="ARABTEC;MOELIS/;Investment Banking and Investment Services (TRBC);Americas;United Arab Emirates;Company News;Financials (TRBC);Construction and Engineering (TRBC);Financials (Legacy);Corporate Events;Investment Banking and Brokerage Services (TRBC);Asia / Pacific;Banking and Investment Services (TRBC);Industrial Services (TRBC);Industrials (TRBC);Middle East;Emerging Market Countries;United States"/>
-    <cse:Attribute name="revision_date" value="Sun Feb 12 11:37:39 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-12T11:37:39+0000"/>
-    <cse:Attribute name="sailthru.title" value="Dubai&apos;s troubled Arabtec working with boutique investment bank Moelis -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Dubai&apos;s troubled Arabtec working with boutique investment bank Moelis -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/arabtec-moelis-idUSL8N1FX02G"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Loss-making Dubai constructionfirm Arabtec is working with boutique investment bankMoelis to study options for the company&apos;s capitalstructure, sources familiar with the matter told Reuters onSunday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-12T11:37:39+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-12T11:37:39+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="ARABTEC,MOELIS/,Investment Banking and Investment Services (TRBC),Americas,United Arab Emirates,Company News,Financials (TRBC),Construction and Engineering (TRBC),Financials (Legacy),Corporate Events,Investment Banking and Brokerage Services (TRBC),Asia / Pacific,Banking and Investment Services (TRBC),Industrial Services (TRBC),Industrials (TRBC),Middle East,Emerging Market Countries,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Dubai&apos;s troubled Arabtec working with boutique investment bank Moelis -sources"/>
-    <cse:Attribute name="twitter:description" value="Loss-making Dubai constructionfirm Arabtec is working with boutique investment bankMoelis to study options for the company&apos;s capitalstructure, sources familiar with the matter told Reuters onSunday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-gm-autonomous-exclusive-idUSKBN15W283</id>
-  <updated>1970-01-18T05:10:20.056Z</updated>
+  <updated>1970-01-18T05:11:55.851Z</updated>
   <title type="html">Exclusive: GM plans to build, test thousands of self-driving Bolts in ...</title>
   <link href="http://www.reuters.com/article/us-gm-autonomous-exclusive-idUSKBN15W283" title="www.reuters.com"/>
   <summary type="html">... thousands of self-driving electric cars in test fleets in partnership with ride-&lt;br&gt;
@@ -152,109 +87,8 @@ automaker&amp;#39;s&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
-  <updated>1970-01-18T05:10:20.056Z</updated>
-  <title type="html">Davide Barbuscia</title>
-  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
-  <summary type="html">... quarter, though it has not yet sent to banks any official requests for proposals to &lt;br&gt;
-arrange the issue, banking &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Thursday.</summary>
-  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7</id>
-  <updated>1970-01-18T05:10:20.056Z</updated>
-  <title type="html">Trump&amp;#39;s pick for national security adviser turns down offer: White ...</title>
-  <link href="http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7" title="www.reuters.com"/>
-  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the decision said Harward turned down the job in part &lt;br&gt;
-because he wanted to bring in his own team. Vice Adm. Robert S. Harward,&amp;nbsp;...</summary>
-  <cse:cacheId>Uk09DvhiJSAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;domesticNews;politicsNews;Retirement;everything;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;greenpeace;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;USWire;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Trump%27s+pick+for+national+security+adviser+turns+down+offer%3A+White+House+official"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Russia;United States;Russia;United States;Donald Trump;K.T. McFarland;Michael Flynn;Mike Pence;Robert Harward;Sergei Kislyak;Donald Trump;K.T. McFarland;Michael Flynn;Mike Pence;Robert Harward;Sergei Kislyak;US;USA;TRUMP;HARWARD;Key Personnel Changes;Russia;Defense;Diplomacy / Foreign Policy;Arts / Culture / Entertainment;Government / Politics;Personalities / People;Major News;Europe;US Government News;International / National Security;Conflicts / War / Peace;United States"/>
-    <cse:Attribute name="revision_date" value="Fri Feb 17 16:00:50 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-17T16:00:50+0000"/>
-    <cse:Attribute name="sailthru.title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, a senior White House official said on Thursday."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-17T16:00:50+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-17T16:00:50+0000"/>
-    <cse:Attribute name="og:article:section" value="Politics"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Russia,United States,Russia,United States,Donald Trump,K.T. McFarland,Michael Flynn,Mike Pence,Robert Harward,Sergei Kislyak,Donald Trump,K.T. McFarland,Michael Flynn,Mike Pence,Robert Harward,Sergei Kislyak,US,USA,TRUMP,HARWARD,Key Personnel Changes,Russia,Defense,Diplomacy / Foreign Policy,Arts / Culture / Entertainment,Government / Politics,Personalities / People,Major News,Europe,US Government News,International / National Security,Conflicts / War / Peace,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
-    <cse:Attribute name="twitter:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, a senior White House official said on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
-    <cse:Attribute name="wt.cg_n" value="Politics"/>
-    <cse:Attribute name="wt.cg_s" value="Politics"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEC_JIj6zZ0qgVwUhAmNszMvcYrVAIixJcIwUMCHSUDe8M05PTssJnEft"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891</id>
-  <updated>1970-01-18T05:10:20.056Z</updated>
+  <updated>1970-01-18T05:11:55.851Z</updated>
   <title type="html">Trump associates communicated with suspected Russian intel...</title>
   <link href="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891" title="abcnews.go.com"/>
   <summary type="html">... Trump and suspected Russian intelligence officials in the lead-up to the 2016 &lt;br&gt;
@@ -323,131 +157,158 @@ presidential election, &lt;b&gt;sources familiar with&lt;/b&gt; the matter confi
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP</id>
-  <updated>1970-01-18T05:10:20.056Z</updated>
-  <title type="html">Exclusive: China&amp;#39;s Sinochem in early talks to buy stake in Noble ...</title>
-  <link href="http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP" title="www.reuters.com"/>
-  <summary type="html">China&amp;#39;s state-owned Sinochem is in early talks with Noble Group to buy an equity &lt;br&gt;
-stake in the embattled trader, three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, in a&amp;nbsp;...</summary>
-  <cse:cacheId>l-OvqVBegK8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP</cse:formattedUrl>
+  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
+  <updated>1970-01-18T05:11:55.851Z</updated>
+  <title type="html">Davide Barbuscia</title>
+  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
+  <summary type="html">... quarter, though it has not yet sent to banks any official requests for proposals to &lt;br&gt;
+arrange the issue, banking &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Thursday.</summary>
+  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsEnergy;innovationNewsFinancialServicesAndRealEstate;innovationNewsIndustryMaterialsAndUtilities;asiaDealsNews;asiaPrivateEquityNews;vbcSmallBusiness;china;innovationAMD;SustainabilityCorporate;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;singapore;asia;newsproHome;zurich;credit-rss;marine;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+China%27s+Sinochem+in+early+talks+to+buy+stake+in+Noble+Group+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Anshuman Daga and Sumeet Chatterjee"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Anshuman Daga and Sumeet Chatterjee"/>
-    <cse:Attribute name="news_keywords" value="China;United States;China;Singapore;United States;Richard Samuel Elman;Noble;Richard Samuel Elman;US;NOBLE;M;A;SINOCHEM;Investment Trusts (TRBC);Mergers / Acquisitions / Takeovers;Company News;Diversified Trading and Distributing (TRBC);Exclusive;China (PRC);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Asia / Pacific;Singapore;Major News;Marine Services (TRBC);Natural Gas"/>
-    <cse:Attribute name="revision_date" value="Tue Feb 14 06:30:53 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Anshuman Daga and Sumeet Chatterjee"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-14T06:30:53+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="China&apos;s state-owned Sinochem is in early talks with Noble Group to buy an equity stake in the embattled trader, three sources familiar with the matter said, in a move that would help it gain access to the commodity trader&apos;s global supply chain."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-14T06:30:53+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-14T06:30:53+0000"/>
-    <cse:Attribute name="og:article:author" value="Anshuman Daga and Sumeet Chatterjee"/>
-    <cse:Attribute name="og:article:tag" value="China,United States,China,Singapore,United States,Richard Samuel Elman,Noble,Richard Samuel Elman,US,NOBLE,M,A,SINOCHEM,Investment Trusts (TRBC),Mergers / Acquisitions / Takeovers,Company News,Diversified Trading and Distributing (TRBC),Exclusive,China (PRC),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Asia / Pacific,Singapore,Major News,Marine Services (TRBC),Natural Gas"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
-    <cse:Attribute name="twitter:description" value="China&apos;s state-owned Sinochem is in early talks with Noble Group to buy an equity stake in the embattled trader, three sources familiar with the matter said, in a move that would help it gain access to the commodity trader&apos;s global supply chain."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="281"/>
-    <cse:Attribute name="height" value="180"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmt6h2OfZjCQBdcIanU89sYY5T9xCwybeA9V1DgWN9ZL1vsCcd8Z7BUdc"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2</id>
-  <updated>1970-01-18T05:10:20.056Z</updated>
-  <title type="html">Exclusive: Paramount CEO Grey to depart as soon as next week ...</title>
-  <link href="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2" title="www.businessinsider.com"/>
-  <summary type="html">... Paramount Pictures film studio is expected to leave with an announcement &lt;br&gt;
-coming as early as next week, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the situation&lt;br&gt;
-.</summary>
-  <cse:cacheId>CLZWD93NEDMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon -as-next-week-sources-2017-2</cse:formattedUrl>
+  <id>https://www.yahoo.com/news/m/a65375e7-de1e-3835-81e6-324dd370f9b8/trump-associates-communicated.html</id>
+  <updated>1970-01-18T05:11:55.851Z</updated>
+  <title type="html">Trump associates communicated with suspected Russian intel ...</title>
+  <link href="https://www.yahoo.com/news/m/a65375e7-de1e-3835-81e6-324dd370f9b8/trump-associates-communicated.html" title="www.yahoo.com"/>
+  <summary type="html">... Trump and suspected Russian intelligence officials in the lead-up to the 2016 &lt;br&gt;
+presidential election, &lt;b&gt;sources familiar with&lt;/b&gt; the matter confirm to ABC News.</summary>
+  <cse:cacheId>rR8eSYG7FrAJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.yahoo.com/.../trump-associates-communicated.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-02-17"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-17"/>
-    <cse:Attribute name="news_keywords" value="Reuters"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters"/>
-    <cse:Attribute name="sailthru.description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
-    <cse:Attribute name="title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="tbi-image" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static5.businessinsider.com/image/58a771695124c9697d250a43-50-50/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="og:title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="og:description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
+    <cse:Attribute name="referrer" value="origin"/>
+    <cse:Attribute name="theme-color" value="#400090"/>
+    <cse:Attribute name="twitter:dnt" value="on"/>
+    <cse:Attribute name="twitter:site" value="@Yahoo"/>
+    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=a65375e7-de1e-3835-81e6-324dd370f9b8&amp;src=web"/>
+    <cse:Attribute name="twitter:description" value="U.S. authorities were concerned with and probing communications between associates of President Donald Trump and suspected Russian intelligence officials in the lead-up to the 2016 presidential election, sources familiar with the matter confirm to ABC News. The news comes just a day after Trump&apos;s national security adviser, Michael Flynn, resigned amid questions about conversations he had with the Russian ambassador during the transition and continuing inquiries about the administration&apos;s relationship with Russia. The New York Times first reported the alleged “repeated contacts” between the associates and Russians in the year leading up to the election. U.S. officials speaking with the Times noted"/>
+    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/BuhIq8XUMjRJu8UoO8JDHw--/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/bMTmjXy4W1tRF3j1MOc4wA--/dz05OTI7aD01NTg7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_a65375e7-de1e-3835-81e6-324dd370f9b8-850297919.jpeg"/>
+    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/BuhIq8XUMjRJu8UoO8JDHw--/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/bMTmjXy4W1tRF3j1MOc4wA--/dz05OTI7aD01NTg7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_a65375e7-de1e-3835-81e6-324dd370f9b8-850297919.jpeg"/>
+    <cse:Attribute name="twitter:title" value="Trump associates communicated with suspected Russian intel officers: Sources"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="twitter:description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="fb:app_id" value="90376669494"/>
+    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
+    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=a65375e7-de1e-3835-81e6-324dd370f9b8&amp;src=web"/>
+    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
+    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
+    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=a65375e7-de1e-3835-81e6-324dd370f9b8&amp;src=web"/>
+    <cse:Attribute name="og:image:width" value="992"/>
+    <cse:Attribute name="og:image:height" value="558"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static1.businessinsider.com/image/58a771695124c9697d250a43-506-253/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="og:image" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43-1190-625/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="url" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="image" value="http://static1.businessinsider.com/image/58a771695124c9697d250a43-506-253/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="og:description" value="U.S. authorities were concerned with and probing communications between associates of President Donald Trump and suspected Russian intelligence officials in the lead-up to the 2016 presidential election, sources familiar with the matter confirm to ABC News. The news comes just a day after Trump&apos;s national security adviser, Michael Flynn, resigned amid questions about conversations he had with the Russian ambassador during the transition and continuing inquiries about the administration&apos;s relationship with Russia. The New York Times first reported the alleged “repeated contacts” between the associates and Russians in the year leading up to the election. U.S. officials speaking with the Times noted"/>
+    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/BuhIq8XUMjRJu8UoO8JDHw--/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/bMTmjXy4W1tRF3j1MOc4wA--/dz05OTI7aD01NTg7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_a65375e7-de1e-3835-81e6-324dd370f9b8-850297919.jpeg"/>
+    <cse:Attribute name="og:title" value="Trump associates communicated with suspected Russian intel officers: Sources"/>
+    <cse:Attribute name="og:url" value="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891&amp;yptr=yahoo"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/58a4d84501fe5877368b4781-400/32-high-paying-jobs-for-people-who-dont-like-stress.jpg"/>
+    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/BuhIq8XUMjRJu8UoO8JDHw--/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/bMTmjXy4W1tRF3j1MOc4wA--/dz05OTI7aD01NTg7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_a65375e7-de1e-3835-81e6-324dd370f9b8-850297919.jpeg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQriRjefNUf8zFQoTnmP7d6Z-KnHebyYbdE9ET0cBTWVK3IHso2iXaiOzc"/>
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNkyjbotBauSUND1at71PVnkuqsbYeeETmDAUO2b-fjuxhS9duL0eKokeq"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-sprint-corp-m-a-t-mobile-us-exclusive-idUSKBN15W26E</id>
+  <updated>1970-01-18T05:11:55.851Z</updated>
+  <title type="html">Exclusive: SoftBank willing to cede control of Sprint to entice T-Mobile</title>
+  <link href="http://www.reuters.com/article/us-sprint-corp-m-a-t-mobile-us-exclusive-idUSKBN15W26E" title="www.reuters.com"/>
+  <summary type="html">... thousands of self-driving electric cars in test fleets in partnership with ride-&lt;br&gt;
+sharing affiliate Lyft Inc, beginning in 2018, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+automaker&amp;#39;s&amp;nbsp;...</summary>
+  <cse:cacheId>N8wxwDf1ml8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-sprint-corp-m-a-t-mobile-us-exclusive- idUSKBN15W26E</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;technologyNews;internetNews;innovationNews;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;ousivMolt;innovationAMD;japan;everything;Deals;AllianzInvestments;Hyundai;Allianz;asia;newsproHome;verizonmm;audib2b;credit-rss;davosBackup;cfaglobal;aa48hours;athletics;shipping;dassaultuk;MBenz;ubs;globalinnovations;Intel;PFG;huawei;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+SoftBank+willing+to+cede+control+of+Sprint+to+entice+T-Mobile+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Liana B. Baker"/>
+    <cse:Attribute name="news_keywords" value="United States;AJIT PAI;Christopher Marangi;Craig Moffett;Donald Trump;John J. Legere;Marcelo Claure;Masayoshi Son;Tim Hoettges;US;SPRINT;CORP;M;A;T;MOBILE;US;EXCLUSIVE;Germany;Mergers / Acquisitions / Takeovers;Company News;Japan;Western Europe;Diversified REITs (TRBC);Exclusive;Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Corporate Events;Integrated Telecommunications Services (TRBC);Divestitures / Spin;Offs;Asia / Pacific;English;Major News;Europe;Science;Regulation;United States"/>
+    <cse:Attribute name="revision_date" value="Sat Feb 18 01:05:39 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Liana B. Baker"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-18T01:05:39+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: SoftBank willing to cede control of Sprint to entice T-Mobile - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: SoftBank willing to cede control of Sprint to entice T-Mobile - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-sprint-corp-m-a-t-mobile-us-exclusive-idUSKBN15W26E"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Japan&apos;s SoftBank Group Corp (9984.T) is prepared to give up control of Sprint Corp (S.N) to Deutsche Telekom AG&apos;s (DTEGn.DE) T-Mobile US Inc (TMUS.O) to clinch a merger of the two U.S. wireless carriers, according to people familiar with the matter."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173133259&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G17Y"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-18T01:05:39+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-18T01:05:39+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Liana B. Baker"/>
+    <cse:Attribute name="og:article:tag" value="United States,AJIT PAI,Christopher Marangi,Craig Moffett,Donald Trump,John J. Legere,Marcelo Claure,Masayoshi Son,Tim Hoettges,US,SPRINT,CORP,M,A,T,MOBILE,US,EXCLUSIVE,Germany,Mergers / Acquisitions / Takeovers,Company News,Japan,Western Europe,Diversified REITs (TRBC),Exclusive,Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Corporate Events,Integrated Telecommunications Services (TRBC),Divestitures / Spin,Offs,Asia / Pacific,English,Major News,Europe,Science,Regulation,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: SoftBank willing to cede control of Sprint to entice T-Mobile - sources"/>
+    <cse:Attribute name="twitter:description" value="Japan&apos;s SoftBank Group Corp (9984.T) is prepared to give up control of Sprint Corp (S.N) to Deutsche Telekom AG&apos;s (DTEGn.DE) T-Mobile US Inc (TMUS.O) to clinch a merger of the two U.S. wireless carriers, according to people familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173133259&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G17Y"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173133259&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G17Y"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static.reuters.com/resources/media/global/assets/images/20170217/20170217_3674604920170217213745.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="240"/>
+    <cse:Attribute name="height" value="180"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJlMsSvDx1pEmucEQSuZesyEbx0VNudmG87pkP6x_OttpFq5rwS_4oSng"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-banco-santander-tech-investment-idUSKBN15W1WB</id>
-  <updated>1970-01-18T05:10:20.056Z</updated>
+  <updated>1970-01-18T05:11:55.851Z</updated>
   <title type="html">Santander invests in artificial intelligence startups: sources | Reuters</title>
   <link href="http://www.reuters.com/article/us-banco-santander-tech-investment-idUSKBN15W1WB" title="www.reuters.com"/>
   <summary type="html">... artificial-intelligence companies, part of the financial industry&amp;#39;s increased focus &lt;br&gt;
@@ -510,99 +371,254 @@ on technology smart enough to mimic human thinking, &lt;b&gt;sources familiar wi
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/news/trumps-choice-national-security-adviser-turned-down-offer-231202855.html</id>
-  <updated>1970-01-18T05:10:20.056Z</updated>
-  <title type="html">Trump&amp;#39;s choice for national security adviser has turned down offer ...</title>
-  <link href="https://www.yahoo.com/news/trumps-choice-national-security-adviser-turned-down-offer-231202855.html" title="www.yahoo.com"/>
-  <summary type="html">President Donald Trump&amp;#39;s choice for national security adviser, retired Vice &lt;br&gt;
-Admiral Robert Harward, has turned down the offer, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-Harward&amp;#39;s&amp;nbsp;...</summary>
-  <cse:cacheId>j2Xq1PdDNfwJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../trumps-choice-national-security-adviser-turned- down-offer-231202855.html</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7</id>
+  <updated>1970-01-18T05:11:55.851Z</updated>
+  <title type="html">Trump&amp;#39;s pick for national security adviser turns down offer: White ...</title>
+  <link href="http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7" title="www.reuters.com"/>
+  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the decision said Harward turned down the job in part &lt;br&gt;
+because he wanted to bring in his own team. Vice Adm. Robert S. Harward,&amp;nbsp;...</summary>
+  <cse:cacheId>Uk09DvhiJSAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@Yahoo"/>
-    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=c572f7e3-814a-35d9-ae6b-c9d763d3ba2e&amp;src=web"/>
-    <cse:Attribute name="twitter:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, sources familiar with Harward&apos;s decision said on Thursday.  Harward was offered the job after Michael Flynn was fired by Trump on Monday for misleading Vice President"/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="twitter:title" value="Trump&apos;s choice for national security adviser has turned down offer: sources"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;domesticNews;politicsNews;Retirement;everything;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;greenpeace;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;USWire;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Trump%27s+pick+for+national+security+adviser+turns+down+offer%3A+White+House+official"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Russia;United States;Russia;United States;Donald Trump;K.T. McFarland;Michael Flynn;Mike Pence;Robert Harward;Sergei Kislyak;Donald Trump;K.T. McFarland;Michael Flynn;Mike Pence;Robert Harward;Sergei Kislyak;US;USA;TRUMP;HARWARD;Key Personnel Changes;Russia;Defense;Diplomacy / Foreign Policy;Arts / Culture / Entertainment;Government / Politics;Personalities / People;Major News;Europe;US Government News;International / National Security;Conflicts / War / Peace;United States"/>
+    <cse:Attribute name="revision_date" value="Fri Feb 17 16:00:50 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-17T16:00:50+0000"/>
+    <cse:Attribute name="sailthru.title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="fb:app_id" value="90376669494"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=c572f7e3-814a-35d9-ae6b-c9d763d3ba2e&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=c572f7e3-814a-35d9-ae6b-c9d763d3ba2e&amp;src=web"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="og:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, sources familiar with Harward&apos;s decision said on Thursday.  Harward was offered the job after Michael Flynn was fired by Trump on Monday for misleading Vice President"/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
-    <cse:Attribute name="og:title" value="Trump&apos;s choice for national security adviser has turned down offer: sources"/>
-    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/trumps-choice-national-security-adviser-turned-down-offer-231202855.html"/>
+    <cse:Attribute name="og:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, a senior White House official said on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-17T16:00:50+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-17T16:00:50+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Russia,United States,Russia,United States,Donald Trump,K.T. McFarland,Michael Flynn,Mike Pence,Robert Harward,Sergei Kislyak,Donald Trump,K.T. McFarland,Michael Flynn,Mike Pence,Robert Harward,Sergei Kislyak,US,USA,TRUMP,HARWARD,Key Personnel Changes,Russia,Defense,Diplomacy / Foreign Policy,Arts / Culture / Entertainment,Government / Politics,Personalities / People,Major News,Europe,US Government News,International / National Security,Conflicts / War / Peace,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, a senior White House official said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="225"/>
-    <cse:Attribute name="height" value="225"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsu8h2qPcbEySow_b11yLyETddWLbICdJLk1xWXl-3molDDR1MTHSgF0Nw"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEC_JIj6zZ0qgVwUhAmNszMvcYrVAIixJcIwUMCHSUDe8M05PTssJnEft"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.chicagotribune.com/ct-rahm-emanuel-dc-meetings-met-0214-20170213-story.html</id>
-  <updated>1970-01-18T05:10:20.056Z</updated>
-  <title type="html">Emanuel in DC to meet with AG Sessions, Trump son-in-law Kushner</title>
-  <link href="http://www.chicagotribune.com/ct-rahm-emanuel-dc-meetings-met-0214-20170213-story.html" title="www.chicagotribune.com"/>
-  <summary type="html">... Trump administration officials, including new Attorney General Jeff Sessions &lt;br&gt;
-and senior adviser Jared Kushner, according to &lt;b&gt;sources familiar with&lt;/b&gt; the mayor&amp;#39;s&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>lSSH-OMSPuAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.chicagotribune.com/ct-rahm-emanuel-dc-meetings-met-0214- 20170213-story.html</cse:formattedUrl>
+  <id>http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2</id>
+  <updated>1970-01-18T05:11:55.851Z</updated>
+  <title type="html">Exclusive: Paramount CEO Grey to depart as soon as next week ...</title>
+  <link href="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2" title="www.businessinsider.com"/>
+  <summary type="html">... Paramount Pictures film studio is expected to leave with an announcement &lt;br&gt;
+coming as early as next week, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the situation&lt;br&gt;
+.</summary>
+  <cse:cacheId>CLZWD93NEDMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon -as-next-week-sources-2017-2</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="Bill Ruthhart"/>
-    <cse:Attribute name="date" value="2017-02-13"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 Chicago Tribune"/>
-    <cse:Attribute name="news_keywords" value="Rahm Emanuel, Donald Trump, Jeff Sessions, Jared Kushner"/>
-    <cse:Attribute name="fb_title" value="Emanuel in D.C. to meet with AG Sessions, Trump son-in-law Kushner"/>
-    <cse:Attribute name="og:title" value="Emanuel in D.C. to meet with AG Sessions, Trump son-in-law Kushner"/>
-    <cse:Attribute name="og:description" value="Mayor Rahm Emanuel is in Washington on Monday for meetings with senior Trump administration officials, including new Attorney General Jeff Sessions and senior adviser Jared Kushner , according to sources familiar with the mayor&apos;s schedule."/>
-    <cse:Attribute name="fb:page_id" value="5953023255"/>
-    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="date" value="2017-02-17"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-17"/>
+    <cse:Attribute name="news_keywords" value="Reuters"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters"/>
+    <cse:Attribute name="sailthru.description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="tbi-image" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static5.businessinsider.com/image/58a771695124c9697d250a43-50-50/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="og:title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="og:description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/local/politics/ct-rahm-emanuel-dc-meetings-met-0214-20170213-story.html"/>
-    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-58a20ca8/turbine/ct-rahm-emanuel-dc-meetings-met-0214-20170213"/>
-    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
-    <cse:Attribute name="googlebot-news" value="index"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/92568550"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i18prod-4934743-0-68.1"/>
-    <cse:Attribute name="so:status" value="5,1"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="twitter:description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://static1.businessinsider.com/image/58a771695124c9697d250a43-506-253/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="og:image" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43-1190-625/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
    </cse:DataObject>
    <cse:DataObject type="article">
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="headline" value="Emanuel in D.C. to meet with AG Sessions, Trump son-in-law Kushner"/>
-    <cse:Attribute name="author" value="Bill Ruthhart"/>
-    <cse:Attribute name="datepublished" value="2017-02-13T13:35:00CST"/>
-    <cse:Attribute name="articlebody" value="Mayor Rahm Emanuel is in Washington on Monday for meetings with senior Trump administration officials, including new Attorney General Jeff Sessions and senior adviser Jared Kushner, according..."/>
+    <cse:Attribute name="name" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="url" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
+    <cse:Attribute name="image" value="http://static1.businessinsider.com/image/58a771695124c9697d250a43-506-253/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
+    <cse:Attribute name="description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.trbimg.com/img-58a20ca8/turbine/ct-rahm-emanuel-dc-meetings-met-0214-20170213"/>
+    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/58a4d84501fe5877368b4781-400/32-high-paying-jobs-for-people-who-dont-like-stress.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="268"/>
-    <cse:Attribute name="height" value="188"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWEjjL_ex2DWhW8DXQfIiZTWcyTgWQTNUWQE8mVoXJsYMF0cFTmBW7KDs"/>
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQriRjefNUf8zFQoTnmP7d6Z-KnHebyYbdE9ET0cBTWVK3IHso2iXaiOzc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP</id>
+  <updated>1970-01-18T05:11:55.851Z</updated>
+  <title type="html">Exclusive: China&amp;#39;s Sinochem in early talks to buy stake in Noble ...</title>
+  <link href="http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP" title="www.reuters.com"/>
+  <summary type="html">China&amp;#39;s state-owned Sinochem is in early talks with Noble Group to buy an equity &lt;br&gt;
+stake in the embattled trader, three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, in a&amp;nbsp;...</summary>
+  <cse:cacheId>l-OvqVBegK8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsEnergy;innovationNewsFinancialServicesAndRealEstate;innovationNewsIndustryMaterialsAndUtilities;asiaDealsNews;asiaPrivateEquityNews;vbcSmallBusiness;china;innovationAMD;SustainabilityCorporate;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;singapore;asia;newsproHome;zurich;credit-rss;marine;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+China%27s+Sinochem+in+early+talks+to+buy+stake+in+Noble+Group+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Anshuman Daga and Sumeet Chatterjee"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Anshuman Daga and Sumeet Chatterjee"/>
+    <cse:Attribute name="news_keywords" value="China;United States;China;Singapore;United States;Richard Samuel Elman;Noble;Richard Samuel Elman;US;NOBLE;M;A;SINOCHEM;Investment Trusts (TRBC);Mergers / Acquisitions / Takeovers;Company News;Diversified Trading and Distributing (TRBC);Exclusive;China (PRC);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Asia / Pacific;Singapore;Major News;Marine Services (TRBC);Natural Gas"/>
+    <cse:Attribute name="revision_date" value="Tue Feb 14 06:30:53 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Anshuman Daga and Sumeet Chatterjee"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-14T06:30:53+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="China&apos;s state-owned Sinochem is in early talks with Noble Group to buy an equity stake in the embattled trader, three sources familiar with the matter said, in a move that would help it gain access to the commodity trader&apos;s global supply chain."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-14T06:30:53+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-14T06:30:53+0000"/>
+    <cse:Attribute name="og:article:author" value="Anshuman Daga and Sumeet Chatterjee"/>
+    <cse:Attribute name="og:article:tag" value="China,United States,China,Singapore,United States,Richard Samuel Elman,Noble,Richard Samuel Elman,US,NOBLE,M,A,SINOCHEM,Investment Trusts (TRBC),Mergers / Acquisitions / Takeovers,Company News,Diversified Trading and Distributing (TRBC),Exclusive,China (PRC),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Asia / Pacific,Singapore,Major News,Marine Services (TRBC),Natural Gas"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
+    <cse:Attribute name="twitter:description" value="China&apos;s state-owned Sinochem is in early talks with Noble Group to buy an equity stake in the embattled trader, three sources familiar with the matter said, in a move that would help it gain access to the commodity trader&apos;s global supply chain."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="281"/>
+    <cse:Attribute name="height" value="180"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmt6h2OfZjCQBdcIanU89sYY5T9xCwybeA9V1DgWN9ZL1vsCcd8Z7BUdc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN15U21R</id>
+  <updated>1970-01-18T05:11:55.851Z</updated>
+  <title type="html">Verizon close to Yahoo deal, price cut of $250-350 million: sources ...</title>
+  <link href="http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN15U21R" title="www.reuters.com"/>
+  <summary type="html">... thousands of self-driving electric cars in test fleets in partnership with ride-&lt;br&gt;
+sharing affiliate Lyft Inc, beginning in 2018, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+automaker&amp;#39;s&amp;nbsp;...</summary>
+  <cse:cacheId>RV3Rc2ermXsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN15U21R</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="newsOne;businessNews;technologyNews;innovationNews;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;everything;Deals;AllianzRetirement;AllianzInvestments;Hyundai;corporate_crime;Allianz;cybersecurity;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;MBenz;globalinnovations;Intel;intelmicrosite;PFG;huawei;LinkedInBusTech;CathayPacific_US;cyberRisk;cyber;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Verizon+close+to+Yahoo+deal%2C+price+cut+of+%24250-350+million%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="David Shepardson and Jessica Toonkel"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="David Shepardson and Jessica Toonkel"/>
+    <cse:Attribute name="news_keywords" value="Dave Heger;US;YAHOO;M;A;VERIZON;Mergers / Acquisitions / Takeovers;Company News;Content produced in Bangalore;Volatile Shares / Hot Stocks;Corporate Events;Technology (TRBC);Integrated Telecommunications Services (TRBC);Divestitures / Spin;Offs;Major News;Internet / World Wide Web;Science;Technology / Media / Telecoms;Deals;United States"/>
+    <cse:Attribute name="revision_date" value="Wed Feb 15 23:21:06 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="David Shepardson and Jessica Toonkel"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-15T23:21:06+0000"/>
+    <cse:Attribute name="sailthru.title" value="Verizon close to Yahoo deal, price cut of $250-350 million: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Verizon close to Yahoo deal, price cut of $250-350 million: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN15U21R"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Verizon Communications Inc (VZ.N) is close to a revised deal to buy Yahoo Inc&apos;s (YHOO.O) core internet business for $250 million to $350 million less than the original agreed price of $4.83 billion, according to a source briefed on the matter."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170215&amp;t=2&amp;i=1172803617&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1E14F"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-15T23:21:06+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-15T23:21:06+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="David Shepardson and Jessica Toonkel"/>
+    <cse:Attribute name="og:article:tag" value="Dave Heger,US,YAHOO,M,A,VERIZON,Mergers / Acquisitions / Takeovers,Company News,Content produced in Bangalore,Volatile Shares / Hot Stocks,Corporate Events,Technology (TRBC),Integrated Telecommunications Services (TRBC),Divestitures / Spin,Offs,Major News,Internet / World Wide Web,Science,Technology / Media / Telecoms,Deals,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Verizon close to Yahoo deal, price cut of $250-350 million: sources"/>
+    <cse:Attribute name="twitter:description" value="Verizon Communications Inc (VZ.N) is close to a revised deal to buy Yahoo Inc&apos;s (YHOO.O) core internet business for $250 million to $350 million less than the original agreed price of $4.83 billion, according to a source briefed on the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170215&amp;t=2&amp;i=1172803617&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1E14F"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170215&amp;t=2&amp;i=1172803617&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1E14F"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170215&amp;t=2&amp;i=1172803617&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1E14F"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEfOCTb-QFikVAxPr1lvT3zZag3Nfnffu1ULu4-2_FO9AxAmRF3zjrb-U"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
