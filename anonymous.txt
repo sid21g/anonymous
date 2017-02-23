@@ -1,207 +1,292 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "sources familiar with"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "a source close to"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="a source close to"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:11:55.851Z</updated>
+ <updated>1970-01-18T05:16:52.764Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>15500</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="20200" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="20200" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>20200</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.436626</cse:searchTime>
-  <cse:formattedSearchTime>0.44</cse:formattedSearchTime>
-  <cse:totalResults>15500</cse:totalResults>
-  <cse:formattedTotalResults>15,500</cse:formattedTotalResults>
+  <cse:searchTime>1.311913</cse:searchTime>
+  <cse:formattedSearchTime>1.31</cse:formattedSearchTime>
+  <cse:totalResults>20200</cse:totalResults>
+  <cse:formattedTotalResults>20,200</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-gm-autonomous-exclusive-idUSKBN15W283</id>
-  <updated>1970-01-18T05:11:55.851Z</updated>
-  <title type="html">Exclusive: GM plans to build, test thousands of self-driving Bolts in ...</title>
-  <link href="http://www.reuters.com/article/us-gm-autonomous-exclusive-idUSKBN15W283" title="www.reuters.com"/>
-  <summary type="html">... thousands of self-driving electric cars in test fleets in partnership with ride-&lt;br&gt;
-sharing affiliate Lyft Inc, beginning in 2018, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-automaker&amp;#39;s&amp;nbsp;...</summary>
-  <cse:cacheId>QdafE-jo79EJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-gm-autonomous-exclusive-idUSKBN15W283</cse:formattedUrl>
+  <id>https://techcrunch.com/page/2/</id>
+  <updated>1970-01-18T05:16:52.764Z</updated>
+  <title type="html">TechCrunch - The latest technology news and information on startups</title>
+  <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
+  <summary type="html">MobileIron, which went public in 2014, has been known mostly for helping large &lt;br&gt;
+companies manage mobile devices, especially in a time when people tend to&amp;nbsp;...</summary>
+  <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="p:domain_verify" value="6189ff68ce30e30f12b40b3b40873027"/>
+    <cse:Attribute name="handheldfriendly" value="True"/>
+    <cse:Attribute name="mobileoptimized" value="320"/>
+    <cse:Attribute name="viewport" value="initial-scale=1.0,width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="TechCrunch"/>
+    <cse:Attribute name="msvalidate.01" value="5ABD8A078F3356F3A6A8C8643C31FB8F"/>
+    <cse:Attribute name="fb:app_id" value="187288694643718"/>
+    <cse:Attribute name="fb:admins" value="543710097,771265067,1661021707,1550970059,663677613,1178144075,726995222,506404657,4700188"/>
+    <cse:Attribute name="wp-parsely_version" value="1.10.2"/>
+    <cse:Attribute name="og:site_name" value="TechCrunch"/>
+    <cse:Attribute name="og:site" value="social.techcrunch.com"/>
+    <cse:Attribute name="og:title" value="TechCrunch|2"/>
+    <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/gettyimages-611997318.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
+    <cse:Attribute name="og:type" value="website"/>
+    <cse:Attribute name="author" value="Ron Miller"/>
+    <cse:Attribute name="id" value="1455728"/>
+    <cse:Attribute name="title" value="TechCrunch|2"/>
+    <cse:Attribute name="object_type" value="post"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/22/mobileiron-adding-iot-management-to-its-arsenal/"/>
+    <cse:Attribute name="timestamp" value="2017-02-22 08:00:57"/>
+    <cse:Attribute name="content" value="MobileIron, which went public in 2014, has been known mostly for helping large companies manage mobile devices, especially in a time when people tend to bring their own. Today it announced it was expanding that mission to the Internet of Things. When you think about it, it&apos;s a logical move for a company that is used to overseeing a large number of devices and helping IT keep them secure. &quot;Where we are working, [IoT] is a nice natural adjacency we can leverage,&quot; says MobileIron CEO Barry Mainz. Mobile device management involves providing mechanisms for securing a mobile device, even when the company doesn&apos;t own it. Mainz says the standard MobileIron architecture is equipped to deal with IoT because of the company&apos;s experience with mobile devices including a device management component, a policy engine for setting rules around the devices and the ability to secure the data on the device. Where it gets tricky he says, is around authentication because instead of a human logging onto a…"/>
+    <cse:Attribute name="excerpt" value="MobileIron, which went public in 2014, has been known mostly for helping large companies manage mobile devices, especially in a time when people tend to bring their own. Today it announced it was expanding that mission to the Internet of Things. When you think about it, it’s a logical move for a company that is used to overseeing a large number of devices and helping IT keep them secure."/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/gettyimages-611997318.jpg?w=150"/>
+    <cse:Attribute name="category" value="Cloud"/>
+    <cse:Attribute name="tag" value="MobileIron"/>
+    <cse:Attribute name="application-name" value="TechCrunch"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=https://techcrunch.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=16"/>
+    <cse:Attribute name="st:robots" value="follow, index"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/01/tc-disrupt-ny-17-flatiron-image.png?w=208&amp;h=156&amp;crop=1&amp;quality=85&amp;strip=all"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="166"/>
+    <cse:Attribute name="height" value="124"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytmHvgjcBja6vf7ueA43WFFU-qjUq2MCFYMWsPKNAInSLsPlvds5Zng"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html</id>
+  <updated>1970-01-18T05:16:52.764Z</updated>
+  <title type="html">Angelina Jolie &amp;#39;is NOT dating&amp;#39; castmate Jared Leto | Daily Mail Online</title>
+  <link href="http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html" title="www.dailymail.co.uk"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; 41-year-old Angie told Gossip Cop there was &amp;#39;no truth&amp;#39; to Star&amp;#39;s &lt;br&gt;
+claims the Oscar-winning duo&amp;#39;s &amp;#39;hot date in LA put a smile back on&amp;#39; her face.</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Angelina-Jolie-NOT-dating-castmate-Jared-Leto. html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Angelina,Jolie,NOT,dating,castmate,Jared,Leto"/>
+    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html"/>
+    <cse:Attribute name="channel" value="Celebrities,Entertainment,TV,Tv&amp;Showbiz"/>
+    <cse:Attribute name="rating" value="General"/>
+    <cse:Attribute name="doc-class" value="Living Document"/>
+    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
+    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
+    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="articleid" value="4243718"/>
+    <cse:Attribute name="divclasspage" value="articlePage"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Angelina Jolie &apos;is NOT dating&apos; castmate Jared Leto following divorce"/>
+    <cse:Attribute name="twitter:description" value="A source close to 41-year-old Angie told Gossip Cop there was &apos;no truth&apos; to Star&apos;s claims the Oscar-winning duo&apos;s &apos;hot date in LA put a smile back on&apos; her face"/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/2017/02/21/00/3D784BAB00000578-0-image-a-57_1487638536044.jpg"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
+    <cse:Attribute name="article:published_time" value="2017-02-21T00:56:32+0000"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-21T07:52:34+0000"/>
+    <cse:Attribute name="article:section" value="TV&amp;Showbiz"/>
+    <cse:Attribute name="article:tag" value="Angelina Jolie NOT dating castmate Jared Leto"/>
+    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Cassie+Carpenter+For+Dailymail.com"/>
+    <cse:Attribute name="fb:app_id" value="146202712090395"/>
+    <cse:Attribute name="og:site_name" value="Mail Online"/>
+    <cse:Attribute name="og:title" value="Angelina Jolie &apos;is NOT dating&apos; castmate Jared Leto following divorce"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="A source close to 41-year-old Angie told Gossip Cop there was &apos;no truth&apos; to Star&apos;s claims the Oscar-winning duo&apos;s &apos;hot date in LA put a smile back on&apos; her face"/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4243718/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/2017/02/21/00/3D784BAB00000578-0-image-a-57_1487638536044.jpg"/>
+    <cse:Attribute name="og:image:width" value="636"/>
+    <cse:Attribute name="og:image:height" value="382"/>
+    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
+    <cse:Attribute name="og:video" value="http://video.dailymail.co.uk/video/mol/2017/02/20/6663586826877485197/1024x576_MP4_6663586826877485197.mp4"/>
+    <cse:Attribute name="og:video:type" value="video/mp4"/>
+    <cse:Attribute name="og:video:width" value="636"/>
+    <cse:Attribute name="og:video:height" value="358"/>
+    <cse:Attribute name="al:android:url" value="dailymail-fb://article/4243718/"/>
+    <cse:Attribute name="al:android:package" value="com.dailymail.online"/>
+    <cse:Attribute name="al:android:app_name" value="Daily Mail Online"/>
+    <cse:Attribute name="al:ios:url" value="dailymail-fb://article/4243718/"/>
+    <cse:Attribute name="al:ios:app_store_id" value="384101264"/>
+    <cse:Attribute name="al:ios:app_name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Angelina Jolie &apos;is NOT dating&apos; castmate Jared Leto"/>
+    <cse:Attribute name="datepublished" value="2017-02-21T00:56:32+0000"/>
+    <cse:Attribute name="datemodified" value="2017-02-21T07:52:34+0000"/>
+    <cse:Attribute name="articlebody" value="It&apos;s been five months since Angelina Jolie filed for divorce from her third husband Brad Pitt, and she just shot down her first rebound romance rumor - Jared Leto. A source close to 41-year-old..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Cassie Carpenter For Dailymail.com"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/2017/02/21/00/3D784BAB00000578-0-image-a-57_1487638536044.jpg"/>
+    <cse:Attribute name="height" value="382"/>
+    <cse:Attribute name="width" value="636"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
+    <cse:Attribute name="width" value="350"/>
+    <cse:Attribute name="height" value="66"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/2017/02/21/00/3D784BAB00000578-0-image-a-57_1487638536044.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="290"/>
+    <cse:Attribute name="height" value="174"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rLEj6TbwjK1d_Db3DG0bOQehd1C8HCBaECZcMRcEV_RGYGRvd5-_6Ms"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/</id>
+  <updated>1970-01-18T05:16:52.764Z</updated>
+  <title type="html">Christie tells his staff he is taking White House job | New York Post</title>
+  <link href="http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/" title="nypost.com"/>
+  <summary type="html">New Jersey Gov. Chris Christie is telling friends and staff he is taking a role with &lt;br&gt;
+the Trump administration, according to &lt;b&gt;a source close to&lt;/b&gt; the White House.</summary>
+  <cse:cacheId>6jUrxFabcQ0J</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/.../christie-tells-his-staff-he-is-taking-white-house-job/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
+    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Christie tells his staff he is taking White House job"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/"/>
+    <cse:Attribute name="og:description" value="New Jersey Gov. Chris Christie is telling friends and staff he is taking a role with the Trump administration, according to a source close to the White House. The GOP governor’s position has not be…"/>
+    <cse:Attribute name="article:published_time" value="2017-02-19T04:35:50+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-20T14:18:05+00:00"/>
+    <cse:Attribute name="og:site_name" value="New York Post"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="twitter:site" value="@nypost"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:creator" value="@nypost"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
+    <cse:Attribute name="twitter:title" value="Christie tells his staff he is taking White House job"/>
+    <cse:Attribute name="twitter:description" value="New Jersey Gov. Chris Christie is telling friends and staff he is taking a role with the Trump administration, according to a source close to the White House. The GOP governor’s position has not"/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i2.wp.com/thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="nypost-section" value="News"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10749982&quot;}"/>
+    <cse:Attribute name="news_keywords" value="News,chris christie,donald trump,white house"/>
+    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
+    <cse:Attribute name="fb:pages" value="134486075205"/>
+    <cse:Attribute name="application-name" value="New York Post"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwLf-qihjsoaK0DDmjheTTEt-ro8q5i7gn81uaJZ1jLkbCoZlJ-7_TlbwX"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV</id>
+  <updated>1970-01-18T05:16:52.764Z</updated>
+  <title type="html">Wanted: a CEO willing to hold Greek banking&amp;#39;s poisoned chalice ...</title>
+  <link href="http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV" title="www.reuters.com"/>
+  <summary type="html">The fund, financed by euro zone and International Monetary Fund loans, has not &lt;br&gt;
+explained its failure to find a new leader, but &lt;b&gt;a source close to&lt;/b&gt; the recruitment&amp;nbsp;...</summary>
+  <cse:cacheId>q-vs0UK1qzgJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-greece-banks-ceo-analysis-idUSKBN15Z1IV</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;technologyNews;ousivMolt;vbcSmallBusiness;Auto;corporateResponsibility;innovationAMD;SustainabilityGreen;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;autos;Allianz;newsproHome;verizonmm;audib2b;marine;davosBackup;cfaglobal;aa48hours;nonegative;MBenz;ubs;globalinnovations;Intel;intelmicrosite;PFG;huawei;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+GM+plans+to+build%2C+test+thousands+of+self-driving+Bolts+in+2018+-+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="businessNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;everything;Deals;forexNewsCopy;Davos;Greece;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;europe;newsproHome;audib2b;Davos2012;cfaglobal;aa48hours;dassaultuk;Intel;PFG;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Wanted%3A+a+CEO+willing+to+hold+Greek+banking%27s+poisoned+chalice"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Paul Lienert"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Paul Lienert"/>
-    <cse:Attribute name="news_keywords" value="United States;Daniel Ammann;John Zimmer;Logan Green;Mary T. Barra;Mike Ableson;US;GM;AUTONOMOUS;EXCLUSIVE;Automobiles / Auto Parts (Legacy);Company News;Auto and Truck Manufacturers (TRBC);Exclusive;Picture available;Transportation (TRBC);Corporate Events;Automobiles and Auto Parts (TRBC);Technology (TRBC);Major News;Science;Pictures;United States;IT Services and Consulting (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Fri Feb 17 20:02:21 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Paul Lienert"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-17T20:02:21+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: GM plans to build, test thousands of self-driving Bolts in 2018 - sources"/>
+    <cse:Attribute name="dcsext.rauthor" value="George Georgiopoulos"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-businessNews"/>
+    <cse:Attribute name="author" value="George Georgiopoulos"/>
+    <cse:Attribute name="news_keywords" value="Greece;Nick Koskoletos;YANNIS VAROUFAKIS;US;GREECE;BANKS;CEO;ANALYSIS;Banks (TRBC);Funds;Company News;Insights;Financials (TRBC);Analyses;Financials (Legacy);Greece;Corporate Events;Euro Zone;European Union;Major News;Equities Markets;Europe;Enterprise Reporting;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Mon Feb 20 14:59:15 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="George Georgiopoulos"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-20T14:59:15+0000"/>
+    <cse:Attribute name="sailthru.title" value="Wanted: a CEO willing to hold Greek banking&apos;s &quot;poisoned chalice&quot;"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: GM plans to build, test thousands of self-driving Bolts in 2018 - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-gm-autonomous-exclusive-idUSKBN15W283"/>
+    <cse:Attribute name="og:title" value="Wanted: a CEO willing to hold Greek banking&apos;s &quot;poisoned chalice&quot;"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="General Motors Co plans to deploy thousands of self-driving electric cars in test fleets in partnership with ride-sharing affiliate Lyft Inc, beginning in 2018, two sources familiar with the automaker’s plans said this week."/>
-    <cse:Attribute name="og:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173125959&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G191"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-17T20:02:21+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-17T20:02:21+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Paul Lienert"/>
-    <cse:Attribute name="og:article:tag" value="United States,Daniel Ammann,John Zimmer,Logan Green,Mary T. Barra,Mike Ableson,US,GM,AUTONOMOUS,EXCLUSIVE,Automobiles / Auto Parts (Legacy),Company News,Auto and Truck Manufacturers (TRBC),Exclusive,Picture available,Transportation (TRBC),Corporate Events,Automobiles and Auto Parts (TRBC),Technology (TRBC),Major News,Science,Pictures,United States,IT Services and Consulting (TRBC)"/>
+    <cse:Attribute name="og:description" value="Wanted: a chief executive to run Greece&apos;s bank-rescue fund. Job description: work hard and pray for a miracle."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170220&amp;t=2&amp;i=1173364354&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-20T14:59:15+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-20T14:59:15+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="George Georgiopoulos"/>
+    <cse:Attribute name="og:article:tag" value="Greece,Nick Koskoletos,YANNIS VAROUFAKIS,US,GREECE,BANKS,CEO,ANALYSIS,Banks (TRBC),Funds,Company News,Insights,Financials (TRBC),Analyses,Financials (Legacy),Greece,Corporate Events,Euro Zone,European Union,Major News,Equities Markets,Europe,Enterprise Reporting,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: GM plans to build, test thousands of self-driving Bolts in 2018 - sources"/>
-    <cse:Attribute name="twitter:description" value="General Motors Co plans to deploy thousands of self-driving electric cars in test fleets in partnership with ride-sharing affiliate Lyft Inc, beginning in 2018, two sources familiar with the automaker’s plans said this week."/>
-    <cse:Attribute name="twitter:image:src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173125959&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G191"/>
-    <cse:Attribute name="twitter:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173125959&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G191"/>
+    <cse:Attribute name="twitter:title" value="Wanted: a CEO willing to hold Greek banking&apos;s &quot;poisoned chalice&quot;"/>
+    <cse:Attribute name="twitter:description" value="Wanted: a chief executive to run Greece&apos;s bank-rescue fund. Job description: work hard and pray for a miracle."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170220&amp;t=2&amp;i=1173364354&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170220&amp;t=2&amp;i=1173364354&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Business"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173125959&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G191"/>
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170220&amp;t=2&amp;i=1173364354&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="287"/>
-    <cse:Attribute name="height" value="175"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHhdZxg7vCLXuTiwfMrhitOg9R5i9AqvQSD1TYcB3UV0waW_X_EYfsV-TD"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg0Tev8GAZD0aB5mEgb_81414R6Szzal-vtKK2LOBloh5QwSzMlkwM6hA"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891</id>
-  <updated>1970-01-18T05:11:55.851Z</updated>
-  <title type="html">Trump associates communicated with suspected Russian intel...</title>
-  <link href="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891" title="abcnews.go.com"/>
-  <summary type="html">... Trump and suspected Russian intelligence officials in the lead-up to the 2016 &lt;br&gt;
-presidential election, &lt;b&gt;sources familiar with&lt;/b&gt; the matter confirm to ABC News.</summary>
-  <cse:formattedUrl type="html">abcnews.go.com/Politics/trump-associates-communicated.../story?id...</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="ABC News"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
-    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="fb:admins" value="704409894"/>
-    <cse:Attribute name="fb:app_id" value="4942312939"/>
-    <cse:Attribute name="fb_title" value="Trump associates communicated with suspected Russian intel officers: Sources"/>
-    <cse:Attribute name="og:site_name" value="ABC News"/>
-    <cse:Attribute name="og:title" value="Trump associates communicated with suspected Russian intel officers: Sources"/>
-    <cse:Attribute name="og:description" value="U.S. authorities were concerned with and probing communications between associates of President Donald Trump and suspected Russian intelligence officials in the lead-up to the 2016 presidential election, sources familiar with the matter confirm to ABC News. The news comes just a day after Trump&apos;s..."/>
-    <cse:Attribute name="og:url" value="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891"/>
-    <cse:Attribute name="og:image:type" value="image/jpeg"/>
-    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/International/gty-trump-flynn-2-er-170210_16x9_992.jpg"/>
-    <cse:Attribute name="dc.date.issued" value="2017-02-15"/>
-    <cse:Attribute name="date" value="2017-02-15"/>
-    <cse:Attribute name="last-modified" value="2017-02-15 12:14:17"/>
-    <cse:Attribute name="news_keywords" value="President Trump, Russia, Vladimir Putin, Paul Manafort"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@ABC"/>
-    <cse:Attribute name="twitter:creator" value="@mlevinereports"/>
-    <cse:Attribute name="twitter:title" value="Trump associates communicated with suspected Russian intel officers: Sources"/>
-    <cse:Attribute name="twitter:description" value="U.S. authorities were concerned with and probing communications between associates of President Donald Trump and suspected Russian intelligence officials in the lead-up to the 2016 presidential election, sources familiar with the matter confirm to ABC News. The news comes just a day after Trump&apos;s..."/>
-    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891"/>
-    <cse:Attribute name="twitter:image:width" value="150"/>
-    <cse:Attribute name="twitter:image:height" value="116"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,45500891"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,45500891"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891"/>
-    <cse:Attribute name="twitter:image" value="http://a.abcnews.com/images/International/gty-trump-flynn-2-er-170210_4x3t_240.jpg"/>
-    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,45500891"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
-    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
-    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,45500891"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
-    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
-    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891"/>
-    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
-    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
-    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891"/>
-   </cse:DataObject>
-   <cse:DataObject type="sitenavigationelement">
-    <cse:Attribute name="name" value="U.S."/>
-    <cse:Attribute name="url" value="U.S."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://a.abcnews.com/images/International/gty-trump-flynn-2-er-170210_16x9_992.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBgT9ObxwO8Nq-Bd84A2lGbWjWq5pdsbAlT5Hb5roVwHzVenNzaXq9-ajM"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
-  <updated>1970-01-18T05:11:55.851Z</updated>
-  <title type="html">Davide Barbuscia</title>
-  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
-  <summary type="html">... quarter, though it has not yet sent to banks any official requests for proposals to &lt;br&gt;
-arrange the issue, banking &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Thursday.</summary>
-  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/news/m/a65375e7-de1e-3835-81e6-324dd370f9b8/trump-associates-communicated.html</id>
-  <updated>1970-01-18T05:11:55.851Z</updated>
-  <title type="html">Trump associates communicated with suspected Russian intel ...</title>
-  <link href="https://www.yahoo.com/news/m/a65375e7-de1e-3835-81e6-324dd370f9b8/trump-associates-communicated.html" title="www.yahoo.com"/>
-  <summary type="html">... Trump and suspected Russian intelligence officials in the lead-up to the 2016 &lt;br&gt;
-presidential election, &lt;b&gt;sources familiar with&lt;/b&gt; the matter confirm to ABC News.</summary>
-  <cse:cacheId>rR8eSYG7FrAJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../trump-associates-communicated.html</cse:formattedUrl>
+  <id>https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html</id>
+  <updated>1970-01-18T05:16:52.764Z</updated>
+  <title type="html">Cops Called as Paula Patton and Robin Thicke Met to Exchange ...</title>
+  <link href="https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html" title="www.yahoo.com"/>
+  <summary type="html">However, &lt;b&gt;a source close to&lt;/b&gt; Thicke tells PEOPLE, “Every week, they do the drop &lt;br&gt;
+off at the same park after Julian gets off of school. Robin waits in his car and&amp;nbsp;...</summary>
+  <cse:cacheId>l-r6L4oe9zsJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.yahoo.com/.../cops-called-paula-patton-robin-012904083.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
@@ -210,155 +295,88 @@ presidential election, &lt;b&gt;sources familiar with&lt;/b&gt; the matter confi
     <cse:Attribute name="theme-color" value="#400090"/>
     <cse:Attribute name="twitter:dnt" value="on"/>
     <cse:Attribute name="twitter:site" value="@Yahoo"/>
-    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=a65375e7-de1e-3835-81e6-324dd370f9b8&amp;src=web"/>
-    <cse:Attribute name="twitter:description" value="U.S. authorities were concerned with and probing communications between associates of President Donald Trump and suspected Russian intelligence officials in the lead-up to the 2016 presidential election, sources familiar with the matter confirm to ABC News. The news comes just a day after Trump&apos;s national security adviser, Michael Flynn, resigned amid questions about conversations he had with the Russian ambassador during the transition and continuing inquiries about the administration&apos;s relationship with Russia. The New York Times first reported the alleged “repeated contacts” between the associates and Russians in the year leading up to the election. U.S. officials speaking with the Times noted"/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/BuhIq8XUMjRJu8UoO8JDHw--/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/bMTmjXy4W1tRF3j1MOc4wA--/dz05OTI7aD01NTg7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_a65375e7-de1e-3835-81e6-324dd370f9b8-850297919.jpeg"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/BuhIq8XUMjRJu8UoO8JDHw--/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/bMTmjXy4W1tRF3j1MOc4wA--/dz05OTI7aD01NTg7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_a65375e7-de1e-3835-81e6-324dd370f9b8-850297919.jpeg"/>
-    <cse:Attribute name="twitter:title" value="Trump associates communicated with suspected Russian intel officers: Sources"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=de55feb1-4702-30e2-ae65-1a2b90a48053&amp;src=web"/>
+    <cse:Attribute name="twitter:description" value="The police were called, the source continues, and Patton left, taking the couple’s son with her.  The Thicke source says Patton, 41, arrived an hour late to the location and refused to send her son off with the court-appointed monitor.  “He was not in violation of the restraining order,” the Thicke source"/>
+    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/4euBVMWKxwNWXZt.JftnAg--/aD0xMzMzO3c9MTk4NztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/creatr-images/GLB/2017-02-21/e18780e0-f868-11e6-9b7c-616b12b52c68_cd69502d0929dc9828067fc15baad193.jpg"/>
+    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/4euBVMWKxwNWXZt.JftnAg--/aD0xMzMzO3c9MTk4NztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/creatr-images/GLB/2017-02-21/e18780e0-f868-11e6-9b7c-616b12b52c68_cd69502d0929dc9828067fc15baad193.jpg"/>
+    <cse:Attribute name="twitter:title" value="Cops Called as Paula Patton and Robin Thicke Met to Exchange Son Julian Amidst Ongoing Custody War"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="fb:app_id" value="90376669494"/>
     <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=a65375e7-de1e-3835-81e6-324dd370f9b8&amp;src=web"/>
+    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=de55feb1-4702-30e2-ae65-1a2b90a48053&amp;src=web"/>
     <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
     <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=a65375e7-de1e-3835-81e6-324dd370f9b8&amp;src=web"/>
-    <cse:Attribute name="og:image:width" value="992"/>
-    <cse:Attribute name="og:image:height" value="558"/>
+    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=de55feb1-4702-30e2-ae65-1a2b90a48053&amp;src=web"/>
+    <cse:Attribute name="og:image:width" value="1987"/>
+    <cse:Attribute name="og:image:height" value="1333"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:description" value="U.S. authorities were concerned with and probing communications between associates of President Donald Trump and suspected Russian intelligence officials in the lead-up to the 2016 presidential election, sources familiar with the matter confirm to ABC News. The news comes just a day after Trump&apos;s national security adviser, Michael Flynn, resigned amid questions about conversations he had with the Russian ambassador during the transition and continuing inquiries about the administration&apos;s relationship with Russia. The New York Times first reported the alleged “repeated contacts” between the associates and Russians in the year leading up to the election. U.S. officials speaking with the Times noted"/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/BuhIq8XUMjRJu8UoO8JDHw--/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/bMTmjXy4W1tRF3j1MOc4wA--/dz05OTI7aD01NTg7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_a65375e7-de1e-3835-81e6-324dd370f9b8-850297919.jpeg"/>
-    <cse:Attribute name="og:title" value="Trump associates communicated with suspected Russian intel officers: Sources"/>
-    <cse:Attribute name="og:url" value="http://abcnews.go.com/Politics/trump-associates-communicated-suspected-russian-intelligence-officials-ahead/story?id=45500891&amp;yptr=yahoo"/>
+    <cse:Attribute name="og:description" value="The police were called, the source continues, and Patton left, taking the couple’s son with her.  The Thicke source says Patton, 41, arrived an hour late to the location and refused to send her son off with the court-appointed monitor.  “He was not in violation of the restraining order,” the Thicke source"/>
+    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/4euBVMWKxwNWXZt.JftnAg--/aD0xMzMzO3c9MTk4NztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/creatr-images/GLB/2017-02-21/e18780e0-f868-11e6-9b7c-616b12b52c68_cd69502d0929dc9828067fc15baad193.jpg"/>
+    <cse:Attribute name="og:title" value="Cops Called as Paula Patton and Robin Thicke Met to Exchange Son Julian Amidst Ongoing Custody War"/>
+    <cse:Attribute name="og:url" value="https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/BuhIq8XUMjRJu8UoO8JDHw--/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/bMTmjXy4W1tRF3j1MOc4wA--/dz05OTI7aD01NTg7dGFnPW9yaWdpbmFsO2FwcGlkPXluZXdz/http://streambe.zenfs.com/streambe/streambe_a65375e7-de1e-3835-81e6-324dd370f9b8-850297919.jpeg"/>
+    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/4euBVMWKxwNWXZt.JftnAg--/aD0xMzMzO3c9MTk4NztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/creatr-images/GLB/2017-02-21/e18780e0-f868-11e6-9b7c-616b12b52c68_cd69502d0929dc9828067fc15baad193.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNkyjbotBauSUND1at71PVnkuqsbYeeETmDAUO2b-fjuxhS9duL0eKokeq"/>
+    <cse:Attribute name="width" value="274"/>
+    <cse:Attribute name="height" value="184"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL8KvA8mh7vGN2MSbQe-gB6CYBGuxKwuDUuPToiRss8FjovRBJuGdlopo"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-sprint-corp-m-a-t-mobile-us-exclusive-idUSKBN15W26E</id>
-  <updated>1970-01-18T05:11:55.851Z</updated>
-  <title type="html">Exclusive: SoftBank willing to cede control of Sprint to entice T-Mobile</title>
-  <link href="http://www.reuters.com/article/us-sprint-corp-m-a-t-mobile-us-exclusive-idUSKBN15W26E" title="www.reuters.com"/>
-  <summary type="html">... thousands of self-driving electric cars in test fleets in partnership with ride-&lt;br&gt;
-sharing affiliate Lyft Inc, beginning in 2018, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-automaker&amp;#39;s&amp;nbsp;...</summary>
-  <cse:cacheId>N8wxwDf1ml8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-sprint-corp-m-a-t-mobile-us-exclusive- idUSKBN15W26E</cse:formattedUrl>
+  <id>http://www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O</id>
+  <updated>1970-01-18T05:16:52.764Z</updated>
+  <title type="html">France not opposed to a broad Italians&amp;#39; majority in STX France -source</title>
+  <link href="http://www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O" title="www.reuters.com"/>
+  <summary type="html">The French government is notopposed to Italian players holding a majority in &lt;br&gt;
+French shipyardSTX France, &lt;b&gt;a source close to&lt;/b&gt; economy minister&amp;nbsp;...</summary>
+  <cse:cacheId>97U7ps5ZUqAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;technologyNews;internetNews;innovationNews;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;ousivMolt;innovationAMD;japan;everything;Deals;AllianzInvestments;Hyundai;Allianz;asia;newsproHome;verizonmm;audib2b;credit-rss;davosBackup;cfaglobal;aa48hours;athletics;shipping;dassaultuk;MBenz;ubs;globalinnovations;Intel;PFG;huawei;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+SoftBank+willing+to+cede+control+of+Sprint+to+entice+T-Mobile+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Liana B. Baker"/>
-    <cse:Attribute name="news_keywords" value="United States;AJIT PAI;Christopher Marangi;Craig Moffett;Donald Trump;John J. Legere;Marcelo Claure;Masayoshi Son;Tim Hoettges;US;SPRINT;CORP;M;A;T;MOBILE;US;EXCLUSIVE;Germany;Mergers / Acquisitions / Takeovers;Company News;Japan;Western Europe;Diversified REITs (TRBC);Exclusive;Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Corporate Events;Integrated Telecommunications Services (TRBC);Divestitures / Spin;Offs;Asia / Pacific;English;Major News;Europe;Science;Regulation;United States"/>
-    <cse:Attribute name="revision_date" value="Sat Feb 18 01:05:39 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Liana B. Baker"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-18T01:05:39+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: SoftBank willing to cede control of Sprint to entice T-Mobile - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: SoftBank willing to cede control of Sprint to entice T-Mobile - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-sprint-corp-m-a-t-mobile-us-exclusive-idUSKBN15W26E"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Japan&apos;s SoftBank Group Corp (9984.T) is prepared to give up control of Sprint Corp (S.N) to Deutsche Telekom AG&apos;s (DTEGn.DE) T-Mobile US Inc (TMUS.O) to clinch a merger of the two U.S. wireless carriers, according to people familiar with the matter."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173133259&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G17Y"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-18T01:05:39+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-18T01:05:39+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Liana B. Baker"/>
-    <cse:Attribute name="og:article:tag" value="United States,AJIT PAI,Christopher Marangi,Craig Moffett,Donald Trump,John J. Legere,Marcelo Claure,Masayoshi Son,Tim Hoettges,US,SPRINT,CORP,M,A,T,MOBILE,US,EXCLUSIVE,Germany,Mergers / Acquisitions / Takeovers,Company News,Japan,Western Europe,Diversified REITs (TRBC),Exclusive,Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Corporate Events,Integrated Telecommunications Services (TRBC),Divestitures / Spin,Offs,Asia / Pacific,English,Major News,Europe,Science,Regulation,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: SoftBank willing to cede control of Sprint to entice T-Mobile - sources"/>
-    <cse:Attribute name="twitter:description" value="Japan&apos;s SoftBank Group Corp (9984.T) is prepared to give up control of Sprint Corp (S.N) to Deutsche Telekom AG&apos;s (DTEGn.DE) T-Mobile US Inc (TMUS.O) to clinch a merger of the two U.S. wireless carriers, according to people familiar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173133259&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G17Y"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170217&amp;t=2&amp;i=1173133259&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1G17Y"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static.reuters.com/resources/media/global/assets/images/20170217/20170217_3674604920170217213745.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="240"/>
-    <cse:Attribute name="height" value="180"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJlMsSvDx1pEmucEQSuZesyEbx0VNudmG87pkP6x_OttpFq5rwS_4oSng"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-banco-santander-tech-investment-idUSKBN15W1WB</id>
-  <updated>1970-01-18T05:11:55.851Z</updated>
-  <title type="html">Santander invests in artificial intelligence startups: sources | Reuters</title>
-  <link href="http://www.reuters.com/article/us-banco-santander-tech-investment-idUSKBN15W1WB" title="www.reuters.com"/>
-  <summary type="html">... artificial-intelligence companies, part of the financial industry&amp;#39;s increased focus &lt;br&gt;
-on technology smart enough to mimic human thinking, &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>IA4iC3NWX58J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-banco-santander-tech-investment-idUSKBN15W1WB</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;innovationIntellectualProperty;innovationAMD;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;newsproHome;audib2b;cfaglobal;aa48hours;greenpeace;PorscheCayenne;MBenz;globalinnovations;Intel;PFG;Fidelity2014;top100Innovators;top100InnovatorsVBC;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Santander+invests+in+artificial+intelligence+startups%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="industrialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="rbssIndustryMaterialsUtilitiesNews;marine;industrialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="France+not+opposed+to+a+broad+Italians%27+majority+in+STX+France+-source"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Anna Irrera"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Anna Irrera"/>
-    <cse:Attribute name="news_keywords" value="Blythe Masters;US;BANCO;SANTANDER;TECH;INVESTMENT;Banks (TRBC);Funds;Company News;Western Europe;France;Corporate Events;Spain;Technology (TRBC);Debt / Fixed Income Markets;Europe;Science;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);United States;IT Services and Consulting (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Fri Feb 17 16:57:34 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Anna Irrera"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-17T16:57:34+0000"/>
-    <cse:Attribute name="sailthru.title" value="Santander invests in artificial intelligence startups: sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-industrialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="France;Christophe Sirugue;Giuseppe Bono;STX;MandA/FINCANTIERI;Mergers / Acquisitions / Takeovers;Western Europe;Construction and Engineering (TRBC);France;Transportation (TRBC);Credit and Corporate Debt;Corporate Debt;Asia / Pacific;Industrials (TRBC);Debt / Fixed Income Markets;Marine Services (TRBC);Deals;Corporate Debt Renegotiation;Company News;South Korea;Italy;Corporate Events;Euro Zone;Industrial Services (TRBC);Europe;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Fri Feb 17 15:00:04 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-17T15:00:04+0000"/>
+    <cse:Attribute name="sailthru.title" value="France not opposed to a broad Italians&apos; majority in STX France -source"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Santander invests in artificial intelligence startups: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-banco-santander-tech-investment-idUSKBN15W1WB"/>
+    <cse:Attribute name="og:title" value="France not opposed to a broad Italians&apos; majority in STX France -source"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Spanish lender Banco Santander SA has invested in two artificial-intelligence companies, part of the financial industry&apos;s increased focus on technology smart enough to mimic human thinking, sources familiar with the deals told Reuters."/>
+    <cse:Attribute name="og:description" value="The French government is notopposed to Italian players holding a majority in French shipyardSTX France, a source close to economy minister ChristopheSirugue told Reuters, as long as Fincantieri does nothave more than 50 percent itself."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-17T16:57:34+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-17T16:57:34+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Anna Irrera"/>
-    <cse:Attribute name="og:article:tag" value="Blythe Masters,US,BANCO,SANTANDER,TECH,INVESTMENT,Banks (TRBC),Funds,Company News,Western Europe,France,Corporate Events,Spain,Technology (TRBC),Debt / Fixed Income Markets,Europe,Science,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),United States,IT Services and Consulting (TRBC)"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-17T15:00:04+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-17T15:00:04+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="France,Christophe Sirugue,Giuseppe Bono,STX,MandA/FINCANTIERI,Mergers / Acquisitions / Takeovers,Western Europe,Construction and Engineering (TRBC),France,Transportation (TRBC),Credit and Corporate Debt,Corporate Debt,Asia / Pacific,Industrials (TRBC),Debt / Fixed Income Markets,Marine Services (TRBC),Deals,Corporate Debt Renegotiation,Company News,South Korea,Italy,Corporate Events,Euro Zone,Industrial Services (TRBC),Europe,Emerging Market Countries"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Santander invests in artificial intelligence startups: sources"/>
-    <cse:Attribute name="twitter:description" value="Spanish lender Banco Santander SA has invested in two artificial-intelligence companies, part of the financial industry&apos;s increased focus on technology smart enough to mimic human thinking, sources familiar with the deals told Reuters."/>
+    <cse:Attribute name="twitter:title" value="France not opposed to a broad Italians&apos; majority in STX France -source"/>
+    <cse:Attribute name="twitter:description" value="The French government is notopposed to Italian players holding a majority in French shipyardSTX France, a source close to economy minister ChristopheSirugue told Reuters, as long as Fincantieri does nothave more than 50 percent itself."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/industries/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -371,254 +389,244 @@ on technology smart enough to mimic human thinking, &lt;b&gt;sources familiar wi
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7</id>
-  <updated>1970-01-18T05:11:55.851Z</updated>
-  <title type="html">Trump&amp;#39;s pick for national security adviser turns down offer: White ...</title>
-  <link href="http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7" title="www.reuters.com"/>
-  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the decision said Harward turned down the job in part &lt;br&gt;
-because he wanted to bring in his own team. Vice Adm. Robert S. Harward,&amp;nbsp;...</summary>
-  <cse:cacheId>Uk09DvhiJSAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7</cse:formattedUrl>
+  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
+  <updated>1970-01-18T05:16:52.764Z</updated>
+  <title type="html">Steelers RB Le&amp;#39;Veon Bell facing 4-game ban for missed drug test</title>
+  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
+  <summary type="html"/>
+  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://nypost.com/2017/02/17/googles-future-depends-on-trumps-ftc-pick/</id>
+  <updated>1970-01-18T05:16:52.764Z</updated>
+  <title type="html">Google&amp;#39;s future depends on Trump&amp;#39;s FTC pick | New York Post</title>
+  <link href="http://nypost.com/2017/02/17/googles-future-depends-on-trumps-ftc-pick/" title="nypost.com"/>
+  <summary type="html">If the FTC investigated Alphabet over Android, the worst likely outcome for &lt;br&gt;
+Alphabet would be the FTC requiring it to change its conduct, &lt;b&gt;a source close to&lt;/b&gt; &lt;br&gt;
+the&amp;nbsp;...</summary>
+  <cse:cacheId>K_oXumOKn4EJ</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/2017/02/.../googles-future-depends-on-trumps-ftc-pick/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;domesticNews;politicsNews;Retirement;everything;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;greenpeace;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;USWire;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Trump%27s+pick+for+national+security+adviser+turns+down+offer%3A+White+House+official"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Russia;United States;Russia;United States;Donald Trump;K.T. McFarland;Michael Flynn;Mike Pence;Robert Harward;Sergei Kislyak;Donald Trump;K.T. McFarland;Michael Flynn;Mike Pence;Robert Harward;Sergei Kislyak;US;USA;TRUMP;HARWARD;Key Personnel Changes;Russia;Defense;Diplomacy / Foreign Policy;Arts / Culture / Entertainment;Government / Politics;Personalities / People;Major News;Europe;US Government News;International / National Security;Conflicts / War / Peace;United States"/>
-    <cse:Attribute name="revision_date" value="Fri Feb 17 16:00:50 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-17T16:00:50+0000"/>
-    <cse:Attribute name="sailthru.title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-harward-idUSKBN15V2Z7"/>
+    <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
+    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, a senior White House official said on Thursday."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-17T16:00:50+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-17T16:00:50+0000"/>
-    <cse:Attribute name="og:article:section" value="Politics"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Russia,United States,Russia,United States,Donald Trump,K.T. McFarland,Michael Flynn,Mike Pence,Robert Harward,Sergei Kislyak,Donald Trump,K.T. McFarland,Michael Flynn,Mike Pence,Robert Harward,Sergei Kislyak,US,USA,TRUMP,HARWARD,Key Personnel Changes,Russia,Defense,Diplomacy / Foreign Policy,Arts / Culture / Entertainment,Government / Politics,Personalities / People,Major News,Europe,US Government News,International / National Security,Conflicts / War / Peace,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:title" value="Google’s future depends on Trump’s FTC pick"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/17/googles-future-depends-on-trumps-ftc-pick/"/>
+    <cse:Attribute name="og:description" value="Alphabet believes it has a lot riding on whom President Trump picks to lead the Federal Trade Commission, several sources close to the situation told The Post. The federal regulator has the power t…"/>
+    <cse:Attribute name="article:published_time" value="2017-02-18T03:19:01+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-20T21:36:54+00:00"/>
+    <cse:Attribute name="og:site_name" value="New York Post"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="twitter:site" value="@nypost"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Trump&apos;s pick for national security adviser turns down offer: White House official"/>
-    <cse:Attribute name="twitter:description" value="President Donald Trump&apos;s choice for national security adviser, retired Vice Admiral Robert Harward, has turned down the offer, a senior White House official said on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
-    <cse:Attribute name="wt.cg_n" value="Politics"/>
-    <cse:Attribute name="wt.cg_s" value="Politics"/>
+    <cse:Attribute name="twitter:creator" value="@joshkosman"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
+    <cse:Attribute name="twitter:title" value="Google&apos;s future depends on Trump&apos;s FTC pick"/>
+    <cse:Attribute name="twitter:description" value="Alphabet believes it has a lot riding on whom President Trump picks to lead the Federal Trade Commission, several sources close to the situation told The Post. The federal regulator has the power to"/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i1.wp.com/thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="nypost-section" value="Business"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10748695&quot;}"/>
+    <cse:Attribute name="news_keywords" value="Business,Tech,alphabet inc.,donald trump,ftc,google"/>
+    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
+    <cse:Attribute name="fb:pages" value="134486075205"/>
+    <cse:Attribute name="application-name" value="New York Post"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170216&amp;t=2&amp;i=1173007565&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1F1PO"/>
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;w=1200"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEC_JIj6zZ0qgVwUhAmNszMvcYrVAIixJcIwUMCHSUDe8M05PTssJnEft"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf3EeoFx1AS8lreJZYqSHxaYXcTH6A85rrbZFWPJ3iZ9DEs3shuvqNNCE"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2</id>
-  <updated>1970-01-18T05:11:55.851Z</updated>
-  <title type="html">Exclusive: Paramount CEO Grey to depart as soon as next week ...</title>
-  <link href="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2" title="www.businessinsider.com"/>
-  <summary type="html">... Paramount Pictures film studio is expected to leave with an announcement &lt;br&gt;
-coming as early as next week, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the situation&lt;br&gt;
-.</summary>
-  <cse:cacheId>CLZWD93NEDMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon -as-next-week-sources-2017-2</cse:formattedUrl>
+  <id>http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien</id>
+  <updated>1970-01-18T05:16:52.764Z</updated>
+  <title type="html">Chelsea Transfer News: Latest Rumours on Arda Turan and Michael ...</title>
+  <link href="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien" title="bleacherreport.com"/>
+  <summary type="html">Turkish-Football (via Sport), citing &lt;b&gt;a source close to&lt;/b&gt; the player, revealed the &lt;br&gt;
+property purchase near the Blues&amp;#39; stadium. Turan has been linked with Chelsea&amp;nbsp;...</summary>
+  <cse:cacheId>bvnIJktwOQIJ</cse:cacheId>
+  <cse:formattedUrl type="html">bleacherreport.com/.../2693677-chelsea-transfer-news-latest-rumours-on-arda -turan-and-michael-essien</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-02-17"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-17"/>
-    <cse:Attribute name="news_keywords" value="Reuters"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters"/>
-    <cse:Attribute name="sailthru.description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
-    <cse:Attribute name="title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="tbi-image" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static5.businessinsider.com/image/58a771695124c9697d250a43-50-50/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="og:title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="og:description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="aol-te-auth" value="1c424580-0f86-4d9b-88b2-bc8c0d029d4c"/>
+    <cse:Attribute name="blitz" value="mu-6e4ce5cd-57f20d11-7c0ecee9-d55c79e2"/>
+    <cse:Attribute name="msvalidate.01" value="7A63840181953B2A5A1FEA25FB45A991"/>
+    <cse:Attribute name="viewport" value="initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="fb:app_id" value="135174055162"/>
+    <cse:Attribute name="al:iphone:url" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="418075935"/>
+    <cse:Attribute name="al:iphone:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:ipad:url" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="484725748"/>
+    <cse:Attribute name="al:ipad:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="al:android:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:android:package" value="com.bleacherreport.android.teamstream"/>
+    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="og:site_name" value="Bleacher Report"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="p:domain_verify" value="0c768466449ebb550411234d6d4ffc30"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="418075935"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="484725748"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.bleacherreport.android.teamstream"/>
+    <cse:Attribute name="twitter:widgets:new-embed-design" value="on"/>
+    <cse:Attribute name="twitter:site" value="@bleacherreport"/>
+    <cse:Attribute name="article:publisher" value="http://www.facebook.com/bleacherreport"/>
+    <cse:Attribute name="author" value="Rory Marsden"/>
+    <cse:Attribute name="og:description" value="Barcelona midfielder Arda   Turan   has sparked rumours he could be set for a move to  Chelsea  by reportedly buying a house in London, close to Stamford Bridge..."/>
+    <cse:Attribute name="og:image" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?1487429750&amp;w=9999&amp;h=9999"/>
+    <cse:Attribute name="og:title" value="Chelsea Transfer News: Latest Rumours on Arda Turan and Michael Essien"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources-2017-2"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="twitter:description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="og:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="pubdate" value="2017-02-18T10:02:09-05:00"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static1.businessinsider.com/image/58a771695124c9697d250a43-506-253/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="og:image" value="http://static3.businessinsider.com/image/58a771695124c9697d250a43-1190-625/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+    <cse:Attribute name="twitter:description" value="Barcelona midfielder Arda   Turan   has sparked rumours he could be set for a move to  Chelsea  by reportedly buying a house in London, close to Stamford Bridge..."/>
+    <cse:Attribute name="twitter:image" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?1487429750&amp;w=9999&amp;h=9999"/>
+    <cse:Attribute name="twitter:title" value="Chelsea Transfer News: Latest Rumours on Arda Turan and Michael Essien"/>
+    <cse:Attribute name="twitter:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Aitor Alcalde/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/638/185/8e8ed47a9c94972f7db5cb5f18c64e43_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Michael Regan/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="79"/>
+    <cse:Attribute name="height" value="52"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqOpBcG5waxAJOpq2zEiFTSQB5_cYAupyla5a4qhxTjadPKNxol0IorA"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735</id>
+  <updated>1970-01-18T05:16:52.764Z</updated>
+  <title type="html">Danny Dyer &amp;#39;didn&amp;#39;t have a meltdown at the NTAs and didn&amp;#39;t even go to</title>
+  <link href="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735" title="www.mirror.co.uk"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the programme told Mirror Celeb: &amp;quot;It&amp;#39;s absolute nonsense, just &lt;br&gt;
+looking at the video you can tell he&amp;#39;s not having a meltdown or having a go at his&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.mirror.co.uk/3am/...news/danny-dyer-didnt-meltdown-ntas-9853735</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="apple-itunes" value="app-id=538338235"/>
+    <cse:Attribute name="google-play-app" value="app-id=com.mirror.news"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="news_keywords" value="Danny Dyer,BBC,EastEnders,Soap operas"/>
+    <cse:Attribute name="author" value="Vicki Newman"/>
+    <cse:Attribute name="p:domain_verify" value="577b698d862f6a62889e9d497b953b65"/>
+    <cse:Attribute name="msvalidate.01" value="17DA4C91A126705A8B1E2A5FD7CAC9EF"/>
+    <cse:Attribute name="fb:app_id" value="123792601022133"/>
+    <cse:Attribute name="fb:page_id" value="6149699161"/>
+    <cse:Attribute name="og:site_name" value="mirror"/>
+    <cse:Attribute name="og:language" value="en"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="EastEnders star Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs&apos;"/>
+    <cse:Attribute name="og:url" value="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735"/>
+    <cse:Attribute name="og:description" value="A source close to the show said it was &quot;nonsense&quot;"/>
+    <cse:Attribute name="og:image" value="http://i2.mirror.co.uk/incoming/article9853447.ece/ALTERNATES/s1200/London-Evening-Standard-British-Film-Awards-2013-Inside.jpg"/>
+    <cse:Attribute name="og:section" value="Celebrity News"/>
+    <cse:Attribute name="article:tag" value="Danny Dyer"/>
+    <cse:Attribute name="article:author" value="http://www.facebook.com/MirrorCeleb"/>
+    <cse:Attribute name="article:published_time" value="2017-02-20T11:29:35Z"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-20T11:31:03Z"/>
+    <cse:Attribute name="article:expiration_time" value="2017-03-22T11:31:03Z"/>
+    <cse:Attribute name="article:section" value="Celebrity News"/>
+    <cse:Attribute name="article:id" value="mirror-9853735"/>
+    <cse:Attribute name="advertisingconfig" value="{&quot;desktop&quot;:[{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:-1,&quot;hivis&quot;:&quot;n&quot;},&quot;referenceNode&quot;:&quot;header&quot;,&quot;hideOnSensitiveArticle&quot;:true,&quot;relativePos&quot;:&quot;after&quot;,&quot;name&quot;:&quot;div-gpt-ad-oop-slot&quot;,&quot;isOOP&quot;:true,&quot;type&quot;:&quot;outOfPage&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:-2,&quot;hivis&quot;:&quot;n&quot;},&quot;referenceNode&quot;:&quot;no-element-to-stop-ads-config-injection&quot;,&quot;sizes&quot;:[[1,1]],&quot;hideOnSensitiveArticle&quot;:true,&quot;relativePos&quot;:&quot;appendChild&quot;,&quot;name&quot;:&quot;div-gpt-ad-ad-mix-slot&quot;,&quot;type&quot;:&quot;adMix&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:1,&quot;hivis&quot;:&quot;y&quot;,&quot;opos&quot;:&quot;top&quot;},&quot;referenceNode&quot;:&quot;main&quot;,&quot;sizes&quot;:[[970,250],[970,251],[728,90],[728,91],[9,1]],&quot;relativePos&quot;:&quot;before&quot;,&quot;additionalClass&quot;:&quot;top-slot&quot;,&quot;sticky&quot;:{&quot;mode&quot;:&quot;header&quot;,&quot;duration&quot;:5000},&quot;name&quot;:&quot;div-gpt-ad-top-slot&quot;,&quot;type&quot;:&quot;topOfPage&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:2,&quot;hivis&quot;:&quot;y&quot;},&quot;referenceNode&quot;:&quot;main nav&quot;,&quot;sizes&quot;:[[948,42]],&quot;hidden&quot;:true,&quot;relativePos&quot;:&quot;before&quot;,&quot;name&quot;:&quot;div-gpt-ad-sponsorship-bar&quot;,&quot;type&quot;:&quot;sponsorshipBar&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:3,&quot;hivis&quot;:&quot;y&quot;,&quot;opos&quot;:&quot;top&quot;},&quot;refe"/>
+    <cse:Attribute name="scriptconfig" value="{&quot;skimlinks&quot;:{&quot;enabled&quot;:true,&quot;publisherId&quot;:&quot;76202X1526515&quot;},&quot;googleConsumerSurvey&quot;:{&quot;accountId&quot;:&quot;_s4tkhxcmvc3sikf4jlfgd3wgbe&quot;,&quot;enabled&quot;:true,&quot;hideOnSensitiveArticle&quot;:true},&quot;performSemanticPlayer&quot;:{&quot;enabled&quot;:true},&quot;googleAnalytics&quot;:{&quot;accountId&quot;:&quot;UA-229407-1&quot;,&quot;enabled&quot;:true},&quot;visualDNA&quot;:{&quot;apiKey&quot;:&quot;mirror&quot;,&quot;enabled&quot;:true},&quot;lotame&quot;:{&quot;tagNumber&quot;:&quot;9458&quot;,&quot;enabled&quot;:true},&quot;pageUrl&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;,&quot;grapeshot&quot;:{&quot;zone&quot;:&quot;national&quot;,&quot;enabled&quot;:true},&quot;performRHCPlayer&quot;:{&quot;enabled&quot;:false},&quot;timestamp&quot;:1487622416402,&quot;adYouLike&quot;:{&quot;enabled&quot;:true}}"/>
+    <cse:Attribute name="datalayer" value="{&quot;page&quot;:{&quot;attributes&quot;:{&quot;application&quot;:&quot;Responsive Web&quot;,&quot;channel&quot;:&quot;3am&quot;,&quot;channelId&quot;:&quot;91&quot;,&quot;sectionId&quot;:&quot;92&quot;,&quot;publicationId&quot;:&quot;2&quot;,&quot;platform&quot;:&quot;nationals&quot;,&quot;pageName&quot;:&quot;mirror:3am:celebrity-news:article:danny-dyer-didnt-meltdown-ntas:9853735&quot;,&quot;pageType&quot;:&quot;article:news:readmore&quot;,&quot;ownerSite&quot;:&quot;mirror&quot;,&quot;ownerSiteDomain&quot;:&quot;www.mirror.co.uk&quot;,&quot;subSectionOne&quot;:&quot;3am&quot;,&quot;subSectionTwo&quot;:&quot;celebrity-news&quot;},&quot;info&quot;:{&quot;url&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;}},&quot;article&quot;:{&quot;attributes&quot;:{&quot;allTags&quot;:&quot;Danny Dyer|BBC|EastEnders|Soap operas&quot;,&quot;articleAuthor&quot;:&quot;Vicki Newman&quot;,&quot;articleId&quot;:&quot;9853735&quot;,&quot;articleTitle&quot;:&quot;Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs and didn&apos;t even go to the after party&apos;&quot;,&quot;articleUrl&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;,&quot;headline&quot;:&quot;mirror_danny-dyer-didnt-meltdown-ntas&quot;,&quot;primaryTag&quot;:&quot;Danny Dyer&quot;,&quot;publishDate&quot;:&quot;2017-02-20&quot;,&quot;firstPublishDate&quot;:&quot;2017-02-20|11:29&quot;,&quot;objectType&quot;:&quot;article&quot;,&quot;ownerSite&quot;:&quot;mirror&quot;},&quot;info&quot;:{&quot;hoursSincePublicat"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Home"/>
+    <cse:Attribute name="url" value="Home"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="3am"/>
+    <cse:Attribute name="url" value="3am"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Celebrity News"/>
+    <cse:Attribute name="url" value="Celebrity News"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Danny Dyer"/>
+    <cse:Attribute name="url" value="Danny Dyer"/>
    </cse:DataObject>
    <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="url" value="Exclusive: Paramount CEO Grey to depart as soon as next week - sources"/>
-    <cse:Attribute name="image" value="http://static1.businessinsider.com/image/58a771695124c9697d250a43-506-253/exclusive-paramount-ceo-grey-to-depart-as-soon-as-next-week-sources.jpg"/>
-    <cse:Attribute name="description" value="By Jessica Toonkel(Reuters) - Brad Grey, the..."/>
+    <cse:Attribute name="mainentityofpage" value="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735"/>
+    <cse:Attribute name="headline" value="Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs and didn&apos;t even go to the after party&apos;"/>
+    <cse:Attribute name="name" value="Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs and didn&apos;t even go to the after party&apos;"/>
+    <cse:Attribute name="description" value="A source close to the show said it was &quot;nonsense&quot;"/>
+    <cse:Attribute name="datepublished" value="2017-02-20T11:29:35Z"/>
+    <cse:Attribute name="datemodified" value="2017-02-20T11:31:03Z"/>
+    <cse:Attribute name="articlebody" value="Get soaps updates directly to your inbox+ SubscribeThank you for subscribing!Could not subscribe, try again laterInvalid EmailDanny Dyer was reportedly calmed down by his co-stars at the National..."/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="mirror"/>
+    <cse:Attribute name="url" value="http://www.mirror.co.uk/"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="https://s3-eu-west-1.amazonaws.com/trinity-images/logos/mirror.png"/>
+    <cse:Attribute name="width" value="219"/>
+    <cse:Attribute name="height" value="60"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Vicki Newman"/>
+    <cse:Attribute name="sameas" value="http://www.mirror.co.uk/authors/vicki-newman/"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i3.mirror.co.uk/incoming/article9853447.ece/ALTERNATES/s615/London-Evening-Standard-British-Film-Awards-2013-Inside.jpg"/>
+    <cse:Attribute name="width" value="615"/>
+    <cse:Attribute name="height" value="409"/>
+    <cse:Attribute name="description" value="Danny Dyer &apos;didn&apos;t have a meltdown at the National Television Awards&apos;"/>
+    <cse:Attribute name="author" value="(Photo: Getty Images Europe)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i2.mirror.co.uk/incoming/article9852217.ece/ALTERNATES/s615b/National-Television-Awards-Show.jpg"/>
+    <cse:Attribute name="width" value="615"/>
+    <cse:Attribute name="height" value="924"/>
+    <cse:Attribute name="description" value="Danny had presented an award at the NTAs"/>
+    <cse:Attribute name="author" value="(Photo: Getty Images Europe)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i4.mirror.co.uk/incoming/article9841511.ece/ALTERNATES/s615b/PROD-Eastenders05.jpg"/>
+    <cse:Attribute name="width" value="615"/>
+    <cse:Attribute name="height" value="391"/>
+    <cse:Attribute name="description" value="He plays Mick Carter in the soap"/>
+    <cse:Attribute name="author" value="(Photo: BBC)"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/58a4d84501fe5877368b4781-400/32-high-paying-jobs-for-people-who-dont-like-stress.jpg"/>
+    <cse:Attribute name="src" value="http://i4.mirror.co.uk/incoming/article9852232.ece/ALTERNATES/s180/MAIN-Inside-the-Kim-Kardashian-Paris-heist-crime-scene-Chilling-images-emerge-showing-a-gag-used-to-sile.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQriRjefNUf8zFQoTnmP7d6Z-KnHebyYbdE9ET0cBTWVK3IHso2iXaiOzc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP</id>
-  <updated>1970-01-18T05:11:55.851Z</updated>
-  <title type="html">Exclusive: China&amp;#39;s Sinochem in early talks to buy stake in Noble ...</title>
-  <link href="http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP" title="www.reuters.com"/>
-  <summary type="html">China&amp;#39;s state-owned Sinochem is in early talks with Noble Group to buy an equity &lt;br&gt;
-stake in the embattled trader, three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, in a&amp;nbsp;...</summary>
-  <cse:cacheId>l-OvqVBegK8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsEnergy;innovationNewsFinancialServicesAndRealEstate;innovationNewsIndustryMaterialsAndUtilities;asiaDealsNews;asiaPrivateEquityNews;vbcSmallBusiness;china;innovationAMD;SustainabilityCorporate;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;singapore;asia;newsproHome;zurich;credit-rss;marine;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+China%27s+Sinochem+in+early+talks+to+buy+stake+in+Noble+Group+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Anshuman Daga and Sumeet Chatterjee"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Anshuman Daga and Sumeet Chatterjee"/>
-    <cse:Attribute name="news_keywords" value="China;United States;China;Singapore;United States;Richard Samuel Elman;Noble;Richard Samuel Elman;US;NOBLE;M;A;SINOCHEM;Investment Trusts (TRBC);Mergers / Acquisitions / Takeovers;Company News;Diversified Trading and Distributing (TRBC);Exclusive;China (PRC);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Asia / Pacific;Singapore;Major News;Marine Services (TRBC);Natural Gas"/>
-    <cse:Attribute name="revision_date" value="Tue Feb 14 06:30:53 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Anshuman Daga and Sumeet Chatterjee"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-14T06:30:53+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-noble-m-a-sinochem-idUSKBN15S0VP"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="China&apos;s state-owned Sinochem is in early talks with Noble Group to buy an equity stake in the embattled trader, three sources familiar with the matter said, in a move that would help it gain access to the commodity trader&apos;s global supply chain."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-14T06:30:53+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-14T06:30:53+0000"/>
-    <cse:Attribute name="og:article:author" value="Anshuman Daga and Sumeet Chatterjee"/>
-    <cse:Attribute name="og:article:tag" value="China,United States,China,Singapore,United States,Richard Samuel Elman,Noble,Richard Samuel Elman,US,NOBLE,M,A,SINOCHEM,Investment Trusts (TRBC),Mergers / Acquisitions / Takeovers,Company News,Diversified Trading and Distributing (TRBC),Exclusive,China (PRC),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Asia / Pacific,Singapore,Major News,Marine Services (TRBC),Natural Gas"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: China&apos;s Sinochem in early talks to buy stake in Noble Group - sources"/>
-    <cse:Attribute name="twitter:description" value="China&apos;s state-owned Sinochem is in early talks with Noble Group to buy an equity stake in the embattled trader, three sources familiar with the matter said, in a move that would help it gain access to the commodity trader&apos;s global supply chain."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170214&amp;t=2&amp;i=1172568158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1C0MI"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="281"/>
-    <cse:Attribute name="height" value="180"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmt6h2OfZjCQBdcIanU89sYY5T9xCwybeA9V1DgWN9ZL1vsCcd8Z7BUdc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN15U21R</id>
-  <updated>1970-01-18T05:11:55.851Z</updated>
-  <title type="html">Verizon close to Yahoo deal, price cut of $250-350 million: sources ...</title>
-  <link href="http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN15U21R" title="www.reuters.com"/>
-  <summary type="html">... thousands of self-driving electric cars in test fleets in partnership with ride-&lt;br&gt;
-sharing affiliate Lyft Inc, beginning in 2018, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-automaker&amp;#39;s&amp;nbsp;...</summary>
-  <cse:cacheId>RV3Rc2ermXsJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN15U21R</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="newsOne;businessNews;technologyNews;innovationNews;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;everything;Deals;AllianzRetirement;AllianzInvestments;Hyundai;corporate_crime;Allianz;cybersecurity;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;MBenz;globalinnovations;Intel;intelmicrosite;PFG;huawei;LinkedInBusTech;CathayPacific_US;cyberRisk;cyber;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Verizon+close+to+Yahoo+deal%2C+price+cut+of+%24250-350+million%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="David Shepardson and Jessica Toonkel"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="David Shepardson and Jessica Toonkel"/>
-    <cse:Attribute name="news_keywords" value="Dave Heger;US;YAHOO;M;A;VERIZON;Mergers / Acquisitions / Takeovers;Company News;Content produced in Bangalore;Volatile Shares / Hot Stocks;Corporate Events;Technology (TRBC);Integrated Telecommunications Services (TRBC);Divestitures / Spin;Offs;Major News;Internet / World Wide Web;Science;Technology / Media / Telecoms;Deals;United States"/>
-    <cse:Attribute name="revision_date" value="Wed Feb 15 23:21:06 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="David Shepardson and Jessica Toonkel"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-15T23:21:06+0000"/>
-    <cse:Attribute name="sailthru.title" value="Verizon close to Yahoo deal, price cut of $250-350 million: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Verizon close to Yahoo deal, price cut of $250-350 million: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKBN15U21R"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Verizon Communications Inc (VZ.N) is close to a revised deal to buy Yahoo Inc&apos;s (YHOO.O) core internet business for $250 million to $350 million less than the original agreed price of $4.83 billion, according to a source briefed on the matter."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170215&amp;t=2&amp;i=1172803617&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1E14F"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-15T23:21:06+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-15T23:21:06+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="David Shepardson and Jessica Toonkel"/>
-    <cse:Attribute name="og:article:tag" value="Dave Heger,US,YAHOO,M,A,VERIZON,Mergers / Acquisitions / Takeovers,Company News,Content produced in Bangalore,Volatile Shares / Hot Stocks,Corporate Events,Technology (TRBC),Integrated Telecommunications Services (TRBC),Divestitures / Spin,Offs,Major News,Internet / World Wide Web,Science,Technology / Media / Telecoms,Deals,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Verizon close to Yahoo deal, price cut of $250-350 million: sources"/>
-    <cse:Attribute name="twitter:description" value="Verizon Communications Inc (VZ.N) is close to a revised deal to buy Yahoo Inc&apos;s (YHOO.O) core internet business for $250 million to $350 million less than the original agreed price of $4.83 billion, according to a source briefed on the matter."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170215&amp;t=2&amp;i=1172803617&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1E14F"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170215&amp;t=2&amp;i=1172803617&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1E14F"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170215&amp;t=2&amp;i=1172803617&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1E14F"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEfOCTb-QFikVAxPr1lvT3zZag3Nfnffu1ULu4-2_FO9AxAmRF3zjrb-U"/>
+    <cse:Attribute name="width" value="144"/>
+    <cse:Attribute name="height" value="95"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0_d7bAxuvH_unVIXnV2zZ_hGH0r4tzwzwCNB4JkR0qYiZRpdOSXqaPMY"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
