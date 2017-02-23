@@ -5,29 +5,29 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:16:52.764Z</updated>
+ <updated>1970-01-18T05:18:09.738Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="20200" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="20200" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>20200</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="17400" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="17400" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>17400</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>1.311913</cse:searchTime>
-  <cse:formattedSearchTime>1.31</cse:formattedSearchTime>
-  <cse:totalResults>20200</cse:totalResults>
-  <cse:formattedTotalResults>20,200</cse:formattedTotalResults>
+  <cse:searchTime>1.39471</cse:searchTime>
+  <cse:formattedSearchTime>1.39</cse:formattedSearchTime>
+  <cse:totalResults>17400</cse:totalResults>
+  <cse:formattedTotalResults>17,400</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T05:16:52.764Z</updated>
+  <updated>1970-01-18T05:18:09.738Z</updated>
   <title type="html">TechCrunch - The latest technology news and information on startups</title>
   <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">MobileIron, which went public in 2014, has been known mostly for helping large &lt;br&gt;
-companies manage mobile devices, especially in a time when people tend to&amp;nbsp;...</summary>
+  <summary type="html">Knotel announced today that it has raised $25 million in Series A funding. &lt;br&gt;
+Founded in 2015, the company offers what co-founder and CEO Amol Sarva&amp;nbsp;...</summary>
   <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
   <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
   <cse:PageMap>
@@ -45,20 +45,20 @@ companies manage mobile devices, especially in a time when people tend to&amp;nb
     <cse:Attribute name="og:site" value="social.techcrunch.com"/>
     <cse:Attribute name="og:title" value="TechCrunch|2"/>
     <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/gettyimages-611997318.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/knotel-flatiron.jpg?w=764&amp;h=400&amp;crop=1"/>
     <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
     <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="Ron Miller"/>
-    <cse:Attribute name="id" value="1455728"/>
+    <cse:Attribute name="author" value="Anthony Ha"/>
+    <cse:Attribute name="id" value="1455925"/>
     <cse:Attribute name="title" value="TechCrunch|2"/>
     <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/22/mobileiron-adding-iot-management-to-its-arsenal/"/>
-    <cse:Attribute name="timestamp" value="2017-02-22 08:00:57"/>
-    <cse:Attribute name="content" value="MobileIron, which went public in 2014, has been known mostly for helping large companies manage mobile devices, especially in a time when people tend to bring their own. Today it announced it was expanding that mission to the Internet of Things. When you think about it, it&apos;s a logical move for a company that is used to overseeing a large number of devices and helping IT keep them secure. &quot;Where we are working, [IoT] is a nice natural adjacency we can leverage,&quot; says MobileIron CEO Barry Mainz. Mobile device management involves providing mechanisms for securing a mobile device, even when the company doesn&apos;t own it. Mainz says the standard MobileIron architecture is equipped to deal with IoT because of the company&apos;s experience with mobile devices including a device management component, a policy engine for setting rules around the devices and the ability to secure the data on the device. Where it gets tricky he says, is around authentication because instead of a human logging onto a…"/>
-    <cse:Attribute name="excerpt" value="MobileIron, which went public in 2014, has been known mostly for helping large companies manage mobile devices, especially in a time when people tend to bring their own. Today it announced it was expanding that mission to the Internet of Things. When you think about it, it’s a logical move for a company that is used to overseeing a large number of devices and helping IT keep them secure."/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/gettyimages-611997318.jpg?w=150"/>
-    <cse:Attribute name="category" value="Cloud"/>
-    <cse:Attribute name="tag" value="MobileIron"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/22/knotel-series-a/"/>
+    <cse:Attribute name="timestamp" value="2017-02-22 11:31:21"/>
+    <cse:Attribute name="content" value="Knotel announced today that it has raised $25 million in Series A funding. Founded in 2015, the company offers what co-founder and CEO Amol Sarva described as &quot;headquarters as a service&quot; — a flexible office space that can be customized for each tenant while also growing or shrinking as needed. This might sound like it&apos;s addressing the same need as WeWork and other coworking spaces, but Sarva (who was previously co-founder at Virgin Mobile) argued that Knotel is &quot;not coworking.&quot; It&apos;s not just a way to rent out a few desks, but rather to build your company&apos;s office without the risks of a long-term lease. &quot;It&apos;s a culture-coded environment — it&apos;s your spot,&quot; Sarva said. This should appeal to startups, where headcount might double or triple one year, and then drop again the next. (I&apos;ve certainly visited startups that were clearly trying to squeeze way too many people into their office, and others who&apos;d leased way more space than they needed and tried to fill things up by…"/>
+    <cse:Attribute name="excerpt" value="Knotel announced today that it has raised $25 million in Series A funding. Founded in 2015, the company offers what co-founder and CEO Amol Sarva described as “headquarters as a service” — a flexible office space that can be customized for each tenant while also growing or shrinking as needed. This might sound like it’s addressing the same need as WeWork and other…"/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/knotel-flatiron.jpg?w=150"/>
+    <cse:Attribute name="category" value="Startups"/>
+    <cse:Attribute name="tag" value="Knotel"/>
     <cse:Attribute name="application-name" value="TechCrunch"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
@@ -66,18 +66,18 @@ companies manage mobile devices, especially in a time when people tend to&amp;nb
     <cse:Attribute name="st:robots" value="follow, index"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/01/tc-disrupt-ny-17-flatiron-image.png?w=208&amp;h=156&amp;crop=1&amp;quality=85&amp;strip=all"/>
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-154041021.jpg?w=208&amp;h=156&amp;crop=1&amp;quality=85&amp;strip=all"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="166"/>
     <cse:Attribute name="height" value="124"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytmHvgjcBja6vf7ueA43WFFU-qjUq2MCFYMWsPKNAInSLsPlvds5Zng"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdqW7a-0K_hMZnmoNnQ_a8EF8lEiYM8E3wl5fzUET1wez8pXzuTDJIKg"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html</id>
-  <updated>1970-01-18T05:16:52.764Z</updated>
+  <updated>1970-01-18T05:18:09.738Z</updated>
   <title type="html">Angelina Jolie &amp;#39;is NOT dating&amp;#39; castmate Jared Leto | Daily Mail Online</title>
   <link href="http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html" title="www.dailymail.co.uk"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; 41-year-old Angie told Gossip Cop there was &amp;#39;no truth&amp;#39; to Star&amp;#39;s &lt;br&gt;
@@ -163,7 +163,7 @@ claims the Oscar-winning duo&amp;#39;s &amp;#39;hot date in LA put a smile back 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/</id>
-  <updated>1970-01-18T05:16:52.764Z</updated>
+  <updated>1970-01-18T05:18:09.738Z</updated>
   <title type="html">Christie tells his staff he is taking White House job | New York Post</title>
   <link href="http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/" title="nypost.com"/>
   <summary type="html">New Jersey Gov. Chris Christie is telling friends and staff he is taking a role with &lt;br&gt;
@@ -202,7 +202,7 @@ the Trump administration, according to &lt;b&gt;a source close to&lt;/b&gt; the 
     <cse:Attribute name="application-name" value="New York Post"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16&amp;ts=1487828842"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=1200"/>
@@ -216,7 +216,7 @@ the Trump administration, according to &lt;b&gt;a source close to&lt;/b&gt; the 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV</id>
-  <updated>1970-01-18T05:16:52.764Z</updated>
+  <updated>1970-01-18T05:18:09.738Z</updated>
   <title type="html">Wanted: a CEO willing to hold Greek banking&amp;#39;s poisoned chalice ...</title>
   <link href="http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV" title="www.reuters.com"/>
   <summary type="html">The fund, financed by euro zone and International Monetary Fund loans, has not &lt;br&gt;
@@ -236,10 +236,10 @@ explained its failure to find a new leader, but &lt;b&gt;a source close to&lt;/b
     <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-businessNews"/>
     <cse:Attribute name="author" value="George Georgiopoulos"/>
-    <cse:Attribute name="news_keywords" value="Greece;Nick Koskoletos;YANNIS VAROUFAKIS;US;GREECE;BANKS;CEO;ANALYSIS;Banks (TRBC);Funds;Company News;Insights;Financials (TRBC);Analyses;Financials (Legacy);Greece;Corporate Events;Euro Zone;European Union;Major News;Equities Markets;Europe;Enterprise Reporting;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Mon Feb 20 14:59:15 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Greece;Greece;Nick Koskoletos;YANNIS VAROUFAKIS;Nick Koskoletos;YANNIS VAROUFAKIS;US;GREECE;BANKS;CEO;ANALYSIS;Banks (TRBC);Funds;Company News;Insights;Financials (TRBC);Analyses;Financials (Legacy);Greece;Corporate Events;Euro Zone;European Union;Major News;Equities Markets;Europe;Enterprise Reporting;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Tue Feb 21 09:47:30 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="George Georgiopoulos"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-20T14:59:15+0000"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-21T09:47:30+0000"/>
     <cse:Attribute name="sailthru.title" value="Wanted: a CEO willing to hold Greek banking&apos;s &quot;poisoned chalice&quot;"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
@@ -249,19 +249,19 @@ explained its failure to find a new leader, but &lt;b&gt;a source close to&lt;/b
     <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV"/>
     <cse:Attribute name="og:type" value="article"/>
     <cse:Attribute name="og:description" value="Wanted: a chief executive to run Greece&apos;s bank-rescue fund. Job description: work hard and pray for a miracle."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170220&amp;t=2&amp;i=1173364354&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-20T14:59:15+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-20T14:59:15+0000"/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173447021&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-21T09:47:30+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-21T09:47:30+0000"/>
     <cse:Attribute name="og:article:section" value="Business"/>
     <cse:Attribute name="og:article:author" value="George Georgiopoulos"/>
-    <cse:Attribute name="og:article:tag" value="Greece,Nick Koskoletos,YANNIS VAROUFAKIS,US,GREECE,BANKS,CEO,ANALYSIS,Banks (TRBC),Funds,Company News,Insights,Financials (TRBC),Analyses,Financials (Legacy),Greece,Corporate Events,Euro Zone,European Union,Major News,Equities Markets,Europe,Enterprise Reporting,Banking Services (Legacy)"/>
+    <cse:Attribute name="og:article:tag" value="Greece,Greece,Nick Koskoletos,YANNIS VAROUFAKIS,Nick Koskoletos,YANNIS VAROUFAKIS,US,GREECE,BANKS,CEO,ANALYSIS,Banks (TRBC),Funds,Company News,Insights,Financials (TRBC),Analyses,Financials (Legacy),Greece,Corporate Events,Euro Zone,European Union,Major News,Equities Markets,Europe,Enterprise Reporting,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
     <cse:Attribute name="twitter:title" value="Wanted: a CEO willing to hold Greek banking&apos;s &quot;poisoned chalice&quot;"/>
     <cse:Attribute name="twitter:description" value="Wanted: a chief executive to run Greece&apos;s bank-rescue fund. Job description: work hard and pray for a miracle."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170220&amp;t=2&amp;i=1173364354&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170220&amp;t=2&amp;i=1173364354&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173447021&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173447021&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
@@ -269,18 +269,18 @@ explained its failure to find a new leader, but &lt;b&gt;a source close to&lt;/b
     <cse:Attribute name="wt.cg_s" value="Business"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170220&amp;t=2&amp;i=1173364354&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173447021&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg0Tev8GAZD0aB5mEgb_81414R6Szzal-vtKK2LOBloh5QwSzMlkwM6hA"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrd5wrvcNSSNVSgydXcq_e_U0xyouFjvxrl-gfIHremMd6It-xZD5WjiU4"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html</id>
-  <updated>1970-01-18T05:16:52.764Z</updated>
+  <updated>1970-01-18T05:18:09.738Z</updated>
   <title type="html">Cops Called as Paula Patton and Robin Thicke Met to Exchange ...</title>
   <link href="https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html" title="www.yahoo.com"/>
   <summary type="html">However, &lt;b&gt;a source close to&lt;/b&gt; Thicke tells PEOPLE, “Every week, they do the drop &lt;br&gt;
@@ -326,7 +326,7 @@ off at the same park after Julian gets off of school. Robin waits in his car and
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O</id>
-  <updated>1970-01-18T05:16:52.764Z</updated>
+  <updated>1970-01-18T05:18:09.738Z</updated>
   <title type="html">France not opposed to a broad Italians&amp;#39; majority in STX France -source</title>
   <link href="http://www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O" title="www.reuters.com"/>
   <summary type="html">The French government is notopposed to Italian players holding a majority in &lt;br&gt;
@@ -390,7 +390,7 @@ French shipyardSTX France, &lt;b&gt;a source close to&lt;/b&gt; economy minister
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T05:16:52.764Z</updated>
+  <updated>1970-01-18T05:18:09.738Z</updated>
   <title type="html">Steelers RB Le&amp;#39;Veon Bell facing 4-game ban for missed drug test</title>
   <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
   <summary type="html"/>
@@ -398,7 +398,7 @@ French shipyardSTX France, &lt;b&gt;a source close to&lt;/b&gt; economy minister
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2017/02/17/googles-future-depends-on-trumps-ftc-pick/</id>
-  <updated>1970-01-18T05:16:52.764Z</updated>
+  <updated>1970-01-18T05:18:09.738Z</updated>
   <title type="html">Google&amp;#39;s future depends on Trump&amp;#39;s FTC pick | New York Post</title>
   <link href="http://nypost.com/2017/02/17/googles-future-depends-on-trumps-ftc-pick/" title="nypost.com"/>
   <summary type="html">If the FTC investigated Alphabet over Android, the worst likely outcome for &lt;br&gt;
@@ -438,7 +438,7 @@ the&amp;nbsp;...</summary>
     <cse:Attribute name="application-name" value="New York Post"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16&amp;ts=1487831666"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;w=1200"/>
@@ -451,14 +451,15 @@ the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien</id>
-  <updated>1970-01-18T05:16:52.764Z</updated>
-  <title type="html">Chelsea Transfer News: Latest Rumours on Arda Turan and Michael ...</title>
-  <link href="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien" title="bleacherreport.com"/>
-  <summary type="html">Turkish-Football (via Sport), citing &lt;b&gt;a source close to&lt;/b&gt; the player, revealed the &lt;br&gt;
-property purchase near the Blues&amp;#39; stadium. Turan has been linked with Chelsea&amp;nbsp;...</summary>
-  <cse:cacheId>bvnIJktwOQIJ</cse:cacheId>
-  <cse:formattedUrl type="html">bleacherreport.com/.../2693677-chelsea-transfer-news-latest-rumours-on-arda -turan-and-michael-essien</cse:formattedUrl>
+  <id>http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more</id>
+  <updated>1970-01-18T05:18:09.738Z</updated>
+  <title type="html">NBA Trade Rumors: Top Reports Surrounding 2017 All-Star Weekend</title>
+  <link href="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more" title="bleacherreport.com"/>
+  <summary type="html">A better question might be this: Should Butler want the Bulls to trade him? &lt;b&gt;A&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;source close to&lt;/b&gt; Butler said the swingman doesn&amp;#39;t want that outcome. He is &lt;br&gt;
+grounded&amp;nbsp;...</summary>
+  <cse:cacheId>yL2kXNExqUoJ</cse:cacheId>
+  <cse:formattedUrl type="html">bleacherreport.com/.../2693637-top-reports-surrounding-jimmy-butler- derrick-rose-and-more</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="aol-te-auth" value="1c424580-0f86-4d9b-88b2-bc8c0d029d4c"/>
@@ -466,16 +467,16 @@ property purchase near the Blues&amp;#39; stadium. Turan has been linked with Ch
     <cse:Attribute name="msvalidate.01" value="7A63840181953B2A5A1FEA25FB45A991"/>
     <cse:Attribute name="viewport" value="initial-scale=1, user-scalable=no"/>
     <cse:Attribute name="fb:app_id" value="135174055162"/>
-    <cse:Attribute name="al:iphone:url" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="al:iphone:url" value="teamstream://article/bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
     <cse:Attribute name="al:iphone:app_store_id" value="418075935"/>
     <cse:Attribute name="al:iphone:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:ipad:url" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="al:ipad:url" value="teamstream://article/bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
     <cse:Attribute name="al:ipad:app_store_id" value="484725748"/>
     <cse:Attribute name="al:ipad:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
     <cse:Attribute name="al:android:app_name" value="Team Stream"/>
     <cse:Attribute name="al:android:package" value="com.bleacherreport.android.teamstream"/>
-    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
     <cse:Attribute name="og:site_name" value="Bleacher Report"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="p:domain_verify" value="0c768466449ebb550411234d6d4ffc30"/>
@@ -488,43 +489,51 @@ property purchase near the Blues&amp;#39; stadium. Turan has been linked with Ch
     <cse:Attribute name="twitter:widgets:new-embed-design" value="on"/>
     <cse:Attribute name="twitter:site" value="@bleacherreport"/>
     <cse:Attribute name="article:publisher" value="http://www.facebook.com/bleacherreport"/>
-    <cse:Attribute name="author" value="Rory Marsden"/>
-    <cse:Attribute name="og:description" value="Barcelona midfielder Arda   Turan   has sparked rumours he could be set for a move to  Chelsea  by reportedly buying a house in London, close to Stamford Bridge..."/>
-    <cse:Attribute name="og:image" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?1487429750&amp;w=9999&amp;h=9999"/>
-    <cse:Attribute name="og:title" value="Chelsea Transfer News: Latest Rumours on Arda Turan and Michael Essien"/>
+    <cse:Attribute name="author" value="Maurice Moton"/>
+    <cse:Attribute name="og:description" value="Turmoil has dominated storylines as the February 23 cutoff deal date approaches. What’s the latest on Chicago Bulls swingman Jimmy Butler? Why should we pay more attention to ..."/>
+    <cse:Attribute name="og:image" value="http://img.bleacherreport.net/img/images/photos/003/659/985/hi-res-b909e2c2bbd7203514d96e135c0bb044_crop_north.jpg?1487397558&amp;w=9999&amp;h=9999"/>
+    <cse:Attribute name="og:title" value="NBA Trade Rumors: Top Reports Surrounding 2017 All-Star Weekend"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="pubdate" value="2017-02-18T10:02:09-05:00"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="og:url" value="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
+    <cse:Attribute name="pubdate" value="2017-02-18T09:00:00-05:00"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="teamstream://article/bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="teamstream://article/bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Barcelona midfielder Arda   Turan   has sparked rumours he could be set for a move to  Chelsea  by reportedly buying a house in London, close to Stamford Bridge..."/>
-    <cse:Attribute name="twitter:image" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?1487429750&amp;w=9999&amp;h=9999"/>
-    <cse:Attribute name="twitter:title" value="Chelsea Transfer News: Latest Rumours on Arda Turan and Michael Essien"/>
-    <cse:Attribute name="twitter:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="twitter:description" value="Turmoil has dominated storylines as the February 23 cutoff deal date approaches. What’s the latest on Chicago Bulls swingman Jimmy Butler? Why should we pay more attention to ..."/>
+    <cse:Attribute name="twitter:image" value="http://img.bleacherreport.net/img/images/photos/003/659/985/hi-res-b909e2c2bbd7203514d96e135c0bb044_crop_north.jpg?1487397558&amp;w=9999&amp;h=9999"/>
+    <cse:Attribute name="twitter:title" value="NBA Trade Rumors: Top Reports Surrounding 2017 All-Star Weekend"/>
+    <cse:Attribute name="twitter:url" value="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Aitor Alcalde/Getty Images"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/images/photos/003/659/985/hi-res-b909e2c2bbd7203514d96e135c0bb044_crop_north.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Kevin C. Cox/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/638/185/8e8ed47a9c94972f7db5cb5f18c64e43_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Michael Regan/Getty Images"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/638/124/91b3c02c9c451980aeeb1a1e789c734f_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Jonathan Daniel/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/638/125/886a4b7a49bc8e3c23cf6e6e925cb98b_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Maddie Meyer/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/638/127/b84b8c0316dd556948ebbc78fd37e317_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Vaughn Ridley/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="src" value="https://img.bleacherreport.net/cms/media/image/1c/06/be/fc/5397/47f2/af65/79fe09ad276a/crop_exact_full_image.jpeg?h=2892&amp;q=90&amp;w=4339"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="79"/>
-    <cse:Attribute name="height" value="52"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqOpBcG5waxAJOpq2zEiFTSQB5_cYAupyla5a4qhxTjadPKNxol0IorA"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHX2gAn3mBmFW_rMf3ZJX-KvereE8UEv77Rz5QfV0qOOvKVk4ZRcQ0Y7nB"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735</id>
-  <updated>1970-01-18T05:16:52.764Z</updated>
+  <updated>1970-01-18T05:18:09.738Z</updated>
   <title type="html">Danny Dyer &amp;#39;didn&amp;#39;t have a meltdown at the NTAs and didn&amp;#39;t even go to</title>
   <link href="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735" title="www.mirror.co.uk"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the programme told Mirror Celeb: &amp;quot;It&amp;#39;s absolute nonsense, just &lt;br&gt;
@@ -621,12 +630,12 @@ looking at the video you can tell he&amp;#39;s not having a meltdown or having a
     <cse:Attribute name="author" value="(Photo: BBC)"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i4.mirror.co.uk/incoming/article9852232.ece/ALTERNATES/s180/MAIN-Inside-the-Kim-Kardashian-Paris-heist-crime-scene-Chilling-images-emerge-showing-a-gag-used-to-sile.jpg"/>
+    <cse:Attribute name="src" value="http://i3.mirror.co.uk/incoming/article9853447.ece/ALTERNATES/s615/London-Evening-Standard-British-Film-Awards-2013-Inside.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="144"/>
-    <cse:Attribute name="height" value="95"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0_d7bAxuvH_unVIXnV2zZ_hGH0r4tzwzwCNB4JkR0qYiZRpdOSXqaPMY"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqAKmDWHK7L8kVdc2j_EhSS5lyJDlopeanJJF1u6fppTVmWAx-uVgklFQ"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
