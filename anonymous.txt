@@ -5,29 +5,29 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:18:09.738Z</updated>
+ <updated>1970-01-18T05:19:00.472Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="17400" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="17400" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>17400</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="15600" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="15600" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>15600</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>1.39471</cse:searchTime>
-  <cse:formattedSearchTime>1.39</cse:formattedSearchTime>
-  <cse:totalResults>17400</cse:totalResults>
-  <cse:formattedTotalResults>17,400</cse:formattedTotalResults>
+  <cse:searchTime>0.556461</cse:searchTime>
+  <cse:formattedSearchTime>0.56</cse:formattedSearchTime>
+  <cse:totalResults>15600</cse:totalResults>
+  <cse:formattedTotalResults>15,600</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T05:18:09.738Z</updated>
+  <updated>1970-01-18T05:19:00.472Z</updated>
   <title type="html">TechCrunch - The latest technology news and information on startups</title>
   <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">Knotel announced today that it has raised $25 million in Series A funding. &lt;br&gt;
-Founded in 2015, the company offers what co-founder and CEO Amol Sarva&amp;nbsp;...</summary>
+  <summary type="html">Like all great programmers I get most of my code from StackOverflow questions. &lt;br&gt;
+Can&amp;#39;t figure out how to add authentication to Flask? Easy. Want to shut down&amp;nbsp;...</summary>
   <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
   <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
   <cse:PageMap>
@@ -45,20 +45,20 @@ Founded in 2015, the company offers what co-founder and CEO Amol Sarva&amp;nbsp;
     <cse:Attribute name="og:site" value="social.techcrunch.com"/>
     <cse:Attribute name="og:title" value="TechCrunch|2"/>
     <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/knotel-flatiron.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/markus-spiske-207946.jpg?w=764&amp;h=400&amp;crop=1"/>
     <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
     <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="Anthony Ha"/>
-    <cse:Attribute name="id" value="1455925"/>
+    <cse:Attribute name="author" value="John Biggs"/>
+    <cse:Attribute name="id" value="1456282"/>
     <cse:Attribute name="title" value="TechCrunch|2"/>
     <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/22/knotel-series-a/"/>
-    <cse:Attribute name="timestamp" value="2017-02-22 11:31:21"/>
-    <cse:Attribute name="content" value="Knotel announced today that it has raised $25 million in Series A funding. Founded in 2015, the company offers what co-founder and CEO Amol Sarva described as &quot;headquarters as a service&quot; — a flexible office space that can be customized for each tenant while also growing or shrinking as needed. This might sound like it&apos;s addressing the same need as WeWork and other coworking spaces, but Sarva (who was previously co-founder at Virgin Mobile) argued that Knotel is &quot;not coworking.&quot; It&apos;s not just a way to rent out a few desks, but rather to build your company&apos;s office without the risks of a long-term lease. &quot;It&apos;s a culture-coded environment — it&apos;s your spot,&quot; Sarva said. This should appeal to startups, where headcount might double or triple one year, and then drop again the next. (I&apos;ve certainly visited startups that were clearly trying to squeeze way too many people into their office, and others who&apos;d leased way more space than they needed and tried to fill things up by…"/>
-    <cse:Attribute name="excerpt" value="Knotel announced today that it has raised $25 million in Series A funding. Founded in 2015, the company offers what co-founder and CEO Amol Sarva described as “headquarters as a service” — a flexible office space that can be customized for each tenant while also growing or shrinking as needed. This might sound like it’s addressing the same need as WeWork and other…"/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/knotel-flatiron.jpg?w=150"/>
-    <cse:Attribute name="category" value="Startups"/>
-    <cse:Attribute name="tag" value="Knotel"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/23/deepcoder-builds-programs-using-code-it-finds-lying-around/"/>
+    <cse:Attribute name="timestamp" value="2017-02-23 09:02:27"/>
+    <cse:Attribute name="content" value="Like all great programmers I get most of my code from StackOverflow questions. Can&apos;t figure out how to add authentication to Flask? Easy. Want to shut down sendmail? Boom. Now, thanks to all the code on the Internet, a robot can be as smart as a $180,000 coder. The system, called DeepCoder, basically searches a corpus of code to build a project that works to spec. It&apos;s been used to complete programming competitions and could be pointed at a larger set of data to build more complex products. From the paper: ￼Building an IPS system requires solving two problems. First, the search problem: to find consistent programs we need to search over a suitable set of possible programs. We need to define the set (i.e., the program space) and search procedure. Second, the ranking problem: if there are multiple programs consistent with the input-output examples, which one do we return? Both of these problems are dependent on the specifics of the problem formulation. Thus, the first important…"/>
+    <cse:Attribute name="excerpt" value="Like all great programmers I get most of my code from StackOverflow questions. Can’t figure out how to add authentication to Flask? Easy. Want to shut down sendmail? Boom. Now, thanks to all the code on the Internet, a robot can be as smart as a $180,000 coder. The system, called DeepCoder, basically searches a corpus of code to build a project that works to spec. It’s been used to…"/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/markus-spiske-207946.jpg?w=150"/>
+    <cse:Attribute name="category" value="Apps"/>
+    <cse:Attribute name="tag" value="computing"/>
     <cse:Attribute name="application-name" value="TechCrunch"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
@@ -66,18 +66,18 @@ Founded in 2015, the company offers what co-founder and CEO Amol Sarva&amp;nbsp;
     <cse:Attribute name="st:robots" value="follow, index"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/07/gettyimages-154041021.jpg?w=208&amp;h=156&amp;crop=1&amp;quality=85&amp;strip=all"/>
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/11/facebook-video-money.png?w=208&amp;h=156&amp;crop=1&amp;quality=85&amp;strip=all"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="166"/>
     <cse:Attribute name="height" value="124"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdqW7a-0K_hMZnmoNnQ_a8EF8lEiYM8E3wl5fzUET1wez8pXzuTDJIKg"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxbdhCFseEMdnkjjURNDhmCgJCyOvEembCceICyxE8DT4MvZNzPT80hc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html</id>
-  <updated>1970-01-18T05:18:09.738Z</updated>
+  <updated>1970-01-18T05:19:00.472Z</updated>
   <title type="html">Angelina Jolie &amp;#39;is NOT dating&amp;#39; castmate Jared Leto | Daily Mail Online</title>
   <link href="http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html" title="www.dailymail.co.uk"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; 41-year-old Angie told Gossip Cop there was &amp;#39;no truth&amp;#39; to Star&amp;#39;s &lt;br&gt;
@@ -163,7 +163,7 @@ claims the Oscar-winning duo&amp;#39;s &amp;#39;hot date in LA put a smile back 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/</id>
-  <updated>1970-01-18T05:18:09.738Z</updated>
+  <updated>1970-01-18T05:19:00.472Z</updated>
   <title type="html">Christie tells his staff he is taking White House job | New York Post</title>
   <link href="http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/" title="nypost.com"/>
   <summary type="html">New Jersey Gov. Chris Christie is telling friends and staff he is taking a role with &lt;br&gt;
@@ -202,7 +202,7 @@ the Trump administration, according to &lt;b&gt;a source close to&lt;/b&gt; the 
     <cse:Attribute name="application-name" value="New York Post"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16&amp;ts=1487828842"/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16&amp;ts=1487871972"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=1200"/>
@@ -216,7 +216,7 @@ the Trump administration, according to &lt;b&gt;a source close to&lt;/b&gt; the 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV</id>
-  <updated>1970-01-18T05:18:09.738Z</updated>
+  <updated>1970-01-18T05:19:00.472Z</updated>
   <title type="html">Wanted: a CEO willing to hold Greek banking&amp;#39;s poisoned chalice ...</title>
   <link href="http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV" title="www.reuters.com"/>
   <summary type="html">The fund, financed by euro zone and International Monetary Fund loans, has not &lt;br&gt;
@@ -280,7 +280,7 @@ explained its failure to find a new leader, but &lt;b&gt;a source close to&lt;/b
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html</id>
-  <updated>1970-01-18T05:18:09.738Z</updated>
+  <updated>1970-01-18T05:19:00.472Z</updated>
   <title type="html">Cops Called as Paula Patton and Robin Thicke Met to Exchange ...</title>
   <link href="https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html" title="www.yahoo.com"/>
   <summary type="html">However, &lt;b&gt;a source close to&lt;/b&gt; Thicke tells PEOPLE, “Every week, they do the drop &lt;br&gt;
@@ -315,18 +315,18 @@ off at the same park after Julian gets off of school. Robin waits in his car and
     <cse:Attribute name="og:url" value="https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/4euBVMWKxwNWXZt.JftnAg--/aD0xMzMzO3c9MTk4NztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/creatr-images/GLB/2017-02-21/e18780e0-f868-11e6-9b7c-616b12b52c68_cd69502d0929dc9828067fc15baad193.jpg"/>
+    <cse:Attribute name="src" value="https://s.yimg.com/ny/api/res/1.2/NXgef0wU1zr0XE7_RdK2jA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/people_218/cd69502d0929dc9828067fc15baad193"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="274"/>
-    <cse:Attribute name="height" value="184"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL8KvA8mh7vGN2MSbQe-gB6CYBGuxKwuDUuPToiRss8FjovRBJuGdlopo"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2rAXsTAr0WyNCLezNxsqWIw7U1bvpx0c3sfKPqHLc77zcvwlakuNwe9ht"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O</id>
-  <updated>1970-01-18T05:18:09.738Z</updated>
+  <updated>1970-01-18T05:19:00.472Z</updated>
   <title type="html">France not opposed to a broad Italians&amp;#39; majority in STX France -source</title>
   <link href="http://www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O" title="www.reuters.com"/>
   <summary type="html">The French government is notopposed to Italian players holding a majority in &lt;br&gt;
@@ -390,7 +390,7 @@ French shipyardSTX France, &lt;b&gt;a source close to&lt;/b&gt; economy minister
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T05:18:09.738Z</updated>
+  <updated>1970-01-18T05:19:00.472Z</updated>
   <title type="html">Steelers RB Le&amp;#39;Veon Bell facing 4-game ban for missed drug test</title>
   <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
   <summary type="html"/>
@@ -398,7 +398,7 @@ French shipyardSTX France, &lt;b&gt;a source close to&lt;/b&gt; economy minister
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2017/02/17/googles-future-depends-on-trumps-ftc-pick/</id>
-  <updated>1970-01-18T05:18:09.738Z</updated>
+  <updated>1970-01-18T05:19:00.472Z</updated>
   <title type="html">Google&amp;#39;s future depends on Trump&amp;#39;s FTC pick | New York Post</title>
   <link href="http://nypost.com/2017/02/17/googles-future-depends-on-trumps-ftc-pick/" title="nypost.com"/>
   <summary type="html">If the FTC investigated Alphabet over Android, the worst likely outcome for &lt;br&gt;
@@ -438,7 +438,7 @@ the&amp;nbsp;...</summary>
     <cse:Attribute name="application-name" value="New York Post"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16&amp;ts=1487831666"/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16&amp;ts=1487914348"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;w=1200"/>
@@ -451,8 +451,116 @@ the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735</id>
+  <updated>1970-01-18T05:19:00.472Z</updated>
+  <title type="html">Danny Dyer &amp;#39;didn&amp;#39;t have a meltdown at the NTAs and didn&amp;#39;t even go to</title>
+  <link href="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735" title="www.mirror.co.uk"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the programme told Mirror Celeb: &amp;quot;It&amp;#39;s absolute nonsense, just &lt;br&gt;
+looking at the video you can tell he&amp;#39;s not having a meltdown or having a go at his&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.mirror.co.uk/3am/...news/danny-dyer-didnt-meltdown-ntas-9853735</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="apple-itunes" value="app-id=538338235"/>
+    <cse:Attribute name="google-play-app" value="app-id=com.mirror.news"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="news_keywords" value="Danny Dyer,BBC,EastEnders,Soap operas"/>
+    <cse:Attribute name="author" value="Vicki Newman"/>
+    <cse:Attribute name="p:domain_verify" value="577b698d862f6a62889e9d497b953b65"/>
+    <cse:Attribute name="msvalidate.01" value="17DA4C91A126705A8B1E2A5FD7CAC9EF"/>
+    <cse:Attribute name="fb:app_id" value="123792601022133"/>
+    <cse:Attribute name="fb:page_id" value="6149699161"/>
+    <cse:Attribute name="og:site_name" value="mirror"/>
+    <cse:Attribute name="og:language" value="en"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="EastEnders star Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs&apos;"/>
+    <cse:Attribute name="og:url" value="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735"/>
+    <cse:Attribute name="og:description" value="A source close to the show said it was &quot;nonsense&quot;"/>
+    <cse:Attribute name="og:image" value="http://i2.mirror.co.uk/incoming/article9853447.ece/ALTERNATES/s1200/London-Evening-Standard-British-Film-Awards-2013-Inside.jpg"/>
+    <cse:Attribute name="og:section" value="Celebrity News"/>
+    <cse:Attribute name="article:tag" value="Danny Dyer"/>
+    <cse:Attribute name="article:author" value="http://www.facebook.com/MirrorCeleb"/>
+    <cse:Attribute name="article:published_time" value="2017-02-20T11:29:35Z"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-20T11:31:03Z"/>
+    <cse:Attribute name="article:expiration_time" value="2017-03-22T11:31:03Z"/>
+    <cse:Attribute name="article:section" value="Celebrity News"/>
+    <cse:Attribute name="article:id" value="mirror-9853735"/>
+    <cse:Attribute name="advertisingconfig" value="{&quot;desktop&quot;:[{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:-1,&quot;hivis&quot;:&quot;n&quot;},&quot;referenceNode&quot;:&quot;header&quot;,&quot;hideOnSensitiveArticle&quot;:true,&quot;relativePos&quot;:&quot;after&quot;,&quot;name&quot;:&quot;div-gpt-ad-oop-slot&quot;,&quot;isOOP&quot;:true,&quot;type&quot;:&quot;outOfPage&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:-2,&quot;hivis&quot;:&quot;n&quot;},&quot;referenceNode&quot;:&quot;no-element-to-stop-ads-config-injection&quot;,&quot;sizes&quot;:[[1,1]],&quot;hideOnSensitiveArticle&quot;:true,&quot;relativePos&quot;:&quot;appendChild&quot;,&quot;name&quot;:&quot;div-gpt-ad-ad-mix-slot&quot;,&quot;type&quot;:&quot;adMix&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:1,&quot;hivis&quot;:&quot;y&quot;,&quot;opos&quot;:&quot;top&quot;},&quot;referenceNode&quot;:&quot;main&quot;,&quot;sizes&quot;:[[970,250],[970,251],[728,90],[728,91],[9,1]],&quot;relativePos&quot;:&quot;before&quot;,&quot;additionalClass&quot;:&quot;top-slot&quot;,&quot;sticky&quot;:{&quot;mode&quot;:&quot;header&quot;,&quot;duration&quot;:5000},&quot;name&quot;:&quot;div-gpt-ad-top-slot&quot;,&quot;type&quot;:&quot;topOfPage&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:2,&quot;hivis&quot;:&quot;y&quot;},&quot;referenceNode&quot;:&quot;main nav&quot;,&quot;sizes&quot;:[[948,42]],&quot;hidden&quot;:true,&quot;relativePos&quot;:&quot;before&quot;,&quot;name&quot;:&quot;div-gpt-ad-sponsorship-bar&quot;,&quot;type&quot;:&quot;sponsorshipBar&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:3,&quot;hivis&quot;:&quot;y&quot;,&quot;opos&quot;:&quot;top&quot;},&quot;refe"/>
+    <cse:Attribute name="scriptconfig" value="{&quot;skimlinks&quot;:{&quot;enabled&quot;:true,&quot;publisherId&quot;:&quot;76202X1526515&quot;},&quot;googleConsumerSurvey&quot;:{&quot;accountId&quot;:&quot;_s4tkhxcmvc3sikf4jlfgd3wgbe&quot;,&quot;enabled&quot;:true,&quot;hideOnSensitiveArticle&quot;:true},&quot;performSemanticPlayer&quot;:{&quot;enabled&quot;:true},&quot;googleAnalytics&quot;:{&quot;accountId&quot;:&quot;UA-229407-1&quot;,&quot;enabled&quot;:true},&quot;visualDNA&quot;:{&quot;apiKey&quot;:&quot;mirror&quot;,&quot;enabled&quot;:true},&quot;lotame&quot;:{&quot;tagNumber&quot;:&quot;9458&quot;,&quot;enabled&quot;:true},&quot;pageUrl&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;,&quot;grapeshot&quot;:{&quot;zone&quot;:&quot;national&quot;,&quot;enabled&quot;:true},&quot;performRHCPlayer&quot;:{&quot;enabled&quot;:false},&quot;timestamp&quot;:1487913360101,&quot;adYouLike&quot;:{&quot;enabled&quot;:true}}"/>
+    <cse:Attribute name="datalayer" value="{&quot;page&quot;:{&quot;attributes&quot;:{&quot;application&quot;:&quot;Responsive Web&quot;,&quot;channel&quot;:&quot;3am&quot;,&quot;channelId&quot;:&quot;91&quot;,&quot;sectionId&quot;:&quot;92&quot;,&quot;publicationName&quot;:&quot;mirror&quot;,&quot;publicationId&quot;:&quot;2&quot;,&quot;platform&quot;:&quot;nationals&quot;,&quot;pageName&quot;:&quot;mirror:3am:celebrity-news:article:danny-dyer-didnt-meltdown-ntas:9853735&quot;,&quot;pageType&quot;:&quot;article:news:readmore&quot;,&quot;ownerSite&quot;:&quot;mirror&quot;,&quot;ownerSiteDomain&quot;:&quot;www.mirror.co.uk&quot;,&quot;subSectionOne&quot;:&quot;3am&quot;,&quot;subSectionTwo&quot;:&quot;celebrity-news&quot;},&quot;info&quot;:{&quot;url&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;}},&quot;article&quot;:{&quot;attributes&quot;:{&quot;allTags&quot;:&quot;Danny Dyer|BBC|EastEnders|Soap operas&quot;,&quot;articleAuthor&quot;:&quot;Vicki Newman&quot;,&quot;articleId&quot;:&quot;9853735&quot;,&quot;articleTitle&quot;:&quot;Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs and didn&apos;t even go to the after party&apos;&quot;,&quot;articleUrl&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;,&quot;headline&quot;:&quot;mirror_danny-dyer-didnt-meltdown-ntas&quot;,&quot;primaryTag&quot;:&quot;Danny Dyer&quot;,&quot;publishDate&quot;:&quot;2017-02-20&quot;,&quot;firstPublishDate&quot;:&quot;2017-02-20|11:29&quot;,&quot;objectType&quot;:&quot;article&quot;,&quot;ownerSite&quot;:&quot;mirror&quot;},"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Home"/>
+    <cse:Attribute name="url" value="Home"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="3am"/>
+    <cse:Attribute name="url" value="3am"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Celebrity News"/>
+    <cse:Attribute name="url" value="Celebrity News"/>
+   </cse:DataObject>
+   <cse:DataObject type="Breadcrumb">
+    <cse:Attribute name="title" value="Danny Dyer"/>
+    <cse:Attribute name="url" value="Danny Dyer"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="mainentityofpage" value="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735"/>
+    <cse:Attribute name="headline" value="Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs and didn&apos;t even go to the after party&apos;"/>
+    <cse:Attribute name="name" value="Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs and didn&apos;t even go to the after party&apos;"/>
+    <cse:Attribute name="description" value="A source close to the show said it was &quot;nonsense&quot;"/>
+    <cse:Attribute name="datepublished" value="2017-02-20T11:29:35Z"/>
+    <cse:Attribute name="datemodified" value="2017-02-20T11:31:03Z"/>
+    <cse:Attribute name="articlebody" value="Get soaps updates directly to your inbox+ SubscribeThank you for subscribing!Could not subscribe, try again laterInvalid EmailDanny Dyer was reportedly calmed down by his co-stars at the National..."/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="mirror"/>
+    <cse:Attribute name="url" value="http://www.mirror.co.uk/"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="https://s3-eu-west-1.amazonaws.com/trinity-images/logos/mirror.png"/>
+    <cse:Attribute name="width" value="219"/>
+    <cse:Attribute name="height" value="60"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Vicki Newman"/>
+    <cse:Attribute name="sameas" value="http://www.mirror.co.uk/authors/vicki-newman/"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i3.mirror.co.uk/incoming/article9853447.ece/ALTERNATES/s615/London-Evening-Standard-British-Film-Awards-2013-Inside.jpg"/>
+    <cse:Attribute name="width" value="615"/>
+    <cse:Attribute name="height" value="409"/>
+    <cse:Attribute name="description" value="Danny Dyer &apos;didn&apos;t have a meltdown at the National Television Awards&apos;"/>
+    <cse:Attribute name="author" value="(Photo: Getty Images Europe)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i2.mirror.co.uk/incoming/article9852217.ece/ALTERNATES/s615b/National-Television-Awards-Show.jpg"/>
+    <cse:Attribute name="width" value="615"/>
+    <cse:Attribute name="height" value="924"/>
+    <cse:Attribute name="description" value="Danny had presented an award at the NTAs"/>
+    <cse:Attribute name="author" value="(Photo: Getty Images Europe)"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i4.mirror.co.uk/incoming/article9841511.ece/ALTERNATES/s615b/PROD-Eastenders05.jpg"/>
+    <cse:Attribute name="width" value="615"/>
+    <cse:Attribute name="height" value="391"/>
+    <cse:Attribute name="description" value="He plays Mick Carter in the soap"/>
+    <cse:Attribute name="author" value="(Photo: BBC)"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.mirror.co.uk/incoming/article9852217.ece/ALTERNATES/s615b/National-Television-Awards-Show.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="183"/>
+    <cse:Attribute name="height" value="275"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQwvgXUNkq3oxvJjgdGGDSN0_TRNaFVyXHFh1XaoCTkjtivDWOlRqbFUY"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more</id>
-  <updated>1970-01-18T05:18:09.738Z</updated>
+  <updated>1970-01-18T05:19:00.472Z</updated>
   <title type="html">NBA Trade Rumors: Top Reports Surrounding 2017 All-Star Weekend</title>
   <link href="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more" title="bleacherreport.com"/>
   <summary type="html">A better question might be this: Should Butler want the Bulls to trade him? &lt;b&gt;A&lt;/b&gt; &lt;br&gt;
@@ -528,114 +636,6 @@ grounded&amp;nbsp;...</summary>
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
     <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHX2gAn3mBmFW_rMf3ZJX-KvereE8UEv77Rz5QfV0qOOvKVk4ZRcQ0Y7nB"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735</id>
-  <updated>1970-01-18T05:18:09.738Z</updated>
-  <title type="html">Danny Dyer &amp;#39;didn&amp;#39;t have a meltdown at the NTAs and didn&amp;#39;t even go to</title>
-  <link href="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735" title="www.mirror.co.uk"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the programme told Mirror Celeb: &amp;quot;It&amp;#39;s absolute nonsense, just &lt;br&gt;
-looking at the video you can tell he&amp;#39;s not having a meltdown or having a go at his&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">www.mirror.co.uk/3am/...news/danny-dyer-didnt-meltdown-ntas-9853735</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="apple-itunes" value="app-id=538338235"/>
-    <cse:Attribute name="google-play-app" value="app-id=com.mirror.news"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="news_keywords" value="Danny Dyer,BBC,EastEnders,Soap operas"/>
-    <cse:Attribute name="author" value="Vicki Newman"/>
-    <cse:Attribute name="p:domain_verify" value="577b698d862f6a62889e9d497b953b65"/>
-    <cse:Attribute name="msvalidate.01" value="17DA4C91A126705A8B1E2A5FD7CAC9EF"/>
-    <cse:Attribute name="fb:app_id" value="123792601022133"/>
-    <cse:Attribute name="fb:page_id" value="6149699161"/>
-    <cse:Attribute name="og:site_name" value="mirror"/>
-    <cse:Attribute name="og:language" value="en"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:title" value="EastEnders star Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs&apos;"/>
-    <cse:Attribute name="og:url" value="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735"/>
-    <cse:Attribute name="og:description" value="A source close to the show said it was &quot;nonsense&quot;"/>
-    <cse:Attribute name="og:image" value="http://i2.mirror.co.uk/incoming/article9853447.ece/ALTERNATES/s1200/London-Evening-Standard-British-Film-Awards-2013-Inside.jpg"/>
-    <cse:Attribute name="og:section" value="Celebrity News"/>
-    <cse:Attribute name="article:tag" value="Danny Dyer"/>
-    <cse:Attribute name="article:author" value="http://www.facebook.com/MirrorCeleb"/>
-    <cse:Attribute name="article:published_time" value="2017-02-20T11:29:35Z"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-20T11:31:03Z"/>
-    <cse:Attribute name="article:expiration_time" value="2017-03-22T11:31:03Z"/>
-    <cse:Attribute name="article:section" value="Celebrity News"/>
-    <cse:Attribute name="article:id" value="mirror-9853735"/>
-    <cse:Attribute name="advertisingconfig" value="{&quot;desktop&quot;:[{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:-1,&quot;hivis&quot;:&quot;n&quot;},&quot;referenceNode&quot;:&quot;header&quot;,&quot;hideOnSensitiveArticle&quot;:true,&quot;relativePos&quot;:&quot;after&quot;,&quot;name&quot;:&quot;div-gpt-ad-oop-slot&quot;,&quot;isOOP&quot;:true,&quot;type&quot;:&quot;outOfPage&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:-2,&quot;hivis&quot;:&quot;n&quot;},&quot;referenceNode&quot;:&quot;no-element-to-stop-ads-config-injection&quot;,&quot;sizes&quot;:[[1,1]],&quot;hideOnSensitiveArticle&quot;:true,&quot;relativePos&quot;:&quot;appendChild&quot;,&quot;name&quot;:&quot;div-gpt-ad-ad-mix-slot&quot;,&quot;type&quot;:&quot;adMix&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:1,&quot;hivis&quot;:&quot;y&quot;,&quot;opos&quot;:&quot;top&quot;},&quot;referenceNode&quot;:&quot;main&quot;,&quot;sizes&quot;:[[970,250],[970,251],[728,90],[728,91],[9,1]],&quot;relativePos&quot;:&quot;before&quot;,&quot;additionalClass&quot;:&quot;top-slot&quot;,&quot;sticky&quot;:{&quot;mode&quot;:&quot;header&quot;,&quot;duration&quot;:5000},&quot;name&quot;:&quot;div-gpt-ad-top-slot&quot;,&quot;type&quot;:&quot;topOfPage&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:2,&quot;hivis&quot;:&quot;y&quot;},&quot;referenceNode&quot;:&quot;main nav&quot;,&quot;sizes&quot;:[[948,42]],&quot;hidden&quot;:true,&quot;relativePos&quot;:&quot;before&quot;,&quot;name&quot;:&quot;div-gpt-ad-sponsorship-bar&quot;,&quot;type&quot;:&quot;sponsorshipBar&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:3,&quot;hivis&quot;:&quot;y&quot;,&quot;opos&quot;:&quot;top&quot;},&quot;refe"/>
-    <cse:Attribute name="scriptconfig" value="{&quot;skimlinks&quot;:{&quot;enabled&quot;:true,&quot;publisherId&quot;:&quot;76202X1526515&quot;},&quot;googleConsumerSurvey&quot;:{&quot;accountId&quot;:&quot;_s4tkhxcmvc3sikf4jlfgd3wgbe&quot;,&quot;enabled&quot;:true,&quot;hideOnSensitiveArticle&quot;:true},&quot;performSemanticPlayer&quot;:{&quot;enabled&quot;:true},&quot;googleAnalytics&quot;:{&quot;accountId&quot;:&quot;UA-229407-1&quot;,&quot;enabled&quot;:true},&quot;visualDNA&quot;:{&quot;apiKey&quot;:&quot;mirror&quot;,&quot;enabled&quot;:true},&quot;lotame&quot;:{&quot;tagNumber&quot;:&quot;9458&quot;,&quot;enabled&quot;:true},&quot;pageUrl&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;,&quot;grapeshot&quot;:{&quot;zone&quot;:&quot;national&quot;,&quot;enabled&quot;:true},&quot;performRHCPlayer&quot;:{&quot;enabled&quot;:false},&quot;timestamp&quot;:1487622416402,&quot;adYouLike&quot;:{&quot;enabled&quot;:true}}"/>
-    <cse:Attribute name="datalayer" value="{&quot;page&quot;:{&quot;attributes&quot;:{&quot;application&quot;:&quot;Responsive Web&quot;,&quot;channel&quot;:&quot;3am&quot;,&quot;channelId&quot;:&quot;91&quot;,&quot;sectionId&quot;:&quot;92&quot;,&quot;publicationId&quot;:&quot;2&quot;,&quot;platform&quot;:&quot;nationals&quot;,&quot;pageName&quot;:&quot;mirror:3am:celebrity-news:article:danny-dyer-didnt-meltdown-ntas:9853735&quot;,&quot;pageType&quot;:&quot;article:news:readmore&quot;,&quot;ownerSite&quot;:&quot;mirror&quot;,&quot;ownerSiteDomain&quot;:&quot;www.mirror.co.uk&quot;,&quot;subSectionOne&quot;:&quot;3am&quot;,&quot;subSectionTwo&quot;:&quot;celebrity-news&quot;},&quot;info&quot;:{&quot;url&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;}},&quot;article&quot;:{&quot;attributes&quot;:{&quot;allTags&quot;:&quot;Danny Dyer|BBC|EastEnders|Soap operas&quot;,&quot;articleAuthor&quot;:&quot;Vicki Newman&quot;,&quot;articleId&quot;:&quot;9853735&quot;,&quot;articleTitle&quot;:&quot;Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs and didn&apos;t even go to the after party&apos;&quot;,&quot;articleUrl&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;,&quot;headline&quot;:&quot;mirror_danny-dyer-didnt-meltdown-ntas&quot;,&quot;primaryTag&quot;:&quot;Danny Dyer&quot;,&quot;publishDate&quot;:&quot;2017-02-20&quot;,&quot;firstPublishDate&quot;:&quot;2017-02-20|11:29&quot;,&quot;objectType&quot;:&quot;article&quot;,&quot;ownerSite&quot;:&quot;mirror&quot;},&quot;info&quot;:{&quot;hoursSincePublicat"/>
-   </cse:DataObject>
-   <cse:DataObject type="Breadcrumb">
-    <cse:Attribute name="title" value="Home"/>
-    <cse:Attribute name="url" value="Home"/>
-   </cse:DataObject>
-   <cse:DataObject type="Breadcrumb">
-    <cse:Attribute name="title" value="3am"/>
-    <cse:Attribute name="url" value="3am"/>
-   </cse:DataObject>
-   <cse:DataObject type="Breadcrumb">
-    <cse:Attribute name="title" value="Celebrity News"/>
-    <cse:Attribute name="url" value="Celebrity News"/>
-   </cse:DataObject>
-   <cse:DataObject type="Breadcrumb">
-    <cse:Attribute name="title" value="Danny Dyer"/>
-    <cse:Attribute name="url" value="Danny Dyer"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="mainentityofpage" value="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735"/>
-    <cse:Attribute name="headline" value="Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs and didn&apos;t even go to the after party&apos;"/>
-    <cse:Attribute name="name" value="Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs and didn&apos;t even go to the after party&apos;"/>
-    <cse:Attribute name="description" value="A source close to the show said it was &quot;nonsense&quot;"/>
-    <cse:Attribute name="datepublished" value="2017-02-20T11:29:35Z"/>
-    <cse:Attribute name="datemodified" value="2017-02-20T11:31:03Z"/>
-    <cse:Attribute name="articlebody" value="Get soaps updates directly to your inbox+ SubscribeThank you for subscribing!Could not subscribe, try again laterInvalid EmailDanny Dyer was reportedly calmed down by his co-stars at the National..."/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="mirror"/>
-    <cse:Attribute name="url" value="http://www.mirror.co.uk/"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="https://s3-eu-west-1.amazonaws.com/trinity-images/logos/mirror.png"/>
-    <cse:Attribute name="width" value="219"/>
-    <cse:Attribute name="height" value="60"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Vicki Newman"/>
-    <cse:Attribute name="sameas" value="http://www.mirror.co.uk/authors/vicki-newman/"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i3.mirror.co.uk/incoming/article9853447.ece/ALTERNATES/s615/London-Evening-Standard-British-Film-Awards-2013-Inside.jpg"/>
-    <cse:Attribute name="width" value="615"/>
-    <cse:Attribute name="height" value="409"/>
-    <cse:Attribute name="description" value="Danny Dyer &apos;didn&apos;t have a meltdown at the National Television Awards&apos;"/>
-    <cse:Attribute name="author" value="(Photo: Getty Images Europe)"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i2.mirror.co.uk/incoming/article9852217.ece/ALTERNATES/s615b/National-Television-Awards-Show.jpg"/>
-    <cse:Attribute name="width" value="615"/>
-    <cse:Attribute name="height" value="924"/>
-    <cse:Attribute name="description" value="Danny had presented an award at the NTAs"/>
-    <cse:Attribute name="author" value="(Photo: Getty Images Europe)"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i4.mirror.co.uk/incoming/article9841511.ece/ALTERNATES/s615b/PROD-Eastenders05.jpg"/>
-    <cse:Attribute name="width" value="615"/>
-    <cse:Attribute name="height" value="391"/>
-    <cse:Attribute name="description" value="He plays Mick Carter in the soap"/>
-    <cse:Attribute name="author" value="(Photo: BBC)"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i3.mirror.co.uk/incoming/article9853447.ece/ALTERNATES/s615/London-Evening-Standard-British-Film-Awards-2013-Inside.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqAKmDWHK7L8kVdc2j_EhSS5lyJDlopeanJJF1u6fppTVmWAx-uVgklFQ"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
