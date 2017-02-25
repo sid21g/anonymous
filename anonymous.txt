@@ -5,29 +5,29 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:19:00.472Z</updated>
+ <updated>1970-01-18T05:20:34.590Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="15600" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="15600" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>15600</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14100" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14100" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>14100</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.556461</cse:searchTime>
-  <cse:formattedSearchTime>0.56</cse:formattedSearchTime>
-  <cse:totalResults>15600</cse:totalResults>
-  <cse:formattedTotalResults>15,600</cse:formattedTotalResults>
+  <cse:searchTime>0.611615</cse:searchTime>
+  <cse:formattedSearchTime>0.61</cse:formattedSearchTime>
+  <cse:totalResults>14100</cse:totalResults>
+  <cse:formattedTotalResults>14,100</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T05:19:00.472Z</updated>
+  <updated>1970-01-18T05:20:34.590Z</updated>
   <title type="html">TechCrunch - The latest technology news and information on startups</title>
   <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">Like all great programmers I get most of my code from StackOverflow questions. &lt;br&gt;
-Can&amp;#39;t figure out how to add authentication to Flask? Easy. Want to shut down&amp;nbsp;...</summary>
+  <summary type="html">If you&amp;#39;ve read the latest headlines about Britain&amp;#39;s tech industry, you&amp;#39;d think the &lt;br&gt;
+country hadn&amp;#39;t been rocked by the greatest political and economic uncertainty&amp;nbsp;...</summary>
   <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
   <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
   <cse:PageMap>
@@ -45,20 +45,19 @@ Can&amp;#39;t figure out how to add authentication to Flask? Easy. Want to shut 
     <cse:Attribute name="og:site" value="social.techcrunch.com"/>
     <cse:Attribute name="og:title" value="TechCrunch|2"/>
     <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/markus-spiske-207946.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/la-la-land-ryan-gosling-emma-stone.jpg?w=764&amp;h=400&amp;crop=1"/>
     <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
     <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="John Biggs"/>
-    <cse:Attribute name="id" value="1456282"/>
+    <cse:Attribute name="author" value="Mike Butcher"/>
+    <cse:Attribute name="id" value="1456799"/>
     <cse:Attribute name="title" value="TechCrunch|2"/>
     <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/23/deepcoder-builds-programs-using-code-it-finds-lying-around/"/>
-    <cse:Attribute name="timestamp" value="2017-02-23 09:02:27"/>
-    <cse:Attribute name="content" value="Like all great programmers I get most of my code from StackOverflow questions. Can&apos;t figure out how to add authentication to Flask? Easy. Want to shut down sendmail? Boom. Now, thanks to all the code on the Internet, a robot can be as smart as a $180,000 coder. The system, called DeepCoder, basically searches a corpus of code to build a project that works to spec. It&apos;s been used to complete programming competitions and could be pointed at a larger set of data to build more complex products. From the paper: ￼Building an IPS system requires solving two problems. First, the search problem: to find consistent programs we need to search over a suitable set of possible programs. We need to define the set (i.e., the program space) and search procedure. Second, the ranking problem: if there are multiple programs consistent with the input-output examples, which one do we return? Both of these problems are dependent on the specifics of the problem formulation. Thus, the first important…"/>
-    <cse:Attribute name="excerpt" value="Like all great programmers I get most of my code from StackOverflow questions. Can’t figure out how to add authentication to Flask? Easy. Want to shut down sendmail? Boom. Now, thanks to all the code on the Internet, a robot can be as smart as a $180,000 coder. The system, called DeepCoder, basically searches a corpus of code to build a project that works to spec. It’s been used to…"/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/markus-spiske-207946.jpg?w=150"/>
-    <cse:Attribute name="category" value="Apps"/>
-    <cse:Attribute name="tag" value="computing"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/24/while-tech-giants-hire-startups-fret-has-brexit-britain-become-la-la-land/"/>
+    <cse:Attribute name="timestamp" value="2017-02-24 08:24:37"/>
+    <cse:Attribute name="content" value="If you’ve read the latest headlines about Britain’s tech industry, you’d think the country hadn’t been rocked by the greatest political and economic uncertainty since the Second World War. Not only are UK startups raising record amounts of funding year on year, but tech giants like Amazon are investing and doubling down on the UK economy, as if the mood music was taken straight from a dance scene in La La Land. Surely Brexit Britain is booming? This week Amazon said it would hire 5,000 people across the UK this year, boosting its headcount by a quarter when it moves into new offices in London’s Shoreditch. At least 500 of those new jobs will be in Amazon’s new research and development centres in Edinburgh, Cambridge and London, which has a hand in developing technology for Alexa, drones and Prime Video. It was hailed as clear sign of the ecommerce giant’s long-term commitment to Britain. But of course 4,500 of these jobs will be in its packing warehouses across…"/>
+    <cse:Attribute name="excerpt" value="If you’ve read the latest headlines about Britain’s tech industry, you’d think the country hadn’t been rocked by the greatest political and economic uncertainty since the Second World War. Not only are UK startups raising record amounts of funding year on year, but tech giants like Amazon are investing and doubling down on the UK economy, as if the mood music was taken…"/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/la-la-land-ryan-gosling-emma-stone.jpg?w=150"/>
+    <cse:Attribute name="category" value="Europe"/>
     <cse:Attribute name="application-name" value="TechCrunch"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
@@ -66,18 +65,18 @@ Can&amp;#39;t figure out how to add authentication to Flask? Easy. Want to shut 
     <cse:Attribute name="st:robots" value="follow, index"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/11/facebook-video-money.png?w=208&amp;h=156&amp;crop=1&amp;quality=85&amp;strip=all"/>
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/08/e-golf_3578.jpg?w=208&amp;h=156&amp;crop=1&amp;quality=85&amp;strip=all"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="166"/>
     <cse:Attribute name="height" value="124"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxbdhCFseEMdnkjjURNDhmCgJCyOvEembCceICyxE8DT4MvZNzPT80hc"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAbAIWzPZfwo35iY2e3-DKBqWonLVL47RMBhoxdTet2_0RFvrPfxUN-2E"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html</id>
-  <updated>1970-01-18T05:19:00.472Z</updated>
+  <updated>1970-01-18T05:20:34.590Z</updated>
   <title type="html">Angelina Jolie &amp;#39;is NOT dating&amp;#39; castmate Jared Leto | Daily Mail Online</title>
   <link href="http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html" title="www.dailymail.co.uk"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; 41-year-old Angie told Gossip Cop there was &amp;#39;no truth&amp;#39; to Star&amp;#39;s &lt;br&gt;
@@ -163,7 +162,7 @@ claims the Oscar-winning duo&amp;#39;s &amp;#39;hot date in LA put a smile back 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/</id>
-  <updated>1970-01-18T05:19:00.472Z</updated>
+  <updated>1970-01-18T05:20:34.590Z</updated>
   <title type="html">Christie tells his staff he is taking White House job | New York Post</title>
   <link href="http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/" title="nypost.com"/>
   <summary type="html">New Jersey Gov. Chris Christie is telling friends and staff he is taking a role with &lt;br&gt;
@@ -202,7 +201,7 @@ the Trump administration, according to &lt;b&gt;a source close to&lt;/b&gt; the 
     <cse:Attribute name="application-name" value="New York Post"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16&amp;ts=1487871972"/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=1200"/>
@@ -216,7 +215,7 @@ the Trump administration, according to &lt;b&gt;a source close to&lt;/b&gt; the 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV</id>
-  <updated>1970-01-18T05:19:00.472Z</updated>
+  <updated>1970-01-18T05:20:34.590Z</updated>
   <title type="html">Wanted: a CEO willing to hold Greek banking&amp;#39;s poisoned chalice ...</title>
   <link href="http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV" title="www.reuters.com"/>
   <summary type="html">The fund, financed by euro zone and International Monetary Fund loans, has not &lt;br&gt;
@@ -279,180 +278,75 @@ explained its failure to find a new leader, but &lt;b&gt;a source close to&lt;/b
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html</id>
-  <updated>1970-01-18T05:19:00.472Z</updated>
-  <title type="html">Cops Called as Paula Patton and Robin Thicke Met to Exchange ...</title>
-  <link href="https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html" title="www.yahoo.com"/>
-  <summary type="html">However, &lt;b&gt;a source close to&lt;/b&gt; Thicke tells PEOPLE, “Every week, they do the drop &lt;br&gt;
-off at the same park after Julian gets off of school. Robin waits in his car and&amp;nbsp;...</summary>
-  <cse:cacheId>l-r6L4oe9zsJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../cops-called-paula-patton-robin-012904083.html</cse:formattedUrl>
+  <id>https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc</id>
+  <updated>1970-01-18T05:20:34.590Z</updated>
+  <title type="html">Source: Perez narrowly leads Ellison in nail-bitingly close race to ...</title>
+  <link href="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc" title="mic.com"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Perez who spoke on the condition of anonymity because they &lt;br&gt;
+were not authorized to speak for the campaign said its internal numbers show&amp;nbsp;...</summary>
+  <cse:cacheId>PRm7FSOGYQ8J</cse:cacheId>
+  <cse:formattedUrl type="html">https://mic.com/.../keith-ellison-and-tom-perez-square-off-in-nailbitingly- close-race-to-lead-the-dnc</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@Yahoo"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=de55feb1-4702-30e2-ae65-1a2b90a48053&amp;src=web"/>
-    <cse:Attribute name="twitter:description" value="The police were called, the source continues, and Patton left, taking the couple’s son with her.  The Thicke source says Patton, 41, arrived an hour late to the location and refused to send her son off with the court-appointed monitor.  “He was not in violation of the restraining order,” the Thicke source"/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/4euBVMWKxwNWXZt.JftnAg--/aD0xMzMzO3c9MTk4NztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/creatr-images/GLB/2017-02-21/e18780e0-f868-11e6-9b7c-616b12b52c68_cd69502d0929dc9828067fc15baad193.jpg"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/4euBVMWKxwNWXZt.JftnAg--/aD0xMzMzO3c9MTk4NztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/creatr-images/GLB/2017-02-21/e18780e0-f868-11e6-9b7c-616b12b52c68_cd69502d0929dc9828067fc15baad193.jpg"/>
-    <cse:Attribute name="twitter:title" value="Cops Called as Paula Patton and Robin Thicke Met to Exchange Son Julian Amidst Ongoing Custody War"/>
+    <cse:Attribute name="title" value="Source: Perez narrowly leads Ellison in nail-bitingly close race to lead the DNC"/>
+    <cse:Attribute name="article:published_time" value="2017-02-24T14:33:45.000Z"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-24T16:18:22.000Z"/>
+    <cse:Attribute name="article:tag" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/MicMedia"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/215337"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=de55feb1-4702-30e2-ae65-1a2b90a48053&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=de55feb1-4702-30e2-ae65-1a2b90a48053&amp;src=web"/>
-    <cse:Attribute name="og:image:width" value="1987"/>
-    <cse:Attribute name="og:image:height" value="1333"/>
+    <cse:Attribute name="og:url" value="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc"/>
+    <cse:Attribute name="og:title" value="Hours before Democrats choose their leader, the vote count is nailbitingly close"/>
+    <cse:Attribute name="og:description" value="The race for chair of the DNC has become a proxy battle between Bernie Sanders and Hillary Clinton supporters."/>
+    <cse:Attribute name="og:image" value="https://thumbs.mic.com/MzRmYmFmOWVmYiMvM20zeDVaQ2ZYeDd6QjlvWXI4M2laWGd1U1RJPS8weDEzMjo0MDIxeDIwODAvMTIwMHg2MzAvZmlsdGVyczpxdWFsaXR5KDcwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.undefined"/>
+    <cse:Attribute name="original-image" value="https://media3.mic.com/YWFjYzIyNmQzYiMvMGxOZkR2UHZYT1FZM1hHcG0tOTRQM3VfNGd3PS8weDEzMjo0MDIxeDIwODAvMTkxMHgxMDAwL2ZpbHRlcnM6cXVhbGl0eSg4NSkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvZGZiaWxyaWVpd2lhbWxna3Y4eXVzb25oa245aHh2Z3prcjlyYnFud3dyY2x2ZHVscWdjeWxveHpqZnVnbGNkNC5qcGc=.jpg"/>
+    <cse:Attribute name="news_keywords" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:description" value="The police were called, the source continues, and Patton left, taking the couple’s son with her.  The Thicke source says Patton, 41, arrived an hour late to the location and refused to send her son off with the court-appointed monitor.  “He was not in violation of the restraining order,” the Thicke source"/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/4euBVMWKxwNWXZt.JftnAg--/aD0xMzMzO3c9MTk4NztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/creatr-images/GLB/2017-02-21/e18780e0-f868-11e6-9b7c-616b12b52c68_cd69502d0929dc9828067fc15baad193.jpg"/>
-    <cse:Attribute name="og:title" value="Cops Called as Paula Patton and Robin Thicke Met to Exchange Son Julian Amidst Ongoing Custody War"/>
-    <cse:Attribute name="og:url" value="https://www.yahoo.com/celebrity/cops-called-paula-patton-robin-012904083.html"/>
+    <cse:Attribute name="twitter:site" value="@Mic"/>
+    <cse:Attribute name="twitter:creator" value="jacobdhorowitz"/>
+    <cse:Attribute name="twitter:url" value="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc"/>
+    <cse:Attribute name="twitter:title" value="Source: Perez narrowly leads Ellison in nail-bitingly close race to lead the DNC"/>
+    <cse:Attribute name="twitter:description" value="The race for chair of the DNC has become a proxy battle between Bernie Sanders and Hillary Clinton supporters."/>
+    <cse:Attribute name="twitter:image" value="https://thumbs.mic.com/MzRmYmFmOWVmYiMvM20zeDVaQ2ZYeDd6QjlvWXI4M2laWGd1U1RJPS8weDEzMjo0MDIxeDIwODAvMTIwMHg2MzAvZmlsdGVyczpxdWFsaXR5KDcwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.undefined"/>
+    <cse:Attribute name="bt:id" value="169494"/>
+    <cse:Attribute name="bt:keywords" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
+    <cse:Attribute name="bt:pubdate" value="2017-02-24T14:33:45.000Z"/>
+    <cse:Attribute name="bt:moddate" value="2017-02-24T16:18:22.000Z"/>
+    <cse:Attribute name="bt:isblacklisted" value="false"/>
+    <cse:Attribute name="bt:type" value="trending"/>
+    <cse:Attribute name="bt:image" value="https://thumbs.mic.com/MzZkMmY5MmE5MiMvSG1rMnI3bWVoSUx1OFpTalhIXy12ZFAwYjZ3PS8weDEzMjo0MDIxeDIwODAvNDAweDIyNS9maWx0ZXJzOmZvcm1hdChqcGVnKTpxdWFsaXR5KDgwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.jpg"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="fb:app_id" value="141861192518680"/>
+    <cse:Attribute name="twitter:user_id" value="139909832"/>
+    <cse:Attribute name="language" value="en"/>
+    <cse:Attribute name="author" value="Mic"/>
+    <cse:Attribute name="medium" value="news"/>
+    <cse:Attribute name="og:site_name" value="Mic"/>
+    <cse:Attribute name="identifier-url" value="http://mic.com/articles/74689/the-8-most-dysfunctional-families-in-tv-history"/>
+    <cse:Attribute name="fb:admins" value="23342,215337,1410801,675670245,13000939,616963,1479330109,1267070071"/>
+    <cse:Attribute name="msapplication-task" value="name=Mic;action-uri=http://mic.com;icon-uri=http://mic.com/favicon.ico"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/ny/api/res/1.2/NXgef0wU1zr0XE7_RdK2jA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/people_218/cd69502d0929dc9828067fc15baad193"/>
+    <cse:Attribute name="src" value="https://images.mic.com/k6whelooq4dtstbkc8jumm8ewud3profgq4mscy5717dthwtr7hit4pfih5kjsoy.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2rAXsTAr0WyNCLezNxsqWIw7U1bvpx0c3sfKPqHLc77zcvwlakuNwe9ht"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O</id>
-  <updated>1970-01-18T05:19:00.472Z</updated>
-  <title type="html">France not opposed to a broad Italians&amp;#39; majority in STX France -source</title>
-  <link href="http://www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O" title="www.reuters.com"/>
-  <summary type="html">The French government is notopposed to Italian players holding a majority in &lt;br&gt;
-French shipyardSTX France, &lt;b&gt;a source close to&lt;/b&gt; economy minister&amp;nbsp;...</summary>
-  <cse:cacheId>97U7ps5ZUqAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="industrialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="rbssIndustryMaterialsUtilitiesNews;marine;industrialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="France+not+opposed+to+a+broad+Italians%27+majority+in+STX+France+-source"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-industrialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="France;Christophe Sirugue;Giuseppe Bono;STX;MandA/FINCANTIERI;Mergers / Acquisitions / Takeovers;Western Europe;Construction and Engineering (TRBC);France;Transportation (TRBC);Credit and Corporate Debt;Corporate Debt;Asia / Pacific;Industrials (TRBC);Debt / Fixed Income Markets;Marine Services (TRBC);Deals;Corporate Debt Renegotiation;Company News;South Korea;Italy;Corporate Events;Euro Zone;Industrial Services (TRBC);Europe;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Fri Feb 17 15:00:04 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-17T15:00:04+0000"/>
-    <cse:Attribute name="sailthru.title" value="France not opposed to a broad Italians&apos; majority in STX France -source"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="France not opposed to a broad Italians&apos; majority in STX France -source"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/stx-ma-fincantieri-idUSL9N1F102O"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The French government is notopposed to Italian players holding a majority in French shipyardSTX France, a source close to economy minister ChristopheSirugue told Reuters, as long as Fincantieri does nothave more than 50 percent itself."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-17T15:00:04+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-17T15:00:04+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="France,Christophe Sirugue,Giuseppe Bono,STX,MandA/FINCANTIERI,Mergers / Acquisitions / Takeovers,Western Europe,Construction and Engineering (TRBC),France,Transportation (TRBC),Credit and Corporate Debt,Corporate Debt,Asia / Pacific,Industrials (TRBC),Debt / Fixed Income Markets,Marine Services (TRBC),Deals,Corporate Debt Renegotiation,Company News,South Korea,Italy,Corporate Events,Euro Zone,Industrial Services (TRBC),Europe,Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="France not opposed to a broad Italians&apos; majority in STX France -source"/>
-    <cse:Attribute name="twitter:description" value="The French government is notopposed to Italian players holding a majority in French shipyardSTX France, a source close to economy minister ChristopheSirugue told Reuters, as long as Fincantieri does nothave more than 50 percent itself."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/industries/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe2j0sAK9lW-WTi2_ZUYy9MFnjXT2Dn2nxSHW7OjgQsqQz0oG3lEpy824"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T05:19:00.472Z</updated>
+  <updated>1970-01-18T05:20:34.590Z</updated>
   <title type="html">Steelers RB Le&amp;#39;Veon Bell facing 4-game ban for missed drug test</title>
   <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
   <summary type="html"/>
   <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://nypost.com/2017/02/17/googles-future-depends-on-trumps-ftc-pick/</id>
-  <updated>1970-01-18T05:19:00.472Z</updated>
-  <title type="html">Google&amp;#39;s future depends on Trump&amp;#39;s FTC pick | New York Post</title>
-  <link href="http://nypost.com/2017/02/17/googles-future-depends-on-trumps-ftc-pick/" title="nypost.com"/>
-  <summary type="html">If the FTC investigated Alphabet over Android, the worst likely outcome for &lt;br&gt;
-Alphabet would be the FTC requiring it to change its conduct, &lt;b&gt;a source close to&lt;/b&gt; &lt;br&gt;
-the&amp;nbsp;...</summary>
-  <cse:cacheId>K_oXumOKn4EJ</cse:cacheId>
-  <cse:formattedUrl type="html">nypost.com/2017/02/.../googles-future-depends-on-trumps-ftc-pick/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
-    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:title" value="Google’s future depends on Trump’s FTC pick"/>
-    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/17/googles-future-depends-on-trumps-ftc-pick/"/>
-    <cse:Attribute name="og:description" value="Alphabet believes it has a lot riding on whom President Trump picks to lead the Federal Trade Commission, several sources close to the situation told The Post. The federal regulator has the power t…"/>
-    <cse:Attribute name="article:published_time" value="2017-02-18T03:19:01+00:00"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-20T21:36:54+00:00"/>
-    <cse:Attribute name="og:site_name" value="New York Post"/>
-    <cse:Attribute name="og:image:width" value="1200"/>
-    <cse:Attribute name="og:image:height" value="800"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="twitter:site" value="@nypost"/>
-    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:creator" value="@joshkosman"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
-    <cse:Attribute name="twitter:title" value="Google&apos;s future depends on Trump&apos;s FTC pick"/>
-    <cse:Attribute name="twitter:description" value="Alphabet believes it has a lot riding on whom President Trump picks to lead the Federal Trade Commission, several sources close to the situation told The Post. The federal regulator has the power to"/>
-    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
-    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;w=1200"/>
-    <cse:Attribute name="og:image:secure_url" value="https://i1.wp.com/thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
-    <cse:Attribute name="nypost-section" value="Business"/>
-    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10748695&quot;}"/>
-    <cse:Attribute name="news_keywords" value="Business,Tech,alphabet inc.,donald trump,ftc,google"/>
-    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
-    <cse:Attribute name="fb:pages" value="134486075205"/>
-    <cse:Attribute name="application-name" value="New York Post"/>
-    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
-    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16&amp;ts=1487914348"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/google.jpg?quality=90&amp;strip=all&amp;w=1200"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf3EeoFx1AS8lreJZYqSHxaYXcTH6A85rrbZFWPJ3iZ9DEs3shuvqNNCE"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735</id>
-  <updated>1970-01-18T05:19:00.472Z</updated>
+  <updated>1970-01-18T05:20:34.590Z</updated>
   <title type="html">Danny Dyer &amp;#39;didn&amp;#39;t have a meltdown at the NTAs and didn&amp;#39;t even go to</title>
   <link href="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735" title="www.mirror.co.uk"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the programme told Mirror Celeb: &amp;quot;It&amp;#39;s absolute nonsense, just &lt;br&gt;
@@ -559,15 +453,14 @@ looking at the video you can tell he&amp;#39;s not having a meltdown or having a
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more</id>
-  <updated>1970-01-18T05:19:00.472Z</updated>
-  <title type="html">NBA Trade Rumors: Top Reports Surrounding 2017 All-Star Weekend</title>
-  <link href="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more" title="bleacherreport.com"/>
-  <summary type="html">A better question might be this: Should Butler want the Bulls to trade him? &lt;b&gt;A&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;source close to&lt;/b&gt; Butler said the swingman doesn&amp;#39;t want that outcome. He is &lt;br&gt;
-grounded&amp;nbsp;...</summary>
-  <cse:cacheId>yL2kXNExqUoJ</cse:cacheId>
-  <cse:formattedUrl type="html">bleacherreport.com/.../2693637-top-reports-surrounding-jimmy-butler- derrick-rose-and-more</cse:formattedUrl>
+  <id>http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien</id>
+  <updated>1970-01-18T05:20:34.590Z</updated>
+  <title type="html">Chelsea Transfer News: Latest Rumours on Arda Turan and Michael ...</title>
+  <link href="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien" title="bleacherreport.com"/>
+  <summary type="html">Turkish-Football (via Sport), citing &lt;b&gt;a source close to&lt;/b&gt; the player, revealed the &lt;br&gt;
+property purchase near the Blues&amp;#39; stadium. Turan has been linked with Chelsea&amp;nbsp;...</summary>
+  <cse:cacheId>bvnIJktwOQIJ</cse:cacheId>
+  <cse:formattedUrl type="html">bleacherreport.com/.../2693677-chelsea-transfer-news-latest-rumours-on-arda -turan-and-michael-essien</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="aol-te-auth" value="1c424580-0f86-4d9b-88b2-bc8c0d029d4c"/>
@@ -575,16 +468,16 @@ grounded&amp;nbsp;...</summary>
     <cse:Attribute name="msvalidate.01" value="7A63840181953B2A5A1FEA25FB45A991"/>
     <cse:Attribute name="viewport" value="initial-scale=1, user-scalable=no"/>
     <cse:Attribute name="fb:app_id" value="135174055162"/>
-    <cse:Attribute name="al:iphone:url" value="teamstream://article/bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
+    <cse:Attribute name="al:iphone:url" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
     <cse:Attribute name="al:iphone:app_store_id" value="418075935"/>
     <cse:Attribute name="al:iphone:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:ipad:url" value="teamstream://article/bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
+    <cse:Attribute name="al:ipad:url" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
     <cse:Attribute name="al:ipad:app_store_id" value="484725748"/>
     <cse:Attribute name="al:ipad:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
+    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
     <cse:Attribute name="al:android:app_name" value="Team Stream"/>
     <cse:Attribute name="al:android:package" value="com.bleacherreport.android.teamstream"/>
-    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
+    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
     <cse:Attribute name="og:site_name" value="Bleacher Report"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="p:domain_verify" value="0c768466449ebb550411234d6d4ffc30"/>
@@ -597,45 +490,430 @@ grounded&amp;nbsp;...</summary>
     <cse:Attribute name="twitter:widgets:new-embed-design" value="on"/>
     <cse:Attribute name="twitter:site" value="@bleacherreport"/>
     <cse:Attribute name="article:publisher" value="http://www.facebook.com/bleacherreport"/>
-    <cse:Attribute name="author" value="Maurice Moton"/>
-    <cse:Attribute name="og:description" value="Turmoil has dominated storylines as the February 23 cutoff deal date approaches. What’s the latest on Chicago Bulls swingman Jimmy Butler? Why should we pay more attention to ..."/>
-    <cse:Attribute name="og:image" value="http://img.bleacherreport.net/img/images/photos/003/659/985/hi-res-b909e2c2bbd7203514d96e135c0bb044_crop_north.jpg?1487397558&amp;w=9999&amp;h=9999"/>
-    <cse:Attribute name="og:title" value="NBA Trade Rumors: Top Reports Surrounding 2017 All-Star Weekend"/>
+    <cse:Attribute name="author" value="Rory Marsden"/>
+    <cse:Attribute name="og:description" value="Barcelona midfielder Arda   Turan   has sparked rumours he could be set for a move to  Chelsea  by reportedly buying a house in London, close to Stamford Bridge..."/>
+    <cse:Attribute name="og:image" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?1487429750&amp;w=9999&amp;h=9999"/>
+    <cse:Attribute name="og:title" value="Chelsea Transfer News: Latest Rumours on Arda Turan and Michael Essien"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
-    <cse:Attribute name="pubdate" value="2017-02-18T09:00:00-05:00"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="teamstream://article/bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="teamstream://article/bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
+    <cse:Attribute name="og:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="pubdate" value="2017-02-18T10:02:09-05:00"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Turmoil has dominated storylines as the February 23 cutoff deal date approaches. What’s the latest on Chicago Bulls swingman Jimmy Butler? Why should we pay more attention to ..."/>
-    <cse:Attribute name="twitter:image" value="http://img.bleacherreport.net/img/images/photos/003/659/985/hi-res-b909e2c2bbd7203514d96e135c0bb044_crop_north.jpg?1487397558&amp;w=9999&amp;h=9999"/>
-    <cse:Attribute name="twitter:title" value="NBA Trade Rumors: Top Reports Surrounding 2017 All-Star Weekend"/>
-    <cse:Attribute name="twitter:url" value="http://bleacherreport.com/articles/2693637-top-reports-surrounding-jimmy-butler-derrick-rose-and-more"/>
+    <cse:Attribute name="twitter:description" value="Barcelona midfielder Arda   Turan   has sparked rumours he could be set for a move to  Chelsea  by reportedly buying a house in London, close to Stamford Bridge..."/>
+    <cse:Attribute name="twitter:image" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?1487429750&amp;w=9999&amp;h=9999"/>
+    <cse:Attribute name="twitter:title" value="Chelsea Transfer News: Latest Rumours on Arda Turan and Michael Essien"/>
+    <cse:Attribute name="twitter:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/images/photos/003/659/985/hi-res-b909e2c2bbd7203514d96e135c0bb044_crop_north.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Kevin C. Cox/Getty Images"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Aitor Alcalde/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/638/124/91b3c02c9c451980aeeb1a1e789c734f_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Jonathan Daniel/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/638/125/886a4b7a49bc8e3c23cf6e6e925cb98b_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Maddie Meyer/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/638/127/b84b8c0316dd556948ebbc78fd37e317_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Vaughn Ridley/Getty Images"/>
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/638/185/8e8ed47a9c94972f7db5cb5f18c64e43_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Michael Regan/Getty Images"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img.bleacherreport.net/cms/media/image/1c/06/be/fc/5397/47f2/af65/79fe09ad276a/crop_exact_full_image.jpeg?h=2892&amp;q=90&amp;w=4339"/>
+    <cse:Attribute name="src" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHX2gAn3mBmFW_rMf3ZJX-KvereE8UEv77Rz5QfV0qOOvKVk4ZRcQ0Y7nB"/>
+    <cse:Attribute name="width" value="79"/>
+    <cse:Attribute name="height" value="52"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqOpBcG5waxAJOpq2zEiFTSQB5_cYAupyla5a4qhxTjadPKNxol0IorA"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline</id>
+  <updated>1970-01-18T05:20:34.590Z</updated>
+  <title type="html">Bulls Reportedly Don&amp;#39;t Have Plans to Trade Jimmy Butler Before ...</title>
+  <link href="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline" title="bleacherreport.com"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the 27-year-old three-time All-Star told Seerat Sohi of ESPN.&lt;br&gt;
+com he &amp;quot;doesn&amp;#39;t want&amp;quot; a trade out of Chicago and would &amp;quot;loathe to leave with&amp;nbsp;...</summary>
+  <cse:cacheId>zFaICBa_YSAJ</cse:cacheId>
+  <cse:formattedUrl type="html">bleacherreport.com/.../2694170-bulls-reportedly-dont-have-plans-to-trade- jimmy-butler-before-2017-deadline</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="aol-te-auth" value="1c424580-0f86-4d9b-88b2-bc8c0d029d4c"/>
+    <cse:Attribute name="blitz" value="mu-6e4ce5cd-57f20d11-7c0ecee9-d55c79e2"/>
+    <cse:Attribute name="msvalidate.01" value="7A63840181953B2A5A1FEA25FB45A991"/>
+    <cse:Attribute name="viewport" value="initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="fb:app_id" value="135174055162"/>
+    <cse:Attribute name="al:iphone:url" value="teamstream://article/bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="418075935"/>
+    <cse:Attribute name="al:iphone:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:ipad:url" value="teamstream://article/bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="484725748"/>
+    <cse:Attribute name="al:ipad:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
+    <cse:Attribute name="al:android:app_name" value="Team Stream"/>
+    <cse:Attribute name="al:android:package" value="com.bleacherreport.android.teamstream"/>
+    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
+    <cse:Attribute name="og:site_name" value="Bleacher Report"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="p:domain_verify" value="0c768466449ebb550411234d6d4ffc30"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="418075935"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="484725748"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="Team Stream by Bleacher Report"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.bleacherreport.android.teamstream"/>
+    <cse:Attribute name="twitter:widgets:new-embed-design" value="on"/>
+    <cse:Attribute name="twitter:site" value="@bleacherreport"/>
+    <cse:Attribute name="article:publisher" value="http://www.facebook.com/bleacherreport"/>
+    <cse:Attribute name="author" value="Tim Daniels"/>
+    <cse:Attribute name="og:description" value="The  Chicago Bulls  are reportedly planning to keep star forward  Jimmy Butler  through Thursday&apos;s  NBA  trade deadline, despite ample speculation about his future with the organization..."/>
+    <cse:Attribute name="og:image" value="http://img.bleacherreport.net/img/images/photos/003/660/491/hi-res-3d1b758c3037cc2d3742539a146f385f_crop_north.jpg?1487695250&amp;w=9999&amp;h=9999"/>
+    <cse:Attribute name="og:title" value="Bulls Reportedly Don&apos;t Have Plans to Trade Jimmy Butler Before 2017 Deadline"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
+    <cse:Attribute name="pubdate" value="2017-02-21T11:42:24-05:00"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="teamstream://article/bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="teamstream://article/bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="The  Chicago Bulls  are reportedly planning to keep star forward  Jimmy Butler  through Thursday&apos;s  NBA  trade deadline, despite ample speculation about his future with the organization..."/>
+    <cse:Attribute name="twitter:image" value="http://img.bleacherreport.net/img/images/photos/003/660/491/hi-res-3d1b758c3037cc2d3742539a146f385f_crop_north.jpg?1487695250&amp;w=9999&amp;h=9999"/>
+    <cse:Attribute name="twitter:title" value="Bulls Reportedly Don&apos;t Have Plans to Trade Jimmy Butler Before 2017 Deadline"/>
+    <cse:Attribute name="twitter:url" value="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/images/photos/003/660/491/hi-res-3d1b758c3037cc2d3742539a146f385f_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+    <cse:Attribute name="citation" value="Nathaniel S. Butler/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://img.bleacherreport.net/img/images/photos/003/660/491/hi-res-3d1b758c3037cc2d3742539a146f385f_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="79"/>
+    <cse:Attribute name="height" value="52"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQirYYVDhbzWrYck2vNwTFtDhng_bBp1NlCgDZ9mtplWdfHs60Suphcgg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html</id>
+  <updated>1970-01-18T05:20:34.590Z</updated>
+  <title type="html">Extradition under way for ex-CIA officer, despite appeals to Trump ...</title>
+  <link href="http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html" title="www.foxnews.com"/>
+  <summary type="html">&amp;quot;Sabrina will be jailed until this is resolved,&amp;quot; &lt;b&gt;a source close to&lt;/b&gt; the case told Fox &lt;br&gt;
+News late Monday. &amp;quot;She will be in a prison tonight outside of Lisbon. Tomorrow&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.foxnews.com/.../extradition-under-way-for-ex-cia-officer-despite- appeals-to-trump-administration-for-help.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="dc.title" value="Extradition under way for ex-CIA officer, despite appeals to Trump administration for help"/>
+    <cse:Attribute name="dc.description" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
+    <cse:Attribute name="dcterms.abstract" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
+    <cse:Attribute name="dc.publisher" value="Fox News"/>
+    <cse:Attribute name="dc.creator" value="Cristina Corbin"/>
+    <cse:Attribute name="dc.date" value="2017-02-20"/>
+    <cse:Attribute name="dcterms.created" value="2017-02-21 02:08:22 EST"/>
+    <cse:Attribute name="dcterms.modified" value="2017-02-21 02:08:22 EST"/>
+    <cse:Attribute name="dc.source" value="FoxNews.com"/>
+    <cse:Attribute name="dc.identifier" value="83ed54ec-70aa-443e-8bb1-8e9a33baa4e6"/>
+    <cse:Attribute name="prism.aggregationtype" value="subsection"/>
+    <cse:Attribute name="dc.type" value="Text.Article"/>
+    <cse:Attribute name="prism.channel" value="fnc"/>
+    <cse:Attribute name="prism.section" value="world"/>
+    <cse:Attribute name="og:title" value="Extradition under way for ex-CIA officer, despite appeals to Trump administration for help"/>
+    <cse:Attribute name="og:description" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1487618301631.jpg?ve=1"/>
+    <cse:Attribute name="og:url" value="http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html"/>
+    <cse:Attribute name="og:site_name" value="Fox News"/>
+    <cse:Attribute name="classification" value="/FOX NEWS/WORLD/TERRORISM,/FOX NEWS/WORLD"/>
+    <cse:Attribute name="classification-isa" value="terrorism,world"/>
+    <cse:Attribute name="fb:app_id" value="113186182048399"/>
+    <cse:Attribute name="twitter:site" value="@foxnews"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Extradition under way for ex-CIA officer, despite appeals to Trump administration for help"/>
+    <cse:Attribute name="twitter:description" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
+    <cse:Attribute name="twitter:url" value="http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html"/>
+    <cse:Attribute name="twitter:creator" value="@foxnews"/>
+    <cse:Attribute name="twitter:image" value="http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1487618301631.jpg?ve=1"/>
+    <cse:Attribute name="dc.format" value="text/html"/>
+    <cse:Attribute name="dc.language" value="en-US"/>
+    <cse:Attribute name="pagetype" value="article"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="TheTruthHurts2002"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T16:32:31.000Z"/>
+    <cse:Attribute name="text" value="Trump has publically appealed her case. I&apos;m assuming the state department is doing stuff in the background but I don&apos;t know what. I&apos;m not sure what Trump can do other than declaring war on..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="hrgreen"/>
+    <cse:Attribute name="datecreated" value="2017-02-22T23:32:00.000Z"/>
+    <cse:Attribute name="text" value="Wimpy Obama didn&apos;t want to stir up any bad press, just like he done with those who died in Benghazi. G. Bush started a war over WMD that didn&apos;t exist, so sounds like she&apos;s been thrown under the bus."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="TrumpIsMyPres"/>
+    <cse:Attribute name="datecreated" value="2017-02-22T11:57:56.000Z"/>
+    <cse:Attribute name="text" value="Obviously alot more to this story."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Dusty1948"/>
+    <cse:Attribute name="datecreated" value="2017-02-22T02:25:41.000Z"/>
+    <cse:Attribute name="text" value="This most certainly will put a chill on future CIA operations that depend on native and non-native agent cooperation."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Fanfare"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T21:23:55.000Z"/>
+    <cse:Attribute name="text" value="She was there with her son. What happened to him? Did he go back to Portugal? Shouldn&apos;t the country she is citizen of be the ones to help her? How and why should an American President fight..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="mrsfletchisin"/>
+    <cse:Attribute name="datecreated" value="2017-02-22T05:20:12.000Z"/>
+    <cse:Attribute name="text" value="She was a citizen of the United States, probably still is. I know this because in order to have a passport from the United States, you must be a citizen. It&apos;s called dual citizenship.Secondly,..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="DJJames"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T17:10:01.000Z"/>
+    <cse:Attribute name="text" value="This is unacceptable. Free her now. What message does this send to future agents?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CurtisLeeJones"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T13:51:56.000Z"/>
+    <cse:Attribute name="text" value="&quot;Convicted in absentia&quot;? Yep. That sounds about right. Those who don&apos;t show up are always guilty. Why is that anyway? I don&apos;t think a single court anywhere ever found someone who didn&apos;t show..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="lorianneb"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T13:22:33.000Z"/>
+    <cse:Attribute name="text" value="She will be released. Italy is just posturing for cash and Portugal is desperate for it. Obama would just let her rot because she was under orders from President Bush when she did her job."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="libsliealot2"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T12:53:30.000Z"/>
+    <cse:Attribute name="text" value="Truth is Trump just got in office and doesn&apos;t even have a full cabinet yet his overseas staffs are still left over Obama. Obama let the HERO Pakistan doctor that pinpointed Bin Laden Rot that&apos;s..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="DGdn"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T13:17:01.000Z"/>
+    <cse:Attribute name="text" value="@libsliealot2 except that Trump and his &quot;people&quot; told all foreign staff from Obama admin. they were no longer needed as of Jan. 19th.....and they will be long gone.....and NOT replaced as Trump&apos;s..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="SeaHawks"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T13:40:18.000Z"/>
+    <cse:Attribute name="text" value="@DGdn @libsliealot2 Nor did Obama, but did you say anything?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Barryohusseinsoetaro"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T14:49:30.000Z"/>
+    <cse:Attribute name="text" value="Libsliealot..in fact, constantly, You wish."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="libsliealot2"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T12:50:13.000Z"/>
+    <cse:Attribute name="text" value="Italian Justice is as Non existent as Obama Democrat integrity or patriotism."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="QuestionMarks"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T23:31:17.000Z"/>
+    <cse:Attribute name="text" value="@libsliealot2 try light starch, they&apos;re less itchy and will keep you more grounded."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Criscortes"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T12:18:26.000Z"/>
+    <cse:Attribute name="text" value="Probably this woman was one of their best agents, lovely retirement package, eh. Interesting who the Italians are motivated to seek justice for."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="OnTheStreet"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T11:04:35.000Z"/>
+    <cse:Attribute name="text" value="Where was obama the past couple of years???????????"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="libsliealot2"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T12:50:35.000Z"/>
+    <cse:Attribute name="text" value="@OnTheStreet Letting her rot like the Pakistan Doctor that pinpointed Bin Laden."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="QuestionMarks"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T23:37:09.000Z"/>
+    <cse:Attribute name="text" value="@OnTheStreet or 15 months. Either way too long, but she was picked up October 2015."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="BlackSite"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:04:47.000Z"/>
+    <cse:Attribute name="text" value="She should have used her secret squirrel training and got out of Portugal. If someone can go all the way from Syria to France on foot with no money I&apos;m sure she could have worked it out. Too..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="JohnPeel"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:04:35.000Z"/>
+    <cse:Attribute name="text" value="She looks guilty to me. She hates Trump, and no amount of pleading and begging should save her."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:06:05.000Z"/>
+    <cse:Attribute name="text" value="@JohnPeel From the story they don&apos;t even have a case."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Discoball"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:33:13.000Z"/>
+    <cse:Attribute name="text" value="@JohnPeel is looking for attention on Yahoo. Yes John, you are so cool and tough. Now spare us your stupid comments and let everyone have an adult conversation."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Wherethebuffaloroam"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T11:06:31.000Z"/>
+    <cse:Attribute name="text" value="@JohnPeel Shows us what UR about."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="gimeco"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:01:03.000Z"/>
+    <cse:Attribute name="text" value="my Aunty Savannah just got Mercedes GL-Class SUV just by working from a macbook. you could try here&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;w­­­w­­­w­­­.4d­­­a­­­y­­­j­­­o­­­­­­b­­­s­­­.c­­­o..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="tallison46"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:55:11.000Z"/>
+    <cse:Attribute name="text" value="Obama could have fixed this problem and had 8 years to do it....."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="QuestionMarks"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T23:39:36.000Z"/>
+    <cse:Attribute name="text" value="@tallison46 check your math, she was picked up in Oct 2015. Still too long, but 8 years? Asking O to send reps to International Court would be admitting to Bush&apos;s frequent flier program."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="jimdep"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:52:47.000Z"/>
+    <cse:Attribute name="text" value="She&apos;s not a US citizen anymore by her own choice. She moved to Portugal so it&apos;s in the hands of the Portuguese to intervene if they choose to do so. She gave up her rights as an American citizen...."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="RedForman"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:24:18.000Z"/>
+    <cse:Attribute name="text" value="@jimdep Where do you get your info from? Facebook?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="BlackSite"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:51:19.000Z"/>
+    <cse:Attribute name="text" value="She doesn&apos;t live in the United States. There is nothing he can do. The CIA fu#$ed up this operation. So the CIA can go get her."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:10:43.000Z"/>
+    <cse:Attribute name="text" value="@BlackSite Not in the EU they cannot."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="RedForman"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:26:01.000Z"/>
+    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @BlackSite LOL!!!! Do you just make this s hit up as you go along. Never mind the story."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="BadNarc"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:50:38.000Z"/>
+    <cse:Attribute name="text" value="Read the story closely, this is your tax money at work!"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:42:09.000Z"/>
+    <cse:Attribute name="text" value="Can the US president really help her while she is on the run?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:42:57.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia Yes.Just like Cermis.SOFA agreement."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:48:17.000Z"/>
+    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia For the US to intervene in a foreign government would be a major issue right now. We need to show that we have respect for other governments after Obama treated..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:50:04.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia Do you remember Cermis?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:50:23.000Z"/>
+    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia No I have to admit I don&apos;t."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:56:12.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia 20 civilians massacred when an A-10 flew under and clipped the cable their car was traveling up the mountain on. 1998No trial or convictions."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:59:19.000Z"/>
+    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia So was it an accident?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:07:55.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia No, it was hotdogging in an area he was not supposed to be flying, at an altitude he was not allowed to fly at. They were there trying to take photos, hit the cable instead, and..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:09:25.000Z"/>
+    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia But it was not an intentional act like kidnapping."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:10:07.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia That&apos;s not how the Italians saw it.They saw it as intentional act."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:10:58.000Z"/>
+    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia How do you fly a plane over a foreign country without permission?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:19:32.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia How do you clip a cable car where you are not permitted to fly, at an elevation you are not permitted to fly at, k*lling 20 civilians on a vacation."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="QuestionMarks"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T23:41:06.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia huh? O had trouble with borders? Who started the Mid East &quot;loving&quot; liberation?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:40:21.000Z"/>
+    <cse:Attribute name="text" value="Several were since pardoned and not one has done time in prison. Why is she running? Is it the crime or the running from the crime that is her worst issue here?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:42:05.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia They all ran from the crime.The several that were pardoned were Italian intelligence agents, due to State Secrets.The Americans are all still on the hook, she is the only one that..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:44:45.000Z"/>
+    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia Not one has done time in prison for it. Can the president ask Italy to not hold a trial? I believe they would have to step in after the government of Italy has..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:57:34.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia She has already been tried and convicted."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:57:50.000Z"/>
+    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia So were the rest."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T09:58:55.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia The Italians were pardoned without trial.All the Americans are still convicted. And the US State dept has done nothing about it."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="nwgeorgia"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:01:04.000Z"/>
+    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia What can they do? We don&apos;t control their government."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
+    <cse:Attribute name="datecreated" value="2017-02-21T10:08:45.000Z"/>
+    <cse:Attribute name="text" value="@nwgeorgia We have a SOFA with them that gives our government agents and military immunity if we choose to ask for it."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1487618301631.jpg?ve=1"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq-yMkhNkgCN7lGm2_ZGVoZKJ6CbZ_ByQTXZHwtPmYp5YfGNmE2Yq4h44"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
