@@ -5,29 +5,29 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:20:34.590Z</updated>
+ <updated>1970-01-18T05:22:19.601Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14100" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14100" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>14100</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="13300" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="13300" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>13300</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.611615</cse:searchTime>
-  <cse:formattedSearchTime>0.61</cse:formattedSearchTime>
-  <cse:totalResults>14100</cse:totalResults>
-  <cse:formattedTotalResults>14,100</cse:formattedTotalResults>
+  <cse:searchTime>0.495112</cse:searchTime>
+  <cse:formattedSearchTime>0.50</cse:formattedSearchTime>
+  <cse:totalResults>13300</cse:totalResults>
+  <cse:formattedTotalResults>13,300</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T05:20:34.590Z</updated>
+  <updated>1970-01-18T05:22:19.601Z</updated>
   <title type="html">TechCrunch - The latest technology news and information on startups</title>
   <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">If you&amp;#39;ve read the latest headlines about Britain&amp;#39;s tech industry, you&amp;#39;d think the &lt;br&gt;
-country hadn&amp;#39;t been rocked by the greatest political and economic uncertainty&amp;nbsp;...</summary>
+  <summary type="html">Want to attend Disrupt NY 2017 but missed the early bird ticket deadline? You&amp;#39;re &lt;br&gt;
+in luck! We&amp;#39;re giving you a few extra days to get your hands on&amp;nbsp;...</summary>
   <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
   <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
   <cse:PageMap>
@@ -45,19 +45,20 @@ country hadn&amp;#39;t been rocked by the greatest political and economic uncert
     <cse:Attribute name="og:site" value="social.techcrunch.com"/>
     <cse:Attribute name="og:title" value="TechCrunch|2"/>
     <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/la-la-land-ryan-gosling-emma-stone.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/01/tc-disrupt-ny-17-flatiron-image.png?w=730&amp;h=400&amp;crop=1"/>
     <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
     <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="Mike Butcher"/>
-    <cse:Attribute name="id" value="1456799"/>
+    <cse:Attribute name="author" value="Matt Burns"/>
+    <cse:Attribute name="id" value="1454574"/>
     <cse:Attribute name="title" value="TechCrunch|2"/>
     <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/24/while-tech-giants-hire-startups-fret-has-brexit-britain-become-la-la-land/"/>
-    <cse:Attribute name="timestamp" value="2017-02-24 08:24:37"/>
-    <cse:Attribute name="content" value="If you’ve read the latest headlines about Britain’s tech industry, you’d think the country hadn’t been rocked by the greatest political and economic uncertainty since the Second World War. Not only are UK startups raising record amounts of funding year on year, but tech giants like Amazon are investing and doubling down on the UK economy, as if the mood music was taken straight from a dance scene in La La Land. Surely Brexit Britain is booming? This week Amazon said it would hire 5,000 people across the UK this year, boosting its headcount by a quarter when it moves into new offices in London’s Shoreditch. At least 500 of those new jobs will be in Amazon’s new research and development centres in Edinburgh, Cambridge and London, which has a hand in developing technology for Alexa, drones and Prime Video. It was hailed as clear sign of the ecommerce giant’s long-term commitment to Britain. But of course 4,500 of these jobs will be in its packing warehouses across…"/>
-    <cse:Attribute name="excerpt" value="If you’ve read the latest headlines about Britain’s tech industry, you’d think the country hadn’t been rocked by the greatest political and economic uncertainty since the Second World War. Not only are UK startups raising record amounts of funding year on year, but tech giants like Amazon are investing and doubling down on the UK economy, as if the mood music was taken…"/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/02/la-la-land-ryan-gosling-emma-stone.jpg?w=150"/>
-    <cse:Attribute name="category" value="Europe"/>
+    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/24/extra-early-bird-ticket-deadline-extended-until-march-3/"/>
+    <cse:Attribute name="timestamp" value="2017-02-24 15:00:02"/>
+    <cse:Attribute name="content" value="Want to attend Disrupt NY 2017 but missed the early bird ticket deadline? You&apos;re in luck! We&apos;re giving you a few extra days to get your hands on deeply-discounted extra early-bird Disrupt tickets, so you now have until Friday, March 3 to purchase. Extra early-bird tickets will set you back just $1,795 apiece, a full $1,200 off what they&apos;ll cost at the door. You can get your extra early-bird tickets here. Go on ahead, we&apos;ll wait. Still not ready to fully commit? We get it, commitment is hard. In addition to saving you a ton of cash, that extra early-bird ticket gets you an all-access pass to everything that makes Disrupt the best startup conference in the Big Apple. You&apos;ll get to hear from our incredible lineup of speakers in a series of lectures and interviews that take place throughout the conference. You can check out some of our speakers to get a sense of just how amazing the folks who come to Disrupt are. In addition to the speakers, you&apos;ll get to walk through Startup Alley…"/>
+    <cse:Attribute name="excerpt" value="Want to attend Disrupt NY 2017 but missed the early bird ticket deadline? You’re in luck! We’re giving you a few extra days to get your hands on deeply-discounted extra early-bird Disrupt tickets, so you now have until Friday, March 3 to purchase. Extra early-bird tickets will set you back just $1,795 apiece, a full $1,200 off what they’ll cost at the door. You can get your…"/>
+    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/01/tc-disrupt-ny-17-flatiron-image.png?w=150"/>
+    <cse:Attribute name="category" value="Disrupt NY 2017"/>
+    <cse:Attribute name="tag" value="Disrupt NY 2017"/>
     <cse:Attribute name="application-name" value="TechCrunch"/>
     <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
     <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
@@ -65,18 +66,18 @@ country hadn&amp;#39;t been rocked by the greatest political and economic uncert
     <cse:Attribute name="st:robots" value="follow, index"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2016/08/e-golf_3578.jpg?w=208&amp;h=156&amp;crop=1&amp;quality=85&amp;strip=all"/>
+    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/01/tc-disrupt-ny-17-flatiron-image.png?w=730&amp;h=400&amp;crop=1"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="166"/>
-    <cse:Attribute name="height" value="124"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAbAIWzPZfwo35iY2e3-DKBqWonLVL47RMBhoxdTet2_0RFvrPfxUN-2E"/>
+    <cse:Attribute name="width" value="303"/>
+    <cse:Attribute name="height" value="166"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZiixl_mdvH8HeA9Sn9_RswtxRaD4Ot24yQssr9NM8q3ZNLjjXS0HJWfpq"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html</id>
-  <updated>1970-01-18T05:20:34.590Z</updated>
+  <updated>1970-01-18T05:22:19.601Z</updated>
   <title type="html">Angelina Jolie &amp;#39;is NOT dating&amp;#39; castmate Jared Leto | Daily Mail Online</title>
   <link href="http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html" title="www.dailymail.co.uk"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; 41-year-old Angie told Gossip Cop there was &amp;#39;no truth&amp;#39; to Star&amp;#39;s &lt;br&gt;
@@ -161,61 +162,67 @@ claims the Oscar-winning duo&amp;#39;s &amp;#39;hot date in LA put a smile back 
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/</id>
-  <updated>1970-01-18T05:20:34.590Z</updated>
-  <title type="html">Christie tells his staff he is taking White House job | New York Post</title>
-  <link href="http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/" title="nypost.com"/>
-  <summary type="html">New Jersey Gov. Chris Christie is telling friends and staff he is taking a role with &lt;br&gt;
-the Trump administration, according to &lt;b&gt;a source close to&lt;/b&gt; the White House.</summary>
-  <cse:cacheId>6jUrxFabcQ0J</cse:cacheId>
-  <cse:formattedUrl type="html">nypost.com/.../christie-tells-his-staff-he-is-taking-white-house-job/</cse:formattedUrl>
+  <id>https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc</id>
+  <updated>1970-01-18T05:22:19.601Z</updated>
+  <title type="html">Source: Perez narrowly leads Ellison in nail-bitingly close race to ...</title>
+  <link href="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc" title="mic.com"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Perez who spoke on the condition of anonymity because they &lt;br&gt;
+were not authorized to speak for the campaign said its internal numbers show&amp;nbsp;...</summary>
+  <cse:cacheId>PRm7FSOGYQ8J</cse:cacheId>
+  <cse:formattedUrl type="html">https://mic.com/.../keith-ellison-and-tom-perez-square-off-in-nailbitingly- close-race-to-lead-the-dnc</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
-    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
+    <cse:Attribute name="title" value="Source: Perez narrowly leads Ellison in nail-bitingly close race to lead the DNC"/>
+    <cse:Attribute name="article:published_time" value="2017-02-24T14:33:45.000Z"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-24T16:18:22.000Z"/>
+    <cse:Attribute name="article:tag" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/MicMedia"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/215337"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:title" value="Christie tells his staff he is taking White House job"/>
-    <cse:Attribute name="og:url" value="http://nypost.com/2017/02/18/christie-tells-his-staff-he-is-taking-white-house-job/"/>
-    <cse:Attribute name="og:description" value="New Jersey Gov. Chris Christie is telling friends and staff he is taking a role with the Trump administration, according to a source close to the White House. The GOP governor’s position has not be…"/>
-    <cse:Attribute name="article:published_time" value="2017-02-19T04:35:50+00:00"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-20T14:18:05+00:00"/>
-    <cse:Attribute name="og:site_name" value="New York Post"/>
-    <cse:Attribute name="og:image:width" value="1200"/>
-    <cse:Attribute name="og:image:height" value="800"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="twitter:site" value="@nypost"/>
-    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:url" value="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc"/>
+    <cse:Attribute name="og:title" value="Hours before Democrats choose their leader, the vote count is nailbitingly close"/>
+    <cse:Attribute name="og:description" value="The race for chair of the DNC has become a proxy battle between Bernie Sanders and Hillary Clinton supporters."/>
+    <cse:Attribute name="og:image" value="https://thumbs.mic.com/MzRmYmFmOWVmYiMvM20zeDVaQ2ZYeDd6QjlvWXI4M2laWGd1U1RJPS8weDEzMjo0MDIxeDIwODAvMTIwMHg2MzAvZmlsdGVyczpxdWFsaXR5KDcwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.undefined"/>
+    <cse:Attribute name="original-image" value="https://media3.mic.com/YWFjYzIyNmQzYiMvMGxOZkR2UHZYT1FZM1hHcG0tOTRQM3VfNGd3PS8weDEzMjo0MDIxeDIwODAvMTkxMHgxMDAwL2ZpbHRlcnM6cXVhbGl0eSg4NSkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvZGZiaWxyaWVpd2lhbWxna3Y4eXVzb25oa245aHh2Z3prcjlyYnFud3dyY2x2ZHVscWdjeWxveHpqZnVnbGNkNC5qcGc=.jpg"/>
+    <cse:Attribute name="news_keywords" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:creator" value="@nypost"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
-    <cse:Attribute name="twitter:title" value="Christie tells his staff he is taking White House job"/>
-    <cse:Attribute name="twitter:description" value="New Jersey Gov. Chris Christie is telling friends and staff he is taking a role with the Trump administration, according to a source close to the White House. The GOP governor’s position has not"/>
-    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
-    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=1200"/>
-    <cse:Attribute name="og:image:secure_url" value="https://i2.wp.com/thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
-    <cse:Attribute name="nypost-section" value="News"/>
-    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10749982&quot;}"/>
-    <cse:Attribute name="news_keywords" value="News,chris christie,donald trump,white house"/>
-    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
-    <cse:Attribute name="fb:pages" value="134486075205"/>
-    <cse:Attribute name="application-name" value="New York Post"/>
-    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
-    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
+    <cse:Attribute name="twitter:site" value="@Mic"/>
+    <cse:Attribute name="twitter:creator" value="jacobdhorowitz"/>
+    <cse:Attribute name="twitter:url" value="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc"/>
+    <cse:Attribute name="twitter:title" value="Source: Perez narrowly leads Ellison in nail-bitingly close race to lead the DNC"/>
+    <cse:Attribute name="twitter:description" value="The race for chair of the DNC has become a proxy battle between Bernie Sanders and Hillary Clinton supporters."/>
+    <cse:Attribute name="twitter:image" value="https://thumbs.mic.com/MzRmYmFmOWVmYiMvM20zeDVaQ2ZYeDd6QjlvWXI4M2laWGd1U1RJPS8weDEzMjo0MDIxeDIwODAvMTIwMHg2MzAvZmlsdGVyczpxdWFsaXR5KDcwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.undefined"/>
+    <cse:Attribute name="bt:id" value="169494"/>
+    <cse:Attribute name="bt:keywords" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
+    <cse:Attribute name="bt:pubdate" value="2017-02-24T14:33:45.000Z"/>
+    <cse:Attribute name="bt:moddate" value="2017-02-24T16:18:22.000Z"/>
+    <cse:Attribute name="bt:isblacklisted" value="false"/>
+    <cse:Attribute name="bt:type" value="trending"/>
+    <cse:Attribute name="bt:image" value="https://thumbs.mic.com/MzZkMmY5MmE5MiMvSG1rMnI3bWVoSUx1OFpTalhIXy12ZFAwYjZ3PS8weDEzMjo0MDIxeDIwODAvNDAweDIyNS9maWx0ZXJzOmZvcm1hdChqcGVnKTpxdWFsaXR5KDgwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.jpg"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="fb:app_id" value="141861192518680"/>
+    <cse:Attribute name="twitter:user_id" value="139909832"/>
+    <cse:Attribute name="language" value="en"/>
+    <cse:Attribute name="author" value="Mic"/>
+    <cse:Attribute name="medium" value="news"/>
+    <cse:Attribute name="og:site_name" value="Mic"/>
+    <cse:Attribute name="identifier-url" value="http://mic.com/articles/74689/the-8-most-dysfunctional-families-in-tv-history"/>
+    <cse:Attribute name="fb:admins" value="23342,215337,1410801,675670245,13000939,616963,1479330109,1267070071"/>
+    <cse:Attribute name="msapplication-task" value="name=Mic;action-uri=http://mic.com;icon-uri=http://mic.com/favicon.ico"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/02/chris-christie.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="src" value="https://images.mic.com/k6whelooq4dtstbkc8jumm8ewud3profgq4mscy5717dthwtr7hit4pfih5kjsoy.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwLf-qihjsoaK0DDmjheTTEt-ro8q5i7gn81uaJZ1jLkbCoZlJ-7_TlbwX"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe2j0sAK9lW-WTi2_ZUYy9MFnjXT2Dn2nxSHW7OjgQsqQz0oG3lEpy824"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV</id>
-  <updated>1970-01-18T05:20:34.590Z</updated>
+  <updated>1970-01-18T05:22:19.601Z</updated>
   <title type="html">Wanted: a CEO willing to hold Greek banking&amp;#39;s poisoned chalice ...</title>
   <link href="http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV" title="www.reuters.com"/>
   <summary type="html">The fund, financed by euro zone and International Monetary Fund loans, has not &lt;br&gt;
@@ -278,67 +285,116 @@ explained its failure to find a new leader, but &lt;b&gt;a source close to&lt;/b
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc</id>
-  <updated>1970-01-18T05:20:34.590Z</updated>
-  <title type="html">Source: Perez narrowly leads Ellison in nail-bitingly close race to ...</title>
-  <link href="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc" title="mic.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Perez who spoke on the condition of anonymity because they &lt;br&gt;
-were not authorized to speak for the campaign said its internal numbers show&amp;nbsp;...</summary>
-  <cse:cacheId>PRm7FSOGYQ8J</cse:cacheId>
-  <cse:formattedUrl type="html">https://mic.com/.../keith-ellison-and-tom-perez-square-off-in-nailbitingly- close-race-to-lead-the-dnc</cse:formattedUrl>
+  <id>http://www.thedailybeast.com/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen.html</id>
+  <updated>1970-01-18T05:22:19.601Z</updated>
+  <title type="html">Prince Charles&amp;#39; Plan To Make Camilla &amp;#39;Queen&amp;#39; - The Daily Beast</title>
+  <link href="http://www.thedailybeast.com/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen.html" title="www.thedailybeast.com"/>
+  <summary type="html">The dramatic move—emphatically denied by &lt;b&gt;a source close to&lt;/b&gt; Prince Charles--&lt;br&gt;
+will contravene long-held assurances that Charles will not attempt to make&amp;nbsp;...</summary>
+  <cse:cacheId>OZldv5B8YV8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.thedailybeast.com/.../prince-charles-plan-to-make-camilla-queen.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="title" value="Source: Perez narrowly leads Ellison in nail-bitingly close race to lead the DNC"/>
-    <cse:Attribute name="article:published_time" value="2017-02-24T14:33:45.000Z"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-24T16:18:22.000Z"/>
-    <cse:Attribute name="article:tag" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/MicMedia"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/215337"/>
+    <cse:Attribute name="content-type" value="text/html; charset=UTF-8"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
+    <cse:Attribute name="resourcetype" value="dailybeast2/components/pages/article"/>
+    <cse:Attribute name="environment" value="dev"/>
+    <cse:Attribute name="authorids" value="/etc/authors/t/tom-sykes"/>
+    <cse:Attribute name="title" value="Prince Charles Plan To Make Camilla Queen"/>
+    <cse:Attribute name="type" value="house"/>
+    <cse:Attribute name="sectiontaxanomies" value="beaststyle"/>
+    <cse:Attribute name="template" value="article"/>
+    <cse:Attribute name="news_keywords" value="Prince Charles, Camilla ParkerBowles, Elizabeth II, Culture"/>
+    <cse:Attribute name="og:title" value="Prince Charles’ Plan To Make Camilla ‘Queen’"/>
+    <cse:Attribute name="og:description" value="An informed Royal source tells the Daily Beast that there is a plan afoot to declare Prince Charles&apos;s wife &apos;queen&apos; soon after the present Queen&apos;s death."/>
+    <cse:Attribute name="og:url" value="http://www.thedailybeast.com/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen.html"/>
+    <cse:Attribute name="authors" value="Tom Sykes"/>
+    <cse:Attribute name="tags" value="entity:person/prince_charles,entity:person/camilla-parker-bowles,entity:person/elizabeth_ii,topic:culture"/>
+    <cse:Attribute name="contentpath" value="/content/dailybeast/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen"/>
+    <cse:Attribute name="wrap" value="/content/dailybeast/beaststyle"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc"/>
-    <cse:Attribute name="og:title" value="Hours before Democrats choose their leader, the vote count is nailbitingly close"/>
-    <cse:Attribute name="og:description" value="The race for chair of the DNC has become a proxy battle between Bernie Sanders and Hillary Clinton supporters."/>
-    <cse:Attribute name="og:image" value="https://thumbs.mic.com/MzRmYmFmOWVmYiMvM20zeDVaQ2ZYeDd6QjlvWXI4M2laWGd1U1RJPS8weDEzMjo0MDIxeDIwODAvMTIwMHg2MzAvZmlsdGVyczpxdWFsaXR5KDcwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.undefined"/>
-    <cse:Attribute name="original-image" value="https://media3.mic.com/YWFjYzIyNmQzYiMvMGxOZkR2UHZYT1FZM1hHcG0tOTRQM3VfNGd3PS8weDEzMjo0MDIxeDIwODAvMTkxMHgxMDAwL2ZpbHRlcnM6cXVhbGl0eSg4NSkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvZGZiaWxyaWVpd2lhbWxna3Y4eXVzb25oa245aHh2Z3prcjlyYnFud3dyY2x2ZHVscWdjeWxveHpqZnVnbGNkNC5qcGc=.jpg"/>
-    <cse:Attribute name="news_keywords" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@Mic"/>
-    <cse:Attribute name="twitter:creator" value="jacobdhorowitz"/>
-    <cse:Attribute name="twitter:url" value="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc"/>
-    <cse:Attribute name="twitter:title" value="Source: Perez narrowly leads Ellison in nail-bitingly close race to lead the DNC"/>
-    <cse:Attribute name="twitter:description" value="The race for chair of the DNC has become a proxy battle between Bernie Sanders and Hillary Clinton supporters."/>
-    <cse:Attribute name="twitter:image" value="https://thumbs.mic.com/MzRmYmFmOWVmYiMvM20zeDVaQ2ZYeDd6QjlvWXI4M2laWGd1U1RJPS8weDEzMjo0MDIxeDIwODAvMTIwMHg2MzAvZmlsdGVyczpxdWFsaXR5KDcwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.undefined"/>
-    <cse:Attribute name="bt:id" value="169494"/>
-    <cse:Attribute name="bt:keywords" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
-    <cse:Attribute name="bt:pubdate" value="2017-02-24T14:33:45.000Z"/>
-    <cse:Attribute name="bt:moddate" value="2017-02-24T16:18:22.000Z"/>
-    <cse:Attribute name="bt:isblacklisted" value="false"/>
-    <cse:Attribute name="bt:type" value="trending"/>
-    <cse:Attribute name="bt:image" value="https://thumbs.mic.com/MzZkMmY5MmE5MiMvSG1rMnI3bWVoSUx1OFpTalhIXy12ZFAwYjZ3PS8weDEzMjo0MDIxeDIwODAvNDAweDIyNS9maWx0ZXJzOmZvcm1hdChqcGVnKTpxdWFsaXR5KDgwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.jpg"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="fb:app_id" value="141861192518680"/>
-    <cse:Attribute name="twitter:user_id" value="139909832"/>
-    <cse:Attribute name="language" value="en"/>
-    <cse:Attribute name="author" value="Mic"/>
-    <cse:Attribute name="medium" value="news"/>
-    <cse:Attribute name="og:site_name" value="Mic"/>
-    <cse:Attribute name="identifier-url" value="http://mic.com/articles/74689/the-8-most-dysfunctional-families-in-tv-history"/>
-    <cse:Attribute name="fb:admins" value="23342,215337,1410801,675670245,13000939,616963,1479330109,1267070071"/>
-    <cse:Attribute name="msapplication-task" value="name=Mic;action-uri=http://mic.com;icon-uri=http://mic.com/favicon.ico"/>
+    <cse:Attribute name="og:site_name" value="The Daily Beast"/>
+    <cse:Attribute name="fb:app_id" value="189930913679"/>
+    <cse:Attribute name="fb:admins" value="1703087,30000737,1117577220,1276800108,931159,514915512"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@thedailybeast"/>
+    <cse:Attribute name="twitter:creator" value="royalist"/>
+    <cse:Attribute name="article:published_time" value="2017-02-25T23:06:00.000Z"/>
+    <cse:Attribute name="article:author" value="http://www.thedailybeast.com/contributors/tom-sykeshtml"/>
+    <cse:Attribute name="article:section" value="culture"/>
+    <cse:Attribute name="og:image" value="http://cdn.thedailybeast.com/content/dailybeast/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen/jcr:content/image.img.2000.jpg/1488064134932.cached.jpg"/>
+    <cse:Attribute name="publicationdate" value="201702252306"/>
+    <cse:Attribute name="pagenum" value="1"/>
+    <cse:Attribute name="parsely-page" value="{&quot;title&quot;:&quot;Prince Charles’ Plan To Make Camilla ‘Queen’&quot;,&quot;link&quot;:&quot;http://www.thedailybeast.com/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen.html&quot;,&quot;image_url&quot;:&quot;http://cdn.thedailybeast.com/content/dailybeast/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen/jcr:content/image.crop.410.273.jpg/49602137.cached.jpg&quot;,&quot;type&quot;:&quot;post&quot;,&quot;post_id&quot;:&quot;/content/dailybeast/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen&quot;,&quot;pub_date&quot;:&quot;2017-02-25T23:06:00+00:00&quot;,&quot;section&quot;:&quot;Arts + Culture&quot;,&quot;author&quot;:&quot;Tom Sykes&quot;,&quot;tags&quot;:[&quot;prince_charles&quot;,&quot;camilla-parker-bowles&quot;,&quot;elizabeth_ii&quot;,&quot;culture&quot;]}"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://images.mic.com/k6whelooq4dtstbkc8jumm8ewud3profgq4mscy5717dthwtr7hit4pfih5kjsoy.jpg"/>
+    <cse:Attribute name="src" value="http://cdn.thedailybeast.com/content/dailybeast/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen/jcr:content/image.img.2000.jpg/1488064134932.cached.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe2j0sAK9lW-WTi2_ZUYy9MFnjXT2Dn2nxSHW7OjgQsqQz0oG3lEpy824"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP1eSa2XBKqf1RD3hyxdfwiJTe8NCS6gtA9SInGerweLUdpuNgrglKhlIz"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html</id>
+  <updated>1970-01-18T05:22:19.601Z</updated>
+  <title type="html">Extradition under way for ex-CIA officer, despite appeals to Trump ...</title>
+  <link href="http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html" title="www.foxnews.com"/>
+  <summary type="html">&amp;quot;Sabrina will be jailed until this is resolved,&amp;quot; &lt;b&gt;a source close to&lt;/b&gt; the case told Fox &lt;br&gt;
+News late Monday. &amp;quot;She will be in a prison tonight outside of Lisbon. Tomorrow&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.foxnews.com/.../extradition-under-way-for-ex-cia-officer-despite- appeals-to-trump-administration-for-help.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="dc.title" value="Extradition under way for ex-CIA officer, despite appeals to Trump administration for help"/>
+    <cse:Attribute name="dc.description" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
+    <cse:Attribute name="dcterms.abstract" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
+    <cse:Attribute name="dc.publisher" value="Fox News"/>
+    <cse:Attribute name="dc.creator" value="Cristina Corbin"/>
+    <cse:Attribute name="dc.date" value="2017-02-20"/>
+    <cse:Attribute name="dcterms.created" value="2017-02-21 02:08:22 EST"/>
+    <cse:Attribute name="dcterms.modified" value="2017-02-21 02:08:22 EST"/>
+    <cse:Attribute name="dc.source" value="FoxNews.com"/>
+    <cse:Attribute name="dc.identifier" value="83ed54ec-70aa-443e-8bb1-8e9a33baa4e6"/>
+    <cse:Attribute name="prism.aggregationtype" value="subsection"/>
+    <cse:Attribute name="dc.type" value="Text.Article"/>
+    <cse:Attribute name="prism.channel" value="fnc"/>
+    <cse:Attribute name="prism.section" value="world"/>
+    <cse:Attribute name="og:title" value="Extradition under way for ex-CIA officer, despite appeals to Trump administration for help"/>
+    <cse:Attribute name="og:description" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1487618301631.jpg?ve=1"/>
+    <cse:Attribute name="og:url" value="http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html"/>
+    <cse:Attribute name="og:site_name" value="Fox News"/>
+    <cse:Attribute name="classification" value="/FOX NEWS/WORLD/TERRORISM,/FOX NEWS/WORLD"/>
+    <cse:Attribute name="classification-isa" value="terrorism,world"/>
+    <cse:Attribute name="fb:app_id" value="113186182048399"/>
+    <cse:Attribute name="twitter:site" value="@foxnews"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Extradition under way for ex-CIA officer, despite appeals to Trump administration for help"/>
+    <cse:Attribute name="twitter:description" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
+    <cse:Attribute name="twitter:url" value="http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html"/>
+    <cse:Attribute name="twitter:creator" value="@foxnews"/>
+    <cse:Attribute name="twitter:image" value="http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1487618301631.jpg?ve=1"/>
+    <cse:Attribute name="dc.format" value="text/html"/>
+    <cse:Attribute name="dc.language" value="en-US"/>
+    <cse:Attribute name="pagetype" value="article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1487618301631.jpg?ve=1"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq-yMkhNkgCN7lGm2_ZGVoZKJ6CbZ_ByQTXZHwtPmYp5YfGNmE2Yq4h44"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T05:20:34.590Z</updated>
+  <updated>1970-01-18T05:22:19.601Z</updated>
   <title type="html">Steelers RB Le&amp;#39;Veon Bell facing 4-game ban for missed drug test</title>
   <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
   <summary type="html"/>
@@ -346,7 +402,7 @@ were not authorized to speak for the campaign said its internal numbers show&amp
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735</id>
-  <updated>1970-01-18T05:20:34.590Z</updated>
+  <updated>1970-01-18T05:22:19.601Z</updated>
   <title type="html">Danny Dyer &amp;#39;didn&amp;#39;t have a meltdown at the NTAs and didn&amp;#39;t even go to</title>
   <link href="http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735" title="www.mirror.co.uk"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the programme told Mirror Celeb: &amp;quot;It&amp;#39;s absolute nonsense, just &lt;br&gt;
@@ -380,7 +436,7 @@ looking at the video you can tell he&amp;#39;s not having a meltdown or having a
     <cse:Attribute name="article:section" value="Celebrity News"/>
     <cse:Attribute name="article:id" value="mirror-9853735"/>
     <cse:Attribute name="advertisingconfig" value="{&quot;desktop&quot;:[{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:-1,&quot;hivis&quot;:&quot;n&quot;},&quot;referenceNode&quot;:&quot;header&quot;,&quot;hideOnSensitiveArticle&quot;:true,&quot;relativePos&quot;:&quot;after&quot;,&quot;name&quot;:&quot;div-gpt-ad-oop-slot&quot;,&quot;isOOP&quot;:true,&quot;type&quot;:&quot;outOfPage&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:-2,&quot;hivis&quot;:&quot;n&quot;},&quot;referenceNode&quot;:&quot;no-element-to-stop-ads-config-injection&quot;,&quot;sizes&quot;:[[1,1]],&quot;hideOnSensitiveArticle&quot;:true,&quot;relativePos&quot;:&quot;appendChild&quot;,&quot;name&quot;:&quot;div-gpt-ad-ad-mix-slot&quot;,&quot;type&quot;:&quot;adMix&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:1,&quot;hivis&quot;:&quot;y&quot;,&quot;opos&quot;:&quot;top&quot;},&quot;referenceNode&quot;:&quot;main&quot;,&quot;sizes&quot;:[[970,250],[970,251],[728,90],[728,91],[9,1]],&quot;relativePos&quot;:&quot;before&quot;,&quot;additionalClass&quot;:&quot;top-slot&quot;,&quot;sticky&quot;:{&quot;mode&quot;:&quot;header&quot;,&quot;duration&quot;:5000},&quot;name&quot;:&quot;div-gpt-ad-top-slot&quot;,&quot;type&quot;:&quot;topOfPage&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:2,&quot;hivis&quot;:&quot;y&quot;},&quot;referenceNode&quot;:&quot;main nav&quot;,&quot;sizes&quot;:[[948,42]],&quot;hidden&quot;:true,&quot;relativePos&quot;:&quot;before&quot;,&quot;name&quot;:&quot;div-gpt-ad-sponsorship-bar&quot;,&quot;type&quot;:&quot;sponsorshipBar&quot;},{&quot;componentType&quot;:&quot;gpt&quot;,&quot;targeting&quot;:{&quot;index&quot;:3,&quot;hivis&quot;:&quot;y&quot;,&quot;opos&quot;:&quot;top&quot;},&quot;refe"/>
-    <cse:Attribute name="scriptconfig" value="{&quot;skimlinks&quot;:{&quot;enabled&quot;:true,&quot;publisherId&quot;:&quot;76202X1526515&quot;},&quot;googleConsumerSurvey&quot;:{&quot;accountId&quot;:&quot;_s4tkhxcmvc3sikf4jlfgd3wgbe&quot;,&quot;enabled&quot;:true,&quot;hideOnSensitiveArticle&quot;:true},&quot;performSemanticPlayer&quot;:{&quot;enabled&quot;:true},&quot;googleAnalytics&quot;:{&quot;accountId&quot;:&quot;UA-229407-1&quot;,&quot;enabled&quot;:true},&quot;visualDNA&quot;:{&quot;apiKey&quot;:&quot;mirror&quot;,&quot;enabled&quot;:true},&quot;lotame&quot;:{&quot;tagNumber&quot;:&quot;9458&quot;,&quot;enabled&quot;:true},&quot;pageUrl&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;,&quot;grapeshot&quot;:{&quot;zone&quot;:&quot;national&quot;,&quot;enabled&quot;:true},&quot;performRHCPlayer&quot;:{&quot;enabled&quot;:false},&quot;timestamp&quot;:1487913360101,&quot;adYouLike&quot;:{&quot;enabled&quot;:true}}"/>
+    <cse:Attribute name="scriptconfig" value="{&quot;skimlinks&quot;:{&quot;enabled&quot;:true,&quot;publisherId&quot;:&quot;76202X1526515&quot;},&quot;googleConsumerSurvey&quot;:{&quot;accountId&quot;:&quot;_s4tkhxcmvc3sikf4jlfgd3wgbe&quot;,&quot;enabled&quot;:true,&quot;hideOnSensitiveArticle&quot;:true},&quot;performSemanticPlayer&quot;:{&quot;enabled&quot;:true},&quot;googleAnalytics&quot;:{&quot;accountId&quot;:&quot;UA-229407-1&quot;,&quot;enabled&quot;:true},&quot;visualDNA&quot;:{&quot;apiKey&quot;:&quot;mirror&quot;,&quot;enabled&quot;:true},&quot;lotame&quot;:{&quot;tagNumber&quot;:&quot;9458&quot;,&quot;enabled&quot;:true},&quot;pageUrl&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;,&quot;grapeshot&quot;:{&quot;zone&quot;:&quot;national&quot;,&quot;enabled&quot;:true},&quot;performRHCPlayer&quot;:{&quot;enabled&quot;:false},&quot;timestamp&quot;:1488085267072,&quot;adYouLike&quot;:{&quot;enabled&quot;:true}}"/>
     <cse:Attribute name="datalayer" value="{&quot;page&quot;:{&quot;attributes&quot;:{&quot;application&quot;:&quot;Responsive Web&quot;,&quot;channel&quot;:&quot;3am&quot;,&quot;channelId&quot;:&quot;91&quot;,&quot;sectionId&quot;:&quot;92&quot;,&quot;publicationName&quot;:&quot;mirror&quot;,&quot;publicationId&quot;:&quot;2&quot;,&quot;platform&quot;:&quot;nationals&quot;,&quot;pageName&quot;:&quot;mirror:3am:celebrity-news:article:danny-dyer-didnt-meltdown-ntas:9853735&quot;,&quot;pageType&quot;:&quot;article:news:readmore&quot;,&quot;ownerSite&quot;:&quot;mirror&quot;,&quot;ownerSiteDomain&quot;:&quot;www.mirror.co.uk&quot;,&quot;subSectionOne&quot;:&quot;3am&quot;,&quot;subSectionTwo&quot;:&quot;celebrity-news&quot;},&quot;info&quot;:{&quot;url&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;}},&quot;article&quot;:{&quot;attributes&quot;:{&quot;allTags&quot;:&quot;Danny Dyer|BBC|EastEnders|Soap operas&quot;,&quot;articleAuthor&quot;:&quot;Vicki Newman&quot;,&quot;articleId&quot;:&quot;9853735&quot;,&quot;articleTitle&quot;:&quot;Danny Dyer &apos;didn&apos;t have a meltdown at the NTAs and didn&apos;t even go to the after party&apos;&quot;,&quot;articleUrl&quot;:&quot;http://www.mirror.co.uk/3am/celebrity-news/danny-dyer-didnt-meltdown-ntas-9853735&quot;,&quot;headline&quot;:&quot;mirror_danny-dyer-didnt-meltdown-ntas&quot;,&quot;primaryTag&quot;:&quot;Danny Dyer&quot;,&quot;publishDate&quot;:&quot;2017-02-20&quot;,&quot;firstPublishDate&quot;:&quot;2017-02-20|11:29&quot;,&quot;objectType&quot;:&quot;article&quot;,&quot;ownerSite&quot;:&quot;mirror&quot;},"/>
    </cse:DataObject>
    <cse:DataObject type="Breadcrumb">
@@ -443,90 +499,18 @@ looking at the video you can tell he&amp;#39;s not having a meltdown or having a
     <cse:Attribute name="author" value="(Photo: BBC)"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.mirror.co.uk/incoming/article9852217.ece/ALTERNATES/s615b/National-Television-Awards-Show.jpg"/>
+    <cse:Attribute name="src" value="http://i3.mirror.co.uk/incoming/article9853447.ece/ALTERNATES/s615/London-Evening-Standard-British-Film-Awards-2013-Inside.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="183"/>
-    <cse:Attribute name="height" value="275"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQwvgXUNkq3oxvJjgdGGDSN0_TRNaFVyXHFh1XaoCTkjtivDWOlRqbFUY"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien</id>
-  <updated>1970-01-18T05:20:34.590Z</updated>
-  <title type="html">Chelsea Transfer News: Latest Rumours on Arda Turan and Michael ...</title>
-  <link href="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien" title="bleacherreport.com"/>
-  <summary type="html">Turkish-Football (via Sport), citing &lt;b&gt;a source close to&lt;/b&gt; the player, revealed the &lt;br&gt;
-property purchase near the Blues&amp;#39; stadium. Turan has been linked with Chelsea&amp;nbsp;...</summary>
-  <cse:cacheId>bvnIJktwOQIJ</cse:cacheId>
-  <cse:formattedUrl type="html">bleacherreport.com/.../2693677-chelsea-transfer-news-latest-rumours-on-arda -turan-and-michael-essien</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="aol-te-auth" value="1c424580-0f86-4d9b-88b2-bc8c0d029d4c"/>
-    <cse:Attribute name="blitz" value="mu-6e4ce5cd-57f20d11-7c0ecee9-d55c79e2"/>
-    <cse:Attribute name="msvalidate.01" value="7A63840181953B2A5A1FEA25FB45A991"/>
-    <cse:Attribute name="viewport" value="initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="fb:app_id" value="135174055162"/>
-    <cse:Attribute name="al:iphone:url" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="418075935"/>
-    <cse:Attribute name="al:iphone:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:ipad:url" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="484725748"/>
-    <cse:Attribute name="al:ipad:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="al:android:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:android:package" value="com.bleacherreport.android.teamstream"/>
-    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="og:site_name" value="Bleacher Report"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="p:domain_verify" value="0c768466449ebb550411234d6d4ffc30"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="418075935"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="484725748"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.bleacherreport.android.teamstream"/>
-    <cse:Attribute name="twitter:widgets:new-embed-design" value="on"/>
-    <cse:Attribute name="twitter:site" value="@bleacherreport"/>
-    <cse:Attribute name="article:publisher" value="http://www.facebook.com/bleacherreport"/>
-    <cse:Attribute name="author" value="Rory Marsden"/>
-    <cse:Attribute name="og:description" value="Barcelona midfielder Arda   Turan   has sparked rumours he could be set for a move to  Chelsea  by reportedly buying a house in London, close to Stamford Bridge..."/>
-    <cse:Attribute name="og:image" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?1487429750&amp;w=9999&amp;h=9999"/>
-    <cse:Attribute name="og:title" value="Chelsea Transfer News: Latest Rumours on Arda Turan and Michael Essien"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="pubdate" value="2017-02-18T10:02:09-05:00"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="teamstream://article/bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Barcelona midfielder Arda   Turan   has sparked rumours he could be set for a move to  Chelsea  by reportedly buying a house in London, close to Stamford Bridge..."/>
-    <cse:Attribute name="twitter:image" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?1487429750&amp;w=9999&amp;h=9999"/>
-    <cse:Attribute name="twitter:title" value="Chelsea Transfer News: Latest Rumours on Arda Turan and Michael Essien"/>
-    <cse:Attribute name="twitter:url" value="http://bleacherreport.com/articles/2693677-chelsea-transfer-news-latest-rumours-on-arda-turan-and-michael-essien"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Aitor Alcalde/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/article/media_slots/photos/002/638/185/8e8ed47a9c94972f7db5cb5f18c64e43_crop_exact.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Michael Regan/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://img.bleacherreport.net/img/images/photos/003/660/004/hi-res-300a9cd694f1f250ef36b56a288106fe_crop_north.jpg?h=53&amp;w=80&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="79"/>
-    <cse:Attribute name="height" value="52"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqOpBcG5waxAJOpq2zEiFTSQB5_cYAupyla5a4qhxTjadPKNxol0IorA"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqAKmDWHK7L8kVdc2j_EhSS5lyJDlopeanJJF1u6fppTVmWAx-uVgklFQ"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline</id>
-  <updated>1970-01-18T05:20:34.590Z</updated>
+  <updated>1970-01-18T05:22:19.601Z</updated>
   <title type="html">Bulls Reportedly Don&amp;#39;t Have Plans to Trade Jimmy Butler Before ...</title>
   <link href="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline" title="bleacherreport.com"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the 27-year-old three-time All-Star told Seerat Sohi of ESPN.&lt;br&gt;
@@ -593,327 +577,698 @@ com he &amp;quot;doesn&amp;#39;t want&amp;quot; a trade out of Chicago and would
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html</id>
-  <updated>1970-01-18T05:20:34.590Z</updated>
-  <title type="html">Extradition under way for ex-CIA officer, despite appeals to Trump ...</title>
-  <link href="http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html" title="www.foxnews.com"/>
-  <summary type="html">&amp;quot;Sabrina will be jailed until this is resolved,&amp;quot; &lt;b&gt;a source close to&lt;/b&gt; the case told Fox &lt;br&gt;
-News late Monday. &amp;quot;She will be in a prison tonight outside of Lisbon. Tomorrow&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">www.foxnews.com/.../extradition-under-way-for-ex-cia-officer-despite- appeals-to-trump-administration-for-help.html</cse:formattedUrl>
+  <id>https://www.theguardian.com/world/2017/feb/24/kim-jong-nam-north-korea-killed-chemical-weapon-nerve-agent-mass-destruction-malaysian-police</id>
+  <updated>1970-01-18T05:22:19.601Z</updated>
+  <title type="html">Kim Jong-nam killed by VX nerve agent, say Malaysian police ...</title>
+  <link href="https://www.theguardian.com/world/2017/feb/24/kim-jong-nam-north-korea-killed-chemical-weapon-nerve-agent-mass-destruction-malaysian-police" title="www.theguardian.com"/>
+  <summary type="html">... the world&amp;#39;s most toxic nerve agent and deployed it in an international airport, &lt;b&gt;a&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;source close to&lt;/b&gt; the Malaysian government commented: “Not very diplomatic.”.</summary>
+  <cse:formattedUrl type="html">https://www.theguardian.com/.../kim-jong-nam-north-korea-killed-chemical- weapon-nerve-agent-mass-destruction-malaysian-police</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="dc.title" value="Extradition under way for ex-CIA officer, despite appeals to Trump administration for help"/>
-    <cse:Attribute name="dc.description" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
-    <cse:Attribute name="dcterms.abstract" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
-    <cse:Attribute name="dc.publisher" value="Fox News"/>
-    <cse:Attribute name="dc.creator" value="Cristina Corbin"/>
-    <cse:Attribute name="dc.date" value="2017-02-20"/>
-    <cse:Attribute name="dcterms.created" value="2017-02-21 02:08:22 EST"/>
-    <cse:Attribute name="dcterms.modified" value="2017-02-21 02:08:22 EST"/>
-    <cse:Attribute name="dc.source" value="FoxNews.com"/>
-    <cse:Attribute name="dc.identifier" value="83ed54ec-70aa-443e-8bb1-8e9a33baa4e6"/>
-    <cse:Attribute name="prism.aggregationtype" value="subsection"/>
-    <cse:Attribute name="dc.type" value="Text.Article"/>
-    <cse:Attribute name="prism.channel" value="fnc"/>
-    <cse:Attribute name="prism.section" value="world"/>
-    <cse:Attribute name="og:title" value="Extradition under way for ex-CIA officer, despite appeals to Trump administration for help"/>
-    <cse:Attribute name="og:description" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
+    <cse:Attribute name="format-detection" value="telephone=no"/>
+    <cse:Attribute name="handheldfriendly" value="True"/>
+    <cse:Attribute name="viewport" value="width=device-width,minimum-scale=1,initial-scale=1"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Guardian"/>
+    <cse:Attribute name="application-name" value="The Guardian"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#005689"/>
+    <cse:Attribute name="theme-color" value="#005689"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://assets.guim.co.uk/images/favicons/f06f6996e193d1ddcd614ea852322d25/windows_tile_144_b.png"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=409128287, app-argument=https://www.theguardian.com/world/2017/feb/24/kim-jong-nam-north-korea-killed-chemical-weapon-nerve-agent-mass-destruction-malaysian-police, affiliate-data=ct=newsmartappbanner&amp;pt=304191"/>
+    <cse:Attribute name="referrer" value="unsafe-url"/>
+    <cse:Attribute name="author" value="Oliver Holmes"/>
+    <cse:Attribute name="thumbnail" value="https://i.guim.co.uk/img/media/05e74915de30e186ca0b54f8ea8b5c4271278202/341_42_4060_2435/4060.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=4e320db2fb44052f6ca2433cb71fe0bc"/>
+    <cse:Attribute name="news_keywords" value="North Korea,Malaysia,Asia Pacific,World news"/>
+    <cse:Attribute name="og:url" value="http://www.theguardian.com/world/2017/feb/24/kim-jong-nam-north-korea-killed-chemical-weapon-nerve-agent-mass-destruction-malaysian-police"/>
+    <cse:Attribute name="article:author" value="https://www.theguardian.com/profile/oliver-holmes,https://www.theguardian.com/profile/tomphillips"/>
+    <cse:Attribute name="og:description" value="Kuala Lumpur airport terminal to be decontaminated after deadly attack on North Korean leader’s half-brother"/>
+    <cse:Attribute name="og:image" value="https://i.guim.co.uk/img/media/05e74915de30e186ca0b54f8ea8b5c4271278202/341_42_4060_2435/master/4060.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=727b1643d81e8aaff7bcf628dd0675f4"/>
+    <cse:Attribute name="al:ios:url" value="gnmguardian://world/2017/feb/24/kim-jong-nam-north-korea-killed-chemical-weapon-nerve-agent-mass-destruction-malaysian-police?contenttype=Article&amp;source=applinks"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/theguardian"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1487618301631.jpg?ve=1"/>
-    <cse:Attribute name="og:url" value="http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html"/>
-    <cse:Attribute name="og:site_name" value="Fox News"/>
-    <cse:Attribute name="classification" value="/FOX NEWS/WORLD/TERRORISM,/FOX NEWS/WORLD"/>
-    <cse:Attribute name="classification-isa" value="terrorism,world"/>
-    <cse:Attribute name="fb:app_id" value="113186182048399"/>
-    <cse:Attribute name="twitter:site" value="@foxnews"/>
+    <cse:Attribute name="al:ios:app_store_id" value="409128287"/>
+    <cse:Attribute name="article:section" value="World news"/>
+    <cse:Attribute name="article:published_time" value="2017-02-24T15:29:30.000Z"/>
+    <cse:Attribute name="og:title" value="Kim Jong-nam killed by VX nerve agent, say Malaysian police"/>
+    <cse:Attribute name="fb:app_id" value="180444840287"/>
+    <cse:Attribute name="article:tag" value="North Korea,Malaysia,Asia Pacific,World news"/>
+    <cse:Attribute name="al:ios:app_name" value="The Guardian"/>
+    <cse:Attribute name="og:site_name" value="the Guardian"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-25T11:56:51.000Z"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="409128287"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="The Guardian"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="The Guardian"/>
+    <cse:Attribute name="twitter:image" value="https://i.guim.co.uk/img/media/05e74915de30e186ca0b54f8ea8b5c4271278202/341_42_4060_2435/master/4060.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNi8wNy9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=3cbc79631f893c8377e6dc12e9e3bc0f"/>
+    <cse:Attribute name="twitter:site" value="@guardian"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="gnmguardian://world/2017/feb/24/kim-jong-nam-north-korea-killed-chemical-weapon-nerve-agent-mass-destruction-malaysian-police?contenttype=Article&amp;source=twitter"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Extradition under way for ex-CIA officer, despite appeals to Trump administration for help"/>
-    <cse:Attribute name="twitter:description" value="A former CIA agent says Portuguese police detained her Monday as they prepare to extradite her to an Italian prison for a counter-terrorism operation conducted 14 years ago as part of the agency&apos;s extraordinary rendition program."/>
-    <cse:Attribute name="twitter:url" value="http://www.foxnews.com/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help.html"/>
-    <cse:Attribute name="twitter:creator" value="@foxnews"/>
-    <cse:Attribute name="twitter:image" value="http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1487618301631.jpg?ve=1"/>
-    <cse:Attribute name="dc.format" value="text/html"/>
-    <cse:Attribute name="dc.language" value="en-US"/>
-    <cse:Attribute name="pagetype" value="article"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="The Guardian"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="409128287"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.guardian"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="guardian://www.theguardian.com/world/2017/feb/24/kim-jong-nam-north-korea-killed-chemical-weapon-nerve-agent-mass-destruction-malaysian-police"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="gnmguardian://world/2017/feb/24/kim-jong-nam-north-korea-killed-chemical-weapon-nerve-agent-mass-destruction-malaysian-police?contenttype=Article&amp;source=twitter"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="mainentityofpage" value="https://www.theguardian.com/world/2017/feb/24/kim-jong-nam-north-korea-killed-chemical-weapon-nerve-agent-mass-destruction-malaysian-police"/>
+    <cse:Attribute name="headline" value="Kim Jong-nam killed by VX nerve agent, say Malaysian police"/>
+    <cse:Attribute name="description" value="Kuala Lumpur airport terminal to be decontaminated after deadly attack on North Korean leader’s half-brother"/>
+    <cse:Attribute name="datepublished" value="2017-02-24T10:29:30-0500"/>
+    <cse:Attribute name="datemodified" value="2017-02-25T06:56:51-0500"/>
+    <cse:Attribute name="articlebody" value="Kim Jong-nam was killed using the highly toxic liquid nerve agent VX, Malaysian police have said. One of the two women suspected of involvement in the poisoning vomited in police custody and..."/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="The Guardian"/>
+    <cse:Attribute name="sameas" value="https://www.theguardian.com/"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2015/10/1/1443713974413/Guardiantitlepiecedigitalon.png"/>
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="60"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="representativeofpage" value="true"/>
+    <cse:Attribute name="url" value="https://i.guim.co.uk/img/media/05e74915de30e186ca0b54f8ea8b5c4271278202/0_0_4408_2644/4408.jpg?w=700&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=592ba8ef24876797bf21b729f9cb65a4"/>
+    <cse:Attribute name="width" value="4408"/>
+    <cse:Attribute name="height" value="2644"/>
+    <cse:Attribute name="contenturl" value="https://i.guim.co.uk/img/media/05e74915de30e186ca0b54f8ea8b5c4271278202/0_0_4408_2644/master/4408.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=03927394517446a19140020c245a258c"/>
+    <cse:Attribute name="description" value="Kim Jong-nam, left, and North Korean leader Kim Jong-un Photograph: Shizuo Kambayashi, Wong Maye-E/AP"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="sameas" value="Oliver Holmes"/>
+    <cse:Attribute name="name" value="Oliver Holmes"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="sameas" value="Tom Phillips"/>
+    <cse:Attribute name="name" value="Tom Phillips"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="TheTruthHurts2002"/>
-    <cse:Attribute name="datecreated" value="2017-02-24T16:32:31.000Z"/>
-    <cse:Attribute name="text" value="Trump has publically appealed her case. I&apos;m assuming the state department is doing stuff in the background but I don&apos;t know what. I&apos;m not sure what Trump can do other than declaring war on..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T00:55:20Z"/>
+    <cse:Attribute name="text" value="scary ."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Manatwo"/>
+    <cse:Attribute name="givenname" value="Manatwo"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="hrgreen"/>
-    <cse:Attribute name="datecreated" value="2017-02-22T23:32:00.000Z"/>
-    <cse:Attribute name="text" value="Wimpy Obama didn&apos;t want to stir up any bad press, just like he done with those who died in Benghazi. G. Bush started a war over WMD that didn&apos;t exist, so sounds like she&apos;s been thrown under the bus."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:58:49Z"/>
+    <cse:Attribute name="text" value="I wonder if we finally see China step up to the crease on this one? if China wants to be see as a global leader it cannot prop up a local despotic murderous clown, who has now sanctioned murder..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Bernard Josling"/>
+    <cse:Attribute name="givenname" value="Bernard Josling"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="TrumpIsMyPres"/>
-    <cse:Attribute name="datecreated" value="2017-02-22T11:57:56.000Z"/>
-    <cse:Attribute name="text" value="Obviously alot more to this story."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T02:30:10Z"/>
+    <cse:Attribute name="text" value="It serves China&apos;s goals for NK to continue existing."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="OblateSpheroid"/>
+    <cse:Attribute name="givenname" value="OblateSpheroid"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="Dusty1948"/>
-    <cse:Attribute name="datecreated" value="2017-02-22T02:25:41.000Z"/>
-    <cse:Attribute name="text" value="This most certainly will put a chill on future CIA operations that depend on native and non-native agent cooperation."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T02:46:15Z"/>
+    <cse:Attribute name="text" value="It serves China&apos;s goals for NK to continue existing. yes ... but not with an uncontrollable lethal liability embarrassing them lethal Kim Ill Podge engages in fratricide &amp; nuke testing I predict..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Bernard Josling"/>
+    <cse:Attribute name="givenname" value="Bernard Josling"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="Fanfare"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T21:23:55.000Z"/>
-    <cse:Attribute name="text" value="She was there with her son. What happened to him? Did he go back to Portugal? Shouldn&apos;t the country she is citizen of be the ones to help her? How and why should an American President fight..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T00:56:40Z"/>
+    <cse:Attribute name="text" value="The saliva of Kim Jong-un."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="raffine"/>
+    <cse:Attribute name="givenname" value="raffine"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="mrsfletchisin"/>
-    <cse:Attribute name="datecreated" value="2017-02-22T05:20:12.000Z"/>
-    <cse:Attribute name="text" value="She was a citizen of the United States, probably still is. I know this because in order to have a passport from the United States, you must be a citizen. It&apos;s called dual citizenship.Secondly,..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:00:22Z"/>
+    <cse:Attribute name="text" value="Bannon&apos;s tears"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="septicexception"/>
+    <cse:Attribute name="givenname" value="septicexception"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="DJJames"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T17:10:01.000Z"/>
-    <cse:Attribute name="text" value="This is unacceptable. Free her now. What message does this send to future agents?"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:04:05Z"/>
+    <cse:Attribute name="text" value="nah thats a special juice formulated by TG and Hilary"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Manatwo"/>
+    <cse:Attribute name="givenname" value="Manatwo"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CurtisLeeJones"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T13:51:56.000Z"/>
-    <cse:Attribute name="text" value="&quot;Convicted in absentia&quot;? Yep. That sounds about right. Those who don&apos;t show up are always guilty. Why is that anyway? I don&apos;t think a single court anywhere ever found someone who didn&apos;t show..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:07:16Z"/>
+    <cse:Attribute name="text" value="His tears are as rare as Dragon&apos;s Breath."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="raffine"/>
+    <cse:Attribute name="givenname" value="raffine"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="lorianneb"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T13:22:33.000Z"/>
-    <cse:Attribute name="text" value="She will be released. Italy is just posturing for cash and Portugal is desperate for it. Obama would just let her rot because she was under orders from President Bush when she did her job."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:00:26Z"/>
+    <cse:Attribute name="text" value="Kim Jong Un probably isn&apos;t even in charge... Maybe just a figurehead. Either way at least he protects his people"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="ACMILAN7CL"/>
+    <cse:Attribute name="givenname" value="ACMILAN7CL"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="libsliealot2"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T12:53:30.000Z"/>
-    <cse:Attribute name="text" value="Truth is Trump just got in office and doesn&apos;t even have a full cabinet yet his overseas staffs are still left over Obama. Obama let the HERO Pakistan doctor that pinpointed Bin Laden Rot that&apos;s..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:02:47Z"/>
+    <cse:Attribute name="text" value="Did you just hit your head? It looks like you might have a concussion."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="maxximate"/>
+    <cse:Attribute name="givenname" value="maxximate"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="DGdn"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T13:17:01.000Z"/>
-    <cse:Attribute name="text" value="@libsliealot2 except that Trump and his &quot;people&quot; told all foreign staff from Obama admin. they were no longer needed as of Jan. 19th.....and they will be long gone.....and NOT replaced as Trump&apos;s..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:03:18Z"/>
+    <cse:Attribute name="text" value="That comment is incoherent."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="adamitinerant"/>
+    <cse:Attribute name="givenname" value="adamitinerant"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="SeaHawks"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T13:40:18.000Z"/>
-    <cse:Attribute name="text" value="@DGdn @libsliealot2 Nor did Obama, but did you say anything?"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:03:19Z"/>
+    <cse:Attribute name="text" value="Either way at least he protects his people well ive never been but if half the crap we hear about him is true then im happy hes not protecting me"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Manatwo"/>
+    <cse:Attribute name="givenname" value="Manatwo"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="Barryohusseinsoetaro"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T14:49:30.000Z"/>
-    <cse:Attribute name="text" value="Libsliealot..in fact, constantly, You wish."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:01:14Z"/>
+    <cse:Attribute name="text" value="This story is sooo late"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Enter Rift"/>
+    <cse:Attribute name="givenname" value="Enter Rift"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="libsliealot2"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T12:50:13.000Z"/>
-    <cse:Attribute name="text" value="Italian Justice is as Non existent as Obama Democrat integrity or patriotism."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T04:44:17Z"/>
+    <cse:Attribute name="text" value="Not too late for the weird DPRK apologists who show up on here sometimes, claiming they&apos;re no threat to anyone and the media just misrepresents them. Hopefully this will shut them up"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="malapropriety"/>
+    <cse:Attribute name="givenname" value="malapropriety"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="QuestionMarks"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T23:31:17.000Z"/>
-    <cse:Attribute name="text" value="@libsliealot2 try light starch, they&apos;re less itchy and will keep you more grounded."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:01:41Z"/>
+    <cse:Attribute name="text" value="Well the Yanks went into Iraq over weapons of mass destruction. What will happen now?"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="NewClearFiction"/>
+    <cse:Attribute name="givenname" value="NewClearFiction"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="Criscortes"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T12:18:26.000Z"/>
-    <cse:Attribute name="text" value="Probably this woman was one of their best agents, lovely retirement package, eh. Interesting who the Italians are motivated to seek justice for."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:05:00Z"/>
+    <cse:Attribute name="text" value="This comment was removed by a moderator because it didn&apos;t abide by our community standards. Replies may also be deleted. For more detail see our FAQs."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Manatwo"/>
+    <cse:Attribute name="givenname" value="Manatwo"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="OnTheStreet"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T11:04:35.000Z"/>
-    <cse:Attribute name="text" value="Where was obama the past couple of years???????????"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:05:51Z"/>
+    <cse:Attribute name="text" value="Putin or China might be interested in &apos;annexing&apos; N. Korea."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="AshTian"/>
+    <cse:Attribute name="givenname" value="AshTian"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="libsliealot2"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T12:50:35.000Z"/>
-    <cse:Attribute name="text" value="@OnTheStreet Letting her rot like the Pakistan Doctor that pinpointed Bin Laden."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:10:15Z"/>
+    <cse:Attribute name="text" value="So much the better. At this point it really doesn&apos;t matter anymore who takes down the North. Kim needs to be wiped off the map."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Andy Wong Ming Jun"/>
+    <cse:Attribute name="givenname" value="Andy Wong Ming Jun"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="QuestionMarks"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T23:37:09.000Z"/>
-    <cse:Attribute name="text" value="@OnTheStreet or 15 months. Either way too long, but she was picked up October 2015."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:02:24Z"/>
+    <cse:Attribute name="text" value="As I recall, VX was a binary chemical agent where each of the elements is &quot;inert&quot; until they combine whereupon it becomes lethal."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="A Chase Turner"/>
+    <cse:Attribute name="givenname" value="A Chase Turner"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="BlackSite"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:04:47.000Z"/>
-    <cse:Attribute name="text" value="She should have used her secret squirrel training and got out of Portugal. If someone can go all the way from Syria to France on foot with no money I&apos;m sure she could have worked it out. Too..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:14:58Z"/>
+    <cse:Attribute name="text" value="No, it&apos;s not binary. You can read what the US had to do to destroy the last of its stockpile."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Epivore"/>
+    <cse:Attribute name="givenname" value="Epivore"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="JohnPeel"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:04:35.000Z"/>
-    <cse:Attribute name="text" value="She looks guilty to me. She hates Trump, and no amount of pleading and begging should save her."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:15:33Z"/>
+    <cse:Attribute name="text" value="Does it survive heat; can it be put in a warhead?"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="sorencamusjames"/>
+    <cse:Attribute name="givenname" value="sorencamusjames"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:06:05.000Z"/>
-    <cse:Attribute name="text" value="@JohnPeel From the story they don&apos;t even have a case."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:32:33Z"/>
+    <cse:Attribute name="text" value="There are similar nerve agents that have binary precursors, however, such as the Soviet VR: https://en.m.wikipedia.org/wiki/VR_(nerve_agent)"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="ID7321576"/>
+    <cse:Attribute name="givenname" value="ID7321576"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="Discoball"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:33:13.000Z"/>
-    <cse:Attribute name="text" value="@JohnPeel is looking for attention on Yahoo. Yes John, you are so cool and tough. Now spare us your stupid comments and let everyone have an adult conversation."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:02:41Z"/>
+    <cse:Attribute name="text" value="I hope Malaysia are more successful in doing something about a foreign power using a nerve agent on it&apos;s soil than we were with Russia."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="johncrampsie"/>
+    <cse:Attribute name="givenname" value="johncrampsie"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="Wherethebuffaloroam"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T11:06:31.000Z"/>
-    <cse:Attribute name="text" value="@JohnPeel Shows us what UR about."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:10:14Z"/>
+    <cse:Attribute name="text" value="They could start by ending their visa-free policy for North Koreans- read, government elites."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="paestum69"/>
+    <cse:Attribute name="givenname" value="paestum69"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="gimeco"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:01:03.000Z"/>
-    <cse:Attribute name="text" value="my Aunty Savannah just got Mercedes GL-Class SUV just by working from a macbook. you could try here&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;w­­­w­­­w­­­.4d­­­a­­­y­­­j­­­o­­­­­­b­­­s­­­.c­­­o..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:59:57Z"/>
+    <cse:Attribute name="text" value="Russia didn&apos;t use a nerve agent to kill anyone in the UK."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Knowles2"/>
+    <cse:Attribute name="givenname" value="Knowles2"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="tallison46"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:55:11.000Z"/>
-    <cse:Attribute name="text" value="Obama could have fixed this problem and had 8 years to do it....."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T02:01:07Z"/>
+    <cse:Attribute name="text" value="nerve agent! ...... I pray Malaysia are monitoring the airport staff who tried to help the murdered brother"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Bernard Josling"/>
+    <cse:Attribute name="givenname" value="Bernard Josling"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="QuestionMarks"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T23:39:36.000Z"/>
-    <cse:Attribute name="text" value="@tallison46 check your math, she was picked up in Oct 2015. Still too long, but 8 years? Asking O to send reps to International Court would be admitting to Bush&apos;s frequent flier program."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:02:47Z"/>
+    <cse:Attribute name="text" value="Tsk. Brothers.."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="RobotOwl"/>
+    <cse:Attribute name="givenname" value="RobotOwl"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="jimdep"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:52:47.000Z"/>
-    <cse:Attribute name="text" value="She&apos;s not a US citizen anymore by her own choice. She moved to Portugal so it&apos;s in the hands of the Portuguese to intervene if they choose to do so. She gave up her rights as an American citizen...."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:04:22Z"/>
+    <cse:Attribute name="text" value="Holy shit! That&apos;s REALLY nasty stuff. No wonder the man was pretty much gone in minutes. Whoever delivered the dose would have needed special training, to avoid getting done themselves - there&apos;s..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="RobMorganAU"/>
+    <cse:Attribute name="givenname" value="RobMorganAU"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="RedForman"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:24:18.000Z"/>
-    <cse:Attribute name="text" value="@jimdep Where do you get your info from? Facebook?"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:09:22Z"/>
+    <cse:Attribute name="text" value="Or the person doing the hiring didn&apos;t give a shit about the stooges"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="sorencamusjames"/>
+    <cse:Attribute name="givenname" value="sorencamusjames"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="BlackSite"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:51:19.000Z"/>
-    <cse:Attribute name="text" value="She doesn&apos;t live in the United States. There is nothing he can do. The CIA fu#$ed up this operation. So the CIA can go get her."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:13:52Z"/>
+    <cse:Attribute name="text" value="They&apos;d have needed to live long enough to do the deed though."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="andoru"/>
+    <cse:Attribute name="givenname" value="andoru"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:10:43.000Z"/>
-    <cse:Attribute name="text" value="@BlackSite Not in the EU they cannot."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T02:01:08Z"/>
+    <cse:Attribute name="text" value="Here wondering if they were given an antidote before deploying the weapon."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Knowles2"/>
+    <cse:Attribute name="givenname" value="Knowles2"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="RedForman"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:26:01.000Z"/>
-    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @BlackSite LOL!!!! Do you just make this s hit up as you go along. Never mind the story."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:04:40Z"/>
+    <cse:Attribute name="text" value="Can&apos;t work out which is more terrifying, the fact the North Korea has chemical weapons or that they were waking around with it in a freaking airport!"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="FierceAten"/>
+    <cse:Attribute name="givenname" value="FierceAten"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="BadNarc"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:50:38.000Z"/>
-    <cse:Attribute name="text" value="Read the story closely, this is your tax money at work!"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:15:29Z"/>
+    <cse:Attribute name="text" value="If NK has these WMD, perhaps fear of their nuclear programme is diverting attention from a far greater threat?"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="maidinChina"/>
+    <cse:Attribute name="givenname" value="maidinChina"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:42:09.000Z"/>
-    <cse:Attribute name="text" value="Can the US president really help her while she is on the run?"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:19:38Z"/>
+    <cse:Attribute name="text" value="I can only hope it might have been another organophosphate, not VX. The notion that NK would actually be insane enough to use VX like this is extremely worrying...which is a huge understatement,..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Epivore"/>
+    <cse:Attribute name="givenname" value="Epivore"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:42:57.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia Yes.Just like Cermis.SOFA agreement."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:22:54Z"/>
+    <cse:Attribute name="text" value="Putin&apos;s henchmen were freely walking around with polonium-210 in London when they poisoned Litvinenko, so you shouldn&apos;t be so shocked."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="TheWizeMan"/>
+    <cse:Attribute name="givenname" value="TheWizeMan"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:48:17.000Z"/>
-    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia For the US to intervene in a foreign government would be a major issue right now. We need to show that we have respect for other governments after Obama treated..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:08:07Z"/>
+    <cse:Attribute name="text" value="Having your own bro killed... that&apos;s Stalin level paranoia."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="fascistcommie69"/>
+    <cse:Attribute name="givenname" value="fascistcommie69"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:50:04.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia Do you remember Cermis?"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:23:40Z"/>
+    <cse:Attribute name="text" value="Even Stalin wasn&apos;t that bad."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Paul Moore"/>
+    <cse:Attribute name="givenname" value="Paul Moore"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:50:23.000Z"/>
-    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia No I have to admit I don&apos;t."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T02:25:55Z"/>
+    <cse:Attribute name="text" value="he was a psychopath"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="moray2"/>
+    <cse:Attribute name="givenname" value="moray2"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:56:12.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia 20 civilians massacred when an A-10 flew under and clipped the cable their car was traveling up the mountain on. 1998No trial or convictions."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T02:54:20Z"/>
+    <cse:Attribute name="text" value="Any leader that puts the military before their people is paranoid"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Saltyandthepretz"/>
+    <cse:Attribute name="givenname" value="Saltyandthepretz"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:59:19.000Z"/>
-    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia So was it an accident?"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:09:06Z"/>
+    <cse:Attribute name="text" value="What&apos;s left of Kim Jong-un&apos;s family must be crapping themselves."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="FattMatt"/>
+    <cse:Attribute name="givenname" value="FattMatt"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:07:55.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia No, it was hotdogging in an area he was not supposed to be flying, at an altitude he was not allowed to fly at. They were there trying to take photos, hit the cable instead, and..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:24:51Z"/>
+    <cse:Attribute name="text" value="If they go where the Chinese tell them, they&apos;ll be quite safe. The problem with Kim Jong Nam was he liked to travel too much."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="ildfluer"/>
+    <cse:Attribute name="givenname" value="ildfluer"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:09:25.000Z"/>
-    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia But it was not an intentional act like kidnapping."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:09:09Z"/>
+    <cse:Attribute name="text" value="Is kim-Jong-Nam killed by agents of north Korea goverment, or mit?"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Johannes Bruckmeier"/>
+    <cse:Attribute name="givenname" value="Johannes Bruckmeier"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:10:07.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia That&apos;s not how the Italians saw it.They saw it as intentional act."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T06:09:51Z"/>
+    <cse:Attribute name="text" value="Romney?"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Hank_Scorpio"/>
+    <cse:Attribute name="givenname" value="Hank_Scorpio"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:10:58.000Z"/>
-    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia How do you fly a plane over a foreign country without permission?"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T06:49:08Z"/>
+    <cse:Attribute name="text" value="Killed by the Kim or the Massachusetts Institute of Technology. Tough one."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="taipingtianguo"/>
+    <cse:Attribute name="givenname" value="taipingtianguo"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:19:32.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia How do you clip a cable car where you are not permitted to fly, at an elevation you are not permitted to fly at, k*lling 20 civilians on a vacation."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:09:26Z"/>
+    <cse:Attribute name="text" value="What will be end of all of this, drop a bomb where all this criminals are? How China can support this bastards? IMO ther only way to bring China against this bastards is by marketing strategies..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="orejano"/>
+    <cse:Attribute name="givenname" value="orejano"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="QuestionMarks"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T23:41:06.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia huh? O had trouble with borders? Who started the Mid East &quot;loving&quot; liberation?"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:12:11Z"/>
+    <cse:Attribute name="text" value="and we buy billions of dollars of Chinese crap...we&apos;re all culpable"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="sorencamusjames"/>
+    <cse:Attribute name="givenname" value="sorencamusjames"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:40:21.000Z"/>
-    <cse:Attribute name="text" value="Several were since pardoned and not one has done time in prison. Why is she running? Is it the crime or the running from the crime that is her worst issue here?"/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:21:11Z"/>
+    <cse:Attribute name="text" value="any &apos;crap&apos; that westerners buy from China: was ordered from China by a Westerner. You get what you pay for."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="sorrentina"/>
+    <cse:Attribute name="givenname" value="sorrentina"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:42:05.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia They all ran from the crime.The several that were pardoned were Italian intelligence agents, due to State Secrets.The Americans are all still on the hook, she is the only one that..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:29:31Z"/>
+    <cse:Attribute name="text" value="I know! What&apos;s your point? Did you misunderstand my comment?"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="sorencamusjames"/>
+    <cse:Attribute name="givenname" value="sorencamusjames"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:44:45.000Z"/>
-    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia Not one has done time in prison for it. Can the president ask Italy to not hold a trial? I believe they would have to step in after the government of Italy has..."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:10:08Z"/>
+    <cse:Attribute name="text" value="This is nothing for the North Korean nut case. Whole families are killed. I&apos;m talking generations. If you thought tale of the Russian Gulags and the &quot;Black&quot; prisons of countries,offshore ,..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Jrhino"/>
+    <cse:Attribute name="givenname" value="Jrhino"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:57:34.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia She has already been tried and convicted."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:10:48Z"/>
+    <cse:Attribute name="text" value="The reason there are starving people in North Korea is because that evil teletubbie who rules it has eaten all the food."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Billy Edgar"/>
+    <cse:Attribute name="givenname" value="Billy Edgar"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:57:50.000Z"/>
-    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia So were the rest."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:10:56Z"/>
+    <cse:Attribute name="text" value="The dai"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Jrhino"/>
+    <cse:Attribute name="givenname" value="Jrhino"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T09:58:55.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia The Italians were pardoned without trial.All the Americans are still convicted. And the US State dept has done nothing about it."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:11:32Z"/>
+    <cse:Attribute name="text" value="Really saddening !"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Manweilluu Abdulrashid"/>
+    <cse:Attribute name="givenname" value="Manweilluu Abdulrashid"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="nwgeorgia"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:01:04.000Z"/>
-    <cse:Attribute name="text" value="@CloudsBelowSeaLeveI @nwgeorgia What can they do? We don&apos;t control their government."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:11:36Z"/>
+    <cse:Attribute name="text" value="Will this lead to war?"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Peter James"/>
+    <cse:Attribute name="givenname" value="Peter James"/>
    </cse:DataObject>
    <cse:DataObject type="comment">
-    <cse:Attribute name="author" value="CloudsBelowSeaLeveI"/>
-    <cse:Attribute name="datecreated" value="2017-02-21T10:08:45.000Z"/>
-    <cse:Attribute name="text" value="@nwgeorgia We have a SOFA with them that gives our government agents and military immunity if we choose to ask for it."/>
+    <cse:Attribute name="datecreated" value="2017-02-24T01:12:56Z"/>
+    <cse:Attribute name="text" value="If it is true that North Korea possesses chemical WMDs then it&apos;s time for the US and South Korea to invade and end the Kim dynasty once and for all. They&apos;ve existed long enough as a loose cannon..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Andy Wong Ming Jun"/>
+    <cse:Attribute name="givenname" value="Andy Wong Ming Jun"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:23:13Z"/>
+    <cse:Attribute name="text" value="No country is insane enough to invade a nuke-capable one. But the Chinese will do their own thing to ensure North Korea remains somewhat obedient. Kim Jong Un&apos;s days are probably numbered."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="ildfluer"/>
+    <cse:Attribute name="givenname" value="ildfluer"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:37:55Z"/>
+    <cse:Attribute name="text" value="Be careful what you wish for, the invasion of Iraq by the US and its allies helped bring isis/daesh into being. And the mad Kim would have time to use the weapons during any invasion, I think...."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="motherchicken"/>
+    <cse:Attribute name="givenname" value="motherchicken"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:45:15Z"/>
+    <cse:Attribute name="text" value="Not so fast bud. &apos;Murica&apos;s president and his own personal Rasputin are already embroiled in a full blown war with the lion libbral meeja and the libbral ay leet and all their fake news and..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="SmugBug"/>
+    <cse:Attribute name="givenname" value="SmugBug"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:13:50Z"/>
+    <cse:Attribute name="text" value="Donald Mugabe just tweeted that this stuff is really dangerous, almost as bad nuclear unobtanium, it can cause a massive holycaust."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="sorencamusjames"/>
+    <cse:Attribute name="givenname" value="sorencamusjames"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:35:30Z"/>
+    <cse:Attribute name="text" value="But where can you get it?"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Daemon Singer"/>
+    <cse:Attribute name="givenname" value="Daemon Singer"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T05:53:16Z"/>
+    <cse:Attribute name="text" value="VX is the Devil&apos;s brew. I wouldn&apos;t be so flippant if I were you."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="okonomiyaki"/>
+    <cse:Attribute name="givenname" value="okonomiyaki"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T06:06:20Z"/>
+    <cse:Attribute name="text" value="I smoke that shit, it&apos;s all about tolerance."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="WhitesandsOjibwe"/>
+    <cse:Attribute name="givenname" value="WhitesandsOjibwe"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:14:07Z"/>
+    <cse:Attribute name="text" value="This comment was removed by a moderator because it didn&apos;t abide by our community standards. Replies may also be deleted. For more detail see our FAQs."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="HarryPrince"/>
+    <cse:Attribute name="givenname" value="HarryPrince"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:14:32Z"/>
+    <cse:Attribute name="text" value="The North Korean government argued so much and so loudly against performing an autopsy, it was so obvious that they knew what the results would be. Of course, they claim it is all a conspiracy..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Mike Kennedy"/>
+    <cse:Attribute name="givenname" value="Mike Kennedy"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:41:06Z"/>
+    <cse:Attribute name="text" value="Yurp that skuzzy ambassador demanding the body was a dead giveaway."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="SmugBug"/>
+    <cse:Attribute name="givenname" value="SmugBug"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T02:07:48Z"/>
+    <cse:Attribute name="text" value="Hmmmm...sounds like the mental state and positioning of our current leader here in America"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="bpollutin"/>
+    <cse:Attribute name="givenname" value="bpollutin"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T02:15:45Z"/>
+    <cse:Attribute name="text" value="You missed the part where someone tried to break into the morgue where the body was kept."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Grimfang"/>
+    <cse:Attribute name="givenname" value="Grimfang"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:15:41Z"/>
+    <cse:Attribute name="text" value="Doesn&apos;t Kim Jong-nam have a son? He&apos;d better hide now."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="itsfridayiminlove"/>
+    <cse:Attribute name="givenname" value="itsfridayiminlove"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:21:32Z"/>
+    <cse:Attribute name="text" value="It&apos;s a good point - I think the Chinese will want Kim Jong Nam&apos;s offspring to take over soonish. Kim Kong Nam&apos;s family live in Macau and are technically under Chinese protection."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="ildfluer"/>
+    <cse:Attribute name="givenname" value="ildfluer"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:23:57Z"/>
+    <cse:Attribute name="text" value="Jong. Sorry, typo."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="ildfluer"/>
+    <cse:Attribute name="givenname" value="ildfluer"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:30:36Z"/>
+    <cse:Attribute name="text" value="You&apos;ve made a monkey of yourself with that typo."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="StoneSlabs"/>
+    <cse:Attribute name="givenname" value="StoneSlabs"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:22:20Z"/>
+    <cse:Attribute name="text" value="Comments? Ok then...Just feel sorry for him, seemed like a decent bloke considering he&apos;d been brought up in fuckoland. Lived a life of terror. Poor bastard just wanted to go to Disneyland. Tragic."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="Boojay"/>
+    <cse:Attribute name="givenname" value="Boojay"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T01:49:04Z"/>
+    <cse:Attribute name="text" value="Yep, he made a few disparaging comments, but how was Kim Jong-nam even a threat to the fat little boy in the North?"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="poikloik098"/>
+    <cse:Attribute name="givenname" value="poikloik098"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T02:15:39Z"/>
+    <cse:Attribute name="text" value="He was very cushy with China who let him stay in Macao. He would have been ideal for China to install as a puppet leader if they ever decided Kim Jong Un got too much to handle and went for..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="BobHosk"/>
+    <cse:Attribute name="givenname" value="BobHosk"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="datecreated" value="2017-02-24T02:22:45Z"/>
+    <cse:Attribute name="text" value="Thanks for the insight."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="url" value="poikloik098"/>
+    <cse:Attribute name="givenname" value="poikloik098"/>
+   </cse:DataObject>
+   <cse:DataObject type="breadcrumb">
+    <cse:Attribute name="url" value="World"/>
+    <cse:Attribute name="title" value="World"/>
+   </cse:DataObject>
+   <cse:DataObject type="breadcrumb">
+    <cse:Attribute name="url" value="North Korea"/>
+    <cse:Attribute name="title" value="North Korea"/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/05e74915de30e186ca0b54f8ea8b5c4271278202/341_42_4060_2435/4060.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=4e320db2fb44052f6ca2433cb71fe0bc"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2017/02/20/extradition-under-way-for-ex-cia-officer-despite-appeals-to-trump-administration-for-help/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1487618301631.jpg?ve=1"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq-yMkhNkgCN7lGm2_ZGVoZKJ6CbZ_ByQTXZHwtPmYp5YfGNmE2Yq4h44"/>
+    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/5535be8464476074d32e680a098130ffacd8bd9a/200_825_4597_2760/master/4597.jpg?w=460&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=114354e90c0d8ba50c3efe1d6dbcb6ec"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="290"/>
+    <cse:Attribute name="height" value="174"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
