@@ -1,145 +1,265 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "a source close to"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="a source close to"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "sources familiar with"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:24:01.943Z</updated>
+ <updated>1970-01-18T05:24:42.393Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="12500" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="12500" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>12500</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9890" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9890" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9890</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.364694</cse:searchTime>
-  <cse:formattedSearchTime>0.36</cse:formattedSearchTime>
-  <cse:totalResults>12500</cse:totalResults>
-  <cse:formattedTotalResults>12,500</cse:formattedTotalResults>
+  <cse:searchTime>0.212846</cse:searchTime>
+  <cse:formattedSearchTime>0.21</cse:formattedSearchTime>
+  <cse:totalResults>9890</cse:totalResults>
+  <cse:formattedTotalResults>9,890</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://techcrunch.com/page/2/</id>
-  <updated>1970-01-18T05:24:01.943Z</updated>
-  <title type="html">TechCrunch - The latest technology news and information on startups</title>
-  <link href="https://techcrunch.com/page/2/" title="techcrunch.com"/>
-  <summary type="html">Ahead of Snap&amp;#39;s eagerly awaited IPO, Line, one of the U.S. tech IPO highlights of &lt;br&gt;
-2016, has doubled down on sister service and Snapchat clone Snow. Line and&amp;nbsp;...</summary>
-  <cse:cacheId>4rXrtBS1PUkJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://techcrunch.com/page/2/</cse:formattedUrl>
+  <id>http://www.cbsnews.com/news/trouble-brewing-for-deputy-commerce-secretary-nominee-todd-ricketts/</id>
+  <updated>1970-01-18T05:24:42.393Z</updated>
+  <title type="html">Trouble brewing for Deputy Commerce Secretary nominee Todd ...</title>
+  <link href="http://www.cbsnews.com/news/trouble-brewing-for-deputy-commerce-secretary-nominee-todd-ricketts/" title="www.cbsnews.com"/>
+  <summary type="html">Four &lt;b&gt;sources familiar with&lt;/b&gt; the matter told CBS News that Ricketts, a member of &lt;br&gt;
+the wealthy Ricketts family that owns the Chicago Cubs and Ameritrade, has run&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>-6DaJrg-5icJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cbsnews.com/.../trouble-brewing-for-deputy-commerce-secretary- nominee-todd-ricketts/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="p:domain_verify" value="6189ff68ce30e30f12b40b3b40873027"/>
-    <cse:Attribute name="handheldfriendly" value="True"/>
-    <cse:Attribute name="mobileoptimized" value="320"/>
-    <cse:Attribute name="viewport" value="initial-scale=1.0,width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="TechCrunch"/>
-    <cse:Attribute name="msvalidate.01" value="5ABD8A078F3356F3A6A8C8643C31FB8F"/>
-    <cse:Attribute name="fb:app_id" value="187288694643718"/>
-    <cse:Attribute name="fb:admins" value="543710097,771265067,1661021707,1550970059,663677613,1178144075,726995222,506404657,4700188"/>
-    <cse:Attribute name="wp-parsely_version" value="1.10.2"/>
-    <cse:Attribute name="og:site_name" value="TechCrunch"/>
-    <cse:Attribute name="og:site" value="social.techcrunch.com"/>
-    <cse:Attribute name="og:title" value="TechCrunch|2"/>
-    <cse:Attribute name="og:description" value="TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news."/>
-    <cse:Attribute name="og:image" value="https://tctechcrunch2011.files.wordpress.com/2017/01/photo-04-01-2017-5-11-28-pm.jpg?w=764&amp;h=400&amp;crop=1"/>
-    <cse:Attribute name="og:url" value="http://social.techcrunch.com/page/2/"/>
-    <cse:Attribute name="og:type" value="website"/>
-    <cse:Attribute name="author" value="Jon Russell"/>
-    <cse:Attribute name="id" value="1457452"/>
-    <cse:Attribute name="title" value="TechCrunch|2"/>
-    <cse:Attribute name="object_type" value="post"/>
-    <cse:Attribute name="url" value="https://techcrunch.com/2017/02/26/chat-app-line-doubles-its-stake-in-snapchat-clone-snow/"/>
-    <cse:Attribute name="timestamp" value="2017-02-26 20:48:50"/>
-    <cse:Attribute name="content" value="Ahead of Snap&apos;s eagerly awaited IPO, Line, one of the U.S. tech IPO highlights of 2016, has doubled down on sister service and Snapchat clone Snow. Line and Snow both share the same parent company -- Naver -- but the two firms have increasingly become financially entwined. Line bought up 25 percent of Snow last September for $45 million, and now it is nearly doubling its equity to 48.6 percent, according to a filing. The deal values Snow at around $207 million (235 billion KRW), according a filing in Japanese, up from 200 billion KRW ($177 million) in September. Line went public in a dual U.S.-Japan IPO that raised $1.1 billion. Shares initially popped 50 percent on the firm&apos;s Tokyo debut, but there&apos;s been little to celebrate since then. Line saw user numbers dip for the first time in January -- despite a record year of revenue in 2016 -- while its userbase increasingly limited to four countries: Japan, Indonesia, Taiwan and Thailand. Expanding its presence is an area where…"/>
-    <cse:Attribute name="excerpt" value="Ahead of Snap’s eagerly awaited IPO, Line, one of the U.S. tech IPO highlights of 2016, has doubled down on sister service and Snapchat clone Snow. Line and Snow both share the same parent company — Naver — but the two firms have increasingly become financially entwined. Line bought up 25 percent of Snow last September for $45 million, and now it is nearly doubling its equity…"/>
-    <cse:Attribute name="image" value="https://tctechcrunch2011.files.wordpress.com/2017/01/photo-04-01-2017-5-11-28-pm.jpg?w=150"/>
-    <cse:Attribute name="category" value="Asia"/>
-    <cse:Attribute name="tag" value="photo sharing"/>
-    <cse:Attribute name="application-name" value="TechCrunch"/>
-    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
-    <cse:Attribute name="msapplication-tooltip" value="Startup and Technology News"/>
-    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=https://techcrunch.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/d9ea925a71f82f06a1e6224298f7fe80?s=16"/>
-    <cse:Attribute name="st:robots" value="follow, index"/>
+    <cse:Attribute name="viewport" value="width=device-width"/>
+    <cse:Attribute name="al:web:url" value="http://www.cbsnews.com/news/trouble-brewing-for-deputy-commerce-secretary-nominee-todd-ricketts/"/>
+    <cse:Attribute name="al:ios:app_name" value="CBS News"/>
+    <cse:Attribute name="al:ios:app_store_id" value="334256223"/>
+    <cse:Attribute name="al:ios:url" value="cbsnewsapp://news/trouble-brewing-for-deputy-commerce-secretary-nominee-todd-ricketts/"/>
+    <cse:Attribute name="al:android:app_name" value="CBS News"/>
+    <cse:Attribute name="al:android:package" value="com.treemolabs.apps.cbsnews"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.cbsnews.com/news/trouble-brewing-for-deputy-commerce-secretary-nominee-todd-ricketts/"/>
+    <cse:Attribute name="og:title" value="Trouble brewing for Deputy Commerce Secretary nominee Todd Ricketts"/>
+    <cse:Attribute name="og:description" value="Sources familiar with the matter told CBS News that Ricketts has run into significant difficulties separating himself from financial ties"/>
+    <cse:Attribute name="og:image" value="http://cbsnews1.cbsistatic.com/hub/i/2017/02/28/06820cd9-535b-4e22-acc3-d4d46ae4fe26/ricketts.jpg"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="630"/>
+    <cse:Attribute name="fb:app_id" value="1536620209892267"/>
+    <cse:Attribute name="twitter:app:country" value="US"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="CBS News"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="334256223"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="cbsnewsapp://news/trouble-brewing-for-deputy-commerce-secretary-nominee-todd-ricketts/"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="CBS News"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="334256223"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="cbsnewsapp://news/trouble-brewing-for-deputy-commerce-secretary-nominee-todd-ricketts/"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="CBS News"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.treemolabs.apps.cbsnews"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="http://www.cbsnews.com/news/trouble-brewing-for-deputy-commerce-secretary-nominee-todd-ricketts/"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@CBSPolitics"/>
+    <cse:Attribute name="twitter:title" value="Trouble brewing for Deputy Commerce Secretary nominee Todd Ricketts"/>
+    <cse:Attribute name="twitter:description" value="Sources familiar with the matter told CBS News that Ricketts has run into significant difficulties separating himself from financial ties"/>
+    <cse:Attribute name="twitter:image" value="http://cbsnews1.cbsistatic.com/hub/i/2017/02/28/06820cd9-535b-4e22-acc3-d4d46ae4fe26/ricketts.jpg"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/CBSPolitics"/>
+    <cse:Attribute name="news_keywords" value="trump, ameritrade, deputy commerce secretary nominee, todd ricketts, wilbur ross, Chicago Cubs"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://tctechcrunch2011.files.wordpress.com/2017/01/photo-04-01-2017-5-11-28-pm.jpg?w=764&amp;h=400&amp;crop=1"/>
+    <cse:Attribute name="src" value="http://cbsnews1.cbsistatic.com/hub/i/2017/02/28/06820cd9-535b-4e22-acc3-d4d46ae4fe26/ricketts.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="162"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPwkt5lsm1YKlmGPxsg86uZk6RZ75QkdqMN7x-8s1_mH4uJFR9viqAWbQ"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91K-_XEhB1suCbT1sWuHRZXgBE7C5Ty3aKOREInKtm9PR6hw3YVOo3o1L"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html</id>
-  <updated>1970-01-18T05:24:01.943Z</updated>
-  <title type="html">Angelina Jolie &amp;#39;is NOT dating&amp;#39; castmate Jared Leto | Daily Mail Online</title>
-  <link href="http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html" title="www.dailymail.co.uk"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; 41-year-old Angie told Gossip Cop there was &amp;#39;no truth&amp;#39; to Star&amp;#39;s &lt;br&gt;
-claims the Oscar-winning duo&amp;#39;s &amp;#39;hot date in LA put a smile back on&amp;#39; her face.</summary>
-  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Angelina-Jolie-NOT-dating-castmate-Jared-Leto. html</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-usa-cyber-dhs-idUSKBN160240</id>
+  <updated>1970-01-18T05:24:42.393Z</updated>
+  <title type="html">U.S. Homeland Security employees locked out of computer networks ...</title>
+  <link href="http://www.reuters.com/article/us-usa-cyber-dhs-idUSKBN160240" title="www.reuters.com"/>
+  <summary type="html">... the Washington area and Philadelphia were unable to access some agency &lt;br&gt;
+computer networks on Tuesday, according to three &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter.</summary>
+  <cse:cacheId>4SKshPpTN3gJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-cyber-dhs-idUSKBN160240</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="news_keywords" value="Angelina,Jolie,NOT,dating,castmate,Jared,Leto"/>
-    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html"/>
-    <cse:Attribute name="channel" value="Celebrities,Entertainment,TV,Tv&amp;Showbiz"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="domesticNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;domesticNews;innovationAMD;SustainabilitySocial;everything;us-immigration;AllianzRetirement;AllianzInvestments;Hyundai;newsproHome;verizonmm;audib2b;credit-rss;cfaglobal;aa48hours;shipping;nonegative;PorscheCayenne;MBenz;ubs;Intel;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="U.S.+Homeland+Security+employees+locked+out+of+computer+networks%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Dustin Volz"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-domesticNews"/>
+    <cse:Attribute name="author" value="Dustin Volz"/>
+    <cse:Attribute name="news_keywords" value="Russia;United States;Donald J. Trump;US;USA;CYBER;DHS;Computer Crime / Hacking / Cybercrime;Asylum / Immigration / Refugees;Corporate Events;Maryland;Technology (TRBC);Washington DC;US Government News;Science;Technology / Media / Telecoms;Virginia;International / National Security;Conflicts / War / Peace;United States"/>
+    <cse:Attribute name="revision_date" value="Tue Feb 21 23:24:50 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Dustin Volz"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-21T23:24:50+0000"/>
+    <cse:Attribute name="sailthru.title" value="U.S. Homeland Security employees locked out of computer networks: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="U.S. Homeland Security employees locked out of computer networks: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-cyber-dhs-idUSKBN160240"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Some U.S. Department of Homeland Security employees in the Washington area and Philadelphia were unable to access some agency computer networks on Tuesday, according to three sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173540486&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1K1AC"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-21T23:24:50+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-21T23:24:50+0000"/>
+    <cse:Attribute name="og:article:section" value="World"/>
+    <cse:Attribute name="og:article:author" value="Dustin Volz"/>
+    <cse:Attribute name="og:article:tag" value="Russia,United States,Donald J. Trump,US,USA,CYBER,DHS,Computer Crime / Hacking / Cybercrime,Asylum / Immigration / Refugees,Corporate Events,Maryland,Technology (TRBC),Washington DC,US Government News,Science,Technology / Media / Telecoms,Virginia,International / National Security,Conflicts / War / Peace,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="U.S. Homeland Security employees locked out of computer networks: sources"/>
+    <cse:Attribute name="twitter:description" value="Some U.S. Department of Homeland Security employees in the Washington area and Philadelphia were unable to access some agency computer networks on Tuesday, according to three sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173540486&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1K1AC"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173540486&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1K1AC"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/us/article"/>
+    <cse:Attribute name="wt.cg_n" value="World"/>
+    <cse:Attribute name="wt.cg_s" value="U.S"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173540486&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1K1AC"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXaKC17GckyCoP-Qxyalu29PsOcjOZIbgrt_duqa8Khg1iszIYhQLkTYsD"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/usa-trump-economic-idUSL1N1G61T0</id>
+  <updated>1970-01-18T05:24:42.393Z</updated>
+  <title type="html">Attorney Olmem joins White House economic council -sources ...</title>
+  <link href="http://www.reuters.com/article/usa-trump-economic-idUSL1N1G61T0" title="www.reuters.com"/>
+  <summary type="html">... Republican congressional aide, has joined the White House National &lt;br&gt;
+Economic Council as a deputy to Gary Cohn, said two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+move.</summary>
+  <cse:cacheId>1H8PaD4gUckJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/usa-trump-economic-idUSL1N1G61T0</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="USLegal"/>
+    <cse:Attribute name="dcsext.channellist" value="CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;USLegal"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Attorney+Olmem+joins+White+House+economic+council+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-USLegal"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="ANDREW OLMEM;Donald J. Trump;USA;TRUMP/ECONOMIC;Americas;United States"/>
+    <cse:Attribute name="revision_date" value="Tue Feb 21 22:22:02 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-21T22:22:02+0000"/>
+    <cse:Attribute name="sailthru.title" value="Attorney Olmem joins White House economic council -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Attorney Olmem joins White House economic council -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-trump-economic-idUSL1N1G61T0"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Andrew Olmem, an attorney and formerRepublican congressional aide, has joined the White HouseNational Economic Council as a deputy to Gary Cohn, said twosources familiar with the move."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-21T22:22:02+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-21T22:22:02+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="ANDREW OLMEM,Donald J. Trump,USA,TRUMP/ECONOMIC,Americas,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Attorney Olmem joins White House economic council -sources"/>
+    <cse:Attribute name="twitter:description" value="Andrew Olmem, an attorney and formerRepublican congressional aide, has joined the White HouseNational Economic Council as a deputy to Gary Cohn, said twosources familiar with the move."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/legal"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/wires/reuters/article-4264698/LSE-doubts-Deutsche-Boerse-CEO-leading-merged-firm--sources.html</id>
+  <updated>1970-01-18T05:24:42.393Z</updated>
+  <title type="html">LSE had doubts over Deutsche Boerse CEO leading merged firm ...</title>
+  <link href="http://www.dailymail.co.uk/wires/reuters/article-4264698/LSE-doubts-Deutsche-Boerse-CEO-leading-merged-firm--sources.html" title="www.dailymail.co.uk"/>
+  <summary type="html">... Carsten Kengeter to lead a combined company after insider trading allegations &lt;br&gt;
+were made against him, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Monday.</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../LSE-doubts-Deutsche-Boerse-CEO-leading-merged- firm--sources.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="LSE,doubts,Deutsche,Boerse,CEO,leading,merged,firm,sources"/>
+    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4264698/LSE-doubts-Deutsche-Boerse-CEO-leading-merged-firm--sources.html"/>
     <cse:Attribute name="rating" value="General"/>
     <cse:Attribute name="doc-class" value="Living Document"/>
     <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
     <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
     <cse:Attribute name="twitter:account_id" value="15438913"/>
-    <cse:Attribute name="articleid" value="4243718"/>
+    <cse:Attribute name="articleid" value="4264698"/>
     <cse:Attribute name="divclasspage" value="articlePage"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Angelina Jolie &apos;is NOT dating&apos; castmate Jared Leto following divorce"/>
-    <cse:Attribute name="twitter:description" value="A source close to 41-year-old Angie told Gossip Cop there was &apos;no truth&apos; to Star&apos;s claims the Oscar-winning duo&apos;s &apos;hot date in LA put a smile back on&apos; her face"/>
-    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/tvshowbiz/article-4243718/Angelina-Jolie-NOT-dating-castmate-Jared-Leto.html"/>
-    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/2017/02/21/00/3D784BAB00000578-0-image-a-57_1487638536044.jpg"/>
+    <cse:Attribute name="twitter:title" value="LSE had doubts over Deutsche Boerse CEO leading merged firm - sources"/>
+    <cse:Attribute name="twitter:description" value="By Andreas KrönerFRANKFURT, Feb 27 (Reuters) - The London Stock Exchange  (LSE) had doubts about the suitability of Deutsche Boerse CEO  Carsten Kengeter to..."/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4264698/LSE-doubts-Deutsche-Boerse-CEO-leading-merged-firm--sources.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
     <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
     <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
-    <cse:Attribute name="article:published_time" value="2017-02-21T00:56:32+0000"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-21T07:52:34+0000"/>
-    <cse:Attribute name="article:section" value="TV&amp;Showbiz"/>
-    <cse:Attribute name="article:tag" value="Angelina Jolie NOT dating castmate Jared Leto"/>
-    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Cassie+Carpenter+For+Dailymail.com"/>
+    <cse:Attribute name="article:published_time" value="2017-02-27T16:29:53+0000"/>
+    <cse:Attribute name="article:modified_time" value="2017-02-27T16:29:54+0000"/>
+    <cse:Attribute name="article:section" value="Reuters"/>
+    <cse:Attribute name="article:tag" value="LSE doubts Deutsche Boerse CEO leading merged firm  sources"/>
+    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
     <cse:Attribute name="fb:app_id" value="146202712090395"/>
     <cse:Attribute name="og:site_name" value="Mail Online"/>
-    <cse:Attribute name="og:title" value="Angelina Jolie &apos;is NOT dating&apos; castmate Jared Leto following divorce"/>
+    <cse:Attribute name="og:title" value="LSE had doubts over Deutsche Boerse CEO leading merged firm - sources"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="A source close to 41-year-old Angie told Gossip Cop there was &apos;no truth&apos; to Star&apos;s claims the Oscar-winning duo&apos;s &apos;hot date in LA put a smile back on&apos; her face"/>
-    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4243718/index.html"/>
-    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/2017/02/21/00/3D784BAB00000578-0-image-a-57_1487638536044.jpg"/>
+    <cse:Attribute name="og:description" value="By Andreas KrönerFRANKFURT, Feb 27 (Reuters) - The London Stock Exchange  (LSE) had doubts about the suitability of Deutsche Boerse CEO  Carsten Kengeter to..."/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4264698/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
     <cse:Attribute name="og:image:width" value="636"/>
     <cse:Attribute name="og:image:height" value="382"/>
     <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
-    <cse:Attribute name="og:video" value="http://video.dailymail.co.uk/video/mol/2017/02/20/6663586826877485197/1024x576_MP4_6663586826877485197.mp4"/>
-    <cse:Attribute name="og:video:type" value="video/mp4"/>
-    <cse:Attribute name="og:video:width" value="636"/>
-    <cse:Attribute name="og:video:height" value="358"/>
-    <cse:Attribute name="al:android:url" value="dailymail-fb://article/4243718/"/>
-    <cse:Attribute name="al:android:package" value="com.dailymail.online"/>
-    <cse:Attribute name="al:android:app_name" value="Daily Mail Online"/>
-    <cse:Attribute name="al:ios:url" value="dailymail-fb://article/4243718/"/>
-    <cse:Attribute name="al:ios:app_store_id" value="384101264"/>
-    <cse:Attribute name="al:ios:app_name" value="MailOnline"/>
    </cse:DataObject>
    <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Angelina Jolie &apos;is NOT dating&apos; castmate Jared Leto"/>
-    <cse:Attribute name="datepublished" value="2017-02-21T00:56:32+0000"/>
-    <cse:Attribute name="datemodified" value="2017-02-21T07:52:34+0000"/>
-    <cse:Attribute name="articlebody" value="It&apos;s been five months since Angelina Jolie filed for divorce from her third husband Brad Pitt, and she just shot down her first rebound romance rumor - Jared Leto. A source close to 41-year-old..."/>
+    <cse:Attribute name="headline" value="LSE had doubts over Deutsche Boerse CEO leading merged firm - sources"/>
+    <cse:Attribute name="datepublished" value="2017-02-27T16:29:53+0000"/>
+    <cse:Attribute name="datemodified" value="2017-02-27T16:29:54+0000"/>
+    <cse:Attribute name="articlebody" value="By Andreas KrönerFRANKFURT, Feb 27 (Reuters) - The London Stock Exchange (LSE) had doubts about the suitability of Deutsche Boerse CEO Carsten Kengeter to lead a combined company after insider..."/>
    </cse:DataObject>
    <cse:DataObject type="person">
-    <cse:Attribute name="name" value="By Cassie Carpenter For Dailymail.com"/>
+    <cse:Attribute name="name" value="By Reuters"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/2017/02/21/00/3D784BAB00000578-0-image-a-57_1487638536044.jpg"/>
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
     <cse:Attribute name="height" value="382"/>
     <cse:Attribute name="width" value="636"/>
    </cse:DataObject>
@@ -152,499 +272,394 @@ claims the Oscar-winning duo&amp;#39;s &amp;#39;hot date in LA put a smile back 
     <cse:Attribute name="height" value="66"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/2017/02/21/00/3D784BAB00000578-0-image-a-57_1487638536044.jpg"/>
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="290"/>
     <cse:Attribute name="height" value="174"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rLEj6TbwjK1d_Db3DG0bOQehd1C8HCBaECZcMRcEV_RGYGRvd5-_6Ms"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc</id>
-  <updated>1970-01-18T05:24:01.943Z</updated>
-  <title type="html">Source: Perez narrowly leads Ellison in nail-bitingly close race to ...</title>
-  <link href="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc" title="mic.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Perez who spoke on the condition of anonymity because they &lt;br&gt;
-were not authorized to speak for the campaign said its internal numbers show&amp;nbsp;...</summary>
-  <cse:cacheId>PRm7FSOGYQ8J</cse:cacheId>
-  <cse:formattedUrl type="html">https://mic.com/.../keith-ellison-and-tom-perez-square-off-in-nailbitingly- close-race-to-lead-the-dnc</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="title" value="Source: Perez narrowly leads Ellison in nail-bitingly close race to lead the DNC"/>
-    <cse:Attribute name="article:published_time" value="2017-02-24T14:33:45.000Z"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-24T16:18:22.000Z"/>
-    <cse:Attribute name="article:tag" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/MicMedia"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/215337"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc"/>
-    <cse:Attribute name="og:title" value="Hours before Democrats choose their leader, the vote count is nailbitingly close"/>
-    <cse:Attribute name="og:description" value="The race for chair of the DNC has become a proxy battle between Bernie Sanders and Hillary Clinton supporters."/>
-    <cse:Attribute name="og:image" value="https://thumbs.mic.com/MzRmYmFmOWVmYiMvM20zeDVaQ2ZYeDd6QjlvWXI4M2laWGd1U1RJPS8weDEzMjo0MDIxeDIwODAvMTIwMHg2MzAvZmlsdGVyczpxdWFsaXR5KDcwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.undefined"/>
-    <cse:Attribute name="original-image" value="https://media3.mic.com/YWFjYzIyNmQzYiMvMGxOZkR2UHZYT1FZM1hHcG0tOTRQM3VfNGd3PS8weDEzMjo0MDIxeDIwODAvMTkxMHgxMDAwL2ZpbHRlcnM6cXVhbGl0eSg4NSkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvZGZiaWxyaWVpd2lhbWxna3Y4eXVzb25oa245aHh2Z3prcjlyYnFud3dyY2x2ZHVscWdjeWxveHpqZnVnbGNkNC5qcGc=.jpg"/>
-    <cse:Attribute name="news_keywords" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@Mic"/>
-    <cse:Attribute name="twitter:creator" value="jacobdhorowitz"/>
-    <cse:Attribute name="twitter:url" value="https://mic.com/articles/169494/keith-ellison-and-tom-perez-square-off-in-nailbitingly-close-race-to-lead-the-dnc"/>
-    <cse:Attribute name="twitter:title" value="Source: Perez narrowly leads Ellison in nail-bitingly close race to lead the DNC"/>
-    <cse:Attribute name="twitter:description" value="The race for chair of the DNC has become a proxy battle between Bernie Sanders and Hillary Clinton supporters."/>
-    <cse:Attribute name="twitter:image" value="https://thumbs.mic.com/MzRmYmFmOWVmYiMvM20zeDVaQ2ZYeDd6QjlvWXI4M2laWGd1U1RJPS8weDEzMjo0MDIxeDIwODAvMTIwMHg2MzAvZmlsdGVyczpxdWFsaXR5KDcwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.undefined"/>
-    <cse:Attribute name="bt:id" value="169494"/>
-    <cse:Attribute name="bt:keywords" value="Democratic National Committee, DNC, tom perez, keith ellison, Politics"/>
-    <cse:Attribute name="bt:pubdate" value="2017-02-24T14:33:45.000Z"/>
-    <cse:Attribute name="bt:moddate" value="2017-02-24T16:18:22.000Z"/>
-    <cse:Attribute name="bt:isblacklisted" value="false"/>
-    <cse:Attribute name="bt:type" value="trending"/>
-    <cse:Attribute name="bt:image" value="https://thumbs.mic.com/MzZkMmY5MmE5MiMvSG1rMnI3bWVoSUx1OFpTalhIXy12ZFAwYjZ3PS8weDEzMjo0MDIxeDIwODAvNDAweDIyNS9maWx0ZXJzOmZvcm1hdChqcGVnKTpxdWFsaXR5KDgwKS9odHRwczovL3MzLmFtYXpvbmF3cy5jb20vcG9saWN5bWljLWltYWdlcy9kZmJpbHJpZWl3aWFtbGdrdjh5dXNvbmhrbjloeHZnemtyOXJicW53d3JjbHZkdWxxZ2N5bG94empmdWdsY2Q0LmpwZw.jpg"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="fb:app_id" value="141861192518680"/>
-    <cse:Attribute name="twitter:user_id" value="139909832"/>
-    <cse:Attribute name="language" value="en"/>
-    <cse:Attribute name="author" value="Mic"/>
-    <cse:Attribute name="medium" value="news"/>
-    <cse:Attribute name="og:site_name" value="Mic"/>
-    <cse:Attribute name="identifier-url" value="http://mic.com/articles/74689/the-8-most-dysfunctional-families-in-tv-history"/>
-    <cse:Attribute name="fb:admins" value="23342,215337,1410801,675670245,13000939,616963,1479330109,1267070071"/>
-    <cse:Attribute name="msapplication-task" value="name=Mic;action-uri=http://mic.com;icon-uri=http://mic.com/favicon.ico"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://images.mic.com/k6whelooq4dtstbkc8jumm8ewud3profgq4mscy5717dthwtr7hit4pfih5kjsoy.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe2j0sAK9lW-WTi2_ZUYy9MFnjXT2Dn2nxSHW7OjgQsqQz0oG3lEpy824"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV</id>
-  <updated>1970-01-18T05:24:01.943Z</updated>
-  <title type="html">Wanted: a CEO willing to hold Greek banking&amp;#39;s poisoned chalice ...</title>
-  <link href="http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV" title="www.reuters.com"/>
-  <summary type="html">The fund, financed by euro zone and International Monetary Fund loans, has not &lt;br&gt;
-explained its failure to find a new leader, but &lt;b&gt;a source close to&lt;/b&gt; the recruitment&amp;nbsp;...</summary>
-  <cse:cacheId>q-vs0UK1qzgJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-greece-banks-ceo-analysis-idUSKBN15Z1IV</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-refinery-operations-marathon-pete-tex-idUSKBN1632EL</id>
+  <updated>1970-01-18T05:24:42.393Z</updated>
+  <title type="html">Marathon&amp;#39;s Texas City, Texas refinery begins plant-wide overhaul ...</title>
+  <link href="http://www.reuters.com/article/us-refinery-operations-marathon-pete-tex-idUSKBN1632EL" title="www.reuters.com"/>
+  <summary type="html">Marathon Petroleum Corp began a plant-wide overhaul at its 86000 barrel per &lt;br&gt;
+day (bpd) Texas City, Texas, refinery on Friday, said &lt;b&gt;sources familiar with&lt;/b&gt; plant&amp;nbsp;...</summary>
+  <cse:cacheId>GmVah-1PuI4J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-refinery-operations-marathon-pete-tex- idUSKBN1632EL</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="businessNews"/>
-    <cse:Attribute name="dcsext.channellist" value="businessNews;everything;Deals;forexNewsCopy;Davos;Greece;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;europe;newsproHome;audib2b;Davos2012;cfaglobal;aa48hours;dassaultuk;Intel;PFG;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Wanted%3A+a+CEO+willing+to+hold+Greek+banking%27s+poisoned+chalice"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="George Georgiopoulos"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-businessNews"/>
-    <cse:Attribute name="author" value="George Georgiopoulos"/>
-    <cse:Attribute name="news_keywords" value="Greece;Greece;Nick Koskoletos;YANNIS VAROUFAKIS;Nick Koskoletos;YANNIS VAROUFAKIS;US;GREECE;BANKS;CEO;ANALYSIS;Banks (TRBC);Funds;Company News;Insights;Financials (TRBC);Analyses;Financials (Legacy);Greece;Corporate Events;Euro Zone;European Union;Major News;Equities Markets;Europe;Enterprise Reporting;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Tue Feb 21 09:47:30 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="George Georgiopoulos"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-21T09:47:30+0000"/>
-    <cse:Attribute name="sailthru.title" value="Wanted: a CEO willing to hold Greek banking&apos;s &quot;poisoned chalice&quot;"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Wanted: a CEO willing to hold Greek banking&apos;s &quot;poisoned chalice&quot;"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-greece-banks-ceo-analysis-idUSKBN15Z1IV"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Wanted: a chief executive to run Greece&apos;s bank-rescue fund. Job description: work hard and pray for a miracle."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173447021&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-21T09:47:30+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-21T09:47:30+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="George Georgiopoulos"/>
-    <cse:Attribute name="og:article:tag" value="Greece,Greece,Nick Koskoletos,YANNIS VAROUFAKIS,Nick Koskoletos,YANNIS VAROUFAKIS,US,GREECE,BANKS,CEO,ANALYSIS,Banks (TRBC),Funds,Company News,Insights,Financials (TRBC),Analyses,Financials (Legacy),Greece,Corporate Events,Euro Zone,European Union,Major News,Equities Markets,Europe,Enterprise Reporting,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Wanted: a CEO willing to hold Greek banking&apos;s &quot;poisoned chalice&quot;"/>
-    <cse:Attribute name="twitter:description" value="Wanted: a chief executive to run Greece&apos;s bank-rescue fund. Job description: work hard and pray for a miracle."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173447021&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173447021&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Business"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170221&amp;t=2&amp;i=1173447021&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1J0UB"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrd5wrvcNSSNVSgydXcq_e_U0xyouFjvxrl-gfIHremMd6It-xZD5WjiU4"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.thedailybeast.com/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen.html</id>
-  <updated>1970-01-18T05:24:01.943Z</updated>
-  <title type="html">Prince Charles&amp;#39; Plan To Make Camilla &amp;#39;Queen&amp;#39; - The Daily Beast</title>
-  <link href="http://www.thedailybeast.com/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen.html" title="www.thedailybeast.com"/>
-  <summary type="html">The dramatic move—emphatically denied by &lt;b&gt;a source close to&lt;/b&gt; Prince Charles--&lt;br&gt;
-will contravene long-held assurances that Charles will not attempt to make&amp;nbsp;...</summary>
-  <cse:cacheId>OZldv5B8YV8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.thedailybeast.com/.../prince-charles-plan-to-make-camilla-queen.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="content-type" value="text/html; charset=UTF-8"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
-    <cse:Attribute name="resourcetype" value="dailybeast2/components/pages/article"/>
-    <cse:Attribute name="environment" value="dev"/>
-    <cse:Attribute name="authorids" value="/etc/authors/t/tom-sykes"/>
-    <cse:Attribute name="title" value="Prince Charles Plan To Make Camilla Queen"/>
-    <cse:Attribute name="type" value="house"/>
-    <cse:Attribute name="sectiontaxanomies" value="beaststyle"/>
-    <cse:Attribute name="template" value="article"/>
-    <cse:Attribute name="news_keywords" value="Prince Charles, Camilla ParkerBowles, Elizabeth II, Culture"/>
-    <cse:Attribute name="og:title" value="Prince Charles’ Plan To Make Camilla ‘Queen’"/>
-    <cse:Attribute name="og:description" value="An informed Royal source tells the Daily Beast that there is a plan afoot to declare Prince Charles&apos;s wife &apos;queen&apos; soon after the present Queen&apos;s death."/>
-    <cse:Attribute name="og:url" value="http://www.thedailybeast.com/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen.html"/>
-    <cse:Attribute name="authors" value="Tom Sykes"/>
-    <cse:Attribute name="tags" value="entity:person/prince_charles,entity:person/camilla-parker-bowles,entity:person/elizabeth_ii,topic:culture"/>
-    <cse:Attribute name="contentpath" value="/content/dailybeast/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen"/>
-    <cse:Attribute name="wrap" value="/content/dailybeast/beaststyle"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="The Daily Beast"/>
-    <cse:Attribute name="fb:app_id" value="189930913679"/>
-    <cse:Attribute name="fb:admins" value="1703087,30000737,1117577220,1276800108,931159,514915512"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:site" value="@thedailybeast"/>
-    <cse:Attribute name="twitter:creator" value="royalist"/>
-    <cse:Attribute name="article:published_time" value="2017-02-25T23:06:00.000Z"/>
-    <cse:Attribute name="article:author" value="http://www.thedailybeast.com/contributors/tom-sykeshtml"/>
-    <cse:Attribute name="article:section" value="culture"/>
-    <cse:Attribute name="og:image" value="http://cdn.thedailybeast.com/content/dailybeast/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen/jcr:content/image.img.2000.jpg/1488123425962.cached.jpg"/>
-    <cse:Attribute name="publicationdate" value="201702252306"/>
-    <cse:Attribute name="pagenum" value="1"/>
-    <cse:Attribute name="parsely-page" value="{&quot;title&quot;:&quot;Prince Charles’ Plan To Make Camilla ‘Queen’&quot;,&quot;link&quot;:&quot;http://www.thedailybeast.com/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen.html&quot;,&quot;image_url&quot;:&quot;http://cdn.thedailybeast.com/content/dailybeast/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen/jcr:content/image.crop.410.273.jpg/49604114.cached.jpg&quot;,&quot;type&quot;:&quot;post&quot;,&quot;post_id&quot;:&quot;/content/dailybeast/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen&quot;,&quot;pub_date&quot;:&quot;2017-02-25T23:06:00+00:00&quot;,&quot;section&quot;:&quot;Arts + Culture&quot;,&quot;author&quot;:&quot;Tom Sykes&quot;,&quot;tags&quot;:[&quot;prince_charles&quot;,&quot;camilla-parker-bowles&quot;,&quot;elizabeth_ii&quot;,&quot;culture&quot;]}"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://cdn.thedailybeast.com/content/dailybeast/articles/2017/02/25/prince-charles-plan-to-make-camilla-queen/jcr:content/image.img.2000.jpg/1488123425962.cached.jpg"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T05:24:01.943Z</updated>
-  <title type="html">Steelers RB Le&amp;#39;Veon Bell facing 4-game ban for missed drug test</title>
-  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
-  <summary type="html"/>
-  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.theguardian.com/world/2017/feb/24/car-bomb-kills-dozens-after-isis-driven-out-of-syrian-town-al-bab</id>
-  <updated>1970-01-18T05:24:01.943Z</updated>
-  <title type="html">Car bomb kills dozens after Isis driven out of Syrian town | World ...</title>
-  <link href="https://www.theguardian.com/world/2017/feb/24/car-bomb-kills-dozens-after-isis-driven-out-of-syrian-town-al-bab" title="www.theguardian.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; Euphrates Shield said the rebels had yet to conduct &lt;br&gt;
-minesweeping operations to clear out booby traps and explosives as well as &lt;br&gt;
-sleeper cells&amp;nbsp;...</summary>
-  <cse:cacheId>VZz_pRRPsDQJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.theguardian.com/.../car-bomb-kills-dozens-after-isis-driven-out- of-syrian-town-al-bab</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="format-detection" value="telephone=no"/>
-    <cse:Attribute name="handheldfriendly" value="True"/>
-    <cse:Attribute name="viewport" value="width=device-width,minimum-scale=1,initial-scale=1"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Guardian"/>
-    <cse:Attribute name="application-name" value="The Guardian"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#005689"/>
-    <cse:Attribute name="theme-color" value="#005689"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://assets.guim.co.uk/images/favicons/f06f6996e193d1ddcd614ea852322d25/windows_tile_144_b.png"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=409128287, app-argument=https://www.theguardian.com/world/2017/feb/24/car-bomb-kills-dozens-after-isis-driven-out-of-syrian-town-al-bab, affiliate-data=ct=newsmartappbanner&amp;pt=304191"/>
-    <cse:Attribute name="referrer" value="unsafe-url"/>
-    <cse:Attribute name="author" value="Kareem Shaheen"/>
-    <cse:Attribute name="thumbnail" value="https://i.guim.co.uk/img/media/0cbcfdb1b94bb54594c6f9526e6f6b9163f4d895/47_0_1737_1042/1737.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=2161441f3e61157af66faf97a9dbd066"/>
-    <cse:Attribute name="news_keywords" value="Syria,Middle East and North Africa,World news,Turkey,Islamic State,United Nations"/>
-    <cse:Attribute name="og:url" value="http://www.theguardian.com/world/2017/feb/24/car-bomb-kills-dozens-after-isis-driven-out-of-syrian-town-al-bab"/>
-    <cse:Attribute name="article:author" value="https://www.theguardian.com/profile/kareem-shaheen,https://www.theguardian.com/profile/patrickwintour"/>
-    <cse:Attribute name="og:description" value="At least 42 civilians and rebel fighters killed near blast in al-Bab, a crucial strategic area vacated this week by Islamic State"/>
-    <cse:Attribute name="og:image" value="https://i.guim.co.uk/img/media/0cbcfdb1b94bb54594c6f9526e6f6b9163f4d895/47_0_1737_1042/master/1737.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=945f03e6c6d15d50906d4fed1537a931"/>
-    <cse:Attribute name="al:ios:url" value="gnmguardian://world/2017/feb/24/car-bomb-kills-dozens-after-isis-driven-out-of-syrian-town-al-bab?contenttype=Article&amp;source=applinks"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/theguardian"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="al:ios:app_store_id" value="409128287"/>
-    <cse:Attribute name="article:section" value="World news"/>
-    <cse:Attribute name="article:published_time" value="2017-02-24T15:07:36.000Z"/>
-    <cse:Attribute name="og:title" value="Car bomb kills dozens after Isis driven out of Syrian town"/>
-    <cse:Attribute name="fb:app_id" value="180444840287"/>
-    <cse:Attribute name="article:tag" value="Syria,Middle East and North Africa,World news,Turkey,Islamic State,United Nations"/>
-    <cse:Attribute name="al:ios:app_name" value="The Guardian"/>
-    <cse:Attribute name="og:site_name" value="the Guardian"/>
-    <cse:Attribute name="article:modified_time" value="2017-02-24T22:00:19.000Z"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="409128287"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="The Guardian"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="The Guardian"/>
-    <cse:Attribute name="twitter:image" value="https://i.guim.co.uk/img/media/0cbcfdb1b94bb54594c6f9526e6f6b9163f4d895/47_0_1737_1042/master/1737.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNi8wNy9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=643a700d4a525d0ccefffaf145bcbcb8"/>
-    <cse:Attribute name="twitter:site" value="@guardian"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="gnmguardian://world/2017/feb/24/car-bomb-kills-dozens-after-isis-driven-out-of-syrian-town-al-bab?contenttype=Article&amp;source=twitter"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="The Guardian"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="409128287"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.guardian"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="guardian://www.theguardian.com/world/2017/feb/24/car-bomb-kills-dozens-after-isis-driven-out-of-syrian-town-al-bab"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="gnmguardian://world/2017/feb/24/car-bomb-kills-dozens-after-isis-driven-out-of-syrian-town-al-bab?contenttype=Article&amp;source=twitter"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="mainentityofpage" value="https://www.theguardian.com/world/2017/feb/24/car-bomb-kills-dozens-after-isis-driven-out-of-syrian-town-al-bab"/>
-    <cse:Attribute name="headline" value="Car bomb kills dozens after Isis driven out of Syrian town"/>
-    <cse:Attribute name="description" value="At least 42 civilians and rebel fighters killed near blast in al-Bab, a crucial strategic area vacated this week by Islamic State"/>
-    <cse:Attribute name="datepublished" value="2017-02-24T10:07:36-0500"/>
-    <cse:Attribute name="datemodified" value="2017-02-24T17:00:19-0500"/>
-    <cse:Attribute name="articlebody" value="Dozens of people have been killed in a car bomb blast near to al-Bab, the Syrian town which Islamic State forces were this week driven from after a major battle with Turkey-backed rebels. The..."/>
-    <cse:Attribute name="contenturl" value="https://i.guim.co.uk/img/media/f6dbab17d43c12e7d70ff8100c6906f333821c1f/0_115_2352_1411/master/2352.jpg?w=460&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=7cbd737230d332b7c14c36e0860f33a8"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="The Guardian"/>
-    <cse:Attribute name="sameas" value="https://www.theguardian.com/"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2015/10/1/1443713974413/Guardiantitlepiecedigitalon.png"/>
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="60"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="representativeofpage" value="true"/>
-    <cse:Attribute name="url" value="https://i.guim.co.uk/img/media/0cbcfdb1b94bb54594c6f9526e6f6b9163f4d895/47_0_1737_1042/1737.jpg?w=700&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=eea5a2d5f903b66b11a6f2406fa6f87e"/>
-    <cse:Attribute name="width" value="1737"/>
-    <cse:Attribute name="height" value="1042"/>
-    <cse:Attribute name="contenturl" value="https://i.guim.co.uk/img/media/0cbcfdb1b94bb54594c6f9526e6f6b9163f4d895/47_0_1737_1042/master/1737.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=58d015b4bd4830f51e4d21bf8496d670"/>
-    <cse:Attribute name="description" value="The bombing happened in Sousian village in the early hours of Friday morning. Photograph: AFP/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="sameas" value="Kareem Shaheen"/>
-    <cse:Attribute name="name" value="Kareem Shaheen"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="sameas" value="Patrick Wintour"/>
-    <cse:Attribute name="name" value="Patrick Wintour"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="https://i.guim.co.uk/img/media/26a969af0de92a7bad5827450b96fe9f7fe41154/0_240_4172_2504/4172.jpg?w=700&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=9e75def4a648c6e1aee2c6fb634b683d"/>
-    <cse:Attribute name="width" value="4172"/>
-    <cse:Attribute name="height" value="2504"/>
-    <cse:Attribute name="contenturl" value="https://i.guim.co.uk/img/media/26a969af0de92a7bad5827450b96fe9f7fe41154/0_240_4172_2504/master/4172.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=2488c0aef3a1b0b3e10580a2db5d89a5"/>
-    <cse:Attribute name="description" value="Turkish-backed Syrian rebels in al-Bab after its recapture. Photograph: Nazeer Al-Khatib/AFP/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="breadcrumb">
-    <cse:Attribute name="url" value="World"/>
-    <cse:Attribute name="title" value="World"/>
-   </cse:DataObject>
-   <cse:DataObject type="breadcrumb">
-    <cse:Attribute name="url" value="Syria"/>
-    <cse:Attribute name="title" value="Syria"/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/0cbcfdb1b94bb54594c6f9526e6f6b9163f4d895/47_0_1737_1042/1737.jpg?w=620&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=2161441f3e61157af66faf97a9dbd066"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://i.guim.co.uk/img/media/87125d19229bc37c6575d1fae105e22e98baf460/0_707_2400_1441/master/2400.jpg?w=300&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=max&amp;s=5e90d287d99c22f70287d1fcdd2b7a64"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="240"/>
-    <cse:Attribute name="height" value="144"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-france-election-germany-idUSKBN1640K0</id>
-  <updated>1970-01-18T05:24:01.943Z</updated>
-  <title type="html">French candidate Macron to meet Germany&amp;#39;s Merkel on March 16 ...</title>
-  <link href="http://www.reuters.com/article/us-france-election-germany-idUSKBN1640K0" title="www.reuters.com"/>
-  <summary type="html">... frontrunner Emmanuel Macron will meet German Chancellor Angela Merkel on &lt;br&gt;
-March 16, &lt;b&gt;a source close to&lt;/b&gt; the former economy minister said on Saturday.</summary>
-  <cse:cacheId>EH3Y6k_tX3gJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-france-election-germany-idUSKBN1640K0</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="worldNews;newsMaps;newsproHome;marine;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="French+candidate+Macron+to+meet+Germany%27s+Merkel+on+March+16%3A+source"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Marathon%27s+Texas+City%2C+Texas+refinery+begins+plant-wide+overhaul+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="France;Germany;Angela Merkel;Emmanuel Macron;Francois Fillon;Le Pen;Theresa May;US;FRANCE;ELECTION;GERMANY;Germany;Elections / Voting;Western Europe;Europe;France;Government / Politics"/>
-    <cse:Attribute name="revision_date" value="Sat Feb 25 16:09:55 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="US;REFINERY;OPERATIONS;MARATHON;PETE;TEXASCITY;Energy Markets;Gasoline;Company News;Gulf Coast (PADD III);Energy (Legacy);North America (Energy);Corporate Events;Oil and Gas (TRBC);Oil and Gas Refining and Marketing (TRBC);Refined Products;Oil Refineries;Production Status Changes;English;Exclude story from RNP;Commodities News (3rd Party);Reports;United States"/>
+    <cse:Attribute name="revision_date" value="Fri Feb 24 21:00:01 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-02-25T16:09:55+0000"/>
-    <cse:Attribute name="sailthru.title" value="French candidate Macron to meet Germany&apos;s Merkel on March 16: source"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-24T21:00:01+0000"/>
+    <cse:Attribute name="sailthru.title" value="Marathon&apos;s Texas City, Texas refinery begins plant-wide overhaul -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="French candidate Macron to meet Germany&apos;s Merkel on March 16: source"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-france-election-germany-idUSKBN1640K0"/>
+    <cse:Attribute name="og:title" value="Marathon&apos;s Texas City, Texas refinery begins plant-wide overhaul -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-refinery-operations-marathon-pete-tex-idUSKBN1632EL"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="French independent candidate and presidential election frontrunner Emmanuel Macron will meet German Chancellor Angela Merkel on March 16, a source close to the former economy minister said on Saturday."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170225&amp;t=2&amp;i=1174030791&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1O0C7"/>
-    <cse:Attribute name="og:article:published_time" value="2017-02-25T16:09:55+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-02-25T16:09:55+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
+    <cse:Attribute name="og:description" value="Marathon Petroleum Corp began a plant-wide overhaul at its 86,000 barrel per day (bpd) Texas City, Texas, refinery on Friday, said sources familiar with plant operations."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-24T21:00:01+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-24T21:00:01+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="France,Germany,Angela Merkel,Emmanuel Macron,Francois Fillon,Le Pen,Theresa May,US,FRANCE,ELECTION,GERMANY,Germany,Elections / Voting,Western Europe,Europe,France,Government / Politics"/>
+    <cse:Attribute name="og:article:tag" value="US,REFINERY,OPERATIONS,MARATHON,PETE,TEXASCITY,Energy Markets,Gasoline,Company News,Gulf Coast (PADD III),Energy (Legacy),North America (Energy),Corporate Events,Oil and Gas (TRBC),Oil and Gas Refining and Marketing (TRBC),Refined Products,Oil Refineries,Production Status Changes,English,Exclude story from RNP,Commodities News (3rd Party),Reports,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Marathon&apos;s Texas City, Texas refinery begins plant-wide overhaul -sources"/>
+    <cse:Attribute name="twitter:description" value="Marathon Petroleum Corp began a plant-wide overhaul at its 86,000 barrel per day (bpd) Texas City, Texas, refinery on Friday, said sources familiar with plant operations."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-usa-trump-economic-idUSKBN1602O0</id>
+  <updated>1970-01-18T05:24:42.393Z</updated>
+  <title type="html">Attorney Olmem joins White House economic council: sources ...</title>
+  <link href="http://www.reuters.com/article/us-usa-trump-economic-idUSKBN1602O0" title="www.reuters.com"/>
+  <summary type="html">... Republican congressional aide, has joined the White House National &lt;br&gt;
+Economic Council as a deputy to Gary Cohn, said two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+move.</summary>
+  <cse:cacheId>iGPdAxEwt3EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-trump-economic-idUSKBN1602O0</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="politicsNews;newsproHome;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Attorney+Olmem+joins+White+House+economic+council%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="ANDREW OLMEM;Donald J. Trump;Gary Cohn;US;USA;TRUMP;ECONOMIC;Crime / Law / Justice;Banks (TRBC);Lawmaking;Government / Politics;Corporate Events;US Government News;Regulation;Economic News (3rd Party);Banking Services (Legacy);United States"/>
+    <cse:Attribute name="revision_date" value="Tue Feb 21 22:16:47 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-21T22:16:47+0000"/>
+    <cse:Attribute name="sailthru.title" value="Attorney Olmem joins White House economic council: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Attorney Olmem joins White House economic council: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-economic-idUSKBN1602O0"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Andrew Olmem, an attorney and former Republican congressional aide, has joined the White House National Economic Council as a deputy to Gary Cohn, said two sources familiar with the move."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-21T22:16:47+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-21T22:16:47+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="ANDREW OLMEM,Donald J. Trump,Gary Cohn,US,USA,TRUMP,ECONOMIC,Crime / Law / Justice,Banks (TRBC),Lawmaking,Government / Politics,Corporate Events,US Government News,Regulation,Economic News (3rd Party),Banking Services (Legacy),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Attorney Olmem joins White House economic council: sources"/>
+    <cse:Attribute name="twitter:description" value="Andrew Olmem, an attorney and former Republican congressional aide, has joined the White House National Economic Council as a deputy to Gary Cohn, said two sources familiar with the move."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-walmart-pricing-exclusive-idUSKBN1660I4</id>
+  <updated>1970-01-18T05:24:42.393Z</updated>
+  <title type="html">Exclusive: Wal-Mart launches new front in U.S. price war, targets ...</title>
+  <link href="http://www.reuters.com/article/us-walmart-pricing-exclusive-idUSKBN1660I4" title="www.reuters.com"/>
+  <summary type="html">N), according to four &lt;b&gt;sources familiar with&lt;/b&gt; the moves. Wal-Mart launched the &lt;br&gt;
+price test across 11 Midwest and Southeastern states such as Iowa, Illinois and&amp;nbsp;...</summary>
+  <cse:cacheId>e_GH2SKXPFMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-walmart-pricing-exclusive-idUSKBN1660I4</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="dataDive"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;innovationAMD;everything;Deals;forexNewsCopy;newsproHome;audib2b;marine;cfaglobal;aa48hours;shipping;MBenz;Intel;PFG;Fidelity2014;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;dataDive;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Wal-Mart+launches+new+front+in+U.S.+price+war%2C+targets+Aldi+in+grocery+aisle"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="modified-editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Nandita Bose"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-dataDive"/>
+    <cse:Attribute name="author" value="Nandita Bose"/>
+    <cse:Attribute name="news_keywords" value="United Kingdom;United States;Lorenzo Lopez;Scott Mushkin;US;WALMART;PRICING;EXCLUSIVE;Germany;Household Products (TRBC);Company News;Western Europe;Exclusive;Food Processing (TRBC);Corporate Events;Food Distribution and Convenience Stores (TRBC);Major News;Government Borrowing Requirement;Europe;Personal Products (TRBC);Department Stores (TRBC);United Kingdom;Generic and Specialty Pharmaceuticals (TRBC);Netherlands;United States"/>
+    <cse:Attribute name="revision_date" value="Mon Feb 27 16:43:42 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Nandita Bose"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-27T16:43:42+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Wal-Mart launches new front in U.S. price war, targets Aldi in grocery aisle"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Wal-Mart launches new front in U.S. price war, targets Aldi in grocery aisle"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-walmart-pricing-exclusive-idUSKBN1660I4"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Wal-Mart Stores Inc (WMT.N) is running a new price-comparison test in at least 1,200 U.S. stores and squeezing packaged goods suppliers in a bid to close a pricing gap with German-based discount grocery chain Aldi ALDIEI.UL and other U.S. rivals like Kroger Co (KR.N), according to four sources familiar with the moves."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170227&amp;t=2&amp;i=1174207728&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1Q0ER"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-27T16:43:42+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-27T16:43:42+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Nandita Bose"/>
+    <cse:Attribute name="og:article:tag" value="United Kingdom,United States,Lorenzo Lopez,Scott Mushkin,US,WALMART,PRICING,EXCLUSIVE,Germany,Household Products (TRBC),Company News,Western Europe,Exclusive,Food Processing (TRBC),Corporate Events,Food Distribution and Convenience Stores (TRBC),Major News,Government Borrowing Requirement,Europe,Personal Products (TRBC),Department Stores (TRBC),United Kingdom,Generic and Specialty Pharmaceuticals (TRBC),Netherlands,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="French candidate Macron to meet Germany&apos;s Merkel on March 16: source"/>
-    <cse:Attribute name="twitter:description" value="French independent candidate and presidential election frontrunner Emmanuel Macron will meet German Chancellor Angela Merkel on March 16, a source close to the former economy minister said on Saturday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170225&amp;t=2&amp;i=1174030791&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1O0C7"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170225&amp;t=2&amp;i=1174030791&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1O0C7"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Wal-Mart launches new front in U.S. price war, targets Aldi in grocery aisle"/>
+    <cse:Attribute name="twitter:description" value="Wal-Mart Stores Inc (WMT.N) is running a new price-comparison test in at least 1,200 U.S. stores and squeezing packaged goods suppliers in a bid to close a pricing gap with German-based discount grocery chain Aldi ALDIEI.UL and other U.S. rivals like Kroger Co (KR.N), according to four sources familiar with the moves."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170227&amp;t=2&amp;i=1174207728&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1Q0ER"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170227&amp;t=2&amp;i=1174207728&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1Q0ER"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/data-dive/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-deutsche-boerse-m-a-lse-kengeter-idUSKBN1661WA</id>
+  <updated>1970-01-18T05:24:42.393Z</updated>
+  <title type="html">LSE had doubts over Deutsche Boerse CEO leading merged firm ...</title>
+  <link href="http://www.reuters.com/article/us-deutsche-boerse-m-a-lse-kengeter-idUSKBN1661WA" title="www.reuters.com"/>
+  <summary type="html">... Carsten Kengeter to lead a combined company after insider trading allegations &lt;br&gt;
+were made against him, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Monday.</summary>
+  <cse:cacheId>_UCUajfhLfkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-deutsche-boerse-m-a-lse-kengeter-idUSKBN1661WA</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;innovationNewsFinancialServicesAndRealEstate;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;ousivMolt;SustainabilityCorporate;everything;Deals;AllianzInvestments;corporate_crime;Allianz;newsproHome;audib2b;davosBackup;cfaglobal;aa48hours;shipping;nonegative;PorscheCayenne;ubs;Intel;PFG;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="LSE+had+doubts+over+Deutsche+Boerse+CEO+leading+merged+firm%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Andreas Kröner"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Andreas Kröner"/>
+    <cse:Attribute name="news_keywords" value="United Kingdom;Carsten Kengeter;Donald H Brydon;Joachim Faber;US;DEUTSCHE;BOERSE;M;A;LSE;KENGETER;Investment Banking and Investment Services (TRBC);Germany;Key Personnel Changes;Mergers / Acquisitions / Takeovers;Company News;Western Europe;France;Corporate Events;Directors Dealings;Financial and Commodity Market Operators (TRBC);Government Borrowing Requirement;Equities Markets;Europe;Regulation;United Kingdom;Company Management Issues"/>
+    <cse:Attribute name="revision_date" value="Mon Feb 27 16:30:45 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Andreas Kröner"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-27T16:30:45+0000"/>
+    <cse:Attribute name="sailthru.title" value="LSE had doubts over Deutsche Boerse CEO leading merged firm: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="LSE had doubts over Deutsche Boerse CEO leading merged firm: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-deutsche-boerse-m-a-lse-kengeter-idUSKBN1661WA"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The London Stock Exchange (LSE) had doubts about the suitability of Deutsche Boerse CEO Carsten Kengeter to lead a combined company after insider trading allegations were made against him, two sources familiar with the matter said on Monday."/>
+    <cse:Attribute name="og:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170227&amp;t=2&amp;i=1174246208&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1Q161"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-27T16:30:45+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-27T16:30:45+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Andreas Kröner"/>
+    <cse:Attribute name="og:article:tag" value="United Kingdom,Carsten Kengeter,Donald H Brydon,Joachim Faber,US,DEUTSCHE,BOERSE,M,A,LSE,KENGETER,Investment Banking and Investment Services (TRBC),Germany,Key Personnel Changes,Mergers / Acquisitions / Takeovers,Company News,Western Europe,France,Corporate Events,Directors Dealings,Financial and Commodity Market Operators (TRBC),Government Borrowing Requirement,Equities Markets,Europe,Regulation,United Kingdom,Company Management Issues"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="LSE had doubts over Deutsche Boerse CEO leading merged firm: sources"/>
+    <cse:Attribute name="twitter:description" value="The London Stock Exchange (LSE) had doubts about the suitability of Deutsche Boerse CEO Carsten Kengeter to lead a combined company after insider trading allegations were made against him, two sources familiar with the matter said on Monday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170227&amp;t=2&amp;i=1174246208&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1Q161"/>
+    <cse:Attribute name="twitter:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170227&amp;t=2&amp;i=1174246208&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1Q161"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170225&amp;t=2&amp;i=1174030791&amp;w=&amp;fh=&amp;fw=&amp;ll=780&amp;pl=468&amp;sq=&amp;r=LYNXMPED1O0C7"/>
+    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170227&amp;t=2&amp;i=1174246208&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED1Q161"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="288"/>
-    <cse:Attribute name="height" value="175"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaN-wDDOKvAiZwSWfCCUndg6sBfSI5Qxfw0VuJVSOAwU4MUUI9K9T1yw"/>
+    <cse:Attribute name="width" value="274"/>
+    <cse:Attribute name="height" value="184"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBTmKyE7oqcKt5i9qz4Z7btE0-vZGBFa027om-6fVrNlcv4VZV8vqk6IDl"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline</id>
-  <updated>1970-01-18T05:24:01.943Z</updated>
-  <title type="html">Bulls Reportedly Don&amp;#39;t Have Plans to Trade Jimmy Butler Before ...</title>
-  <link href="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline" title="bleacherreport.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the 27-year-old three-time All-Star told Seerat Sohi of ESPN.&lt;br&gt;
-com he &amp;quot;doesn&amp;#39;t want&amp;quot; a trade out of Chicago and would &amp;quot;loathe to leave with&amp;nbsp;...</summary>
-  <cse:cacheId>zFaICBa_YSAJ</cse:cacheId>
-  <cse:formattedUrl type="html">bleacherreport.com/.../2694170-bulls-reportedly-dont-have-plans-to-trade- jimmy-butler-before-2017-deadline</cse:formattedUrl>
+  <id>http://www.reuters.com/article/bank-muscat-loan-idUSL8N1G83K6</id>
+  <updated>1970-01-18T05:24:42.393Z</updated>
+  <title type="html">Oman&amp;#39;s Bank Muscat raising $500 mln syndicated loan –sources ...</title>
+  <link href="http://www.reuters.com/article/bank-muscat-loan-idUSL8N1G83K6" title="www.reuters.com"/>
+  <summary type="html">Bank Muscat, Oman&amp;#39;slargest bank by assets, is raising $500 million through &lt;br&gt;
+asyndicated loan, banking &lt;b&gt;sources familiar with&lt;/b&gt; the situationsaid on Thursday.</summary>
+  <cse:cacheId>8FSFeQdFCjIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/bank-muscat-loan-idUSL8N1G83K6</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="aol-te-auth" value="1c424580-0f86-4d9b-88b2-bc8c0d029d4c"/>
-    <cse:Attribute name="blitz" value="mu-6e4ce5cd-57f20d11-7c0ecee9-d55c79e2"/>
-    <cse:Attribute name="msvalidate.01" value="7A63840181953B2A5A1FEA25FB45A991"/>
-    <cse:Attribute name="viewport" value="initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="fb:app_id" value="135174055162"/>
-    <cse:Attribute name="al:iphone:url" value="teamstream://article/bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="418075935"/>
-    <cse:Attribute name="al:iphone:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:ipad:url" value="teamstream://article/bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="484725748"/>
-    <cse:Attribute name="al:ipad:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:android:url" value="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
-    <cse:Attribute name="al:android:app_name" value="Team Stream"/>
-    <cse:Attribute name="al:android:package" value="com.bleacherreport.android.teamstream"/>
-    <cse:Attribute name="al:web:url" value="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
-    <cse:Attribute name="og:site_name" value="Bleacher Report"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="SustainabilityGreen;SustainabilityCorporate;everything;AllianzInvestments;Allianz;aa48hours;PorscheCayenne;ubs;Intel;PFG;MOC_US_2015-16;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Oman%E2%80%99s+Bank+Muscat+raising+%24500+mln+syndicated+loan+%E2%80%93sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Oman;BANK MUSCAT;LOAN/;Investment Banking and Investment Services (TRBC);Bahrain;Credit and Corporate Debt;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Oman;Loans;Banking Services (TRBC);Banks (TRBC);United Arab Emirates;Company News;Financials (TRBC);Financials (Legacy);Corporate Events;Economic Events;Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Thu Feb 23 10:50:25 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-23T10:50:25+0000"/>
+    <cse:Attribute name="sailthru.title" value="Oman’s Bank Muscat raising $500 mln syndicated loan –sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="p:domain_verify" value="0c768466449ebb550411234d6d4ffc30"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="418075935"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="484725748"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="Team Stream by Bleacher Report"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.bleacherreport.android.teamstream"/>
-    <cse:Attribute name="twitter:widgets:new-embed-design" value="on"/>
-    <cse:Attribute name="twitter:site" value="@bleacherreport"/>
-    <cse:Attribute name="article:publisher" value="http://www.facebook.com/bleacherreport"/>
-    <cse:Attribute name="author" value="Tim Daniels"/>
-    <cse:Attribute name="og:description" value="The  Chicago Bulls  are reportedly planning to keep star forward  Jimmy Butler  through Thursday&apos;s  NBA  trade deadline, despite ample speculation about his future with the organization..."/>
-    <cse:Attribute name="og:image" value="http://img.bleacherreport.net/img/images/photos/003/660/491/hi-res-3d1b758c3037cc2d3742539a146f385f_crop_north.jpg?1487695250&amp;w=9999&amp;h=9999"/>
-    <cse:Attribute name="og:title" value="Bulls Reportedly Don&apos;t Have Plans to Trade Jimmy Butler Before 2017 Deadline"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Oman’s Bank Muscat raising $500 mln syndicated loan –sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/bank-muscat-loan-idUSL8N1G83K6"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
-    <cse:Attribute name="pubdate" value="2017-02-21T11:42:24-05:00"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="teamstream://article/bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="teamstream://article/bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="The  Chicago Bulls  are reportedly planning to keep star forward  Jimmy Butler  through Thursday&apos;s  NBA  trade deadline, despite ample speculation about his future with the organization..."/>
-    <cse:Attribute name="twitter:image" value="http://img.bleacherreport.net/img/images/photos/003/660/491/hi-res-3d1b758c3037cc2d3742539a146f385f_crop_north.jpg?1487695250&amp;w=9999&amp;h=9999"/>
-    <cse:Attribute name="twitter:title" value="Bulls Reportedly Don&apos;t Have Plans to Trade Jimmy Butler Before 2017 Deadline"/>
-    <cse:Attribute name="twitter:url" value="http://bleacherreport.com/articles/2694170-bulls-reportedly-dont-have-plans-to-trade-jimmy-butler-before-2017-deadline"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="http://img.bleacherreport.net/img/images/photos/003/660/491/hi-res-3d1b758c3037cc2d3742539a146f385f_crop_north.jpg?h=533&amp;w=800&amp;q=70&amp;crop_x=center&amp;crop_y=top"/>
-    <cse:Attribute name="citation" value="Nathaniel S. Butler/Getty Images"/>
+    <cse:Attribute name="og:description" value="Bank Muscat, Oman’slargest bank by assets, is raising $500 million through asyndicated loan, banking sources familiar with the situationsaid on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-23T10:50:25+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-23T10:50:25+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Oman,BANK MUSCAT,LOAN/,Investment Banking and Investment Services (TRBC),Bahrain,Credit and Corporate Debt,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Oman,Loans,Banking Services (TRBC),Banks (TRBC),United Arab Emirates,Company News,Financials (TRBC),Financials (Legacy),Corporate Events,Economic Events,Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Oman’s Bank Muscat raising $500 mln syndicated loan –sources"/>
+    <cse:Attribute name="twitter:description" value="Bank Muscat, Oman’slargest bank by assets, is raising $500 million through asyndicated loan, banking sources familiar with the situationsaid on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img.bleacherreport.net/cms/media/image/1c/06/be/fc/5397/47f2/af65/79fe09ad276a/crop_exact_full_image.jpeg?h=2892&amp;q=90&amp;w=4339"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHX2gAn3mBmFW_rMf3ZJX-KvereE8UEv77Rz5QfV0qOOvKVk4ZRcQ0Y7nB"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.washingtonpost.com/lifestyle/style/is-ivanka-trump-building-bridges--or-walking-a-tightrope/2017/02/24/6ead4454-f86f-11e6-bf01-d47f8cf9b643_story.html</id>
-  <updated>1970-01-18T05:24:01.943Z</updated>
-  <title type="html">Is Ivanka Trump building bridges — or walking a tightrope? - The ...</title>
-  <link href="https://www.washingtonpost.com/lifestyle/style/is-ivanka-trump-building-bridges--or-walking-a-tightrope/2017/02/24/6ead4454-f86f-11e6-bf01-d47f8cf9b643_story.html" title="www.washingtonpost.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; her said she plans to visit a different Washington museum each &lt;br&gt;
-week. She and her husband, Jared Kushner, have hosted a Shabbat dinner.</summary>
-  <cse:formattedUrl type="html">https://www.washingtonpost.com/.../6ead4454-f86f-11e6-bf01- d47f8cf9b643_story.html</cse:formattedUrl>
+  <id>http://www.reuters.com/article/usa-employment-eeoc-idUSL1N1G61RX</id>
+  <updated>1970-01-18T05:24:42.393Z</updated>
+  <title type="html">High court wrestles with food distributor&amp;#39;s case against EEOC ...</title>
+  <link href="http://www.reuters.com/article/usa-employment-eeoc-idUSL1N1G61RX" title="www.reuters.com"/>
+  <summary type="html">... Washington area and Philadelphia were unable to access some agency &lt;br&gt;
+computer networks on Tuesday, according to three &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter.</summary>
+  <cse:cacheId>35KktdYTl4AJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/usa-employment-eeoc-idUSL1N1G61RX</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="eomportal-uuid" value="6ead4454-f86f-11e6-bf01-d47f8cf9b643"/>
-    <cse:Attribute name="object-hash" value="1488139205"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0"/>
-    <cse:Attribute name="referrer" value="unsafe-url"/>
-    <cse:Attribute name="news_keywords" value="Ivanka trump, ivanka trump and trudeau, ivanka trump and dina powell, dina powell, ivanka trump company, ivanka trump alfalfa, ivanka trump museum, ivanka trump urban league."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="FRBtestD"/>
+    <cse:Attribute name="dcsext.channellist" value="MOC_US_2015-16;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;westLaw"/>
+    <cse:Attribute name="dcsext.contentheadline" value="High+court+wrestles+with+food+distributor%27s+case+against+EEOC+subpoena"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-FRBtestD"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="USA;EMPLOYMENT/EEOC"/>
+    <cse:Attribute name="revision_date" value="Tue Feb 21 22:08:06 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-02-21T22:08:06+0000"/>
+    <cse:Attribute name="sailthru.title" value="High court wrestles with food distributor&apos;s case against EEOC subpoena"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="High court wrestles with food distributor&apos;s case against EEOC subpoena"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-employment-eeoc-idUSL1N1G61RX"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="Washington Post"/>
-    <cse:Attribute name="og:description" value="The perils of a tumultuous, hard-right White House for a daughter’s carefully crafted image."/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/washingtonpost"/>
-    <cse:Attribute name="fb:admins" value="1513210492"/>
-    <cse:Attribute name="fb:app_id" value="41245586762"/>
-    <cse:Attribute name="og:url" value="https://www.washingtonpost.com/lifestyle/style/is-ivanka-trump-building-bridges--or-walking-a-tightrope/2017/02/24/6ead4454-f86f-11e6-bf01-d47f8cf9b643_story.html"/>
-    <cse:Attribute name="og:image" value="https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/02/23/Production/Daily/Style/Images/05807153.jpg"/>
-    <cse:Attribute name="og:title" value="Is Ivanka Trump building bridges — or walking a tightrope?"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/monica.hesse.7"/>
-    <cse:Attribute name="author" value="https://www.facebook.com/monica.hesse.7"/>
-    <cse:Attribute name="twitter:creator" value="@MonicaHesse"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="mainentityofpage" value="True"/>
-    <cse:Attribute name="description" value="The perils of a tumultuous, hard-right White House for a daughter’s carefully crafted image."/>
-    <cse:Attribute name="url" value="https://www.washingtonpost.com/lifestyle/style/is-ivanka-trump-building-bridges--or-walking-a-tightrope/2017/02/24/6ead4454-f86f-11e6-bf01-d47f8cf9b643_story.html"/>
-    <cse:Attribute name="image" value="https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/02/23/Production/Daily/Style/Images/05807153.jpg"/>
-    <cse:Attribute name="headline" value="Is Ivanka Trump building bridges — or walking a tightrope?"/>
-    <cse:Attribute name="datepublished" value="2017-02-24T05:04-500"/>
-    <cse:Attribute name="articlebody" value="Ivanka Trump listens as her father delivers remarks at the Smithsonian National Museum of African American History and Culture on Tuesday. (Kevin Dietsch / Pool/EPA) On Tuesday morning, Ivanka..."/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="washingtonpost"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="https://www.washingtonpost.com/pb/resources/img/thewashingtonpost-white-2x.png"/>
-    <cse:Attribute name="width" value="200"/>
-    <cse:Attribute name="height" value="40"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Monica Hesse"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Monica Hesse"/>
+    <cse:Attribute name="og:description" value="By Robert IafollaThe U.S. Supreme Court considered on Tuesday a Texas-basednational food distributor’s bid to avoid an Equal EmploymentOpportunity"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-02-21T22:08:06+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-02-21T22:08:06+0000"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="USA,EMPLOYMENT/EEOC"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="High court wrestles with food distributor&apos;s case against EEOC subpoena"/>
+    <cse:Attribute name="twitter:description" value="By Robert IafollaThe U.S. Supreme Court considered on Tuesday a Texas-basednational food distributor’s bid to avoid an Equal EmploymentOpportunity"/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/02/23/Production/Daily/Style/Images/05807153.jpg"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="261"/>
-    <cse:Attribute name="height" value="193"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndzWQPnS7C12oFFOL-dPQV-_OWVKbwmLr7ZOO9dRYyQ3yVL2E7znIUGbH"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
