@@ -1,79 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "according to a person with direct knowledge"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="according to a person with direct knowledge"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "sources familiar with"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:35:38.733Z</updated>
+ <updated>1970-01-18T05:38:25.942Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;according to a person with direct knowledge&quot;" totalResults="503" searchTerms="&quot;according to a person with direct knowledge&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;according to a person with direct knowledge&quot;" totalResults="503" searchTerms="&quot;according to a person with direct knowledge&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>503</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>11100</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.324558</cse:searchTime>
-  <cse:formattedSearchTime>0.32</cse:formattedSearchTime>
-  <cse:totalResults>503</cse:totalResults>
-  <cse:formattedTotalResults>503</cse:formattedTotalResults>
+  <cse:searchTime>0.427897</cse:searchTime>
+  <cse:formattedSearchTime>0.43</cse:formattedSearchTime>
+  <cse:totalResults>11100</cse:totalResults>
+  <cse:formattedTotalResults>11,100</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/egypt-protests-bread-idUSL5N1GK5RF</id>
-  <updated>1970-01-18T05:35:38.733Z</updated>
-  <title type="html">Fearing bread subsidy cuts, Egyptians protest | Reuters</title>
-  <link href="https://www.reuters.com/article/egypt-protests-bread-idUSL5N1GK5RF" title="www.reuters.com"/>
-  <summary type="html">... dollar-denominated bond maturing in April 2026, whose sale is expected to &lt;br&gt;
-close as early as Tuesday, &lt;b&gt;according to a person with direct knowledge&lt;/b&gt; of the&amp;nbsp;...</summary>
-  <cse:cacheId>bxAdqe1hxtgJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../egypt-protests-bread-idUSL5N1GK5RF</cse:formattedUrl>
+  <id>http://abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629</id>
+  <updated>1970-01-18T05:38:25.942Z</updated>
+  <title type="html">FBI director James Comey asked Justice Department to refute ...</title>
+  <link href="http://abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629" title="abcnews.go.com"/>
+  <summary type="html">... Obama, ordered a wiretap of Trump&amp;#39;s phones prior to the November 2016 &lt;br&gt;
+election, government &lt;b&gt;sources familiar with&lt;/b&gt; Comey&amp;#39;s thinking confirm to ABC &lt;br&gt;
+News.</summary>
+  <cse:formattedUrl type="html">abcnews.go.com/Politics/fbi-director-james-comey-asked.../story?id...</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="ABC News"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
+    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="fb:admins" value="704409894"/>
+    <cse:Attribute name="fb:app_id" value="4942312939"/>
+    <cse:Attribute name="fb_title" value="FBI director asked DOJ to refute Trump&apos;s wiretapping claims, sources say"/>
+    <cse:Attribute name="og:site_name" value="ABC News"/>
+    <cse:Attribute name="og:title" value="FBI director asked DOJ to refute Trump&apos;s wiretapping claims, sources say"/>
+    <cse:Attribute name="og:description" value="FBI Director James Comey asked the Justice Department to publicly refute President Trump&apos;s assertion that his predecessor, President Obama, ordered a wiretap of Trump&apos;s phones prior to the November 2016 election, government sources familiar with Comey&apos;s thinking confirm to ABC News. Comey was..."/>
+    <cse:Attribute name="og:url" value="http://abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629"/>
+    <cse:Attribute name="og:image:type" value="image/jpeg"/>
+    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/Politics/GTY-james-comey-jt-170305_16x9_992.jpg"/>
+    <cse:Attribute name="dc.date.issued" value="2017-03-06"/>
+    <cse:Attribute name="date" value="2017-03-06"/>
+    <cse:Attribute name="last-modified" value="2017-03-06 07:40:38"/>
+    <cse:Attribute name="article:author" value="/author/jack_date"/>
+    <cse:Attribute name="news_keywords" value="Donald Trump, wiretap, FBI, James Comey,"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@ABC"/>
+    <cse:Attribute name="twitter:creator" value="@erindooley"/>
+    <cse:Attribute name="twitter:title" value="FBI director asked DOJ to refute Trump&apos;s wiretapping claims, sources say"/>
+    <cse:Attribute name="twitter:description" value="FBI Director James Comey asked the Justice Department to publicly refute President Trump&apos;s assertion that his predecessor, President Obama, ordered a wiretap of Trump&apos;s phones prior to the November 2016 election, government sources familiar with Comey&apos;s thinking confirm to ABC News. Comey was..."/>
+    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629"/>
+    <cse:Attribute name="twitter:image:width" value="150"/>
+    <cse:Attribute name="twitter:image:height" value="116"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,45927629"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,45927629"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629"/>
+    <cse:Attribute name="twitter:image" value="http://a.abcnews.com/images/Politics/GTY-james-comey-jt-170305_4x3t_240.jpg"/>
+    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,45927629"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
+    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
+    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,45927629"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
+    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
+    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629"/>
+    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
+    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
+    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629"/>
+   </cse:DataObject>
+   <cse:DataObject type="sitenavigationelement">
+    <cse:Attribute name="name" value="U.S."/>
+    <cse:Attribute name="url" value="U.S."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://a.abcnews.com/images/Politics/GTY-james-comey-jt-170305_16x9_992.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMvABw2BOYq1f32S2xzXZqI62NINySoSXB1L-ZDG_96N4_8KqGoC5_1NE"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-novomatic-ipo-idUSKBN16G15O</id>
+  <updated>1970-01-18T05:38:25.942Z</updated>
+  <title type="html">Austria&amp;#39;s Novomatic working with Macquarie on potential IPO: sources</title>
+  <link href="http://www.reuters.com/article/us-novomatic-ipo-idUSKBN16G15O" title="www.reuters.com"/>
+  <summary type="html">... working with Macquarie to prepare an initial public offering that could value the &lt;br&gt;
+company at more than 6 billion euros ($6.3 billion), three &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>p37qflSvh1AJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-novomatic-ipo-idUSKBN16G15O</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="bondsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="bondsNews;marketsNews;rbssConsumerGoodsAndRetailNews;rbssFoodDistribution &amp; Convenience Stores;nonCyclicalConsumerGoodsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Fearing+bread+subsidy+cuts%2C+Egyptians+protest"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsConsumerGoodsAndRetail;innovationNewsFinancialServicesAndRealEstate;innovationNewsTechMediaTelco;euDealsNews;euPrivateEquityNews;innovationAMD;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;dassaultuk;MBenz;ubs;Intel;PFG;huawei;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Austria%27s+Novomatic+working+with+Macquarie+on+potential+IPO%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-bondsNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Egypt;Abdel Aal Darwish;Abdel Fattah al;Sisi;Ahmed Faraj;GAMAL AHMED;EGYPT;PROTESTS/BREAD;Agricultural Markets;International Trade;Inflation;Africa;Debt / Fixed Income Markets;Middle East;Non;Cyclical Consumer Goods and Services (TRBC);International Agencies / Treaty Groups;All Retail;Conflicts / War / Peace;Commodities Markets;Food and Drug Retailing (TRBC);Egypt;Wheat;International Monetary Fund;Subsidies;Government Finances;Government / Politics;Corporate Events;Economic Events;Food Distribution and Convenience Stores (TRBC);Fundamental Rights / Civil Liberties;General News;National Government Debt;Grains;Emerging Market Countries;Civil Unrest"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 07 17:36:06 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="US;NOVOMATIC;IPO;Investment Banking and Investment Services (TRBC);Germany;Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Western Europe;Hotels and Entertainment Services (TRBC);Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Casinos and Gaming (TRBC);Cyclical Consumer Services (TRBC);Deals;Automobiles / Auto Parts (Legacy);Banking Services (TRBC);Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);New Issues;Corporate Events;Economic Events;Euro Zone;Technology (TRBC);Integrated Telecommunications Services (TRBC);Austria;Market Events;Banking and Investment Services (TRBC);Europe;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Thu Mar 09 15:01:25 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-07T17:36:06+0000"/>
-    <cse:Attribute name="sailthru.title" value="Fearing bread subsidy cuts, Egyptians protest"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-09T15:01:25+0000"/>
+    <cse:Attribute name="sailthru.title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Fearing bread subsidy cuts, Egyptians protest"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/egypt-protests-bread-idUSL5N1GK5RF"/>
+    <cse:Attribute name="og:title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-novomatic-ipo-idUSKBN16G15O"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Hundreds of Egyptiansprotested around the country on Tuesday, blocking roads andsurrounding government offices, after a change to the way breadrations are managed raised fears that the government was cuttingfood subsidies by the back door."/>
+    <cse:Attribute name="og:description" value="The private owners of Austrian gaming technology group Novomatic [NVMTC.UL] are working with Macquarie to prepare an initial public offering that could value the company at more than 6 billion euros ($6.3 billion), three sources familiar with the matter said."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-07T17:36:06+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-07T17:36:06+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-09T15:01:25+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-09T15:01:25+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Egypt,Abdel Aal Darwish,Abdel Fattah al,Sisi,Ahmed Faraj,GAMAL AHMED,EGYPT,PROTESTS/BREAD,Agricultural Markets,International Trade,Inflation,Africa,Debt / Fixed Income Markets,Middle East,Non,Cyclical Consumer Goods and Services (TRBC),International Agencies / Treaty Groups,All Retail,Conflicts / War / Peace,Commodities Markets,Food and Drug Retailing (TRBC),Egypt,Wheat,International Monetary Fund,Subsidies,Government Finances,Government / Politics,Corporate Events,Economic Events,Food Distribution and Convenience Stores (TRBC),Fundamental Rights / Civil Liberties,General News,National Government Debt,Grains,Emerging Market Countries,Civil Unrest"/>
+    <cse:Attribute name="og:article:tag" value="US,NOVOMATIC,IPO,Investment Banking and Investment Services (TRBC),Germany,Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Western Europe,Hotels and Entertainment Services (TRBC),Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Casinos and Gaming (TRBC),Cyclical Consumer Services (TRBC),Deals,Automobiles / Auto Parts (Legacy),Banking Services (TRBC),Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),New Issues,Corporate Events,Economic Events,Euro Zone,Technology (TRBC),Integrated Telecommunications Services (TRBC),Austria,Market Events,Banking and Investment Services (TRBC),Europe,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Fearing bread subsidy cuts, Egyptians protest"/>
-    <cse:Attribute name="twitter:description" value="Hundreds of Egyptiansprotested around the country on Tuesday, blocking roads andsurrounding government offices, after a change to the way breadrations are managed raised fears that the government was cuttingfood subsidies by the back door."/>
+    <cse:Attribute name="twitter:title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO: sources"/>
+    <cse:Attribute name="twitter:description" value="The private owners of Austrian gaming technology group Novomatic [NVMTC.UL] are working with Macquarie to prepare an initial public offering that could value the company at more than 6 billion euros ($6.3 billion), three sources familiar with the matter said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/bonds/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Bonds"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -86,114 +158,120 @@ close as early as Tuesday, &lt;b&gt;according to a person with direct knowledge&
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.bloomberg.com/news/articles/2017-03-06/chinese-small-cap-shares-advance-with-power-producers-amid-npc</id>
-  <updated>1970-01-18T05:35:38.733Z</updated>
-  <title type="html">China&amp;#39;s Small-Cap Shares Climb After Li Keqiang&amp;#39;s NPC Address ...</title>
-  <link href="https://www.bloomberg.com/news/articles/2017-03-06/chinese-small-cap-shares-advance-with-power-producers-amid-npc" title="www.bloomberg.com"/>
-  <summary type="html">The aircraft manufacturer is considering selling a stake in its civilian business to &lt;br&gt;
-strategic investors, &lt;b&gt;according to a person with direct knowledge&lt;/b&gt; of the matter.</summary>
-  <cse:cacheId>JgTk0bonkeYJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.bloomberg.com/.../chinese-small-cap-shares-advance-with-power -producers-amid-npc</cse:formattedUrl>
+  <id>http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/</id>
+  <updated>1970-01-18T05:38:25.942Z</updated>
+  <title type="html">Border wall cost: Trump administration to ask for fraction of border ...</title>
+  <link href="http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/" title="www.cnn.com"/>
+  <summary type="html">Separately, two &lt;b&gt;sources familiar with&lt;/b&gt; the administration&amp;#39;s FY2018 budget request &lt;br&gt;
+told CNN the plan is to boost DHS&amp;#39;s total budget by 6%, up to $43.8 billion.</summary>
+  <cse:cacheId>V7QgnyKAd8cJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/.../border-wall-money-supplemental-congress-budget/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1"/>
-    <cse:Attribute name="referrer" value="unsafe-url"/>
-    <cse:Attribute name="og:description" value="Chinese small-cap stocks were the biggest beneficiaries from the ongoing annual legislative meetings in Beijing."/>
-    <cse:Attribute name="og:image" value="https://assets.bwbx.io/s3/javelin/public/images/social-markets-3d32d2f713.jpg"/>
-    <cse:Attribute name="og:site_name" value="Bloomberg.com"/>
-    <cse:Attribute name="og:title" value="China&apos;s Small-Cap Shares Climb After Li Keqiang&apos;s NPC Address"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-03-07T21:04:56Z"/>
+    <cse:Attribute name="pubdate" value="2017-03-07T21:04:56Z"/>
+    <cse:Attribute name="lastmod" value="2017-03-08T01:57:21Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/index.html"/>
+    <cse:Attribute name="author" value="Tal Kopan, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/talkopanreporter"/>
+    <cse:Attribute name="og:title" value="Trump to ask for border wall money — but only a little"/>
+    <cse:Attribute name="twitter:title" value="Trump to ask for border wall money — but only a little"/>
+    <cse:Attribute name="og:description" value="The Trump administration is planning to ask for a relatively small amount of money to start building the President&apos;s long-promised border wall this year -- far short of estimates of what the wall might cost, according to preliminary numbers shared with CNN."/>
+    <cse:Attribute name="twitter:description" value="The Trump administration is planning to ask for a relatively small amount of money to start building the President&apos;s long-promised border wall this year -- far short of estimates of what the wall might cost, according to preliminary numbers shared with CNN."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="https://www.bloomberg.com/news/articles/2017-03-06/chinese-small-cap-shares-advance-with-power-producers-amid-npc"/>
-    <cse:Attribute name="fb:status" value="Chinese small-cap stocks were the biggest beneficiaries from the ongoing annual legislative meetings in Beijing."/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:description" value="Chinese small-cap stocks were the biggest beneficiaries from the ongoing annual legislative meetings in Beijing."/>
-    <cse:Attribute name="twitter:image" value="https://assets.bwbx.io/s3/javelin/public/images/social-markets-3d32d2f713.jpg"/>
-    <cse:Attribute name="twitter:site" value="@markets"/>
-    <cse:Attribute name="twitter:title" value="China&apos;s Small-Cap Shares Climb After Li Keqiang&apos;s NPC Address"/>
-    <cse:Attribute name="parsely-title" value="China&apos;s Small-Cap Shares Climb After Li Keqiang&apos;s NPC Address"/>
-    <cse:Attribute name="parsely-link" value="https://www.bloomberg.com/news/articles/2017-03-06/chinese-small-cap-shares-advance-with-power-producers-amid-npc"/>
-    <cse:Attribute name="parsely-type" value="post"/>
-    <cse:Attribute name="parsely-image-url" value="https://assets.bwbx.io/s3/javelin/public/images/social-markets-3d32d2f713.jpg"/>
-    <cse:Attribute name="parsely-pub-date" value="2017-03-06T02:33:10.090Z"/>
-    <cse:Attribute name="parsely-section" value="markets"/>
-    <cse:Attribute name="parsely-tags" value="China,NPC,Work,Beijing,Stocks,Shanghai,Gree Electric Appliances Inc of Zhuhai,Congress,Economic Growth,Hang Seng Index,Region: Global,Page: article"/>
-    <cse:Attribute name="parsely-post-id" value="OMDCNX6TTDS001"/>
-    <cse:Attribute name="parsely-author" value="Jeanny Yu"/>
-    <cse:Attribute name="apple-mobile-web-app-capable" value="no"/>
-    <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black"/>
-    <cse:Attribute name="sailthru.title" value="China&apos;s Small-Cap Shares Climb After Li Keqiang&apos;s NPC Address"/>
-    <cse:Attribute name="sailthru.author" value="Jeanny Yu"/>
-    <cse:Attribute name="sailthru.tags" value="markets,world,technology"/>
-    <cse:Attribute name="sailthru.description" value="Chinese small-cap stocks were the biggest beneficiaries from the ongoing annual legislative meetings in Beijing."/>
-    <cse:Attribute name="sailthru.date" value="2017-03-06T02:33:10.090Z"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,art-vid"/>
    </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="datepublished" value="2017-03-06T02:33:10.090Z"/>
-    <cse:Attribute name="datemodified" value="2017-03-06T09:23:58.998Z"/>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-03-07T21:04:56Z"/>
+    <cse:Attribute name="datepublished" value="2017-03-07T21:04:56Z"/>
+    <cse:Attribute name="datemodified" value="2017-03-08T01:57:21Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/index.html"/>
+    <cse:Attribute name="author" value="Tal Kopan, CNN"/>
+    <cse:Attribute name="headline" value="Border wall cost: Trump administration to ask for fraction of border wall estimates - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="The Trump administration is planning to ask for a relatively small amount of money to start building the President&apos;s long-promised border wall this year -- far short of estimates of what the..."/>
+    <cse:Attribute name="keywords" value="politics, Border wall cost: Trump administration to ask for fraction of border wall estimates - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Trump to ask for border wall money — but only a little"/>
+    <cse:Attribute name="articlebody" value="Story highlightsEstimates for President Donald Trump&apos;s wall have ranged in the tens of billionsBut the supplemental only sets aside $1 billion for the wallWashington (CNN)The Trump administration..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://assets.bwbx.io/s3/javelin/public/images/social-markets-3d32d2f713.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjxs_wNoC2r2BOyjQ8ID9xs8o4ENzI3WLeEwahG-4aA_oURSUNKNeMzTOQ"/>
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/tanzania-telecoms-idUSL5N1GK5YC</id>
-  <updated>1970-01-18T05:35:38.733Z</updated>
-  <title type="html">Vodacom Tanzania says IPO to start on March 9 | Reuters</title>
-  <link href="http://www.reuters.com/article/tanzania-telecoms-idUSL5N1GK5YC" title="www.reuters.com"/>
-  <summary type="html">... dollar-denominated bond maturing in April 2026, whose sale is expected to &lt;br&gt;
-close as early as Tuesday, &lt;b&gt;according to a person with direct knowledge&lt;/b&gt; of the&amp;nbsp;...</summary>
-  <cse:cacheId>M3LRFOHjiKMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/tanzania-telecoms-idUSL5N1GK5YC</cse:formattedUrl>
+  <id>http://www.reuters.com/article/wells-fargo-accounts-investigations-idUSL1N1G027Q</id>
+  <updated>1970-01-18T05:38:25.942Z</updated>
+  <title type="html">U.S. Justice Department targets executives in Wells Fargo probe ...</title>
+  <link href="http://www.reuters.com/article/wells-fargo-accounts-investigations-idUSL1N1G027Q" title="www.reuters.com"/>
+  <summary type="html">... at Wells Fargo &amp;amp; Co is asking whether executives hid details from the company &lt;br&gt;
+board and regulators as the problem grew over years, &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>vJJ9uo7CXtMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../wells-fargo-accounts-investigations-idUSL1N1G027Q</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="rbssFinancialServicesAndRealEstateNews;rbssTechMediaTelecomNews;rbssInvestmentServices;rbssIntegratedTelecommunicationsServices;rbssWirelessTelecommunicationServices;technology-media-telco-SP;vbcSmallBusiness;everything;India;Deals;AllianzRetirement;AllianzInvestments;Allianz;verizonmm;audib2b;cfaglobal;aa48hours;shipping;nonegative;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Vodacom+Tanzania+says+IPO+to+start+on+March+9"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;governmentFilingsNews;marketsNews;rbssFinancialServicesAndRealEstateNews;rbssInvestmentServices;regulatoryNewsFinancialServicesAndRealEstate;americasRegulatoryNews;Retirement;everything;Deals;forexNewsCopy;AllianzRetirement;AllianzInvestments;Allianz;verizonmm;audib2b;credit-rss;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="U.S.+Justice+Department+targets+executives+in+Wells+Fargo+probe+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="India;South Africa;Tanzania;George Sawe;TANZANIA;TELECOMS/;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Tanzania;Western Europe;Initial Public Offerings;Equity Financing;Africa;Sweden;Government Borrowing Requirement;Equities Markets;Nordic States;United Kingdom;Banking Services (TRBC);Banks (TRBC);Company News;South Africa;Financials (TRBC);Financials (Legacy);New Issues;Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Corporate Events;Economic Events;Euro Zone;Integrated Telecommunications Services (TRBC);Market Events;Banking and Investment Services (TRBC);Europe;Regulation;Technology / Media / Telecoms;Emerging Market Countries;Banking Services (Legacy);Netherlands"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 07 17:25:14 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="United States;Carrie L. Tolstedt;Jeb Hensarling;Jennifer Dunn;John G. Stumpf;WELLS FARGO;ACCOUNTS/INVESTIGATIONS;Crime / Law / Justice;Investment Banking and Investment Services (TRBC);Lawmaking;Judicial Process / Court Cases / Court Decisions;Arts / Culture / Entertainment;Crime;Major News;Accounting Issues;United States;Banking Services (TRBC);Wealth Management;Americas;Banks (TRBC);Company News;Financials (TRBC);Financials (Legacy);Government / Politics;Corporate Events;General News;Corporate Governance;Banking and Investment Services (TRBC);US Government News;Regulation;Banking Services (Legacy);Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Fri Mar 03 21:36:37 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-07T17:25:14+0000"/>
-    <cse:Attribute name="sailthru.title" value="Vodacom Tanzania says IPO to start on March 9"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-03T21:36:37+0000"/>
+    <cse:Attribute name="sailthru.title" value="U.S. Justice Department targets executives in Wells Fargo probe -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Vodacom Tanzania says IPO to start on March 9"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/tanzania-telecoms-idUSL5N1GK5YC"/>
+    <cse:Attribute name="og:title" value="U.S. Justice Department targets executives in Wells Fargo probe -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/wells-fargo-accounts-investigations-idUSL1N1G027Q"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The Tanzanian unit oftelecoms firm Vodacom will start a more than month-longinitial public offering (IPO) on March 9 and expects its sharesto start trading in mid-May, the firm said on Tuesday."/>
+    <cse:Attribute name="og:description" value="A U.S. Justice Departmentprobe into a phony accounts scandal at Wells Fargo &amp; Cois asking whether executives hid details from the company boardand regulators as the problem grew over years, sources familiarwith the review said."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-07T17:25:14+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-07T17:25:14+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-03T21:36:37+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-03T21:36:37+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="India,South Africa,Tanzania,George Sawe,TANZANIA,TELECOMS/,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Tanzania,Western Europe,Initial Public Offerings,Equity Financing,Africa,Sweden,Government Borrowing Requirement,Equities Markets,Nordic States,United Kingdom,Banking Services (TRBC),Banks (TRBC),Company News,South Africa,Financials (TRBC),Financials (Legacy),New Issues,Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Corporate Events,Economic Events,Euro Zone,Integrated Telecommunications Services (TRBC),Market Events,Banking and Investment Services (TRBC),Europe,Regulation,Technology / Media / Telecoms,Emerging Market Countries,Banking Services (Legacy),Netherlands"/>
+    <cse:Attribute name="og:article:tag" value="United States,Carrie L. Tolstedt,Jeb Hensarling,Jennifer Dunn,John G. Stumpf,WELLS FARGO,ACCOUNTS/INVESTIGATIONS,Crime / Law / Justice,Investment Banking and Investment Services (TRBC),Lawmaking,Judicial Process / Court Cases / Court Decisions,Arts / Culture / Entertainment,Crime,Major News,Accounting Issues,United States,Banking Services (TRBC),Wealth Management,Americas,Banks (TRBC),Company News,Financials (TRBC),Financials (Legacy),Government / Politics,Corporate Events,General News,Corporate Governance,Banking and Investment Services (TRBC),US Government News,Regulation,Banking Services (Legacy),Investment Management and Fund Operators (TRBC)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Vodacom Tanzania says IPO to start on March 9"/>
-    <cse:Attribute name="twitter:description" value="The Tanzanian unit oftelecoms firm Vodacom will start a more than month-longinitial public offering (IPO) on March 9 and expects its sharesto start trading in mid-May, the firm said on Tuesday."/>
+    <cse:Attribute name="twitter:title" value="U.S. Justice Department targets executives in Wells Fargo probe -sources"/>
+    <cse:Attribute name="twitter:description" value="A U.S. Justice Departmentprobe into a phony accounts scandal at Wells Fargo &amp; Cois asking whether executives hid details from the company boardand regulators as the problem grew over years, sources familiarwith the review said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -206,58 +284,59 @@ close as early as Tuesday, &lt;b&gt;according to a person with direct knowledge&
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/emerging-markets-latam-idUSL2N1641MS</id>
-  <updated>1970-01-18T05:35:38.733Z</updated>
-  <title type="html">EMERGING MARKETS-Brazil rate futures yields up slightly despite ...</title>
-  <link href="https://www.reuters.com/article/emerging-markets-latam-idUSL2N1641MS" title="www.reuters.com"/>
-  <summary type="html">... dollar-denominated bond maturing in April 2026, whose sale is expected to &lt;br&gt;
-close as early as Tuesday, &lt;b&gt;according to a person with direct knowledge&lt;/b&gt; of the&amp;nbsp;...</summary>
-  <cse:cacheId>AjLZkhGFd4oJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../emerging-markets-latam-idUSL2N1641MS</cse:formattedUrl>
+  <id>http://www.reuters.com/article/credit-agricole-saudi-idUSL5N1GL1GQ</id>
+  <updated>1970-01-18T05:38:25.942Z</updated>
+  <title type="html">Credit Agricole picks JPMorgan for Banque Saudi Fransi sale -sources</title>
+  <link href="http://www.reuters.com/article/credit-agricole-saudi-idUSL5N1GL1GQ" title="www.reuters.com"/>
+  <summary type="html">... has picked JPMorgan to help in a potentialsale of its 31 percent stake in &lt;br&gt;
+Banque Saudi Fransi,valued at nearly $2.4 billion, &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+dealsaid.</summary>
+  <cse:cacheId>TwroC9173l8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/credit-agricole-saudi-idUSL5N1GL1GQ</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="bondsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;usDollarRpt;bondsNews;marketsNews"/>
-    <cse:Attribute name="dcsext.contentheadline" value="EMERGING+MARKETS-Brazil+rate+futures+yields+up+slightly+despite+weak+GDP"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;bondsNews;marketsNews;fundsFundsNews;rbssFinancialServicesAndRealEstateNews;etfNews;privateEquity;rbssInvestmentServices;mnaNewsFinancialServicesAndRealEstate;privateEquityFinancialServicesAndRealEstate;americasMergersNews;asiaMergersNews;euMergersNews;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Credit+Agricole+picks+JPMorgan+for+Banque+Saudi+Fransi+sale+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-bondsNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Argentina;Brazil;Chile;Colombia;Mexico;Peru;Bovespa;MerVal;EMERGING;MARKETS/LATAM (TABLE);Derivatives;Currencies / Foreign Exchange Markets;Brazil;High;Yield Securities;Equities Markets;Debt / Fixed Income Markets;Indices Changes;Americas;Non;Deliverable Forwards;South America / Central America;Chile;Mexico;Colombia;Corporate Events;Economic Events;Venezuela;Argentina;National Government Debt;Market Events;Peru;Emerging Market Countries;Service Alerts"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 07 17:37:50 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="CREDIT AGRICOLE;SAUDI (URGENT);Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Western Europe;Privatisations;Equity Financing;Equity Investments;France;Credit and Corporate Debt;Saudi Arabia;Corporate Debt;Divestitures / Spin;Offs;Asia / Pacific;Government Borrowing Requirement;Debt / Fixed Income Markets;Middle East;Deals;United Kingdom;United States;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Insurance (TRBC);Financials (TRBC);Financials (Legacy);New Issues;Corporate Events;Economic Events;Euro Zone;Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Europe;Emerging Market Countries;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Wed Mar 08 08:53:06 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-07T17:37:50+0000"/>
-    <cse:Attribute name="sailthru.title" value="EMERGING MARKETS-Brazil rate futures yields up slightly despite weak GDP"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-08T08:53:06+0000"/>
+    <cse:Attribute name="sailthru.title" value="Credit Agricole picks JPMorgan for Banque Saudi Fransi sale -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="EMERGING MARKETS-Brazil rate futures yields up slightly despite weak GDP"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/emerging-markets-latam-idUSL2N1641MS"/>
+    <cse:Attribute name="og:title" value="Credit Agricole picks JPMorgan for Banque Saudi Fransi sale -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/credit-agricole-saudi-idUSL5N1GL1GQ"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Yields paid on Brazilianinterest rate futures rose slightly on Tuesday despiteworse-than-expected fourth-quarter economic data, as traders betthe central bank will be more focused on upcoming economicreports in deciding the pace of interest rate cuts.    Brazil&apos;s gross domestic product contracted by 3.6 percent in2016, statistics agency IBGE said, following a 3.8 percent dropin 2015. The nation&apos;s two-year downturn is the worst on recordfor Latin America&apos;s biggest economy.    Still, rate future prices indicated investors weresplit over the size of a likely rate cut in April. Marketspriced a 56 percent probability of a 100 basis-point reductionand a 44 percent chance of a 75 basis-point cut, traders said.    The central bank cut the benchmark Selic overnight lendingrate by 75 basis points last month to 12.25 percent. Since then,it has repeatedly stressed that the pace of loosening willdepend on the economic performance as well as inflationexpectations.    The Brazilian real seesawed, tracking muted movesamong o"/>
+    <cse:Attribute name="og:description" value="French bank Credit Agricole has picked JPMorgan to help in a potentialsale of its 31 percent stake in Banque Saudi Fransi,valued at nearly $2.4 billion, sources familiar with the dealsaid.    The sale would be an opportunity for a foreign buyer to gaina foothold in the kingdom&apos;s banking sector, in which 12commercial lenders share total assets worth around 2.22 trillionriyals ($592 billion)."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-07T17:37:50+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-07T17:37:50+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-08T08:53:06+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-08T08:53:06+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Argentina,Brazil,Chile,Colombia,Mexico,Peru,Bovespa,MerVal,EMERGING,MARKETS/LATAM (TABLE),Derivatives,Currencies / Foreign Exchange Markets,Brazil,High,Yield Securities,Equities Markets,Debt / Fixed Income Markets,Indices Changes,Americas,Non,Deliverable Forwards,South America / Central America,Chile,Mexico,Colombia,Corporate Events,Economic Events,Venezuela,Argentina,National Government Debt,Market Events,Peru,Emerging Market Countries,Service Alerts"/>
+    <cse:Attribute name="og:article:tag" value="CREDIT AGRICOLE,SAUDI (URGENT),Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Western Europe,Privatisations,Equity Financing,Equity Investments,France,Credit and Corporate Debt,Saudi Arabia,Corporate Debt,Divestitures / Spin,Offs,Asia / Pacific,Government Borrowing Requirement,Debt / Fixed Income Markets,Middle East,Deals,United Kingdom,United States,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Insurance (TRBC),Financials (TRBC),Financials (Legacy),New Issues,Corporate Events,Economic Events,Euro Zone,Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Europe,Emerging Market Countries,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="EMERGING MARKETS-Brazil rate futures yields up slightly despite weak GDP"/>
-    <cse:Attribute name="twitter:description" value="Yields paid on Brazilianinterest rate futures rose slightly on Tuesday despiteworse-than-expected fourth-quarter economic data, as traders betthe central bank will be more focused on upcoming economicreports in deciding the pace of interest rate cuts.    Brazil&apos;s gross domestic product contracted by 3.6 percent in2016, statistics agency IBGE said, following a 3.8 percent dropin 2015. The nation&apos;s two-year downturn is the worst on recordfor Latin America&apos;s biggest economy.    Still, rate future prices indicated investors weresplit over the size of a likely rate cut in April. Marketspriced a 56 percent probability of a 100 basis-point reductionand a 44 percent chance of a 75 basis-point cut, traders said.    The central bank cut the benchmark Selic overnight lendingrate by 75 basis points last month to 12.25 percent. Since then,it has repeatedly stressed that the pace of loosening willdepend on the economic performance as well as inflationexpectations.    The Brazilian real seesawed, tracking muted movesamong o"/>
+    <cse:Attribute name="twitter:title" value="Credit Agricole picks JPMorgan for Banque Saudi Fransi sale -sources"/>
+    <cse:Attribute name="twitter:description" value="French bank Credit Agricole has picked JPMorgan to help in a potentialsale of its 31 percent stake in Banque Saudi Fransi,valued at nearly $2.4 billion, sources familiar with the dealsaid.    The sale would be an opportunity for a foreign buyer to gaina foothold in the kingdom&apos;s banking sector, in which 12commercial lenders share total assets worth around 2.22 trillionriyals ($592 billion)."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/bonds/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Bonds"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -270,228 +349,41 @@ close as early as Tuesday, &lt;b&gt;according to a person with direct knowledge&
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/italy-bonds-idUSL5N1GK2M6</id>
-  <updated>1970-01-18T05:35:38.733Z</updated>
-  <title type="html">Italy linker books above €4bn, guidance at 13bp area | Reuters</title>
-  <link href="http://www.reuters.com/article/italy-bonds-idUSL5N1GK2M6" title="www.reuters.com"/>
-  <summary type="html">... dollar-denominated bond maturing in April 2026, whose sale is expected to &lt;br&gt;
-close as early as Tuesday, &lt;b&gt;according to a person with direct knowledge&lt;/b&gt; of the&amp;nbsp;...</summary>
-  <cse:cacheId>WKx4s1ndj5YJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/italy-bonds-idUSL5N1GK2M6</cse:formattedUrl>
+  <id>http://www.businessinsider.com/r-deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources-2017-3</id>
+  <updated>1970-01-18T05:38:25.942Z</updated>
+  <title type="html">Deutsche Bank board to meet Sunday to discuss capital hike: sources</title>
+  <link href="http://www.businessinsider.com/r-deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources-2017-3" title="www.businessinsider.com"/>
+  <summary type="html">... meet on Sunday to discuss plans for a potential capital increase of around 8 &lt;br&gt;
+billion euros ($8.5 billion), two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Saturday.</summary>
+  <cse:cacheId>xPVN_8C7YIUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-deutsche-bank-board-to-meet-sunday-to-discuss- capital-hike-sources-2017-3</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="audib2b;CathayPacific_US;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Italy+linker+books+above+%E2%82%AC4bn%2C+guidance+at+13bp+area"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Italy;ITALY;BONDS/ (URGENT);Western Europe;Terms / Conditions;Credit and Corporate Debt;Corporate Debt;Eurobonds;Debt / Fixed Income Markets;International Agencies / Treaty Groups;Banking Services (TRBC);Banks (TRBC);Company News;European Central Bank;Investment Grade Securities;Financials (TRBC);Financials (Legacy);New Issues;Italy;Government / Politics;Central Banks / Central Bank Events;Corporate Events;Economic Events;Euro Zone;European Union;General News;National Government Debt;Market Events;Banking and Investment Services (TRBC);Europe;Sovereign Debt Auctions;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 07 10:29:36 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-07T10:29:36+0000"/>
-    <cse:Attribute name="sailthru.title" value="Italy linker books above €4bn, guidance at 13bp area"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Italy linker books above €4bn, guidance at 13bp area"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/italy-bonds-idUSL5N1GK2M6"/>
+    <cse:Attribute name="date" value="2017-03-04"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-04"/>
+    <cse:Attribute name="news_keywords" value="Reuters"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters"/>
+    <cse:Attribute name="sailthru.description" value="FRANKFURT (Reuters) - Deutsche Bank&apos;s ..."/>
+    <cse:Attribute name="title" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business,clusterstock"/>
+    <cse:Attribute name="sailthru.title" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
+    <cse:Attribute name="tbi-image" value="http://static1.businessinsider.com/image/58a344ae5124c90a1d1deafa/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static1.businessinsider.com/image/58a344ae5124c90a1d1deafa/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static3.businessinsider.com/image/58a344ae5124c90a1d1deafa-50-50/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
+    <cse:Attribute name="og:title" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
+    <cse:Attribute name="og:description" value="FRANKFURT (Reuters) - Deutsche Bank&apos;s ..."/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="By Helene DurandLONDON, March 7 (IFR) - Order books for the Republic ofItaly&apos;s May 2028 eurozone inflation-linked bond are above €4bn,according to"/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-07T10:29:36+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-07T10:29:36+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Italy,ITALY,BONDS/ (URGENT),Western Europe,Terms / Conditions,Credit and Corporate Debt,Corporate Debt,Eurobonds,Debt / Fixed Income Markets,International Agencies / Treaty Groups,Banking Services (TRBC),Banks (TRBC),Company News,European Central Bank,Investment Grade Securities,Financials (TRBC),Financials (Legacy),New Issues,Italy,Government / Politics,Central Banks / Central Bank Events,Corporate Events,Economic Events,Euro Zone,European Union,General News,National Government Debt,Market Events,Banking and Investment Services (TRBC),Europe,Sovereign Debt Auctions,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Italy linker books above €4bn, guidance at 13bp area"/>
-    <cse:Attribute name="twitter:description" value="By Helene DurandLONDON, March 7 (IFR) - Order books for the Republic ofItaly&apos;s May 2028 eurozone inflation-linked bond are above €4bn,according to"/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/dbs-ceo-outlook-idUSS7N18L02B</id>
-  <updated>1970-01-18T05:35:38.733Z</updated>
-  <title type="html">NEWSMAKER-DBS CEO says pain from oil &amp;amp; gas downturn taken in ...</title>
-  <link href="http://www.reuters.com/article/dbs-ceo-outlook-idUSS7N18L02B" title="www.reuters.com"/>
-  <summary type="html">... dollar-denominated bond maturing in April 2026, whose sale is expected to &lt;br&gt;
-close as early as Tuesday, &lt;b&gt;according to a person with direct knowledge&lt;/b&gt; of the&amp;nbsp;...</summary>
-  <cse:cacheId>OPl7hLbQe9QJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/dbs-ceo-outlook-idUSS7N18L02B</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="rbssFinancialServicesAndRealEstateNews;rbssInvestmentServices;MOC_US_2015-16;MOC_US_2017;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="NEWSMAKER-DBS+CEO+says+pain+from+oil+%26+gas+downturn+taken+in+2016"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Singapore;Piyush Gupta;DBS;CEO/OUTLOOK (URGENT);Investment Banking and Investment Services (TRBC);Performance / Results / Earnings;Arts / Culture / Entertainment;Personalities / People;Asia / Pacific;Singapore;Major News;Results Forecasts / Warnings;Banking Services (TRBC);Wealth Management;Banks (TRBC);Company News;India;Financials (TRBC);Financials (Legacy);Corporate Events;Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);ASEAN Countries;Emerging Market Countries;Banking Services (Legacy);Industrial Machinery / Equipment (Legacy);Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Thu Mar 02 03:42:23 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-02T03:42:23+0000"/>
-    <cse:Attribute name="sailthru.title" value="NEWSMAKER-DBS CEO says pain from oil &amp; gas downturn taken in 2016"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="NEWSMAKER-DBS CEO says pain from oil &amp; gas downturn taken in 2016"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/dbs-ceo-outlook-idUSS7N18L02B"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The worst of the pain fromthe oil and gas downturn was felt by Singapore banks and otherlenders in the region in 2016, DBS Group Holdings LtdChief Executive Piyush Gupta told a Reuters Newsmaker onThursday, forecasting an improved 2017."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-02T03:42:23+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-02T03:42:23+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Singapore,Piyush Gupta,DBS,CEO/OUTLOOK (URGENT),Investment Banking and Investment Services (TRBC),Performance / Results / Earnings,Arts / Culture / Entertainment,Personalities / People,Asia / Pacific,Singapore,Major News,Results Forecasts / Warnings,Banking Services (TRBC),Wealth Management,Banks (TRBC),Company News,India,Financials (TRBC),Financials (Legacy),Corporate Events,Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),ASEAN Countries,Emerging Market Countries,Banking Services (Legacy),Industrial Machinery / Equipment (Legacy),Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="NEWSMAKER-DBS CEO says pain from oil &amp; gas downturn taken in 2016"/>
-    <cse:Attribute name="twitter:description" value="The worst of the pain fromthe oil and gas downturn was felt by Singapore banks and otherlenders in the region in 2016, DBS Group Holdings LtdChief Executive Piyush Gupta told a Reuters Newsmaker onThursday, forecasting an improved 2017."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/usa-auction-bills-idUSL2N1GK18X</id>
-  <updated>1970-01-18T05:35:38.733Z</updated>
-  <title type="html">U.S. 1-month bills sold to solid demand | Reuters</title>
-  <link href="https://www.reuters.com/article/usa-auction-bills-idUSL2N1GK18X" title="www.reuters.com"/>
-  <summary type="html">... dollar-denominated bond maturing in April 2026, whose sale is expected to &lt;br&gt;
-close as early as Tuesday, &lt;b&gt;according to a person with direct knowledge&lt;/b&gt; of the&amp;nbsp;...</summary>
-  <cse:cacheId>Rrz2aX8Qa9YJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/usa-auction-bills-idUSL2N1GK18X</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="bondsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="bondsNews;marketsNews;ABG_2016"/>
-    <cse:Attribute name="dcsext.contentheadline" value="U.S.+1-month+bills+sold+to+solid+demand"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-bondsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United States;USA;AUCTION/BILLS;Americas;Terms / Conditions;New Issues;Corporate Events;Economic Events;National Government Debt;Market Events;Money Markets;Government Borrowing Requirement;Debt / Fixed Income Markets;United States"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 07 17:17:38 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-07T17:17:38+0000"/>
-    <cse:Attribute name="sailthru.title" value="U.S. 1-month bills sold to solid demand"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="U.S. 1-month bills sold to solid demand"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-auction-bills-idUSL2N1GK18X"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The U.S. Treasury Departmenton Tuesday sold $15 billion of one-month bills to solid demandas it has reduced the supply of this short-dated debt maturityin advance of a possible reinstatement of the federal debtceiling on March 15."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-07T17:17:38+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-07T17:17:38+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United States,USA,AUCTION/BILLS,Americas,Terms / Conditions,New Issues,Corporate Events,Economic Events,National Government Debt,Market Events,Money Markets,Government Borrowing Requirement,Debt / Fixed Income Markets,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="U.S. 1-month bills sold to solid demand"/>
-    <cse:Attribute name="twitter:description" value="The U.S. Treasury Departmenton Tuesday sold $15 billion of one-month bills to solid demandas it has reduced the supply of this short-dated debt maturityin advance of a possible reinstatement of the federal debtceiling on March 15."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/bonds/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Bonds"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-update-2-brazil-gets-24-billion-in-bids-for-bond-reopen--source-2017-3</id>
-  <updated>1970-01-18T05:35:38.733Z</updated>
-  <title type="html">UPDATE 2-Brazil gets $2.4 billion in bids for bond reopen -source ...</title>
-  <link href="http://www.businessinsider.com/r-update-2-brazil-gets-24-billion-in-bids-for-bond-reopen--source-2017-3" title="www.businessinsider.com"/>
-  <summary type="html">... bond maturing in April 2026, whose sale is expected to close as early as &lt;br&gt;
-Tuesday, &lt;b&gt;according to a person with direct knowledge&lt;/b&gt; of the transaction.</summary>
-  <cse:cacheId>ecwjeBAgnPgJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-update-2-brazil-gets-24-billion-in-bids-for-bond- reopen--source-2017-3</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-03-07"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-07"/>
-    <cse:Attribute name="news_keywords" value="Reuters Company News, BRAZIL-BONDS/ (UPDATE 2)"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters Company News, BRAZIL-BONDS/ (UPDATE 2)"/>
-    <cse:Attribute name="sailthru.description" value="(Adds details on process, background..."/>
-    <cse:Attribute name="title" value="UPDATE 2-Brazil gets $2.4 billion in bids for bond reopen -source"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Company News"/>
-    <cse:Attribute name="sailthru.title" value="UPDATE 2-Brazil gets $2.4 billion in bids for bond reopen -source"/>
-    <cse:Attribute name="og:title" value="UPDATE 2-Brazil gets $2.4 billion in bids for bond reopen -source"/>
-    <cse:Attribute name="og:description" value="(Adds details on process, background..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-update-2-brazil-gets-24-billion-in-bids-for-bond-reopen--source-2017-3"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources-2017-3"/>
     <cse:Attribute name="og:site_name" value="Business Insider"/>
     <cse:Attribute name="fb:app_id" value="155043519637"/>
     <cse:Attribute name="article:publisher" value="businessinsider"/>
     <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-update-2-brazil-gets-24-billion-in-bids-for-bond-reopen--source-2017-3"/>
-    <cse:Attribute name="twitter:title" value="UPDATE 2-Brazil gets $2.4 billion in bids for bond reopen -source"/>
-    <cse:Attribute name="twitter:description" value="(Adds details on process, background..."/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources-2017-3"/>
+    <cse:Attribute name="twitter:title" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
+    <cse:Attribute name="twitter:description" value="FRANKFURT (Reuters) - Deutsche Bank&apos;s ..."/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://static2.businessinsider.com/image/58a344ae5124c90a1d1deafa-506-253/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
+    <cse:Attribute name="og:image" value="http://static5.businessinsider.com/image/58a344ae5124c90a1d1deafa-1190-625/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
     <cse:Attribute name="fb:pages" value="20446254070"/>
     <cse:Attribute name="tbi-vertical" value="reuters"/>
     <cse:Attribute name="viewport" value="width=1024"/>
@@ -503,74 +395,74 @@ Tuesday, &lt;b&gt;according to a person with direct knowledge&lt;/b&gt; of the t
     <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
    </cse:DataObject>
    <cse:DataObject type="article">
-    <cse:Attribute name="name" value="UPDATE 2-Brazil gets $2.4 billion in bids for bond reopen -source"/>
-    <cse:Attribute name="url" value="UPDATE 2-Brazil gets $2.4 billion in bids for bond reopen -source"/>
-    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
-    <cse:Attribute name="description" value="(Adds details on process, background..."/>
+    <cse:Attribute name="name" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
+    <cse:Attribute name="url" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
+    <cse:Attribute name="image" value="http://static2.businessinsider.com/image/58a344ae5124c90a1d1deafa-506-253/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
+    <cse:Attribute name="description" value="FRANKFURT (Reuters) - Deutsche Bank&apos;s ..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static3.businessinsider.com/image/58b5965f01fe581d008b6e48-400/here-are-the-latest-plans-for-googles-crazy-new-campus.jpg"/>
+    <cse:Attribute name="src" value="http://static5.businessinsider.com/image/58a344ae5124c90a1d1deafa-1190-625/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV6CqLrpDs4-0GutXOItSypYwx1xP5HnwWORU_ZFpWtcZbnanAeTglayyP"/>
+    <cse:Attribute name="width" value="279"/>
+    <cse:Attribute name="height" value="181"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGYb4z2hDvukLjzcTVdbKwJr3z0kodNkUauFgVAj-irTY5oj4rG-3EOcK"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/exelon-exgen-restructuring-idUSL2N1GJ0SV</id>
-  <updated>1970-01-18T05:35:38.733Z</updated>
-  <title type="html">Exelon taps restructuring advisor for power subsidiary - sources ...</title>
-  <link href="https://www.reuters.com/article/exelon-exgen-restructuring-idUSL2N1GJ0SV" title="www.reuters.com"/>
-  <summary type="html">U.S. utility holding company Exelon Corp has hired a debt restructuring adviser to &lt;br&gt;
-help itevaluate options for its merchant power plant subsidiary ExGenTexas&amp;nbsp;...</summary>
-  <cse:cacheId>iwjbtUcZrRgJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../exelon-exgen-restructuring-idUSL2N1GJ0SV</cse:formattedUrl>
+  <id>http://www.reuters.com/article/novomatic-ipo-idUSL5N1GL644</id>
+  <updated>1970-01-18T05:38:25.942Z</updated>
+  <title type="html">Austria&amp;#39;s Novomatic explores potential stock market listing -sources ...</title>
+  <link href="http://www.reuters.com/article/novomatic-ipo-idUSL5N1GL644" title="www.reuters.com"/>
+  <summary type="html">... are exploring an initial public offering that could value the company at more &lt;br&gt;
+than 6 billion euros ($6.3 billion), three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>p7mZryDYm9IJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/novomatic-ipo-idUSL5N1GL644</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="bondsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;bondsNews;marketsNews;everything;forexNewsCopy;ShellEnergy;AllianzInvestments;Allianz;verizonmm;audib2b;credit-rss;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;ubs;Intel;PFG;globalEnergyVbc;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exelon+taps+restructuring+advisor+for+power+subsidiary+-+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="privateEquity"/>
+    <cse:Attribute name="dcsext.channellist" value="rbssConsumerGoodsAndRetailNews;rbssFinancialServicesAndRealEstateNews;rbssTechMediaTelecomNews;privateEquity;rbssCasinosGaming;rbssBanks;rbssInvestmentServices;technology-media-telco-SP;privateEquityConsumerGoodsAndRetail;privateEquityFinancialServicesAndRealEstate;innovationAMD;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;verizonmm;audib2b;cfaglobal;aa48hours;PorscheCayenne;MBenz;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;cyclicalConsumerGoodsSector;financialsSector;technologySector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Austria%27s+Novomatic+explores+potential+stock+market+listing+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-bondsNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-privateEquity"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United States;EXELON;EXGEN/RESTRUCTURING;Investment Banking and Investment Services (TRBC);Energy Markets;Energy (Legacy);Credit and Corporate Debt;Corporate Debt;Divestitures / Spin;Offs;Restructuring / Reorganization;Debt / Fixed Income Markets;Deals;Natural Gas Utilities (TRBC);United States;Commodities Markets;Americas;Corporate Debt Renegotiation;Company News;Utilities (TRBC);Financials (TRBC);Financials (Legacy);Power Markets;Corporate Events;Gas;fired Power Stations;Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Electric Utilities (TRBC);Natural Gas"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 07 17:21:57 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Germany;Johann Graf;NOVOMATIC;IPO/ (URGENT);Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Western Europe;Hotels and Entertainment Services (TRBC);Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Casinos and Gaming (TRBC);Cyclical Consumer Services (TRBC);Deals;Automobiles / Auto Parts (Legacy);Banking Services (TRBC);Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);New Issues;Corporate Events;Economic Events;Euro Zone;Technology (TRBC);Austria;Market Events;Banking and Investment Services (TRBC);Europe;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Wed Mar 08 19:29:07 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-07T17:21:57+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exelon taps restructuring advisor for power subsidiary - sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-08T19:29:07+0000"/>
+    <cse:Attribute name="sailthru.title" value="Austria&apos;s Novomatic explores potential stock market listing -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exelon taps restructuring advisor for power subsidiary - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/exelon-exgen-restructuring-idUSL2N1GJ0SV"/>
+    <cse:Attribute name="og:title" value="Austria&apos;s Novomatic explores potential stock market listing -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/novomatic-ipo-idUSL5N1GL644"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="U.S. utility holding company Exelon Corp has hired a debt restructuring adviser to help itevaluate options for its merchant power plant subsidiary ExGenTexas Power LLC, people familiar with the matter said onTuesday."/>
+    <cse:Attribute name="og:description" value="The private owners ofAustrian gaming technology group Novomatic areexploring an initial public offering that could value thecompany at more than 6 billion euros ($6.3 billion), threesources familiar with the matter said."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-07T17:21:57+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-07T17:21:57+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-08T19:29:07+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-08T19:29:07+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United States,EXELON,EXGEN/RESTRUCTURING,Investment Banking and Investment Services (TRBC),Energy Markets,Energy (Legacy),Credit and Corporate Debt,Corporate Debt,Divestitures / Spin,Offs,Restructuring / Reorganization,Debt / Fixed Income Markets,Deals,Natural Gas Utilities (TRBC),United States,Commodities Markets,Americas,Corporate Debt Renegotiation,Company News,Utilities (TRBC),Financials (TRBC),Financials (Legacy),Power Markets,Corporate Events,Gas,fired Power Stations,Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Electric Utilities (TRBC),Natural Gas"/>
+    <cse:Attribute name="og:article:tag" value="Germany,Johann Graf,NOVOMATIC,IPO/ (URGENT),Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Western Europe,Hotels and Entertainment Services (TRBC),Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Casinos and Gaming (TRBC),Cyclical Consumer Services (TRBC),Deals,Automobiles / Auto Parts (Legacy),Banking Services (TRBC),Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),New Issues,Corporate Events,Economic Events,Euro Zone,Technology (TRBC),Austria,Market Events,Banking and Investment Services (TRBC),Europe,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Exelon taps restructuring advisor for power subsidiary - sources"/>
-    <cse:Attribute name="twitter:description" value="U.S. utility holding company Exelon Corp has hired a debt restructuring adviser to help itevaluate options for its merchant power plant subsidiary ExGenTexas Power LLC, people familiar with the matter said onTuesday."/>
+    <cse:Attribute name="twitter:title" value="Austria&apos;s Novomatic explores potential stock market listing -sources"/>
+    <cse:Attribute name="twitter:description" value="The private owners ofAustrian gaming technology group Novomatic areexploring an initial public offering that could value thecompany at more than 6 billion euros ($6.3 billion), threesources familiar with the matter said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/bonds/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Bonds"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/privatecapital/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -583,58 +475,167 @@ help itevaluate options for its merchant power plant subsidiary ExGenTexas&amp;n
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/europe-stocks-idUSL5N1GK5SQ</id>
-  <updated>1970-01-18T05:35:38.733Z</updated>
-  <title type="html">European shares slip as Trump tweet hits drugmakers | Reuters</title>
-  <link href="https://www.reuters.com/article/europe-stocks-idUSL5N1GK5SQ" title="www.reuters.com"/>
-  <summary type="html">STOXX drops 0.3 pct, down for fourth straight day* Trump tweet hits drugmakers* &lt;br&gt;
-M&amp;amp;A chatter lifts Italy tower firms* Aggreko plunge.</summary>
-  <cse:cacheId>_utKl07DOvIJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/europe-stocks-idUSL5N1GK5SQ</cse:formattedUrl>
+  <id>http://www.reuters.com/journalists/patrick-rucker</id>
+  <updated>1970-01-18T05:38:25.942Z</updated>
+  <title type="html">Patrick Rucker</title>
+  <link href="http://www.reuters.com/journalists/patrick-rucker" title="www.reuters.com"/>
+  <summary type="html">... Co is asking whether executives hid details from the company board and &lt;br&gt;
+regulators as the problem grew over years, &lt;b&gt;sources familiar with&lt;/b&gt; the review said.</summary>
+  <cse:cacheId>k9fEmlcVkXAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/patrick-rucker</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;eurMktRpt;londonMktRpt;swissMktRpt;marketsNews;rbssConsumerGoodsAndRetailNews;rbssFinancialServicesAndRealEstateNews;rbssIndustryMaterialsUtilitiesNews;rbssTechMediaTelecomNews;rbssCasinosGaming;rbssFoodDistribution &amp; Convenience Stores;rbssInvestmentServices;rbssIntegratedTelecommunicationsServices;rbssITServicesConsulting;everything;Deals;forexNewsCopy;Davos;cyclicalConsumerGoodsSector;financialsSector;industrialsSector;nonCyclicalConsumerGoodsSector;technologySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="European+shares+slip+as+Trump+tweet+hits+drugmakers"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Germany;Italy;United States;Danilo Masoni;Donald Trump;John Moore;Stoxx;Stoxx 600;EUROPE;STOCKS/ (UPDATE 1);Investment Banking and Investment Services (TRBC);Chemicals (Legacy);Germany;Performance / Results / Earnings;Western Europe;Hotels and Entertainment Services (TRBC);France;Central / Eastern Europe;Casinos and Gaming (TRBC);Commercial Services and Supplies (TRBC);Government Borrowing Requirement;Industrials (TRBC);Equities Markets;Cyclical Consumer Services (TRBC);United Kingdom;Non;Cyclical Consumer Goods and Services (TRBC);Ireland;All Retail;IT Services and Consulting (TRBC);Food and Drug Retailing (TRBC);Results Forecasts / Warnings;Switzerland;Company News;Financials (TRBC);Software and IT Services (TRBC);Financials (Legacy);Telecommunications Services (TRBC);Italy;Corporate Events;Spain;Euro Zone;Food Distribution and Convenience Stores (TRBC);Technology (TRBC);Integrated Telecommunications Services (TRBC);Business Support Services (TRBC);Banking and Investment Services (TRBC);Industrial Services "/>
-    <cse:Attribute name="revision_date" value="Tue Mar 07 17:35:47 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-07T17:35:47+0000"/>
-    <cse:Attribute name="sailthru.title" value="European shares slip as Trump tweet hits drugmakers"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/patrick-rucker"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-usa-trump-secrecy-exclusive-idUSKBN16A0GD?utm_source=ifttt</id>
+  <updated>1970-01-18T05:38:25.942Z</updated>
+  <title type="html">Exclusive: Trump aides&amp;#39; bid to plug leaks creates unease among ...</title>
+  <link href="http://www.reuters.com/article/us-usa-trump-secrecy-exclusive-idUSKBN16A0GD?utm_source=ifttt" title="www.reuters.com"/>
+  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; Mnuchin&amp;#39;s first meeting with senior Treasury staff said &lt;br&gt;
+he told them that their telephone calls and emails could be monitored to prevent&amp;nbsp;...</summary>
+  <cse:cacheId>RGiyDEh4SUMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-usa-trump-secrecy-exclusive-idUSKBN16A0GD?...</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;politicsNews;iraqNews;google;Retirement;everything;Deals;AllianzRetirement;AllianzInvestments;Hyundai;newsproHome;audib2b;credit-rss;aa48hours;shipping;dassaultuk;greenpeace;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Trump+aides%E2%80%99+bid+to+plug+leaks+creates+unease+among+some+civil+servants"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="3"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Arshad Mohammed, Jonathan Landay and Warren Strobel"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Arshad Mohammed, Jonathan Landay and Warren Strobel"/>
+    <cse:Attribute name="news_keywords" value="Australia;Iran;Iraq;Libya;Mexico;Russia;Somalia;Sudan;Syria;United States;Yemen;Iran;Iraq;Libya;Mexico;Somalia;Sudan;Syria;United States;Yemen;Barack Obama;Donald Trump;James Risen;Keith Kellogg;Leonard Downie;Mark Toner;Michael Anton;Politico;Rex Tillerson;Richard Nixon;Sean Spicer;Steven Aftergood;STEVEN MNUCHIN;Barack Obama;Donald Trump;James Risen;Keith Kellogg;Leonard Downie;Mark Toner;Michael Anton;Politico;Rex Tillerson;Richard Nixon;Sean Spicer;Steven Aftergood;STEVEN MNUCHIN;US;USA;TRUMP;SECRECY;EXCLUSIVE;Fundamental Rights / Civil Liberties;Major News;Exclusive;Regulation;Diplomacy / Foreign Policy;Media and Publishing (TRBC);Government / Politics;Media / Publishing (Legacy);United States"/>
+    <cse:Attribute name="revision_date" value="Sat Mar 04 01:14:54 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Arshad Mohammed, Jonathan Landay and Warren Strobel"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-04T01:14:54+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Trump aides’ bid to plug leaks creates unease among some civil servants"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="European shares slip as Trump tweet hits drugmakers"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/europe-stocks-idUSL5N1GK5SQ"/>
+    <cse:Attribute name="og:title" value="Exclusive: Trump aides’ bid to plug leaks creates unease among some civil servants"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-secrecy-exclusive-idUSKBN16A0GD"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="* STOXX drops 0.3 pct, down for fourth straight day* Trump tweet hits drugmakers* M&amp;A chatter lifts Italy tower firms* Aggreko plunge"/>
+    <cse:Attribute name="og:description" value="President Donald Trump&apos;s Treasury Secretary Steven Mnuchin used his first senior staff meeting last month to tell his new aides he would not tolerate leaks to the news media, three sources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170303&amp;t=2&amp;i=1174785398&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED220MT"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-04T01:14:54+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-04T01:14:54+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Arshad Mohammed, Jonathan Landay and Warren Strobel"/>
+    <cse:Attribute name="og:article:tag" value="Australia,Iran,Iraq,Libya,Mexico,Russia,Somalia,Sudan,Syria,United States,Yemen,Iran,Iraq,Libya,Mexico,Somalia,Sudan,Syria,United States,Yemen,Barack Obama,Donald Trump,James Risen,Keith Kellogg,Leonard Downie,Mark Toner,Michael Anton,Politico,Rex Tillerson,Richard Nixon,Sean Spicer,Steven Aftergood,STEVEN MNUCHIN,Barack Obama,Donald Trump,James Risen,Keith Kellogg,Leonard Downie,Mark Toner,Michael Anton,Politico,Rex Tillerson,Richard Nixon,Sean Spicer,Steven Aftergood,STEVEN MNUCHIN,US,USA,TRUMP,SECRECY,EXCLUSIVE,Fundamental Rights / Civil Liberties,Major News,Exclusive,Regulation,Diplomacy / Foreign Policy,Media and Publishing (TRBC),Government / Politics,Media / Publishing (Legacy),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Trump aides’ bid to plug leaks creates unease among some civil servants"/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump&apos;s Treasury Secretary Steven Mnuchin used his first senior staff meeting last month to tell his new aides he would not tolerate leaks to the news media, three sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170303&amp;t=2&amp;i=1174785398&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED220MT"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170303&amp;t=2&amp;i=1174785398&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED220MT"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170303&amp;t=2&amp;i=1174785398&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED220MT"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6JIEIsMbqm1jasid9telGMPga_N9OH-zG0CHx_QQF_9B06KjP6CKCAD_8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/deutsche-bank-capital-idUSFWN1GG0TL</id>
+  <updated>1970-01-18T05:38:25.942Z</updated>
+  <title type="html">Deutsche Bank board to meet Sunday to discuss capital hike -sources</title>
+  <link href="http://www.reuters.com/article/deutsche-bank-capital-idUSFWN1GG0TL" title="www.reuters.com"/>
+  <summary type="html">... will meet on Sunday to discuss plans for apotential capital increase of around 8 &lt;br&gt;
+billion euros ($8.5billion), two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Saturday.</summary>
+  <cse:cacheId>4PDtfsi6bj8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/deutsche-bank-capital-idUSFWN1GG0TL</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="hotStocksNews"/>
+    <cse:Attribute name="dcsext.channellist" value="hotStocksNews;rbssFinancialServicesAndRealEstateNews;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Deutsche+Bank+board+to+meet+Sunday+to+discuss+capital+hike+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-hotStocksNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Germany;DEUTSCHE BANK;CAPITAL/ (URGENT);Germany;Western Europe;Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Major News;Equities Markets;Deals;International Agencies / Treaty Groups;Banking Capital and Liquidity Requirements;Secondary Share Offerings / Issues;United States;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;European Central Bank;Financials (TRBC);Financials (Legacy);New Issues;Volatile Shares / Hot Stocks;Government / Politics;Central Banks / Central Bank Events;Corporate Events;Economic Events;Euro Zone;European Union;General News;Corporate Governance;Market Events;Banking and Investment Services (TRBC);Europe;Regulation;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Sat Mar 04 11:12:06 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-04T11:12:06+0000"/>
+    <cse:Attribute name="sailthru.title" value="Deutsche Bank board to meet Sunday to discuss capital hike -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Deutsche Bank board to meet Sunday to discuss capital hike -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/deutsche-bank-capital-idUSFWN1GG0TL"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Deutsche Bank&apos;ssupervisory board will meet on Sunday to discuss plans for apotential capital increase of around 8 billion euros ($8.5billion), two sources familiar with the matter said on Saturday."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-07T17:35:47+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-07T17:35:47+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-04T11:12:06+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-04T11:12:06+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Germany,Italy,United States,Danilo Masoni,Donald Trump,John Moore,Stoxx,Stoxx 600,EUROPE,STOCKS/ (UPDATE 1),Investment Banking and Investment Services (TRBC),Chemicals (Legacy),Germany,Performance / Results / Earnings,Western Europe,Hotels and Entertainment Services (TRBC),France,Central / Eastern Europe,Casinos and Gaming (TRBC),Commercial Services and Supplies (TRBC),Government Borrowing Requirement,Industrials (TRBC),Equities Markets,Cyclical Consumer Services (TRBC),United Kingdom,Non,Cyclical Consumer Goods and Services (TRBC),Ireland,All Retail,IT Services and Consulting (TRBC),Food and Drug Retailing (TRBC),Results Forecasts / Warnings,Switzerland,Company News,Financials (TRBC),Software and IT Services (TRBC),Financials (Legacy),Telecommunications Services (TRBC),Italy,Corporate Events,Spain,Euro Zone,Food Distribution and Convenience Stores (TRBC),Technology (TRBC),Integrated Telecommunications Services (TRBC),Business Support Services (TRBC),Banking and Investment Services (TRBC),Industrial Services "/>
+    <cse:Attribute name="og:article:tag" value="Germany,DEUTSCHE BANK,CAPITAL/ (URGENT),Germany,Western Europe,Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Major News,Equities Markets,Deals,International Agencies / Treaty Groups,Banking Capital and Liquidity Requirements,Secondary Share Offerings / Issues,United States,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,European Central Bank,Financials (TRBC),Financials (Legacy),New Issues,Volatile Shares / Hot Stocks,Government / Politics,Central Banks / Central Bank Events,Corporate Events,Economic Events,Euro Zone,European Union,General News,Corporate Governance,Market Events,Banking and Investment Services (TRBC),Europe,Regulation,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="European shares slip as Trump tweet hits drugmakers"/>
-    <cse:Attribute name="twitter:description" value="* STOXX drops 0.3 pct, down for fourth straight day* Trump tweet hits drugmakers* M&amp;A chatter lifts Italy tower firms* Aggreko plunge"/>
+    <cse:Attribute name="twitter:title" value="Deutsche Bank board to meet Sunday to discuss capital hike -sources"/>
+    <cse:Attribute name="twitter:description" value="Deutsche Bank&apos;ssupervisory board will meet on Sunday to discuss plans for apotential capital increase of around 8 billion euros ($8.5billion), two sources familiar with the matter said on Saturday."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/stocks/hotstocks/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Stocks"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
