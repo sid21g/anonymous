@@ -5,97 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:38:25.942Z</updated>
+ <updated>1970-01-18T05:42:42.844Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>11100</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9380" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9380" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9380</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.427897</cse:searchTime>
-  <cse:formattedSearchTime>0.43</cse:formattedSearchTime>
-  <cse:totalResults>11100</cse:totalResults>
-  <cse:formattedTotalResults>11,100</cse:formattedTotalResults>
+  <cse:searchTime>0.342432</cse:searchTime>
+  <cse:formattedSearchTime>0.34</cse:formattedSearchTime>
+  <cse:totalResults>9380</cse:totalResults>
+  <cse:formattedTotalResults>9,380</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629</id>
-  <updated>1970-01-18T05:38:25.942Z</updated>
-  <title type="html">FBI director James Comey asked Justice Department to refute ...</title>
-  <link href="http://abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629" title="abcnews.go.com"/>
-  <summary type="html">... Obama, ordered a wiretap of Trump&amp;#39;s phones prior to the November 2016 &lt;br&gt;
-election, government &lt;b&gt;sources familiar with&lt;/b&gt; Comey&amp;#39;s thinking confirm to ABC &lt;br&gt;
-News.</summary>
-  <cse:formattedUrl type="html">abcnews.go.com/Politics/fbi-director-james-comey-asked.../story?id...</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="ABC News"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
-    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="fb:admins" value="704409894"/>
-    <cse:Attribute name="fb:app_id" value="4942312939"/>
-    <cse:Attribute name="fb_title" value="FBI director asked DOJ to refute Trump&apos;s wiretapping claims, sources say"/>
-    <cse:Attribute name="og:site_name" value="ABC News"/>
-    <cse:Attribute name="og:title" value="FBI director asked DOJ to refute Trump&apos;s wiretapping claims, sources say"/>
-    <cse:Attribute name="og:description" value="FBI Director James Comey asked the Justice Department to publicly refute President Trump&apos;s assertion that his predecessor, President Obama, ordered a wiretap of Trump&apos;s phones prior to the November 2016 election, government sources familiar with Comey&apos;s thinking confirm to ABC News. Comey was..."/>
-    <cse:Attribute name="og:url" value="http://abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629"/>
-    <cse:Attribute name="og:image:type" value="image/jpeg"/>
-    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/Politics/GTY-james-comey-jt-170305_16x9_992.jpg"/>
-    <cse:Attribute name="dc.date.issued" value="2017-03-06"/>
-    <cse:Attribute name="date" value="2017-03-06"/>
-    <cse:Attribute name="last-modified" value="2017-03-06 07:40:38"/>
-    <cse:Attribute name="article:author" value="/author/jack_date"/>
-    <cse:Attribute name="news_keywords" value="Donald Trump, wiretap, FBI, James Comey,"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@ABC"/>
-    <cse:Attribute name="twitter:creator" value="@erindooley"/>
-    <cse:Attribute name="twitter:title" value="FBI director asked DOJ to refute Trump&apos;s wiretapping claims, sources say"/>
-    <cse:Attribute name="twitter:description" value="FBI Director James Comey asked the Justice Department to publicly refute President Trump&apos;s assertion that his predecessor, President Obama, ordered a wiretap of Trump&apos;s phones prior to the November 2016 election, government sources familiar with Comey&apos;s thinking confirm to ABC News. Comey was..."/>
-    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629"/>
-    <cse:Attribute name="twitter:image:width" value="150"/>
-    <cse:Attribute name="twitter:image:height" value="116"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,45927629"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,45927629"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629"/>
-    <cse:Attribute name="twitter:image" value="http://a.abcnews.com/images/Politics/GTY-james-comey-jt-170305_4x3t_240.jpg"/>
-    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,45927629"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
-    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
-    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,45927629"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
-    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
-    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629"/>
-    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
-    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
-    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/Politics/fbi-director-james-comey-asked-justice-department-refute/story?id=45927629"/>
-   </cse:DataObject>
-   <cse:DataObject type="sitenavigationelement">
-    <cse:Attribute name="name" value="U.S."/>
-    <cse:Attribute name="url" value="U.S."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://a.abcnews.com/images/Politics/GTY-james-comey-jt-170305_16x9_992.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMvABw2BOYq1f32S2xzXZqI62NINySoSXB1L-ZDG_96N4_8KqGoC5_1NE"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-novomatic-ipo-idUSKBN16G15O</id>
-  <updated>1970-01-18T05:38:25.942Z</updated>
+  <updated>1970-01-18T05:42:42.844Z</updated>
   <title type="html">Austria&amp;#39;s Novomatic working with Macquarie on potential IPO: sources</title>
   <link href="http://www.reuters.com/article/us-novomatic-ipo-idUSKBN16G15O" title="www.reuters.com"/>
   <summary type="html">... working with Macquarie to prepare an initial public offering that could value the &lt;br&gt;
@@ -159,7 +87,7 @@ company at more than 6 billion euros ($6.3 billion), three &lt;b&gt;sources fami
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/</id>
-  <updated>1970-01-18T05:38:25.942Z</updated>
+  <updated>1970-01-18T05:42:42.844Z</updated>
   <title type="html">Border wall cost: Trump administration to ask for fraction of border ...</title>
   <link href="http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/" title="www.cnn.com"/>
   <summary type="html">Separately, two &lt;b&gt;sources familiar with&lt;/b&gt; the administration&amp;#39;s FY2018 budget request &lt;br&gt;
@@ -220,58 +148,58 @@ told CNN the plan is to boost DHS&amp;#39;s total budget by 6%, up to $43.8 bill
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/wells-fargo-accounts-investigations-idUSL1N1G027Q</id>
-  <updated>1970-01-18T05:38:25.942Z</updated>
-  <title type="html">U.S. Justice Department targets executives in Wells Fargo probe ...</title>
-  <link href="http://www.reuters.com/article/wells-fargo-accounts-investigations-idUSL1N1G027Q" title="www.reuters.com"/>
-  <summary type="html">... at Wells Fargo &amp;amp; Co is asking whether executives hid details from the company &lt;br&gt;
-board and regulators as the problem grew over years, &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>vJJ9uo7CXtMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../wells-fargo-accounts-investigations-idUSL1N1G027Q</cse:formattedUrl>
+  <id>http://www.reuters.com/article/novomatic-ipo-idUSL5N1GM2Q1</id>
+  <updated>1970-01-18T05:42:42.844Z</updated>
+  <title type="html">Austria&amp;#39;s Novomatic working with Macquarie on potential IPO -sources</title>
+  <link href="http://www.reuters.com/article/novomatic-ipo-idUSL5N1GM2Q1" title="www.reuters.com"/>
+  <summary type="html">... Macquarie to prepare an initial public offeringthat could value the company at &lt;br&gt;
+more than 6 billion euros ($6.3billion), three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>Bwi0E_S8gIwJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/novomatic-ipo-idUSL5N1GM2Q1</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;governmentFilingsNews;marketsNews;rbssFinancialServicesAndRealEstateNews;rbssInvestmentServices;regulatoryNewsFinancialServicesAndRealEstate;americasRegulatoryNews;Retirement;everything;Deals;forexNewsCopy;AllianzRetirement;AllianzInvestments;Allianz;verizonmm;audib2b;credit-rss;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="U.S.+Justice+Department+targets+executives+in+Wells+Fargo+probe+-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="privateEquity"/>
+    <cse:Attribute name="dcsext.channellist" value="rbssConsumerGoodsAndRetailNews;rbssTechMediaTelecomNews;privateEquity;rbssCasinosGaming;rbssBanks;technology-media-telco-SP;privateEquityConsumerGoodsAndRetail;privateEquityFinancialServicesAndRealEstate;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector;technologySector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Austria%27s+Novomatic+working+with+Macquarie+on+potential+IPO+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-privateEquity"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United States;Carrie L. Tolstedt;Jeb Hensarling;Jennifer Dunn;John G. Stumpf;WELLS FARGO;ACCOUNTS/INVESTIGATIONS;Crime / Law / Justice;Investment Banking and Investment Services (TRBC);Lawmaking;Judicial Process / Court Cases / Court Decisions;Arts / Culture / Entertainment;Crime;Major News;Accounting Issues;United States;Banking Services (TRBC);Wealth Management;Americas;Banks (TRBC);Company News;Financials (TRBC);Financials (Legacy);Government / Politics;Corporate Events;General News;Corporate Governance;Banking and Investment Services (TRBC);US Government News;Regulation;Banking Services (Legacy);Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Fri Mar 03 21:36:37 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Arno Schuetze;NOVOMATIC;IPO/;Investment Banking and Investment Services (TRBC);Germany;Security Listings / Delistings;Western Europe;Hotels and Entertainment Services (TRBC);Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Casinos and Gaming (TRBC);Cyclical Consumer Services (TRBC);Deals;Automobiles / Auto Parts (Legacy);Banking Services (TRBC);Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);New Issues;Corporate Events;Economic Events;Euro Zone;Technology (TRBC);Austria;Market Events;Banking and Investment Services (TRBC);Europe;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Thu Mar 09 10:14:54 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-03T21:36:37+0000"/>
-    <cse:Attribute name="sailthru.title" value="U.S. Justice Department targets executives in Wells Fargo probe -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-09T10:14:54+0000"/>
+    <cse:Attribute name="sailthru.title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="U.S. Justice Department targets executives in Wells Fargo probe -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/wells-fargo-accounts-investigations-idUSL1N1G027Q"/>
+    <cse:Attribute name="og:title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/novomatic-ipo-idUSL5N1GM2Q1"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="A U.S. Justice Departmentprobe into a phony accounts scandal at Wells Fargo &amp; Cois asking whether executives hid details from the company boardand regulators as the problem grew over years, sources familiarwith the review said."/>
+    <cse:Attribute name="og:description" value="The private owners ofAustrian gaming technology group Novomatic areworking with Macquarie to prepare an initial public offeringthat could value the company at more than 6 billion euros ($6.3billion), three sources familiar with the matter said."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-03T21:36:37+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-03T21:36:37+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-09T10:14:54+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-09T10:14:54+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United States,Carrie L. Tolstedt,Jeb Hensarling,Jennifer Dunn,John G. Stumpf,WELLS FARGO,ACCOUNTS/INVESTIGATIONS,Crime / Law / Justice,Investment Banking and Investment Services (TRBC),Lawmaking,Judicial Process / Court Cases / Court Decisions,Arts / Culture / Entertainment,Crime,Major News,Accounting Issues,United States,Banking Services (TRBC),Wealth Management,Americas,Banks (TRBC),Company News,Financials (TRBC),Financials (Legacy),Government / Politics,Corporate Events,General News,Corporate Governance,Banking and Investment Services (TRBC),US Government News,Regulation,Banking Services (Legacy),Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="og:article:tag" value="Arno Schuetze,NOVOMATIC,IPO/,Investment Banking and Investment Services (TRBC),Germany,Security Listings / Delistings,Western Europe,Hotels and Entertainment Services (TRBC),Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Casinos and Gaming (TRBC),Cyclical Consumer Services (TRBC),Deals,Automobiles / Auto Parts (Legacy),Banking Services (TRBC),Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),New Issues,Corporate Events,Economic Events,Euro Zone,Technology (TRBC),Austria,Market Events,Banking and Investment Services (TRBC),Europe,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="U.S. Justice Department targets executives in Wells Fargo probe -sources"/>
-    <cse:Attribute name="twitter:description" value="A U.S. Justice Departmentprobe into a phony accounts scandal at Wells Fargo &amp; Cois asking whether executives hid details from the company boardand regulators as the problem grew over years, sources familiarwith the review said."/>
+    <cse:Attribute name="twitter:title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO -sources"/>
+    <cse:Attribute name="twitter:description" value="The private owners ofAustrian gaming technology group Novomatic areworking with Macquarie to prepare an initial public offeringthat could value the company at more than 6 billion euros ($6.3billion), three sources familiar with the matter said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/privatecapital/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -285,7 +213,7 @@ board and regulators as the problem grew over years, &lt;b&gt;sources familiar w
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/credit-agricole-saudi-idUSL5N1GL1GQ</id>
-  <updated>1970-01-18T05:38:25.942Z</updated>
+  <updated>1970-01-18T05:42:42.844Z</updated>
   <title type="html">Credit Agricole picks JPMorgan for Banque Saudi Fransi sale -sources</title>
   <link href="http://www.reuters.com/article/credit-agricole-saudi-idUSL5N1GL1GQ" title="www.reuters.com"/>
   <summary type="html">... has picked JPMorgan to help in a potentialsale of its 31 percent stake in &lt;br&gt;
@@ -349,70 +277,8 @@ dealsaid.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources-2017-3</id>
-  <updated>1970-01-18T05:38:25.942Z</updated>
-  <title type="html">Deutsche Bank board to meet Sunday to discuss capital hike: sources</title>
-  <link href="http://www.businessinsider.com/r-deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources-2017-3" title="www.businessinsider.com"/>
-  <summary type="html">... meet on Sunday to discuss plans for a potential capital increase of around 8 &lt;br&gt;
-billion euros ($8.5 billion), two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Saturday.</summary>
-  <cse:cacheId>xPVN_8C7YIUJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-deutsche-bank-board-to-meet-sunday-to-discuss- capital-hike-sources-2017-3</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-03-04"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-04"/>
-    <cse:Attribute name="news_keywords" value="Reuters"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters"/>
-    <cse:Attribute name="sailthru.description" value="FRANKFURT (Reuters) - Deutsche Bank&apos;s ..."/>
-    <cse:Attribute name="title" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business,clusterstock"/>
-    <cse:Attribute name="sailthru.title" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
-    <cse:Attribute name="tbi-image" value="http://static1.businessinsider.com/image/58a344ae5124c90a1d1deafa/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static1.businessinsider.com/image/58a344ae5124c90a1d1deafa/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static3.businessinsider.com/image/58a344ae5124c90a1d1deafa-50-50/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
-    <cse:Attribute name="og:title" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
-    <cse:Attribute name="og:description" value="FRANKFURT (Reuters) - Deutsche Bank&apos;s ..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources-2017-3"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources-2017-3"/>
-    <cse:Attribute name="twitter:title" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
-    <cse:Attribute name="twitter:description" value="FRANKFURT (Reuters) - Deutsche Bank&apos;s ..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static2.businessinsider.com/image/58a344ae5124c90a1d1deafa-506-253/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
-    <cse:Attribute name="og:image" value="http://static5.businessinsider.com/image/58a344ae5124c90a1d1deafa-1190-625/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
-    <cse:Attribute name="url" value="Deutsche Bank board to meet Sunday to discuss capital hike: sources"/>
-    <cse:Attribute name="image" value="http://static2.businessinsider.com/image/58a344ae5124c90a1d1deafa-506-253/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
-    <cse:Attribute name="description" value="FRANKFURT (Reuters) - Deutsche Bank&apos;s ..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static5.businessinsider.com/image/58a344ae5124c90a1d1deafa-1190-625/deutsche-bank-board-to-meet-sunday-to-discuss-capital-hike-sources.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="279"/>
-    <cse:Attribute name="height" value="181"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGYb4z2hDvukLjzcTVdbKwJr3z0kodNkUauFgVAj-irTY5oj4rG-3EOcK"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/novomatic-ipo-idUSL5N1GL644</id>
-  <updated>1970-01-18T05:38:25.942Z</updated>
+  <updated>1970-01-18T05:42:42.844Z</updated>
   <title type="html">Austria&amp;#39;s Novomatic explores potential stock market listing -sources ...</title>
   <link href="http://www.reuters.com/article/novomatic-ipo-idUSL5N1GL644" title="www.reuters.com"/>
   <summary type="html">... are exploring an initial public offering that could value the company at more &lt;br&gt;
@@ -475,167 +341,96 @@ than 6 billion euros ($6.3 billion), three &lt;b&gt;sources familiar with&lt;/b&
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/patrick-rucker</id>
-  <updated>1970-01-18T05:38:25.942Z</updated>
-  <title type="html">Patrick Rucker</title>
-  <link href="http://www.reuters.com/journalists/patrick-rucker" title="www.reuters.com"/>
-  <summary type="html">... Co is asking whether executives hid details from the company board and &lt;br&gt;
-regulators as the problem grew over years, &lt;b&gt;sources familiar with&lt;/b&gt; the review said.</summary>
-  <cse:cacheId>k9fEmlcVkXAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/patrick-rucker</cse:formattedUrl>
+  <id>https://www.msn.com/en-us/news/politics/trump-poised-to-tap-scott-gottlieb-to-head-fda-sources/ar-AAo798u</id>
+  <updated>1970-01-18T05:42:42.844Z</updated>
+  <title type="html">Trump poised to tap Scott Gottlieb to head FDA: sources</title>
+  <link href="https://www.msn.com/en-us/news/politics/trump-poised-to-tap-scott-gottlieb-to-head-fda-sources/ar-AAo798u" title="www.msn.com"/>
+  <summary type="html">... Dr. Scott Gottlieb, a conservative health policy expert, to lead the U.S. Food &lt;br&gt;
+and Drug Administration as early as on Friday, &lt;b&gt;sources familiar with&lt;/b&gt; the matter &lt;br&gt;
+said.</summary>
+  <cse:cacheId>VrGPakWnkVUJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.msn.com/en-us/news/politics/...to.../ar-AAo798u</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/patrick-rucker"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-usa-trump-secrecy-exclusive-idUSKBN16A0GD?utm_source=ifttt</id>
-  <updated>1970-01-18T05:38:25.942Z</updated>
-  <title type="html">Exclusive: Trump aides&amp;#39; bid to plug leaks creates unease among ...</title>
-  <link href="http://www.reuters.com/article/us-usa-trump-secrecy-exclusive-idUSKBN16A0GD?utm_source=ifttt" title="www.reuters.com"/>
-  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; Mnuchin&amp;#39;s first meeting with senior Treasury staff said &lt;br&gt;
-he told them that their telephone calls and emails could be monitored to prevent&amp;nbsp;...</summary>
-  <cse:cacheId>RGiyDEh4SUMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-usa-trump-secrecy-exclusive-idUSKBN16A0GD?...</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;politicsNews;iraqNews;google;Retirement;everything;Deals;AllianzRetirement;AllianzInvestments;Hyundai;newsproHome;audib2b;credit-rss;aa48hours;shipping;dassaultuk;greenpeace;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Trump+aides%E2%80%99+bid+to+plug+leaks+creates+unease+among+some+civil+servants"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="3"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Arshad Mohammed, Jonathan Landay and Warren Strobel"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
-    <cse:Attribute name="author" value="Arshad Mohammed, Jonathan Landay and Warren Strobel"/>
-    <cse:Attribute name="news_keywords" value="Australia;Iran;Iraq;Libya;Mexico;Russia;Somalia;Sudan;Syria;United States;Yemen;Iran;Iraq;Libya;Mexico;Somalia;Sudan;Syria;United States;Yemen;Barack Obama;Donald Trump;James Risen;Keith Kellogg;Leonard Downie;Mark Toner;Michael Anton;Politico;Rex Tillerson;Richard Nixon;Sean Spicer;Steven Aftergood;STEVEN MNUCHIN;Barack Obama;Donald Trump;James Risen;Keith Kellogg;Leonard Downie;Mark Toner;Michael Anton;Politico;Rex Tillerson;Richard Nixon;Sean Spicer;Steven Aftergood;STEVEN MNUCHIN;US;USA;TRUMP;SECRECY;EXCLUSIVE;Fundamental Rights / Civil Liberties;Major News;Exclusive;Regulation;Diplomacy / Foreign Policy;Media and Publishing (TRBC);Government / Politics;Media / Publishing (Legacy);United States"/>
-    <cse:Attribute name="revision_date" value="Sat Mar 04 01:14:54 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Arshad Mohammed, Jonathan Landay and Warren Strobel"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-04T01:14:54+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Trump aides’ bid to plug leaks creates unease among some civil servants"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Trump aides’ bid to plug leaks creates unease among some civil servants"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-secrecy-exclusive-idUSKBN16A0GD"/>
+    <cse:Attribute name="application-name" value="Trump poised to tap Scott Gottlieb to head FDA: sources"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#1e1e1e"/>
+    <cse:Attribute name="msapplication-tileimage" value="//static-entertainment-eus-s-msn-com.akamaized.net/sc/1f/08ced4.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <cse:Attribute name="sharing_url" value="http://a.msn.com/01/en-us/AAo798u"/>
+    <cse:Attribute name="og:url" value="https://www.msn.com/en-us/news/politics/trump-poised-to-tap-scott-gottlieb-to-head-fda-sources/ar-AAo798u"/>
+    <cse:Attribute name="og:title" value="Trump poised to tap Scott Gottlieb to head FDA: sources"/>
+    <cse:Attribute name="og:description" value="The White House is expected to nominate Dr. Scott Gottlieb, a conservative health policy expert, to lead the U.S. Food and Drug Administration as early as on Friday, sources familiar with the matter said."/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="President Donald Trump&apos;s Treasury Secretary Steven Mnuchin used his first senior staff meeting last month to tell his new aides he would not tolerate leaks to the news media, three sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170303&amp;t=2&amp;i=1174785398&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED220MT"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-04T01:14:54+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-04T01:14:54+0000"/>
-    <cse:Attribute name="og:article:section" value="Politics"/>
-    <cse:Attribute name="og:article:author" value="Arshad Mohammed, Jonathan Landay and Warren Strobel"/>
-    <cse:Attribute name="og:article:tag" value="Australia,Iran,Iraq,Libya,Mexico,Russia,Somalia,Sudan,Syria,United States,Yemen,Iran,Iraq,Libya,Mexico,Somalia,Sudan,Syria,United States,Yemen,Barack Obama,Donald Trump,James Risen,Keith Kellogg,Leonard Downie,Mark Toner,Michael Anton,Politico,Rex Tillerson,Richard Nixon,Sean Spicer,Steven Aftergood,STEVEN MNUCHIN,Barack Obama,Donald Trump,James Risen,Keith Kellogg,Leonard Downie,Mark Toner,Michael Anton,Politico,Rex Tillerson,Richard Nixon,Sean Spicer,Steven Aftergood,STEVEN MNUCHIN,US,USA,TRUMP,SECRECY,EXCLUSIVE,Fundamental Rights / Civil Liberties,Major News,Exclusive,Regulation,Diplomacy / Foreign Policy,Media and Publishing (TRBC),Government / Politics,Media / Publishing (Legacy),United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Trump aides’ bid to plug leaks creates unease among some civil servants"/>
-    <cse:Attribute name="twitter:description" value="President Donald Trump&apos;s Treasury Secretary Steven Mnuchin used his first senior staff meeting last month to tell his new aides he would not tolerate leaks to the news media, three sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170303&amp;t=2&amp;i=1174785398&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED220MT"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170303&amp;t=2&amp;i=1174785398&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED220MT"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
-    <cse:Attribute name="wt.cg_n" value="Politics"/>
-    <cse:Attribute name="wt.cg_s" value="Politics"/>
+    <cse:Attribute name="og:site_name" value="MSN"/>
+    <cse:Attribute name="og:image" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAo76MF.img"/>
+    <cse:Attribute name="fb:app_id" value="844282955707707"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="url" value="http://www.reuters.com/"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlebody" value="© REUTERS/Chip East Scott Gottlieb FDA deputy commissioner for policy speaks to reporters at Reuters Health summit in New York The White House is expected to nominate Dr. Scott Gottlieb, a..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170303&amp;t=2&amp;i=1174785398&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED220MT"/>
+    <cse:Attribute name="src" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAjZm6Y.img?h=250&amp;w=300&amp;m=1&amp;q=60&amp;b=white"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6JIEIsMbqm1jasid9telGMPga_N9OH-zG0CHx_QQF_9B06KjP6CKCAD_8"/>
+    <cse:Attribute name="width" value="240"/>
+    <cse:Attribute name="height" value="200"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-WVAyca2slMF4im-Aq7SbQ0TBxJIK-VKsNtTHyINpNVcIr0QCIgHgEw"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/deutsche-bank-capital-idUSFWN1GG0TL</id>
-  <updated>1970-01-18T05:38:25.942Z</updated>
-  <title type="html">Deutsche Bank board to meet Sunday to discuss capital hike -sources</title>
-  <link href="http://www.reuters.com/article/deutsche-bank-capital-idUSFWN1GG0TL" title="www.reuters.com"/>
-  <summary type="html">... will meet on Sunday to discuss plans for apotential capital increase of around 8 &lt;br&gt;
-billion euros ($8.5billion), two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Saturday.</summary>
-  <cse:cacheId>4PDtfsi6bj8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/deutsche-bank-capital-idUSFWN1GG0TL</cse:formattedUrl>
+  <id>http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL2N1GN1X8</id>
+  <updated>1970-01-18T05:42:42.844Z</updated>
+  <title type="html">Trump poised to tap Scott Gottlieb to head FDA -sources | Reuters</title>
+  <link href="http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL2N1GN1X8" title="www.reuters.com"/>
+  <summary type="html">... Dr. Scott Gottlieb, a conservative health policyexpert, to lead the U.S. Food and &lt;br&gt;
+Drug Administration as earlyas on Friday, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>iMl5lf3gii0J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/usa-health-fda-gottlieb-idUSL2N1GN1X8</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="hotStocksNews"/>
-    <cse:Attribute name="dcsext.channellist" value="hotStocksNews;rbssFinancialServicesAndRealEstateNews;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Deutsche+Bank+board+to+meet+Sunday+to+discuss+capital+hike+-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="FRBtestD"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationAMD;everything;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;verizonmm;credit-rss;cfaglobal;aa48hours;MBenz;ubs;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;USLegal"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Trump+poised+to+tap+Scott+Gottlieb+to+head+FDA+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-hotStocksNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-FRBtestD"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Germany;DEUTSCHE BANK;CAPITAL/ (URGENT);Germany;Western Europe;Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Major News;Equities Markets;Deals;International Agencies / Treaty Groups;Banking Capital and Liquidity Requirements;Secondary Share Offerings / Issues;United States;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;European Central Bank;Financials (TRBC);Financials (Legacy);New Issues;Volatile Shares / Hot Stocks;Government / Politics;Central Banks / Central Bank Events;Corporate Events;Economic Events;Euro Zone;European Union;General News;Corporate Governance;Market Events;Banking and Investment Services (TRBC);Europe;Regulation;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Sat Mar 04 11:12:06 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Donald Trump;John D. Taylor;Peter A Thiel;Scott Gottlieb;USA;HEALTH/FDA;GOTTLIEB (UPDATE 1);Americas;United States"/>
+    <cse:Attribute name="revision_date" value="Fri Mar 10 21:52:48 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-04T11:12:06+0000"/>
-    <cse:Attribute name="sailthru.title" value="Deutsche Bank board to meet Sunday to discuss capital hike -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-10T21:52:48+0000"/>
+    <cse:Attribute name="sailthru.title" value="Trump poised to tap Scott Gottlieb to head FDA -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Deutsche Bank board to meet Sunday to discuss capital hike -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/deutsche-bank-capital-idUSFWN1GG0TL"/>
+    <cse:Attribute name="og:title" value="Trump poised to tap Scott Gottlieb to head FDA -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL2N1GN1X8"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Deutsche Bank&apos;ssupervisory board will meet on Sunday to discuss plans for apotential capital increase of around 8 billion euros ($8.5billion), two sources familiar with the matter said on Saturday."/>
+    <cse:Attribute name="og:description" value="The White House is expected tonominate Dr. Scott Gottlieb, a conservative health policyexpert, to lead the U.S. Food and Drug Administration as earlyas on Friday, sources familiar with the matter said."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-04T11:12:06+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-04T11:12:06+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-10T21:52:48+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-10T21:52:48+0000"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Germany,DEUTSCHE BANK,CAPITAL/ (URGENT),Germany,Western Europe,Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Major News,Equities Markets,Deals,International Agencies / Treaty Groups,Banking Capital and Liquidity Requirements,Secondary Share Offerings / Issues,United States,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,European Central Bank,Financials (TRBC),Financials (Legacy),New Issues,Volatile Shares / Hot Stocks,Government / Politics,Central Banks / Central Bank Events,Corporate Events,Economic Events,Euro Zone,European Union,General News,Corporate Governance,Market Events,Banking and Investment Services (TRBC),Europe,Regulation,Banking Services (Legacy)"/>
+    <cse:Attribute name="og:article:tag" value="Donald Trump,John D. Taylor,Peter A Thiel,Scott Gottlieb,USA,HEALTH/FDA,GOTTLIEB (UPDATE 1),Americas,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Deutsche Bank board to meet Sunday to discuss capital hike -sources"/>
-    <cse:Attribute name="twitter:description" value="Deutsche Bank&apos;ssupervisory board will meet on Sunday to discuss plans for apotential capital increase of around 8 billion euros ($8.5billion), two sources familiar with the matter said on Saturday."/>
+    <cse:Attribute name="twitter:title" value="Trump poised to tap Scott Gottlieb to head FDA -sources"/>
+    <cse:Attribute name="twitter:description" value="The White House is expected tonominate Dr. Scott Gottlieb, a conservative health policyexpert, to lead the U.S. Food and Drug Administration as earlyas on Friday, sources familiar with the matter said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/stocks/hotstocks/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Stocks"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -644,6 +439,195 @@ billion euros ($8.5billion), two &lt;b&gt;sources familiar with&lt;/b&gt; the ma
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-viacom-epix-sale-exclusive-idUSKBN16G35Y</id>
+  <updated>1970-01-18T05:42:42.844Z</updated>
+  <title type="html">Exclusive: MGM in talks to acquire entirety of Epix - sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-viacom-epix-sale-exclusive-idUSKBN16G35Y" title="www.reuters.com"/>
+  <summary type="html">... of shares in its European warehouse owner Logicor, that could be valued at 13 &lt;br&gt;
+billion euros ($14 billion), according to two &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>gOYxxT8VVXEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-viacom-epix-sale-exclusive-idUSKBN16G35Y</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="entertainmentNews;innovationNews;innovationNewsTechMediaTelco;vbcSmallBusiness;FundsandETFs;innovationAMD;everything;Deals;AllianzInvestments;Allianz;newsproHome;cfaglobal;aa48hours;dassaultuk;ubs;Intel;PFG;huawei;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+MGM+in+talks+to+acquire+entirety+of+Epix+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Jessica Toonkel and Liana B. Baker"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Jessica Toonkel and Liana B. Baker"/>
+    <cse:Attribute name="news_keywords" value="United States;Robert Bakish;US;VIACOM;EPIX;SALE;EXCLUSIVE;Mergers / Acquisitions / Takeovers;Film;Exclusive;Arts / Culture / Entertainment;Equity Investments;Corporate Events;Corporate Debt;Technology (TRBC);Divestitures / Spin;Offs;Major News;Debt / Fixed Income Markets;Technology / Media / Telecoms;Broadcasting (TRBC);Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Thu Mar 09 22:56:45 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Jessica Toonkel and Liana B. Baker"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-09T22:56:45+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: MGM in talks to acquire entirety of Epix - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: MGM in talks to acquire entirety of Epix - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-viacom-epix-sale-exclusive-idUSKBN16G35Y"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="MGM Holdings Inc is in talks to acquire the 81 percent of Epix it does not already own from two of its partners in the premium U.S. channel, Viacom Inc (VIAB.O) and Lionsgate LGFA.N, people familiar with the matter said on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-09T22:56:45+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-09T22:56:45+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Jessica Toonkel and Liana B. Baker"/>
+    <cse:Attribute name="og:article:tag" value="United States,Robert Bakish,US,VIACOM,EPIX,SALE,EXCLUSIVE,Mergers / Acquisitions / Takeovers,Film,Exclusive,Arts / Culture / Entertainment,Equity Investments,Corporate Events,Corporate Debt,Technology (TRBC),Divestitures / Spin,Offs,Major News,Debt / Fixed Income Markets,Technology / Media / Telecoms,Broadcasting (TRBC),Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: MGM in talks to acquire entirety of Epix - sources"/>
+    <cse:Attribute name="twitter:description" value="MGM Holdings Inc is in talks to acquire the 81 percent of Epix it does not already own from two of its partners in the premium U.S. channel, Viacom Inc (VIAB.O) and Lionsgate LGFA.N, people familiar with the matter said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL1N1FE4JI</id>
+  <updated>1970-01-18T05:42:42.844Z</updated>
+  <title type="html">Trump poised to tap Gottlieb to head FDA -sources | Reuters</title>
+  <link href="http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL1N1FE4JI" title="www.reuters.com"/>
+  <summary type="html">... Dr. Scott Gottlieb, a conservative healthpolicy expert, to lead the U.S. Food and &lt;br&gt;
+Drug Administration asearly as on Friday, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>hAweyIQkZWQJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/usa-health-fda-gottlieb-idUSL1N1FE4JI</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="nonCyclicalConsumerGoodsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="rbssConsumerGoodsAndRetailNews;rbssHealthcareNews;rbssTobacco;rbssBiotechnology;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;MOC_US_2017;healthcareSector;nonCyclicalConsumerGoodsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Trump+poised+to+tap+Gottlieb+to+head+FDA+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-nonCyclicalConsumerGoodsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Donald Trump;Scott Gottlieb;USA;HEALTH/FDA;GOTTLIEB (URGENT);Arts / Culture / Entertainment;Pharmaceuticals (TRBC);Tobacco (TRBC);Major News;Food and Tobacco (TRBC);Medical Regulatory Issues;Food Processing (Legacy);Non;Cyclical Consumer Goods and Services (TRBC);United States;Americas;Drug Safety;Health / Medicine;Government / Politics;Food and Beverages (TRBC);Corporate Events;Biotechnology and Medical Research (TRBC);General News;Beverages (Legacy);US Government News;Pharmaceuticals and Medical Research (TRBC);Science;Regulation;Drug and Device Development;Healthcare (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Fri Mar 10 17:43:12 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-10T17:43:12+0000"/>
+    <cse:Attribute name="sailthru.title" value="Trump poised to tap Gottlieb to head FDA -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Trump poised to tap Gottlieb to head FDA -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL1N1FE4JI"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The White House wasexpected to nominate Dr. Scott Gottlieb, a conservative healthpolicy expert, to lead the U.S. Food and Drug Administration asearly as on Friday, sources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-10T17:43:12+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-10T17:43:12+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Donald Trump,Scott Gottlieb,USA,HEALTH/FDA,GOTTLIEB (URGENT),Arts / Culture / Entertainment,Pharmaceuticals (TRBC),Tobacco (TRBC),Major News,Food and Tobacco (TRBC),Medical Regulatory Issues,Food Processing (Legacy),Non,Cyclical Consumer Goods and Services (TRBC),United States,Americas,Drug Safety,Health / Medicine,Government / Politics,Food and Beverages (TRBC),Corporate Events,Biotechnology and Medical Research (TRBC),General News,Beverages (Legacy),US Government News,Pharmaceuticals and Medical Research (TRBC),Science,Regulation,Drug and Device Development,Healthcare (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Trump poised to tap Gottlieb to head FDA -sources"/>
+    <cse:Attribute name="twitter:description" value="The White House wasexpected to nominate Dr. Scott Gottlieb, a conservative healthpolicy expert, to lead the U.S. Food and Drug Administration asearly as on Friday, sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/noncyclicals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2017/03/07/politics/coast-guard-cuts/</id>
+  <updated>1970-01-18T05:42:42.844Z</updated>
+  <title type="html">Trump&amp;#39;s draft budget proposes billion dollar cut to Coast Guard ...</title>
+  <link href="http://www.cnn.com/2017/03/07/politics/coast-guard-cuts/" title="www.cnn.com"/>
+  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the administration&amp;#39;s FY2018 budget request told CNN &lt;br&gt;
+the plan is to boost the Department of Homeland Security&amp;#39;s total budget by 6%,&amp;nbsp;...</summary>
+  <cse:cacheId>An_51yeOdu8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/03/07/politics/coast-guard-cuts/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-03-08T01:29:25Z"/>
+    <cse:Attribute name="pubdate" value="2017-03-08T01:29:25Z"/>
+    <cse:Attribute name="lastmod" value="2017-03-08T03:31:15Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/03/07/politics/coast-guard-cuts/index.html"/>
+    <cse:Attribute name="author" value="Ryan Browne"/>
+    <cse:Attribute name="og:title" value="Trump&apos;s draft budget proposes billion dollar cut to Coast Guard"/>
+    <cse:Attribute name="twitter:title" value="Trump&apos;s draft budget proposes billion dollar cut to Coast Guard"/>
+    <cse:Attribute name="og:description" value="Congressional sources told CNN Tuesday that President Donald Trump&apos;s Office of Management and Budget&apos;s proposal includes a $1.3 billion cut to the US Coast Guard."/>
+    <cse:Attribute name="twitter:description" value="Congressional sources told CNN Tuesday that President Donald Trump&apos;s Office of Management and Budget&apos;s proposal includes a $1.3 billion cut to the US Coast Guard."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
+    <cse:Attribute name="og:image:width" value="640"/>
+    <cse:Attribute name="og:image:height" value="360"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/03/07/politics/coast-guard-cuts/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,bra-us-military,art-vid"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-03-08T01:29:25Z"/>
+    <cse:Attribute name="datepublished" value="2017-03-08T01:29:25Z"/>
+    <cse:Attribute name="datemodified" value="2017-03-08T03:31:15Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/03/07/politics/coast-guard-cuts/index.html"/>
+    <cse:Attribute name="author" value="Ryan Browne"/>
+    <cse:Attribute name="headline" value="Trump&apos;s draft budget proposes billion dollar cut to Coast Guard - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="Congressional sources told CNN Tuesday that President Donald Trump&apos;s Office of Management and Budget&apos;s proposal includes a $1.3 billion cut to the US Coast Guard."/>
+    <cse:Attribute name="keywords" value="politics, Trump&apos;s draft budget proposes billion dollar cut to Coast Guard - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Trump&apos;s draft budget proposes billion dollar cut to Coast Guard"/>
+    <cse:Attribute name="articlebody" value="Story highlightsThe cuts would be applied to about a $9 billion operating budgetHawks on the Hill were quick to slam the cuts as too deep a reduction to the military branch&apos;s fundingWashington..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
