@@ -5,201 +5,140 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:42:42.844Z</updated>
+ <updated>1970-01-18T05:50:39.565Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9380" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9380" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>9380</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="7630" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="7630" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>7630</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.342432</cse:searchTime>
-  <cse:formattedSearchTime>0.34</cse:formattedSearchTime>
-  <cse:totalResults>9380</cse:totalResults>
-  <cse:formattedTotalResults>9,380</cse:formattedTotalResults>
+  <cse:searchTime>0.488323</cse:searchTime>
+  <cse:formattedSearchTime>0.49</cse:formattedSearchTime>
+  <cse:totalResults>7630</cse:totalResults>
+  <cse:formattedTotalResults>7,630</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-novomatic-ipo-idUSKBN16G15O</id>
-  <updated>1970-01-18T05:42:42.844Z</updated>
-  <title type="html">Austria&amp;#39;s Novomatic working with Macquarie on potential IPO: sources</title>
-  <link href="http://www.reuters.com/article/us-novomatic-ipo-idUSKBN16G15O" title="www.reuters.com"/>
-  <summary type="html">... working with Macquarie to prepare an initial public offering that could value the &lt;br&gt;
-company at more than 6 billion euros ($6.3 billion), three &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>p37qflSvh1AJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-novomatic-ipo-idUSKBN16G15O</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-delta-air-refineries-monroe-idUSKBN16L24H</id>
+  <updated>1970-01-18T05:50:39.565Z</updated>
+  <title type="html">Exclusive: Delta hires consultant to study refinery options - sources ...</title>
+  <link href="http://www.reuters.com/article/us-delta-air-refineries-monroe-idUSKBN16L24H" title="www.reuters.com"/>
+  <summary type="html">... prices if the carrier sells or closes the Philadelphia-area refinery it purchased &lt;br&gt;
+five years ago to keep fuel affordable, two &lt;b&gt;sources familiar with&lt;/b&gt; the process said.</summary>
+  <cse:cacheId>V3WcVQJoy04J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-delta-air-refineries-monroe-idUSKBN16L24H</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsConsumerGoodsAndRetail;innovationNewsFinancialServicesAndRealEstate;innovationNewsTechMediaTelco;euDealsNews;euPrivateEquityNews;innovationAMD;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;dassaultuk;MBenz;ubs;Intel;PFG;huawei;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Austria%27s+Novomatic+working+with+Macquarie+on+potential+IPO%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;everything;Deals;Aerospace;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;audib2b;cfaglobal;aa48hours;shipping;Intel;PFG;globalEnergyVbc;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Delta+hires+consultant+to+study+refinery+options+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Jarrett Renshaw and Jessica Resnick-Ault"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="US;NOVOMATIC;IPO;Investment Banking and Investment Services (TRBC);Germany;Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Western Europe;Hotels and Entertainment Services (TRBC);Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Casinos and Gaming (TRBC);Cyclical Consumer Services (TRBC);Deals;Automobiles / Auto Parts (Legacy);Banking Services (TRBC);Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);New Issues;Corporate Events;Economic Events;Euro Zone;Technology (TRBC);Integrated Telecommunications Services (TRBC);Austria;Market Events;Banking and Investment Services (TRBC);Europe;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Thu Mar 09 15:01:25 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-09T15:01:25+0000"/>
-    <cse:Attribute name="sailthru.title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO: sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Jarrett Renshaw and Jessica Resnick-Ault"/>
+    <cse:Attribute name="news_keywords" value="Ed Hirs;Jeff Warmann;Trebor Banstetter;US;DELTA;AIR;REFINERIES;MONROE;Gasoline;Company News;Western Europe;Exclusive;Corporate Events;Oil and Gas (TRBC);Oil Refineries;Major News;Exclude story from RNP;Europe;Jet Fuel / Kerosene;Regulation;Airlines (TRBC);United States"/>
+    <cse:Attribute name="revision_date" value="Tue Mar 14 16:29:26 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Jarrett Renshaw and Jessica Resnick-Ault"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-14T16:29:26+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Delta hires consultant to study refinery options - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-novomatic-ipo-idUSKBN16G15O"/>
+    <cse:Attribute name="og:title" value="Exclusive: Delta hires consultant to study refinery options - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-delta-air-refineries-monroe-idUSKBN16L24H"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The private owners of Austrian gaming technology group Novomatic [NVMTC.UL] are working with Macquarie to prepare an initial public offering that could value the company at more than 6 billion euros ($6.3 billion), three sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-09T15:01:25+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-09T15:01:25+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="US,NOVOMATIC,IPO,Investment Banking and Investment Services (TRBC),Germany,Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Western Europe,Hotels and Entertainment Services (TRBC),Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Casinos and Gaming (TRBC),Cyclical Consumer Services (TRBC),Deals,Automobiles / Auto Parts (Legacy),Banking Services (TRBC),Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),New Issues,Corporate Events,Economic Events,Euro Zone,Technology (TRBC),Integrated Telecommunications Services (TRBC),Austria,Market Events,Banking and Investment Services (TRBC),Europe,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="og:description" value="Ault"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170314&amp;t=2&amp;i=1176424346&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2D1AU"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-14T16:29:26+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-14T16:29:26+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Jarrett Renshaw and Jessica Resnick-Ault"/>
+    <cse:Attribute name="og:article:tag" value="Ed Hirs,Jeff Warmann,Trebor Banstetter,US,DELTA,AIR,REFINERIES,MONROE,Gasoline,Company News,Western Europe,Exclusive,Corporate Events,Oil and Gas (TRBC),Oil Refineries,Major News,Exclude story from RNP,Europe,Jet Fuel / Kerosene,Regulation,Airlines (TRBC),United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO: sources"/>
-    <cse:Attribute name="twitter:description" value="The private owners of Austrian gaming technology group Novomatic [NVMTC.UL] are working with Macquarie to prepare an initial public offering that could value the company at more than 6 billion euros ($6.3 billion), three sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/</id>
-  <updated>1970-01-18T05:42:42.844Z</updated>
-  <title type="html">Border wall cost: Trump administration to ask for fraction of border ...</title>
-  <link href="http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/" title="www.cnn.com"/>
-  <summary type="html">Separately, two &lt;b&gt;sources familiar with&lt;/b&gt; the administration&amp;#39;s FY2018 budget request &lt;br&gt;
-told CNN the plan is to boost DHS&amp;#39;s total budget by 6%, up to $43.8 billion.</summary>
-  <cse:cacheId>V7QgnyKAd8cJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/.../border-wall-money-supplemental-congress-budget/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-03-07T21:04:56Z"/>
-    <cse:Attribute name="pubdate" value="2017-03-07T21:04:56Z"/>
-    <cse:Attribute name="lastmod" value="2017-03-08T01:57:21Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/index.html"/>
-    <cse:Attribute name="author" value="Tal Kopan, CNN"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/talkopanreporter"/>
-    <cse:Attribute name="og:title" value="Trump to ask for border wall money — but only a little"/>
-    <cse:Attribute name="twitter:title" value="Trump to ask for border wall money — but only a little"/>
-    <cse:Attribute name="og:description" value="The Trump administration is planning to ask for a relatively small amount of money to start building the President&apos;s long-promised border wall this year -- far short of estimates of what the wall might cost, according to preliminary numbers shared with CNN."/>
-    <cse:Attribute name="twitter:description" value="The Trump administration is planning to ask for a relatively small amount of money to start building the President&apos;s long-promised border wall this year -- far short of estimates of what the wall might cost, according to preliminary numbers shared with CNN."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="1100"/>
-    <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-03-07T21:04:56Z"/>
-    <cse:Attribute name="datepublished" value="2017-03-07T21:04:56Z"/>
-    <cse:Attribute name="datemodified" value="2017-03-08T01:57:21Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/03/07/politics/border-wall-money-supplemental-congress-budget/index.html"/>
-    <cse:Attribute name="author" value="Tal Kopan, CNN"/>
-    <cse:Attribute name="headline" value="Border wall cost: Trump administration to ask for fraction of border wall estimates - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="The Trump administration is planning to ask for a relatively small amount of money to start building the President&apos;s long-promised border wall this year -- far short of estimates of what the..."/>
-    <cse:Attribute name="keywords" value="politics, Border wall cost: Trump administration to ask for fraction of border wall estimates - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Trump to ask for border wall money — but only a little"/>
-    <cse:Attribute name="articlebody" value="Story highlightsEstimates for President Donald Trump&apos;s wall have ranged in the tens of billionsBut the supplemental only sets aside $1 billion for the wallWashington (CNN)The Trump administration..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Delta hires consultant to study refinery options - sources"/>
+    <cse:Attribute name="twitter:description" value="Ault"/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170314&amp;t=2&amp;i=1176424346&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2D1AU"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170314&amp;t=2&amp;i=1176424346&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2D1AU"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170125131414-donald-trump-mexico-0831-super-tease.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170314&amp;t=2&amp;i=1176424346&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2D1AU"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="272"/>
+    <cse:Attribute name="height" value="186"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd-kbJXnLobsM_rzdpi7dFuLQNU5rT1MC3YL5OljkKw6DFy-FW-pR_inI"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/novomatic-ipo-idUSL5N1GM2Q1</id>
-  <updated>1970-01-18T05:42:42.844Z</updated>
-  <title type="html">Austria&amp;#39;s Novomatic working with Macquarie on potential IPO -sources</title>
-  <link href="http://www.reuters.com/article/novomatic-ipo-idUSL5N1GM2Q1" title="www.reuters.com"/>
-  <summary type="html">... Macquarie to prepare an initial public offeringthat could value the company at &lt;br&gt;
-more than 6 billion euros ($6.3billion), three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>Bwi0E_S8gIwJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/novomatic-ipo-idUSL5N1GM2Q1</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2</id>
+  <updated>1970-01-18T05:50:39.565Z</updated>
+  <title type="html">Exclusive: Delrahim to head Justice Department antitrust unit - sources</title>
+  <link href="http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2" title="www.reuters.com"/>
+  <summary type="html">... team, is expected to be nominated to head the U.S. Justice Department&amp;#39;s &lt;br&gt;
+Antitrust Division, two &lt;b&gt;sources familiar with&lt;/b&gt; the vetting process told Reuters on &lt;br&gt;
+Friday.</summary>
+  <cse:cacheId>gTQ3YKkGlQYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-usa-trump-antitrust-exclusive-idUSKBN16O2O2</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="privateEquity"/>
-    <cse:Attribute name="dcsext.channellist" value="rbssConsumerGoodsAndRetailNews;rbssTechMediaTelecomNews;privateEquity;rbssCasinosGaming;rbssBanks;technology-media-telco-SP;privateEquityConsumerGoodsAndRetail;privateEquityFinancialServicesAndRealEstate;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector;technologySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Austria%27s+Novomatic+working+with+Macquarie+on+potential+IPO+-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="politicsNews;everything;Deals;AllianzInsurance;AllianzInvestments;Allianz;newsproHome;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Delrahim+to+head+Justice+Department+antitrust+unit+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Diane Bartz and Svea Herbst-Bayliss"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-privateEquity"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Arno Schuetze;NOVOMATIC;IPO/;Investment Banking and Investment Services (TRBC);Germany;Security Listings / Delistings;Western Europe;Hotels and Entertainment Services (TRBC);Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Casinos and Gaming (TRBC);Cyclical Consumer Services (TRBC);Deals;Automobiles / Auto Parts (Legacy);Banking Services (TRBC);Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);New Issues;Corporate Events;Economic Events;Euro Zone;Technology (TRBC);Austria;Market Events;Banking and Investment Services (TRBC);Europe;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Thu Mar 09 10:14:54 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-09T10:14:54+0000"/>
-    <cse:Attribute name="sailthru.title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO -sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Diane Bartz and Svea Herbst-Bayliss"/>
+    <cse:Attribute name="news_keywords" value="Iran;Iran;Donald Trump;Makan Delrahim;Neil Gorsuch;Donald Trump;Makan Delrahim;Neil Gorsuch;US;USA;TRUMP;ANTITRUST;EXCLUSIVE;Crime / Law / Justice;Lawmaking;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Exclusive;Judicial Process / Court Cases / Court Decisions;Government / Politics;Corporate Events;Monopolies / Antitrust Issues;Major News;US Government News;White Collar Crime / Fraud / Corporate Crime;Regulation;Industrial Conglomerates (TRBC);Company Management Issues;United States"/>
+    <cse:Attribute name="revision_date" value="Sat Mar 18 00:21:37 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Diane Bartz and Svea Herbst-Bayliss"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-18T00:21:37+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/novomatic-ipo-idUSL5N1GM2Q1"/>
+    <cse:Attribute name="og:title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The private owners ofAustrian gaming technology group Novomatic areworking with Macquarie to prepare an initial public offeringthat could value the company at more than 6 billion euros ($6.3billion), three sources familiar with the matter said."/>
+    <cse:Attribute name="og:description" value="Bayliss"/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-09T10:14:54+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-09T10:14:54+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Arno Schuetze,NOVOMATIC,IPO/,Investment Banking and Investment Services (TRBC),Germany,Security Listings / Delistings,Western Europe,Hotels and Entertainment Services (TRBC),Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Casinos and Gaming (TRBC),Cyclical Consumer Services (TRBC),Deals,Automobiles / Auto Parts (Legacy),Banking Services (TRBC),Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),New Issues,Corporate Events,Economic Events,Euro Zone,Technology (TRBC),Austria,Market Events,Banking and Investment Services (TRBC),Europe,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-18T00:21:37+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-18T00:21:37+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Diane Bartz and Svea Herbst-Bayliss"/>
+    <cse:Attribute name="og:article:tag" value="Iran,Iran,Donald Trump,Makan Delrahim,Neil Gorsuch,Donald Trump,Makan Delrahim,Neil Gorsuch,US,USA,TRUMP,ANTITRUST,EXCLUSIVE,Crime / Law / Justice,Lawmaking,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Exclusive,Judicial Process / Court Cases / Court Decisions,Government / Politics,Corporate Events,Monopolies / Antitrust Issues,Major News,US Government News,White Collar Crime / Fraud / Corporate Crime,Regulation,Industrial Conglomerates (TRBC),Company Management Issues,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Austria&apos;s Novomatic working with Macquarie on potential IPO -sources"/>
-    <cse:Attribute name="twitter:description" value="The private owners ofAustrian gaming technology group Novomatic areworking with Macquarie to prepare an initial public offeringthat could value the company at more than 6 billion euros ($6.3billion), three sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
+    <cse:Attribute name="twitter:description" value="Bayliss"/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/privatecapital/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -212,21 +151,21 @@ more than 6 billion euros ($6.3billion), three &lt;b&gt;sources familiar with&lt
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/credit-agricole-saudi-idUSL5N1GL1GQ</id>
-  <updated>1970-01-18T05:42:42.844Z</updated>
-  <title type="html">Credit Agricole picks JPMorgan for Banque Saudi Fransi sale -sources</title>
-  <link href="http://www.reuters.com/article/credit-agricole-saudi-idUSL5N1GL1GQ" title="www.reuters.com"/>
-  <summary type="html">... has picked JPMorgan to help in a potentialsale of its 31 percent stake in &lt;br&gt;
-Banque Saudi Fransi,valued at nearly $2.4 billion, &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-dealsaid.</summary>
-  <cse:cacheId>TwroC9173l8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/credit-agricole-saudi-idUSL5N1GL1GQ</cse:formattedUrl>
+  <id>http://www.reuters.com/article/toshiba-accounting-idUSL3N1GQ33U</id>
+  <updated>1970-01-18T05:50:39.565Z</updated>
+  <title type="html">Toshiba seeking to extend Tuesday deadline for Q3 disclosure ...</title>
+  <link href="http://www.reuters.com/article/toshiba-accounting-idUSL3N1GQ33U" title="www.reuters.com"/>
+  <summary type="html">... submitting official third-quarter earnings due to disagreements with auditors &lt;br&gt;
+over issues at its U.S. nuclear unit Westinghouse, &lt;b&gt;sources familiar with&lt;/b&gt; the matter&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>JV-VOCTrB8UJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/toshiba-accounting-idUSL3N1GQ33U</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;bondsNews;marketsNews;fundsFundsNews;rbssFinancialServicesAndRealEstateNews;etfNews;privateEquity;rbssInvestmentServices;mnaNewsFinancialServicesAndRealEstate;privateEquityFinancialServicesAndRealEstate;americasMergersNews;asiaMergersNews;euMergersNews;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Credit+Agricole+picks+JPMorgan+for+Banque+Saudi+Fransi+sale+-sources"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;governmentFilingsNews;mergersNews;marketsNews;fundsFundsNews;rbssFinancialServicesAndRealEstateNews;rbssIndustryMaterialsUtilitiesNews;rbssTechMediaTelecomNews;etfNews;privateEquity;rbssInvestmentServices;rbssElectricalComponentsEquipment;rbssIndustrialConglomerates;rbssComputerHardware;rbssSemiconductors;technology-media-telco-SP;mnaNewsFinancialServicesAndRealEstate;mnaNewsIndustryMaterialsAndUtilities;privateEquityFinancialServicesAndRealEstate;privateEquityTechMediaTelco;privateEquityIndustryMaterialsAndUtilities;regulatoryNewsFinancialServicesAndRealEstate;regulatoryNewsTechMediaTelco;regulatoryNewsIndustryMaterialsAndUtilities;americasMergersNews;americasRegulatoryNews;asiaMergersNews;asiaRegulatoryNews;mnaNewsTechMediaTelco;audib2b;MOC_US_2015-16;ABG_2016;MOC_US_2017;financialsSector;industrialsSector;technologySector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Toshiba+seeking+to+extend+Tuesday+deadline+for+Q3+disclosure+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
@@ -234,30 +173,30 @@ dealsaid.</summary>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="CREDIT AGRICOLE;SAUDI (URGENT);Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Western Europe;Privatisations;Equity Financing;Equity Investments;France;Credit and Corporate Debt;Saudi Arabia;Corporate Debt;Divestitures / Spin;Offs;Asia / Pacific;Government Borrowing Requirement;Debt / Fixed Income Markets;Middle East;Deals;United Kingdom;United States;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Insurance (TRBC);Financials (TRBC);Financials (Legacy);New Issues;Corporate Events;Economic Events;Euro Zone;Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Europe;Emerging Market Countries;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Wed Mar 08 08:53:06 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Japan;United States;TOSHIBA;ACCOUNTING/ (PIX);Investment Banking and Investment Services (TRBC);Energy Markets;Taiwan;Computers and Office Equipment (TRBC);Restructuring / Reorganization;Accounting Issues;Deals;United States;Americas;Company News;Nuclear Power Stations;Power Markets;Technology (TRBC);Corporate Governance;Industrial Conglomerates (TRBC);Investment Management and Fund Operators (TRBC);Mergers / Acquisitions / Takeovers;Japan;Energy (Legacy);Semiconductors and Semiconductor Equipment (TRBC);Industrial Goods (TRBC);Semiconductors (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Major News;Industrials (TRBC);Machinery : Equipment and Components (TRBC);Computer Hardware (TRBC);Commodities Markets;Funds;South Korea;Financials (TRBC);Financials (Legacy);Corporate Events;Electrical Components and Equipment (TRBC);Banking and Investment Services (TRBC);Regulation;Technology Equipment (TRBC);Technology / Media / Telecoms;Emerging Market Countries;Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Mon Mar 13 10:07:42 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-08T08:53:06+0000"/>
-    <cse:Attribute name="sailthru.title" value="Credit Agricole picks JPMorgan for Banque Saudi Fransi sale -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-13T10:07:42+0000"/>
+    <cse:Attribute name="sailthru.title" value="Toshiba seeking to extend Tuesday deadline for Q3 disclosure -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Credit Agricole picks JPMorgan for Banque Saudi Fransi sale -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/credit-agricole-saudi-idUSL5N1GL1GQ"/>
+    <cse:Attribute name="og:title" value="Toshiba seeking to extend Tuesday deadline for Q3 disclosure -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/toshiba-accounting-idUSL3N1GQ33U"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="French bank Credit Agricole has picked JPMorgan to help in a potentialsale of its 31 percent stake in Banque Saudi Fransi,valued at nearly $2.4 billion, sources familiar with the dealsaid.    The sale would be an opportunity for a foreign buyer to gaina foothold in the kingdom&apos;s banking sector, in which 12commercial lenders share total assets worth around 2.22 trillionriyals ($592 billion)."/>
+    <cse:Attribute name="og:description" value="Japan&apos;s Toshiba Corp isseeking to extend its Tuesday deadline for submitting officialthird-quarter earnings due to disagreements with auditors overissues at its U.S. nuclear unit Westinghouse, sources familiarwith the matter said."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-08T08:53:06+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-08T08:53:06+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-13T10:07:42+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-13T10:07:42+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="CREDIT AGRICOLE,SAUDI (URGENT),Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Western Europe,Privatisations,Equity Financing,Equity Investments,France,Credit and Corporate Debt,Saudi Arabia,Corporate Debt,Divestitures / Spin,Offs,Asia / Pacific,Government Borrowing Requirement,Debt / Fixed Income Markets,Middle East,Deals,United Kingdom,United States,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Insurance (TRBC),Financials (TRBC),Financials (Legacy),New Issues,Corporate Events,Economic Events,Euro Zone,Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Europe,Emerging Market Countries,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="og:article:tag" value="Japan,United States,TOSHIBA,ACCOUNTING/ (PIX),Investment Banking and Investment Services (TRBC),Energy Markets,Taiwan,Computers and Office Equipment (TRBC),Restructuring / Reorganization,Accounting Issues,Deals,United States,Americas,Company News,Nuclear Power Stations,Power Markets,Technology (TRBC),Corporate Governance,Industrial Conglomerates (TRBC),Investment Management and Fund Operators (TRBC),Mergers / Acquisitions / Takeovers,Japan,Energy (Legacy),Semiconductors and Semiconductor Equipment (TRBC),Industrial Goods (TRBC),Semiconductors (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Major News,Industrials (TRBC),Machinery : Equipment and Components (TRBC),Computer Hardware (TRBC),Commodities Markets,Funds,South Korea,Financials (TRBC),Financials (Legacy),Corporate Events,Electrical Components and Equipment (TRBC),Banking and Investment Services (TRBC),Regulation,Technology Equipment (TRBC),Technology / Media / Telecoms,Emerging Market Countries,Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Credit Agricole picks JPMorgan for Banque Saudi Fransi sale -sources"/>
-    <cse:Attribute name="twitter:description" value="French bank Credit Agricole has picked JPMorgan to help in a potentialsale of its 31 percent stake in Banque Saudi Fransi,valued at nearly $2.4 billion, sources familiar with the dealsaid.    The sale would be an opportunity for a foreign buyer to gaina foothold in the kingdom&apos;s banking sector, in which 12commercial lenders share total assets worth around 2.22 trillionriyals ($592 billion)."/>
+    <cse:Attribute name="twitter:title" value="Toshiba seeking to extend Tuesday deadline for Q3 disclosure -sources"/>
+    <cse:Attribute name="twitter:description" value="Japan&apos;s Toshiba Corp isseeking to extend its Tuesday deadline for submitting officialthird-quarter earnings due to disagreements with auditors overissues at its U.S. nuclear unit Westinghouse, sources familiarwith the matter said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
@@ -277,357 +216,409 @@ dealsaid.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/novomatic-ipo-idUSL5N1GL644</id>
-  <updated>1970-01-18T05:42:42.844Z</updated>
-  <title type="html">Austria&amp;#39;s Novomatic explores potential stock market listing -sources ...</title>
-  <link href="http://www.reuters.com/article/novomatic-ipo-idUSL5N1GL644" title="www.reuters.com"/>
-  <summary type="html">... are exploring an initial public offering that could value the company at more &lt;br&gt;
-than 6 billion euros ($6.3 billion), three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>p7mZryDYm9IJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/novomatic-ipo-idUSL5N1GL644</cse:formattedUrl>
+  <id>http://www.politico.com/story/2017/03/andrew-wheeler-epa-deputy-sources-236151</id>
+  <updated>1970-01-18T05:50:39.565Z</updated>
+  <title type="html">Sources: Trump expected to tap Wheeler as EPA deputy - POLITICO</title>
+  <link href="http://www.politico.com/story/2017/03/andrew-wheeler-epa-deputy-sources-236151" title="www.politico.com"/>
+  <summary type="html">Jim Inhofe, to be deputy administrator of the Environmental Protection Agency, &lt;br&gt;
+&lt;b&gt;sources familiar with&lt;/b&gt; the hiring process told POLITICO. Sources cautioned that&amp;nbsp;...</summary>
+  <cse:cacheId>VxC3BiE4XnEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/.../andrew-wheeler-epa-deputy-sources-236151</cse:formattedUrl>
   <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Andrew Restuccia"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/andrew-restuccia"/>
+    <cse:Attribute name="url_text" value="Andrew Restuccia"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Alex Guillén"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/alex-guillen"/>
+    <cse:Attribute name="url_text" value="Alex Guillén"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Anthony Adragna"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/anthony-adragna"/>
+    <cse:Attribute name="url_text" value="Anthony Adragna"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Danny Vinik"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/danny-vinik"/>
+    <cse:Attribute name="url_text" value="Danny Vinik"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Andrew Restuccia"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/andrew-restuccia"/>
+    <cse:Attribute name="url_text" value="Andrew Restuccia"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Alex Guillén"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/alex-guillen"/>
+    <cse:Attribute name="url_text" value="Alex Guillén"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Anthony Adragna"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/anthony-adragna"/>
+    <cse:Attribute name="url_text" value="Anthony Adragna"/>
+   </cse:DataObject>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="privateEquity"/>
-    <cse:Attribute name="dcsext.channellist" value="rbssConsumerGoodsAndRetailNews;rbssFinancialServicesAndRealEstateNews;rbssTechMediaTelecomNews;privateEquity;rbssCasinosGaming;rbssBanks;rbssInvestmentServices;technology-media-telco-SP;privateEquityConsumerGoodsAndRetail;privateEquityFinancialServicesAndRealEstate;innovationAMD;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;verizonmm;audib2b;cfaglobal;aa48hours;PorscheCayenne;MBenz;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;cyclicalConsumerGoodsSector;financialsSector;technologySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Austria%27s+Novomatic+explores+potential+stock+market+listing+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-privateEquity"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Germany;Johann Graf;NOVOMATIC;IPO/ (URGENT);Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Western Europe;Hotels and Entertainment Services (TRBC);Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Casinos and Gaming (TRBC);Cyclical Consumer Services (TRBC);Deals;Automobiles / Auto Parts (Legacy);Banking Services (TRBC);Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);New Issues;Corporate Events;Economic Events;Euro Zone;Technology (TRBC);Austria;Market Events;Banking and Investment Services (TRBC);Europe;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Wed Mar 08 19:29:07 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-08T19:29:07+0000"/>
-    <cse:Attribute name="sailthru.title" value="Austria&apos;s Novomatic explores potential stock market listing -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Austria&apos;s Novomatic explores potential stock market listing -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/novomatic-ipo-idUSL5N1GL644"/>
+    <cse:Attribute name="og:title" value="Sources: Trump expected to tap Wheeler as EPA deputy"/>
+    <cse:Attribute name="og:description" value="It&apos;s unclear when Trump will make the announcement, but one source said it could be weeks before Wheeler is officially tapped."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The private owners ofAustrian gaming technology group Novomatic areexploring an initial public offering that could value thecompany at more than 6 billion euros ($6.3 billion), threesources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-08T19:29:07+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-08T19:29:07+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Germany,Johann Graf,NOVOMATIC,IPO/ (URGENT),Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Western Europe,Hotels and Entertainment Services (TRBC),Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Casinos and Gaming (TRBC),Cyclical Consumer Services (TRBC),Deals,Automobiles / Auto Parts (Legacy),Banking Services (TRBC),Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),New Issues,Corporate Events,Economic Events,Euro Zone,Technology (TRBC),Austria,Market Events,Banking and Investment Services (TRBC),Europe,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Austria&apos;s Novomatic explores potential stock market listing -sources"/>
-    <cse:Attribute name="twitter:description" value="The private owners ofAustrian gaming technology group Novomatic areexploring an initial public offering that could value thecompany at more than 6 billion euros ($6.3 billion), threesources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/privatecapital/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2nfbnaX"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/andrew.restuccia"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/6b/1d/cfed25a84f51a60a47bb8d4ee5ac/epa-gty-629.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@politico"/>
+    <cse:Attribute name="twitter:creator" value="@politico"/>
+    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
+    <cse:Attribute name="og:site_name" value="POLITICO"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="http://static.politico.com/6b/1d/cfed25a84f51a60a47bb8d4ee5ac/epa-gty-629.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="width" value="305"/>
+    <cse:Attribute name="height" value="165"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHDpHPxB_QJsqJ0y51FdFCj2wex3VR3NuTfc0CE6ZZO6f-B6mOn4fJowg"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.msn.com/en-us/news/politics/trump-poised-to-tap-scott-gottlieb-to-head-fda-sources/ar-AAo798u</id>
-  <updated>1970-01-18T05:42:42.844Z</updated>
-  <title type="html">Trump poised to tap Scott Gottlieb to head FDA: sources</title>
-  <link href="https://www.msn.com/en-us/news/politics/trump-poised-to-tap-scott-gottlieb-to-head-fda-sources/ar-AAo798u" title="www.msn.com"/>
-  <summary type="html">... Dr. Scott Gottlieb, a conservative health policy expert, to lead the U.S. Food &lt;br&gt;
-and Drug Administration as early as on Friday, &lt;b&gt;sources familiar with&lt;/b&gt; the matter &lt;br&gt;
-said.</summary>
-  <cse:cacheId>VrGPakWnkVUJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.msn.com/en-us/news/politics/...to.../ar-AAo798u</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-toshiba-accounting-idUSKBN16K10R</id>
+  <updated>1970-01-18T05:50:39.565Z</updated>
+  <title type="html">Toshiba seeking to extend Tuesday deadline for third-quarter ...</title>
+  <link href="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN16K10R" title="www.reuters.com"/>
+  <summary type="html">... official third-quarter earnings due to disagreements with auditors over issues at &lt;br&gt;
+its U.S. nuclear unit Westinghouse, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>1BILFw8ujAYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-toshiba-accounting-idUSKBN16K10R</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="application-name" value="Trump poised to tap Scott Gottlieb to head FDA: sources"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#1e1e1e"/>
-    <cse:Attribute name="msapplication-tileimage" value="//static-entertainment-eus-s-msn-com.akamaized.net/sc/1f/08ced4.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
-    <cse:Attribute name="sharing_url" value="http://a.msn.com/01/en-us/AAo798u"/>
-    <cse:Attribute name="og:url" value="https://www.msn.com/en-us/news/politics/trump-poised-to-tap-scott-gottlieb-to-head-fda-sources/ar-AAo798u"/>
-    <cse:Attribute name="og:title" value="Trump poised to tap Scott Gottlieb to head FDA: sources"/>
-    <cse:Attribute name="og:description" value="The White House is expected to nominate Dr. Scott Gottlieb, a conservative health policy expert, to lead the U.S. Food and Drug Administration as early as on Friday, sources familiar with the matter said."/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;technologyNews;gc07;japan;everything;AllianzInvestments;Allianz;asia;newsproHome;audib2b;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;Intel;PFG;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Toshiba+seeking+to+extend+Tuesday+deadline+for+third-quarter+disclosure%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Taro Fuse"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Taro Fuse"/>
+    <cse:Attribute name="news_keywords" value="Japan;United States;US;TOSHIBA;ACCOUNTING;Mergers / Acquisitions / Takeovers;Japan;Semiconductors (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Major News;Restructuring / Reorganization;Accounting Issues;Pictures;United States;Computer Hardware (TRBC);Company News;Corporate Events;Technology (TRBC);Electrical Components and Equipment (TRBC);Science;Regulation;Industrial Conglomerates (TRBC);Technology Equipment (TRBC);Company Management Issues;Emerging Market Countries;Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Mon Mar 13 11:31:50 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Taro Fuse"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-13T11:31:50+0000"/>
+    <cse:Attribute name="sailthru.title" value="Toshiba seeking to extend Tuesday deadline for third-quarter disclosure: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Toshiba seeking to extend Tuesday deadline for third-quarter disclosure: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN16K10R"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="MSN"/>
-    <cse:Attribute name="og:image" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAo76MF.img"/>
-    <cse:Attribute name="fb:app_id" value="844282955707707"/>
+    <cse:Attribute name="og:description" value="Japan&apos;s Toshiba Corp (6502.T) is seeking to extend its Tuesday deadline for submitting official third-quarter earnings due to disagreements with auditors over issues at its U.S. nuclear unit Westinghouse, sources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170313&amp;t=2&amp;i=1175879996&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2C0PR"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-13T11:31:50+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-13T11:31:50+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Taro Fuse"/>
+    <cse:Attribute name="og:article:tag" value="Japan,United States,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Japan,Semiconductors (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Major News,Restructuring / Reorganization,Accounting Issues,Pictures,United States,Computer Hardware (TRBC),Company News,Corporate Events,Technology (TRBC),Electrical Components and Equipment (TRBC),Science,Regulation,Industrial Conglomerates (TRBC),Technology Equipment (TRBC),Company Management Issues,Emerging Market Countries,Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Toshiba seeking to extend Tuesday deadline for third-quarter disclosure: sources"/>
+    <cse:Attribute name="twitter:description" value="Japan&apos;s Toshiba Corp (6502.T) is seeking to extend its Tuesday deadline for submitting official third-quarter earnings due to disagreements with auditors over issues at its U.S. nuclear unit Westinghouse, sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170313&amp;t=2&amp;i=1175879996&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2C0PR"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170313&amp;t=2&amp;i=1175879996&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2C0PR"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170313&amp;t=2&amp;i=1175879996&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2C0PR"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="298"/>
+    <cse:Attribute name="height" value="169"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2hPURvKYfH-h_nJ3dM6ZGIsu-l0rf45wgN7zJ71b97OrcBkulfNpqnIU"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-glencore-investments-idUSKBN16K166</id>
+  <updated>1970-01-18T05:50:39.565Z</updated>
+  <title type="html">Glencore hires Morgan Stanley banker as it targets investments ...</title>
+  <link href="http://www.reuters.com/article/us-glencore-investments-idUSKBN16K166" title="www.reuters.com"/>
+  <summary type="html">Glencore has hired a senior banker from Morgan Stanley, two &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt; the matter told Reuters, as the mining giant looks at investments and&amp;nbsp;...</summary>
+  <cse:cacheId>-1fSNDxzJbwJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-glencore-investments-idUSKBN16K166</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="everything;Deals;AllianzInvestments;Allianz;cfaglobal;aa48hours;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Glencore+hires+Morgan+Stanley+banker+as+it+targets+investments"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Olivia Oran and Dmitry Zhdannikov"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Olivia Oran and Dmitry Zhdannikov"/>
+    <cse:Attribute name="news_keywords" value="Switzerland;Cyrus Behbehani;Ivan Glasenberg;US;GLENCORE;INVESTMENTS;Chemicals (Legacy);Banks (TRBC);Switzerland;Company News;Western Europe;Coal (TRBC);Crude Oil;Base Metals;Food Processing (TRBC);Corporate Events;Corporate Debt;Oil and Gas Exploration and Production (TRBC);Specialty Mining and Metals (TRBC);Divestitures / Spin;Offs;Mining;Coal;Banking and Investment Services (TRBC);Government Borrowing Requirement;Europe;United Kingdom;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Mon Mar 13 17:04:02 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Olivia Oran and Dmitry Zhdannikov"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-13T17:04:02+0000"/>
+    <cse:Attribute name="sailthru.title" value="Glencore hires Morgan Stanley banker as it targets investments"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Glencore hires Morgan Stanley banker as it targets investments"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-glencore-investments-idUSKBN16K166"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Glencore has hired a senior banker from Morgan Stanley, two sources familiar with the matter told Reuters, as the mining giant looks at investments and acquisitions again after two years of belt tightening due to low commodities prices."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170313&amp;t=2&amp;i=1175876979&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2C0NQ"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-13T17:04:02+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-13T17:04:02+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Olivia Oran and Dmitry Zhdannikov"/>
+    <cse:Attribute name="og:article:tag" value="Switzerland,Cyrus Behbehani,Ivan Glasenberg,US,GLENCORE,INVESTMENTS,Chemicals (Legacy),Banks (TRBC),Switzerland,Company News,Western Europe,Coal (TRBC),Crude Oil,Base Metals,Food Processing (TRBC),Corporate Events,Corporate Debt,Oil and Gas Exploration and Production (TRBC),Specialty Mining and Metals (TRBC),Divestitures / Spin,Offs,Mining,Coal,Banking and Investment Services (TRBC),Government Borrowing Requirement,Europe,United Kingdom,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Glencore hires Morgan Stanley banker as it targets investments"/>
+    <cse:Attribute name="twitter:description" value="Glencore has hired a senior banker from Morgan Stanley, two sources familiar with the matter told Reuters, as the mining giant looks at investments and acquisitions again after two years of belt tightening due to low commodities prices."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170313&amp;t=2&amp;i=1175876979&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2C0NQ"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170313&amp;t=2&amp;i=1175876979&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2C0NQ"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170313&amp;t=2&amp;i=1175876979&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2C0NQ"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="291"/>
+    <cse:Attribute name="height" value="173"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWW-8dA5DA3YDF-XyrHSWvu2Od95rcb_lDl4xpwExzD-uqLaCAjrZVDG0"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/wires/reuters/article-4315256/Japan-govt-backed-fund-minority-stake-Toshiba-chip-unit-sources.html</id>
+  <updated>1970-01-18T05:50:39.565Z</updated>
+  <title type="html">Japan govt-backed fund may take minority stake in Toshiba chip unit ...</title>
+  <link href="http://www.dailymail.co.uk/wires/reuters/article-4315256/Japan-govt-backed-fund-minority-stake-Toshiba-chip-unit-sources.html" title="www.dailymail.co.uk"/>
+  <summary type="html">... a minority partner - a move that would help the government prevent a sale to &lt;br&gt;
+bidders it deems risky to national security, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Japan-govt-backed-fund-minority-stake-Toshiba- chip-unit-sources.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Japan,govt,backed,fund,minority,stake,Toshiba,chip,unit,sources"/>
+    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4315256/Japan-govt-backed-fund-minority-stake-Toshiba-chip-unit-sources.html"/>
+    <cse:Attribute name="rating" value="General"/>
+    <cse:Attribute name="doc-class" value="Living Document"/>
+    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
+    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
+    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="articleid" value="4315256"/>
+    <cse:Attribute name="divclasspage" value="articlePage"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Japan govt-backed fund may take minority stake in Toshiba chip unit..."/>
+    <cse:Attribute name="twitter:description" value="By Makiko Yamazaki and Taiga UranakaTOKYO, March 15 (Reuters) - A Japanese state-backed fund may  invest in Toshiba Corp&apos;s memory chip business as a ..."/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4315256/Japan-govt-backed-fund-minority-stake-Toshiba-chip-unit-sources.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
+    <cse:Attribute name="article:published_time" value="2017-03-15T07:47:32+0000"/>
+    <cse:Attribute name="article:modified_time" value="2017-03-15T07:47:33+0000"/>
+    <cse:Attribute name="article:section" value="Reuters"/>
+    <cse:Attribute name="article:tag" value="Japan govt backed fund minority stake Toshiba chip unit sources"/>
+    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
+    <cse:Attribute name="fb:app_id" value="146202712090395"/>
+    <cse:Attribute name="og:site_name" value="Mail Online"/>
+    <cse:Attribute name="og:title" value="Japan govt-backed fund may take minority stake in Toshiba chip unit..."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="By Makiko Yamazaki and Taiga UranakaTOKYO, March 15 (Reuters) - A Japanese state-backed fund may  invest in Toshiba Corp&apos;s memory chip business as a ..."/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4315256/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="og:image:width" value="636"/>
+    <cse:Attribute name="og:image:height" value="382"/>
+    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Japan govt-backed fund may take minority stake in Toshiba chip unit -sources"/>
+    <cse:Attribute name="datepublished" value="2017-03-15T07:47:32+0000"/>
+    <cse:Attribute name="datemodified" value="2017-03-15T07:47:33+0000"/>
+    <cse:Attribute name="articlebody" value="By Makiko Yamazaki and Taiga UranakaTOKYO, March 15 (Reuters) - A Japanese state-backed fund may invest in Toshiba Corp&apos;s memory chip business as a minority partner - a move that would help..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="height" value="382"/>
+    <cse:Attribute name="width" value="636"/>
    </cse:DataObject>
    <cse:DataObject type="organization">
-    <cse:Attribute name="url" value="http://www.reuters.com/"/>
+    <cse:Attribute name="name" value="MailOnline"/>
    </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlebody" value="© REUTERS/Chip East Scott Gottlieb FDA deputy commissioner for policy speaks to reporters at Reuters Health summit in New York The White House is expected to nominate Dr. Scott Gottlieb, a..."/>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
+    <cse:Attribute name="width" value="350"/>
+    <cse:Attribute name="height" value="66"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAjZm6Y.img?h=250&amp;w=300&amp;m=1&amp;q=60&amp;b=white"/>
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="240"/>
-    <cse:Attribute name="height" value="200"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-WVAyca2slMF4im-Aq7SbQ0TBxJIK-VKsNtTHyINpNVcIr0QCIgHgEw"/>
+    <cse:Attribute name="width" value="290"/>
+    <cse:Attribute name="height" value="174"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL2N1GN1X8</id>
-  <updated>1970-01-18T05:42:42.844Z</updated>
-  <title type="html">Trump poised to tap Scott Gottlieb to head FDA -sources | Reuters</title>
-  <link href="http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL2N1GN1X8" title="www.reuters.com"/>
-  <summary type="html">... Dr. Scott Gottlieb, a conservative health policyexpert, to lead the U.S. Food and &lt;br&gt;
-Drug Administration as earlyas on Friday, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>iMl5lf3gii0J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/usa-health-fda-gottlieb-idUSL2N1GN1X8</cse:formattedUrl>
+  <id>https://www.usnews.com/news/top-news/articles/2017-03-17/japan-not-considering-support-for-toshiba-sharing-information-with-us</id>
+  <updated>1970-01-18T05:50:39.565Z</updated>
+  <title type="html">Japan Not Considering Support for Toshiba, Sharing Information ...</title>
+  <link href="https://www.usnews.com/news/top-news/articles/2017-03-17/japan-not-considering-support-for-toshiba-sharing-information-with-us" title="www.usnews.com"/>
+  <summary type="html">While the government has been adamant that it will not be stepping in to rescue &lt;br&gt;
+Toshiba, &lt;b&gt;sources familiar with&lt;/b&gt; the matter have said a state-backed fund may&amp;nbsp;...</summary>
+  <cse:cacheId>6iAEci2VGBUJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.usnews.com/.../japan-not-considering-support-for-toshiba- sharing-information-with-us</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="site" value="news"/>
+    <cse:Attribute name="zone" value="top-news/articles"/>
+    <cse:Attribute name="keyword" value="Collections: Top News"/>
+    <cse:Attribute name="page_type" value="article"/>
+    <cse:Attribute name="date_published" value="March 17, 2017"/>
+    <cse:Attribute name="title" value="Japan Not Considering Support for Toshiba, Sharing Information With U.S."/>
+    <cse:Attribute name="og:title" value="Japan Not Considering Support for Toshiba, Sharing Information With U.S."/>
+    <cse:Attribute name="og:image" value="https://www.usnews.com/cmsmedia/fd/8d7d1c7210641b459af429d1eef0a6/tag:reuters.com,2017:newsml_LYNXMPED2G0N9:22017-03-17T103211Z_2_LYNXMPED2G0N9_RTROPTP_3_TOSHIBA-ACCOUNTING.JPG"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="US News &amp; World Report"/>
+    <cse:Attribute name="og:url" value="https://www.usnews.com/news/top-news/articles/2017-03-17/japan-not-considering-support-for-toshiba-sharing-information-with-us"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@USNews"/>
+    <cse:Attribute name="twitter:title" value="Japan Not Considering Support for Toshiba, Sharing Information With U.S."/>
+    <cse:Attribute name="msvalidate.01" value="A8E47FA91124063A4A9C78AD5273DC0F"/>
+    <cse:Attribute name="fb:app_id" value="130063997038366"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://www.usnews.com/cmsmedia/fd/8d7d1c7210641b459af429d1eef0a6/tag:reuters.com,2017:newsml_LYNXMPED2G0N9:22017-03-17T103211Z_2_LYNXMPED2G0N9_RTROPTP_3_TOSHIBA-ACCOUNTING.JPG"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="261"/>
+    <cse:Attribute name="height" value="193"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRl2_T_kLllJ-f-npkdpp4ingGlamDy2CfgjCxm7U_SAW56DV-4emzJN4-B"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.latimes.com/local/lanow/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316-story.html</id>
+  <updated>1970-01-18T05:50:39.565Z</updated>
+  <title type="html">Thieves steal $200,000 in valuables from Kendall Jenner&amp;#39;s ...</title>
+  <link href="http://www.latimes.com/local/lanow/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316-story.html" title="www.latimes.com"/>
+  <summary type="html">According to law enforcement &lt;b&gt;sources familiar with&lt;/b&gt; the investigation, Jenner had &lt;br&gt;
+gone to look for her jewels and noticed numerous items missing. Authorities&amp;nbsp;...</summary>
+  <cse:cacheId>1kCtsPk-wqUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.latimes.com/.../la-me-ln-theft-kendall-jenner-hollywood-hills-home- 20170316-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i13prod-f130286-0-202.1"/>
+    <cse:Attribute name="author" value="Los Angeles Times"/>
+    <cse:Attribute name="date" value="2017-03-16"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 Los Angeles Times"/>
+    <cse:Attribute name="news_keywords" value="Kendall Jenner, Kardashian family, Los Angeles Police Department"/>
+    <cse:Attribute name="fb_title" value="Thieves steal $200,000 in valuables from Kendall Jenner&apos;s Hollywood Hills home"/>
+    <cse:Attribute name="og:title" value="Thieves steal $200,000 in valuables from Kendall Jenner&apos;s Hollywood Hills home"/>
+    <cse:Attribute name="og:description" value="About $200,000 in valuables have been stolen from model Kendall Jenner’s Hollywood Hills home, law enforcement sources said."/>
+    <cse:Attribute name="fb:page_id" value="5863113009"/>
+    <cse:Attribute name="fb:admins" value="100000786395051"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.latimes.com/local/lanow/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-58cb30e4/turbine/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316"/>
+    <cse:Attribute name="og:site_name" value="latimes.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@latimes"/>
+    <cse:Attribute name="y_key" value="cee2fe4077f8d050"/>
+    <cse:Attribute name="msvalidate.01" value="AAC9C18F70AC386BC4DCF4DDF9BF1786"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/deeplinkid/92814867"/>
+    <cse:Attribute name="so:status" value="5,1"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="LOCAL"/>
+    <cse:Attribute name="headline" value="Thieves steal $200,000 in valuables from Kendall Jenner&apos;s Hollywood Hills home"/>
+    <cse:Attribute name="datepublished" value="2017-03-16T10:55:00PDT"/>
+    <cse:Attribute name="articlebody" value="About $200,000 in valuables has been stolen from model Kendall Jenner’s Hollywood Hills home, law enforcement sources said.Someone called police about 1:15 a.m. Thursday to report a “burglary..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-58cb30e4/turbine/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="239"/>
+    <cse:Attribute name="height" value="211"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR99GsVHCxRJN8gBiMcxAux3MMq8mFxNtS16oUyXj9VMlgWvLVn78mfEP-N"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
+  <updated>1970-01-18T05:50:39.565Z</updated>
+  <title type="html">Davide Barbuscia</title>
+  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
+  <summary type="html">... needed for the acquisition of the ministry of finance&amp;#39;s shares in Oman &lt;br&gt;
+Telecommunications Co (Omantel), &lt;b&gt;sources familiar with&lt;/b&gt; the situation said on &lt;br&gt;
+Thursday.</summary>
+  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="FRBtestD"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationAMD;everything;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;verizonmm;credit-rss;cfaglobal;aa48hours;MBenz;ubs;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;USLegal"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Trump+poised+to+tap+Scott+Gottlieb+to+head+FDA+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-FRBtestD"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Donald Trump;John D. Taylor;Peter A Thiel;Scott Gottlieb;USA;HEALTH/FDA;GOTTLIEB (UPDATE 1);Americas;United States"/>
-    <cse:Attribute name="revision_date" value="Fri Mar 10 21:52:48 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-10T21:52:48+0000"/>
-    <cse:Attribute name="sailthru.title" value="Trump poised to tap Scott Gottlieb to head FDA -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Trump poised to tap Scott Gottlieb to head FDA -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL2N1GN1X8"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The White House is expected tonominate Dr. Scott Gottlieb, a conservative health policyexpert, to lead the U.S. Food and Drug Administration as earlyas on Friday, sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-10T21:52:48+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-10T21:52:48+0000"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Donald Trump,John D. Taylor,Peter A Thiel,Scott Gottlieb,USA,HEALTH/FDA,GOTTLIEB (UPDATE 1),Americas,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Trump poised to tap Scott Gottlieb to head FDA -sources"/>
-    <cse:Attribute name="twitter:description" value="The White House is expected tonominate Dr. Scott Gottlieb, a conservative health policyexpert, to lead the U.S. Food and Drug Administration as earlyas on Friday, sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-viacom-epix-sale-exclusive-idUSKBN16G35Y</id>
-  <updated>1970-01-18T05:42:42.844Z</updated>
-  <title type="html">Exclusive: MGM in talks to acquire entirety of Epix - sources | Reuters</title>
-  <link href="http://www.reuters.com/article/us-viacom-epix-sale-exclusive-idUSKBN16G35Y" title="www.reuters.com"/>
-  <summary type="html">... of shares in its European warehouse owner Logicor, that could be valued at 13 &lt;br&gt;
-billion euros ($14 billion), according to two &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>gOYxxT8VVXEJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-viacom-epix-sale-exclusive-idUSKBN16G35Y</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="entertainmentNews;innovationNews;innovationNewsTechMediaTelco;vbcSmallBusiness;FundsandETFs;innovationAMD;everything;Deals;AllianzInvestments;Allianz;newsproHome;cfaglobal;aa48hours;dassaultuk;ubs;Intel;PFG;huawei;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+MGM+in+talks+to+acquire+entirety+of+Epix+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Jessica Toonkel and Liana B. Baker"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Jessica Toonkel and Liana B. Baker"/>
-    <cse:Attribute name="news_keywords" value="United States;Robert Bakish;US;VIACOM;EPIX;SALE;EXCLUSIVE;Mergers / Acquisitions / Takeovers;Film;Exclusive;Arts / Culture / Entertainment;Equity Investments;Corporate Events;Corporate Debt;Technology (TRBC);Divestitures / Spin;Offs;Major News;Debt / Fixed Income Markets;Technology / Media / Telecoms;Broadcasting (TRBC);Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Thu Mar 09 22:56:45 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Jessica Toonkel and Liana B. Baker"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-09T22:56:45+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: MGM in talks to acquire entirety of Epix - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: MGM in talks to acquire entirety of Epix - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-viacom-epix-sale-exclusive-idUSKBN16G35Y"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="MGM Holdings Inc is in talks to acquire the 81 percent of Epix it does not already own from two of its partners in the premium U.S. channel, Viacom Inc (VIAB.O) and Lionsgate LGFA.N, people familiar with the matter said on Thursday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-09T22:56:45+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-09T22:56:45+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Jessica Toonkel and Liana B. Baker"/>
-    <cse:Attribute name="og:article:tag" value="United States,Robert Bakish,US,VIACOM,EPIX,SALE,EXCLUSIVE,Mergers / Acquisitions / Takeovers,Film,Exclusive,Arts / Culture / Entertainment,Equity Investments,Corporate Events,Corporate Debt,Technology (TRBC),Divestitures / Spin,Offs,Major News,Debt / Fixed Income Markets,Technology / Media / Telecoms,Broadcasting (TRBC),Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: MGM in talks to acquire entirety of Epix - sources"/>
-    <cse:Attribute name="twitter:description" value="MGM Holdings Inc is in talks to acquire the 81 percent of Epix it does not already own from two of its partners in the premium U.S. channel, Viacom Inc (VIAB.O) and Lionsgate LGFA.N, people familiar with the matter said on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL1N1FE4JI</id>
-  <updated>1970-01-18T05:42:42.844Z</updated>
-  <title type="html">Trump poised to tap Gottlieb to head FDA -sources | Reuters</title>
-  <link href="http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL1N1FE4JI" title="www.reuters.com"/>
-  <summary type="html">... Dr. Scott Gottlieb, a conservative healthpolicy expert, to lead the U.S. Food and &lt;br&gt;
-Drug Administration asearly as on Friday, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>hAweyIQkZWQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/usa-health-fda-gottlieb-idUSL1N1FE4JI</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="nonCyclicalConsumerGoodsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="rbssConsumerGoodsAndRetailNews;rbssHealthcareNews;rbssTobacco;rbssBiotechnology;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;MOC_US_2017;healthcareSector;nonCyclicalConsumerGoodsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Trump+poised+to+tap+Gottlieb+to+head+FDA+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-nonCyclicalConsumerGoodsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Donald Trump;Scott Gottlieb;USA;HEALTH/FDA;GOTTLIEB (URGENT);Arts / Culture / Entertainment;Pharmaceuticals (TRBC);Tobacco (TRBC);Major News;Food and Tobacco (TRBC);Medical Regulatory Issues;Food Processing (Legacy);Non;Cyclical Consumer Goods and Services (TRBC);United States;Americas;Drug Safety;Health / Medicine;Government / Politics;Food and Beverages (TRBC);Corporate Events;Biotechnology and Medical Research (TRBC);General News;Beverages (Legacy);US Government News;Pharmaceuticals and Medical Research (TRBC);Science;Regulation;Drug and Device Development;Healthcare (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Fri Mar 10 17:43:12 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-10T17:43:12+0000"/>
-    <cse:Attribute name="sailthru.title" value="Trump poised to tap Gottlieb to head FDA -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Trump poised to tap Gottlieb to head FDA -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-health-fda-gottlieb-idUSL1N1FE4JI"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The White House wasexpected to nominate Dr. Scott Gottlieb, a conservative healthpolicy expert, to lead the U.S. Food and Drug Administration asearly as on Friday, sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-10T17:43:12+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-10T17:43:12+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Donald Trump,Scott Gottlieb,USA,HEALTH/FDA,GOTTLIEB (URGENT),Arts / Culture / Entertainment,Pharmaceuticals (TRBC),Tobacco (TRBC),Major News,Food and Tobacco (TRBC),Medical Regulatory Issues,Food Processing (Legacy),Non,Cyclical Consumer Goods and Services (TRBC),United States,Americas,Drug Safety,Health / Medicine,Government / Politics,Food and Beverages (TRBC),Corporate Events,Biotechnology and Medical Research (TRBC),General News,Beverages (Legacy),US Government News,Pharmaceuticals and Medical Research (TRBC),Science,Regulation,Drug and Device Development,Healthcare (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Trump poised to tap Gottlieb to head FDA -sources"/>
-    <cse:Attribute name="twitter:description" value="The White House wasexpected to nominate Dr. Scott Gottlieb, a conservative healthpolicy expert, to lead the U.S. Food and Drug Administration asearly as on Friday, sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/noncyclicals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/03/07/politics/coast-guard-cuts/</id>
-  <updated>1970-01-18T05:42:42.844Z</updated>
-  <title type="html">Trump&amp;#39;s draft budget proposes billion dollar cut to Coast Guard ...</title>
-  <link href="http://www.cnn.com/2017/03/07/politics/coast-guard-cuts/" title="www.cnn.com"/>
-  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the administration&amp;#39;s FY2018 budget request told CNN &lt;br&gt;
-the plan is to boost the Department of Homeland Security&amp;#39;s total budget by 6%,&amp;nbsp;...</summary>
-  <cse:cacheId>An_51yeOdu8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/03/07/politics/coast-guard-cuts/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-03-08T01:29:25Z"/>
-    <cse:Attribute name="pubdate" value="2017-03-08T01:29:25Z"/>
-    <cse:Attribute name="lastmod" value="2017-03-08T03:31:15Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/03/07/politics/coast-guard-cuts/index.html"/>
-    <cse:Attribute name="author" value="Ryan Browne"/>
-    <cse:Attribute name="og:title" value="Trump&apos;s draft budget proposes billion dollar cut to Coast Guard"/>
-    <cse:Attribute name="twitter:title" value="Trump&apos;s draft budget proposes billion dollar cut to Coast Guard"/>
-    <cse:Attribute name="og:description" value="Congressional sources told CNN Tuesday that President Donald Trump&apos;s Office of Management and Budget&apos;s proposal includes a $1.3 billion cut to the US Coast Guard."/>
-    <cse:Attribute name="twitter:description" value="Congressional sources told CNN Tuesday that President Donald Trump&apos;s Office of Management and Budget&apos;s proposal includes a $1.3 billion cut to the US Coast Guard."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
-    <cse:Attribute name="og:image:width" value="640"/>
-    <cse:Attribute name="og:image:height" value="360"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/03/07/politics/coast-guard-cuts/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,bra-us-military,art-vid"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-03-08T01:29:25Z"/>
-    <cse:Attribute name="datepublished" value="2017-03-08T01:29:25Z"/>
-    <cse:Attribute name="datemodified" value="2017-03-08T03:31:15Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/03/07/politics/coast-guard-cuts/index.html"/>
-    <cse:Attribute name="author" value="Ryan Browne"/>
-    <cse:Attribute name="headline" value="Trump&apos;s draft budget proposes billion dollar cut to Coast Guard - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="Congressional sources told CNN Tuesday that President Donald Trump&apos;s Office of Management and Budget&apos;s proposal includes a $1.3 billion cut to the US Coast Guard."/>
-    <cse:Attribute name="keywords" value="politics, Trump&apos;s draft budget proposes billion dollar cut to Coast Guard - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Trump&apos;s draft budget proposes billion dollar cut to Coast Guard"/>
-    <cse:Attribute name="articlebody" value="Story highlightsThe cuts would be applied to about a $9 billion operating budgetHawks on the Hill were quick to slam the cuts as too deep a reduction to the military branch&apos;s fundingWashington..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/120401091516-u-s-coast-guard-bertholf-story-top.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
