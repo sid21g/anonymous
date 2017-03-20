@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:52:51.688Z</updated>
+ <updated>1970-01-18T05:53:27.095Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9360" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9360" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>9360</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9870" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9870" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9870</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.187706</cse:searchTime>
-  <cse:formattedSearchTime>0.19</cse:formattedSearchTime>
-  <cse:totalResults>9360</cse:totalResults>
-  <cse:formattedTotalResults>9,360</cse:formattedTotalResults>
+  <cse:searchTime>0.217439</cse:searchTime>
+  <cse:formattedSearchTime>0.22</cse:formattedSearchTime>
+  <cse:totalResults>9870</cse:totalResults>
+  <cse:formattedTotalResults>9,870</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-delta-air-refineries-monroe-idUSKBN16L24H</id>
-  <updated>1970-01-18T05:52:51.688Z</updated>
+  <updated>1970-01-18T05:53:27.095Z</updated>
   <title type="html">Exclusive: Delta hires consultant to study refinery options - sources ...</title>
   <link href="http://www.reuters.com/article/us-delta-air-refineries-monroe-idUSKBN16L24H" title="www.reuters.com"/>
   <summary type="html">... prices if the carrier sells or closes the Philadelphia-area refinery it purchased &lt;br&gt;
@@ -87,7 +87,7 @@ five years ago to keep fuel affordable, two &lt;b&gt;sources familiar with&lt;/b
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2</id>
-  <updated>1970-01-18T05:52:51.688Z</updated>
+  <updated>1970-01-18T05:53:27.095Z</updated>
   <title type="html">Exclusive: Delrahim to head Justice Department antitrust unit - sources</title>
   <link href="http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2" title="www.reuters.com"/>
   <summary type="html">... team, is expected to be nominated to head the U.S. Justice Department&amp;#39;s &lt;br&gt;
@@ -97,120 +97,48 @@ Friday.</summary>
   <cse:formattedUrl type="html">www.reuters.com/.../us-usa-trump-antitrust-exclusive-idUSKBN16O2O2</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
-    <cse:Attribute name="format-detection" value="telephone=no"/>
-    <cse:Attribute name="win-tracking-page-type" value="Article"/>
-    <cse:Attribute name="win-tracking-section-name" value="Article"/>
-    <cse:Attribute name="win-quote-link" value="/finance/stocks/overview"/>
-    <cse:Attribute name="dcsext.articleid" value="USKBN16O2O2"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
-    <cse:Attribute name="dcsext.dartzone" value="mobile.us.reuters/politics/article"/>
+    <cse:Attribute name="dcsext.channellist" value="politicsNews;everything;Deals;AllianzInsurance;AllianzInvestments;Allianz;newsproHome;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Delrahim+to+head+Justice+Department+antitrust+unit+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Diane Bartz and Svea Herbst-Bayliss"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Diane Bartz and Svea Herbst-Bayliss"/>
     <cse:Attribute name="news_keywords" value="Iran;Iran;Donald Trump;Makan Delrahim;Neil Gorsuch;Donald Trump;Makan Delrahim;Neil Gorsuch;US;USA;TRUMP;ANTITRUST;EXCLUSIVE;Crime / Law / Justice;Lawmaking;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Exclusive;Judicial Process / Court Cases / Court Decisions;Government / Politics;Corporate Events;Monopolies / Antitrust Issues;Major News;US Government News;White Collar Crime / Fraud / Corporate Crime;Regulation;Industrial Conglomerates (TRBC);Company Management Issues;United States"/>
+    <cse:Attribute name="revision_date" value="Sat Mar 18 00:21:37 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Diane Bartz and Svea Herbst-Bayliss"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-18T00:21:37+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Bayliss"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-18T00:21:37+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-18T00:21:37+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Diane Bartz and Svea Herbst-Bayliss"/>
+    <cse:Attribute name="og:article:tag" value="Iran,Iran,Donald Trump,Makan Delrahim,Neil Gorsuch,Donald Trump,Makan Delrahim,Neil Gorsuch,US,USA,TRUMP,ANTITRUST,EXCLUSIVE,Crime / Law / Justice,Lawmaking,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Exclusive,Judicial Process / Court Cases / Court Decisions,Government / Politics,Corporate Events,Monopolies / Antitrust Issues,Major News,US Government News,White Collar Crime / Fraud / Corporate Crime,Regulation,Industrial Conglomerates (TRBC),Company Management Issues,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
     <cse:Attribute name="twitter:title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
     <cse:Attribute name="twitter:description" value="Bayliss"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v3/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image:alt" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v3/images/rcom-default.png"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2"/>
-    <cse:Attribute name="og:description" value="Bayliss"/>
-    <cse:Attribute name="article:published_time" value="2017-03-18T00:21:37+0000"/>
-    <cse:Attribute name="article:modified_time" value="2017-03-18T00:21:37+0000"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=602660809"/>
-    <cse:Attribute name="application-name" value="Reuters.com"/>
-    <cse:Attribute name="msapplication-tap-highlight" value="no"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#da532c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://s2.reutersmedia.net/resources_v3/images/favicon/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-310x310.png"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Politics"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Politics"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="Sat Mar 18 00:21:37 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Politics - Politics"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="None"/>
-    <cse:Attribute name="analyticsattributes.author" value="Diane Bartz and Svea Herbst-Bayliss"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
-    <cse:Attribute name="win-tracking-article-id" value="USKBN16O2O2"/>
-    <cse:Attribute name="win-tracking-article-title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
-    <cse:Attribute name="win-tracking-article-author" value="Diane Bartz and Svea Herbst-Bayliss"/>
-    <cse:Attribute name="win-tracking-article-publishdate" value="Fri Mar 17, 2017 | 8:21 PM EDT"/>
-    <cse:Attribute name="win-tracking-article-type" value="None"/>
-    <cse:Attribute name="jjj" value="politicsNews"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v3/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNimnNyiGCKtwbJXfBunW-2jBCumDNasdNPEpEroaNM6YS3hwXAJ8q7C7G"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/toshiba-accounting-idUSL3N1GQ33U</id>
-  <updated>1970-01-18T05:52:51.688Z</updated>
-  <title type="html">Toshiba seeking to extend Tuesday deadline for Q3 disclosure ...</title>
-  <link href="http://www.reuters.com/article/toshiba-accounting-idUSL3N1GQ33U" title="www.reuters.com"/>
-  <summary type="html">... submitting official third-quarter earnings due to disagreements with auditors &lt;br&gt;
-over issues at its U.S. nuclear unit Westinghouse, &lt;b&gt;sources familiar with&lt;/b&gt; the matter&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>JV-VOCTrB8UJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/toshiba-accounting-idUSL3N1GQ33U</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;governmentFilingsNews;mergersNews;marketsNews;fundsFundsNews;rbssFinancialServicesAndRealEstateNews;rbssIndustryMaterialsUtilitiesNews;rbssTechMediaTelecomNews;etfNews;privateEquity;rbssInvestmentServices;rbssElectricalComponentsEquipment;rbssIndustrialConglomerates;rbssComputerHardware;rbssSemiconductors;technology-media-telco-SP;mnaNewsFinancialServicesAndRealEstate;mnaNewsIndustryMaterialsAndUtilities;privateEquityFinancialServicesAndRealEstate;privateEquityTechMediaTelco;privateEquityIndustryMaterialsAndUtilities;regulatoryNewsFinancialServicesAndRealEstate;regulatoryNewsTechMediaTelco;regulatoryNewsIndustryMaterialsAndUtilities;americasMergersNews;americasRegulatoryNews;asiaMergersNews;asiaRegulatoryNews;mnaNewsTechMediaTelco;audib2b;MOC_US_2015-16;ABG_2016;MOC_US_2017;financialsSector;industrialsSector;technologySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Toshiba+seeking+to+extend+Tuesday+deadline+for+Q3+disclosure+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Japan;United States;TOSHIBA;ACCOUNTING/ (PIX);Investment Banking and Investment Services (TRBC);Energy Markets;Taiwan;Computers and Office Equipment (TRBC);Restructuring / Reorganization;Accounting Issues;Deals;United States;Americas;Company News;Nuclear Power Stations;Power Markets;Technology (TRBC);Corporate Governance;Industrial Conglomerates (TRBC);Investment Management and Fund Operators (TRBC);Mergers / Acquisitions / Takeovers;Japan;Energy (Legacy);Semiconductors and Semiconductor Equipment (TRBC);Industrial Goods (TRBC);Semiconductors (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Major News;Industrials (TRBC);Machinery : Equipment and Components (TRBC);Computer Hardware (TRBC);Commodities Markets;Funds;South Korea;Financials (TRBC);Financials (Legacy);Corporate Events;Electrical Components and Equipment (TRBC);Banking and Investment Services (TRBC);Regulation;Technology Equipment (TRBC);Technology / Media / Telecoms;Emerging Market Countries;Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Mon Mar 13 10:07:42 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-13T10:07:42+0000"/>
-    <cse:Attribute name="sailthru.title" value="Toshiba seeking to extend Tuesday deadline for Q3 disclosure -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Toshiba seeking to extend Tuesday deadline for Q3 disclosure -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/toshiba-accounting-idUSL3N1GQ33U"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Japan&apos;s Toshiba Corp isseeking to extend its Tuesday deadline for submitting officialthird-quarter earnings due to disagreements with auditors overissues at its U.S. nuclear unit Westinghouse, sources familiarwith the matter said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-13T10:07:42+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-13T10:07:42+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Japan,United States,TOSHIBA,ACCOUNTING/ (PIX),Investment Banking and Investment Services (TRBC),Energy Markets,Taiwan,Computers and Office Equipment (TRBC),Restructuring / Reorganization,Accounting Issues,Deals,United States,Americas,Company News,Nuclear Power Stations,Power Markets,Technology (TRBC),Corporate Governance,Industrial Conglomerates (TRBC),Investment Management and Fund Operators (TRBC),Mergers / Acquisitions / Takeovers,Japan,Energy (Legacy),Semiconductors and Semiconductor Equipment (TRBC),Industrial Goods (TRBC),Semiconductors (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Major News,Industrials (TRBC),Machinery : Equipment and Components (TRBC),Computer Hardware (TRBC),Commodities Markets,Funds,South Korea,Financials (TRBC),Financials (Legacy),Corporate Events,Electrical Components and Equipment (TRBC),Banking and Investment Services (TRBC),Regulation,Technology Equipment (TRBC),Technology / Media / Telecoms,Emerging Market Countries,Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Toshiba seeking to extend Tuesday deadline for Q3 disclosure -sources"/>
-    <cse:Attribute name="twitter:description" value="Japan&apos;s Toshiba Corp isseeking to extend its Tuesday deadline for submitting officialthird-quarter earnings due to disagreements with auditors overissues at its U.S. nuclear unit Westinghouse, sources familiarwith the matter said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Funds"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -224,7 +152,7 @@ over issues at its U.S. nuclear unit Westinghouse, &lt;b&gt;sources familiar wit
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/cbq-bond-idUSL5N1GW089</id>
-  <updated>1970-01-18T05:52:51.688Z</updated>
+  <updated>1970-01-18T05:53:27.095Z</updated>
   <title type="html">Commercial Bank of Qatar considers international bond issue ...</title>
   <link href="http://www.reuters.com/article/cbq-bond-idUSL5N1GW089" title="www.reuters.com"/>
   <summary type="html">... in talks with banks about a potentialinternational bond issue that will most likely &lt;br&gt;
@@ -288,7 +216,7 @@ be denominated inU.S. dollars, &lt;b&gt;sources familiar with&lt;/b&gt; the matt
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/story/2017/03/andrew-wheeler-epa-deputy-sources-236151</id>
-  <updated>1970-01-18T05:52:51.688Z</updated>
+  <updated>1970-01-18T05:53:27.095Z</updated>
   <title type="html">Sources: Trump expected to tap Wheeler as EPA deputy - POLITICO</title>
   <link href="http://www.politico.com/story/2017/03/andrew-wheeler-epa-deputy-sources-236151" title="www.politico.com"/>
   <summary type="html">Jim Inhofe, to be deputy administrator of the Environmental Protection Agency, &lt;br&gt;
@@ -357,7 +285,7 @@ be denominated inU.S. dollars, &lt;b&gt;sources familiar with&lt;/b&gt; the matt
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/journalists/svea-herbst-bayliss</id>
-  <updated>1970-01-18T05:52:51.688Z</updated>
+  <updated>1970-01-18T05:53:27.095Z</updated>
   <title type="html">Svea Herbst-Bayliss</title>
   <link href="http://www.reuters.com/journalists/svea-herbst-bayliss" title="www.reuters.com"/>
   <summary type="html">... team, is expected to be nominated to head the U.S. Justice Department&amp;#39;s &lt;br&gt;
@@ -403,7 +331,7 @@ Friday.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.usnews.com/news/top-news/articles/2017-03-17/japan-not-considering-support-for-toshiba-sharing-information-with-us</id>
-  <updated>1970-01-18T05:52:51.688Z</updated>
+  <updated>1970-01-18T05:53:27.095Z</updated>
   <title type="html">Japan Not Considering Support for Toshiba, Sharing Information ...</title>
   <link href="https://www.usnews.com/news/top-news/articles/2017-03-17/japan-not-considering-support-for-toshiba-sharing-information-with-us" title="www.usnews.com"/>
   <summary type="html">While the government has been adamant that it will not be stepping in to rescue &lt;br&gt;
@@ -441,83 +369,72 @@ Toshiba, &lt;b&gt;sources familiar with&lt;/b&gt; the matter have said a state-b
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.dailymail.co.uk/wires/reuters/article-4315256/Japan-govt-backed-fund-minority-stake-Toshiba-chip-unit-sources.html</id>
-  <updated>1970-01-18T05:52:51.688Z</updated>
-  <title type="html">Japan govt-backed fund may take minority stake in Toshiba chip unit ...</title>
-  <link href="http://www.dailymail.co.uk/wires/reuters/article-4315256/Japan-govt-backed-fund-minority-stake-Toshiba-chip-unit-sources.html" title="www.dailymail.co.uk"/>
-  <summary type="html">... a minority partner - a move that would help the government prevent a sale to &lt;br&gt;
-bidders it deems risky to national security, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Japan-govt-backed-fund-minority-stake-Toshiba- chip-unit-sources.html</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-refinery-fire-lyondell-houston-idUSKBN16N09Y</id>
+  <updated>1970-01-18T05:53:27.095Z</updated>
+  <title type="html">Lyondell Houston gasoline unit cooling tower hit by fire: sources ...</title>
+  <link href="http://www.reuters.com/article/us-refinery-fire-lyondell-houston-idUSKBN16N09Y" title="www.reuters.com"/>
+  <summary type="html">... water for a shut gasoline-producing unit at Lyondell Basell Industries&amp;#39; 263776 &lt;br&gt;
+barrel per day (bpd) Houston refinery, said &lt;b&gt;sources familiar with&lt;/b&gt; plant operations.</summary>
+  <cse:cacheId>I0hx-NzZJMwJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-refinery-fire-lyondell-houston-idUSKBN16N09Y</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="news_keywords" value="Japan,govt,backed,fund,minority,stake,Toshiba,chip,unit,sources"/>
-    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4315256/Japan-govt-backed-fund-minority-stake-Toshiba-chip-unit-sources.html"/>
-    <cse:Attribute name="rating" value="General"/>
-    <cse:Attribute name="doc-class" value="Living Document"/>
-    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
-    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
-    <cse:Attribute name="twitter:account_id" value="15438913"/>
-    <cse:Attribute name="articleid" value="4315256"/>
-    <cse:Attribute name="divclasspage" value="articlePage"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Japan govt-backed fund may take minority stake in Toshiba chip unit..."/>
-    <cse:Attribute name="twitter:description" value="By Makiko Yamazaki and Taiga UranakaTOKYO, March 15 (Reuters) - A Japanese state-backed fund may  invest in Toshiba Corp&apos;s memory chip business as a ..."/>
-    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4315256/Japan-govt-backed-fund-minority-stake-Toshiba-chip-unit-sources.html"/>
-    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
-    <cse:Attribute name="article:published_time" value="2017-03-15T07:47:32+0000"/>
-    <cse:Attribute name="article:modified_time" value="2017-03-15T07:47:33+0000"/>
-    <cse:Attribute name="article:section" value="Reuters"/>
-    <cse:Attribute name="article:tag" value="Japan govt backed fund minority stake Toshiba chip unit sources"/>
-    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
-    <cse:Attribute name="fb:app_id" value="146202712090395"/>
-    <cse:Attribute name="og:site_name" value="Mail Online"/>
-    <cse:Attribute name="og:title" value="Japan govt-backed fund may take minority stake in Toshiba chip unit..."/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="everything;verizonmm;marine;cfaglobal;aa48hours;nonegative;greenpeace;ubs;Intel;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Lyondell+Houston+gasoline+unit+cooling+tower+hit+by+fire%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Bhavesh V. Patel;US;REFINERY;FIRE;LYONDELL;HOUSTON;Energy Markets;Gasoline;Company News;Gulf Coast (PADD III);Energy (Legacy);North America (Energy);Corporate Events;Fires;Disasters / Accidents;Refined Products;Oil Refineries;English;Exclude story from RNP;Commodities News (3rd Party);Reports;Commodity Chemicals (TRBC);United States"/>
+    <cse:Attribute name="revision_date" value="Thu Mar 16 02:54:58 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-16T02:54:58+0000"/>
+    <cse:Attribute name="sailthru.title" value="Lyondell Houston gasoline unit cooling tower hit by fire: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Lyondell Houston gasoline unit cooling tower hit by fire: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-refinery-fire-lyondell-houston-idUSKBN16N09Y"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="By Makiko Yamazaki and Taiga UranakaTOKYO, March 15 (Reuters) - A Japanese state-backed fund may  invest in Toshiba Corp&apos;s memory chip business as a ..."/>
-    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4315256/index.html"/>
-    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="og:image:width" value="636"/>
-    <cse:Attribute name="og:image:height" value="382"/>
-    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Japan govt-backed fund may take minority stake in Toshiba chip unit -sources"/>
-    <cse:Attribute name="datepublished" value="2017-03-15T07:47:32+0000"/>
-    <cse:Attribute name="datemodified" value="2017-03-15T07:47:33+0000"/>
-    <cse:Attribute name="articlebody" value="By Makiko Yamazaki and Taiga UranakaTOKYO, March 15 (Reuters) - A Japanese state-backed fund may invest in Toshiba Corp&apos;s memory chip business as a minority partner - a move that would help..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="By Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
-    <cse:Attribute name="height" value="382"/>
-    <cse:Attribute name="width" value="636"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="MailOnline"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
-    <cse:Attribute name="width" value="350"/>
-    <cse:Attribute name="height" value="66"/>
+    <cse:Attribute name="og:description" value="A fire broke out on Wednesday night on a tower that cools water for a shut gasoline-producing unit at Lyondell Basell Industries&apos; 263,776 barrel per day (bpd) Houston refinery, said sources familiar with plant operations."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-16T02:54:58+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-16T02:54:58+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Bhavesh V. Patel,US,REFINERY,FIRE,LYONDELL,HOUSTON,Energy Markets,Gasoline,Company News,Gulf Coast (PADD III),Energy (Legacy),North America (Energy),Corporate Events,Fires,Disasters / Accidents,Refined Products,Oil Refineries,English,Exclude story from RNP,Commodities News (3rd Party),Reports,Commodity Chemicals (TRBC),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Lyondell Houston gasoline unit cooling tower hit by fire: sources"/>
+    <cse:Attribute name="twitter:description" value="A fire broke out on Wednesday night on a tower that cools water for a shut gasoline-producing unit at Lyondell Basell Industries&apos; 263,776 barrel per day (bpd) Houston refinery, said sources familiar with plant operations."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="290"/>
-    <cse:Attribute name="height" value="174"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-toshiba-accounting-idUSKBN16K10R</id>
-  <updated>1970-01-18T05:52:51.688Z</updated>
+  <updated>1970-01-18T05:53:27.095Z</updated>
   <title type="html">Toshiba seeking to extend Tuesday deadline for third-quarter ...</title>
   <link href="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN16K10R" title="www.reuters.com"/>
   <summary type="html">... official third-quarter earnings due to disagreements with auditors over issues at &lt;br&gt;
@@ -581,7 +498,7 @@ its U.S. nuclear unit Westinghouse, &lt;b&gt;sources familiar with&lt;/b&gt; the
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.latimes.com/local/lanow/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316-story.html</id>
-  <updated>1970-01-18T05:52:51.688Z</updated>
+  <updated>1970-01-18T05:53:27.095Z</updated>
   <title type="html">Thieves steal $200,000 in valuables from Kendall Jenner&amp;#39;s ...</title>
   <link href="http://www.latimes.com/local/lanow/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316-story.html" title="www.latimes.com"/>
   <summary type="html">According to law enforcement &lt;b&gt;sources familiar with&lt;/b&gt; the investigation, Jenner had &lt;br&gt;
@@ -591,7 +508,7 @@ gone to look for her jewels and noticed numerous items missing. Authorities&amp;
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i13prod-7f661a9-0-100.1"/>
+    <cse:Attribute name="x-servername" value="i13prod-7f661a9-10-94.1"/>
     <cse:Attribute name="author" value="Los Angeles Times"/>
     <cse:Attribute name="date" value="2017-03-16"/>
     <cse:Attribute name="copyright" value="Copyright (c) 2017 Los Angeles Times"/>
@@ -616,7 +533,6 @@ gone to look for her jewels and noticed numerous items missing. Authorities&amp;
    <cse:DataObject type="article">
     <cse:Attribute name="articlesection" value="LOCAL"/>
     <cse:Attribute name="headline" value="Thieves steal $200,000 in valuables from Kendall Jenner&apos;s Hollywood Hills home"/>
-    <cse:Attribute name="video" value="Play VideoPlayMuteCurrent Time 0:00/Duration Time 0:00Loaded: 0%0:00Progress: 0%0:00 Progress: 0%Stream TypeLIVERemaining Time -0:00 SharePlayback Rate1ChaptersChaptersdescriptions off, selectedDes..."/>
     <cse:Attribute name="datepublished" value="2017-03-16T10:55:00PDT"/>
     <cse:Attribute name="articlebody" value="About $200,000 in valuables has been stolen from model Kendall Jenner’s Hollywood Hills home, law enforcement sources said.Someone called police about 1:15 a.m. Thursday to report a “burglary..."/>
    </cse:DataObject>
@@ -627,6 +543,51 @@ gone to look for her jewels and noticed numerous items missing. Authorities&amp;
     <cse:Attribute name="width" value="239"/>
     <cse:Attribute name="height" value="211"/>
     <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR99GsVHCxRJN8gBiMcxAux3MMq8mFxNtS16oUyXj9VMlgWvLVn78mfEP-N"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/pamela-barbaglia</id>
+  <updated>1970-01-18T05:53:27.095Z</updated>
+  <title type="html">Pamela Barbaglia</title>
+  <link href="http://www.reuters.com/journalists/pamela-barbaglia" title="www.reuters.com"/>
+  <summary type="html">... of shares in its European warehouse owner Logicor, that could be valued at 13 &lt;br&gt;
+billion euros ($14 billion), according to two &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>xjTOWCfqFOoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/pamela-barbaglia</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/pamela-barbaglia"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
