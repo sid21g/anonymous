@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:52:12.483Z</updated>
+ <updated>1970-01-18T05:52:50.160Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8450" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8450" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>8450</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9370" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9370" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9370</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.344706</cse:searchTime>
-  <cse:formattedSearchTime>0.34</cse:formattedSearchTime>
-  <cse:totalResults>8450</cse:totalResults>
-  <cse:formattedTotalResults>8,450</cse:formattedTotalResults>
+  <cse:searchTime>0.176598</cse:searchTime>
+  <cse:formattedSearchTime>0.18</cse:formattedSearchTime>
+  <cse:totalResults>9370</cse:totalResults>
+  <cse:formattedTotalResults>9,370</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-delta-air-refineries-monroe-idUSKBN16L24H</id>
-  <updated>1970-01-18T05:52:12.483Z</updated>
+  <updated>1970-01-18T05:52:50.160Z</updated>
   <title type="html">Exclusive: Delta hires consultant to study refinery options - sources ...</title>
   <link href="http://www.reuters.com/article/us-delta-air-refineries-monroe-idUSKBN16L24H" title="www.reuters.com"/>
   <summary type="html">... prices if the carrier sells or closes the Philadelphia-area refinery it purchased &lt;br&gt;
@@ -87,7 +87,7 @@ five years ago to keep fuel affordable, two &lt;b&gt;sources familiar with&lt;/b
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2</id>
-  <updated>1970-01-18T05:52:12.483Z</updated>
+  <updated>1970-01-18T05:52:50.160Z</updated>
   <title type="html">Exclusive: Delrahim to head Justice Department antitrust unit - sources</title>
   <link href="http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2" title="www.reuters.com"/>
   <summary type="html">... team, is expected to be nominated to head the U.S. Justice Department&amp;#39;s &lt;br&gt;
@@ -97,62 +97,69 @@ Friday.</summary>
   <cse:formattedUrl type="html">www.reuters.com/.../us-usa-trump-antitrust-exclusive-idUSKBN16O2O2</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+    <cse:Attribute name="format-detection" value="telephone=no"/>
+    <cse:Attribute name="win-tracking-page-type" value="Article"/>
+    <cse:Attribute name="win-tracking-section-name" value="Article"/>
+    <cse:Attribute name="win-quote-link" value="/finance/stocks/overview"/>
+    <cse:Attribute name="dcsext.articleid" value="USKBN16O2O2"/>
     <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="politicsNews;everything;Deals;AllianzInsurance;AllianzInvestments;Allianz;newsproHome;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Delrahim+to+head+Justice+Department+antitrust+unit+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Diane Bartz and Svea Herbst-Bayliss"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
-    <cse:Attribute name="author" value="Diane Bartz and Svea Herbst-Bayliss"/>
+    <cse:Attribute name="dcsext.dartzone" value="mobile.us.reuters/politics/article"/>
     <cse:Attribute name="news_keywords" value="Iran;Iran;Donald Trump;Makan Delrahim;Neil Gorsuch;Donald Trump;Makan Delrahim;Neil Gorsuch;US;USA;TRUMP;ANTITRUST;EXCLUSIVE;Crime / Law / Justice;Lawmaking;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Exclusive;Judicial Process / Court Cases / Court Decisions;Government / Politics;Corporate Events;Monopolies / Antitrust Issues;Major News;US Government News;White Collar Crime / Fraud / Corporate Crime;Regulation;Industrial Conglomerates (TRBC);Company Management Issues;United States"/>
-    <cse:Attribute name="revision_date" value="Sat Mar 18 00:21:37 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Diane Bartz and Svea Herbst-Bayliss"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-18T00:21:37+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Bayliss"/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-18T00:21:37+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-18T00:21:37+0000"/>
-    <cse:Attribute name="og:article:section" value="Politics"/>
-    <cse:Attribute name="og:article:author" value="Diane Bartz and Svea Herbst-Bayliss"/>
-    <cse:Attribute name="og:article:tag" value="Iran,Iran,Donald Trump,Makan Delrahim,Neil Gorsuch,Donald Trump,Makan Delrahim,Neil Gorsuch,US,USA,TRUMP,ANTITRUST,EXCLUSIVE,Crime / Law / Justice,Lawmaking,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Exclusive,Judicial Process / Court Cases / Court Decisions,Government / Politics,Corporate Events,Monopolies / Antitrust Issues,Major News,US Government News,White Collar Crime / Fraud / Corporate Crime,Regulation,Industrial Conglomerates (TRBC),Company Management Issues,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
     <cse:Attribute name="twitter:title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
     <cse:Attribute name="twitter:description" value="Bayliss"/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
-    <cse:Attribute name="wt.cg_n" value="Politics"/>
-    <cse:Attribute name="wt.cg_s" value="Politics"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v3/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image:alt" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v3/images/rcom-default.png"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2"/>
+    <cse:Attribute name="og:description" value="Bayliss"/>
+    <cse:Attribute name="article:published_time" value="2017-03-18T00:21:37+0000"/>
+    <cse:Attribute name="article:modified_time" value="2017-03-18T00:21:37+0000"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=602660809"/>
+    <cse:Attribute name="application-name" value="Reuters.com"/>
+    <cse:Attribute name="msapplication-tap-highlight" value="no"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#da532c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://s2.reutersmedia.net/resources_v3/images/favicon/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="http://s1.reutersmedia.net/resources_v3/images/favicon/mstile-310x310.png"/>
+    <cse:Attribute name="analyticsattributes.topicchannel" value="Politics"/>
+    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Politics"/>
+    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="Sat Mar 18 00:21:37 UTC 2017"/>
+    <cse:Attribute name="analyticsattributes.contentchannel" value="Politics - Politics"/>
+    <cse:Attribute name="analyticsattributes.inlinetype" value="None"/>
+    <cse:Attribute name="analyticsattributes.author" value="Diane Bartz and Svea Herbst-Bayliss"/>
+    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
+    <cse:Attribute name="win-tracking-article-id" value="USKBN16O2O2"/>
+    <cse:Attribute name="win-tracking-article-title" value="Exclusive: Delrahim to head Justice Department antitrust unit - sources"/>
+    <cse:Attribute name="win-tracking-article-author" value="Diane Bartz and Svea Herbst-Bayliss"/>
+    <cse:Attribute name="win-tracking-article-publishdate" value="Fri Mar 17, 2017 | 8:21 PM EDT"/>
+    <cse:Attribute name="win-tracking-article-type" value="None"/>
+    <cse:Attribute name="jjj" value="politicsNews"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v3/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNimnNyiGCKtwbJXfBunW-2jBCumDNasdNPEpEroaNM6YS3hwXAJ8q7C7G"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/toshiba-accounting-idUSL3N1GQ33U</id>
-  <updated>1970-01-18T05:52:12.483Z</updated>
+  <updated>1970-01-18T05:52:50.160Z</updated>
   <title type="html">Toshiba seeking to extend Tuesday deadline for Q3 disclosure ...</title>
   <link href="http://www.reuters.com/article/toshiba-accounting-idUSL3N1GQ33U" title="www.reuters.com"/>
   <summary type="html">... submitting official third-quarter earnings due to disagreements with auditors &lt;br&gt;
@@ -217,8 +224,8 @@ over issues at its U.S. nuclear unit Westinghouse, &lt;b&gt;sources familiar wit
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/cbq-bond-idUSL5N1GW089</id>
-  <updated>1970-01-18T05:52:12.483Z</updated>
-  <title type="html">Commercial Bank of Qatar considers international bond issue sources</title>
+  <updated>1970-01-18T05:52:50.160Z</updated>
+  <title type="html">Commercial Bank of Qatar considers international bond issue ...</title>
   <link href="http://www.reuters.com/article/cbq-bond-idUSL5N1GW089" title="www.reuters.com"/>
   <summary type="html">... in talks with banks about a potentialinternational bond issue that will most likely &lt;br&gt;
 be denominated inU.S. dollars, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Sunday.</summary>
@@ -281,7 +288,7 @@ be denominated inU.S. dollars, &lt;b&gt;sources familiar with&lt;/b&gt; the matt
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/story/2017/03/andrew-wheeler-epa-deputy-sources-236151</id>
-  <updated>1970-01-18T05:52:12.483Z</updated>
+  <updated>1970-01-18T05:52:50.160Z</updated>
   <title type="html">Sources: Trump expected to tap Wheeler as EPA deputy - POLITICO</title>
   <link href="http://www.politico.com/story/2017/03/andrew-wheeler-epa-deputy-sources-236151" title="www.politico.com"/>
   <summary type="html">Jim Inhofe, to be deputy administrator of the Environmental Protection Agency, &lt;br&gt;
@@ -349,78 +356,8 @@ be denominated inU.S. dollars, &lt;b&gt;sources familiar with&lt;/b&gt; the matt
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://abcnews.go.com/US/person-detained-hopping-bike-rack-barrier-white-house/story?id=46225351</id>
-  <updated>1970-01-18T05:52:12.483Z</updated>
-  <title type="html">Person detained after hopping bike-rack barrier along White House ...</title>
-  <link href="http://abcnews.go.com/US/person-detained-hopping-bike-rack-barrier-white-house/story?id=46225351" title="abcnews.go.com"/>
-  <summary type="html">A person was detained Saturday after hopping over a bike-rack barrier along the &lt;br&gt;
-north fence of the White House, &lt;b&gt;sources familiar with&lt;/b&gt; the incident told ABC&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">abcnews.go.com/US/person-detained-hopping-bike-rack.../story?id...</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="ABC News"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
-    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="fb:admins" value="704409894"/>
-    <cse:Attribute name="fb:app_id" value="4942312939"/>
-    <cse:Attribute name="fb_title" value="Person detained after hopping bike-rack barrier along White House fence"/>
-    <cse:Attribute name="og:site_name" value="ABC News"/>
-    <cse:Attribute name="og:title" value="Person detained after hopping bike-rack barrier along White House fence"/>
-    <cse:Attribute name="og:description" value="A person was detained Saturday after hopping over a bike-rack barrier along the north fence of the White House, sources familiar with the incident told ABC News. The person, whom sources said is a male, did not make it over the White House fence, sources said. The suspect is being interviewed...."/>
-    <cse:Attribute name="og:url" value="http://abcnews.go.com/US/person-detained-hopping-bike-rack-barrier-white-house/story?id=46225351"/>
-    <cse:Attribute name="og:image:type" value="image/jpeg"/>
-    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/Politics/GTY-white-house-security-jt-170318_16x9_992.jpg"/>
-    <cse:Attribute name="dc.date.issued" value="2017-03-18"/>
-    <cse:Attribute name="date" value="2017-03-18"/>
-    <cse:Attribute name="last-modified" value="2017-03-18 14:33:36"/>
-    <cse:Attribute name="news_keywords" value="White House, fence"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@ABC"/>
-    <cse:Attribute name="twitter:creator" value="@JackDate"/>
-    <cse:Attribute name="twitter:title" value="Person detained after hopping bike-rack barrier along White House fence"/>
-    <cse:Attribute name="twitter:description" value="A person was detained Saturday after hopping over a bike-rack barrier along the north fence of the White House, sources familiar with the incident told ABC News. The person, whom sources said is a male, did not make it over the White House fence, sources said. The suspect is being interviewed...."/>
-    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/US/person-detained-hopping-bike-rack-barrier-white-house/story?id=46225351"/>
-    <cse:Attribute name="twitter:image:width" value="150"/>
-    <cse:Attribute name="twitter:image:height" value="116"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,46225351"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,46225351"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/US/person-detained-hopping-bike-rack-barrier-white-house/story?id=46225351"/>
-    <cse:Attribute name="twitter:image" value="http://a.abcnews.com/images/Politics/GTY-white-house-security-jt-170318_4x3t_240.jpg"/>
-    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,46225351"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
-    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
-    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,46225351"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
-    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
-    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/US/person-detained-hopping-bike-rack-barrier-white-house/story?id=46225351"/>
-    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
-    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
-    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/US/person-detained-hopping-bike-rack-barrier-white-house/story?id=46225351"/>
-   </cse:DataObject>
-   <cse:DataObject type="sitenavigationelement">
-    <cse:Attribute name="name" value="U.S."/>
-    <cse:Attribute name="url" value="U.S."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://a.abcnews.com/images/Politics/GTY-white-house-security-jt-170318_16x9_992.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFgb0QDST_ALVNaViSq0ahp9jKpqaxwyEaoCQ8Ah_h2QKDp0gvchG8U7GQ"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/journalists/svea-herbst-bayliss</id>
-  <updated>1970-01-18T05:52:12.483Z</updated>
+  <updated>1970-01-18T05:52:50.160Z</updated>
   <title type="html">Svea Herbst-Bayliss</title>
   <link href="http://www.reuters.com/journalists/svea-herbst-bayliss" title="www.reuters.com"/>
   <summary type="html">... team, is expected to be nominated to head the U.S. Justice Department&amp;#39;s &lt;br&gt;
@@ -466,7 +403,7 @@ Friday.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.usnews.com/news/top-news/articles/2017-03-17/japan-not-considering-support-for-toshiba-sharing-information-with-us</id>
-  <updated>1970-01-18T05:52:12.483Z</updated>
+  <updated>1970-01-18T05:52:50.160Z</updated>
   <title type="html">Japan Not Considering Support for Toshiba, Sharing Information ...</title>
   <link href="https://www.usnews.com/news/top-news/articles/2017-03-17/japan-not-considering-support-for-toshiba-sharing-information-with-us" title="www.usnews.com"/>
   <summary type="html">While the government has been adamant that it will not be stepping in to rescue &lt;br&gt;
@@ -505,7 +442,7 @@ Toshiba, &lt;b&gt;sources familiar with&lt;/b&gt; the matter have said a state-b
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.dailymail.co.uk/wires/reuters/article-4315256/Japan-govt-backed-fund-minority-stake-Toshiba-chip-unit-sources.html</id>
-  <updated>1970-01-18T05:52:12.483Z</updated>
+  <updated>1970-01-18T05:52:50.160Z</updated>
   <title type="html">Japan govt-backed fund may take minority stake in Toshiba chip unit ...</title>
   <link href="http://www.dailymail.co.uk/wires/reuters/article-4315256/Japan-govt-backed-fund-minority-stake-Toshiba-chip-unit-sources.html" title="www.dailymail.co.uk"/>
   <summary type="html">... a minority partner - a move that would help the government prevent a sale to &lt;br&gt;
@@ -580,7 +517,7 @@ bidders it deems risky to national security, &lt;b&gt;sources familiar with&lt;/
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-toshiba-accounting-idUSKBN16K10R</id>
-  <updated>1970-01-18T05:52:12.483Z</updated>
+  <updated>1970-01-18T05:52:50.160Z</updated>
   <title type="html">Toshiba seeking to extend Tuesday deadline for third-quarter ...</title>
   <link href="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN16K10R" title="www.reuters.com"/>
   <summary type="html">... official third-quarter earnings due to disagreements with auditors over issues at &lt;br&gt;
@@ -639,6 +576,56 @@ its U.S. nuclear unit Westinghouse, &lt;b&gt;sources familiar with&lt;/b&gt; the
     <cse:Attribute name="width" value="298"/>
     <cse:Attribute name="height" value="169"/>
     <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2hPURvKYfH-h_nJ3dM6ZGIsu-l0rf45wgN7zJ71b97OrcBkulfNpqnIU"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.latimes.com/local/lanow/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316-story.html</id>
+  <updated>1970-01-18T05:52:50.160Z</updated>
+  <title type="html">Thieves steal $200,000 in valuables from Kendall Jenner&amp;#39;s ...</title>
+  <link href="http://www.latimes.com/local/lanow/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316-story.html" title="www.latimes.com"/>
+  <summary type="html">According to law enforcement &lt;b&gt;sources familiar with&lt;/b&gt; the investigation, Jenner had &lt;br&gt;
+gone to look for her jewels and noticed numerous items missing. Authorities&amp;nbsp;...</summary>
+  <cse:cacheId>1kCtsPk-wqUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.latimes.com/.../la-me-ln-theft-kendall-jenner-hollywood-hills-home- 20170316-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i13prod-7f661a9-0-100.1"/>
+    <cse:Attribute name="author" value="Los Angeles Times"/>
+    <cse:Attribute name="date" value="2017-03-16"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 Los Angeles Times"/>
+    <cse:Attribute name="news_keywords" value="Kendall Jenner, Kardashian family, Los Angeles Police Department"/>
+    <cse:Attribute name="fb_title" value="Thieves steal $200,000 in valuables from Kendall Jenner&apos;s Hollywood Hills home"/>
+    <cse:Attribute name="og:title" value="Thieves steal $200,000 in valuables from Kendall Jenner&apos;s Hollywood Hills home"/>
+    <cse:Attribute name="og:description" value="About $200,000 in valuables have been stolen from model Kendall Jenner’s Hollywood Hills home, law enforcement sources said."/>
+    <cse:Attribute name="fb:page_id" value="5863113009"/>
+    <cse:Attribute name="fb:admins" value="100000786395051"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.latimes.com/local/lanow/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-58cb30e4/turbine/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316"/>
+    <cse:Attribute name="og:site_name" value="latimes.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@latimes"/>
+    <cse:Attribute name="y_key" value="cee2fe4077f8d050"/>
+    <cse:Attribute name="msvalidate.01" value="AAC9C18F70AC386BC4DCF4DDF9BF1786"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/deeplinkid/92814867"/>
+    <cse:Attribute name="so:status" value="5,1"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="LOCAL"/>
+    <cse:Attribute name="headline" value="Thieves steal $200,000 in valuables from Kendall Jenner&apos;s Hollywood Hills home"/>
+    <cse:Attribute name="datepublished" value="2017-03-16T10:55:00PDT"/>
+    <cse:Attribute name="articlebody" value="About $200,000 in valuables has been stolen from model Kendall Jenner’s Hollywood Hills home, law enforcement sources said.Someone called police about 1:15 a.m. Thursday to report a “burglary..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-58cb30e4/turbine/la-me-ln-theft-kendall-jenner-hollywood-hills-home-20170316"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="239"/>
+    <cse:Attribute name="height" value="211"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR99GsVHCxRJN8gBiMcxAux3MMq8mFxNtS16oUyXj9VMlgWvLVn78mfEP-N"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
