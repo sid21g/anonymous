@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T05:57:08.397Z</updated>
+ <updated>1970-01-18T05:57:48.296Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>10100</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9830" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9830" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9830</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.548844</cse:searchTime>
-  <cse:formattedSearchTime>0.55</cse:formattedSearchTime>
-  <cse:totalResults>10100</cse:totalResults>
-  <cse:formattedTotalResults>10,100</cse:formattedTotalResults>
+  <cse:searchTime>0.237123</cse:searchTime>
+  <cse:formattedSearchTime>0.24</cse:formattedSearchTime>
+  <cse:totalResults>9830</cse:totalResults>
+  <cse:formattedTotalResults>9,830</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/sun-basket-ipo-idUSL2N1GY24S</id>
-  <updated>1970-01-18T05:57:08.397Z</updated>
+  <updated>1970-01-18T05:57:48.296Z</updated>
   <title type="html">U.S. food delivery service Sun Basket hires banks for IPO: sources ...</title>
   <link href="http://www.reuters.com/article/sun-basket-ipo-idUSL2N1GY24S" title="www.reuters.com"/>
   <summary type="html">Blue Apron is now aiming for an IPO as early as June, &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
@@ -34,7 +34,7 @@ situation said, asking not to be named because the plans are confidential.</summ
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;corporateResponsibility;innovationAMD;SustainabilityGreen;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;MBenz;ubs;Intel;PFG;huawei;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
     <cse:Attribute name="dcsext.contentheadline" value="U.S.+food+delivery+service+Sun+Basket+hires+banks+for+IPO%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
@@ -86,8 +86,73 @@ situation said, asking not to be named because the plans are confidential.</summ
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-plexsystems-m-a-idUSKBN16S2R6</id>
+  <updated>1970-01-18T05:57:48.296Z</updated>
+  <title type="html">Manufacturing software company Plex Systems explores sale: sources</title>
+  <link href="http://www.reuters.com/article/us-plexsystems-m-a-idUSKBN16S2R6" title="www.reuters.com"/>
+  <summary type="html">... in principle to buy Dubai-based internet retailer Souq.com, one of the best-&lt;br&gt;
+known names in the Middle East&amp;#39;s online shopping market, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+the&amp;nbsp;...</summary>
+  <cse:cacheId>EJwKlWLsJ5EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-plexsystems-m-a-idUSKBN16S2R6</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsConsumerGoodsAndRetail;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;vbcSmallBusiness;innovationAMD;everything;Deals;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;zurich;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;MBenz;ubs;Intel;PFG;huawei;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Manufacturing+software+company+Plex+Systems+explores+sale%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Liana B. Baker"/>
+    <cse:Attribute name="news_keywords" value="US;PLEXSYSTEMS;M;A;Technology (TRBC);Mergers / Acquisitions / Takeovers;Company News;Auto and Truck Manufacturers (TRBC);Software and IT Services (TRBC);Initial Public Offerings;Technology / Media / Telecoms;Software (TRBC);Corporate Events;Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Tue Mar 21 20:57:36 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Liana B. Baker"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-21T20:57:36+0000"/>
+    <cse:Attribute name="sailthru.title" value="Manufacturing software company Plex Systems explores sale: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Manufacturing software company Plex Systems explores sale: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-plexsystems-m-a-idUSKBN16S2R6"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Plex Systems Inc, a privately held U.S. maker of software used to run manufacturing plants, is exploring a potential sale which it hopes will value it at more than $1 billion, including debt, according to people familiar with the matter."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-21T20:57:36+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-21T20:57:36+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Liana B. Baker"/>
+    <cse:Attribute name="og:article:tag" value="US,PLEXSYSTEMS,M,A,Technology (TRBC),Mergers / Acquisitions / Takeovers,Company News,Auto and Truck Manufacturers (TRBC),Software and IT Services (TRBC),Initial Public Offerings,Technology / Media / Telecoms,Software (TRBC),Corporate Events,Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Manufacturing software company Plex Systems explores sale: sources"/>
+    <cse:Attribute name="twitter:description" value="Plex Systems Inc, a privately held U.S. maker of software used to run manufacturing plants, is exploring a potential sale which it hopes will value it at more than $1 billion, including debt, according to people familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/dominion-diamond-ma-stornoway-diamond-idUSL2N1GX1X2</id>
-  <updated>1970-01-18T05:57:08.397Z</updated>
+  <updated>1970-01-18T05:57:48.296Z</updated>
   <title type="html">Dominion Diamond, Stornoway held merger talks: sources | Reuters</title>
   <link href="http://www.reuters.com/article/dominion-diamond-ma-stornoway-diamond-idUSL2N1GX1X2" title="www.reuters.com"/>
   <summary type="html">... has drawn interest from a series of private equity investors who are lining up &lt;br&gt;
@@ -151,8 +216,201 @@ said&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/cbq-bond-idUSL5N1GW089</id>
+  <updated>1970-01-18T05:57:48.296Z</updated>
+  <title type="html">Commercial Bank of Qatar considers international bond issue sources</title>
+  <link href="http://www.reuters.com/article/cbq-bond-idUSL5N1GW089" title="www.reuters.com"/>
+  <summary type="html">... in talks with banks about a potentialinternational bond issue that will most likely &lt;br&gt;
+be denominated inU.S. dollars, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Sunday.</summary>
+  <cse:cacheId>QHkO2ZaeLTcJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/cbq-bond-idUSL5N1GW089</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="corporateResponsibility;SustainabilityGreen;SustainabilityCorporate;SustainabilitySocial;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;audib2b;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Commercial+Bank+of+Qatar+considers+international+bond+issue+%E2%80%93+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Bermuda;CBQ;BOND/;Investment Banking and Investment Services (TRBC);Agricultural Markets;Credit and Corporate Debt;Corporate Debt;Qatar;Eurobonds;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Banking Capital and Liquidity Requirements;Commodities Markets;Banking Services (TRBC);Banks (TRBC);Company News;Financials (TRBC);Financials (Legacy);New Issues;China (PRC);Corporate Events;Economic Events;Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Dairy;Regulation;Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Sun Mar 19 11:06:28 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-19T11:06:28+0000"/>
+    <cse:Attribute name="sailthru.title" value="Commercial Bank of Qatar considers international bond issue – sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Commercial Bank of Qatar considers international bond issue – sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/cbq-bond-idUSL5N1GW089"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Commercial Bank of Qatar (CBQ) is in talks with banks about a potentialinternational bond issue that will most likely be denominated inU.S. dollars, sources familiar with the matter said on Sunday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-19T11:06:28+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-19T11:06:28+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Bermuda,CBQ,BOND/,Investment Banking and Investment Services (TRBC),Agricultural Markets,Credit and Corporate Debt,Corporate Debt,Qatar,Eurobonds,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Banking Capital and Liquidity Requirements,Commodities Markets,Banking Services (TRBC),Banks (TRBC),Company News,Financials (TRBC),Financials (Legacy),New Issues,China (PRC),Corporate Events,Economic Events,Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Dairy,Regulation,Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Commercial Bank of Qatar considers international bond issue – sources"/>
+    <cse:Attribute name="twitter:description" value="Commercial Bank of Qatar (CBQ) is in talks with banks about a potentialinternational bond issue that will most likely be denominated inU.S. dollars, sources familiar with the matter said on Sunday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/deutsche-boerse-ma-lse-idUSFWN1GZ0J9</id>
+  <updated>1970-01-18T05:57:48.296Z</updated>
+  <title type="html">REFILE-EU to formally veto Deutsche Boerse LSE merger shortly ...</title>
+  <link href="http://www.reuters.com/article/deutsche-boerse-ma-lse-idUSFWN1GZ0J9" title="www.reuters.com"/>
+  <summary type="html">The EuropeanCommission will veto a proposed combination between &lt;br&gt;
+DeutscheBoerse and the London Stock Exchange shortly,three &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>FYFxlMG1PeYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/deutsche-boerse-ma-lse-idUSFWN1GZ0J9</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="corrections;audib2b;CathayPacific_US;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="REFILE-EU+to+formally+veto+Deutsche+Boerse+LSE+merger+shortly+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="DEUTSCHE BOERSE;MandA/LSE (CORRECTED;URGENT);Investment Banking and Investment Services (TRBC);Germany;Mergers / Acquisitions / Takeovers;Western Europe;Derivatives;Central / Eastern Europe;Major News;Government Borrowing Requirement;Equities Markets;Deals;United Kingdom;International Agencies / Treaty Groups;Company News;Financials (TRBC);Financials (Legacy);Government / Politics;Corporate Events;Euro Zone;Monopolies / Antitrust Issues;European Union;Financial and Commodity Market Operators (TRBC);General News;East European Countries;Banking and Investment Services (TRBC);Europe;Regulation"/>
+    <cse:Attribute name="revision_date" value="Wed Mar 22 14:28:30 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-22T14:28:30+0000"/>
+    <cse:Attribute name="sailthru.title" value="REFILE-EU to formally veto Deutsche Boerse LSE merger shortly -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="REFILE-EU to formally veto Deutsche Boerse LSE merger shortly -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/deutsche-boerse-ma-lse-idUSFWN1GZ0J9"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The EuropeanCommission will veto a proposed combination between DeutscheBoerse and the London Stock Exchange shortly,three sources familiar with the matter said on Wednesday,scuppering plans to create Europe&apos;s biggest exchange."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-22T14:28:30+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-22T14:28:30+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="DEUTSCHE BOERSE,MandA/LSE (CORRECTED,URGENT),Investment Banking and Investment Services (TRBC),Germany,Mergers / Acquisitions / Takeovers,Western Europe,Derivatives,Central / Eastern Europe,Major News,Government Borrowing Requirement,Equities Markets,Deals,United Kingdom,International Agencies / Treaty Groups,Company News,Financials (TRBC),Financials (Legacy),Government / Politics,Corporate Events,Euro Zone,Monopolies / Antitrust Issues,European Union,Financial and Commodity Market Operators (TRBC),General News,East European Countries,Banking and Investment Services (TRBC),Europe,Regulation"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="REFILE-EU to formally veto Deutsche Boerse LSE merger shortly -sources"/>
+    <cse:Attribute name="twitter:description" value="The EuropeanCommission will veto a proposed combination between DeutscheBoerse and the London Stock Exchange shortly,three sources familiar with the matter said on Wednesday,scuppering plans to create Europe&apos;s biggest exchange."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1GT00I</id>
+  <updated>1970-01-18T05:57:48.296Z</updated>
+  <title type="html">Intesa sets April 4 deadline for bad loan sale, expects 3 bids-sources</title>
+  <link href="http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1GT00I" title="www.reuters.com"/>
+  <summary type="html">... loan portfolio worth 2.5 billion euros ($2.7 billion) it has put up for sale and for &lt;br&gt;
+which it expects to receive three bids, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>vq1tLtnNNWIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1GT00I</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;marketsNews;fundsFundsNews;rbssFinancialServicesAndRealEstateNews;etfNews;rbssInvestmentServices;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Intesa+sets+April+4+deadline+for+bad+loan+sale%2C+expects+3+bids-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Valentina Za;INTESA SP;BAD LOANS/BIDS (URGENT);Investment Banking and Investment Services (TRBC);Western Europe;France;Divestitures / Spin;Offs;Deals;United States;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);Italy;Corporate Events;Economic Events;Euro Zone;Banking and Investment Services (TRBC);Europe;Real Estate Markets;Specialty Investment Services (TRBC);Banking Services (Legacy);Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Mon Mar 20 15:50:01 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-20T15:50:01+0000"/>
+    <cse:Attribute name="sailthru.title" value="Intesa sets April 4 deadline for bad loan sale, expects 3 bids-sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Intesa sets April 4 deadline for bad loan sale, expects 3 bids-sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1GT00I"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Intesa Sanpaolo has setan April 4 deadline to submit binding offers for a bad loanportfolio worth 2.5 billion euros ($2.7 billion) it has put upfor sale and for which it expects to receive three bids, twosources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-20T15:50:01+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-20T15:50:01+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Valentina Za,INTESA SP,BAD LOANS/BIDS (URGENT),Investment Banking and Investment Services (TRBC),Western Europe,France,Divestitures / Spin,Offs,Deals,United States,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),Italy,Corporate Events,Economic Events,Euro Zone,Banking and Investment Services (TRBC),Europe,Real Estate Markets,Specialty Investment Services (TRBC),Banking Services (Legacy),Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Intesa sets April 4 deadline for bad loan sale, expects 3 bids-sources"/>
+    <cse:Attribute name="twitter:description" value="Intesa Sanpaolo has setan April 4 deadline to submit binding offers for a bad loanportfolio worth 2.5 billion euros ($2.7 billion) it has put upfor sale and for which it expects to receive three bids, twosources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2</id>
-  <updated>1970-01-18T05:57:08.397Z</updated>
+  <updated>1970-01-18T05:57:48.296Z</updated>
   <title type="html">Exclusive: Delrahim to head Justice Department antitrust unit - sources</title>
   <link href="http://www.reuters.com/article/us-usa-trump-antitrust-exclusive-idUSKBN16O2O2" title="www.reuters.com"/>
   <summary type="html">... team, is expected to be nominated to head the U.S. Justice Department&amp;#39;s &lt;br&gt;
@@ -216,103 +474,58 @@ Friday.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
-  <updated>1970-01-18T05:57:08.397Z</updated>
-  <title type="html">Davide Barbuscia</title>
-  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
-  <summary type="html">... talks with banks about a potential international bond issue that will most likely &lt;br&gt;
-be denominated in U.S. dollars, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Sunday.</summary>
-  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-pineriver-funds-departures-idUSKBN16N2QP</id>
+  <updated>1970-01-18T05:57:48.296Z</updated>
+  <title type="html">Exclusive: Hedge fund Pine River loses more partners after asset ...</title>
+  <link href="http://www.reuters.com/article/us-pineriver-funds-departures-idUSKBN16N2QP" title="www.reuters.com"/>
+  <summary type="html">... hedge funds, has hired a portfolio manager from billionaire stock picker Steven &lt;br&gt;
+A. Cohen&amp;#39;s investment company, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>nVrGbrxT10YJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-pineriver-funds-departures-idUSKBN16N2QP</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-emirates-global-aluminium-ipo-idUSKBN16S13H</id>
-  <updated>1970-01-18T05:57:08.397Z</updated>
-  <title type="html">Emirates Global Aluminium plans IPO, banks pitch for role: sources ...</title>
-  <link href="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-idUSKBN16S13H" title="www.reuters.com"/>
-  <summary type="html">A request for proposals on the IPO was sent to banks, and submissions were due &lt;br&gt;
-last week, according to three &lt;b&gt;sources familiar with&lt;/b&gt; the matter, who spoke on&amp;nbsp;...</summary>
-  <cse:cacheId>An_WHXyGqA0J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-emirates-global-aluminium-ipo-idUSKBN16S13H</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;innovationNewsIndustryMaterialsAndUtilities;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Emirates+Global+Aluminium+plans+IPO%2C+banks+pitch+for+role%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="PersonalFinance"/>
+    <cse:Attribute name="dcsext.channellist" value="PersonalFinance;FundsandETFs;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;verizonmm;rates-rss;cfaglobal;aa48hours;shipping;nonegative;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Hedge+fund+Pine+River+loses+more+partners+after+asset+decline+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Hadeel Al Sayegh and Stanley Carvalho"/>
+    <cse:Attribute name="dcsext.rauthor" value="Svea Herbst-Bayliss and Maiya Keidan"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Hadeel Al Sayegh and Stanley Carvalho"/>
-    <cse:Attribute name="news_keywords" value="United Arab Emirates;United States;US;EMIRATES;GLOBAL;ALUMINIUM;IPO;Investment Banking and Investment Services (TRBC);Banks (TRBC);Security Listings / Delistings;United Arab Emirates;Company News;Initial Public Offerings;Aluminium;New Issues;Base Metals;Equity Financing;Corporate Events;Investment Banking and Brokerage Services (TRBC);Middle East;Aluminum (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 21 10:30:35 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Hadeel Al Sayegh and Stanley Carvalho"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-21T10:30:35+0000"/>
-    <cse:Attribute name="sailthru.title" value="Emirates Global Aluminium plans IPO, banks pitch for role: sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-PersonalFinance"/>
+    <cse:Attribute name="author" value="Svea Herbst-Bayliss and Maiya Keidan"/>
+    <cse:Attribute name="news_keywords" value="Aaron Yeary;Adam L. Stein;Annette Krassner;Brendan McAllister;Brian C. Taylor;Colin Teichholtz;Franklin Parlamis;James Brian Clark;Michael O&apos;Connell;Richard Knight;Steven Kuhn;US;PINERIVER;FUNDS;DEPARTURES;Mortgage;Backed Markets;Wealth Management;Key Personnel Changes;Funds;Exclusive;Arts / Culture / Entertainment;Corporate Events;Hedge Funds;Major News;Government Borrowing Requirement;Debt / Fixed Income Markets;Europe;United Kingdom;Investment Management and Fund Operators (TRBC);United States"/>
+    <cse:Attribute name="revision_date" value="Thu Mar 16 21:22:04 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Svea Herbst-Bayliss and Maiya Keidan"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-16T21:22:04+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Hedge fund Pine River loses more partners after asset decline - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Emirates Global Aluminium plans IPO, banks pitch for role: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-idUSKBN16S13H"/>
+    <cse:Attribute name="og:title" value="Exclusive: Hedge fund Pine River loses more partners after asset decline - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-pineriver-funds-departures-idUSKBN16N2QP"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Emirates Global Aluminium (EGA), one of the world&apos;s top five producers, has invited banks to pitch for a role in its planned initial public offering, sources told Reuters."/>
+    <cse:Attribute name="og:description" value="Bayliss and Maiya Keidan"/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-21T10:30:35+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-21T10:30:35+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Hadeel Al Sayegh and Stanley Carvalho"/>
-    <cse:Attribute name="og:article:tag" value="United Arab Emirates,United States,US,EMIRATES,GLOBAL,ALUMINIUM,IPO,Investment Banking and Investment Services (TRBC),Banks (TRBC),Security Listings / Delistings,United Arab Emirates,Company News,Initial Public Offerings,Aluminium,New Issues,Base Metals,Equity Financing,Corporate Events,Investment Banking and Brokerage Services (TRBC),Middle East,Aluminum (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-16T21:22:04+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-16T21:22:04+0000"/>
+    <cse:Attribute name="og:article:section" value="Money"/>
+    <cse:Attribute name="og:article:author" value="Svea Herbst-Bayliss and Maiya Keidan"/>
+    <cse:Attribute name="og:article:tag" value="Aaron Yeary,Adam L. Stein,Annette Krassner,Brendan McAllister,Brian C. Taylor,Colin Teichholtz,Franklin Parlamis,James Brian Clark,Michael O&apos;Connell,Richard Knight,Steven Kuhn,US,PINERIVER,FUNDS,DEPARTURES,Mortgage,Backed Markets,Wealth Management,Key Personnel Changes,Funds,Exclusive,Arts / Culture / Entertainment,Corporate Events,Hedge Funds,Major News,Government Borrowing Requirement,Debt / Fixed Income Markets,Europe,United Kingdom,Investment Management and Fund Operators (TRBC),United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Emirates Global Aluminium plans IPO, banks pitch for role: sources"/>
-    <cse:Attribute name="twitter:description" value="Emirates Global Aluminium (EGA), one of the world&apos;s top five producers, has invited banks to pitch for a role in its planned initial public offering, sources told Reuters."/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Hedge fund Pine River loses more partners after asset decline - sources"/>
+    <cse:Attribute name="twitter:description" value="Bayliss and Maiya Keidan"/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/money/article"/>
+    <cse:Attribute name="wt.cg_n" value="Money"/>
+    <cse:Attribute name="wt.cg_s" value="Personal Finance"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -325,259 +538,119 @@ last week, according to three &lt;b&gt;sources familiar with&lt;/b&gt; the matte
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-deutsche-boerse-m-a-lse-idUSKBN16T1R1</id>
-  <updated>1970-01-18T05:57:08.397Z</updated>
-  <title type="html">EU to formally veto Deutsche Boerse LSE merger shortly: sources ...</title>
-  <link href="http://www.reuters.com/article/us-deutsche-boerse-m-a-lse-idUSKBN16T1R1" title="www.reuters.com"/>
-  <summary type="html">L) shortly, three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday, scuppering &lt;br&gt;
-plans to create Europe&amp;#39;s biggest exchange. The European Commission and&amp;nbsp;...</summary>
-  <cse:cacheId>rkcGzuvqUMIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-deutsche-boerse-m-a-lse-idUSKBN16T1R1</cse:formattedUrl>
+  <id>http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL2N1GZ1X6</id>
+  <updated>1970-01-18T05:57:48.296Z</updated>
+  <title type="html">Amazon to buy Middle Eastern online retailer Souq.com -sources ...</title>
+  <link href="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL2N1GZ1X6" title="www.reuters.com"/>
+  <summary type="html">Amazon.com Inc has agreed inprinciple to buy 100 percent of Dubai-based &lt;br&gt;
+online retailerSouq.com from its shareholders, &lt;b&gt;sources familiar with&lt;/b&gt; the dealsaid &lt;br&gt;
+on&amp;nbsp;...</summary>
+  <cse:cacheId>4UZYf6CfgRIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../souqcom-ma-amazoncom-idUSL2N1GZ1X6</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="newsOne;businessNews;innovationNews;euDealsNews;euPrivateEquityNews;newsproHome;audib2b;LinkedInBusTech;CathayPacific_US;USWire;hsbcDubai;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="EU+to+formally+veto+Deutsche+Boerse+LSE+merger+shortly%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="FRBtestD"/>
+    <cse:Attribute name="dcsext.channellist" value="vbcSmallBusiness;innovationAMD;SustainabilityGreen;SustainabilityCorporate;everything;India;Deals;forexNewsCopy;Davos;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;cfaglobal;aa48hours;hurdles;PorscheCayenne;MBenz;ubs;Intel;intelmicrosite;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;USLegal"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Amazon+to+buy+Middle+Eastern+online+retailer+Souq.com+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-FRBtestD"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="US;DEUTSCHE;BOERSE;M;A;LSE;Germany;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Derivatives;Corporate Events;Monopolies / Antitrust Issues;European Union;Financial and Commodity Market Operators (TRBC);East European Countries;Major News;Government Borrowing Requirement;Equities Markets;Europe;United Kingdom"/>
-    <cse:Attribute name="revision_date" value="Wed Mar 22 14:31:05 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Bahrain;Egypt;India;Kuwait;Mexico;Oman;Qatar;Saudi Arabia;United Arab Emirates;Colin Sebastian;Jeffrey P. Bezos;Mohamed Alabbar;SOUQ.COM;MandA/AMAZON.COM;Americas;United States"/>
+    <cse:Attribute name="revision_date" value="Wed Mar 22 20:46:49 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-22T14:31:05+0000"/>
-    <cse:Attribute name="sailthru.title" value="EU to formally veto Deutsche Boerse LSE merger shortly: sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-22T20:46:49+0000"/>
+    <cse:Attribute name="sailthru.title" value="Amazon to buy Middle Eastern online retailer Souq.com -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="EU to formally veto Deutsche Boerse LSE merger shortly: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-deutsche-boerse-m-a-lse-idUSKBN16T1R1"/>
+    <cse:Attribute name="og:title" value="Amazon to buy Middle Eastern online retailer Souq.com -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL2N1GZ1X6"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The European Commission will veto a proposed combination between Deutsche Boerse (DB1Gn.DE) and the London Stock Exchange (LSE.L) shortly, three sources familiar with the matter said on Wednesday, scuppering plans to create Europe&apos;s biggest exchange."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170322&amp;t=2&amp;i=1177560175&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2L14F"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-22T14:31:05+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-22T14:31:05+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:description" value="Amazon.com Inc has agreed inprinciple to buy 100 percent of Dubai-based online retailerSouq.com from its shareholders, sources familiar with the dealsaid on Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-22T20:46:49+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-22T20:46:49+0000"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="US,DEUTSCHE,BOERSE,M,A,LSE,Germany,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Derivatives,Corporate Events,Monopolies / Antitrust Issues,European Union,Financial and Commodity Market Operators (TRBC),East European Countries,Major News,Government Borrowing Requirement,Equities Markets,Europe,United Kingdom"/>
+    <cse:Attribute name="og:article:tag" value="Bahrain,Egypt,India,Kuwait,Mexico,Oman,Qatar,Saudi Arabia,United Arab Emirates,Colin Sebastian,Jeffrey P. Bezos,Mohamed Alabbar,SOUQ.COM,MandA/AMAZON.COM,Americas,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="EU to formally veto Deutsche Boerse LSE merger shortly: sources"/>
-    <cse:Attribute name="twitter:description" value="The European Commission will veto a proposed combination between Deutsche Boerse (DB1Gn.DE) and the London Stock Exchange (LSE.L) shortly, three sources familiar with the matter said on Wednesday, scuppering plans to create Europe&apos;s biggest exchange."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170322&amp;t=2&amp;i=1177560175&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2L14F"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170322&amp;t=2&amp;i=1177560175&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2L14F"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Amazon to buy Middle Eastern online retailer Souq.com -sources"/>
+    <cse:Attribute name="twitter:description" value="Amazon.com Inc has agreed inprinciple to buy 100 percent of Dubai-based online retailerSouq.com from its shareholders, sources familiar with the dealsaid on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170322&amp;t=2&amp;i=1177560175&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2L14F"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="273"/>
-    <cse:Attribute name="height" value="185"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6wPrDQPq5DiyWewpHLV5o-m4cx3VB8HKC6WInOM_qT5mAdFSLgXEhT8g"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-l-oreal-the-body-shop-m-a-idUSKBN16R28W</id>
-  <updated>1970-01-18T05:57:08.397Z</updated>
-  <title type="html">Buyout funds line up bids for The Body Shop amid pricing ...</title>
-  <link href="http://www.reuters.com/article/us-l-oreal-the-body-shop-m-a-idUSKBN16R28W" title="www.reuters.com"/>
-  <summary type="html">... Body Shop has drawn interest from a series of private equity investors who are &lt;br&gt;
-lining up indicative bids ahead of a mid-April deadline, &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>NOkztZ2zX_UJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-l-oreal-the-body-shop-m-a-idUSKBN16R28W</cse:formattedUrl>
+  <id>http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM</id>
+  <updated>1970-01-18T05:57:48.296Z</updated>
+  <title type="html">Amazon.com agrees in principle to buy Middle East&amp;#39;s Souq.com ...</title>
+  <link href="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM" title="www.reuters.com"/>
+  <summary type="html">... in principle to buy 100 percent of Middle Eastern online retailer Souq.com from &lt;br&gt;
+its shareholders, &lt;b&gt;sources familiar with&lt;/b&gt; the deal told Reuters on Wednesday.</summary>
+  <cse:cacheId>iBq5Nxr1OiYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../souqcom-ma-amazoncom-idUSL5N1GZ4HM</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsConsumerGoodsAndRetail;euDealsNews;euPrivateEquityNews;corporateResponsibility;innovationAMD;SustainabilityGreen;SustainabilityCorporate;everything;Deals;forexNewsCopy;ShellEnergy;AllianzInvestments;Hyundai;Allianz;newsproHome;cfaglobal;aa48hours;boxing;shipping;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Buyout+funds+line+up+bids+for+The+Body+Shop+amid+pricing+challenges%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;marketsNews;rbssConsumerGoodsAndRetailNews;rbssTechMediaTelecomNews;rbssRetailDepartmentStores;rbssITServicesConsulting;technology-media-telco-SP;mnaNewsConsumerGoodsAndRetail;americasMergersNews;asiaMergersNews;mnaNewsTechMediaTelco;audib2b;CathayPacific_US;ABG_2016;cyclicalConsumerGoodsSector;technologySector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Amazon.com+agrees+in+principle+to+buy+Middle+East%27s+Souq.com+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Pamela Barbaglia and Martinne Geller"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Pamela Barbaglia and Martinne Geller"/>
-    <cse:Attribute name="news_keywords" value="Anita Roddick;US;L;OREAL;THE;BODY;SHOP;M;A;Wealth Management;Mergers / Acquisitions / Takeovers;Funds;Company News;Western Europe;Arts / Culture / Entertainment;France;Corporate Events;Luxury Goods / Services;Government Borrowing Requirement;Europe;Personal Products (TRBC);Deals;United Kingdom;Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Mon Mar 20 18:45:47 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Pamela Barbaglia and Martinne Geller"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-20T18:45:47+0000"/>
-    <cse:Attribute name="sailthru.title" value="Buyout funds line up bids for The Body Shop amid pricing challenges: sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="SOUQ.COM;MandA/AMAZON.COM (URGENT);Retailers (Legacy);Mergers / Acquisitions / Takeovers;Africa;Retailers excl Food and Drug Specialists (TRBC);Asia / Pacific;Middle East;Department Stores (TRBC);Deals;All Retail;United States;IT Services and Consulting (TRBC);Americas;United Arab Emirates;Society / Social Issues;Company News;South Africa;Software and IT Services (TRBC);Corporate Events;General News;Technology (TRBC);Internet / World Wide Web;Diversified Retail (TRBC);Science;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Mar 22 14:41:25 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-22T14:41:25+0000"/>
+    <cse:Attribute name="sailthru.title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Buyout funds line up bids for The Body Shop amid pricing challenges: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-l-oreal-the-body-shop-m-a-idUSKBN16R28W"/>
+    <cse:Attribute name="og:title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="L&apos;Oreal&apos;s (OREP.PA) sale of British retailer The Body Shop has drawn interest from a series of private equity investors who are lining up indicative bids ahead of a mid-April deadline, sources familiar with the matter said on Monday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170320&amp;t=2&amp;i=1177296445&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2J1LS"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-20T18:45:47+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-20T18:45:47+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Pamela Barbaglia and Martinne Geller"/>
-    <cse:Attribute name="og:article:tag" value="Anita Roddick,US,L,OREAL,THE,BODY,SHOP,M,A,Wealth Management,Mergers / Acquisitions / Takeovers,Funds,Company News,Western Europe,Arts / Culture / Entertainment,France,Corporate Events,Luxury Goods / Services,Government Borrowing Requirement,Europe,Personal Products (TRBC),Deals,United Kingdom,Private Equity Funds"/>
+    <cse:Attribute name="og:description" value="Amazon.com Inc hasagreed in principle to buy 100 percent of Middle Eastern onlineretailer Souq.com from its shareholders, sources familiar withthe deal told Reuters on Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-22T14:41:25+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-22T14:41:25+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="SOUQ.COM,MandA/AMAZON.COM (URGENT),Retailers (Legacy),Mergers / Acquisitions / Takeovers,Africa,Retailers excl Food and Drug Specialists (TRBC),Asia / Pacific,Middle East,Department Stores (TRBC),Deals,All Retail,United States,IT Services and Consulting (TRBC),Americas,United Arab Emirates,Society / Social Issues,Company News,South Africa,Software and IT Services (TRBC),Corporate Events,General News,Technology (TRBC),Internet / World Wide Web,Diversified Retail (TRBC),Science,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Emerging Market Countries"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Buyout funds line up bids for The Body Shop amid pricing challenges: sources"/>
-    <cse:Attribute name="twitter:description" value="L&apos;Oreal&apos;s (OREP.PA) sale of British retailer The Body Shop has drawn interest from a series of private equity investors who are lining up indicative bids ahead of a mid-April deadline, sources familiar with the matter said on Monday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170320&amp;t=2&amp;i=1177296445&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2J1LS"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170320&amp;t=2&amp;i=1177296445&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2J1LS"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
+    <cse:Attribute name="twitter:description" value="Amazon.com Inc hasagreed in principle to buy 100 percent of Middle Eastern onlineretailer Souq.com from its shareholders, sources familiar withthe deal told Reuters on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170320&amp;t=2&amp;i=1177296445&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2J1LS"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="287"/>
-    <cse:Attribute name="height" value="175"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCj20F8w5F2E7J2MnguWcVuVIXqH1CfhwMn-AFR-a8J-LTrKSYr13Gu2RC"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/lauren-hirsch</id>
-  <updated>1970-01-18T05:57:08.397Z</updated>
-  <title type="html">Lauren Hirsch</title>
-  <link href="http://www.reuters.com/journalists/lauren-hirsch" title="www.reuters.com"/>
-  <summary type="html">... Basket has hired banks for an initial public offering (IPO) that could come in the &lt;br&gt;
-second half of the year, &lt;b&gt;sources familiar with&lt;/b&gt; the situation said on Tuesday.</summary>
-  <cse:cacheId>WwaF03GQG6gJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/lauren-hirsch</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/lauren-hirsch"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/svea-herbst-bayliss</id>
-  <updated>1970-01-18T05:57:08.397Z</updated>
-  <title type="html">Svea Herbst-Bayliss</title>
-  <link href="http://www.reuters.com/journalists/svea-herbst-bayliss" title="www.reuters.com"/>
-  <summary type="html">... team, is expected to be nominated to head the U.S. Justice Department&amp;#39;s &lt;br&gt;
-Antitrust Division, two &lt;b&gt;sources familiar with&lt;/b&gt; the vetting process told Reuters on &lt;br&gt;
-Friday.</summary>
-  <cse:cacheId>fqRVfUsmXJMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/svea-herbst-bayliss</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/svea-herbst-bayliss"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/hadeel-al-sayegh</id>
-  <updated>1970-01-18T05:57:08.397Z</updated>
-  <title type="html">Hadeel Al Sayegh</title>
-  <link href="http://www.reuters.com/journalists/hadeel-al-sayegh" title="www.reuters.com"/>
-  <summary type="html">SE] has received proposals from at least six banks for an advisory role on the &lt;br&gt;
-firm&amp;#39;s planned initial public share offering, &lt;b&gt;sources familiar with&lt;/b&gt; the process said &lt;br&gt;
-on&amp;nbsp;...</summary>
-  <cse:cacheId>F9vPA9QcJdkJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/hadeel-al-sayegh</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/hadeel-al-sayegh"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
