@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:01:11.113Z</updated>
+ <updated>1970-01-18T06:01:28.962Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>11100</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>10800</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.32668</cse:searchTime>
-  <cse:formattedSearchTime>0.33</cse:formattedSearchTime>
-  <cse:totalResults>11100</cse:totalResults>
-  <cse:formattedTotalResults>11,100</cse:formattedTotalResults>
+  <cse:searchTime>0.3675</cse:searchTime>
+  <cse:formattedSearchTime>0.37</cse:formattedSearchTime>
+  <cse:totalResults>10800</cse:totalResults>
+  <cse:formattedTotalResults>10,800</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://www.nytimes.com/2017/03/21/technology/uber-board-stands-by-travis-kalanick.html</id>
-  <updated>1970-01-18T06:01:11.113Z</updated>
+  <updated>1970-01-18T06:01:28.962Z</updated>
   <title type="html">Uber Board Stands by Travis Kalanick as It Reveals Plans to Repair ...</title>
   <link href="https://www.nytimes.com/2017/03/21/technology/uber-board-stands-by-travis-kalanick.html" title="www.nytimes.com"/>
   <summary type="html">In a conference call with executives, Uber presented a list of changes it plans to &lt;br&gt;
@@ -125,7 +125,7 @@ make to improve morale and repair its tarnished reputation.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16T1XA</id>
-  <updated>1970-01-18T06:01:11.113Z</updated>
+  <updated>1970-01-18T06:01:28.962Z</updated>
   <title type="html">Amazon to buy Middle Eastern online retailer Souq.com: sources ...</title>
   <link href="http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16T1XA" title="www.reuters.com"/>
   <summary type="html">... in principle to buy Dubai-based internet retailer Souq.com, one of the best-&lt;br&gt;
@@ -190,7 +190,7 @@ the&amp;nbsp;...</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-sun-basket-ipo-idUSKBN16T04Y</id>
-  <updated>1970-01-18T06:01:11.113Z</updated>
+  <updated>1970-01-18T06:01:28.962Z</updated>
   <title type="html">U.S. food delivery service Sun Basket hires banks for IPO: sources ...</title>
   <link href="http://www.reuters.com/article/us-sun-basket-ipo-idUSKBN16T04Y" title="www.reuters.com"/>
   <summary type="html">Blue Apron is now aiming for an IPO as early as June, &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
@@ -254,7 +254,7 @@ situation said, asking not to be named because the plans are confidential.</summ
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW</id>
-  <updated>1970-01-18T06:01:11.113Z</updated>
+  <updated>1970-01-18T06:01:28.962Z</updated>
   <title type="html">Exclusive: AMC plans ad-free streaming service for cable ...</title>
   <link href="http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW" title="www.reuters.com"/>
   <summary type="html">... to launch a commercial-free online video streaming service aimed at millennial &lt;br&gt;
@@ -318,7 +318,7 @@ TV subscribers, two &lt;b&gt;sources familiar with&lt;/b&gt; the situation told 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/dominion-diamond-ma-stornoway-diamond-idUSL2N1GX1X2</id>
-  <updated>1970-01-18T06:01:11.113Z</updated>
+  <updated>1970-01-18T06:01:28.962Z</updated>
   <title type="html">Dominion Diamond, Stornoway held merger talks: sources | Reuters</title>
   <link href="http://www.reuters.com/article/dominion-diamond-ma-stornoway-diamond-idUSL2N1GX1X2" title="www.reuters.com"/>
   <summary type="html">... has drawn interest from a series of private equity investors who are lining up &lt;br&gt;
@@ -383,7 +383,7 @@ said&amp;nbsp;...</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/deutsche-boerse-ma-lse-idUSFWN1GZ0J9</id>
-  <updated>1970-01-18T06:01:11.113Z</updated>
+  <updated>1970-01-18T06:01:28.962Z</updated>
   <title type="html">REFILE-EU to formally veto Deutsche Boerse LSE merger shortly ...</title>
   <link href="http://www.reuters.com/article/deutsche-boerse-ma-lse-idUSFWN1GZ0J9" title="www.reuters.com"/>
   <summary type="html">The EuropeanCommission will veto a proposed combination between &lt;br&gt;
@@ -448,7 +448,7 @@ DeutscheBoerse and the London Stock Exchange shortly,three &lt;b&gt;sources fami
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-usa-pipeline-keystone-idUSKBN16U25E</id>
-  <updated>1970-01-18T06:01:11.113Z</updated>
+  <updated>1970-01-18T06:01:28.962Z</updated>
   <title type="html">State Department to approve Keystone pipeline permit on Friday ...</title>
   <link href="http://www.reuters.com/article/us-usa-pipeline-keystone-idUSKBN16U25E" title="www.reuters.com"/>
   <summary type="html">... States Keystone XL oil pipeline, a project blocked by former President Barack &lt;br&gt;
@@ -512,7 +512,7 @@ Obama, according to two government &lt;b&gt;sources familiar with&lt;/b&gt; the 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1GT00I</id>
-  <updated>1970-01-18T06:01:11.113Z</updated>
+  <updated>1970-01-18T06:01:28.962Z</updated>
   <title type="html">Intesa sets April 4 deadline for bad loan sale, expects 3 bids-sources</title>
   <link href="http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1GT00I" title="www.reuters.com"/>
   <summary type="html">... loan portfolio worth 2.5 billion euros ($2.7 billion) it has put up for sale and for &lt;br&gt;
@@ -576,7 +576,7 @@ which it expects to receive three bids, two &lt;b&gt;sources familiar with&lt;/b
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM</id>
-  <updated>1970-01-18T06:01:11.113Z</updated>
+  <updated>1970-01-18T06:01:28.962Z</updated>
   <title type="html">Amazon.com agrees in principle to buy Middle East&amp;#39;s Souq.com ...</title>
   <link href="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM" title="www.reuters.com"/>
   <summary type="html">... in principle to buy 100 percent of Middle Eastern online retailer Souq.com from &lt;br&gt;
@@ -640,7 +640,7 @@ its shareholders, &lt;b&gt;sources familiar with&lt;/b&gt; the deal told Reuters
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/usa-trump-antitrust-idUSL2N1GX1J8</id>
-  <updated>1970-01-18T06:01:11.113Z</updated>
+  <updated>1970-01-18T06:01:28.962Z</updated>
   <title type="html">Delrahim to head US Justice Department antitrust unit-sources ...</title>
   <link href="http://www.reuters.com/article/usa-trump-antitrust-idUSL2N1GX1J8" title="www.reuters.com"/>
   <summary type="html">... team, is expected to be nominated to head the U.S. Justice Department&amp;#39;s &lt;br&gt;
