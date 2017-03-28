@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:04:28.418Z</updated>
+ <updated>1970-01-18T06:05:00.750Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9080" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9080" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>9080</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>10000</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.389951</cse:searchTime>
-  <cse:formattedSearchTime>0.39</cse:formattedSearchTime>
-  <cse:totalResults>9080</cse:totalResults>
-  <cse:formattedTotalResults>9,080</cse:formattedTotalResults>
+  <cse:searchTime>0.309619</cse:searchTime>
+  <cse:formattedSearchTime>0.31</cse:formattedSearchTime>
+  <cse:totalResults>10000</cse:totalResults>
+  <cse:formattedTotalResults>10,000</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW</id>
-  <updated>1970-01-18T06:04:28.418Z</updated>
+  <updated>1970-01-18T06:05:00.750Z</updated>
   <title type="html">Exclusive: AMC plans ad-free streaming service for cable subscribers</title>
   <link href="http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW" title="www.reuters.com"/>
   <summary type="html">... to launch a commercial-free online video streaming service aimed at millennial &lt;br&gt;
@@ -87,7 +87,7 @@ TV subscribers, two &lt;b&gt;sources familiar with&lt;/b&gt; the situation told 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.nytimes.com/2017/03/21/technology/uber-board-stands-by-travis-kalanick.html</id>
-  <updated>1970-01-18T06:04:28.418Z</updated>
+  <updated>1970-01-18T06:05:00.750Z</updated>
   <title type="html">Uber Board Stands by Travis Kalanick as It Reveals Plans to Repair ...</title>
   <link href="https://www.nytimes.com/2017/03/21/technology/uber-board-stands-by-travis-kalanick.html" title="www.nytimes.com"/>
   <summary type="html">In a conference call with executives, Uber presented a list of changes it plans to &lt;br&gt;
@@ -189,7 +189,7 @@ make to improve morale and repair its tarnished reputation.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16T1XA</id>
-  <updated>1970-01-18T06:04:28.418Z</updated>
+  <updated>1970-01-18T06:05:00.750Z</updated>
   <title type="html">Amazon to buy Middle Eastern online retailer Souq.com: sources ...</title>
   <link href="http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16T1XA" title="www.reuters.com"/>
   <summary type="html">... in principle to buy Dubai-based internet retailer Souq.com, one of the best-&lt;br&gt;
@@ -253,8 +253,298 @@ the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/wires/reuters/article-4355726/Dubais-Souq-com-make-announcement-Amazon-com-bid--sources.html</id>
+  <updated>1970-01-18T06:05:00.750Z</updated>
+  <title type="html">Dubai&amp;#39;s Souq.com to make announcement on Amazon.com bid ...</title>
+  <link href="http://www.dailymail.co.uk/wires/reuters/article-4355726/Dubais-Souq-com-make-announcement-Amazon-com-bid--sources.html" title="www.dailymail.co.uk"/>
+  <summary type="html">The Financial Times reported Amazon would pay between $650 and $750 &lt;br&gt;
+million, quoting two &lt;b&gt;sources familiar with&lt;/b&gt; the matter. Emaar Malls´ bid had so far &lt;br&gt;
+not&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../Dubais-Souq-com-make-announcement-Amazon- com-bid--sources.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Dubais,Souq,com,make,announcement,Amazon,com,bid,sources"/>
+    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/wires/reuters/article-4355726/Dubais-Souq-com-make-announcement-Amazon-com-bid--sources.html"/>
+    <cse:Attribute name="rating" value="General"/>
+    <cse:Attribute name="doc-class" value="Living Document"/>
+    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
+    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
+    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="articleid" value="4355726"/>
+    <cse:Attribute name="divclasspage" value="articlePage"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid - sources"/>
+    <cse:Attribute name="twitter:description" value="DUBAI, March 28 (Reuters) - Middle Eastern online retailer  Souq.com will make an announcement later on Tuesday about  Amazon.com Inc&apos;s bid to buy 100..."/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/wires/reuters/article-4355726/Dubais-Souq-com-make-announcement-Amazon-com-bid--sources.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
+    <cse:Attribute name="article:published_time" value="2017-03-28T08:28:12+0100"/>
+    <cse:Attribute name="article:modified_time" value="2017-03-28T08:28:13+0100"/>
+    <cse:Attribute name="article:section" value="Reuters"/>
+    <cse:Attribute name="article:tag" value="Dubais Souq com make announcement Amazon com bid  sources"/>
+    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Reuters"/>
+    <cse:Attribute name="fb:app_id" value="146202712090395"/>
+    <cse:Attribute name="og:site_name" value="Mail Online"/>
+    <cse:Attribute name="og:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid - sources"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="DUBAI, March 28 (Reuters) - Middle Eastern online retailer  Souq.com will make an announcement later on Tuesday about  Amazon.com Inc&apos;s bid to buy 100..."/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4355726/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="og:image:width" value="636"/>
+    <cse:Attribute name="og:image:height" value="382"/>
+    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid - sources"/>
+    <cse:Attribute name="datepublished" value="2017-03-28T08:28:12+0100"/>
+    <cse:Attribute name="datemodified" value="2017-03-28T08:28:13+0100"/>
+    <cse:Attribute name="articlebody" value="DUBAI, March 28 (Reuters) - Middle Eastern online retailer Souq.com will make an announcement later on Tuesday about Amazon.com Inc&apos;s bid to buy 100 percent of the company from its shareholders,..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+    <cse:Attribute name="height" value="382"/>
+    <cse:Attribute name="width" value="636"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
+    <cse:Attribute name="width" value="350"/>
+    <cse:Attribute name="height" value="66"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/m_logo_636x382px.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="290"/>
+    <cse:Attribute name="height" value="174"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQSwVuceHMYb07quI8sWt6c-rwrA0ggFbyvRrwbIwqWHjdO3vQuudhWhG8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16Z0Q1</id>
+  <updated>1970-01-18T06:05:00.750Z</updated>
+  <title type="html">Dubai&amp;#39;s Souq.com to make announcement on Amazon.com bid ...</title>
+  <link href="http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16Z0Q1" title="www.reuters.com"/>
+  <summary type="html">... on Tuesday about Amazon.com Inc&amp;#39;s (AMZN.O) bid to buy 100 percent of the &lt;br&gt;
+company from its shareholders, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
+  <cse:cacheId>CnAAGNUhdHoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-souq-com-m-a-amazon-com-idUSKBN16Z0Q1</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;innovationNews;innovationNewsConsumerGoodsAndRetail;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;vbcSmallBusiness;everything;Deals;SmallBusinessBlog;AllianzInvestments;Allianz;newsproHome;audib2b;cfaglobal;aa48hours;nonegative;ubs;Intel;PFG;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Dubai%27s+Souq.com+to+make+announcement+on+Amazon.com+bid%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Ronaldo Mouchawar;US;SOUQ;COM;M;A;AMAZON;COM;Mergers / Acquisitions / Takeovers;Real Estate Development and Operations (TRBC);United Arab Emirates;Company News;South Africa;Financials (TRBC);Financials (Legacy);Africa;Corporate Events;Internet / World Wide Web;Middle East;Science;Department Stores (TRBC);United States;IT Services and Consulting (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Tue Mar 28 07:30:58 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-28T07:30:58+0000"/>
+    <cse:Attribute name="sailthru.title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16Z0Q1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Middle Eastern online retailer Souq.com will make an announcement later on Tuesday about Amazon.com Inc&apos;s (AMZN.O) bid to buy 100 percent of the company from its shareholders, two sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170328&amp;t=2&amp;i=1178307887&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2R0EV"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-28T07:30:58+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-28T07:30:58+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Ronaldo Mouchawar,US,SOUQ,COM,M,A,AMAZON,COM,Mergers / Acquisitions / Takeovers,Real Estate Development and Operations (TRBC),United Arab Emirates,Company News,South Africa,Financials (TRBC),Financials (Legacy),Africa,Corporate Events,Internet / World Wide Web,Middle East,Science,Department Stores (TRBC),United States,IT Services and Consulting (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid: sources"/>
+    <cse:Attribute name="twitter:description" value="Middle Eastern online retailer Souq.com will make an announcement later on Tuesday about Amazon.com Inc&apos;s (AMZN.O) bid to buy 100 percent of the company from its shareholders, two sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170328&amp;t=2&amp;i=1178307887&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2R0EV"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170328&amp;t=2&amp;i=1178307887&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2R0EV"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170328&amp;t=2&amp;i=1178307887&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2R0EV"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgoMVvmbJPS5OaqjqwQvdW1XJH6OyABAZ06InAGiPImIpwOToALGglCMBr"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652</id>
+  <updated>1970-01-18T06:05:00.750Z</updated>
+  <title type="html">Elon Musk Launches Neuralink to Connect Brains With Computers ...</title>
+  <link href="https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652" title="www.wsj.com"/>
+  <summary type="html">Building a mass-market electric vehicle and colonizing Mars aren&amp;#39;t ambitious &lt;br&gt;
+enough for Elon Musk. The billionaire entrepreneur now wants to merge &lt;br&gt;
+computers&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">https://www.wsj.com/.../elon-musk-launches-neuralink-to-connect-brains- with-computers-1490642652</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="dj.asn" value="i-0e92"/>
+    <cse:Attribute name="user.type" value="nonsubscriber"/>
+    <cse:Attribute name="user.exp" value="default"/>
+    <cse:Attribute name="testkeys" value="B"/>
+    <cse:Attribute name="page.section" value="Article"/>
+    <cse:Attribute name="page.content.type" value="Article"/>
+    <cse:Attribute name="page.content.format" value="responsive"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="page.content.source" value="PRO,WSJ-PRO-VC,WSJ-PRO-WSJ.com"/>
+    <cse:Attribute name="article.template" value="snippet"/>
+    <cse:Attribute name="page.site" value="wsj"/>
+    <cse:Attribute name="page.site.product" value="WSJ"/>
+    <cse:Attribute name="page.region" value="na,us"/>
+    <cse:Attribute name="article.id" value="SB12711645461998504051204583047383916922110"/>
+    <cse:Attribute name="article.type" value="Technology"/>
+    <cse:Attribute name="article.access" value="paid"/>
+    <cse:Attribute name="article.origheadline" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
+    <cse:Attribute name="article.headline" value="Elon Musk’s latest startup: Connecting brains with computers"/>
+    <cse:Attribute name="article.summary" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
+    <cse:Attribute name="article.page" value="Tech"/>
+    <cse:Attribute name="article.section" value="Tech"/>
+    <cse:Attribute name="article.published" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="article.updated" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="article.created" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="author" value="Rolfe Winkler"/>
+    <cse:Attribute name="cxenseparse:wsj-keywords" value="elon musk,neuralink,spacex,tesla,vc people,Space Exploration Technologies,Tesla,TSLA,Elon Musk,Thiel%2C%20Peter,ownership changes,acquisitions,mergers,divestments,corporate actions,corporate,industrial news,political,general news,sciences,humanities,motor vehicles,alternative fuel vehicles,aerospace products,parts,space vehicles,aerospace,defense,automotive,industrial goods,technology"/>
+    <cse:Attribute name="news_keywords" value="elon musk,neuralink,spacex,tesla,vc people,Space Exploration Technologies,Tesla,TSLA,Elon Musk,Thiel%2C%20Peter"/>
+    <cse:Attribute name="article:word_count" value="1115"/>
+    <cse:Attribute name="article:image_count" value="1"/>
+    <cse:Attribute name="article:internal_link_count" value="1"/>
+    <cse:Attribute name="article:external_link_count" value="3"/>
+    <cse:Attribute name="cxenseparse:wsj-primary-inset" value="image"/>
+    <cse:Attribute name="hdl_p" value="Brain Is Musk’s New Frontier"/>
+    <cse:Attribute name="language" value="en-US"/>
+    <cse:Attribute name="twitter:title" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
+    <cse:Attribute name="twitter:description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
+    <cse:Attribute name="twitter:image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image:alt" value="Elon Musk’s latest startup: Connecting brains with computers"/>
+    <cse:Attribute name="twitter:creator" value="@RolfeWinkler"/>
+    <cse:Attribute name="twitter:site" value="@WSJ"/>
+    <cse:Attribute name="twitter:domain" value="wsj.com"/>
+    <cse:Attribute name="fb:app_id" value="368513495882"/>
+    <cse:Attribute name="og:title" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
+    <cse:Attribute name="og:description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
+    <cse:Attribute name="og:url" value="https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652"/>
+    <cse:Attribute name="og:image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+   </cse:DataObject>
+   <cse:DataObject type="webpage">
+    <cse:Attribute name="datepublished" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="datemodified" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="datecreated" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
+    <cse:Attribute name="alternativeheadline" value="Brain Is Musk’s New Frontier"/>
+    <cse:Attribute name="inlanguage" value="en-US"/>
+    <cse:Attribute name="image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
+    <cse:Attribute name="publisher" value="wsj.com"/>
+    <cse:Attribute name="headline" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
+   </cse:DataObject>
+   <cse:DataObject type="listitem">
+    <cse:Attribute name="item" value="Tech"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Rolfe Winkler"/>
+    <cse:Attribute name="url" value="Rolfe Winkler"/>
+    <cse:Attribute name="email" value="Rolfe.Winkler@wsj.com"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170104/010417mansioncoupleskitchen/010417mansioncoupleskitchen_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/032417lunchtheranos/032417lunchtheranos_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170301/030117lunchmilan/030117lunchmilan_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170327/032717lunchcoconut/032717lunchcoconut_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170320/031717henson_empire1/031717henson_empire1_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ704_30jMt_C_20170326123719.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ626_2RdRr_C_20170325124614.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/P1-CA457_INSIDE_C_20170327202735.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SD183_2Xd38_C_20170216100154.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR175_30BRn_C_20170327134842.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170322/032217mansionbillionbuy/032217mansionbillionbuy_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/woolseyflynn/woolseyflynn_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170326/032717sharks/032717sharks_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/032417shelby4/032417shelby4_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/032417seib/032417seib_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ704_30jMt_C_20170326123719.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ626_2RdRr_C_20170325124614.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/P1-CA457_INSIDE_C_20170327202735.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SD183_2Xd38_C_20170216100154.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR175_30BRn_C_20170327134842.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://si.wsj.net/public/resources/images/BN-SQ866_AMAZON_Z120_20170326213520.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="97"/>
+    <cse:Attribute name="height" value="65"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0jJx52PrLrUxk5RExVmvcbcx7V4D16q5c1kkXLHcewqM8kOLalB9p7w"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-sun-basket-ipo-idUSKBN16T04Y</id>
-  <updated>1970-01-18T06:04:28.418Z</updated>
+  <updated>1970-01-18T06:05:00.750Z</updated>
   <title type="html">U.S. food delivery service Sun Basket hires banks for IPO: sources ...</title>
   <link href="http://www.reuters.com/article/us-sun-basket-ipo-idUSKBN16T04Y" title="www.reuters.com"/>
   <summary type="html">Blue Apron is now aiming for an IPO as early as June, &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
@@ -318,7 +608,7 @@ situation said, asking not to be named because the plans are confidential.</summ
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/deutsche-boerse-ma-lse-idUSFWN1GZ0J9</id>
-  <updated>1970-01-18T06:04:28.418Z</updated>
+  <updated>1970-01-18T06:05:00.750Z</updated>
   <title type="html">REFILE-EU to formally veto Deutsche Boerse LSE merger shortly ...</title>
   <link href="http://www.reuters.com/article/deutsche-boerse-ma-lse-idUSFWN1GZ0J9" title="www.reuters.com"/>
   <summary type="html">The EuropeanCommission will veto a proposed combination between &lt;br&gt;
@@ -382,233 +672,84 @@ DeutscheBoerse and the London Stock Exchange shortly,three &lt;b&gt;sources fami
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652</id>
-  <updated>1970-01-18T06:04:28.418Z</updated>
-  <title type="html">Elon Musk Launches Neuralink to Connect Brains With Computers ...</title>
-  <link href="https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652" title="www.wsj.com"/>
-  <summary type="html">Building a mass-market electric vehicle and colonizing Mars aren&amp;#39;t ambitious &lt;br&gt;
-enough for Elon Musk. The billionaire entrepreneur now wants to merge &lt;br&gt;
-computers&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">https://www.wsj.com/.../elon-musk-launches-neuralink-to-connect-brains- with-computers-1490642652</cse:formattedUrl>
+  <id>http://www.reuters.com/article/citi-saudi-idUSL3N1H42YW</id>
+  <updated>1970-01-18T06:05:00.750Z</updated>
+  <title type="html">Citi applies for capital markets licence in Saudi Arabia-sources ...</title>
+  <link href="http://www.reuters.com/article/citi-saudi-idUSL3N1H42YW" title="www.reuters.com"/>
+  <summary type="html">Citigroup hasformally applied for a licence to conduct capital marketsbusiness in &lt;br&gt;
+Saudi Arabia, two &lt;b&gt;sources familiar with&lt;/b&gt; the mattersaid, in a major move to&amp;nbsp;...</summary>
+  <cse:cacheId>iLIIFbT-hNcJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/citi-saudi-idUSL3N1H42YW</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="dj.asn" value="i-0384"/>
-    <cse:Attribute name="user.type" value="nonsubscriber"/>
-    <cse:Attribute name="user.exp" value="default"/>
-    <cse:Attribute name="testkeys" value="C"/>
-    <cse:Attribute name="page.section" value="Article"/>
-    <cse:Attribute name="page.content.type" value="Article"/>
-    <cse:Attribute name="page.content.format" value="responsive"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="page.content.source" value="PRO,WSJ-PRO-VC,WSJ-PRO-WSJ.com"/>
-    <cse:Attribute name="article.template" value="full"/>
-    <cse:Attribute name="page.site" value="wsj"/>
-    <cse:Attribute name="page.site.product" value="WSJ"/>
-    <cse:Attribute name="page.region" value="na,us"/>
-    <cse:Attribute name="article.id" value="SB12711645461998504051204583047383916922110"/>
-    <cse:Attribute name="article.type" value="Technology"/>
-    <cse:Attribute name="article.access" value="paid"/>
-    <cse:Attribute name="article.origheadline" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
-    <cse:Attribute name="article.headline" value="Elon Musk’s latest startup: Connecting brains with computers"/>
-    <cse:Attribute name="article.summary" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
-    <cse:Attribute name="article.page" value="Tech"/>
-    <cse:Attribute name="article.section" value="Tech"/>
-    <cse:Attribute name="article.published" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="article.updated" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="article.created" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="author" value="Rolfe Winkler"/>
-    <cse:Attribute name="cxenseparse:wsj-keywords" value="elon musk,neuralink,spacex,tesla,vc people,Space Exploration Technologies,Tesla,TSLA,Elon Musk,Thiel%2C%20Peter,ownership changes,acquisitions,mergers,divestments,corporate actions,corporate,industrial news,political,general news,sciences,humanities,motor vehicles,alternative fuel vehicles,aerospace products,parts,space vehicles,aerospace,defense,automotive,industrial goods,technology"/>
-    <cse:Attribute name="news_keywords" value="elon musk,neuralink,spacex,tesla,vc people,Space Exploration Technologies,Tesla,TSLA,Elon Musk,Thiel%2C%20Peter"/>
-    <cse:Attribute name="article:word_count" value="1115"/>
-    <cse:Attribute name="article:image_count" value="1"/>
-    <cse:Attribute name="article:internal_link_count" value="1"/>
-    <cse:Attribute name="article:external_link_count" value="3"/>
-    <cse:Attribute name="cxenseparse:wsj-primary-inset" value="image"/>
-    <cse:Attribute name="hdl_p" value="Brain Is Musk’s New Frontier"/>
-    <cse:Attribute name="language" value="en-US"/>
-    <cse:Attribute name="twitter:title" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
-    <cse:Attribute name="twitter:description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
-    <cse:Attribute name="twitter:image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image:alt" value="Elon Musk’s latest startup: Connecting brains with computers"/>
-    <cse:Attribute name="twitter:creator" value="@RolfeWinkler"/>
-    <cse:Attribute name="twitter:site" value="@WSJ"/>
-    <cse:Attribute name="twitter:domain" value="wsj.com"/>
-    <cse:Attribute name="fb:app_id" value="368513495882"/>
-    <cse:Attribute name="og:title" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
-    <cse:Attribute name="og:description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
-    <cse:Attribute name="og:url" value="https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652"/>
-    <cse:Attribute name="og:image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="swissMktRpt;governmentFilingsNews;marketsNews;fundsFundsNews;OILPRD;rbssEnergyNews;rbssFinancialServicesAndRealEstateNews;etfNews;rbssOilGasExplorationProduction;rbssInvestmentServices;regulatoryNewsEnergy;regulatoryNewsFinancialServicesAndRealEstate;americasRegulatoryNews;asiaRegulatoryNews;euRegulatoryNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Citi+applies+for+capital+markets+licence+in+Saudi+Arabia-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Saudi Arabia;CITI;SAUDI/ (URGENT);Investment Banking and Investment Services (TRBC);Chemicals (Legacy);Security Listings / Delistings;Energy Markets;Western Europe;Energy (Legacy);Central / Eastern Europe;Saudi Arabia;Oil and Gas Exploration and Production (TRBC);Asia / Pacific;Middle East;Deals;United States;Commodities Markets;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Switzerland;Company News;Financials (TRBC);Financials (Legacy);Corporate Events;Economic Events;Oil and Gas (TRBC);Diversified Investment Services (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Europe;Regulation;Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Tue Mar 28 08:54:40 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-28T08:54:40+0000"/>
+    <cse:Attribute name="sailthru.title" value="Citi applies for capital markets licence in Saudi Arabia-sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-   </cse:DataObject>
-   <cse:DataObject type="webpage">
-    <cse:Attribute name="datepublished" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="datemodified" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="datecreated" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
-    <cse:Attribute name="alternativeheadline" value="Brain Is Musk’s New Frontier"/>
-    <cse:Attribute name="inlanguage" value="en-US"/>
-    <cse:Attribute name="image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
-    <cse:Attribute name="publisher" value="wsj.com"/>
-    <cse:Attribute name="headline" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
-    <cse:Attribute name="articlebody" value="Neuralink is pursuing what Elon Musk calls ‘neural lace’ technology, implanting tiny brain electrodes that may one day upload and download thoughts. Photo: Hector Guerrero/Agence France-Presse/..."/>
-    <cse:Attribute name="interactioncount" value="UserComments:83"/>
-   </cse:DataObject>
-   <cse:DataObject type="listitem">
-    <cse:Attribute name="item" value="Tech"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="representativeofpage" value="https://si.wsj.net/public/resources/images/BN-SQ792_ELONMU_GR_20170326203509.jpg"/>
-    <cse:Attribute name="contenturl" value="https://si.wsj.net/public/resources/images/BN-SQ792_ELONMU_GR_20170326203509.jpg"/>
-    <cse:Attribute name="caption" value="Neuralink is pursuing what Elon Musk calls ‘neural lace’ technology, implanting tiny brain electrodes that may one day upload and download thoughts."/>
-    <cse:Attribute name="description" value="Neuralink is pursuing what Elon Musk calls ‘neural lace’ technology, implanting tiny brain electrodes that may one day upload and download thoughts."/>
-    <cse:Attribute name="creator" value="Photo: Hector Guerrero/Agence France-Presse/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Rolfe Winkler"/>
-    <cse:Attribute name="url" value="Rolfe Winkler"/>
-    <cse:Attribute name="email" value="Rolfe.Winkler@wsj.com"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170301/030117mansionsecurity/030117mansionsecurity_115x65.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170124/012417lunchtwinings/012417lunchtwinings_115x65.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/032417lunchdeanna/032417lunchdeanna_115x65.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170315/031517lunchstem/031517lunchstem_115x65.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170125/012517mansionschools/012517mansionschools_115x65.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ704_30jMt_C_20170326123719.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ626_2RdRr_C_20170325124614.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/P1-CA457_INSIDE_C_20170327202735.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SD183_2Xd38_C_20170216100154.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR175_30BRn_C_20170327134842.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170322/032217mansionbillionbuy/032217mansionbillionbuy_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/woolseyflynn/woolseyflynn_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170326/032717sharks/032717sharks_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/032417shelby4/032417shelby4_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/032417seib/032417seib_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ704_30jMt_C_20170326123719.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ626_2RdRr_C_20170325124614.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/P1-CA457_INSIDE_C_20170327202735.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SD183_2Xd38_C_20170216100154.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR175_30BRn_C_20170327134842.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://si.wsj.net/public/resources/images/BN-SQ792_ELONMU_GR_20170326203509.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="278"/>
-    <cse:Attribute name="height" value="181"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyUBSEYwsVnOLjpPLwA-2jAlEi0bE813Y0avvrUyJ4sUcwEkq5KDtKE7xz"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://thehill.com/blogs/pundits-blog/media/325256-fox-news-napolitano-controversy-shows-why-reporters-should-claim</id>
-  <updated>1970-01-18T06:04:28.418Z</updated>
-  <title type="html">Fox News&amp;#39;s Napolitano controversy shows why reporters should ...</title>
-  <link href="http://thehill.com/blogs/pundits-blog/media/325256-fox-news-napolitano-controversy-shows-why-reporters-should-claim" title="thehill.com"/>
-  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the matter tells me the same. The former New Jersey &lt;br&gt;
-Superior Court Judge joined Fox News almost 20 years ago and is exceptionally&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>ylyGNfVyh1EJ</cse:cacheId>
-  <cse:formattedUrl type="html">thehill.com/.../325256-fox-news-napolitano-controversy-shows-why- reporters-should-claim</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="Joe Concha, opinion contributor"/>
-    <cse:Attribute name="smart_paging" value="on"/>
-    <cse:Attribute name="fb:admins" value="581787871"/>
-    <cse:Attribute name="fb:app_id" value="566538590082898"/>
-    <cse:Attribute name="og:site_name" value="TheHill"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Citi applies for capital markets licence in Saudi Arabia-sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/citi-saudi-idUSL3N1H42YW"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:title" value="Fox News&apos;s Napolitano controversy shows why reporters should claim their sources"/>
-    <cse:Attribute name="og:url" value="http://thehill.com/blogs/pundits-blog/media/325256-fox-news-napolitano-controversy-shows-why-reporters-should-claim"/>
-    <cse:Attribute name="og:description" value="OPINION | Reporters need to claim their sources rather than attributing them to their employer."/>
-    <cse:Attribute name="og:updated_time" value="2017-03-22T15:23:16-04:00"/>
-    <cse:Attribute name="og:image" value="http://thehill.com/sites/default/files/blogs/napolitano.jpeg"/>
+    <cse:Attribute name="og:description" value="Citigroup hasformally applied for a licence to conduct capital marketsbusiness in Saudi Arabia, two sources familiar with the mattersaid, in a major move to return to the country after a roughlythirteen year absence."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-28T08:54:40+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-28T08:54:40+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Saudi Arabia,CITI,SAUDI/ (URGENT),Investment Banking and Investment Services (TRBC),Chemicals (Legacy),Security Listings / Delistings,Energy Markets,Western Europe,Energy (Legacy),Central / Eastern Europe,Saudi Arabia,Oil and Gas Exploration and Production (TRBC),Asia / Pacific,Middle East,Deals,United States,Commodities Markets,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Switzerland,Company News,Financials (TRBC),Financials (Legacy),Corporate Events,Economic Events,Oil and Gas (TRBC),Diversified Investment Services (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Europe,Regulation,Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Fox News&apos;s Napolitano controversy shows why reporters should claim their sources"/>
-    <cse:Attribute name="twitter:url" value="http://thehill.com/blogs/pundits-blog/media/325256-fox-news-napolitano-controversy-shows-why-reporters-should-claim"/>
-    <cse:Attribute name="twitter:description" value="OPINION | Reporters need to claim their sources rather than attributing them to their employer."/>
-    <cse:Attribute name="article:published_time" value="2017-03-22T14:50:02-04:00"/>
-    <cse:Attribute name="article:modified_time" value="2017-03-22T15:23:16-04:00"/>
-    <cse:Attribute name="dcterms.title" value="Fox News&apos;s Napolitano controversy shows why reporters should claim their sources"/>
-    <cse:Attribute name="dcterms.creator" value="Rudy Takala"/>
-    <cse:Attribute name="dcterms.description" value="OPINION | Reporters need to claim their sources rather than attributing them to their employer."/>
-    <cse:Attribute name="dcterms.date" value="2017-03-22T14:50-04:00"/>
-    <cse:Attribute name="dcterms.type" value="Text"/>
-    <cse:Attribute name="dcterms.format" value="text/html"/>
-    <cse:Attribute name="dcterms.identifier" value="http://thehill.com/blogs/pundits-blog/media/325256-fox-news-napolitano-controversy-shows-why-reporters-should-claim"/>
-    <cse:Attribute name="twitter:widgets:csp" value="on"/>
-    <cse:Attribute name="fb:pages" value="7533944086"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=360124019"/>
-   </cse:DataObject>
-   <cse:DataObject type="Item">
-    <cse:Attribute name="title" value="Fox News&apos;s Napolitano controversy shows why reporters should claim their sources"/>
-    <cse:Attribute name="encoded" value="Like almost every old fashioned newspaper, major cable news networks have a news side and an opinion side. But periodically the opinion side provides information to an audience that may run..."/>
+    <cse:Attribute name="twitter:title" value="Citi applies for capital markets licence in Saudi Arabia-sources"/>
+    <cse:Attribute name="twitter:description" value="Citigroup hasformally applied for a licence to conduct capital marketsbusiness in Saudi Arabia, two sources familiar with the mattersaid, in a major move to return to the country after a roughlythirteen year absence."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://thehill.com/sites/default/files/blogs/napolitano.jpeg"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTvgy3A4zXye0JHTBDcnisQzf3kT1yoaWYVj8HQcX0cj791A00j9mAqgE"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM</id>
-  <updated>1970-01-18T06:04:28.418Z</updated>
-  <title type="html">Amazon.com agrees in principle to buy Middle East&amp;#39;s Souq.com ...</title>
-  <link href="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM" title="www.reuters.com"/>
-  <summary type="html">... in principle to buy 100 percent of Middle Eastern online retailer Souq.com from &lt;br&gt;
-its shareholders, &lt;b&gt;sources familiar with&lt;/b&gt; the deal told Reuters on Wednesday.</summary>
-  <cse:cacheId>iBq5Nxr1OiYJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../souqcom-ma-amazoncom-idUSL5N1GZ4HM</cse:formattedUrl>
+  <id>http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177</id>
+  <updated>1970-01-18T06:05:00.750Z</updated>
+  <title type="html">Dubai&amp;#39;s Souq.com to make announcement on Amazon.com bid ...</title>
+  <link href="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177" title="www.reuters.com"/>
+  <summary type="html">... make an announcement later on Tuesday aboutAmazon.com Inc&amp;#39;s bid to buy &lt;br&gt;
+100 percent of the companyfrom its shareholders, two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>Y-Klb_4otDQJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;marketsNews;rbssConsumerGoodsAndRetailNews;rbssTechMediaTelecomNews;rbssRetailDepartmentStores;rbssITServicesConsulting;technology-media-telco-SP;mnaNewsConsumerGoodsAndRetail;americasMergersNews;asiaMergersNews;mnaNewsTechMediaTelco;audib2b;CathayPacific_US;ABG_2016;cyclicalConsumerGoodsSector;technologySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Amazon.com+agrees+in+principle+to+buy+Middle+East%27s+Souq.com+-sources"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;marketsNews;rbssRetailDepartmentStores;rbssRealEstateOperations;rbssITServicesConsulting;mnaNewsConsumerGoodsAndRetail;mnaNewsFinancialServicesAndRealEstate;americasMergersNews;asiaMergersNews;mnaNewsTechMediaTelco;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;cyclicalConsumerGoodsSector;financialsSector;technologySector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Dubai%27s+Souq.com+to+make+announcement+on+Amazon.com+bid+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
@@ -616,30 +757,30 @@ its shareholders, &lt;b&gt;sources familiar with&lt;/b&gt; the deal told Reuters
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="SOUQ.COM;MandA/AMAZON.COM (URGENT);Retailers (Legacy);Mergers / Acquisitions / Takeovers;Africa;Retailers excl Food and Drug Specialists (TRBC);Asia / Pacific;Middle East;Department Stores (TRBC);Deals;All Retail;United States;IT Services and Consulting (TRBC);Americas;United Arab Emirates;Society / Social Issues;Company News;South Africa;Software and IT Services (TRBC);Corporate Events;General News;Technology (TRBC);Internet / World Wide Web;Diversified Retail (TRBC);Science;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Wed Mar 22 14:41:25 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="SOUQ.COM;MandA/AMAZON.COM (URGENT);Retailers (Legacy);Mergers / Acquisitions / Takeovers;Africa;Retailers excl Food and Drug Specialists (TRBC);Asia / Pacific;Middle East;Department Stores (TRBC);Deals;All Retail;United States;IT Services and Consulting (TRBC);Americas;Real Estate Development and Operations (TRBC);United Arab Emirates;Society / Social Issues;Company News;South Africa;Financials (TRBC);Software and IT Services (TRBC);Financials (Legacy);Corporate Events;Real Estate (Legacy);General News;Technology (TRBC);Real Estate Operations (TRBC);Internet / World Wide Web;Real Estate (TRBC);Diversified Retail (TRBC);Science;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Tue Mar 28 07:09:27 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-22T14:41:25+0000"/>
-    <cse:Attribute name="sailthru.title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-28T07:09:27+0000"/>
+    <cse:Attribute name="sailthru.title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM"/>
+    <cse:Attribute name="og:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Amazon.com Inc hasagreed in principle to buy 100 percent of Middle Eastern onlineretailer Souq.com from its shareholders, sources familiar withthe deal told Reuters on Wednesday."/>
+    <cse:Attribute name="og:description" value="Middle Eastern online retailerSouq.com will make an announcement later on Tuesday aboutAmazon.com Inc&apos;s bid to buy 100 percent of the companyfrom its shareholders, two sources familiar with the deal toldReuters."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-22T14:41:25+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-22T14:41:25+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-28T07:09:27+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-28T07:09:27+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="SOUQ.COM,MandA/AMAZON.COM (URGENT),Retailers (Legacy),Mergers / Acquisitions / Takeovers,Africa,Retailers excl Food and Drug Specialists (TRBC),Asia / Pacific,Middle East,Department Stores (TRBC),Deals,All Retail,United States,IT Services and Consulting (TRBC),Americas,United Arab Emirates,Society / Social Issues,Company News,South Africa,Software and IT Services (TRBC),Corporate Events,General News,Technology (TRBC),Internet / World Wide Web,Diversified Retail (TRBC),Science,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Emerging Market Countries"/>
+    <cse:Attribute name="og:article:tag" value="SOUQ.COM,MandA/AMAZON.COM (URGENT),Retailers (Legacy),Mergers / Acquisitions / Takeovers,Africa,Retailers excl Food and Drug Specialists (TRBC),Asia / Pacific,Middle East,Department Stores (TRBC),Deals,All Retail,United States,IT Services and Consulting (TRBC),Americas,Real Estate Development and Operations (TRBC),United Arab Emirates,Society / Social Issues,Company News,South Africa,Financials (TRBC),Software and IT Services (TRBC),Financials (Legacy),Corporate Events,Real Estate (Legacy),General News,Technology (TRBC),Real Estate Operations (TRBC),Internet / World Wide Web,Real Estate (TRBC),Diversified Retail (TRBC),Science,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Emerging Market Countries"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
-    <cse:Attribute name="twitter:description" value="Amazon.com Inc hasagreed in principle to buy 100 percent of Middle Eastern onlineretailer Souq.com from its shareholders, sources familiar withthe deal told Reuters on Wednesday."/>
+    <cse:Attribute name="twitter:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid -sources"/>
+    <cse:Attribute name="twitter:description" value="Middle Eastern online retailerSouq.com will make an announcement later on Tuesday aboutAmazon.com Inc&apos;s bid to buy 100 percent of the companyfrom its shareholders, two sources familiar with the deal toldReuters."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
@@ -647,134 +788,6 @@ its shareholders, &lt;b&gt;sources familiar with&lt;/b&gt; the deal told Reuters
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
     <cse:Attribute name="wt.cg_s" value="Markets"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-emirates-global-aluminium-ipo-idUSKBN16S13H</id>
-  <updated>1970-01-18T06:04:28.418Z</updated>
-  <title type="html">Emirates Global Aluminium plans IPO, banks pitch for role: sources ...</title>
-  <link href="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-idUSKBN16S13H" title="www.reuters.com"/>
-  <summary type="html">A request for proposals on the IPO was sent to banks, and submissions were due &lt;br&gt;
-last week, according to three &lt;b&gt;sources familiar with&lt;/b&gt; the matter, who spoke on&amp;nbsp;...</summary>
-  <cse:cacheId>An_WHXyGqA0J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-emirates-global-aluminium-ipo-idUSKBN16S13H</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;innovationNewsIndustryMaterialsAndUtilities;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Emirates+Global+Aluminium+plans+IPO%2C+banks+pitch+for+role%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Hadeel Al Sayegh and Stanley Carvalho"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Hadeel Al Sayegh and Stanley Carvalho"/>
-    <cse:Attribute name="news_keywords" value="United Arab Emirates;United States;US;EMIRATES;GLOBAL;ALUMINIUM;IPO;Investment Banking and Investment Services (TRBC);Banks (TRBC);Security Listings / Delistings;United Arab Emirates;Company News;Initial Public Offerings;Aluminium;New Issues;Base Metals;Equity Financing;Corporate Events;Investment Banking and Brokerage Services (TRBC);Middle East;Aluminum (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 21 10:30:35 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Hadeel Al Sayegh and Stanley Carvalho"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-21T10:30:35+0000"/>
-    <cse:Attribute name="sailthru.title" value="Emirates Global Aluminium plans IPO, banks pitch for role: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Emirates Global Aluminium plans IPO, banks pitch for role: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-idUSKBN16S13H"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Emirates Global Aluminium (EGA), one of the world&apos;s top five producers, has invited banks to pitch for a role in its planned initial public offering, sources told Reuters."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-21T10:30:35+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-21T10:30:35+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Hadeel Al Sayegh and Stanley Carvalho"/>
-    <cse:Attribute name="og:article:tag" value="United Arab Emirates,United States,US,EMIRATES,GLOBAL,ALUMINIUM,IPO,Investment Banking and Investment Services (TRBC),Banks (TRBC),Security Listings / Delistings,United Arab Emirates,Company News,Initial Public Offerings,Aluminium,New Issues,Base Metals,Equity Financing,Corporate Events,Investment Banking and Brokerage Services (TRBC),Middle East,Aluminum (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Emirates Global Aluminium plans IPO, banks pitch for role: sources"/>
-    <cse:Attribute name="twitter:description" value="Emirates Global Aluminium (EGA), one of the world&apos;s top five producers, has invited banks to pitch for a role in its planned initial public offering, sources told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/emirates-global-aluminium-ipo-mandate-idUSL5N1H4583</id>
-  <updated>1970-01-18T06:04:28.418Z</updated>
-  <title type="html">Emirates Global Aluminium mandates U.S. banks for IPO: sources ...</title>
-  <link href="http://www.reuters.com/article/emirates-global-aluminium-ipo-mandate-idUSL5N1H4583" title="www.reuters.com"/>
-  <summary type="html">N) to advise on its initial public offering, &lt;b&gt;sources familiar with&lt;/b&gt; the situation said on &lt;br&gt;
-Monday. The three banks, which were mandated as joint global coordinators,&amp;nbsp;...</summary>
-  <cse:cacheId>LUwTBjpfuHkJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../emirates-global-aluminium-ipo-mandate- idUSL5N1H4583</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Emirates+Global+Aluminium+mandates+U.S.+banks+for+IPO%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Dasha Afanasieva and Clara Denina"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Dasha Afanasieva and Clara Denina"/>
-    <cse:Attribute name="news_keywords" value="US;EMIRATES;GLOBAL;ALUMINIUM;IPO;MANDATE;Investment Banking and Investment Services (TRBC);Wealth Management;Banks (TRBC);United Arab Emirates;Funds;Company News;Western Europe;Initial Public Offerings;Arts / Culture / Entertainment;New Issues;Equity Financing;Corporate Events;Corporate Debt;Investment Banking and Brokerage Services (TRBC);Middle East;Aluminum (TRBC);Banking Services (Legacy);United States"/>
-    <cse:Attribute name="revision_date" value="Mon Mar 27 16:58:36 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Dasha Afanasieva and Clara Denina"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-27T16:58:36+0000"/>
-    <cse:Attribute name="sailthru.title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-mandate-idUSKBN16Y24E"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Emirates Global Aluminium (EGA) mandated Bank of America Merrill Lynch (BAC.N), Goldman Sachs (GS.N) and JP Morgan (JPM.N) to advise on its initial public offering, sources familiar with the situation said on Monday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-27T16:58:36+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-27T16:58:36+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Dasha Afanasieva and Clara Denina"/>
-    <cse:Attribute name="og:article:tag" value="US,EMIRATES,GLOBAL,ALUMINIUM,IPO,MANDATE,Investment Banking and Investment Services (TRBC),Wealth Management,Banks (TRBC),United Arab Emirates,Funds,Company News,Western Europe,Initial Public Offerings,Arts / Culture / Entertainment,New Issues,Equity Financing,Corporate Events,Corporate Debt,Investment Banking and Brokerage Services (TRBC),Middle East,Aluminum (TRBC),Banking Services (Legacy),United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
-    <cse:Attribute name="twitter:description" value="Emirates Global Aluminium (EGA) mandated Bank of America Merrill Lynch (BAC.N), Goldman Sachs (GS.N) and JP Morgan (JPM.N) to advise on its initial public offering, sources familiar with the situation said on Monday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
