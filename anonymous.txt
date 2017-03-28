@@ -5,25 +5,89 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:02:12.748Z</updated>
+ <updated>1970-01-18T06:04:28.418Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>10400</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9080" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9080" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9080</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.331073</cse:searchTime>
-  <cse:formattedSearchTime>0.33</cse:formattedSearchTime>
-  <cse:totalResults>10400</cse:totalResults>
-  <cse:formattedTotalResults>10,400</cse:formattedTotalResults>
+  <cse:searchTime>0.389951</cse:searchTime>
+  <cse:formattedSearchTime>0.39</cse:formattedSearchTime>
+  <cse:totalResults>9080</cse:totalResults>
+  <cse:formattedTotalResults>9,080</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW</id>
+  <updated>1970-01-18T06:04:28.418Z</updated>
+  <title type="html">Exclusive: AMC plans ad-free streaming service for cable subscribers</title>
+  <link href="http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW" title="www.reuters.com"/>
+  <summary type="html">... to launch a commercial-free online video streaming service aimed at millennial &lt;br&gt;
+TV subscribers, two &lt;b&gt;sources familiar with&lt;/b&gt; the situation told Reuters this week.</summary>
+  <cse:cacheId>nOAxKw3y25MJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-amc-networks-streaming-exclusive- idUSKBN16V2CW</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="internetNews"/>
+    <cse:Attribute name="dcsext.channellist" value="internetNews;televisionNews;innovationAMD;everything;forexNewsCopy;AllianzInvestments;Allianz;verizonmm;cfaglobal;shipping;dassaultuk;MBenz;ubs;Intel;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+AMC+plans+ad-free+streaming+service+for+cable+subscribers+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Tim Baysinger and Jessica Toonkel"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-internetNews"/>
+    <cse:Attribute name="author" value="Tim Baysinger and Jessica Toonkel"/>
+    <cse:Attribute name="news_keywords" value="United States;US;AMC;NETWORKS;STREAMING;EXCLUSIVE;Company News;Major News;Sports Business;Science;Exclusive;Arts / Culture / Entertainment;Entertainment Production (TRBC);Broadcasting (TRBC);Corporate Events;United States;Advertising and Marketing (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Fri Mar 24 17:26:45 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Tim Baysinger and Jessica Toonkel"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-24T17:26:45+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: AMC plans ad-free streaming service for cable subscribers - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: AMC plans ad-free streaming service for cable subscribers - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="AMC Networks Inc, whose shows include &quot;The Walking Dead,&quot; is planning to launch a commercial-free online video streaming service aimed at millennial TV subscribers, two sources familiar with the situation told Reuters this week."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-24T17:26:45+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-24T17:26:45+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Tim Baysinger and Jessica Toonkel"/>
+    <cse:Attribute name="og:article:tag" value="United States,US,AMC,NETWORKS,STREAMING,EXCLUSIVE,Company News,Major News,Sports Business,Science,Exclusive,Arts / Culture / Entertainment,Entertainment Production (TRBC),Broadcasting (TRBC),Corporate Events,United States,Advertising and Marketing (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: AMC plans ad-free streaming service for cable subscribers - sources"/>
+    <cse:Attribute name="twitter:description" value="AMC Networks Inc, whose shows include &quot;The Walking Dead,&quot; is planning to launch a commercial-free online video streaming service aimed at millennial TV subscribers, two sources familiar with the situation told Reuters this week."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Internet"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.nytimes.com/2017/03/21/technology/uber-board-stands-by-travis-kalanick.html</id>
-  <updated>1970-01-18T06:02:12.748Z</updated>
+  <updated>1970-01-18T06:04:28.418Z</updated>
   <title type="html">Uber Board Stands by Travis Kalanick as It Reveals Plans to Repair ...</title>
   <link href="https://www.nytimes.com/2017/03/21/technology/uber-board-stands-by-travis-kalanick.html" title="www.nytimes.com"/>
   <summary type="html">In a conference call with executives, Uber presented a list of changes it plans to &lt;br&gt;
@@ -125,7 +189,7 @@ make to improve morale and repair its tarnished reputation.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16T1XA</id>
-  <updated>1970-01-18T06:02:12.748Z</updated>
+  <updated>1970-01-18T06:04:28.418Z</updated>
   <title type="html">Amazon to buy Middle Eastern online retailer Souq.com: sources ...</title>
   <link href="http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16T1XA" title="www.reuters.com"/>
   <summary type="html">... in principle to buy Dubai-based internet retailer Souq.com, one of the best-&lt;br&gt;
@@ -189,78 +253,14 @@ the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW</id>
-  <updated>1970-01-18T06:02:12.748Z</updated>
-  <title type="html">Exclusive: AMC plans ad-free streaming service for cable subscribers</title>
-  <link href="http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW" title="www.reuters.com"/>
-  <summary type="html">... to launch a commercial-free online video streaming service aimed at millennial &lt;br&gt;
-TV subscribers, two &lt;b&gt;sources familiar with&lt;/b&gt; the situation told Reuters this week.</summary>
-  <cse:cacheId>nOAxKw3y25MJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-amc-networks-streaming-exclusive- idUSKBN16V2CW</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="internetNews"/>
-    <cse:Attribute name="dcsext.channellist" value="internetNews;televisionNews;innovationAMD;everything;forexNewsCopy;AllianzInvestments;Allianz;verizonmm;cfaglobal;shipping;dassaultuk;MBenz;ubs;Intel;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+AMC+plans+ad-free+streaming+service+for+cable+subscribers+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Tim Baysinger and Jessica Toonkel"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-internetNews"/>
-    <cse:Attribute name="author" value="Tim Baysinger and Jessica Toonkel"/>
-    <cse:Attribute name="news_keywords" value="United States;US;AMC;NETWORKS;STREAMING;EXCLUSIVE;Company News;Major News;Sports Business;Science;Exclusive;Arts / Culture / Entertainment;Entertainment Production (TRBC);Broadcasting (TRBC);Corporate Events;United States;Advertising and Marketing (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Fri Mar 24 17:26:45 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Tim Baysinger and Jessica Toonkel"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-24T17:26:45+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: AMC plans ad-free streaming service for cable subscribers - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: AMC plans ad-free streaming service for cable subscribers - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="AMC Networks Inc, whose shows include &quot;The Walking Dead,&quot; is planning to launch a commercial-free online video streaming service aimed at millennial TV subscribers, two sources familiar with the situation told Reuters this week."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-24T17:26:45+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-24T17:26:45+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Tim Baysinger and Jessica Toonkel"/>
-    <cse:Attribute name="og:article:tag" value="United States,US,AMC,NETWORKS,STREAMING,EXCLUSIVE,Company News,Major News,Sports Business,Science,Exclusive,Arts / Culture / Entertainment,Entertainment Production (TRBC),Broadcasting (TRBC),Corporate Events,United States,Advertising and Marketing (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: AMC plans ad-free streaming service for cable subscribers - sources"/>
-    <cse:Attribute name="twitter:description" value="AMC Networks Inc, whose shows include &quot;The Walking Dead,&quot; is planning to launch a commercial-free online video streaming service aimed at millennial TV subscribers, two sources familiar with the situation told Reuters this week."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Internet"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/sun-basket-ipo-idUSL2N1GY24S</id>
-  <updated>1970-01-18T06:02:12.748Z</updated>
+  <id>http://www.reuters.com/article/us-sun-basket-ipo-idUSKBN16T04Y</id>
+  <updated>1970-01-18T06:04:28.418Z</updated>
   <title type="html">U.S. food delivery service Sun Basket hires banks for IPO: sources ...</title>
-  <link href="http://www.reuters.com/article/sun-basket-ipo-idUSL2N1GY24S" title="www.reuters.com"/>
+  <link href="http://www.reuters.com/article/us-sun-basket-ipo-idUSKBN16T04Y" title="www.reuters.com"/>
   <summary type="html">Blue Apron is now aiming for an IPO as early as June, &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
 situation said, asking not to be named because the plans are confidential.</summary>
-  <cse:cacheId>L0r7zyka9ssJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/sun-basket-ipo-idUSL2N1GY24S</cse:formattedUrl>
+  <cse:cacheId>KQPvVSfUPJUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-sun-basket-ipo-idUSKBN16T04Y</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
@@ -317,73 +317,8 @@ situation said, asking not to be named because the plans are confidential.</summ
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/dominion-diamond-ma-stornoway-diamond-idUSL2N1GX1X2</id>
-  <updated>1970-01-18T06:02:12.748Z</updated>
-  <title type="html">Dominion Diamond, Stornoway held merger talks: sources | Reuters</title>
-  <link href="http://www.reuters.com/article/dominion-diamond-ma-stornoway-diamond-idUSL2N1GX1X2" title="www.reuters.com"/>
-  <summary type="html">... has drawn interest from a series of private equity investors who are lining up &lt;br&gt;
-indicative bids ahead of a mid-April deadline, &lt;b&gt;sources familiar with&lt;/b&gt; the matter &lt;br&gt;
-said&amp;nbsp;...</summary>
-  <cse:cacheId>p-tF-uX_D4AJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../dominion-diamond-ma-stornoway-diamond- idUSL2N1GX1X2</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsEnergy;innovationNewsIndustryMaterialsAndUtilities;americasDealsNews;americasPrivateEquityNews;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;everything;Deals;ShellEnergy;AllianzInvestments;Allianz;newsproHome;verizonmm;money-markets-rss;cfaglobal;aa48hours;shipping;dassaultuk;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Dominion+Diamond%2C+Stornoway+held+merger+talks%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Nicole Mordant and John Tilak"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Nicole Mordant and John Tilak"/>
-    <cse:Attribute name="news_keywords" value="United States;Canada;United States;DENNIS WASHINGTON;Brendan Bell;Dennis R. Washington;Edward Sterck;Lawrence Simkins;Matthew L. Manson;US;DOMINION;DIAMOND;M;A;STORNOWAY;DIAMOND;Mergers / Acquisitions / Takeovers;Precious Metals and Minerals (TRBC);Precious Metals;Western Europe;Coal (TRBC);Specialty Mining and Metals (TRBC);Diamond Markets;Asia / Pacific;Major News;Government Borrowing Requirement;Deals;United Kingdom;Canada;United States;Company News;Financials (TRBC);Financials (Legacy);Corporate Events;Mining;Australia;Energy (TRBC);Europe;Mineral Resources (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 21 00:28:40 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Nicole Mordant and John Tilak"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-21T00:28:40+0000"/>
-    <cse:Attribute name="sailthru.title" value="Dominion Diamond, Stornoway held merger talks: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Dominion Diamond, Stornoway held merger talks: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-dominion-diamond-m-a-stornoway-diamon-idUSKBN16R2QJ"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Dominion Diamond Corp (DDC.TO) (DDC.N) and fellow Canadian diamond miner Stornoway Diamond Corp (SWY.TO) have held talks about a potential merger in recent months, people familiar with the matter said on Monday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-21T00:28:40+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-21T00:28:40+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Nicole Mordant and John Tilak"/>
-    <cse:Attribute name="og:article:tag" value="United States,Canada,United States,DENNIS WASHINGTON,Brendan Bell,Dennis R. Washington,Edward Sterck,Lawrence Simkins,Matthew L. Manson,US,DOMINION,DIAMOND,M,A,STORNOWAY,DIAMOND,Mergers / Acquisitions / Takeovers,Precious Metals and Minerals (TRBC),Precious Metals,Western Europe,Coal (TRBC),Specialty Mining and Metals (TRBC),Diamond Markets,Asia / Pacific,Major News,Government Borrowing Requirement,Deals,United Kingdom,Canada,United States,Company News,Financials (TRBC),Financials (Legacy),Corporate Events,Mining,Australia,Energy (TRBC),Europe,Mineral Resources (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Dominion Diamond, Stornoway held merger talks: sources"/>
-    <cse:Attribute name="twitter:description" value="Dominion Diamond Corp (DDC.TO) (DDC.N) and fellow Canadian diamond miner Stornoway Diamond Corp (SWY.TO) have held talks about a potential merger in recent months, people familiar with the matter said on Monday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/deutsche-boerse-ma-lse-idUSFWN1GZ0J9</id>
-  <updated>1970-01-18T06:02:12.748Z</updated>
+  <updated>1970-01-18T06:04:28.418Z</updated>
   <title type="html">REFILE-EU to formally veto Deutsche Boerse LSE merger shortly ...</title>
   <link href="http://www.reuters.com/article/deutsche-boerse-ma-lse-idUSFWN1GZ0J9" title="www.reuters.com"/>
   <summary type="html">The EuropeanCommission will veto a proposed combination between &lt;br&gt;
@@ -447,58 +382,271 @@ DeutscheBoerse and the London Stock Exchange shortly,three &lt;b&gt;sources fami
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1GT00I</id>
-  <updated>1970-01-18T06:02:12.748Z</updated>
-  <title type="html">Intesa sets April 4 deadline for bad loan sale, expects 3 bids-sources</title>
-  <link href="http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1GT00I" title="www.reuters.com"/>
-  <summary type="html">... loan portfolio worth 2.5 billion euros ($2.7 billion) it has put up for sale and for &lt;br&gt;
-which it expects to receive three bids, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>vq1tLtnNNWIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1GT00I</cse:formattedUrl>
+  <id>https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652</id>
+  <updated>1970-01-18T06:04:28.418Z</updated>
+  <title type="html">Elon Musk Launches Neuralink to Connect Brains With Computers ...</title>
+  <link href="https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652" title="www.wsj.com"/>
+  <summary type="html">Building a mass-market electric vehicle and colonizing Mars aren&amp;#39;t ambitious &lt;br&gt;
+enough for Elon Musk. The billionaire entrepreneur now wants to merge &lt;br&gt;
+computers&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">https://www.wsj.com/.../elon-musk-launches-neuralink-to-connect-brains- with-computers-1490642652</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="dj.asn" value="i-0384"/>
+    <cse:Attribute name="user.type" value="nonsubscriber"/>
+    <cse:Attribute name="user.exp" value="default"/>
+    <cse:Attribute name="testkeys" value="C"/>
+    <cse:Attribute name="page.section" value="Article"/>
+    <cse:Attribute name="page.content.type" value="Article"/>
+    <cse:Attribute name="page.content.format" value="responsive"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="page.content.source" value="PRO,WSJ-PRO-VC,WSJ-PRO-WSJ.com"/>
+    <cse:Attribute name="article.template" value="full"/>
+    <cse:Attribute name="page.site" value="wsj"/>
+    <cse:Attribute name="page.site.product" value="WSJ"/>
+    <cse:Attribute name="page.region" value="na,us"/>
+    <cse:Attribute name="article.id" value="SB12711645461998504051204583047383916922110"/>
+    <cse:Attribute name="article.type" value="Technology"/>
+    <cse:Attribute name="article.access" value="paid"/>
+    <cse:Attribute name="article.origheadline" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
+    <cse:Attribute name="article.headline" value="Elon Musk’s latest startup: Connecting brains with computers"/>
+    <cse:Attribute name="article.summary" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
+    <cse:Attribute name="article.page" value="Tech"/>
+    <cse:Attribute name="article.section" value="Tech"/>
+    <cse:Attribute name="article.published" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="article.updated" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="article.created" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="author" value="Rolfe Winkler"/>
+    <cse:Attribute name="cxenseparse:wsj-keywords" value="elon musk,neuralink,spacex,tesla,vc people,Space Exploration Technologies,Tesla,TSLA,Elon Musk,Thiel%2C%20Peter,ownership changes,acquisitions,mergers,divestments,corporate actions,corporate,industrial news,political,general news,sciences,humanities,motor vehicles,alternative fuel vehicles,aerospace products,parts,space vehicles,aerospace,defense,automotive,industrial goods,technology"/>
+    <cse:Attribute name="news_keywords" value="elon musk,neuralink,spacex,tesla,vc people,Space Exploration Technologies,Tesla,TSLA,Elon Musk,Thiel%2C%20Peter"/>
+    <cse:Attribute name="article:word_count" value="1115"/>
+    <cse:Attribute name="article:image_count" value="1"/>
+    <cse:Attribute name="article:internal_link_count" value="1"/>
+    <cse:Attribute name="article:external_link_count" value="3"/>
+    <cse:Attribute name="cxenseparse:wsj-primary-inset" value="image"/>
+    <cse:Attribute name="hdl_p" value="Brain Is Musk’s New Frontier"/>
+    <cse:Attribute name="language" value="en-US"/>
+    <cse:Attribute name="twitter:title" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
+    <cse:Attribute name="twitter:description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
+    <cse:Attribute name="twitter:image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image:alt" value="Elon Musk’s latest startup: Connecting brains with computers"/>
+    <cse:Attribute name="twitter:creator" value="@RolfeWinkler"/>
+    <cse:Attribute name="twitter:site" value="@WSJ"/>
+    <cse:Attribute name="twitter:domain" value="wsj.com"/>
+    <cse:Attribute name="fb:app_id" value="368513495882"/>
+    <cse:Attribute name="og:title" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
+    <cse:Attribute name="og:description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
+    <cse:Attribute name="og:url" value="https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652"/>
+    <cse:Attribute name="og:image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+   </cse:DataObject>
+   <cse:DataObject type="webpage">
+    <cse:Attribute name="datepublished" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="datemodified" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="datecreated" value="2017-03-27T19:24:00.000Z"/>
+    <cse:Attribute name="description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
+    <cse:Attribute name="alternativeheadline" value="Brain Is Musk’s New Frontier"/>
+    <cse:Attribute name="inlanguage" value="en-US"/>
+    <cse:Attribute name="image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
+    <cse:Attribute name="publisher" value="wsj.com"/>
+    <cse:Attribute name="headline" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
+    <cse:Attribute name="articlebody" value="Neuralink is pursuing what Elon Musk calls ‘neural lace’ technology, implanting tiny brain electrodes that may one day upload and download thoughts. Photo: Hector Guerrero/Agence France-Presse/..."/>
+    <cse:Attribute name="interactioncount" value="UserComments:83"/>
+   </cse:DataObject>
+   <cse:DataObject type="listitem">
+    <cse:Attribute name="item" value="Tech"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="representativeofpage" value="https://si.wsj.net/public/resources/images/BN-SQ792_ELONMU_GR_20170326203509.jpg"/>
+    <cse:Attribute name="contenturl" value="https://si.wsj.net/public/resources/images/BN-SQ792_ELONMU_GR_20170326203509.jpg"/>
+    <cse:Attribute name="caption" value="Neuralink is pursuing what Elon Musk calls ‘neural lace’ technology, implanting tiny brain electrodes that may one day upload and download thoughts."/>
+    <cse:Attribute name="description" value="Neuralink is pursuing what Elon Musk calls ‘neural lace’ technology, implanting tiny brain electrodes that may one day upload and download thoughts."/>
+    <cse:Attribute name="creator" value="Photo: Hector Guerrero/Agence France-Presse/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Rolfe Winkler"/>
+    <cse:Attribute name="url" value="Rolfe Winkler"/>
+    <cse:Attribute name="email" value="Rolfe.Winkler@wsj.com"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170301/030117mansionsecurity/030117mansionsecurity_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170124/012417lunchtwinings/012417lunchtwinings_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/032417lunchdeanna/032417lunchdeanna_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170315/031517lunchstem/031517lunchstem_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170125/012517mansionschools/012517mansionschools_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ704_30jMt_C_20170326123719.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ626_2RdRr_C_20170325124614.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/P1-CA457_INSIDE_C_20170327202735.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SD183_2Xd38_C_20170216100154.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR175_30BRn_C_20170327134842.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170322/032217mansionbillionbuy/032217mansionbillionbuy_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/woolseyflynn/woolseyflynn_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170326/032717sharks/032717sharks_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/032417shelby4/032417shelby4_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170324/032417seib/032417seib_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ704_30jMt_C_20170326123719.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SQ626_2RdRr_C_20170325124614.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/P1-CA457_INSIDE_C_20170327202735.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SD183_2Xd38_C_20170216100154.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR175_30BRn_C_20170327134842.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://si.wsj.net/public/resources/images/BN-SQ792_ELONMU_GR_20170326203509.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="278"/>
+    <cse:Attribute name="height" value="181"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyUBSEYwsVnOLjpPLwA-2jAlEi0bE813Y0avvrUyJ4sUcwEkq5KDtKE7xz"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://thehill.com/blogs/pundits-blog/media/325256-fox-news-napolitano-controversy-shows-why-reporters-should-claim</id>
+  <updated>1970-01-18T06:04:28.418Z</updated>
+  <title type="html">Fox News&amp;#39;s Napolitano controversy shows why reporters should ...</title>
+  <link href="http://thehill.com/blogs/pundits-blog/media/325256-fox-news-napolitano-controversy-shows-why-reporters-should-claim" title="thehill.com"/>
+  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the matter tells me the same. The former New Jersey &lt;br&gt;
+Superior Court Judge joined Fox News almost 20 years ago and is exceptionally&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>ylyGNfVyh1EJ</cse:cacheId>
+  <cse:formattedUrl type="html">thehill.com/.../325256-fox-news-napolitano-controversy-shows-why- reporters-should-claim</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="Joe Concha, opinion contributor"/>
+    <cse:Attribute name="smart_paging" value="on"/>
+    <cse:Attribute name="fb:admins" value="581787871"/>
+    <cse:Attribute name="fb:app_id" value="566538590082898"/>
+    <cse:Attribute name="og:site_name" value="TheHill"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:title" value="Fox News&apos;s Napolitano controversy shows why reporters should claim their sources"/>
+    <cse:Attribute name="og:url" value="http://thehill.com/blogs/pundits-blog/media/325256-fox-news-napolitano-controversy-shows-why-reporters-should-claim"/>
+    <cse:Attribute name="og:description" value="OPINION | Reporters need to claim their sources rather than attributing them to their employer."/>
+    <cse:Attribute name="og:updated_time" value="2017-03-22T15:23:16-04:00"/>
+    <cse:Attribute name="og:image" value="http://thehill.com/sites/default/files/blogs/napolitano.jpeg"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Fox News&apos;s Napolitano controversy shows why reporters should claim their sources"/>
+    <cse:Attribute name="twitter:url" value="http://thehill.com/blogs/pundits-blog/media/325256-fox-news-napolitano-controversy-shows-why-reporters-should-claim"/>
+    <cse:Attribute name="twitter:description" value="OPINION | Reporters need to claim their sources rather than attributing them to their employer."/>
+    <cse:Attribute name="article:published_time" value="2017-03-22T14:50:02-04:00"/>
+    <cse:Attribute name="article:modified_time" value="2017-03-22T15:23:16-04:00"/>
+    <cse:Attribute name="dcterms.title" value="Fox News&apos;s Napolitano controversy shows why reporters should claim their sources"/>
+    <cse:Attribute name="dcterms.creator" value="Rudy Takala"/>
+    <cse:Attribute name="dcterms.description" value="OPINION | Reporters need to claim their sources rather than attributing them to their employer."/>
+    <cse:Attribute name="dcterms.date" value="2017-03-22T14:50-04:00"/>
+    <cse:Attribute name="dcterms.type" value="Text"/>
+    <cse:Attribute name="dcterms.format" value="text/html"/>
+    <cse:Attribute name="dcterms.identifier" value="http://thehill.com/blogs/pundits-blog/media/325256-fox-news-napolitano-controversy-shows-why-reporters-should-claim"/>
+    <cse:Attribute name="twitter:widgets:csp" value="on"/>
+    <cse:Attribute name="fb:pages" value="7533944086"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=360124019"/>
+   </cse:DataObject>
+   <cse:DataObject type="Item">
+    <cse:Attribute name="title" value="Fox News&apos;s Napolitano controversy shows why reporters should claim their sources"/>
+    <cse:Attribute name="encoded" value="Like almost every old fashioned newspaper, major cable news networks have a news side and an opinion side. But periodically the opinion side provides information to an audience that may run..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://thehill.com/sites/default/files/blogs/napolitano.jpeg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTvgy3A4zXye0JHTBDcnisQzf3kT1yoaWYVj8HQcX0cj791A00j9mAqgE"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM</id>
+  <updated>1970-01-18T06:04:28.418Z</updated>
+  <title type="html">Amazon.com agrees in principle to buy Middle East&amp;#39;s Souq.com ...</title>
+  <link href="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM" title="www.reuters.com"/>
+  <summary type="html">... in principle to buy 100 percent of Middle Eastern online retailer Souq.com from &lt;br&gt;
+its shareholders, &lt;b&gt;sources familiar with&lt;/b&gt; the deal told Reuters on Wednesday.</summary>
+  <cse:cacheId>iBq5Nxr1OiYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../souqcom-ma-amazoncom-idUSL5N1GZ4HM</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;marketsNews;fundsFundsNews;rbssFinancialServicesAndRealEstateNews;etfNews;rbssInvestmentServices;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Intesa+sets+April+4+deadline+for+bad+loan+sale%2C+expects+3+bids-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;marketsNews;rbssConsumerGoodsAndRetailNews;rbssTechMediaTelecomNews;rbssRetailDepartmentStores;rbssITServicesConsulting;technology-media-telco-SP;mnaNewsConsumerGoodsAndRetail;americasMergersNews;asiaMergersNews;mnaNewsTechMediaTelco;audib2b;CathayPacific_US;ABG_2016;cyclicalConsumerGoodsSector;technologySector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Amazon.com+agrees+in+principle+to+buy+Middle+East%27s+Souq.com+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Valentina Za;INTESA SP;BAD LOANS/BIDS (URGENT);Investment Banking and Investment Services (TRBC);Western Europe;France;Divestitures / Spin;Offs;Deals;United States;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);Italy;Corporate Events;Economic Events;Euro Zone;Banking and Investment Services (TRBC);Europe;Real Estate Markets;Specialty Investment Services (TRBC);Banking Services (Legacy);Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Mon Mar 20 15:50:01 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="SOUQ.COM;MandA/AMAZON.COM (URGENT);Retailers (Legacy);Mergers / Acquisitions / Takeovers;Africa;Retailers excl Food and Drug Specialists (TRBC);Asia / Pacific;Middle East;Department Stores (TRBC);Deals;All Retail;United States;IT Services and Consulting (TRBC);Americas;United Arab Emirates;Society / Social Issues;Company News;South Africa;Software and IT Services (TRBC);Corporate Events;General News;Technology (TRBC);Internet / World Wide Web;Diversified Retail (TRBC);Science;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Mar 22 14:41:25 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-20T15:50:01+0000"/>
-    <cse:Attribute name="sailthru.title" value="Intesa sets April 4 deadline for bad loan sale, expects 3 bids-sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-22T14:41:25+0000"/>
+    <cse:Attribute name="sailthru.title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Intesa sets April 4 deadline for bad loan sale, expects 3 bids-sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1GT00I"/>
+    <cse:Attribute name="og:title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Intesa Sanpaolo has setan April 4 deadline to submit binding offers for a bad loanportfolio worth 2.5 billion euros ($2.7 billion) it has put upfor sale and for which it expects to receive three bids, twosources familiar with the matter said."/>
+    <cse:Attribute name="og:description" value="Amazon.com Inc hasagreed in principle to buy 100 percent of Middle Eastern onlineretailer Souq.com from its shareholders, sources familiar withthe deal told Reuters on Wednesday."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-20T15:50:01+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-20T15:50:01+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-22T14:41:25+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-22T14:41:25+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Valentina Za,INTESA SP,BAD LOANS/BIDS (URGENT),Investment Banking and Investment Services (TRBC),Western Europe,France,Divestitures / Spin,Offs,Deals,United States,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),Italy,Corporate Events,Economic Events,Euro Zone,Banking and Investment Services (TRBC),Europe,Real Estate Markets,Specialty Investment Services (TRBC),Banking Services (Legacy),Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="og:article:tag" value="SOUQ.COM,MandA/AMAZON.COM (URGENT),Retailers (Legacy),Mergers / Acquisitions / Takeovers,Africa,Retailers excl Food and Drug Specialists (TRBC),Asia / Pacific,Middle East,Department Stores (TRBC),Deals,All Retail,United States,IT Services and Consulting (TRBC),Americas,United Arab Emirates,Society / Social Issues,Company News,South Africa,Software and IT Services (TRBC),Corporate Events,General News,Technology (TRBC),Internet / World Wide Web,Diversified Retail (TRBC),Science,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Emerging Market Countries"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Intesa sets April 4 deadline for bad loan sale, expects 3 bids-sources"/>
-    <cse:Attribute name="twitter:description" value="Intesa Sanpaolo has setan April 4 deadline to submit binding offers for a bad loanportfolio worth 2.5 billion euros ($2.7 billion) it has put upfor sale and for which it expects to receive three bids, twosources familiar with the matter said."/>
+    <cse:Attribute name="twitter:title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
+    <cse:Attribute name="twitter:description" value="Amazon.com Inc hasagreed in principle to buy 100 percent of Middle Eastern onlineretailer Souq.com from its shareholders, sources familiar withthe deal told Reuters on Wednesday."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Funds"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -511,181 +659,122 @@ which it expects to receive three bids, two &lt;b&gt;sources familiar with&lt;/b
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-usa-pipeline-keystone-idUSKBN16U25E</id>
-  <updated>1970-01-18T06:02:12.748Z</updated>
-  <title type="html">State Department to approve Keystone pipeline permit on Friday ...</title>
-  <link href="http://www.reuters.com/article/us-usa-pipeline-keystone-idUSKBN16U25E" title="www.reuters.com"/>
-  <summary type="html">... States Keystone XL oil pipeline, a project blocked by former President Barack &lt;br&gt;
-Obama, according to two government &lt;b&gt;sources familiar with&lt;/b&gt; the process.</summary>
-  <cse:cacheId>deZfuP_SV-YJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-pipeline-keystone-idUSKBN16U25E</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-emirates-global-aluminium-ipo-idUSKBN16S13H</id>
+  <updated>1970-01-18T06:04:28.418Z</updated>
+  <title type="html">Emirates Global Aluminium plans IPO, banks pitch for role: sources ...</title>
+  <link href="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-idUSKBN16S13H" title="www.reuters.com"/>
+  <summary type="html">A request for proposals on the IPO was sent to banks, and submissions were due &lt;br&gt;
+last week, according to three &lt;b&gt;sources familiar with&lt;/b&gt; the matter, who spoke on&amp;nbsp;...</summary>
+  <cse:cacheId>An_WHXyGqA0J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-emirates-global-aluminium-ipo-idUSKBN16S13H</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;domesticNews;environmentNews;ousivMolt;google;corporateResponsibility;SustainabilityGreen;everything;forexNewsCopy;ShellEnergy;AllianzInvestments;Hyundai;Allianz;canada;newsproHome;audib2b;davosBackup;cfaglobal;aa48hours;hurdles;dassaultuk;greenpeace;ubs;Intel;globalEnergyVbc;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;MOC_US_2017;BigStory11;BigStory12;GCA-Commodities;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="State+Department+to+approve+Keystone+pipeline+permit+on+Friday%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Valerie Volcovici and Timothy Gardner"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Valerie Volcovici and Timothy Gardner"/>
-    <cse:Attribute name="news_keywords" value="Canada;United States;Barack Obama;Diana Best;Donald J. Trump;Donald Trump;May Boeve;Michael Wojciechowski;Nick Loris;Rex Tillerson;Sean Spicer;Terry Cunha;Tom Shannon;US;USA;PIPELINE;KEYSTONE;Energy Markets;Crude Oil;Energy (Legacy);Environment;Pipelines;Nebraska;Climate Politics;Major News;Canada;United States;Company News;Utilities (TRBC);Diplomacy / Foreign Policy;North America (Energy);Government / Politics;Corporate Events;Oil and Gas (TRBC);Oil and Gas Transportation Services (TRBC);Refined Products;Energy (TRBC);US Government News;Science;Regulation"/>
-    <cse:Attribute name="revision_date" value="Thu Mar 23 21:46:06 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Valerie Volcovici and Timothy Gardner"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-23T21:46:06+0000"/>
-    <cse:Attribute name="sailthru.title" value="State Department to approve Keystone pipeline permit on Friday: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="State Department to approve Keystone pipeline permit on Friday: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-pipeline-keystone-idUSKBN16U25E"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The U.S. State Department plans to approve on Friday the permit needed to proceed with construction of the Canada-to-United States Keystone XL oil pipeline, a project blocked by former President Barack Obama, according to two government sources familiar with the process."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170323&amp;t=2&amp;i=1177750339&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2M1BG"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-23T21:46:06+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-23T21:46:06+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Valerie Volcovici and Timothy Gardner"/>
-    <cse:Attribute name="og:article:tag" value="Canada,United States,Barack Obama,Diana Best,Donald J. Trump,Donald Trump,May Boeve,Michael Wojciechowski,Nick Loris,Rex Tillerson,Sean Spicer,Terry Cunha,Tom Shannon,US,USA,PIPELINE,KEYSTONE,Energy Markets,Crude Oil,Energy (Legacy),Environment,Pipelines,Nebraska,Climate Politics,Major News,Canada,United States,Company News,Utilities (TRBC),Diplomacy / Foreign Policy,North America (Energy),Government / Politics,Corporate Events,Oil and Gas (TRBC),Oil and Gas Transportation Services (TRBC),Refined Products,Energy (TRBC),US Government News,Science,Regulation"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="State Department to approve Keystone pipeline permit on Friday: sources"/>
-    <cse:Attribute name="twitter:description" value="The U.S. State Department plans to approve on Friday the permit needed to proceed with construction of the Canada-to-United States Keystone XL oil pipeline, a project blocked by former President Barack Obama, according to two government sources familiar with the process."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170323&amp;t=2&amp;i=1177750339&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2M1BG"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170323&amp;t=2&amp;i=1177750339&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2M1BG"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170323&amp;t=2&amp;i=1177750339&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2M1BG"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQYvNtLDXz_U2vRKZ2XcgNuRht-2AUTQnZLN-FDthUhLVI_VkeqGyv4W0"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/</id>
-  <updated>1970-01-18T06:02:12.748Z</updated>
-  <title type="html">Sources: Trump learned a lesson on dealmaking - CNNPolitics.com</title>
-  <link href="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/" title="www.cnn.com"/>
-  <summary type="html">After a while, South Carolina Republican Mark Sanford got up, according to two &lt;br&gt;
-&lt;b&gt;sources familiar with&lt;/b&gt; the meeting, said he noticed only men had spoken so far,&amp;nbsp;...</summary>
-  <cse:cacheId>MbszoxwoLZwJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/.../donald-trump-lesson-deal-making-health-care/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-03-26T03:38:01Z"/>
-    <cse:Attribute name="pubdate" value="2017-03-26T03:38:01Z"/>
-    <cse:Attribute name="lastmod" value="2017-03-26T03:38:01Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/index.html"/>
-    <cse:Attribute name="author" value="Jim Acosta, Dana Bash and Deena Zaru, CNN"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/deenazarucnn"/>
-    <cse:Attribute name="og:title" value="Sources: Trump learned a lesson on dealmaking"/>
-    <cse:Attribute name="twitter:title" value="Sources: Trump learned a lesson on dealmaking"/>
-    <cse:Attribute name="og:description" value="Republican sources close to the White House, aides inside the Trump administration, and GOP congressional staff involved in the health care process appear to agree on one thing: President Donald Trump has received a stinging lesson on dealmaking in Washington."/>
-    <cse:Attribute name="twitter:description" value="Republican sources close to the White House, aides inside the Trump administration, and GOP congressional staff involved in the health care process appear to agree on one thing: President Donald Trump has received a stinging lesson on dealmaking in Washington."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="1100"/>
-    <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-03-26T03:38:01Z"/>
-    <cse:Attribute name="datepublished" value="2017-03-26T03:38:01Z"/>
-    <cse:Attribute name="datemodified" value="2017-03-26T03:38:01Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/index.html"/>
-    <cse:Attribute name="author" value="Jim Acosta, Dana Bash and Deena Zaru, CNN"/>
-    <cse:Attribute name="headline" value="Sources: Trump learned a lesson on dealmaking - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="Republican sources close to the White House, aides inside the Trump administration, and GOP congressional staff involved in the health care process appear to agree on one thing: President Donald..."/>
-    <cse:Attribute name="keywords" value="politics, Sources: Trump learned a lesson on dealmaking - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Sources: Trump learned a lesson on dealmaking"/>
-    <cse:Attribute name="articlebody" value="Story highlightsAn administration official said the President learned some lessons about the &quot;power&quot; of special interestsThe failure of the GOP plan also puts Ryan in a much weakened political..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://ssl.cdn.turner.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-169.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/usa-trump-antitrust-idUSL2N1GX1J8</id>
-  <updated>1970-01-18T06:02:12.748Z</updated>
-  <title type="html">Delrahim to head US Justice Department antitrust unit-sources ...</title>
-  <link href="http://www.reuters.com/article/usa-trump-antitrust-idUSL2N1GX1J8" title="www.reuters.com"/>
-  <summary type="html">... team, is expected to be nominated to head the U.S. Justice Department&amp;#39;s &lt;br&gt;
-Antitrust Division, two &lt;b&gt;sources familiar with&lt;/b&gt; the vetting process told Reuters on &lt;br&gt;
-Friday.</summary>
-  <cse:cacheId>-DgrZjuZ04MJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/usa-trump-antitrust-idUSL2N1GX1J8</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="FRBtestD"/>
-    <cse:Attribute name="dcsext.channellist" value="everything;Deals;AllianzInsurance;AllianzInvestments;Allianz;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;USLegal"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Delrahim+to+head+US+Justice+Department+antitrust+unit-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;innovationNewsIndustryMaterialsAndUtilities;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Emirates+Global+Aluminium+plans+IPO%2C+banks+pitch+for+role%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Hadeel Al Sayegh and Stanley Carvalho"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-FRBtestD"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Iran;Donald Trump;Makan Delrahim;Neil Gorsuch;USA;TRUMP/ANTITRUST (UPDATE 1;EXCLUSIVE);Americas;United States"/>
-    <cse:Attribute name="revision_date" value="Mon Mar 20 20:38:03 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-20T20:38:03+0000"/>
-    <cse:Attribute name="sailthru.title" value="Delrahim to head US Justice Department antitrust unit-sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Hadeel Al Sayegh and Stanley Carvalho"/>
+    <cse:Attribute name="news_keywords" value="United Arab Emirates;United States;US;EMIRATES;GLOBAL;ALUMINIUM;IPO;Investment Banking and Investment Services (TRBC);Banks (TRBC);Security Listings / Delistings;United Arab Emirates;Company News;Initial Public Offerings;Aluminium;New Issues;Base Metals;Equity Financing;Corporate Events;Investment Banking and Brokerage Services (TRBC);Middle East;Aluminum (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Tue Mar 21 10:30:35 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Hadeel Al Sayegh and Stanley Carvalho"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-21T10:30:35+0000"/>
+    <cse:Attribute name="sailthru.title" value="Emirates Global Aluminium plans IPO, banks pitch for role: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Delrahim to head US Justice Department antitrust unit-sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-trump-antitrust-idUSL2N1GX1J8"/>
+    <cse:Attribute name="og:title" value="Emirates Global Aluminium plans IPO, banks pitch for role: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-idUSKBN16S13H"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Bayliss"/>
+    <cse:Attribute name="og:description" value="Emirates Global Aluminium (EGA), one of the world&apos;s top five producers, has invited banks to pitch for a role in its planned initial public offering, sources told Reuters."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-20T20:38:03+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-20T20:38:03+0000"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Iran,Donald Trump,Makan Delrahim,Neil Gorsuch,USA,TRUMP/ANTITRUST (UPDATE 1,EXCLUSIVE),Americas,United States"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-21T10:30:35+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-21T10:30:35+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Hadeel Al Sayegh and Stanley Carvalho"/>
+    <cse:Attribute name="og:article:tag" value="United Arab Emirates,United States,US,EMIRATES,GLOBAL,ALUMINIUM,IPO,Investment Banking and Investment Services (TRBC),Banks (TRBC),Security Listings / Delistings,United Arab Emirates,Company News,Initial Public Offerings,Aluminium,New Issues,Base Metals,Equity Financing,Corporate Events,Investment Banking and Brokerage Services (TRBC),Middle East,Aluminum (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Delrahim to head US Justice Department antitrust unit-sources"/>
-    <cse:Attribute name="twitter:description" value="Bayliss"/>
+    <cse:Attribute name="twitter:title" value="Emirates Global Aluminium plans IPO, banks pitch for role: sources"/>
+    <cse:Attribute name="twitter:description" value="Emirates Global Aluminium (EGA), one of the world&apos;s top five producers, has invited banks to pitch for a role in its planned initial public offering, sources told Reuters."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/emirates-global-aluminium-ipo-mandate-idUSL5N1H4583</id>
+  <updated>1970-01-18T06:04:28.418Z</updated>
+  <title type="html">Emirates Global Aluminium mandates U.S. banks for IPO: sources ...</title>
+  <link href="http://www.reuters.com/article/emirates-global-aluminium-ipo-mandate-idUSL5N1H4583" title="www.reuters.com"/>
+  <summary type="html">N) to advise on its initial public offering, &lt;b&gt;sources familiar with&lt;/b&gt; the situation said on &lt;br&gt;
+Monday. The three banks, which were mandated as joint global coordinators,&amp;nbsp;...</summary>
+  <cse:cacheId>LUwTBjpfuHkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../emirates-global-aluminium-ipo-mandate- idUSL5N1H4583</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Emirates+Global+Aluminium+mandates+U.S.+banks+for+IPO%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Dasha Afanasieva and Clara Denina"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Dasha Afanasieva and Clara Denina"/>
+    <cse:Attribute name="news_keywords" value="US;EMIRATES;GLOBAL;ALUMINIUM;IPO;MANDATE;Investment Banking and Investment Services (TRBC);Wealth Management;Banks (TRBC);United Arab Emirates;Funds;Company News;Western Europe;Initial Public Offerings;Arts / Culture / Entertainment;New Issues;Equity Financing;Corporate Events;Corporate Debt;Investment Banking and Brokerage Services (TRBC);Middle East;Aluminum (TRBC);Banking Services (Legacy);United States"/>
+    <cse:Attribute name="revision_date" value="Mon Mar 27 16:58:36 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Dasha Afanasieva and Clara Denina"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-27T16:58:36+0000"/>
+    <cse:Attribute name="sailthru.title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-mandate-idUSKBN16Y24E"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Emirates Global Aluminium (EGA) mandated Bank of America Merrill Lynch (BAC.N), Goldman Sachs (GS.N) and JP Morgan (JPM.N) to advise on its initial public offering, sources familiar with the situation said on Monday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-27T16:58:36+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-27T16:58:36+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Dasha Afanasieva and Clara Denina"/>
+    <cse:Attribute name="og:article:tag" value="US,EMIRATES,GLOBAL,ALUMINIUM,IPO,MANDATE,Investment Banking and Investment Services (TRBC),Wealth Management,Banks (TRBC),United Arab Emirates,Funds,Company News,Western Europe,Initial Public Offerings,Arts / Culture / Entertainment,New Issues,Equity Financing,Corporate Events,Corporate Debt,Investment Banking and Brokerage Services (TRBC),Middle East,Aluminum (TRBC),Banking Services (Legacy),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
+    <cse:Attribute name="twitter:description" value="Emirates Global Aluminium (EGA) mandated Bank of America Merrill Lynch (BAC.N), Goldman Sachs (GS.N) and JP Morgan (JPM.N) to advise on its initial public offering, sources familiar with the situation said on Monday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
