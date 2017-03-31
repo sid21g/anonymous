@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:06:25.175Z</updated>
+ <updated>1970-01-18T06:08:40.711Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>11000</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="14700" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="14700" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>14700</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.308609</cse:searchTime>
-  <cse:formattedSearchTime>0.31</cse:formattedSearchTime>
-  <cse:totalResults>11000</cse:totalResults>
-  <cse:formattedTotalResults>11,000</cse:formattedTotalResults>
+  <cse:searchTime>0.57199</cse:searchTime>
+  <cse:formattedSearchTime>0.57</cse:formattedSearchTime>
+  <cse:totalResults>14700</cse:totalResults>
+  <cse:formattedTotalResults>14,700</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW</id>
-  <updated>1970-01-18T06:06:25.175Z</updated>
+  <updated>1970-01-18T06:08:40.711Z</updated>
   <title type="html">Exclusive: AMC plans ad-free streaming service for cable subscribers</title>
   <link href="http://www.reuters.com/article/us-amc-networks-streaming-exclusive-idUSKBN16V2CW" title="www.reuters.com"/>
   <summary type="html">... to launch a commercial-free online video streaming service aimed at millennial &lt;br&gt;
@@ -87,17 +87,16 @@ TV subscribers, two &lt;b&gt;sources familiar with&lt;/b&gt; the situation told 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652</id>
-  <updated>1970-01-18T06:06:25.175Z</updated>
+  <updated>1970-01-18T06:08:40.711Z</updated>
   <title type="html">Elon Musk Launches Neuralink to Connect Brains With Computers ...</title>
   <link href="https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652" title="www.wsj.com"/>
-  <summary type="html">Building a mass-market electric vehicle and colonizing Mars aren&amp;#39;t ambitious &lt;br&gt;
-enough for Elon Musk. The billionaire entrepreneur now wants to merge &lt;br&gt;
-computers&amp;nbsp;...</summary>
+  <summary type="html">Billionaire entrepreneur Elon Musk wants to merge computers with human brains &lt;br&gt;
+to help people keep up with machines.</summary>
   <cse:formattedUrl type="html">https://www.wsj.com/.../elon-musk-launches-neuralink-to-connect-brains- with-computers-1490642652</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="dj.asn" value="i-0d38"/>
+    <cse:Attribute name="dj.asn" value="i-0e20"/>
     <cse:Attribute name="user.type" value="nonsubscriber"/>
     <cse:Attribute name="user.exp" value="default"/>
     <cse:Attribute name="testkeys" value="C"/>
@@ -157,73 +156,70 @@ computers&amp;nbsp;...</summary>
     <cse:Attribute name="publisher" value="wsj.com"/>
     <cse:Attribute name="headline" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
    </cse:DataObject>
-   <cse:DataObject type="listitem">
-    <cse:Attribute name="item" value="Tech"/>
-   </cse:DataObject>
    <cse:DataObject type="person">
     <cse:Attribute name="name" value="Rolfe Winkler"/>
     <cse:Attribute name="url" value="Rolfe Winkler"/>
     <cse:Attribute name="email" value="Rolfe.Winkler@wsj.com"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170330/033017opinionclimate/033017opinionclimate_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170329/032917lunchbreak/032917lunchbreak_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170329/032717opinionborder/032717opinionborder_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170329/032917article50b/032917article50b_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170329/032917lunchocrevus/032917lunchocrevus_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS348_cmolap_C_20170329185322.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS131_XROADS_C_20170329121428.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS075_2UWmp_C_20170329102528.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS563_30HHo_C_20170330101202.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR872_riley0_C_20170328181408.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170329/032917sanaashots/032917sanaashots_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170329/032917thezookeeperswife/032917thezookeeperswife_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170329/032917seib/032917seib_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170329/032717opinionborder/032717opinionborder_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
     <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170328/032817_nkdefect4/032817_nkdefect4_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170328/032817trump_climate/032817trump_climate_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS348_cmolap_C_20170329185322.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170328/032817lunchtpoints/032817lunchtpoints_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS131_XROADS_C_20170329121428.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170327/bounce032717/bounce032717_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS075_2UWmp_C_20170329102528.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170322/032217mansionbillionbuy/032217mansionbillionbuy_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS563_30HHo_C_20170330101202.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/P1-CA457_INSIDE_C_20170327202735.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR382_CONGRE_C_20170327200440.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR885_GORSUC_C_20170328183658.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-RW498_DOJ013_C_20170130183053.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR515_30E5d_C_20170328094207.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170328/032817_nkdefect4/032817_nkdefect4_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170328/032817trump_climate/032817trump_climate_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170328/032817lunchtpoints/032817lunchtpoints_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170327/bounce032717/bounce032717_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170322/032217mansionbillionbuy/032217mansionbillionbuy_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/P1-CA457_INSIDE_C_20170327202735.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR382_CONGRE_C_20170327200440.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR885_GORSUC_C_20170328183658.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-RW498_DOJ013_C_20170130183053.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR515_30E5d_C_20170328094207.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SR872_riley0_C_20170328181408.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
@@ -237,7 +233,7 @@ computers&amp;nbsp;...</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.businessinsider.com/r-dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources-2017-3</id>
-  <updated>1970-01-18T06:06:25.175Z</updated>
+  <updated>1970-01-18T06:08:40.711Z</updated>
   <title type="html">Dubai&amp;#39;s Souq.com to make announcement on Amazon.com bid ...</title>
   <link href="http://www.businessinsider.com/r-dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources-2017-3" title="www.businessinsider.com"/>
   <summary type="html">The Financial Times reported Amazon would pay between $650 and $750 &lt;br&gt;
@@ -289,23 +285,23 @@ not&amp;nbsp;...</summary>
     <cse:Attribute name="description" value="DUBAI (Reuters) - Middle Eastern online..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static4.businessinsider.com/image/5812b295362ca478018b56f4-400/10-books-that-famous-ceos-loved-reading.jpg"/>
+    <cse:Attribute name="src" value="http://static5.businessinsider.com/assets/images/logos/BI.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="259"/>
     <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYm4MmAg4n4ExBJZW3-M5qq5KdEVIjJCjMlVja4AG1M0gQ6LymyDITq1M"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOfK1aTywzbJF5wT__2pDGkJ55dcsXy2pEeZanJRsGSNgD7zDifsz6b18a"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.nbcnews.com/storyline/americas-heroin-epidemic/opioid-epidemic-trump-set-commission-addiction-crisis-sources-say-n739861</id>
-  <updated>1970-01-18T06:06:25.175Z</updated>
+  <updated>1970-01-18T06:08:40.711Z</updated>
   <title type="html">Opioid Epidemic: Trump to Set Up Commission on Addiction Crisis ...</title>
   <link href="http://www.nbcnews.com/storyline/americas-heroin-epidemic/opioid-epidemic-trump-set-commission-addiction-crisis-sources-say-n739861" title="www.nbcnews.com"/>
-  <summary type="html">President Donald Trump is expected on Wednesday to launch a commission to &lt;br&gt;
-address the nation&amp;#39;s growing opioid epidemic, according to &lt;b&gt;sources familiar with&lt;/b&gt;&lt;br&gt;
-&amp;nbsp;...</summary>
+  <summary type="html">President Donald Trump is expected to launch a commission Wednesday to &lt;br&gt;
+address the nation&amp;#39;s growing opioid epidemic, according to &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+the&amp;nbsp;...</summary>
   <cse:cacheId>FEaH0fFk8uAJ</cse:cacheId>
   <cse:formattedUrl type="html">www.nbcnews.com/.../opioid-epidemic-trump-set-commission-addiction- crisis-sources-say-n739861</cse:formattedUrl>
   <cse:PageMap>
@@ -314,13 +310,13 @@ address the nation&amp;#39;s growing opioid epidemic, according to &lt;b&gt;sour
     <cse:Attribute name="fb:app_id" value="10150138890205613"/>
     <cse:Attribute name="og:site_name" value="NBC News"/>
     <cse:Attribute name="og:description" value="More than 33,000 people died from opioids, which include prescription painkillers and heroin, in 2015. The CDC calls it an overdose epidemic."/>
-    <cse:Attribute name="og:title" value="Trump to set up commission on opioid crisis, sources say"/>
+    <cse:Attribute name="og:title" value="Trump to set up commission on opioid crisis"/>
     <cse:Attribute name="og:url" value="http://www.nbcnews.com/storyline/americas-heroin-epidemic/opioid-epidemic-trump-set-commission-addiction-crisis-sources-say-n739861"/>
     <cse:Attribute name="og:type" value="article"/>
     <cse:Attribute name="og:image" value="https://media2.s-nbcnews.com/j/newscms/2017_11/1936316/170317-ohio-drug-overdose-heroin-fentanyl-se-1140a_08ca67c8cd350f9a721ebb4a5a8b43f3.nbcnews-fp-1200-800.jpg"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
     <cse:Attribute name="twitter:site" value="NBCNews"/>
-    <cse:Attribute name="twitter:title" value="Trump to set up commission on opioid crisis, sources say"/>
+    <cse:Attribute name="twitter:title" value="Trump to set up commission on opioid crisis"/>
     <cse:Attribute name="twitter:description" value="More than 33,000 people died from opioids, which include prescription painkillers and heroin, in 2015. The CDC calls it an overdose epidemic."/>
     <cse:Attribute name="twitter:creator" value="NBCNews"/>
     <cse:Attribute name="twitter:image" value="https://media2.s-nbcnews.com/j/newscms/2017_11/1936316/170317-ohio-drug-overdose-heroin-fentanyl-se-1140a_08ca67c8cd350f9a721ebb4a5a8b43f3.nbcnews-fp-1200-800.jpg"/>
@@ -341,199 +337,8 @@ address the nation&amp;#39;s growing opioid epidemic, according to &lt;b&gt;sour
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16T1XA</id>
-  <updated>1970-01-18T06:06:25.175Z</updated>
-  <title type="html">Amazon to buy Middle Eastern online retailer Souq.com: sources ...</title>
-  <link href="http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16T1XA" title="www.reuters.com"/>
-  <summary type="html">... in principle to buy Dubai-based internet retailer Souq.com, one of the best-&lt;br&gt;
-known names in the Middle East&amp;#39;s online shopping market, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-the&amp;nbsp;...</summary>
-  <cse:cacheId>ixryB5uK1yEJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-souq-com-m-a-amazon-com-idUSKBN16T1XA</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="internetNews;innovationNews;innovationNewsConsumerGoodsAndRetail;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;innovationAMD;everything;India;Deals;Davos;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;asia;newsproHome;verizonmm;cfaglobal;aa48hours;hurdles;shipping;PorscheCayenne;MBenz;ubs;Intel;intelmicrosite;PFG;huawei;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Amazon+to+buy+Middle+Eastern+online+retailer+Souq.com%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Hadeel Al Sayegh and Tom Arnold"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Hadeel Al Sayegh and Tom Arnold"/>
-    <cse:Attribute name="news_keywords" value="Bahrain;China;Egypt;India;Kuwait;Mexico;Oman;Qatar;Saudi Arabia;United Arab Emirates;United Kingdom;United States;Colin Sebastian;Guru Hariharan;Jeffrey P. Bezos;Mohamed Alabbar;Mohamed Ali Rashed Alabbar;SCOTT JACOBSON;US;SOUQ;COM;M;A;AMAZON;COM;Germany;Computer and Electronics Retailers (TRBC);Mergers / Acquisitions / Takeovers;Western Europe;Africa;Saudi Arabia;Asia / Pacific;Government Borrowing Requirement;Middle East;Department Stores (TRBC);United Kingdom;All Retail;United States;United Arab Emirates;Funds;Company News;India;South Africa;Corporate Events;Internet / World Wide Web;Europe;Science;Industrial Machinery / Equipment (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Wed Mar 22 22:52:47 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Hadeel Al Sayegh and Tom Arnold"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-22T22:52:47+0000"/>
-    <cse:Attribute name="sailthru.title" value="Amazon to buy Middle Eastern online retailer Souq.com: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Amazon to buy Middle Eastern online retailer Souq.com: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-souq-com-m-a-amazon-com-idUSKBN16T1XA"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Amazon.com Inc has agreed in principle to buy Dubai-based internet retailer Souq.com, one of the best-known names in the Middle East&apos;s online shopping market, sources familiar with the deal said on Wednesday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170322&amp;t=2&amp;i=1177565497&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2L198"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-22T22:52:47+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-22T22:52:47+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Hadeel Al Sayegh and Tom Arnold"/>
-    <cse:Attribute name="og:article:tag" value="Bahrain,China,Egypt,India,Kuwait,Mexico,Oman,Qatar,Saudi Arabia,United Arab Emirates,United Kingdom,United States,Colin Sebastian,Guru Hariharan,Jeffrey P. Bezos,Mohamed Alabbar,Mohamed Ali Rashed Alabbar,SCOTT JACOBSON,US,SOUQ,COM,M,A,AMAZON,COM,Germany,Computer and Electronics Retailers (TRBC),Mergers / Acquisitions / Takeovers,Western Europe,Africa,Saudi Arabia,Asia / Pacific,Government Borrowing Requirement,Middle East,Department Stores (TRBC),United Kingdom,All Retail,United States,United Arab Emirates,Funds,Company News,India,South Africa,Corporate Events,Internet / World Wide Web,Europe,Science,Industrial Machinery / Equipment (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Amazon to buy Middle Eastern online retailer Souq.com: sources"/>
-    <cse:Attribute name="twitter:description" value="Amazon.com Inc has agreed in principle to buy Dubai-based internet retailer Souq.com, one of the best-known names in the Middle East&apos;s online shopping market, sources familiar with the deal said on Wednesday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170322&amp;t=2&amp;i=1177565497&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2L198"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170322&amp;t=2&amp;i=1177565497&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2L198"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170322&amp;t=2&amp;i=1177565497&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2L198"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="270"/>
-    <cse:Attribute name="height" value="187"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDb33sUhxosQl5ssn-SOa9Jdb1kL3wsfVRGadA0G9gpaHoxRoOc_S3rKM"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources-2017-3</id>
-  <updated>1970-01-18T06:06:25.175Z</updated>
-  <title type="html">EU to formally veto Deutsche Boerse LSE merger shortly: sources ...</title>
-  <link href="http://www.businessinsider.com/r-eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources-2017-3" title="www.businessinsider.com"/>
-  <summary type="html">... will veto a proposed combination between Deutsche Boerse and the London &lt;br&gt;
-Stock Exchange shortly, three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Thursday,&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>Nzcay6zL5wQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-eu-to-formally-veto-deutsche-boerse-lse-merger- shortly-sources-2017-3</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-03-22"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-22"/>
-    <cse:Attribute name="news_keywords" value="Reuters"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters"/>
-    <cse:Attribute name="sailthru.description" value="FRANKFURT/BRUSSELS (Reuters) - The European..."/>
-    <cse:Attribute name="title" value="EU to formally veto Deutsche Boerse LSE merger shortly: sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business,clusterstock"/>
-    <cse:Attribute name="sailthru.title" value="EU to formally veto Deutsche Boerse LSE merger shortly: sources"/>
-    <cse:Attribute name="tbi-image" value="http://static4.businessinsider.com/image/58d2826b5124c9337778fc49/eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static4.businessinsider.com/image/58d2826b5124c9337778fc49/eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static1.businessinsider.com/image/58d2826b5124c9337778fc49-50-50/eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources.jpg"/>
-    <cse:Attribute name="og:title" value="EU to formally veto Deutsche Boerse LSE merger shortly: sources"/>
-    <cse:Attribute name="og:description" value="FRANKFURT/BRUSSELS (Reuters) - The European..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources-2017-3"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources-2017-3"/>
-    <cse:Attribute name="twitter:title" value="EU to formally veto Deutsche Boerse LSE merger shortly: sources"/>
-    <cse:Attribute name="twitter:description" value="FRANKFURT/BRUSSELS (Reuters) - The European..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static1.businessinsider.com/image/58d2826b5124c9337778fc49-506-253/eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources.jpg"/>
-    <cse:Attribute name="og:image" value="http://static4.businessinsider.com/image/58d2826b5124c9337778fc49-1190-625/eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources.jpg"/>
-    <cse:Attribute name="pm:template" value="noad-byline"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="EU to formally veto Deutsche Boerse LSE merger shortly: sources"/>
-    <cse:Attribute name="url" value="EU to formally veto Deutsche Boerse LSE merger shortly: sources"/>
-    <cse:Attribute name="image" value="http://static1.businessinsider.com/image/58d2826b5124c9337778fc49-506-253/eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources.jpg"/>
-    <cse:Attribute name="description" value="FRANKFURT/BRUSSELS (Reuters) - The European..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static4.businessinsider.com/image/58d2826b5124c9337778fc49-1190-625/eu-to-formally-veto-deutsche-boerse-lse-merger-shortly-sources.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="273"/>
-    <cse:Attribute name="height" value="185"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgORmg-sKHviaiXyqQEu5ig_8C4WBhEXn8dvecXbr8n-tSXOBhTThbSoY"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/</id>
-  <updated>1970-01-18T06:06:25.175Z</updated>
-  <title type="html">Sources: Trump learned a lesson on dealmaking - CNNPolitics.com</title>
-  <link href="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/" title="www.cnn.com"/>
-  <summary type="html">After a while, South Carolina Republican Mark Sanford got up, according to two &lt;br&gt;
-&lt;b&gt;sources familiar with&lt;/b&gt; the meeting, said he noticed only men had spoken so far,&amp;nbsp;...</summary>
-  <cse:cacheId>MbszoxwoLZwJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/.../donald-trump-lesson-deal-making-health-care/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-03-26T03:38:01Z"/>
-    <cse:Attribute name="pubdate" value="2017-03-26T03:38:01Z"/>
-    <cse:Attribute name="lastmod" value="2017-03-27T11:39:53Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/index.html"/>
-    <cse:Attribute name="author" value="Jim Acosta, Dana Bash and Deena Zaru, CNN"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/deenazarucnn"/>
-    <cse:Attribute name="og:title" value="Sources: Trump learned a lesson on dealmaking"/>
-    <cse:Attribute name="twitter:title" value="Sources: Trump learned a lesson on dealmaking"/>
-    <cse:Attribute name="og:description" value="Republican sources close to the White House, aides inside the Trump administration, and GOP congressional staff involved in the health care process appear to agree on one thing: President Donald Trump has received a stinging lesson on dealmaking in Washington."/>
-    <cse:Attribute name="twitter:description" value="Republican sources close to the White House, aides inside the Trump administration, and GOP congressional staff involved in the health care process appear to agree on one thing: President Donald Trump has received a stinging lesson on dealmaking in Washington."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="1100"/>
-    <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-03-26T03:38:01Z"/>
-    <cse:Attribute name="datepublished" value="2017-03-26T03:38:01Z"/>
-    <cse:Attribute name="datemodified" value="2017-03-27T11:39:53Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/index.html"/>
-    <cse:Attribute name="author" value="Jim Acosta, Dana Bash and Deena Zaru, CNN"/>
-    <cse:Attribute name="headline" value="Sources: Trump learned a lesson on dealmaking - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="Republican sources close to the White House, aides inside the Trump administration, and GOP congressional staff involved in the health care process appear to agree on one thing: President Donald..."/>
-    <cse:Attribute name="keywords" value="politics, Sources: Trump learned a lesson on dealmaking - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Sources: Trump learned a lesson on dealmaking"/>
-    <cse:Attribute name="articlebody" value="Story highlightsAn administration official said the President learned some lessons about the &quot;power&quot; of special interestsThe failure of the GOP plan also puts Ryan in a much weakened political..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.i.cdn.cnn.com/.a/2.11.1/assets/video_pinned_white_bg.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/citi-saudi-idUSL3N1H42YW</id>
-  <updated>1970-01-18T06:06:25.175Z</updated>
+  <updated>1970-01-18T06:08:40.711Z</updated>
   <title type="html">Citi applies for capital markets licence in Saudi Arabia-sources ...</title>
   <link href="http://www.reuters.com/article/citi-saudi-idUSL3N1H42YW" title="www.reuters.com"/>
   <summary type="html">Citigroup hasformally applied for a licence to conduct capital marketsbusiness in &lt;br&gt;
@@ -544,7 +349,7 @@ Saudi Arabia, two &lt;b&gt;sources familiar with&lt;/b&gt; the mattersaid, in a 
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="swissMktRpt;governmentFilingsNews;marketsNews;fundsFundsNews;OILPRD;rbssEnergyNews;rbssFinancialServicesAndRealEstateNews;etfNews;rbssOilGasExplorationProduction;rbssInvestmentServices;regulatoryNewsEnergy;regulatoryNewsFinancialServicesAndRealEstate;americasRegulatoryNews;asiaRegulatoryNews;euRegulatoryNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;swissMktRpt;governmentFilingsNews;marketsNews;fundsFundsNews;OILPRD;rbssEnergyNews;rbssFinancialServicesAndRealEstateNews;etfNews;rbssOilGasExplorationProduction;rbssInvestmentServices;regulatoryNewsEnergy;regulatoryNewsFinancialServicesAndRealEstate;americasRegulatoryNews;asiaRegulatoryNews;euRegulatoryNews;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;energySector;financialsSector"/>
     <cse:Attribute name="dcsext.contentheadline" value="Citi+applies+for+capital+markets+licence+in+Saudi+Arabia-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
@@ -596,58 +401,101 @@ Saudi Arabia, two &lt;b&gt;sources familiar with&lt;/b&gt; the mattersaid, in a 
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM</id>
-  <updated>1970-01-18T06:06:25.175Z</updated>
-  <title type="html">Amazon.com agrees in principle to buy Middle East&amp;#39;s Souq.com ...</title>
-  <link href="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM" title="www.reuters.com"/>
-  <summary type="html">... in principle to buy 100 percent of Middle Eastern online retailer Souq.com from &lt;br&gt;
-its shareholders, &lt;b&gt;sources familiar with&lt;/b&gt; the deal told Reuters on Wednesday.</summary>
-  <cse:cacheId>iBq5Nxr1OiYJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../souqcom-ma-amazoncom-idUSL5N1GZ4HM</cse:formattedUrl>
+  <id>http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/</id>
+  <updated>1970-01-18T06:08:40.711Z</updated>
+  <title type="html">Sources: Trump learned a lesson on dealmaking - CNNPolitics.com</title>
+  <link href="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/" title="www.cnn.com"/>
+  <summary type="html">After a while, South Carolina Republican Mark Sanford got up, according to two &lt;br&gt;
+&lt;b&gt;sources familiar with&lt;/b&gt; the meeting, said he noticed only men had spoken so far,&amp;nbsp;...</summary>
+  <cse:cacheId>MbszoxwoLZwJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/.../donald-trump-lesson-deal-making-health-care/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-03-26T03:38:01Z"/>
+    <cse:Attribute name="pubdate" value="2017-03-26T03:38:01Z"/>
+    <cse:Attribute name="lastmod" value="2017-03-27T11:39:53Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/index.html"/>
+    <cse:Attribute name="author" value="Jim Acosta, Dana Bash and Deena Zaru, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/deenazarucnn"/>
+    <cse:Attribute name="og:title" value="Sources: Trump learned a lesson on dealmaking"/>
+    <cse:Attribute name="twitter:title" value="Sources: Trump learned a lesson on dealmaking"/>
+    <cse:Attribute name="og:description" value="Republican sources close to the White House, aides inside the Trump administration, and GOP congressional staff involved in the health care process appear to agree on one thing: President Donald Trump has received a stinging lesson on dealmaking in Washington."/>
+    <cse:Attribute name="twitter:description" value="Republican sources close to the White House, aides inside the Trump administration, and GOP congressional staff involved in the health care process appear to agree on one thing: President Donald Trump has received a stinging lesson on dealmaking in Washington."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,art-vid"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-03-26T03:38:01Z"/>
+    <cse:Attribute name="datepublished" value="2017-03-26T03:38:01Z"/>
+    <cse:Attribute name="datemodified" value="2017-03-27T11:39:53Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/03/25/politics/donald-trump-lesson-deal-making-health-care/index.html"/>
+    <cse:Attribute name="author" value="Jim Acosta, Dana Bash and Deena Zaru, CNN"/>
+    <cse:Attribute name="headline" value="Sources: Trump learned a lesson on dealmaking - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="Republican sources close to the White House, aides inside the Trump administration, and GOP congressional staff involved in the health care process appear to agree on one thing: President Donald..."/>
+    <cse:Attribute name="keywords" value="politics, Sources: Trump learned a lesson on dealmaking - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Sources: Trump learned a lesson on dealmaking"/>
+    <cse:Attribute name="articlebody" value="Story highlightsAn administration official said the President learned some lessons about the &quot;power&quot; of special interestsThe failure of the GOP plan also puts Ryan in a much weakened political..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170325140007-trump-obamacare-t1-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/tom-arnold</id>
+  <updated>1970-01-18T06:08:40.711Z</updated>
+  <title type="html">Tom Arnold</title>
+  <link href="http://www.reuters.com/journalists/tom-arnold" title="www.reuters.com"/>
+  <summary type="html">KHOBAR/DUBAI Citigroup has formally applied for a license to conduct capital &lt;br&gt;
+markets business in Saudi Arabia, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, in a&amp;nbsp;...</summary>
+  <cse:cacheId>uP8GkiMAum8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/tom-arnold</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;marketsNews;rbssConsumerGoodsAndRetailNews;rbssTechMediaTelecomNews;rbssRetailDepartmentStores;rbssITServicesConsulting;technology-media-telco-SP;mnaNewsConsumerGoodsAndRetail;americasMergersNews;asiaMergersNews;mnaNewsTechMediaTelco;audib2b;CathayPacific_US;ABG_2016;cyclicalConsumerGoodsSector;technologySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Amazon.com+agrees+in+principle+to+buy+Middle+East%27s+Souq.com+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="SOUQ.COM;MandA/AMAZON.COM (URGENT);Retailers (Legacy);Mergers / Acquisitions / Takeovers;Africa;Retailers excl Food and Drug Specialists (TRBC);Asia / Pacific;Middle East;Department Stores (TRBC);Deals;All Retail;United States;IT Services and Consulting (TRBC);Americas;United Arab Emirates;Society / Social Issues;Company News;South Africa;Software and IT Services (TRBC);Corporate Events;General News;Technology (TRBC);Internet / World Wide Web;Diversified Retail (TRBC);Science;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Wed Mar 22 14:41:25 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-22T14:41:25+0000"/>
-    <cse:Attribute name="sailthru.title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1GZ4HM"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Amazon.com Inc hasagreed in principle to buy 100 percent of Middle Eastern onlineretailer Souq.com from its shareholders, sources familiar withthe deal told Reuters on Wednesday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-22T14:41:25+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-22T14:41:25+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="SOUQ.COM,MandA/AMAZON.COM (URGENT),Retailers (Legacy),Mergers / Acquisitions / Takeovers,Africa,Retailers excl Food and Drug Specialists (TRBC),Asia / Pacific,Middle East,Department Stores (TRBC),Deals,All Retail,United States,IT Services and Consulting (TRBC),Americas,United Arab Emirates,Society / Social Issues,Company News,South Africa,Software and IT Services (TRBC),Corporate Events,General News,Technology (TRBC),Internet / World Wide Web,Diversified Retail (TRBC),Science,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Amazon.com agrees in principle to buy Middle East&apos;s Souq.com -sources"/>
-    <cse:Attribute name="twitter:description" value="Amazon.com Inc hasagreed in principle to buy 100 percent of Middle Eastern onlineretailer Souq.com from its shareholders, sources familiar withthe deal told Reuters on Wednesday."/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/tom-arnold"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -660,58 +508,183 @@ its shareholders, &lt;b&gt;sources familiar with&lt;/b&gt; the deal told Reuters
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177</id>
-  <updated>1970-01-18T06:06:25.175Z</updated>
-  <title type="html">Dubai&amp;#39;s Souq.com to make announcement on Amazon.com bid ...</title>
-  <link href="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177" title="www.reuters.com"/>
-  <summary type="html">... make an announcement later on Tuesday aboutAmazon.com Inc&amp;#39;s bid to buy &lt;br&gt;
-100 percent of the companyfrom its shareholders, two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>Y-Klb_4otDQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177</cse:formattedUrl>
+  <id>http://www.reuters.com/article/sanofi-ma-generics-idUSL5N1H62PO</id>
+  <updated>1970-01-18T06:08:40.711Z</updated>
+  <title type="html">Sanofi hires advisors for European generic drugs unit sale: sources ...</title>
+  <link href="http://www.reuters.com/article/sanofi-ma-generics-idUSL5N1H62PO" title="www.reuters.com"/>
+  <summary type="html">French drug maker Sanofi (SASY.PA) has hired advisers for the sale of its &lt;br&gt;
+European generic drug business, several &lt;b&gt;sources familiar with&lt;/b&gt; matter told &lt;br&gt;
+Reuters,&amp;nbsp;...</summary>
+  <cse:cacheId>Z21Rb8V_Q84J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/sanofi-ma-generics-idUSL5N1H62PO</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;marketsNews;rbssRetailDepartmentStores;rbssRealEstateOperations;rbssITServicesConsulting;mnaNewsConsumerGoodsAndRetail;mnaNewsFinancialServicesAndRealEstate;americasMergersNews;asiaMergersNews;mnaNewsTechMediaTelco;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;cyclicalConsumerGoodsSector;financialsSector;technologySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Dubai%27s+Souq.com+to+make+announcement+on+Amazon.com+bid+-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;innovationNewsHealthcare;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;newsproHome;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Sanofi+hires+advisors+for+European+generic+drugs+unit+sale%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="SOUQ.COM;MandA/AMAZON.COM (URGENT);Retailers (Legacy);Mergers / Acquisitions / Takeovers;Africa;Retailers excl Food and Drug Specialists (TRBC);Asia / Pacific;Middle East;Department Stores (TRBC);Deals;All Retail;United States;IT Services and Consulting (TRBC);Americas;Real Estate Development and Operations (TRBC);United Arab Emirates;Society / Social Issues;Company News;South Africa;Financials (TRBC);Software and IT Services (TRBC);Financials (Legacy);Corporate Events;Real Estate (Legacy);General News;Technology (TRBC);Real Estate Operations (TRBC);Internet / World Wide Web;Real Estate (TRBC);Diversified Retail (TRBC);Science;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 28 07:09:27 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="France;Olivier Brandicourt;US;SANOFI;M;A;GENERICS;Chemicals (Legacy);Germany;Mergers / Acquisitions / Takeovers;Western Europe;Arts / Culture / Entertainment;France;Divestitures / Spin;Offs;Government Borrowing Requirement;Middle East;Deals;United Kingdom;United States;Wealth Management;Banks (TRBC);Israel;Funds;Switzerland;Company News;Corporate Events;Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Europe;Drug and Device Development;Healthcare (TRBC);Generic and Specialty Pharmaceuticals (TRBC);Banking Services (Legacy);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Wed Mar 29 10:58:44 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-28T07:09:27+0000"/>
-    <cse:Attribute name="sailthru.title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-29T10:58:44+0000"/>
+    <cse:Attribute name="sailthru.title" value="Sanofi hires advisors for European generic drugs unit sale: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177"/>
+    <cse:Attribute name="og:title" value="Sanofi hires advisors for European generic drugs unit sale: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-sanofi-m-a-generics-idUSKBN1701A4"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Middle Eastern online retailerSouq.com will make an announcement later on Tuesday aboutAmazon.com Inc&apos;s bid to buy 100 percent of the companyfrom its shareholders, two sources familiar with the deal toldReuters."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-28T07:09:27+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-28T07:09:27+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:description" value="French drug maker Sanofi (SASY.PA) has hired advisers for the sale of its European generic drug business, several sources familiar with matter told Reuters, ahead of an auction process which is expected to start after the European summer."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170329&amp;t=2&amp;i=1178491154&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2S0SJ"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-29T10:58:44+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-29T10:58:44+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="SOUQ.COM,MandA/AMAZON.COM (URGENT),Retailers (Legacy),Mergers / Acquisitions / Takeovers,Africa,Retailers excl Food and Drug Specialists (TRBC),Asia / Pacific,Middle East,Department Stores (TRBC),Deals,All Retail,United States,IT Services and Consulting (TRBC),Americas,Real Estate Development and Operations (TRBC),United Arab Emirates,Society / Social Issues,Company News,South Africa,Financials (TRBC),Software and IT Services (TRBC),Financials (Legacy),Corporate Events,Real Estate (Legacy),General News,Technology (TRBC),Real Estate Operations (TRBC),Internet / World Wide Web,Real Estate (TRBC),Diversified Retail (TRBC),Science,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Emerging Market Countries"/>
+    <cse:Attribute name="og:article:tag" value="France,Olivier Brandicourt,US,SANOFI,M,A,GENERICS,Chemicals (Legacy),Germany,Mergers / Acquisitions / Takeovers,Western Europe,Arts / Culture / Entertainment,France,Divestitures / Spin,Offs,Government Borrowing Requirement,Middle East,Deals,United Kingdom,United States,Wealth Management,Banks (TRBC),Israel,Funds,Switzerland,Company News,Corporate Events,Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Europe,Drug and Device Development,Healthcare (TRBC),Generic and Specialty Pharmaceuticals (TRBC),Banking Services (Legacy),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Sanofi hires advisors for European generic drugs unit sale: sources"/>
+    <cse:Attribute name="twitter:description" value="French drug maker Sanofi (SASY.PA) has hired advisers for the sale of its European generic drug business, several sources familiar with matter told Reuters, ahead of an auction process which is expected to start after the European summer."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170329&amp;t=2&amp;i=1178491154&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2S0SJ"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170329&amp;t=2&amp;i=1178491154&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2S0SJ"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170329&amp;t=2&amp;i=1178491154&amp;w=780&amp;fh=&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2S0SJ"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="283"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSzxUL_odUSousTS2rbsqQHQBYgPXN6vs6L4izGDwbmDIYVumvdimIy_Y"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS</id>
+  <updated>1970-01-18T06:08:40.711Z</updated>
+  <title type="html">Saudi Aramco formally appoints banks to advise on share sale ...</title>
+  <link href="http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS" title="www.reuters.com"/>
+  <summary type="html">N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial &lt;br&gt;
+advisers for its initial public offering, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
+  <cse:cacheId>lFfkLqmXtWUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;innovationNewsEnergy;innovationNewsFinancialServicesAndRealEstate;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;vbcSmallBusiness;corporateResponsibility;SustainabilityCorporate;SustainabilitySocial;everything;Deals;forexNewsCopy;ShellEnergy;AllianzInvestments;Allianz;middle-east;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;banks;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Aramco+formally+appoints+banks+to+advise+on+share+sale"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Ron Bousso, David French and Davide Barbuscia"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Ron Bousso, David French and Davide Barbuscia"/>
+    <cse:Attribute name="news_keywords" value="Saudi Arabia;US;SAUDI;ARAMCO;IPO;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Hong Kong;Initial Public Offerings;Arts / Culture / Entertainment;Equity Financing;Saudi Arabia;Divestitures / Spin;Offs;Government Borrowing Requirement;Middle East;United Kingdom;United States;Banking Services (TRBC);Wealth Management;Banks (TRBC);Funds;Company News;New Issues;Corporate Events;Integrated Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Energy (TRBC);Europe;Banking Services (Legacy);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Thu Mar 30 11:07:51 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Ron Bousso, David French and Davide Barbuscia"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-30T11:07:51+0000"/>
+    <cse:Attribute name="sailthru.title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Saudi Aramco IPO-ARMO.SE has formally appointed JPMorgan Chase &amp; Co (JPM.N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial advisers for its initial public offering, sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-30T11:07:51+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-30T11:07:51+0000"/>
+    <cse:Attribute name="og:article:author" value="Ron Bousso, David French and Davide Barbuscia"/>
+    <cse:Attribute name="og:article:tag" value="Saudi Arabia,US,SAUDI,ARAMCO,IPO,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Hong Kong,Initial Public Offerings,Arts / Culture / Entertainment,Equity Financing,Saudi Arabia,Divestitures / Spin,Offs,Government Borrowing Requirement,Middle East,United Kingdom,United States,Banking Services (TRBC),Wealth Management,Banks (TRBC),Funds,Company News,New Issues,Corporate Events,Integrated Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Energy (TRBC),Europe,Banking Services (Legacy),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
+    <cse:Attribute name="twitter:description" value="Saudi Aramco IPO-ARMO.SE has formally appointed JPMorgan Chase &amp; Co (JPM.N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial advisers for its initial public offering, sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="311"/>
+    <cse:Attribute name="height" value="162"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuZxvIzn74qVWw7HnN3_7CZZ4aCXuSipPSjr79xLEL3IRxAzFfHt1Mfs8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/emirates-global-aluminium-ipo-mandate-idUSL5N1H4583</id>
+  <updated>1970-01-18T06:08:40.711Z</updated>
+  <title type="html">Emirates Global Aluminium mandates U.S. banks for IPO: sources ...</title>
+  <link href="http://www.reuters.com/article/emirates-global-aluminium-ipo-mandate-idUSL5N1H4583" title="www.reuters.com"/>
+  <summary type="html">N) to advise on its initial public offering, &lt;b&gt;sources familiar with&lt;/b&gt; the situation said on &lt;br&gt;
+Monday. The three banks, which were mandated as joint global coordinators,&amp;nbsp;...</summary>
+  <cse:cacheId>LUwTBjpfuHkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../emirates-global-aluminium-ipo-mandate- idUSL5N1H4583</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Emirates+Global+Aluminium+mandates+U.S.+banks+for+IPO%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Dasha Afanasieva and Clara Denina"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Dasha Afanasieva and Clara Denina"/>
+    <cse:Attribute name="news_keywords" value="US;EMIRATES;GLOBAL;ALUMINIUM;IPO;MANDATE;Investment Banking and Investment Services (TRBC);Wealth Management;Banks (TRBC);United Arab Emirates;Funds;Company News;Western Europe;Initial Public Offerings;Arts / Culture / Entertainment;New Issues;Equity Financing;Corporate Events;Corporate Debt;Investment Banking and Brokerage Services (TRBC);Middle East;Aluminum (TRBC);Banking Services (Legacy);United States"/>
+    <cse:Attribute name="revision_date" value="Mon Mar 27 16:58:36 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Dasha Afanasieva and Clara Denina"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-27T16:58:36+0000"/>
+    <cse:Attribute name="sailthru.title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-mandate-idUSKBN16Y24E"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Emirates Global Aluminium (EGA) mandated Bank of America Merrill Lynch (BAC.N), Goldman Sachs (GS.N) and JP Morgan (JPM.N) to advise on its initial public offering, sources familiar with the situation said on Monday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-27T16:58:36+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-27T16:58:36+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Dasha Afanasieva and Clara Denina"/>
+    <cse:Attribute name="og:article:tag" value="US,EMIRATES,GLOBAL,ALUMINIUM,IPO,MANDATE,Investment Banking and Investment Services (TRBC),Wealth Management,Banks (TRBC),United Arab Emirates,Funds,Company News,Western Europe,Initial Public Offerings,Arts / Culture / Entertainment,New Issues,Equity Financing,Corporate Events,Corporate Debt,Investment Banking and Brokerage Services (TRBC),Middle East,Aluminum (TRBC),Banking Services (Legacy),United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid -sources"/>
-    <cse:Attribute name="twitter:description" value="Middle Eastern online retailerSouq.com will make an announcement later on Tuesday aboutAmazon.com Inc&apos;s bid to buy 100 percent of the companyfrom its shareholders, two sources familiar with the deal toldReuters."/>
+    <cse:Attribute name="twitter:title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
+    <cse:Attribute name="twitter:description" value="Emirates Global Aluminium (EGA) mandated Bank of America Merrill Lynch (BAC.N), Goldman Sachs (GS.N) and JP Morgan (JPM.N) to advise on its initial public offering, sources familiar with the situation said on Monday."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
