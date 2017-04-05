@@ -5,237 +5,130 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:13:43.869Z</updated>
+ <updated>1970-01-18T06:16:28.985Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8610" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8610" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>8610</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9460" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9460" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9460</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.35201</cse:searchTime>
-  <cse:formattedSearchTime>0.35</cse:formattedSearchTime>
-  <cse:totalResults>8610</cse:totalResults>
-  <cse:formattedTotalResults>8,610</cse:formattedTotalResults>
+  <cse:searchTime>0.250343</cse:searchTime>
+  <cse:formattedSearchTime>0.25</cse:formattedSearchTime>
+  <cse:totalResults>9460</cse:totalResults>
+  <cse:formattedTotalResults>9,460</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources-2017-3</id>
-  <updated>1970-01-18T06:13:43.869Z</updated>
-  <title type="html">Dubai&amp;#39;s Souq.com to make announcement on Amazon.com bid ...</title>
-  <link href="http://www.businessinsider.com/r-dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources-2017-3" title="www.businessinsider.com"/>
-  <summary type="html">The Financial Times reported Amazon would pay between $650 and $750 &lt;br&gt;
-million, quoting two &lt;b&gt;sources familiar with&lt;/b&gt; the matter. Emaar Malls&amp;#39; bid had so far &lt;br&gt;
-not&amp;nbsp;...</summary>
-  <cse:cacheId>Hf1Osib6CQwJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-dubais-souqcom-to-make-announcement-on- amazoncom-bid-sources-2017-3</cse:formattedUrl>
+  <id>http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266</id>
+  <updated>1970-01-18T06:16:28.985Z</updated>
+  <title type="html">Blackwater Founder Repped Trump at Secret Meeting Overseas ...</title>
+  <link href="http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266" title="www.nbcnews.com"/>
+  <summary type="html">... Trump at a secret overseas meeting convened by the United Arab Emirates in &lt;br&gt;
+early January, two intelligence &lt;b&gt;sources familiar with&lt;/b&gt; the matter told NBC News.</summary>
+  <cse:cacheId>oFtdnM2hlgEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.nbcnews.com/.../blackwater-founder-repped-trump-secret-meeting- overseas-sources-n742266</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-03-28"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-28"/>
-    <cse:Attribute name="news_keywords" value="Reuters"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters"/>
-    <cse:Attribute name="sailthru.description" value="DUBAI (Reuters) - Middle Eastern online..."/>
-    <cse:Attribute name="title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid: sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Tech"/>
-    <cse:Attribute name="sailthru.title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid: sources"/>
-    <cse:Attribute name="tbi-image" value="http://static2.businessinsider.com/image/58da125d5124c93a5eb4183e/dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static2.businessinsider.com/image/58da125d5124c93a5eb4183e/dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static5.businessinsider.com/image/58da125d5124c93a5eb4183e-50-50/dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources.jpg"/>
-    <cse:Attribute name="og:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid: sources"/>
-    <cse:Attribute name="og:description" value="DUBAI (Reuters) - Middle Eastern online..."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
+    <cse:Attribute name="og:site_name" value="NBC News"/>
+    <cse:Attribute name="og:description" value="One U.S. intelligence official said the meeting was with a Russian envoy."/>
+    <cse:Attribute name="og:title" value="Blackwater&apos;s founder represented Trump at secret meeting brokered by UAE"/>
+    <cse:Attribute name="og:url" value="http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources-2017-3"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources-2017-3"/>
-    <cse:Attribute name="twitter:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid: sources"/>
-    <cse:Attribute name="twitter:description" value="DUBAI (Reuters) - Middle Eastern online..."/>
+    <cse:Attribute name="og:image" value="https://media4.s-nbcnews.com/j/newscms/2017_14/1953376/170304-erik-prince-blackwater-se-523p_82b772d017e07918662f1bc818b87dc5.nbcnews-fp-1200-800.jpg"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static6.businessinsider.com/image/58da125d5124c93a5eb4183e-506-253/dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources.jpg"/>
-    <cse:Attribute name="og:image" value="http://static3.businessinsider.com/image/58da125d5124c93a5eb4183e-1190-625/dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources.jpg"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid: sources"/>
-    <cse:Attribute name="url" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid: sources"/>
-    <cse:Attribute name="image" value="http://static6.businessinsider.com/image/58da125d5124c93a5eb4183e-506-253/dubais-souqcom-to-make-announcement-on-amazoncom-bid-sources.jpg"/>
-    <cse:Attribute name="description" value="DUBAI (Reuters) - Middle Eastern online..."/>
+    <cse:Attribute name="twitter:site" value="NBCNews"/>
+    <cse:Attribute name="twitter:title" value="Blackwater&apos;s founder represented Trump at secret meeting brokered by UAE"/>
+    <cse:Attribute name="twitter:description" value="One U.S. intelligence official said the meeting was with a Russian envoy."/>
+    <cse:Attribute name="twitter:creator" value="NBCNews"/>
+    <cse:Attribute name="twitter:image" value="https://media4.s-nbcnews.com/j/newscms/2017_14/1953376/170304-erik-prince-blackwater-se-523p_82b772d017e07918662f1bc818b87dc5.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266"/>
+    <cse:Attribute name="news_keywords" value="News,U.S. news,Donald Trump,Investigations,National Security,Politics News,Vladimir Putin"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
+    <cse:Attribute name="dc.date.issued" value="2017-04-04"/>
+    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static5.businessinsider.com/assets/images/logos/BI.png"/>
+    <cse:Attribute name="src" value="https://media4.s-nbcnews.com/j/newscms/2017_14/1953376/170304-erik-prince-blackwater-se-523p_82b772d017e07918662f1bc818b87dc5.nbcnews-fp-1200-800.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOfK1aTywzbJF5wT__2pDGkJ55dcsXy2pEeZanJRsGSNgD7zDifsz6b18a"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm-xdloWQCYhl2ITqQ0BZsEc7slelp9KGRreQst94zZuP9CGUd4mWeRo42"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652</id>
-  <updated>1970-01-18T06:13:43.869Z</updated>
-  <title type="html">Elon Musk Launches Neuralink to Connect Brains With Computers ...</title>
-  <link href="https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652" title="www.wsj.com"/>
-  <summary type="html">Billionaire entrepreneur Elon Musk wants to merge computers with human brains &lt;br&gt;
-to help people keep up with machines.</summary>
-  <cse:formattedUrl type="html">https://www.wsj.com/.../elon-musk-launches-neuralink-to-connect-brains- with-computers-1490642652</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-staples-m-a-idUSKBN1761P6</id>
+  <updated>1970-01-18T06:16:28.985Z</updated>
+  <title type="html">Office supplies retailer Staples explores sale: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-staples-m-a-idUSKBN1761P6" title="www.reuters.com"/>
+  <summary type="html">Staples Inc (SPLS.O) is in talks with private equity firms about a potential sale, &lt;br&gt;
+&lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Tuesday, as the largest U.S.&amp;nbsp;...</summary>
+  <cse:cacheId>QVcV4iwWK2UJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-staples-m-a-idUSKBN1761P6</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="dj.asn" value="i-05a5"/>
-    <cse:Attribute name="user.type" value="nonsubscriber"/>
-    <cse:Attribute name="user.exp" value="default"/>
-    <cse:Attribute name="testkeys" value="C"/>
-    <cse:Attribute name="page.section" value="Article"/>
-    <cse:Attribute name="page.content.type" value="Article"/>
-    <cse:Attribute name="page.content.format" value="responsive"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="page.content.source" value="PRO,WSJ-PRO-VC,WSJ-PRO-WSJ.com"/>
-    <cse:Attribute name="article.template" value="snippet"/>
-    <cse:Attribute name="page.site" value="wsj"/>
-    <cse:Attribute name="page.site.product" value="WSJ"/>
-    <cse:Attribute name="page.region" value="na,us"/>
-    <cse:Attribute name="article.id" value="SB12711645461998504051204583047383916922110"/>
-    <cse:Attribute name="article.type" value="Technology"/>
-    <cse:Attribute name="article.access" value="paid"/>
-    <cse:Attribute name="article.origheadline" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
-    <cse:Attribute name="article.headline" value="Elon Musk’s latest startup: Connecting brains with computers"/>
-    <cse:Attribute name="article.summary" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
-    <cse:Attribute name="article.page" value="Tech"/>
-    <cse:Attribute name="article.section" value="Tech"/>
-    <cse:Attribute name="article.published" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="article.updated" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="article.created" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="author" value="Rolfe Winkler"/>
-    <cse:Attribute name="cxenseparse:wsj-keywords" value="elon musk,neuralink,spacex,tesla,vc people,Space Exploration Technologies,Tesla,TSLA,Elon Musk,Thiel%2C%20Peter,ownership changes,acquisitions,mergers,divestments,corporate actions,corporate,industrial news,political,general news,sciences,humanities,motor vehicles,alternative fuel vehicles,aerospace products,parts,space vehicles,aerospace,defense,automotive,industrial goods,technology"/>
-    <cse:Attribute name="news_keywords" value="elon musk,neuralink,spacex,tesla,vc people,Space Exploration Technologies,Tesla,TSLA,Elon Musk,Thiel%2C%20Peter"/>
-    <cse:Attribute name="article:word_count" value="1115"/>
-    <cse:Attribute name="article:image_count" value="1"/>
-    <cse:Attribute name="article:internal_link_count" value="1"/>
-    <cse:Attribute name="article:external_link_count" value="3"/>
-    <cse:Attribute name="cxenseparse:wsj-primary-inset" value="image"/>
-    <cse:Attribute name="hdl_p" value="Brain Is Musk’s New Frontier"/>
-    <cse:Attribute name="language" value="en-US"/>
-    <cse:Attribute name="twitter:title" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
-    <cse:Attribute name="twitter:description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
-    <cse:Attribute name="twitter:image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image:alt" value="Elon Musk’s latest startup: Connecting brains with computers"/>
-    <cse:Attribute name="twitter:creator" value="@RolfeWinkler"/>
-    <cse:Attribute name="twitter:site" value="@WSJ"/>
-    <cse:Attribute name="twitter:domain" value="wsj.com"/>
-    <cse:Attribute name="fb:app_id" value="368513495882"/>
-    <cse:Attribute name="og:title" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
-    <cse:Attribute name="og:description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
-    <cse:Attribute name="og:url" value="https://www.wsj.com/articles/elon-musk-launches-neuralink-to-connect-brains-with-computers-1490642652"/>
-    <cse:Attribute name="og:image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;innovationNewsConsumerGoodsAndRetail;americasDealsNews;americasPrivateEquityNews;Retirement;SustainabilityGreen;SustainabilityCorporate;everything;Deals;forexNewsCopy;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;audib2b;credit-rss;cfaglobal;aa48hours;shipping;dassaultuk;Intel;PFG;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory12;GCA-live-feed"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Office+supplies+retailer+Staples+explores+sale%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Lauren Hirsch and Sruthi Ramakrishnan"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Video"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Lauren Hirsch and Sruthi Ramakrishnan"/>
+    <cse:Attribute name="news_keywords" value="Canada;United Kingdom;United States;Mark Cautela;Shira D. Goodman;US;STAPLES;M;A;Retailers (Legacy);Mergers / Acquisitions / Takeovers;Company News;Content produced in Bangalore;Volatile Shares / Hot Stocks;Corporate Events;Video;Retailers excl Food and Drug Specialists (TRBC);Divestitures / Spin;Offs;Miscellaneous Specialty Retailers (TRBC);Discount Stores (TRBC);Major News;Equities Markets;Internet / World Wide Web;Science;Department Stores (TRBC);Deals;Pictures;All Retail;Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Tue Apr 04 22:16:36 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Lauren Hirsch and Sruthi Ramakrishnan"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-04T22:16:36+0000"/>
+    <cse:Attribute name="sailthru.title" value="Office supplies retailer Staples explores sale: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-   </cse:DataObject>
-   <cse:DataObject type="webpage">
-    <cse:Attribute name="datepublished" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="datemodified" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="datecreated" value="2017-03-27T19:24:00.000Z"/>
-    <cse:Attribute name="description" value="Billionaire entrepreneur Elon Musk wants to merge computers with human brains to help people keep up with machines."/>
-    <cse:Attribute name="alternativeheadline" value="Brain Is Musk’s New Frontier"/>
-    <cse:Attribute name="inlanguage" value="en-US"/>
-    <cse:Attribute name="image" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
-    <cse:Attribute name="publisher" value="wsj.com"/>
-    <cse:Attribute name="headline" value="Elon Musk Launches Neuralink to Connect Brains With Computers"/>
-   </cse:DataObject>
-   <cse:DataObject type="listitem">
-    <cse:Attribute name="item" value="Tech"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Rolfe Winkler"/>
-    <cse:Attribute name="url" value="Rolfe Winkler"/>
-    <cse:Attribute name="email" value="Rolfe.Winkler@wsj.com"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170329/032917sanaaloveandbasketball/032917sanaaloveandbasketball_115x65.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170331/033117atlantafire/033117atlantafire_115x65.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170328/energyrtlibby/energyrtlibby_115x65.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170331/033017_mw_companionbots_final/033017_mw_companionbots_final_115x65.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170308/030817ferrari2/030817ferrari2_115x65.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-ST210_SPRING_C_20170331144920.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-ST164_LEAKAG_C_20170331130705.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-ST149_30HfS_C_20170331120218.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS731_PITBUL_C_20170330141722.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS897_CCJash_C_20170330175442.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170402/040117colombia4/040117colombia4_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170329/032917sanaaloveandbasketball/032917sanaaloveandbasketball_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170331/032817opinion_humility/032817opinion_humility_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170331/033117trumprussiaties/033117trumprussiaties_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170331/033017opinionchait/033017opinionchait_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-ST210_SPRING_C_20170331144920.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-ST164_LEAKAG_C_20170331130705.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-ST149_30HfS_C_20170331120218.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS731_PITBUL_C_20170330141722.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SS897_CCJash_C_20170330175442.jpg"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Office supplies retailer Staples explores sale: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-staples-m-a-idUSKBN1761P6"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Staples Inc (SPLS.O) is in talks with private equity firms about a potential sale, sources familiar with the matter said on Tuesday, as the largest U.S. office-supplies seller tests buyer appetite for an industry rattled by online competition and hefty debt burdens."/>
+    <cse:Attribute name="og:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170404&amp;t=2&amp;i=1179313648&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3315A"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-04T22:16:36+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-04T22:16:36+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Lauren Hirsch and Sruthi Ramakrishnan"/>
+    <cse:Attribute name="og:article:tag" value="Canada,United Kingdom,United States,Mark Cautela,Shira D. Goodman,US,STAPLES,M,A,Retailers (Legacy),Mergers / Acquisitions / Takeovers,Company News,Content produced in Bangalore,Volatile Shares / Hot Stocks,Corporate Events,Video,Retailers excl Food and Drug Specialists (TRBC),Divestitures / Spin,Offs,Miscellaneous Specialty Retailers (TRBC),Discount Stores (TRBC),Major News,Equities Markets,Internet / World Wide Web,Science,Department Stores (TRBC),Deals,Pictures,All Retail,Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Office supplies retailer Staples explores sale: sources"/>
+    <cse:Attribute name="twitter:description" value="Staples Inc (SPLS.O) is in talks with private equity firms about a potential sale, sources familiar with the matter said on Tuesday, as the largest U.S. office-supplies seller tests buyer appetite for an industry rattled by online competition and hefty debt burdens."/>
+    <cse:Attribute name="twitter:image:src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170404&amp;t=2&amp;i=1179313648&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3315A"/>
+    <cse:Attribute name="twitter:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170404&amp;t=2&amp;i=1179313648&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3315A"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://si.wsj.net/public/resources/images/P1-CA457_INSIDE_TOP_20170327202735.jpg"/>
+    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170404&amp;t=2&amp;i=1179313648&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3315A"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="318"/>
-    <cse:Attribute name="height" value="159"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncXcdZi1ZZFBSdaYt5RgirtauZxzg3DnNmDjpgPAuDrEjbPpEA3l0u4dj"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR74Szv87dWzCqcaUrX96z2V7PwiSZW4uaPWFU13p2pqf6IOoIjKQpUk4I"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.nbcnews.com/storyline/americas-heroin-epidemic/opioid-epidemic-trump-set-commission-addiction-crisis-sources-say-n739861</id>
-  <updated>1970-01-18T06:13:43.869Z</updated>
+  <updated>1970-01-18T06:16:28.985Z</updated>
   <title type="html">Opioid Epidemic: Trump to Set Up Commission on Addiction Crisis ...</title>
   <link href="http://www.nbcnews.com/storyline/americas-heroin-epidemic/opioid-epidemic-trump-set-commission-addiction-crisis-sources-say-n739861" title="www.nbcnews.com"/>
   <summary type="html">President Donald Trump is expected to launch a commission Wednesday to &lt;br&gt;
@@ -276,58 +169,96 @@ the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-emirates-global-aluminium-ipo-mandate-idUSKBN16Y24E</id>
-  <updated>1970-01-18T06:13:43.869Z</updated>
-  <title type="html">Emirates Global Aluminium mandates U.S. banks for IPO: sources ...</title>
-  <link href="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-mandate-idUSKBN16Y24E" title="www.reuters.com"/>
-  <summary type="html">N) to advise on its initial public offering, &lt;b&gt;sources familiar with&lt;/b&gt; the situation said on &lt;br&gt;
-Monday. The three banks, which were mandated as joint global coordinators,&amp;nbsp;...</summary>
-  <cse:cacheId>XeAj-fK5l0oJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-emirates-global-aluminium-ipo-mandate- idUSKBN16Y24E</cse:formattedUrl>
+  <id>http://www.nbcnews.com/card/south-carolina-teen-zakaryia-abdin-accused-trying-join-isis-n741191</id>
+  <updated>1970-01-18T06:16:28.985Z</updated>
+  <title type="html">South Carolina Teen Nabbed at Airport Charged With Trying to Join ...</title>
+  <link href="http://www.nbcnews.com/card/south-carolina-teen-zakaryia-abdin-accused-trying-join-isis-n741191" title="www.nbcnews.com"/>
+  <summary type="html">The plan, according to court documents and &lt;b&gt;sources familiar with&lt;/b&gt; the case, was &lt;br&gt;
+to use sniper fire to assassinate Pope Francis when he went to Philly in&amp;nbsp;...</summary>
+  <cse:cacheId>giaRB3ikVEkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.nbcnews.com/.../south-carolina-teen-zakaryia-abdin-accused-trying- join-isis-n741191</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
+    <cse:Attribute name="og:site_name" value="NBC News"/>
+    <cse:Attribute name="og:description" value="A teenager arrested at the Charleston airport was planning to join ISIS, feds say"/>
+    <cse:Attribute name="og:title" value="South Carolina Teen Nabbed at Airport Charged With Trying to Join ISIS"/>
+    <cse:Attribute name="og:url" value="http://www.nbcnews.com/card/south-carolina-teen-zakaryia-abdin-accused-trying-join-isis-n741191"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="https://media1.s-nbcnews.com/j/newscms/2017_13/1950891/33117-zakaryia-mugshot-126p-rs_d5e4ee6fe4952c966c3043ac9cb61ac8.fp-1200-630.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="NBCNews"/>
+    <cse:Attribute name="twitter:title" value="South Carolina Teen Nabbed at Airport Charged With Trying to Join ISIS"/>
+    <cse:Attribute name="twitter:description" value="A teenager arrested at the Charleston airport was planning to join ISIS, feds say"/>
+    <cse:Attribute name="twitter:creator" value="NBCNews"/>
+    <cse:Attribute name="twitter:image" value="https://media1.s-nbcnews.com/j/newscms/2017_13/1950891/33117-zakaryia-mugshot-126p-rs_d5e4ee6fe4952c966c3043ac9cb61ac8.fp-1200-630.jpg"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/card/south-carolina-teen-zakaryia-abdin-accused-trying-join-isis-n741191"/>
+    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://media1.s-nbcnews.com/j/newscms/2017_13/1950891/33117-zakaryia-mugshot-126p-rs_d5e4ee6fe4952c966c3043ac9cb61ac8.fp-1200-630.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyO1vEj3eA5kM2thdIFQyGH03YMqJ5yCIDafijgNYOkMc4h5UmFYIp2kU"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1H001Y</id>
+  <updated>1970-01-18T06:16:28.985Z</updated>
+  <title type="html">Intesa postpones bid deadline for 2.5 bln euro bad loan sale - sources</title>
+  <link href="http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1H001Y" title="www.reuters.com"/>
+  <summary type="html">... to April 6 the deadline to submit the binding offers fora 2.5 billion-euro bad loan &lt;br&gt;
+portfolio it has put up for sale,three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>afMn1Nj9EIEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1H001Y</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;innovationNewsIndustryMaterialsAndUtilities;americasDealsNews;americasPrivateEquityNews;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;BofA;newsproHome;cfaglobal;aa48hours;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Emirates+Global+Aluminium+mandates+U.S.+banks+for+IPO%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;bondsNews;marketsNews;fundsFundsNews;etfNews;privateEquity;privateEquityFinancialServicesAndRealEstate;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Intesa+postpones+bid+deadline+for+2.5+bln+euro+bad+loan+sale+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Dasha Afanasieva and Clara Denina"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Dasha Afanasieva and Clara Denina"/>
-    <cse:Attribute name="news_keywords" value="US;EMIRATES;GLOBAL;ALUMINIUM;IPO;MANDATE;Investment Banking and Investment Services (TRBC);Wealth Management;Banks (TRBC);United Arab Emirates;Funds;Company News;Western Europe;Initial Public Offerings;Arts / Culture / Entertainment;New Issues;Equity Financing;Corporate Events;Corporate Debt;Investment Banking and Brokerage Services (TRBC);Middle East;Aluminum (TRBC);Banking Services (Legacy);United States"/>
-    <cse:Attribute name="revision_date" value="Mon Mar 27 16:58:56 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Dasha Afanasieva and Clara Denina"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-27T16:58:56+0000"/>
-    <cse:Attribute name="sailthru.title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="INTESA SP;BAD LOANS/BIDS (URGENT);Investment Banking and Investment Services (TRBC);Western Europe;France;Credit and Corporate Debt;Divestitures / Spin;Offs;Debt / Fixed Income Markets;Deals;United States;Loans;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);Italy;Corporate Events;Spain;Economic Events;Euro Zone;East European Countries;Banking and Investment Services (TRBC);Europe;Real Estate Markets;Specialty Investment Services (TRBC);Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Tue Apr 04 10:16:58 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-04T10:16:58+0000"/>
+    <cse:Attribute name="sailthru.title" value="Intesa postpones bid deadline for 2.5 bln euro bad loan sale - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-emirates-global-aluminium-ipo-mandate-idUSKBN16Y24E"/>
+    <cse:Attribute name="og:title" value="Intesa postpones bid deadline for 2.5 bln euro bad loan sale - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1H001Y"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Emirates Global Aluminium (EGA) mandated Bank of America Merrill Lynch (BAC.N), Goldman Sachs (GS.N) and JP Morgan (JPM.N) to advise on its initial public offering, sources familiar with the situation said on Monday."/>
+    <cse:Attribute name="og:description" value="Intesa Sanpaolo haspushed to April 6 the deadline to submit the binding offers fora 2.5 billion-euro bad loan portfolio it has put up for sale,three sources familiar with the matter said."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-27T16:58:56+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-27T16:58:56+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Dasha Afanasieva and Clara Denina"/>
-    <cse:Attribute name="og:article:tag" value="US,EMIRATES,GLOBAL,ALUMINIUM,IPO,MANDATE,Investment Banking and Investment Services (TRBC),Wealth Management,Banks (TRBC),United Arab Emirates,Funds,Company News,Western Europe,Initial Public Offerings,Arts / Culture / Entertainment,New Issues,Equity Financing,Corporate Events,Corporate Debt,Investment Banking and Brokerage Services (TRBC),Middle East,Aluminum (TRBC),Banking Services (Legacy),United States"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-04T10:16:58+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-04T10:16:58+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="INTESA SP,BAD LOANS/BIDS (URGENT),Investment Banking and Investment Services (TRBC),Western Europe,France,Credit and Corporate Debt,Divestitures / Spin,Offs,Debt / Fixed Income Markets,Deals,United States,Loans,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),Italy,Corporate Events,Spain,Economic Events,Euro Zone,East European Countries,Banking and Investment Services (TRBC),Europe,Real Estate Markets,Specialty Investment Services (TRBC),Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Emirates Global Aluminium mandates U.S. banks for IPO: sources"/>
-    <cse:Attribute name="twitter:description" value="Emirates Global Aluminium (EGA) mandated Bank of America Merrill Lynch (BAC.N), Goldman Sachs (GS.N) and JP Morgan (JPM.N) to advise on its initial public offering, sources familiar with the situation said on Monday."/>
+    <cse:Attribute name="twitter:title" value="Intesa postpones bid deadline for 2.5 bln euro bad loan sale - sources"/>
+    <cse:Attribute name="twitter:description" value="Intesa Sanpaolo haspushed to April 6 the deadline to submit the binding offers fora 2.5 billion-euro bad loan portfolio it has put up for sale,three sources familiar with the matter said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -340,8 +271,128 @@ Monday. The three banks, which were mandated as joint global coordinators,&amp;n
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS</id>
+  <updated>1970-01-18T06:16:28.985Z</updated>
+  <title type="html">Saudi Aramco formally appoints banks to advise on share sale ...</title>
+  <link href="http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS" title="www.reuters.com"/>
+  <summary type="html">N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial &lt;br&gt;
+advisers for its initial public offering, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
+  <cse:cacheId>lFfkLqmXtWUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;innovationNewsEnergy;innovationNewsFinancialServicesAndRealEstate;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;vbcSmallBusiness;corporateResponsibility;SustainabilityCorporate;SustainabilitySocial;everything;Deals;forexNewsCopy;ShellEnergy;AllianzInvestments;Allianz;middle-east;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;banks;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Aramco+formally+appoints+banks+to+advise+on+share+sale"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Ron Bousso, David French and Davide Barbuscia"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Ron Bousso, David French and Davide Barbuscia"/>
+    <cse:Attribute name="news_keywords" value="Saudi Arabia;US;SAUDI;ARAMCO;IPO;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Hong Kong;Initial Public Offerings;Arts / Culture / Entertainment;Equity Financing;Saudi Arabia;Divestitures / Spin;Offs;Government Borrowing Requirement;Middle East;United Kingdom;United States;Banking Services (TRBC);Wealth Management;Banks (TRBC);Funds;Company News;New Issues;Corporate Events;Integrated Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Energy (TRBC);Europe;Banking Services (Legacy);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Thu Mar 30 11:07:51 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Ron Bousso, David French and Davide Barbuscia"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-30T11:07:51+0000"/>
+    <cse:Attribute name="sailthru.title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Saudi Aramco IPO-ARMO.SE has formally appointed JPMorgan Chase &amp; Co (JPM.N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial advisers for its initial public offering, sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-30T11:07:51+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-30T11:07:51+0000"/>
+    <cse:Attribute name="og:article:author" value="Ron Bousso, David French and Davide Barbuscia"/>
+    <cse:Attribute name="og:article:tag" value="Saudi Arabia,US,SAUDI,ARAMCO,IPO,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Hong Kong,Initial Public Offerings,Arts / Culture / Entertainment,Equity Financing,Saudi Arabia,Divestitures / Spin,Offs,Government Borrowing Requirement,Middle East,United Kingdom,United States,Banking Services (TRBC),Wealth Management,Banks (TRBC),Funds,Company News,New Issues,Corporate Events,Integrated Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Energy (TRBC),Europe,Banking Services (Legacy),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
+    <cse:Attribute name="twitter:description" value="Saudi Aramco IPO-ARMO.SE has formally appointed JPMorgan Chase &amp; Co (JPM.N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial advisers for its initial public offering, sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="311"/>
+    <cse:Attribute name="height" value="162"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuZxvIzn74qVWw7HnN3_7CZZ4aCXuSipPSjr79xLEL3IRxAzFfHt1Mfs8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK</id>
+  <updated>1970-01-18T06:16:28.985Z</updated>
+  <title type="html">Exclusive: Glencore in talks to sell global oil storage stakes - sources</title>
+  <link href="http://www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK" title="www.reuters.com"/>
+  <summary type="html">The company owns much of its storage terminal interests via joint ventures and is &lt;br&gt;
+selling half of these stakes, the &lt;b&gt;sources familiar with&lt;/b&gt; the sale said.</summary>
+  <cse:cacheId>uclDcM1kj4MJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;audib2b;cfaglobal;shipping;nonegative;dassaultuk;ubs;Intel;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Glencore+in+talks+to+sell+global+oil+storage+stakes+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Julia Payne"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Julia Payne"/>
+    <cse:Attribute name="news_keywords" value="Argentina;Belgium;Madagascar;US;GLENCORE;ASSETS;SALES;Chemicals (Legacy);Energy Markets;Belgium;Western Europe;Crude Oil;Energy (Legacy);Exclusive;Africa;Oil and Gas Exploration and Production (TRBC);Specialty Mining and Metals (TRBC);Divestitures / Spin;Offs;Major News;Government Borrowing Requirement;Madagascar;United Kingdom;Switzerland;Company News;South America / Central America;Corporate Events;Oil and Gas (TRBC);Argentina;Refined Products;Europe"/>
+    <cse:Attribute name="revision_date" value="Fri Mar 31 11:39:46 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Julia Payne"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-31T11:39:46+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Glencore in talks to sell global oil storage stakes - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Glencore in talks to sell global oil storage stakes - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Swiss-based trading and mining giant Glencore is selling a bundle of its global oil storage stakes, sources told Reuters, following similar moves by rivals as a boom period for storage shows signs of nearing to an end."/>
+    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-31T11:39:46+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-31T11:39:46+0000"/>
+    <cse:Attribute name="og:article:author" value="Julia Payne"/>
+    <cse:Attribute name="og:article:tag" value="Argentina,Belgium,Madagascar,US,GLENCORE,ASSETS,SALES,Chemicals (Legacy),Energy Markets,Belgium,Western Europe,Crude Oil,Energy (Legacy),Exclusive,Africa,Oil and Gas Exploration and Production (TRBC),Specialty Mining and Metals (TRBC),Divestitures / Spin,Offs,Major News,Government Borrowing Requirement,Madagascar,United Kingdom,Switzerland,Company News,South America / Central America,Corporate Events,Oil and Gas (TRBC),Argentina,Refined Products,Europe"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Glencore in talks to sell global oil storage stakes - sources"/>
+    <cse:Attribute name="twitter:description" value="Swiss-based trading and mining giant Glencore is selling a bundle of its global oil storage stakes, sources told Reuters, following similar moves by rivals as a boom period for storage shows signs of nearing to an end."/>
+    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
+    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="291"/>
+    <cse:Attribute name="height" value="173"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS50f6NGjuhx9NvhoZq1SO-sC-4jx73OmsvxOboW9-i4hPoVcTxUt_Ro4A"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/sanofi-ma-generics-idUSL5N1H62PO</id>
-  <updated>1970-01-18T06:13:43.869Z</updated>
+  <updated>1970-01-18T06:16:28.985Z</updated>
   <title type="html">Sanofi hires advisors for European generic drugs unit sale: sources ...</title>
   <link href="http://www.reuters.com/article/sanofi-ma-generics-idUSL5N1H62PO" title="www.reuters.com"/>
   <summary type="html">French drug maker Sanofi (SASY.PA) has hired advisers for the sale of its &lt;br&gt;
@@ -405,260 +456,8 @@ Reuters,&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177</id>
-  <updated>1970-01-18T06:13:43.869Z</updated>
-  <title type="html">Dubai&amp;#39;s Souq.com to make announcement on Amazon.com bid ...</title>
-  <link href="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177" title="www.reuters.com"/>
-  <summary type="html">... make an announcement later on Tuesday aboutAmazon.com Inc&amp;#39;s bid to buy &lt;br&gt;
-100 percent of the companyfrom its shareholders, two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>Y-Klb_4otDQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;mergersNews;marketsNews;rbssConsumerGoodsAndRetailNews;rbssFinancialServicesAndRealEstateNews;rbssTechMediaTelecomNews;rbssRetailDepartmentStores;rbssRealEstateOperations;rbssITServicesConsulting;technology-media-telco-SP;mnaNewsConsumerGoodsAndRetail;mnaNewsFinancialServicesAndRealEstate;americasMergersNews;asiaMergersNews;mnaNewsTechMediaTelco;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;cyclicalConsumerGoodsSector;financialsSector;technologySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Dubai%27s+Souq.com+to+make+announcement+on+Amazon.com+bid+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="SOUQ.COM;MandA/AMAZON.COM (URGENT);Retailers (Legacy);Mergers / Acquisitions / Takeovers;Africa;Retailers excl Food and Drug Specialists (TRBC);Asia / Pacific;Middle East;Department Stores (TRBC);Deals;All Retail;United States;IT Services and Consulting (TRBC);Americas;Real Estate Development and Operations (TRBC);United Arab Emirates;Society / Social Issues;Company News;South Africa;Financials (TRBC);Software and IT Services (TRBC);Financials (Legacy);Corporate Events;Real Estate (Legacy);General News;Technology (TRBC);Real Estate Operations (TRBC);Internet / World Wide Web;Real Estate (TRBC);Diversified Retail (TRBC);Science;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 28 07:09:27 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-28T07:09:27+0000"/>
-    <cse:Attribute name="sailthru.title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/souqcom-ma-amazoncom-idUSL5N1H5177"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Middle Eastern online retailerSouq.com will make an announcement later on Tuesday aboutAmazon.com Inc&apos;s bid to buy 100 percent of the companyfrom its shareholders, two sources familiar with the deal toldReuters."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-28T07:09:27+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-28T07:09:27+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="SOUQ.COM,MandA/AMAZON.COM (URGENT),Retailers (Legacy),Mergers / Acquisitions / Takeovers,Africa,Retailers excl Food and Drug Specialists (TRBC),Asia / Pacific,Middle East,Department Stores (TRBC),Deals,All Retail,United States,IT Services and Consulting (TRBC),Americas,Real Estate Development and Operations (TRBC),United Arab Emirates,Society / Social Issues,Company News,South Africa,Financials (TRBC),Software and IT Services (TRBC),Financials (Legacy),Corporate Events,Real Estate (Legacy),General News,Technology (TRBC),Real Estate Operations (TRBC),Internet / World Wide Web,Real Estate (TRBC),Diversified Retail (TRBC),Science,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Dubai&apos;s Souq.com to make announcement on Amazon.com bid -sources"/>
-    <cse:Attribute name="twitter:description" value="Middle Eastern online retailerSouq.com will make an announcement later on Tuesday aboutAmazon.com Inc&apos;s bid to buy 100 percent of the companyfrom its shareholders, two sources familiar with the deal toldReuters."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/citi-saudi-idUSL3N1H42YW</id>
-  <updated>1970-01-18T06:13:43.869Z</updated>
-  <title type="html">Citi applies for capital markets licence in Saudi Arabia-sources ...</title>
-  <link href="http://www.reuters.com/article/citi-saudi-idUSL3N1H42YW" title="www.reuters.com"/>
-  <summary type="html">Citigroup hasformally applied for a licence to conduct capital marketsbusiness in &lt;br&gt;
-Saudi Arabia, two &lt;b&gt;sources familiar with&lt;/b&gt; the mattersaid, in a major move to&amp;nbsp;...</summary>
-  <cse:cacheId>iLIIFbT-hNcJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/citi-saudi-idUSL3N1H42YW</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;swissMktRpt;governmentFilingsNews;marketsNews;fundsFundsNews;OILPRD;rbssEnergyNews;rbssFinancialServicesAndRealEstateNews;etfNews;rbssOilGasExplorationProduction;rbssInvestmentServices;regulatoryNewsEnergy;regulatoryNewsFinancialServicesAndRealEstate;americasRegulatoryNews;asiaRegulatoryNews;euRegulatoryNews;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;energySector;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Citi+applies+for+capital+markets+licence+in+Saudi+Arabia-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Saudi Arabia;CITI;SAUDI/ (URGENT);Investment Banking and Investment Services (TRBC);Chemicals (Legacy);Security Listings / Delistings;Energy Markets;Western Europe;Energy (Legacy);Central / Eastern Europe;Saudi Arabia;Oil and Gas Exploration and Production (TRBC);Asia / Pacific;Middle East;Deals;United States;Commodities Markets;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Switzerland;Company News;Financials (TRBC);Financials (Legacy);Corporate Events;Economic Events;Oil and Gas (TRBC);Diversified Investment Services (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Europe;Regulation;Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Tue Mar 28 08:54:40 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-28T08:54:40+0000"/>
-    <cse:Attribute name="sailthru.title" value="Citi applies for capital markets licence in Saudi Arabia-sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Citi applies for capital markets licence in Saudi Arabia-sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/citi-saudi-idUSL3N1H42YW"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Citigroup hasformally applied for a licence to conduct capital marketsbusiness in Saudi Arabia, two sources familiar with the mattersaid, in a major move to return to the country after a roughlythirteen year absence."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-28T08:54:40+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-28T08:54:40+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Saudi Arabia,CITI,SAUDI/ (URGENT),Investment Banking and Investment Services (TRBC),Chemicals (Legacy),Security Listings / Delistings,Energy Markets,Western Europe,Energy (Legacy),Central / Eastern Europe,Saudi Arabia,Oil and Gas Exploration and Production (TRBC),Asia / Pacific,Middle East,Deals,United States,Commodities Markets,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Switzerland,Company News,Financials (TRBC),Financials (Legacy),Corporate Events,Economic Events,Oil and Gas (TRBC),Diversified Investment Services (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Europe,Regulation,Emerging Market Countries,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Citi applies for capital markets licence in Saudi Arabia-sources"/>
-    <cse:Attribute name="twitter:description" value="Citigroup hasformally applied for a licence to conduct capital marketsbusiness in Saudi Arabia, two sources familiar with the mattersaid, in a major move to return to the country after a roughlythirteen year absence."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Funds"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS</id>
-  <updated>1970-01-18T06:13:43.869Z</updated>
-  <title type="html">Saudi Aramco formally appoints banks to advise on share sale ...</title>
-  <link href="http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS" title="www.reuters.com"/>
-  <summary type="html">N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial &lt;br&gt;
-advisers for its initial public offering, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
-  <cse:cacheId>lFfkLqmXtWUJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;innovationNewsEnergy;innovationNewsFinancialServicesAndRealEstate;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;vbcSmallBusiness;corporateResponsibility;SustainabilityCorporate;SustainabilitySocial;everything;Deals;forexNewsCopy;ShellEnergy;AllianzInvestments;Allianz;middle-east;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;banks;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Aramco+formally+appoints+banks+to+advise+on+share+sale"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Ron Bousso, David French and Davide Barbuscia"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Ron Bousso, David French and Davide Barbuscia"/>
-    <cse:Attribute name="news_keywords" value="Saudi Arabia;US;SAUDI;ARAMCO;IPO;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Hong Kong;Initial Public Offerings;Arts / Culture / Entertainment;Equity Financing;Saudi Arabia;Divestitures / Spin;Offs;Government Borrowing Requirement;Middle East;United Kingdom;United States;Banking Services (TRBC);Wealth Management;Banks (TRBC);Funds;Company News;New Issues;Corporate Events;Integrated Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Energy (TRBC);Europe;Banking Services (Legacy);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Thu Mar 30 11:07:51 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Ron Bousso, David French and Davide Barbuscia"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-30T11:07:51+0000"/>
-    <cse:Attribute name="sailthru.title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Saudi Aramco IPO-ARMO.SE has formally appointed JPMorgan Chase &amp; Co (JPM.N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial advisers for its initial public offering, sources familiar with the matter told Reuters."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-30T11:07:51+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-30T11:07:51+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Ron Bousso, David French and Davide Barbuscia"/>
-    <cse:Attribute name="og:article:tag" value="Saudi Arabia,US,SAUDI,ARAMCO,IPO,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Hong Kong,Initial Public Offerings,Arts / Culture / Entertainment,Equity Financing,Saudi Arabia,Divestitures / Spin,Offs,Government Borrowing Requirement,Middle East,United Kingdom,United States,Banking Services (TRBC),Wealth Management,Banks (TRBC),Funds,Company News,New Issues,Corporate Events,Integrated Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Energy (TRBC),Europe,Banking Services (Legacy),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
-    <cse:Attribute name="twitter:description" value="Saudi Aramco IPO-ARMO.SE has formally appointed JPMorgan Chase &amp; Co (JPM.N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial advisers for its initial public offering, sources familiar with the matter told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="311"/>
-    <cse:Attribute name="height" value="162"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuZxvIzn74qVWw7HnN3_7CZZ4aCXuSipPSjr79xLEL3IRxAzFfHt1Mfs8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK</id>
-  <updated>1970-01-18T06:13:43.869Z</updated>
-  <title type="html">Exclusive: Glencore in talks to sell global oil storage stakes - sources</title>
-  <link href="http://www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK" title="www.reuters.com"/>
-  <summary type="html">The company owns much of its storage terminal interests via joint ventures and is &lt;br&gt;
-selling half of these stakes, the &lt;b&gt;sources familiar with&lt;/b&gt; the sale said.</summary>
-  <cse:cacheId>uclDcM1kj4MJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="businessNews;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;audib2b;cfaglobal;shipping;nonegative;dassaultuk;ubs;Intel;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;MOC_US_2017;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Glencore+in+talks+to+sell+global+oil+storage+stakes+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Julia Payne"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Julia Payne"/>
-    <cse:Attribute name="news_keywords" value="Argentina;Belgium;Madagascar;US;GLENCORE;ASSETS;SALES;Chemicals (Legacy);Energy Markets;Belgium;Western Europe;Crude Oil;Energy (Legacy);Exclusive;Africa;Oil and Gas Exploration and Production (TRBC);Specialty Mining and Metals (TRBC);Divestitures / Spin;Offs;Major News;Government Borrowing Requirement;Madagascar;United Kingdom;Switzerland;Company News;South America / Central America;Corporate Events;Oil and Gas (TRBC);Argentina;Refined Products;Europe"/>
-    <cse:Attribute name="revision_date" value="Fri Mar 31 11:39:46 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Julia Payne"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-31T11:39:46+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Glencore in talks to sell global oil storage stakes - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Glencore in talks to sell global oil storage stakes - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Swiss-based trading and mining giant Glencore is selling a bundle of its global oil storage stakes, sources told Reuters, following similar moves by rivals as a boom period for storage shows signs of nearing to an end."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-31T11:39:46+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-31T11:39:46+0000"/>
-    <cse:Attribute name="og:article:author" value="Julia Payne"/>
-    <cse:Attribute name="og:article:tag" value="Argentina,Belgium,Madagascar,US,GLENCORE,ASSETS,SALES,Chemicals (Legacy),Energy Markets,Belgium,Western Europe,Crude Oil,Energy (Legacy),Exclusive,Africa,Oil and Gas Exploration and Production (TRBC),Specialty Mining and Metals (TRBC),Divestitures / Spin,Offs,Major News,Government Borrowing Requirement,Madagascar,United Kingdom,Switzerland,Company News,South America / Central America,Corporate Events,Oil and Gas (TRBC),Argentina,Refined Products,Europe"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Glencore in talks to sell global oil storage stakes - sources"/>
-    <cse:Attribute name="twitter:description" value="Swiss-based trading and mining giant Glencore is selling a bundle of its global oil storage stakes, sources told Reuters, following similar moves by rivals as a boom period for storage shows signs of nearing to an end."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="291"/>
-    <cse:Attribute name="height" value="173"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS50f6NGjuhx9NvhoZq1SO-sC-4jx73OmsvxOboW9-i4hPoVcTxUt_Ro4A"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/moves-mashreqbank-idUSL5N1HB2FX</id>
-  <updated>1970-01-18T06:13:43.869Z</updated>
+  <updated>1970-01-18T06:16:28.985Z</updated>
   <title type="html">MOVES-Mashreq&amp;#39;s Iossifidis to become CEO of Noor Bank - sources ...</title>
   <link href="http://www.reuters.com/article/moves-mashreqbank-idUSL5N1HB2FX" title="www.reuters.com"/>
   <summary type="html">The head of corporate andinvestment banking at Dubai&amp;#39;s Mashreq is leaving &lt;br&gt;
@@ -710,6 +509,70 @@ Reuters&amp;nbsp;...</summary>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/bonds/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
     <cse:Attribute name="wt.cg_s" value="Bonds"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/dubai-hldg-ceo-idUSL5N1H75JU</id>
+  <updated>1970-01-18T06:16:28.985Z</updated>
+  <title type="html">Dubai holding CEO and vice chairman departed -sources | Reuters</title>
+  <link href="http://www.reuters.com/article/dubai-hldg-ceo-idUSL5N1H75JU" title="www.reuters.com"/>
+  <summary type="html">... vice chairman of Dubai Holding, the investment vehicle of the emirate&amp;#39;s ruler, &lt;br&gt;
+have left the company, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on Thursday.</summary>
+  <cse:cacheId>7HD5Obc8qMMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/dubai-hldg-ceo-idUSL5N1H75JU</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="rbssConsumerGoodsAndRetailNews;rbssLeisureRecreation;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Dubai+holding+CEO+and+vice+chairman+departed+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Abdulla A.M. Al Habbai;Ahmad Abdullah Jumaa Bin Byat;Fadel al;Ali;Mohammed Abdullah al;Gergawi;Mohammed bin Rashid al;Maktoum;DUBAI HLDG;CEO/ (URGENT);Investment Banking and Investment Services (TRBC);Hotels and Entertainment Services (TRBC);Asia / Pacific;Middle East;Leisure and Recreation (TRBC);Cyclical Consumer Services (TRBC);Commodities Markets;Basic Materials (TRBC);Key Personnel Changes;Real Estate Development and Operations (TRBC);United Arab Emirates;Funds;Company News;India;Financials (TRBC);Financials (Legacy);Corporate Events;Economic Events;Real Estate (Legacy);Corporate Governance;Real Estate Operations (TRBC);Banking and Investment Services (TRBC);Real Estate (TRBC);Cyclical Consumer Goods and Services (TRBC);Real Estate Markets;Sovereign Wealth Funds;Emerging Market Countries;Industrial Machinery / Equipment (Legacy);Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Thu Mar 30 15:09:35 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-03-30T15:09:35+0000"/>
+    <cse:Attribute name="sailthru.title" value="Dubai holding CEO and vice chairman departed -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Dubai holding CEO and vice chairman departed -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/dubai-hldg-ceo-idUSL5N1H75JU"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The chief executive and vicechairman of Dubai Holding, the investment vehicle of theemirate&apos;s ruler, have left the company, sources familiar withthe matter told Reuters on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-03-30T15:09:35+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-03-30T15:09:35+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Abdulla A.M. Al Habbai,Ahmad Abdullah Jumaa Bin Byat,Fadel al,Ali,Mohammed Abdullah al,Gergawi,Mohammed bin Rashid al,Maktoum,DUBAI HLDG,CEO/ (URGENT),Investment Banking and Investment Services (TRBC),Hotels and Entertainment Services (TRBC),Asia / Pacific,Middle East,Leisure and Recreation (TRBC),Cyclical Consumer Services (TRBC),Commodities Markets,Basic Materials (TRBC),Key Personnel Changes,Real Estate Development and Operations (TRBC),United Arab Emirates,Funds,Company News,India,Financials (TRBC),Financials (Legacy),Corporate Events,Economic Events,Real Estate (Legacy),Corporate Governance,Real Estate Operations (TRBC),Banking and Investment Services (TRBC),Real Estate (TRBC),Cyclical Consumer Goods and Services (TRBC),Real Estate Markets,Sovereign Wealth Funds,Emerging Market Countries,Industrial Machinery / Equipment (Legacy),Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Dubai holding CEO and vice chairman departed -sources"/>
+    <cse:Attribute name="twitter:description" value="The chief executive and vicechairman of Dubai Holding, the investment vehicle of theemirate&apos;s ruler, have left the company, sources familiar withthe matter told Reuters on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
