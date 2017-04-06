@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:16:28.985Z</updated>
+ <updated>1970-01-18T06:17:58.868Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9460" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9460" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>9460</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9100</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.250343</cse:searchTime>
-  <cse:formattedSearchTime>0.25</cse:formattedSearchTime>
-  <cse:totalResults>9460</cse:totalResults>
-  <cse:formattedTotalResults>9,460</cse:formattedTotalResults>
+  <cse:searchTime>0.435027</cse:searchTime>
+  <cse:formattedSearchTime>0.44</cse:formattedSearchTime>
+  <cse:totalResults>9100</cse:totalResults>
+  <cse:formattedTotalResults>9,100</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266</id>
-  <updated>1970-01-18T06:16:28.985Z</updated>
+  <updated>1970-01-18T06:17:58.868Z</updated>
   <title type="html">Blackwater Founder Repped Trump at Secret Meeting Overseas ...</title>
   <link href="http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266" title="www.nbcnews.com"/>
   <summary type="html">... Trump at a secret overseas meeting convened by the United Arab Emirates in &lt;br&gt;
@@ -64,7 +64,7 @@ early January, two intelligence &lt;b&gt;sources familiar with&lt;/b&gt; the mat
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-staples-m-a-idUSKBN1761P6</id>
-  <updated>1970-01-18T06:16:28.985Z</updated>
+  <updated>1970-01-18T06:17:58.868Z</updated>
   <title type="html">Office supplies retailer Staples explores sale: sources | Reuters</title>
   <link href="http://www.reuters.com/article/us-staples-m-a-idUSKBN1761P6" title="www.reuters.com"/>
   <summary type="html">Staples Inc (SPLS.O) is in talks with private equity firms about a potential sale, &lt;br&gt;
@@ -117,60 +117,273 @@ early January, two intelligence &lt;b&gt;sources familiar with&lt;/b&gt; the mat
     <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170404&amp;t=2&amp;i=1179313648&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3315A"/>
+    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170404&amp;t=2&amp;i=1179313648&amp;w=644&amp;fh=&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3315A"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR74Szv87dWzCqcaUrX96z2V7PwiSZW4uaPWFU13p2pqf6IOoIjKQpUk4I"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkGz5joIOcrhQ_VQxCYVqxiPYpntu6ZI-XyUfTvAPe2BnLHQOex5J3oq6"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.nbcnews.com/storyline/americas-heroin-epidemic/opioid-epidemic-trump-set-commission-addiction-crisis-sources-say-n739861</id>
-  <updated>1970-01-18T06:16:28.985Z</updated>
-  <title type="html">Opioid Epidemic: Trump to Set Up Commission on Addiction Crisis ...</title>
-  <link href="http://www.nbcnews.com/storyline/americas-heroin-epidemic/opioid-epidemic-trump-set-commission-addiction-crisis-sources-say-n739861" title="www.nbcnews.com"/>
-  <summary type="html">President Donald Trump is expected to launch a commission Wednesday to &lt;br&gt;
-address the nation&amp;#39;s growing opioid epidemic, according to &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-the&amp;nbsp;...</summary>
-  <cse:cacheId>FEaH0fFk8uAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.nbcnews.com/.../opioid-epidemic-trump-set-commission-addiction- crisis-sources-say-n739861</cse:formattedUrl>
+  <id>http://www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341</id>
+  <updated>1970-01-18T06:17:58.868Z</updated>
+  <title type="html">UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources</title>
+  <link href="http://www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341" title="www.reuters.com"/>
+  <summary type="html">Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk &lt;br&gt;
+issuance,&lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday.</summary>
+  <cse:cacheId>4Hstf0tzlzIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
-    <cse:Attribute name="og:site_name" value="NBC News"/>
-    <cse:Attribute name="og:description" value="More than 33,000 people died from opioids, which include prescription painkillers and heroin, in 2015. The CDC calls it an overdose epidemic."/>
-    <cse:Attribute name="og:title" value="Trump to set up commission on opioid crisis"/>
-    <cse:Attribute name="og:url" value="http://www.nbcnews.com/storyline/americas-heroin-epidemic/opioid-epidemic-trump-set-commission-addiction-crisis-sources-say-n739861"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="vbcSmallBusiness;corporateResponsibility;SustainabilityGreen;SustainabilityCorporate;SustainabilitySocial;everything;Deals;ShellEnergy;AllianzInvestments;Allianz;audib2b;credit-rss;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-Saudi+Aramco+raises+%243+billion+with+debut+sukuk+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="ARAMCO;SUKUK/SIZE (UPDATE 1);Investment Banking and Investment Services (TRBC);Islamic Finance;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Credit and Corporate Debt;Corporate Events;Economic Events;Saudi Arabia;Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Asia / Pacific;Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Debt / Fixed Income Markets;Middle East;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Apr 05 12:04:08 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-05T12:04:08+0000"/>
+    <cse:Attribute name="sailthru.title" value="UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="https://media2.s-nbcnews.com/j/newscms/2017_11/1936316/170317-ohio-drug-overdose-heroin-fentanyl-se-1140a_08ca67c8cd350f9a721ebb4a5a8b43f3.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="NBCNews"/>
-    <cse:Attribute name="twitter:title" value="Trump to set up commission on opioid crisis"/>
-    <cse:Attribute name="twitter:description" value="More than 33,000 people died from opioids, which include prescription painkillers and heroin, in 2015. The CDC calls it an overdose epidemic."/>
-    <cse:Attribute name="twitter:creator" value="NBCNews"/>
-    <cse:Attribute name="twitter:image" value="https://media2.s-nbcnews.com/j/newscms/2017_11/1936316/170317-ohio-drug-overdose-heroin-fentanyl-se-1140a_08ca67c8cd350f9a721ebb4a5a8b43f3.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/storyline/americas-heroin-epidemic/opioid-epidemic-trump-set-commission-addiction-crisis-sources-say-n739861"/>
-    <cse:Attribute name="news_keywords" value="News,U.S. news,Health news"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
-    <cse:Attribute name="dc.date.issued" value="2017-03-29"/>
-    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
+    <cse:Attribute name="og:description" value="Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk issuance,sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-05T12:04:08+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-05T12:04:08+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="ARAMCO,SUKUK/SIZE (UPDATE 1),Investment Banking and Investment Services (TRBC),Islamic Finance,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Credit and Corporate Debt,Corporate Events,Economic Events,Saudi Arabia,Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Asia / Pacific,Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Debt / Fixed Income Markets,Middle East,Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources"/>
+    <cse:Attribute name="twitter:description" value="Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk issuance,sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://media2.s-nbcnews.com/j/newscms/2017_11/1936316/170317-ohio-drug-overdose-heroin-fentanyl-se-1140a_08ca67c8cd350f9a721ebb4a5a8b43f3.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu0YSuUoQ2ZTR23AH48sbSPGymESY9JFu-sd8C7jJbniTmhFb0jEPl2Ow"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-australia-china-idUSKBN1780JA</id>
+  <updated>1970-01-18T06:17:58.868Z</updated>
+  <title type="html">China blocks visit by Australian MPs because of rights criticism ...</title>
+  <link href="http://www.reuters.com/article/us-australia-china-idUSKBN1780JA" title="www.reuters.com"/>
+  <summary type="html">... after it took offense to a letter that called on it to address allegations of human &lt;br&gt;
+right abuses, two &lt;b&gt;sources familiar with&lt;/b&gt; the planned tour told Reuters on Thursday&lt;br&gt;
+.</summary>
+  <cse:cacheId>CqlTdRxJk0kJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-australia-china-idUSKBN1780JA</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
+    <cse:Attribute name="dcsext.channellist" value="worldNews;newsMaps;china;innovationAMD;australia;everything;china-labor;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;asia;newsproHome;verizonmm;cfaglobal;aa48hours;shipping;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="China+blocks+visit+by+Australian+MPs+because+of+rights+criticism%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Colin Packham"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
+    <cse:Attribute name="author" value="Colin Packham"/>
+    <cse:Attribute name="news_keywords" value="Australia;Canada;China;Japan;Julie Bishop;Li Keqiang;Xi Jinping;US;AUSTRALIA;CHINA;Crime / Law / Justice;Drug Trafficking / Narcotics;Diplomacy / Foreign Policy;China (PRC);Crime;Fundamental Rights / Civil Liberties;Asia / Pacific;Australia;Major News;Human Rights / Civil Rights;United States"/>
+    <cse:Attribute name="revision_date" value="Thu Apr 06 06:25:52 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Colin Packham"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-06T06:25:52+0000"/>
+    <cse:Attribute name="sailthru.title" value="China blocks visit by Australian MPs because of rights criticism: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="China blocks visit by Australian MPs because of rights criticism: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-australia-china-idUSKBN1780JA"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="China called off a visit by two Australian politicians after it took offense to a letter that called on it to address allegations of human right abuses, two sources familiar with the planned tour told Reuters on Thursday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-06T06:25:52+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-06T06:25:52+0000"/>
+    <cse:Attribute name="og:article:section" value="World"/>
+    <cse:Attribute name="og:article:author" value="Colin Packham"/>
+    <cse:Attribute name="og:article:tag" value="Australia,Canada,China,Japan,Julie Bishop,Li Keqiang,Xi Jinping,US,AUSTRALIA,CHINA,Crime / Law / Justice,Drug Trafficking / Narcotics,Diplomacy / Foreign Policy,China (PRC),Crime,Fundamental Rights / Civil Liberties,Asia / Pacific,Australia,Major News,Human Rights / Civil Rights,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="China blocks visit by Australian MPs because of rights criticism: sources"/>
+    <cse:Attribute name="twitter:description" value="China called off a visit by two Australian politicians after it took offense to a letter that called on it to address allegations of human right abuses, two sources familiar with the planned tour told Reuters on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
+    <cse:Attribute name="wt.cg_n" value="World"/>
+    <cse:Attribute name="wt.cg_s" value="World"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/aramco-sukuk-size-idUSD5N1FR009</id>
+  <updated>1970-01-18T06:17:58.868Z</updated>
+  <title type="html">Saudi Aramco raises $3 billion with debut local currency sukuk ...</title>
+  <link href="http://www.reuters.com/article/aramco-sukuk-size-idUSD5N1FR009" title="www.reuters.com"/>
+  <summary type="html">Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk &lt;br&gt;
+issuance,&lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday.</summary>
+  <cse:cacheId>FTADd8Dw-OcJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/aramco-sukuk-size-idUSD5N1FR009</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Aramco+raises+%243+billion+with+debut+local+currency+sukuk-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="ARAMCO;SUKUK/SIZE (URGENT);Investment Banking and Investment Services (TRBC);Islamic Finance;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Credit and Corporate Debt;Corporate Events;Economic Events;Saudi Arabia;Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Asia / Pacific;Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Debt / Fixed Income Markets;Middle East;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Apr 05 11:07:11 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-05T11:07:11+0000"/>
+    <cse:Attribute name="sailthru.title" value="Saudi Aramco raises $3 billion with debut local currency sukuk- sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Saudi Aramco raises $3 billion with debut local currency sukuk- sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/aramco-sukuk-size-idUSD5N1FR009"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk issuance,sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-05T11:07:11+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-05T11:07:11+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="ARAMCO,SUKUK/SIZE (URGENT),Investment Banking and Investment Services (TRBC),Islamic Finance,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Credit and Corporate Debt,Corporate Events,Economic Events,Saudi Arabia,Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Asia / Pacific,Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Debt / Fixed Income Markets,Middle East,Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Saudi Aramco raises $3 billion with debut local currency sukuk- sources"/>
+    <cse:Attribute name="twitter:description" value="Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk issuance,sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.businessinsider.com/r-china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources-2017-4</id>
+  <updated>1970-01-18T06:17:58.868Z</updated>
+  <title type="html">China may scrap divisive dam in Myanmar to advance other ...</title>
+  <link href="http://www.businessinsider.com/r-china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources-2017-4" title="www.businessinsider.com"/>
+  <summary type="html">China is also pushing for preferential access to the deep sea port of Kyauk Pyu &lt;br&gt;
+on the Bay of Bengal, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the government&amp;#39;s&amp;nbsp;...</summary>
+  <cse:cacheId>Fv4409gyW5MJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-china-may-scrap-divisive-dam-in-myanmar-to- advance-other-interests-sources-2017-4</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="date" value="2017-04-05"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-05"/>
+    <cse:Attribute name="news_keywords" value="Reuters"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters"/>
+    <cse:Attribute name="sailthru.description" value="By Yimou Lee and Shwe Yee Saw MyintNAYPYITAW..."/>
+    <cse:Attribute name="title" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters World"/>
+    <cse:Attribute name="sailthru.title" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
+    <cse:Attribute name="tbi-image" value="http://static6.businessinsider.com/image/58e501c65124c9581ac13fe0/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static6.businessinsider.com/image/58e501c65124c9581ac13fe0/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static3.businessinsider.com/image/58e501c65124c9581ac13fe0-50-50/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
+    <cse:Attribute name="og:title" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
+    <cse:Attribute name="og:description" value="By Yimou Lee and Shwe Yee Saw MyintNAYPYITAW..."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources-2017-4"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources-2017-4"/>
+    <cse:Attribute name="twitter:title" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
+    <cse:Attribute name="twitter:description" value="By Yimou Lee and Shwe Yee Saw MyintNAYPYITAW..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://static6.businessinsider.com/image/58e501c65124c9581ac13fe0-506-253/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
+    <cse:Attribute name="og:image" value="http://static4.businessinsider.com/image/58e501c65124c9581ac13fe0-1190-625/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
+    <cse:Attribute name="url" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
+    <cse:Attribute name="image" value="http://static6.businessinsider.com/image/58e501c65124c9581ac13fe0-506-253/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
+    <cse:Attribute name="description" value="By Yimou Lee and Shwe Yee Saw MyintNAYPYITAW..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/58b5977301fe5847368b694d-400/these-9-skills-are-great-ones-to-have-on-your-rsum-right-now.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xZ-otn_eAyA6U1ZZ0YG9Zfg8VzzNEpp4qxTj8KwDMrzWgyAGl5BjOVy4"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.nbcnews.com/card/south-carolina-teen-zakaryia-abdin-accused-trying-join-isis-n741191</id>
-  <updated>1970-01-18T06:16:28.985Z</updated>
+  <updated>1970-01-18T06:17:58.868Z</updated>
   <title type="html">South Carolina Teen Nabbed at Airport Charged With Trying to Join ...</title>
   <link href="http://www.nbcnews.com/card/south-carolina-teen-zakaryia-abdin-accused-trying-join-isis-n741191" title="www.nbcnews.com"/>
   <summary type="html">The plan, according to court documents and &lt;b&gt;sources familiar with&lt;/b&gt; the case, was &lt;br&gt;
@@ -208,7 +421,7 @@ to use sniper fire to assassinate Pope Francis when he went to Philly in&amp;nbs
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1H001Y</id>
-  <updated>1970-01-18T06:16:28.985Z</updated>
+  <updated>1970-01-18T06:17:58.868Z</updated>
   <title type="html">Intesa postpones bid deadline for 2.5 bln euro bad loan sale - sources</title>
   <link href="http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1H001Y" title="www.reuters.com"/>
   <summary type="html">... to April 6 the deadline to submit the binding offers fora 2.5 billion-euro bad loan &lt;br&gt;
@@ -219,7 +432,7 @@ portfolio it has put up for sale,three &lt;b&gt;sources familiar with&lt;/b&gt; 
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;bondsNews;marketsNews;fundsFundsNews;etfNews;privateEquity;privateEquityFinancialServicesAndRealEstate;financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;bondsNews;marketsNews;fundsFundsNews;etfNews;privateEquity;privateEquityFinancialServicesAndRealEstate;MOC_US_2015-16;ABG_2016;MOC_US_2017;financialsSector"/>
     <cse:Attribute name="dcsext.contentheadline" value="Intesa+postpones+bid+deadline+for+2.5+bln+euro+bad+loan+sale+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
@@ -271,193 +484,72 @@ portfolio it has put up for sale,three &lt;b&gt;sources familiar with&lt;/b&gt; 
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS</id>
-  <updated>1970-01-18T06:16:28.985Z</updated>
-  <title type="html">Saudi Aramco formally appoints banks to advise on share sale ...</title>
-  <link href="http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS" title="www.reuters.com"/>
-  <summary type="html">N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial &lt;br&gt;
-advisers for its initial public offering, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
-  <cse:cacheId>lFfkLqmXtWUJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-china-oil-tax-idUSKBN1780PO</id>
+  <updated>1970-01-18T06:17:58.868Z</updated>
+  <title type="html">Traders cancel light cycle oil cargoes ahead of China tax: sources ...</title>
+  <link href="http://www.reuters.com/article/us-china-oil-tax-idUSKBN1780PO" title="www.reuters.com"/>
+  <summary type="html">... canceled for late April loading from South Korea ahead of the planned tax on &lt;br&gt;
+the refinery by-product, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Thursday.</summary>
+  <cse:cacheId>VWZw4w1a1acJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-china-oil-tax-idUSKBN1780PO</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;innovationNewsEnergy;innovationNewsFinancialServicesAndRealEstate;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;vbcSmallBusiness;corporateResponsibility;SustainabilityCorporate;SustainabilitySocial;everything;Deals;forexNewsCopy;ShellEnergy;AllianzInvestments;Allianz;middle-east;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;shipping;dassaultuk;PorscheCayenne;ubs;Intel;PFG;banks;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Aramco+formally+appoints+banks+to+advise+on+share+sale"/>
+    <cse:Attribute name="dcsext.channellist" value="BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Traders+cancel+light+cycle+oil+cargoes+ahead+of+China+tax%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Ron Bousso, David French and Davide Barbuscia"/>
+    <cse:Attribute name="dcsext.rauthor" value="Jessica Jaganathan"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Ron Bousso, David French and Davide Barbuscia"/>
-    <cse:Attribute name="news_keywords" value="Saudi Arabia;US;SAUDI;ARAMCO;IPO;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Hong Kong;Initial Public Offerings;Arts / Culture / Entertainment;Equity Financing;Saudi Arabia;Divestitures / Spin;Offs;Government Borrowing Requirement;Middle East;United Kingdom;United States;Banking Services (TRBC);Wealth Management;Banks (TRBC);Funds;Company News;New Issues;Corporate Events;Integrated Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Energy (TRBC);Europe;Banking Services (Legacy);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Thu Mar 30 11:07:51 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Ron Bousso, David French and Davide Barbuscia"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-30T11:07:51+0000"/>
-    <cse:Attribute name="sailthru.title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
+    <cse:Attribute name="author" value="Jessica Jaganathan"/>
+    <cse:Attribute name="news_keywords" value="China;Korea;South Korea;US;CHINA;OIL;TAX;Asia (Energy);Energy Markets;Gasoline;Crude Oil;South Korea;Energy (Legacy);Taxation;China (PRC);Heating Oil / Gasoil;Corporate Events;Economic Events;Oil and Gas Refining and Marketing (TRBC);Oil Refineries;Middle Distillates;Asia / Pacific;English;Energy (TRBC);Jet Fuel / Kerosene;Fuel Oil;Naphtha"/>
+    <cse:Attribute name="revision_date" value="Thu Apr 06 07:36:47 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Jessica Jaganathan"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-06T07:36:47+0000"/>
+    <cse:Attribute name="sailthru.title" value="Traders cancel light cycle oil cargoes ahead of China tax: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-saudi-aramco-ipo-idUSKBN1710RS"/>
+    <cse:Attribute name="og:title" value="Traders cancel light cycle oil cargoes ahead of China tax: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-china-oil-tax-idUSKBN1780PO"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Saudi Aramco IPO-ARMO.SE has formally appointed JPMorgan Chase &amp; Co (JPM.N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial advisers for its initial public offering, sources familiar with the matter told Reuters."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-30T11:07:51+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-30T11:07:51+0000"/>
-    <cse:Attribute name="og:article:author" value="Ron Bousso, David French and Davide Barbuscia"/>
-    <cse:Attribute name="og:article:tag" value="Saudi Arabia,US,SAUDI,ARAMCO,IPO,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Hong Kong,Initial Public Offerings,Arts / Culture / Entertainment,Equity Financing,Saudi Arabia,Divestitures / Spin,Offs,Government Borrowing Requirement,Middle East,United Kingdom,United States,Banking Services (TRBC),Wealth Management,Banks (TRBC),Funds,Company News,New Issues,Corporate Events,Integrated Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Energy (TRBC),Europe,Banking Services (Legacy),Private Equity Funds"/>
+    <cse:Attribute name="og:description" value="Traders are rushing to cancel loadings in North Asia of a range of oil products for sale to China, ahead of a planned Chinese consumption tax that will make the trade uneconomic."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179564532&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED350DS"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-06T07:36:47+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-06T07:36:47+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Jessica Jaganathan"/>
+    <cse:Attribute name="og:article:tag" value="China,Korea,South Korea,US,CHINA,OIL,TAX,Asia (Energy),Energy Markets,Gasoline,Crude Oil,South Korea,Energy (Legacy),Taxation,China (PRC),Heating Oil / Gasoil,Corporate Events,Economic Events,Oil and Gas Refining and Marketing (TRBC),Oil Refineries,Middle Distillates,Asia / Pacific,English,Energy (TRBC),Jet Fuel / Kerosene,Fuel Oil,Naphtha"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Saudi Aramco formally appoints banks to advise on share sale"/>
-    <cse:Attribute name="twitter:description" value="Saudi Aramco IPO-ARMO.SE has formally appointed JPMorgan Chase &amp; Co (JPM.N), Morgan Stanley (MS.N) and HSBC (HSBA.L) as international financial advisers for its initial public offering, sources familiar with the matter told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
+    <cse:Attribute name="twitter:title" value="Traders cancel light cycle oil cargoes ahead of China tax: sources"/>
+    <cse:Attribute name="twitter:description" value="Traders are rushing to cancel loadings in North Asia of a range of oil products for sale to China, ahead of a planned Chinese consumption tax that will make the trade uneconomic."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179564532&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED350DS"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179564532&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED350DS"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170330&amp;t=2&amp;i=1178647521&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2T0FE"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179564532&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED350DS"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="311"/>
-    <cse:Attribute name="height" value="162"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuZxvIzn74qVWw7HnN3_7CZZ4aCXuSipPSjr79xLEL3IRxAzFfHt1Mfs8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK</id>
-  <updated>1970-01-18T06:16:28.985Z</updated>
-  <title type="html">Exclusive: Glencore in talks to sell global oil storage stakes - sources</title>
-  <link href="http://www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK" title="www.reuters.com"/>
-  <summary type="html">The company owns much of its storage terminal interests via joint ventures and is &lt;br&gt;
-selling half of these stakes, the &lt;b&gt;sources familiar with&lt;/b&gt; the sale said.</summary>
-  <cse:cacheId>uclDcM1kj4MJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="businessNews;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;audib2b;cfaglobal;shipping;nonegative;dassaultuk;ubs;Intel;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;MOC_US_2017;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Glencore+in+talks+to+sell+global+oil+storage+stakes+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Julia Payne"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Julia Payne"/>
-    <cse:Attribute name="news_keywords" value="Argentina;Belgium;Madagascar;US;GLENCORE;ASSETS;SALES;Chemicals (Legacy);Energy Markets;Belgium;Western Europe;Crude Oil;Energy (Legacy);Exclusive;Africa;Oil and Gas Exploration and Production (TRBC);Specialty Mining and Metals (TRBC);Divestitures / Spin;Offs;Major News;Government Borrowing Requirement;Madagascar;United Kingdom;Switzerland;Company News;South America / Central America;Corporate Events;Oil and Gas (TRBC);Argentina;Refined Products;Europe"/>
-    <cse:Attribute name="revision_date" value="Fri Mar 31 11:39:46 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Julia Payne"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-31T11:39:46+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Glencore in talks to sell global oil storage stakes - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Glencore in talks to sell global oil storage stakes - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-glencore-assets-sales-idUSKBN1721AK"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Swiss-based trading and mining giant Glencore is selling a bundle of its global oil storage stakes, sources told Reuters, following similar moves by rivals as a boom period for storage shows signs of nearing to an end."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-31T11:39:46+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-31T11:39:46+0000"/>
-    <cse:Attribute name="og:article:author" value="Julia Payne"/>
-    <cse:Attribute name="og:article:tag" value="Argentina,Belgium,Madagascar,US,GLENCORE,ASSETS,SALES,Chemicals (Legacy),Energy Markets,Belgium,Western Europe,Crude Oil,Energy (Legacy),Exclusive,Africa,Oil and Gas Exploration and Production (TRBC),Specialty Mining and Metals (TRBC),Divestitures / Spin,Offs,Major News,Government Borrowing Requirement,Madagascar,United Kingdom,Switzerland,Company News,South America / Central America,Corporate Events,Oil and Gas (TRBC),Argentina,Refined Products,Europe"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Glencore in talks to sell global oil storage stakes - sources"/>
-    <cse:Attribute name="twitter:description" value="Swiss-based trading and mining giant Glencore is selling a bundle of its global oil storage stakes, sources told Reuters, following similar moves by rivals as a boom period for storage shows signs of nearing to an end."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170331&amp;t=2&amp;i=1178813587&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2U0SH"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="291"/>
-    <cse:Attribute name="height" value="173"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS50f6NGjuhx9NvhoZq1SO-sC-4jx73OmsvxOboW9-i4hPoVcTxUt_Ro4A"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/sanofi-ma-generics-idUSL5N1H62PO</id>
-  <updated>1970-01-18T06:16:28.985Z</updated>
-  <title type="html">Sanofi hires advisors for European generic drugs unit sale: sources ...</title>
-  <link href="http://www.reuters.com/article/sanofi-ma-generics-idUSL5N1H62PO" title="www.reuters.com"/>
-  <summary type="html">French drug maker Sanofi (SASY.PA) has hired advisers for the sale of its &lt;br&gt;
-European generic drug business, several &lt;b&gt;sources familiar with&lt;/b&gt; matter told &lt;br&gt;
-Reuters,&amp;nbsp;...</summary>
-  <cse:cacheId>Z21Rb8V_Q84J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/sanofi-ma-generics-idUSL5N1H62PO</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;innovationNewsHealthcare;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;newsproHome;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Sanofi+hires+advisors+for+European+generic+drugs+unit+sale%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="France;Olivier Brandicourt;US;SANOFI;M;A;GENERICS;Chemicals (Legacy);Germany;Mergers / Acquisitions / Takeovers;Western Europe;Arts / Culture / Entertainment;France;Divestitures / Spin;Offs;Government Borrowing Requirement;Middle East;Deals;United Kingdom;United States;Wealth Management;Banks (TRBC);Israel;Funds;Switzerland;Company News;Corporate Events;Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Europe;Drug and Device Development;Healthcare (TRBC);Generic and Specialty Pharmaceuticals (TRBC);Banking Services (Legacy);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Wed Mar 29 10:58:44 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-29T10:58:44+0000"/>
-    <cse:Attribute name="sailthru.title" value="Sanofi hires advisors for European generic drugs unit sale: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Sanofi hires advisors for European generic drugs unit sale: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-sanofi-m-a-generics-idUSKBN1701A4"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="French drug maker Sanofi (SASY.PA) has hired advisers for the sale of its European generic drug business, several sources familiar with matter told Reuters, ahead of an auction process which is expected to start after the European summer."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170329&amp;t=2&amp;i=1178491154&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2S0SJ"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-29T10:58:44+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-29T10:58:44+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="France,Olivier Brandicourt,US,SANOFI,M,A,GENERICS,Chemicals (Legacy),Germany,Mergers / Acquisitions / Takeovers,Western Europe,Arts / Culture / Entertainment,France,Divestitures / Spin,Offs,Government Borrowing Requirement,Middle East,Deals,United Kingdom,United States,Wealth Management,Banks (TRBC),Israel,Funds,Switzerland,Company News,Corporate Events,Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Europe,Drug and Device Development,Healthcare (TRBC),Generic and Specialty Pharmaceuticals (TRBC),Banking Services (Legacy),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Sanofi hires advisors for European generic drugs unit sale: sources"/>
-    <cse:Attribute name="twitter:description" value="French drug maker Sanofi (SASY.PA) has hired advisers for the sale of its European generic drug business, several sources familiar with matter told Reuters, ahead of an auction process which is expected to start after the European summer."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170329&amp;t=2&amp;i=1178491154&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2S0SJ"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170329&amp;t=2&amp;i=1178491154&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2S0SJ"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170329&amp;t=2&amp;i=1178491154&amp;w=780&amp;fh=&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED2S0SJ"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="283"/>
-    <cse:Attribute name="height" value="178"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSzxUL_odUSousTS2rbsqQHQBYgPXN6vs6L4izGDwbmDIYVumvdimIy_Y"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="184"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MA_-j9yOwSHB8NC_qyi2BM_wHzyJvg0tvQZ_bxRY0bHmEgmp54DqtvQ"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/moves-mashreqbank-idUSL5N1HB2FX</id>
-  <updated>1970-01-18T06:16:28.985Z</updated>
+  <updated>1970-01-18T06:17:58.868Z</updated>
   <title type="html">MOVES-Mashreq&amp;#39;s Iossifidis to become CEO of Noor Bank - sources ...</title>
   <link href="http://www.reuters.com/article/moves-mashreqbank-idUSL5N1HB2FX" title="www.reuters.com"/>
   <summary type="html">The head of corporate andinvestment banking at Dubai&amp;#39;s Mashreq is leaving &lt;br&gt;
@@ -509,70 +601,6 @@ Reuters&amp;nbsp;...</summary>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/bonds/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
     <cse:Attribute name="wt.cg_s" value="Bonds"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/dubai-hldg-ceo-idUSL5N1H75JU</id>
-  <updated>1970-01-18T06:16:28.985Z</updated>
-  <title type="html">Dubai holding CEO and vice chairman departed -sources | Reuters</title>
-  <link href="http://www.reuters.com/article/dubai-hldg-ceo-idUSL5N1H75JU" title="www.reuters.com"/>
-  <summary type="html">... vice chairman of Dubai Holding, the investment vehicle of the emirate&amp;#39;s ruler, &lt;br&gt;
-have left the company, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on Thursday.</summary>
-  <cse:cacheId>7HD5Obc8qMMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/dubai-hldg-ceo-idUSL5N1H75JU</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="rbssConsumerGoodsAndRetailNews;rbssLeisureRecreation;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Dubai+holding+CEO+and+vice+chairman+departed+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Abdulla A.M. Al Habbai;Ahmad Abdullah Jumaa Bin Byat;Fadel al;Ali;Mohammed Abdullah al;Gergawi;Mohammed bin Rashid al;Maktoum;DUBAI HLDG;CEO/ (URGENT);Investment Banking and Investment Services (TRBC);Hotels and Entertainment Services (TRBC);Asia / Pacific;Middle East;Leisure and Recreation (TRBC);Cyclical Consumer Services (TRBC);Commodities Markets;Basic Materials (TRBC);Key Personnel Changes;Real Estate Development and Operations (TRBC);United Arab Emirates;Funds;Company News;India;Financials (TRBC);Financials (Legacy);Corporate Events;Economic Events;Real Estate (Legacy);Corporate Governance;Real Estate Operations (TRBC);Banking and Investment Services (TRBC);Real Estate (TRBC);Cyclical Consumer Goods and Services (TRBC);Real Estate Markets;Sovereign Wealth Funds;Emerging Market Countries;Industrial Machinery / Equipment (Legacy);Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Thu Mar 30 15:09:35 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-03-30T15:09:35+0000"/>
-    <cse:Attribute name="sailthru.title" value="Dubai holding CEO and vice chairman departed -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Dubai holding CEO and vice chairman departed -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/dubai-hldg-ceo-idUSL5N1H75JU"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The chief executive and vicechairman of Dubai Holding, the investment vehicle of theemirate&apos;s ruler, have left the company, sources familiar withthe matter told Reuters on Thursday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-03-30T15:09:35+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-03-30T15:09:35+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Abdulla A.M. Al Habbai,Ahmad Abdullah Jumaa Bin Byat,Fadel al,Ali,Mohammed Abdullah al,Gergawi,Mohammed bin Rashid al,Maktoum,DUBAI HLDG,CEO/ (URGENT),Investment Banking and Investment Services (TRBC),Hotels and Entertainment Services (TRBC),Asia / Pacific,Middle East,Leisure and Recreation (TRBC),Cyclical Consumer Services (TRBC),Commodities Markets,Basic Materials (TRBC),Key Personnel Changes,Real Estate Development and Operations (TRBC),United Arab Emirates,Funds,Company News,India,Financials (TRBC),Financials (Legacy),Corporate Events,Economic Events,Real Estate (Legacy),Corporate Governance,Real Estate Operations (TRBC),Banking and Investment Services (TRBC),Real Estate (TRBC),Cyclical Consumer Goods and Services (TRBC),Real Estate Markets,Sovereign Wealth Funds,Emerging Market Countries,Industrial Machinery / Equipment (Legacy),Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Dubai holding CEO and vice chairman departed -sources"/>
-    <cse:Attribute name="twitter:description" value="The chief executive and vicechairman of Dubai Holding, the investment vehicle of theemirate&apos;s ruler, have left the company, sources familiar withthe matter told Reuters on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
