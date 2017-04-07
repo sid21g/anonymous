@@ -5,66 +5,90 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:17:58.868Z</updated>
+ <updated>1970-01-18T06:19:25.266Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>9100</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9300" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9300" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9300</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.435027</cse:searchTime>
-  <cse:formattedSearchTime>0.44</cse:formattedSearchTime>
-  <cse:totalResults>9100</cse:totalResults>
-  <cse:formattedTotalResults>9,100</cse:formattedTotalResults>
+  <cse:searchTime>0.42915</cse:searchTime>
+  <cse:formattedSearchTime>0.43</cse:formattedSearchTime>
+  <cse:totalResults>9300</cse:totalResults>
+  <cse:formattedTotalResults>9,300</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266</id>
-  <updated>1970-01-18T06:17:58.868Z</updated>
-  <title type="html">Blackwater Founder Repped Trump at Secret Meeting Overseas ...</title>
-  <link href="http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266" title="www.nbcnews.com"/>
-  <summary type="html">... Trump at a secret overseas meeting convened by the United Arab Emirates in &lt;br&gt;
-early January, two intelligence &lt;b&gt;sources familiar with&lt;/b&gt; the matter told NBC News.</summary>
-  <cse:cacheId>oFtdnM2hlgEJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.nbcnews.com/.../blackwater-founder-repped-trump-secret-meeting- overseas-sources-n742266</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-medtronic-m-a-cardinal-health-idUSKBN1772VH</id>
+  <updated>1970-01-18T06:19:25.266Z</updated>
+  <title type="html">Exclusive: Cardinal Health nears $6 billion deal for Medtronic unit ...</title>
+  <link href="http://www.reuters.com/article/us-medtronic-m-a-cardinal-health-idUSKBN1772VH" title="www.reuters.com"/>
+  <summary type="html">U.S. drug distributor Cardinal Health Inc (CAH.N) is nearing a deal to acquire &lt;br&gt;
+medical device maker Medtronic Plc&amp;#39;s (MDT.N) medical supplies business for &lt;br&gt;
+close&amp;nbsp;...</summary>
+  <cse:cacheId>wpV9d8QQXqkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-medtronic-m-a-cardinal-health-idUSKBN1772VH</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
-    <cse:Attribute name="og:site_name" value="NBC News"/>
-    <cse:Attribute name="og:description" value="One U.S. intelligence official said the meeting was with a Russian envoy."/>
-    <cse:Attribute name="og:title" value="Blackwater&apos;s founder represented Trump at secret meeting brokered by UAE"/>
-    <cse:Attribute name="og:url" value="http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsConsumerGoodsAndRetail;innovationNewsHealthcare;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;innovationAMD;everything;Deals;AllianzRetirement;AllianzInsurance;AllianzInvestments;Allianz;newsproHome;verizonmm;zurich;cfaglobal;aa48hours;shipping;ubs;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Cardinal+Health+nears+%246+billion+deal+for+Medtronic+unit+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="news_keywords" value="George S. Barrett;US;MEDTRONIC;M;A;CARDINAL;HEALTH;Medical Equipment : Supplies and Distribution (TRBC);Performance / Results / Earnings;Mergers / Acquisitions / Takeovers;Company News;Health / Medicine;Insurance (TRBC);Western Europe;Exclusive;Corporate Events;Divestitures / Spin;Offs;Drug Retailers (TRBC);Major News;Restructuring / Reorganization;Government Borrowing Requirement;Europe;Regulation;Healthcare (TRBC);United Kingdom;Generic and Specialty Pharmaceuticals (TRBC);United States"/>
+    <cse:Attribute name="revision_date" value="Wed Apr 05 21:47:52 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-05T21:47:52+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Cardinal Health nears $6 billion deal for Medtronic unit - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Cardinal Health nears $6 billion deal for Medtronic unit - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-medtronic-m-a-cardinal-health-idUSKBN1772VH"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="https://media4.s-nbcnews.com/j/newscms/2017_14/1953376/170304-erik-prince-blackwater-se-523p_82b772d017e07918662f1bc818b87dc5.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="NBCNews"/>
-    <cse:Attribute name="twitter:title" value="Blackwater&apos;s founder represented Trump at secret meeting brokered by UAE"/>
-    <cse:Attribute name="twitter:description" value="One U.S. intelligence official said the meeting was with a Russian envoy."/>
-    <cse:Attribute name="twitter:creator" value="NBCNews"/>
-    <cse:Attribute name="twitter:image" value="https://media4.s-nbcnews.com/j/newscms/2017_14/1953376/170304-erik-prince-blackwater-se-523p_82b772d017e07918662f1bc818b87dc5.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266"/>
-    <cse:Attribute name="news_keywords" value="News,U.S. news,Donald Trump,Investigations,National Security,Politics News,Vladimir Putin"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
-    <cse:Attribute name="dc.date.issued" value="2017-04-04"/>
-    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
+    <cse:Attribute name="og:description" value="U.S. drug distributor Cardinal Health Inc (CAH.N) is nearing a deal to acquire medical device maker Medtronic Plc&apos;s (MDT.N) medical supplies business for close to $6 billion, people familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-05T21:47:52+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-05T21:47:52+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="og:article:tag" value="George S. Barrett,US,MEDTRONIC,M,A,CARDINAL,HEALTH,Medical Equipment : Supplies and Distribution (TRBC),Performance / Results / Earnings,Mergers / Acquisitions / Takeovers,Company News,Health / Medicine,Insurance (TRBC),Western Europe,Exclusive,Corporate Events,Divestitures / Spin,Offs,Drug Retailers (TRBC),Major News,Restructuring / Reorganization,Government Borrowing Requirement,Europe,Regulation,Healthcare (TRBC),United Kingdom,Generic and Specialty Pharmaceuticals (TRBC),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Cardinal Health nears $6 billion deal for Medtronic unit - sources"/>
+    <cse:Attribute name="twitter:description" value="U.S. drug distributor Cardinal Health Inc (CAH.N) is nearing a deal to acquire medical device maker Medtronic Plc&apos;s (MDT.N) medical supplies business for close to $6 billion, people familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://media4.s-nbcnews.com/j/newscms/2017_14/1953376/170304-erik-prince-blackwater-se-523p_82b772d017e07918662f1bc818b87dc5.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm-xdloWQCYhl2ITqQ0BZsEc7slelp9KGRreQst94zZuP9CGUd4mWeRo42"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-staples-m-a-idUSKBN1761P6</id>
-  <updated>1970-01-18T06:17:58.868Z</updated>
+  <updated>1970-01-18T06:19:25.266Z</updated>
   <title type="html">Office supplies retailer Staples explores sale: sources | Reuters</title>
   <link href="http://www.reuters.com/article/us-staples-m-a-idUSKBN1761P6" title="www.reuters.com"/>
   <summary type="html">Staples Inc (SPLS.O) is in talks with private equity firms about a potential sale, &lt;br&gt;
@@ -117,82 +141,59 @@ early January, two intelligence &lt;b&gt;sources familiar with&lt;/b&gt; the mat
     <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170404&amp;t=2&amp;i=1179313648&amp;w=644&amp;fh=&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3315A"/>
+    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170404&amp;t=2&amp;i=1179313648&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3315A"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkGz5joIOcrhQ_VQxCYVqxiPYpntu6ZI-XyUfTvAPe2BnLHQOex5J3oq6"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR74Szv87dWzCqcaUrX96z2V7PwiSZW4uaPWFU13p2pqf6IOoIjKQpUk4I"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341</id>
-  <updated>1970-01-18T06:17:58.868Z</updated>
-  <title type="html">UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources</title>
-  <link href="http://www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341" title="www.reuters.com"/>
-  <summary type="html">Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk &lt;br&gt;
-issuance,&lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday.</summary>
-  <cse:cacheId>4Hstf0tzlzIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341</cse:formattedUrl>
+  <id>http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266</id>
+  <updated>1970-01-18T06:19:25.266Z</updated>
+  <title type="html">Blackwater Founder Repped Trump at Secret Meeting Overseas ...</title>
+  <link href="http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266" title="www.nbcnews.com"/>
+  <summary type="html">... Trump at a secret overseas meeting convened by the United Arab Emirates in &lt;br&gt;
+early January, two intelligence &lt;b&gt;sources familiar with&lt;/b&gt; the matter told NBC News.</summary>
+  <cse:cacheId>oFtdnM2hlgEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.nbcnews.com/.../blackwater-founder-repped-trump-secret-meeting- overseas-sources-n742266</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="vbcSmallBusiness;corporateResponsibility;SustainabilityGreen;SustainabilityCorporate;SustainabilitySocial;everything;Deals;ShellEnergy;AllianzInvestments;Allianz;audib2b;credit-rss;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-Saudi+Aramco+raises+%243+billion+with+debut+sukuk+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="ARAMCO;SUKUK/SIZE (UPDATE 1);Investment Banking and Investment Services (TRBC);Islamic Finance;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Credit and Corporate Debt;Corporate Events;Economic Events;Saudi Arabia;Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Asia / Pacific;Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Debt / Fixed Income Markets;Middle East;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Wed Apr 05 12:04:08 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-05T12:04:08+0000"/>
-    <cse:Attribute name="sailthru.title" value="UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
+    <cse:Attribute name="og:site_name" value="NBC News"/>
+    <cse:Attribute name="og:description" value="One U.S. intelligence official said the meeting was with a Russian envoy."/>
+    <cse:Attribute name="og:title" value="Blackwater&apos;s founder represented Trump at secret meeting brokered by UAE"/>
+    <cse:Attribute name="og:url" value="http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk issuance,sources familiar with the matter said on Wednesday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-05T12:04:08+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-05T12:04:08+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="ARAMCO,SUKUK/SIZE (UPDATE 1),Investment Banking and Investment Services (TRBC),Islamic Finance,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Credit and Corporate Debt,Corporate Events,Economic Events,Saudi Arabia,Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Asia / Pacific,Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Debt / Fixed Income Markets,Middle East,Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources"/>
-    <cse:Attribute name="twitter:description" value="Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk issuance,sources familiar with the matter said on Wednesday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
+    <cse:Attribute name="og:image" value="https://media4.s-nbcnews.com/j/newscms/2017_14/1953376/170304-erik-prince-blackwater-se-523p_82b772d017e07918662f1bc818b87dc5.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="NBCNews"/>
+    <cse:Attribute name="twitter:title" value="Blackwater&apos;s founder represented Trump at secret meeting brokered by UAE"/>
+    <cse:Attribute name="twitter:description" value="One U.S. intelligence official said the meeting was with a Russian envoy."/>
+    <cse:Attribute name="twitter:creator" value="NBCNews"/>
+    <cse:Attribute name="twitter:image" value="https://media4.s-nbcnews.com/j/newscms/2017_14/1953376/170304-erik-prince-blackwater-se-523p_82b772d017e07918662f1bc818b87dc5.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/news/us-news/blackwater-founder-repped-trump-secret-meeting-overseas-sources-n742266"/>
+    <cse:Attribute name="news_keywords" value="News,U.S. news,Donald Trump,Investigations,National Security,Politics News,Vladimir Putin"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
+    <cse:Attribute name="dc.date.issued" value="2017-04-04"/>
+    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="https://media4.s-nbcnews.com/j/newscms/2017_14/1953376/170304-erik-prince-blackwater-se-523p_82b772d017e07918662f1bc818b87dc5.nbcnews-fp-1200-800.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm-xdloWQCYhl2ITqQ0BZsEc7slelp9KGRreQst94zZuP9CGUd4mWeRo42"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-australia-china-idUSKBN1780JA</id>
-  <updated>1970-01-18T06:17:58.868Z</updated>
+  <updated>1970-01-18T06:19:25.266Z</updated>
   <title type="html">China blocks visit by Australian MPs because of rights criticism ...</title>
   <link href="http://www.reuters.com/article/us-australia-china-idUSKBN1780JA" title="www.reuters.com"/>
   <summary type="html">... after it took offense to a letter that called on it to address allegations of human &lt;br&gt;
@@ -257,7 +258,7 @@ right abuses, two &lt;b&gt;sources familiar with&lt;/b&gt; the planned tour told
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/aramco-sukuk-size-idUSD5N1FR009</id>
-  <updated>1970-01-18T06:17:58.868Z</updated>
+  <updated>1970-01-18T06:19:25.266Z</updated>
   <title type="html">Saudi Aramco raises $3 billion with debut local currency sukuk ...</title>
   <link href="http://www.reuters.com/article/aramco-sukuk-size-idUSD5N1FR009" title="www.reuters.com"/>
   <summary type="html">Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk &lt;br&gt;
@@ -320,70 +321,108 @@ issuance,&lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday.<
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources-2017-4</id>
-  <updated>1970-01-18T06:17:58.868Z</updated>
-  <title type="html">China may scrap divisive dam in Myanmar to advance other ...</title>
-  <link href="http://www.businessinsider.com/r-china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources-2017-4" title="www.businessinsider.com"/>
+  <id>https://www.usnews.com/news/world/articles/2017-04-05/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources</id>
+  <updated>1970-01-18T06:19:25.266Z</updated>
+  <title type="html">China May Scrap Divisive Dam in Myanmar to Advance Other ...</title>
+  <link href="https://www.usnews.com/news/world/articles/2017-04-05/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources" title="www.usnews.com"/>
   <summary type="html">China is also pushing for preferential access to the deep sea port of Kyauk Pyu &lt;br&gt;
 on the Bay of Bengal, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the government&amp;#39;s&amp;nbsp;...</summary>
-  <cse:cacheId>Fv4409gyW5MJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-china-may-scrap-divisive-dam-in-myanmar-to- advance-other-interests-sources-2017-4</cse:formattedUrl>
+  <cse:cacheId>eq2SbKgnemIJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.usnews.com/.../china-may-scrap-divisive-dam-in-myanmar-to- advance-other-interests-sources</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-04-05"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-05"/>
-    <cse:Attribute name="news_keywords" value="Reuters"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters"/>
-    <cse:Attribute name="sailthru.description" value="By Yimou Lee and Shwe Yee Saw MyintNAYPYITAW..."/>
-    <cse:Attribute name="title" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters World"/>
-    <cse:Attribute name="sailthru.title" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
-    <cse:Attribute name="tbi-image" value="http://static6.businessinsider.com/image/58e501c65124c9581ac13fe0/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.full" value="http://static6.businessinsider.com/image/58e501c65124c9581ac13fe0/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
-    <cse:Attribute name="sailthru.image.thumb" value="http://static3.businessinsider.com/image/58e501c65124c9581ac13fe0-50-50/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
-    <cse:Attribute name="og:title" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
-    <cse:Attribute name="og:description" value="By Yimou Lee and Shwe Yee Saw MyintNAYPYITAW..."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="site" value="news"/>
+    <cse:Attribute name="zone" value="world/articles"/>
+    <cse:Attribute name="keyword" value="World News"/>
+    <cse:Attribute name="page_type" value="article"/>
+    <cse:Attribute name="date_published" value="April 5, 2017"/>
+    <cse:Attribute name="title" value="China May Scrap Divisive Dam in Myanmar to Advance Other Interests: Sources"/>
+    <cse:Attribute name="og:title" value="China May Scrap Divisive Dam in Myanmar to Advance Other Interests: Sources"/>
+    <cse:Attribute name="og:image" value="https://www.usnews.com/cmsmedia/c0/7a7fa42203804eb5f4218fa8bc5d57/tag:reuters.com,2017:newsml_LYNXMPED340YN:12017-04-05T144115Z_1_LYNXMPED340YN_RTROPTP_3_CHINA-SILKROAD-MYANMAR-DAM.JPG"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources-2017-4"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources-2017-4"/>
-    <cse:Attribute name="twitter:title" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
-    <cse:Attribute name="twitter:description" value="By Yimou Lee and Shwe Yee Saw MyintNAYPYITAW..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="http://static6.businessinsider.com/image/58e501c65124c9581ac13fe0-506-253/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
-    <cse:Attribute name="og:image" value="http://static4.businessinsider.com/image/58e501c65124c9581ac13fe0-1190-625/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
-    <cse:Attribute name="url" value="China may scrap divisive dam in Myanmar to advance other interests: sources"/>
-    <cse:Attribute name="image" value="http://static6.businessinsider.com/image/58e501c65124c9581ac13fe0-506-253/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources.jpg"/>
-    <cse:Attribute name="description" value="By Yimou Lee and Shwe Yee Saw MyintNAYPYITAW..."/>
+    <cse:Attribute name="og:site_name" value="US News &amp; World Report"/>
+    <cse:Attribute name="og:url" value="https://www.usnews.com/news/world/articles/2017-04-05/china-may-scrap-divisive-dam-in-myanmar-to-advance-other-interests-sources"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@USNews"/>
+    <cse:Attribute name="twitter:title" value="China May Scrap Divisive Dam in Myanmar to Advance Other Interests: Sources"/>
+    <cse:Attribute name="msvalidate.01" value="A8E47FA91124063A4A9C78AD5273DC0F"/>
+    <cse:Attribute name="fb:app_id" value="130063997038366"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static1.businessinsider.com/image/58b5977301fe5847368b694d-400/these-9-skills-are-great-ones-to-have-on-your-rsum-right-now.jpg"/>
+    <cse:Attribute name="src" value="https://www.usnews.com/cmsmedia/c0/7a7fa42203804eb5f4218fa8bc5d57/tag:reuters.com,2017:newsml_LYNXMPED340YN:12017-04-05T144115Z_1_LYNXMPED340YN_RTROPTP_3_CHINA-SILKROAD-MYANMAR-DAM.JPG"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="259"/>
-    <cse:Attribute name="height" value="194"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xZ-otn_eAyA6U1ZZ0YG9Zfg8VzzNEpp4qxTj8KwDMrzWgyAGl5BjOVy4"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_d4u9IRtoqTjzHdtUiMZUXiIw14Zmz35Gz94EQwZOVHVsn7CdgvC06vQN"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-archer-daniels-argentina-idUSKBN1782OM</id>
+  <updated>1970-01-18T06:19:25.266Z</updated>
+  <title type="html">Exclusive: ADM revamps Argentine grains trading in global shake ...</title>
+  <link href="http://www.reuters.com/article/us-archer-daniels-argentina-idUSKBN1782OM" title="www.reuters.com"/>
+  <summary type="html">... in Argentina in a move that will include job losses as part of a wider shake-up &lt;br&gt;
+at the U.S. agribusiness group, three &lt;b&gt;sources familiar with&lt;/b&gt; the plans said this &lt;br&gt;
+week.</summary>
+  <cse:cacheId>FrmDIKCjd8oJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-archer-daniels-argentina-idUSKBN1782OM</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;americasDealsNews;americasPrivateEquityNews;ousivMolt;argentina;everything;Deals;ShellEnergy;AllianzInvestments;Allianz;newsproHome;davosBackup;cfaglobal;aa48hours;archery;shipping;nonegative;PorscheCayenne;Intel;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017;BigStory11;GCA-Commodities"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+ADM+revamps+Argentine+grains+trading+in+global+shake-up+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Hugh Bronstein and Jonathan Saul"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Hugh Bronstein and Jonathan Saul"/>
+    <cse:Attribute name="news_keywords" value="Argentina;United States;Vicente Lopez;US;ARCHER;DANIELS;ARGENTINA;Americas;Company News;South America / Central America;International Trade;Exclusive;Food Processing (TRBC);Corporate Events;Economic Events;Argentina;Soybean;Major News;Labour / Personnel;United States"/>
+    <cse:Attribute name="revision_date" value="Thu Apr 06 19:38:29 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Hugh Bronstein and Jonathan Saul"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-06T19:38:29+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: ADM revamps Argentine grains trading in global shake-up - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: ADM revamps Argentine grains trading in global shake-up - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-archer-daniels-argentina-idUSKBN1782OM"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Archer Daniels Midland Co (ADM.N) is restructuring its operations in Argentina in a move that will include job losses as part of a wider shake-up at the U.S. agribusiness group, three sources familiar with the plans said this week."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179648874&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED351G9"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-06T19:38:29+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-06T19:38:29+0000"/>
+    <cse:Attribute name="og:article:author" value="Hugh Bronstein and Jonathan Saul"/>
+    <cse:Attribute name="og:article:tag" value="Argentina,United States,Vicente Lopez,US,ARCHER,DANIELS,ARGENTINA,Americas,Company News,South America / Central America,International Trade,Exclusive,Food Processing (TRBC),Corporate Events,Economic Events,Argentina,Soybean,Major News,Labour / Personnel,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: ADM revamps Argentine grains trading in global shake-up - sources"/>
+    <cse:Attribute name="twitter:description" value="Archer Daniels Midland Co (ADM.N) is restructuring its operations in Argentina in a move that will include job losses as part of a wider shake-up at the U.S. agribusiness group, three sources familiar with the plans said this week."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179648874&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED351G9"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179648874&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED351G9"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179648874&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED351G9"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="267"/>
+    <cse:Attribute name="height" value="188"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRYSGfYo0PUKPRXE1_vNtrVrq8phXJtQcFc4hWnNUkUICDYrTPLnguPtA"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.nbcnews.com/card/south-carolina-teen-zakaryia-abdin-accused-trying-join-isis-n741191</id>
-  <updated>1970-01-18T06:17:58.868Z</updated>
+  <updated>1970-01-18T06:19:25.266Z</updated>
   <title type="html">South Carolina Teen Nabbed at Airport Charged With Trying to Join ...</title>
   <link href="http://www.nbcnews.com/card/south-carolina-teen-zakaryia-abdin-accused-trying-join-isis-n741191" title="www.nbcnews.com"/>
   <summary type="html">The plan, according to court documents and &lt;b&gt;sources familiar with&lt;/b&gt; the case, was &lt;br&gt;
@@ -420,8 +459,72 @@ to use sniper fire to assassinate Pope Francis when he went to Philly in&amp;nbs
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341</id>
+  <updated>1970-01-18T06:19:25.266Z</updated>
+  <title type="html">UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources</title>
+  <link href="http://www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341" title="www.reuters.com"/>
+  <summary type="html">Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk &lt;br&gt;
+issuance,&lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday.</summary>
+  <cse:cacheId>4Hstf0tzlzIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="vbcSmallBusiness;corporateResponsibility;SustainabilityGreen;SustainabilityCorporate;SustainabilitySocial;everything;Deals;ShellEnergy;AllianzInvestments;Allianz;audib2b;credit-rss;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-Saudi+Aramco+raises+%243+billion+with+debut+sukuk+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="ARAMCO;SUKUK/SIZE (UPDATE 1);Investment Banking and Investment Services (TRBC);Islamic Finance;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Credit and Corporate Debt;Corporate Events;Economic Events;Saudi Arabia;Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Asia / Pacific;Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Debt / Fixed Income Markets;Middle East;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Apr 05 12:04:08 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-05T12:04:08+0000"/>
+    <cse:Attribute name="sailthru.title" value="UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/aramco-sukuk-size-idUSL5N1HD341"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk issuance,sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-05T12:04:08+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-05T12:04:08+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="ARAMCO,SUKUK/SIZE (UPDATE 1),Investment Banking and Investment Services (TRBC),Islamic Finance,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Credit and Corporate Debt,Corporate Events,Economic Events,Saudi Arabia,Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Asia / Pacific,Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Debt / Fixed Income Markets,Middle East,Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="UPDATE 1-Saudi Aramco raises $3 billion with debut sukuk - sources"/>
+    <cse:Attribute name="twitter:description" value="Saudi Aramco has raised 11.25billion riyals ($3.00 billion) in its debut sukuk issuance,sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1H001Y</id>
-  <updated>1970-01-18T06:17:58.868Z</updated>
+  <updated>1970-01-18T06:19:25.266Z</updated>
   <title type="html">Intesa postpones bid deadline for 2.5 bln euro bad loan sale - sources</title>
   <link href="http://www.reuters.com/article/intesa-sp-bad-loans-bids-idUSI6N1H001Y" title="www.reuters.com"/>
   <summary type="html">... to April 6 the deadline to submit the binding offers fora 2.5 billion-euro bad loan &lt;br&gt;
@@ -472,135 +575,6 @@ portfolio it has put up for sale,three &lt;b&gt;sources familiar with&lt;/b&gt; 
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
     <cse:Attribute name="wt.cg_s" value="Funds"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-china-oil-tax-idUSKBN1780PO</id>
-  <updated>1970-01-18T06:17:58.868Z</updated>
-  <title type="html">Traders cancel light cycle oil cargoes ahead of China tax: sources ...</title>
-  <link href="http://www.reuters.com/article/us-china-oil-tax-idUSKBN1780PO" title="www.reuters.com"/>
-  <summary type="html">... canceled for late April loading from South Korea ahead of the planned tax on &lt;br&gt;
-the refinery by-product, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Thursday.</summary>
-  <cse:cacheId>VWZw4w1a1acJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-china-oil-tax-idUSKBN1780PO</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Traders+cancel+light+cycle+oil+cargoes+ahead+of+China+tax%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Jessica Jaganathan"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Jessica Jaganathan"/>
-    <cse:Attribute name="news_keywords" value="China;Korea;South Korea;US;CHINA;OIL;TAX;Asia (Energy);Energy Markets;Gasoline;Crude Oil;South Korea;Energy (Legacy);Taxation;China (PRC);Heating Oil / Gasoil;Corporate Events;Economic Events;Oil and Gas Refining and Marketing (TRBC);Oil Refineries;Middle Distillates;Asia / Pacific;English;Energy (TRBC);Jet Fuel / Kerosene;Fuel Oil;Naphtha"/>
-    <cse:Attribute name="revision_date" value="Thu Apr 06 07:36:47 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Jessica Jaganathan"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-06T07:36:47+0000"/>
-    <cse:Attribute name="sailthru.title" value="Traders cancel light cycle oil cargoes ahead of China tax: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Traders cancel light cycle oil cargoes ahead of China tax: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-china-oil-tax-idUSKBN1780PO"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Traders are rushing to cancel loadings in North Asia of a range of oil products for sale to China, ahead of a planned Chinese consumption tax that will make the trade uneconomic."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179564532&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED350DS"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-06T07:36:47+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-06T07:36:47+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Jessica Jaganathan"/>
-    <cse:Attribute name="og:article:tag" value="China,Korea,South Korea,US,CHINA,OIL,TAX,Asia (Energy),Energy Markets,Gasoline,Crude Oil,South Korea,Energy (Legacy),Taxation,China (PRC),Heating Oil / Gasoil,Corporate Events,Economic Events,Oil and Gas Refining and Marketing (TRBC),Oil Refineries,Middle Distillates,Asia / Pacific,English,Energy (TRBC),Jet Fuel / Kerosene,Fuel Oil,Naphtha"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Traders cancel light cycle oil cargoes ahead of China tax: sources"/>
-    <cse:Attribute name="twitter:description" value="Traders are rushing to cancel loadings in North Asia of a range of oil products for sale to China, ahead of a planned Chinese consumption tax that will make the trade uneconomic."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179564532&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED350DS"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179564532&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED350DS"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179564532&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED350DS"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="184"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MA_-j9yOwSHB8NC_qyi2BM_wHzyJvg0tvQZ_bxRY0bHmEgmp54DqtvQ"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/moves-mashreqbank-idUSL5N1HB2FX</id>
-  <updated>1970-01-18T06:17:58.868Z</updated>
-  <title type="html">MOVES-Mashreq&amp;#39;s Iossifidis to become CEO of Noor Bank - sources ...</title>
-  <link href="http://www.reuters.com/article/moves-mashreqbank-idUSL5N1HB2FX" title="www.reuters.com"/>
-  <summary type="html">The head of corporate andinvestment banking at Dubai&amp;#39;s Mashreq is leaving &lt;br&gt;
-tobecome chief executive of Noor Bank, &lt;b&gt;sources familiar with&lt;/b&gt; thematter told &lt;br&gt;
-Reuters&amp;nbsp;...</summary>
-  <cse:cacheId>_Tlu8sOQm0cJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/moves-mashreqbank-idUSL5N1HB2FX</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="bondsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;bondsNews;marketsNews;rbssFinancialServicesAndRealEstateNews;rbssInvestmentServices;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="MOVES-Mashreq%27s+Iossifidis+to+become+CEO+of+Noor+Bank+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-bondsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United Arab Emirates;John Iossifidis;Nabeel Waheed;MOVES;MASHREQBANK/ (UPDATE 1);Investment Banking and Investment Services (TRBC);Credit and Corporate Debt;Corporate Debt;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Banking Services (TRBC);Banks (TRBC);Key Personnel Changes;United Arab Emirates;Funds;Company News;Financials (TRBC);Financials (Legacy);Central Banks / Central Bank Events;Corporate Events;Economic Events;Corporate Governance;Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Mon Apr 03 11:00:24 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-03T11:00:24+0000"/>
-    <cse:Attribute name="sailthru.title" value="MOVES-Mashreq&apos;s Iossifidis to become CEO of Noor Bank - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="MOVES-Mashreq&apos;s Iossifidis to become CEO of Noor Bank - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/moves-mashreqbank-idUSL5N1HB2FX"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The head of corporate andinvestment banking at Dubai&apos;s Mashreq is leaving tobecome chief executive of Noor Bank, sources familiar with thematter told Reuters on Monday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-03T11:00:24+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-03T11:00:24+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United Arab Emirates,John Iossifidis,Nabeel Waheed,MOVES,MASHREQBANK/ (UPDATE 1),Investment Banking and Investment Services (TRBC),Credit and Corporate Debt,Corporate Debt,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Banking Services (TRBC),Banks (TRBC),Key Personnel Changes,United Arab Emirates,Funds,Company News,Financials (TRBC),Financials (Legacy),Central Banks / Central Bank Events,Corporate Events,Economic Events,Corporate Governance,Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="MOVES-Mashreq&apos;s Iossifidis to become CEO of Noor Bank - sources"/>
-    <cse:Attribute name="twitter:description" value="The head of corporate andinvestment banking at Dubai&apos;s Mashreq is leaving tobecome chief executive of Noor Bank, sources familiar with thematter told Reuters on Monday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/bonds/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Bonds"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
