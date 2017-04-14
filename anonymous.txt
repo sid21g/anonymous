@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:27:15.955Z</updated>
+ <updated>1970-01-18T06:29:39.359Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6990" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6990" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>6990</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6430" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6430" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>6430</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.357033</cse:searchTime>
-  <cse:formattedSearchTime>0.36</cse:formattedSearchTime>
-  <cse:totalResults>6990</cse:totalResults>
-  <cse:formattedTotalResults>6,990</cse:formattedTotalResults>
+  <cse:searchTime>0.282096</cse:searchTime>
+  <cse:formattedSearchTime>0.28</cse:formattedSearchTime>
+  <cse:totalResults>6430</cse:totalResults>
+  <cse:formattedTotalResults>6,430</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-petronas-m-a-idUSKBN17C14A</id>
-  <updated>1970-01-18T06:27:15.955Z</updated>
+  <updated>1970-01-18T06:29:39.359Z</updated>
   <title type="html">Petronas seeks buyers for $1 bln offshore gas project stake: sources ...</title>
   <link href="http://www.reuters.com/article/us-petronas-m-a-idUSKBN17C14A" title="www.reuters.com"/>
   <summary type="html">... bidders including Royal Dutch Shell, ExxonMobil Corp, Thailand&amp;#39;s PTT &lt;br&gt;
@@ -60,7 +60,6 @@ said.</summary>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170410&amp;t=2&amp;i=1180070636&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED390MY"/>
     <cse:Attribute name="og:article:published_time" value="2017-04-10T11:27:49+0000"/>
     <cse:Attribute name="og:article:modified_time" value="2017-04-10T11:27:49+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
     <cse:Attribute name="og:article:author" value="Anshuman Daga and Henning Gloystein"/>
     <cse:Attribute name="og:article:tag" value="Malaysia,Prasanth Kakaraparthi,Vikas Halan,US,PETRONAS,M,A,Mergers / Acquisitions / Takeovers,Japan,Equity Investments,Oil and Gas Exploration and Production (TRBC),Oil and Gas Refining and Marketing (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Singapore,Major News,Government Borrowing Requirement,Middle East,Deals,United Kingdom,United States,Company News,Malaysia,Corporate Events,Integrated Oil and Gas (TRBC),Thailand,Europe,Natural Gas"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
@@ -70,11 +69,8 @@ said.</summary>
     <cse:Attribute name="twitter:description" value="Malaysia&apos;s Petronas has pitched an estimated $1 billion stake in a prized upstream local gas project to potential bidders including Royal Dutch Shell, ExxonMobil Corp, Thailand&apos;s PTT Exploration and Production and Japanese firms, sources familiar with the matter said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170410&amp;t=2&amp;i=1180070636&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED390MY"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170410&amp;t=2&amp;i=1180070636&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED390MY"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170410&amp;t=2&amp;i=1180070636&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED390MY"/>
@@ -88,7 +84,7 @@ said.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.nbcnews.com/politics/white-house/steve-bannon-appears-be-digging-against-storm-bad-press-n744196</id>
-  <updated>1970-01-18T06:27:15.955Z</updated>
+  <updated>1970-01-18T06:29:39.359Z</updated>
   <title type="html">Steve Bannon &amp;#39;Ain&amp;#39;t Going Anywhere&amp;#39; Despite Negative Press: Sources</title>
   <link href="http://www.nbcnews.com/politics/white-house/steve-bannon-appears-be-digging-against-storm-bad-press-n744196" title="www.nbcnews.com"/>
   <summary type="html">An embattled Steve Bannon appears to be digging in against a storm of bad &lt;br&gt;
@@ -129,58 +125,250 @@ the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/china-silkroad-myanmar-dam-idUSL3N1HD3M9</id>
-  <updated>1970-01-18T06:27:15.955Z</updated>
-  <title type="html">RPT-China may scrap divisive dam in Myanmar to advance other ...</title>
-  <link href="http://www.reuters.com/article/china-silkroad-myanmar-dam-idUSL3N1HD3M9" title="www.reuters.com"/>
-  <summary type="html">China is also pushing for preferential access to the deep sea port of Kyauk Pyu &lt;br&gt;
-on the Bay of Bengal, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the government&amp;#39;s&amp;nbsp;...</summary>
-  <cse:cacheId>iqxFLi0sn9EJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../china-silkroad-myanmar-dam-idUSL3N1HD3M9</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-reckitt-benc-grp-m-a-food-idUSKBN17F1FT</id>
+  <updated>1970-01-18T06:29:39.359Z</updated>
+  <title type="html">Reckitt working with Morgan Stanley on food business sale: sources ...</title>
+  <link href="http://www.reuters.com/article/us-reckitt-benc-grp-m-a-food-idUSKBN17F1FT" title="www.reuters.com"/>
+  <summary type="html">L) is working with Morgan Stanley (MS.N) on the sale of its food business, which &lt;br&gt;
+could fetch roughly $3 billion, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on&amp;nbsp;...</summary>
+  <cse:cacheId>4OVJC4GSHk8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-reckitt-benc-grp-m-a-food-idUSKBN17F1FT</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="utilitiesSector"/>
-    <cse:Attribute name="dcsext.channellist" value="rbssEnergyNews;rbssIndustryMaterialsUtilitiesNews;rbssUtilitiesElectric;corporateResponsibility;SustainabilityGreen;SustainabilitySocial;everything;Deals;china-labor;ShellEnergy;Hyundai;asia;marine;cfaglobal;aa48hours;shipping;dassaultuk;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;energySector;utilitiesSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="RPT-China+may+scrap+divisive+dam+in+Myanmar+to+advance+other+interests-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsConsumerGoodsAndRetail;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;newsproHome;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Reckitt+working+with+Morgan+Stanley+on+food+business+sale%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Martinne Geller and Pamela Barbaglia"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-utilitiesSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="China;Myanmar;United States;Aung San Suu Kyi;Htin Kyaw;Hua Chunying;Thaung Tun;Yee Saw Myint;CHINA;SILKROAD/MYANMAR;DAM (REPEAT;PIX;GRAPHIC);Energy Markets;Mergers / Acquisitions / Takeovers;Western Europe;Energy (Legacy);Exclusive;Renewable Energy Power Stations;Asia / Pacific;Coal;Major News;Renewable Energy;Deals;Hydroelectric Power Stations;Commodities Markets;Myanmar;Society / Social Issues;Utilities (TRBC);Diplomacy / Foreign Policy;Power Markets;China (PRC);Government / Politics;Corporate Events;Gas;fired Power Stations;Oil and Gas (TRBC);General News;Energy (TRBC);Electric Utilities (TRBC);Europe;ASEAN Countries;Natural Gas;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Wed Apr 05 23:00:00 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-05T23:00:00+0000"/>
-    <cse:Attribute name="sailthru.title" value="RPT-China may scrap divisive dam in Myanmar to advance other interests-sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="news_keywords" value="US;RECKITT;BENC;GRP;M;A;FOOD;Wealth Management;Mergers / Acquisitions / Takeovers;Funds;Household Products (TRBC);Company News;Western Europe;Arts / Culture / Entertainment;Food Processing (TRBC);Food and Beverages (TRBC);Corporate Events;Economic Events;Beverages (Legacy);Divestitures / Spin;Offs;Investment Banking and Brokerage Services (TRBC);Market Events;Government Borrowing Requirement;Europe;Food Processing (Legacy);United Kingdom;United States"/>
+    <cse:Attribute name="revision_date" value="Thu Apr 13 11:48:06 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-13T11:48:06+0000"/>
+    <cse:Attribute name="sailthru.title" value="Reckitt working with Morgan Stanley on food business sale: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="RPT-China may scrap divisive dam in Myanmar to advance other interests-sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/china-silkroad-myanmar-dam-idUSL3N1HD3M9"/>
+    <cse:Attribute name="og:title" value="Reckitt working with Morgan Stanley on food business sale: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-reckitt-benc-grp-m-a-food-idUSKBN17F1FT"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="(Repeats story first published late on Wednesday, no change totext)* $3.6 bln, 6,000 MW Myitsone project stalled since 2011* Myanmar likely"/>
+    <cse:Attribute name="og:description" value="British consumer goods group Reckitt Benckiser Group (RB.L) is working with Morgan Stanley (MS.N) on the sale of its food business, which could fetch roughly $3 billion, sources familiar with the matter told Reuters on Thursday."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-05T23:00:00+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-05T23:00:00+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="China,Myanmar,United States,Aung San Suu Kyi,Htin Kyaw,Hua Chunying,Thaung Tun,Yee Saw Myint,CHINA,SILKROAD/MYANMAR,DAM (REPEAT,PIX,GRAPHIC),Energy Markets,Mergers / Acquisitions / Takeovers,Western Europe,Energy (Legacy),Exclusive,Renewable Energy Power Stations,Asia / Pacific,Coal,Major News,Renewable Energy,Deals,Hydroelectric Power Stations,Commodities Markets,Myanmar,Society / Social Issues,Utilities (TRBC),Diplomacy / Foreign Policy,Power Markets,China (PRC),Government / Politics,Corporate Events,Gas,fired Power Stations,Oil and Gas (TRBC),General News,Energy (TRBC),Electric Utilities (TRBC),Europe,ASEAN Countries,Natural Gas,Emerging Market Countries"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-13T11:48:06+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-13T11:48:06+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Martinne Geller and Pamela Barbaglia"/>
+    <cse:Attribute name="og:article:tag" value="US,RECKITT,BENC,GRP,M,A,FOOD,Wealth Management,Mergers / Acquisitions / Takeovers,Funds,Household Products (TRBC),Company News,Western Europe,Arts / Culture / Entertainment,Food Processing (TRBC),Food and Beverages (TRBC),Corporate Events,Economic Events,Beverages (Legacy),Divestitures / Spin,Offs,Investment Banking and Brokerage Services (TRBC),Market Events,Government Borrowing Requirement,Europe,Food Processing (Legacy),United Kingdom,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="RPT-China may scrap divisive dam in Myanmar to advance other interests-sources"/>
-    <cse:Attribute name="twitter:description" value="(Repeats story first published late on Wednesday, no change totext)* $3.6 bln, 6,000 MW Myitsone project stalled since 2011* Myanmar likely"/>
+    <cse:Attribute name="twitter:title" value="Reckitt working with Morgan Stanley on food business sale: sources"/>
+    <cse:Attribute name="twitter:description" value="British consumer goods group Reckitt Benckiser Group (RB.L) is working with Morgan Stanley (MS.N) on the sale of its food business, which could fetch roughly $3 billion, sources familiar with the matter told Reuters on Thursday."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/utilities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-lightower-m-a-idUSKBN17F2J8</id>
+  <updated>1970-01-18T06:29:39.359Z</updated>
+  <title type="html">Lightower Fiber Networks explores sale: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-lightower-m-a-idUSKBN17F2J8" title="www.reuters.com"/>
+  <summary type="html">... owners hope will value the high-speed internet U.S. infrastructure company at &lt;br&gt;
+more than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>E1z2XW1FU6UJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-lightower-m-a-idUSKBN17F2J8</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="internetNews;innovationNews;innovationNewsEnergy;innovationNewsTechMediaTelco;innovationNewsIndustryMaterialsAndUtilities;americasDealsNews;americasPrivateEquityNews;vbcSmallBusiness;innovationAMD;everything;Deals;ShellEnergy;AllianzInvestments;Allianz;newsproHome;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;ubs;Intel;intelmicrosite;PFG;huawei;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Lightower+Fiber+Networks+explores+sale%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="news_keywords" value="United States;US;LIGHTOWER;M;A;Mergers / Acquisitions / Takeovers;Company News;Insurance (TRBC);Highways and Rail Tracks (TRBC);Exclusive;New Issues;Privatisations;Telecommunications Services (TRBC);Equity Financing;Communications Equipment (TRBC);Corporate Events;Corporate Debt;Oil and Gas Exploration and Production (TRBC);Divestitures / Spin;Offs;Science;Company Management Issues;Canada;Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Thu Apr 13 19:44:25 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-13T19:44:25+0000"/>
+    <cse:Attribute name="sailthru.title" value="Lightower Fiber Networks explores sale: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Lightower Fiber Networks explores sale: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-lightower-m-a-idUSKBN17F2J8"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Lightower Fiber Networks is exploring a sale that its private equity owners hope will value the high-speed internet U.S. infrastructure company at more than $7 billion, including debt, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-13T19:44:25+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-13T19:44:25+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="og:article:tag" value="United States,US,LIGHTOWER,M,A,Mergers / Acquisitions / Takeovers,Company News,Insurance (TRBC),Highways and Rail Tracks (TRBC),Exclusive,New Issues,Privatisations,Telecommunications Services (TRBC),Equity Financing,Communications Equipment (TRBC),Corporate Events,Corporate Debt,Oil and Gas Exploration and Production (TRBC),Divestitures / Spin,Offs,Science,Company Management Issues,Canada,Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Lightower Fiber Networks explores sale: sources"/>
+    <cse:Attribute name="twitter:description" value="Lightower Fiber Networks is exploring a sale that its private equity owners hope will value the high-speed internet U.S. infrastructure company at more than $7 billion, including debt, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-straight-path-m-a-at-t-idUSKBN17F2R9?il=0</id>
+  <updated>1970-01-18T06:29:39.359Z</updated>
+  <title type="html">Verizon considering topping AT&amp;amp;T&amp;#39;s bid for Straight Path: sources ...</title>
+  <link href="http://www.reuters.com/article/us-straight-path-m-a-at-t-idUSKBN17F2R9?il=0" title="www.reuters.com"/>
+  <summary type="html">... hope will value the high-speed internet U.S. infrastructure company at more &lt;br&gt;
+than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>1Gv2qAIpLiEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-straight-path-m-a-at-t-idUSKBN17F2R9?il=0</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;vbcSmallBusiness;innovationAMD;everything;Deals;AllianzInvestments;Allianz;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;shipping;PorscheCayenne;Intel;PFG;huawei;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Verizon+considering+topping+AT%26T%27s+bid+for+Straight+Path%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="news_keywords" value="United States;United States;US;STRAIGHT;PATH;M;A;AT;T;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Corporate Events;Technology (TRBC);Integrated Telecommunications Services (TRBC);Banking and Investment Services (TRBC);Major News;Government Borrowing Requirement;Europe;Technology / Media / Telecoms;United Kingdom;United States"/>
+    <cse:Attribute name="revision_date" value="Fri Apr 14 00:21:22 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-14T00:21:22+0000"/>
+    <cse:Attribute name="sailthru.title" value="Verizon considering topping AT&amp;T&apos;s bid for Straight Path: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Verizon considering topping AT&amp;T&apos;s bid for Straight Path: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-straight-path-m-a-at-t-idUSKBN17F2R9"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Verizon Communications Inc (VZ.N) is considering making a buyout offer for Straight Path Communications Inc (STRP.A) which would top AT&amp;T Inc&apos;s (T.N) $1.25 billion bid, people familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586470&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U7"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-14T00:21:22+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-14T00:21:22+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="og:article:tag" value="United States,United States,US,STRAIGHT,PATH,M,A,AT,T,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Corporate Events,Technology (TRBC),Integrated Telecommunications Services (TRBC),Banking and Investment Services (TRBC),Major News,Government Borrowing Requirement,Europe,Technology / Media / Telecoms,United Kingdom,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Verizon considering topping AT&amp;T&apos;s bid for Straight Path: sources"/>
+    <cse:Attribute name="twitter:description" value="Verizon Communications Inc (VZ.N) is considering making a buyout offer for Straight Path Communications Inc (STRP.A) which would top AT&amp;T Inc&apos;s (T.N) $1.25 billion bid, people familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586470&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U7"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586470&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U7"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586470&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U7"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5_vl1VCU__weLwXNCgrAbDK7EDOPf4413mUZS7qDNHGQfdiMBQO_uyv8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-chiltern-m-a-idUSKBN17F263</id>
+  <updated>1970-01-18T06:29:39.359Z</updated>
+  <title type="html">Clinical trials firm Chiltern up for sale: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-chiltern-m-a-idUSKBN17F263" title="www.reuters.com"/>
+  <summary type="html">... hope will value the high-speed internet U.S. infrastructure company at more &lt;br&gt;
+than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>JS20SkzxA18J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-chiltern-m-a-idUSKBN17F263</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;innovationAMD;everything;Deals;AllianzInvestments;Allianz;newsproHome;credit-rss;cfaglobal;aa48hours;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Clinical+trials+firm+Chiltern+up+for+sale%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="US;CHILTERN;M;A;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Clinical Medicine;Privatisations;Equity Financing;Corporate Events;Investment Banking and Brokerage Services (TRBC);Government Borrowing Requirement;Corporate Finance;Europe;Pharmaceuticals and Medical Research (TRBC);Drug and Device Development;Healthcare (TRBC);Deals;United Kingdom;Investment Management and Fund Operators (TRBC);United States"/>
+    <cse:Attribute name="revision_date" value="Thu Apr 13 16:36:26 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-13T16:36:26+0000"/>
+    <cse:Attribute name="sailthru.title" value="Clinical trials firm Chiltern up for sale: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Clinical trials firm Chiltern up for sale: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-chiltern-m-a-idUSKBN17F263"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Chiltern International Ltd, a privately held British drug research contractor, has hired investment bank Jefferies LLC to explore a sale that could value it at around $1.3 billion, including debt, according to people familiar with the matter."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-13T16:36:26+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-13T16:36:26+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="US,CHILTERN,M,A,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Clinical Medicine,Privatisations,Equity Financing,Corporate Events,Investment Banking and Brokerage Services (TRBC),Government Borrowing Requirement,Corporate Finance,Europe,Pharmaceuticals and Medical Research (TRBC),Drug and Device Development,Healthcare (TRBC),Deals,United Kingdom,Investment Management and Fund Operators (TRBC),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Clinical trials firm Chiltern up for sale: sources"/>
+    <cse:Attribute name="twitter:description" value="Chiltern International Ltd, a privately held British drug research contractor, has hired investment bank Jefferies LLC to explore a sale that could value it at around $1.3 billion, including debt, according to people familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -194,7 +382,7 @@ on the Bay of Bengal, according to two &lt;b&gt;sources familiar with&lt;/b&gt; 
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/germany-economy-forecast-idUSB4N1C4057</id>
-  <updated>1970-01-18T06:27:15.955Z</updated>
+  <updated>1970-01-18T06:29:39.359Z</updated>
   <title type="html">German GDP growth seen topping estimates in 2017, 2018 - sources</title>
   <link href="http://www.reuters.com/article/germany-economy-forecast-idUSB4N1C4057" title="www.reuters.com"/>
   <summary type="html">... growth to1.5 percent in 2017 from 1.4 percent, and to 1.8 percent in2018, &lt;br&gt;
@@ -258,69 +446,8 @@ Wednesday.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-archer-daniels-argentina-idUSKBN1782OM</id>
-  <updated>1970-01-18T06:27:15.955Z</updated>
-  <title type="html">Exclusive: ADM revamps Argentine grains trading in global shake ...</title>
-  <link href="http://www.reuters.com/article/us-archer-daniels-argentina-idUSKBN1782OM" title="www.reuters.com"/>
-  <summary type="html">... in Argentina in a move that will include job losses as part of a wider shake-up &lt;br&gt;
-at the U.S. agribusiness group, three &lt;b&gt;sources familiar with&lt;/b&gt; the plans said this &lt;br&gt;
-week.</summary>
-  <cse:cacheId>FrmDIKCjd8oJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-archer-daniels-argentina-idUSKBN1782OM</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;americasDealsNews;americasPrivateEquityNews;ousivMolt;argentina;everything;Deals;ShellEnergy;AllianzInvestments;Allianz;newsproHome;davosBackup;cfaglobal;aa48hours;archery;shipping;nonegative;PorscheCayenne;Intel;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+ADM+revamps+Argentine+grains+trading+in+global+shake-up+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Hugh Bronstein and Jonathan Saul"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Hugh Bronstein and Jonathan Saul"/>
-    <cse:Attribute name="news_keywords" value="Argentina;United States;Vicente Lopez;US;ARCHER;DANIELS;ARGENTINA;Americas;Company News;South America / Central America;International Trade;Exclusive;Food Processing (TRBC);Corporate Events;Economic Events;Argentina;Soybean;Major News;Labour / Personnel;United States"/>
-    <cse:Attribute name="revision_date" value="Thu Apr 06 19:38:29 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Hugh Bronstein and Jonathan Saul"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-06T19:38:29+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: ADM revamps Argentine grains trading in global shake-up - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: ADM revamps Argentine grains trading in global shake-up - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-archer-daniels-argentina-idUSKBN1782OM"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Archer Daniels Midland Co (ADM.N) is restructuring its operations in Argentina in a move that will include job losses as part of a wider shake-up at the U.S. agribusiness group, three sources familiar with the plans said this week."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179648874&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED351G9"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-06T19:38:29+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-06T19:38:29+0000"/>
-    <cse:Attribute name="og:article:author" value="Hugh Bronstein and Jonathan Saul"/>
-    <cse:Attribute name="og:article:tag" value="Argentina,United States,Vicente Lopez,US,ARCHER,DANIELS,ARGENTINA,Americas,Company News,South America / Central America,International Trade,Exclusive,Food Processing (TRBC),Corporate Events,Economic Events,Argentina,Soybean,Major News,Labour / Personnel,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: ADM revamps Argentine grains trading in global shake-up - sources"/>
-    <cse:Attribute name="twitter:description" value="Archer Daniels Midland Co (ADM.N) is restructuring its operations in Argentina in a move that will include job losses as part of a wider shake-up at the U.S. agribusiness group, three sources familiar with the plans said this week."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179648874&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED351G9"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179648874&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED351G9"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170406&amp;t=2&amp;i=1179648874&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED351G9"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="267"/>
-    <cse:Attribute name="height" value="188"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRYSGfYo0PUKPRXE1_vNtrVrq8phXJtQcFc4hWnNUkUICDYrTPLnguPtA"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/canada-marijuana-idUSL1N1HI15A</id>
-  <updated>1970-01-18T06:27:15.955Z</updated>
+  <updated>1970-01-18T06:29:39.359Z</updated>
   <title type="html">UPDATE 1-Canada to introduce legal marijuana legislation this ...</title>
   <link href="http://www.reuters.com/article/canada-marijuana-idUSL1N1HI15A" title="www.reuters.com"/>
   <summary type="html">The Canadian government willintroduce legislation this week to legalize &lt;br&gt;
@@ -383,8 +510,72 @@ marijuana forrecreational use, &lt;b&gt;sources familiar with&lt;/b&gt; the matt
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-ascend-learning-m-a-blackstone-group-idUSKBN17F2SE</id>
+  <updated>1970-01-18T06:29:39.359Z</updated>
+  <title type="html">Exclusive: Blackstone in advanced talks to buy Ascend Learning ...</title>
+  <link href="http://www.reuters.com/article/us-ascend-learning-m-a-blackstone-group-idUSKBN17F2SE" title="www.reuters.com"/>
+  <summary type="html">... hope will value the high-speed internet U.S. infrastructure company at more &lt;br&gt;
+than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>jqsDz98f3-kJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-ascend-learning-m-a-blackstone-group- idUSKBN17F2SE</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;vbcSmallBusiness;innovationAMD;SustainabilityGreen;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;PorscheCayenne;MBenz;ubs;Intel;PFG;huawei;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Blackstone+in+advanced+talks+to+buy+Ascend+Learning+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="news_keywords" value="United States;US;ASCEND;LEARNING;M;A;BLACKSTONE;GROUP;Mergers / Acquisitions / Takeovers;Company News;Software and IT Services (TRBC);Exclusive;Arts / Culture / Entertainment;Software (TRBC);Corporate Events;Investment Banking and Brokerage Services (TRBC);Major News;Corporate Finance;Education;Technology / Media / Telecoms;Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Thu Apr 13 22:48:59 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-13T22:48:59+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Blackstone in advanced talks to buy Ascend Learning - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Blackstone in advanced talks to buy Ascend Learning - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-ascend-learning-m-a-blackstone-group-idUSKBN17F2SE"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Private equity firm Blackstone Group LP (BX.N) is in advanced talks to acquire Ascend Learning LLC, a privately held U.S. maker of educational software, for more than $2 billion, including debt, according to people familiar with the matter."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U5"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-13T22:48:59+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-13T22:48:59+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="og:article:tag" value="United States,US,ASCEND,LEARNING,M,A,BLACKSTONE,GROUP,Mergers / Acquisitions / Takeovers,Company News,Software and IT Services (TRBC),Exclusive,Arts / Culture / Entertainment,Software (TRBC),Corporate Events,Investment Banking and Brokerage Services (TRBC),Major News,Corporate Finance,Education,Technology / Media / Telecoms,Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Blackstone in advanced talks to buy Ascend Learning - sources"/>
+    <cse:Attribute name="twitter:description" value="Private equity firm Blackstone Group LP (BX.N) is in advanced talks to acquire Ascend Learning LLC, a privately held U.S. maker of educational software, for more than $2 billion, including debt, according to people familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U5"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U5"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U5"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG-PoNh_vPRKch0bA88ItjrlclBB88MSmIKzcjPz6lqE8k_A7OqRa8XyQ"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/wells-fargo-accounts-examiner-idUSL1N1HF1RE</id>
-  <updated>1970-01-18T06:27:15.955Z</updated>
+  <updated>1970-01-18T06:29:39.359Z</updated>
   <title type="html">U.S. regulator removes top examiner for Wells Fargo -sources ...</title>
   <link href="http://www.reuters.com/article/wells-fargo-accounts-examiner-idUSL1N1HF1RE" title="www.reuters.com"/>
   <summary type="html">Wells Fargo&amp;#39;s board is expected to release a report on Monday detailing what &lt;br&gt;
@@ -432,195 +623,6 @@ went wrong at the fourth-largest U.S. bank, according to &lt;b&gt;sources famili
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-australia-china-idUSKBN1780JA</id>
-  <updated>1970-01-18T06:27:15.955Z</updated>
-  <title type="html">China blocks visit by Australian MPs because of rights criticism ...</title>
-  <link href="http://www.reuters.com/article/us-australia-china-idUSKBN1780JA" title="www.reuters.com"/>
-  <summary type="html">... after it took offense to a letter that called on it to address allegations of human &lt;br&gt;
-right abuses, two &lt;b&gt;sources familiar with&lt;/b&gt; the planned tour told Reuters on Thursday&lt;br&gt;
-.</summary>
-  <cse:cacheId>CqlTdRxJk0kJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-australia-china-idUSKBN1780JA</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="worldNews;newsMaps;china;innovationAMD;australia;everything;china-labor;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;asia;newsproHome;verizonmm;cfaglobal;aa48hours;shipping;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="China+blocks+visit+by+Australian+MPs+because+of+rights+criticism%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Colin Packham"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
-    <cse:Attribute name="author" value="Colin Packham"/>
-    <cse:Attribute name="news_keywords" value="Australia;Canada;China;Japan;Julie Bishop;Li Keqiang;Xi Jinping;US;AUSTRALIA;CHINA;Crime / Law / Justice;Drug Trafficking / Narcotics;Diplomacy / Foreign Policy;China (PRC);Crime;Fundamental Rights / Civil Liberties;Asia / Pacific;Australia;Major News;Human Rights / Civil Rights;United States"/>
-    <cse:Attribute name="revision_date" value="Thu Apr 06 06:25:52 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Colin Packham"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-06T06:25:52+0000"/>
-    <cse:Attribute name="sailthru.title" value="China blocks visit by Australian MPs because of rights criticism: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="China blocks visit by Australian MPs because of rights criticism: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-australia-china-idUSKBN1780JA"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="China called off a visit by two Australian politicians after it took offense to a letter that called on it to address allegations of human right abuses, two sources familiar with the planned tour told Reuters on Thursday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-06T06:25:52+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-06T06:25:52+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
-    <cse:Attribute name="og:article:author" value="Colin Packham"/>
-    <cse:Attribute name="og:article:tag" value="Australia,Canada,China,Japan,Julie Bishop,Li Keqiang,Xi Jinping,US,AUSTRALIA,CHINA,Crime / Law / Justice,Drug Trafficking / Narcotics,Diplomacy / Foreign Policy,China (PRC),Crime,Fundamental Rights / Civil Liberties,Asia / Pacific,Australia,Major News,Human Rights / Civil Rights,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="China blocks visit by Australian MPs because of rights criticism: sources"/>
-    <cse:Attribute name="twitter:description" value="China called off a visit by two Australian politicians after it took offense to a letter that called on it to address allegations of human right abuses, two sources familiar with the planned tour told Reuters on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B</id>
-  <updated>1970-01-18T06:27:15.955Z</updated>
-  <title type="html">Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources ...</title>
-  <link href="http://www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B" title="www.reuters.com"/>
-  <summary type="html">... planned debut international sukuk at $8 billion, split equally between a five-&lt;br&gt;
-year and a 10-year tranche, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday.</summary>
-  <cse:cacheId>6aiggwrL4HYJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Arabia+sets+size+of+debut+dollar+sukuk+at+%248+billion+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Saudi Arabia;SAUDI;SUKUK/PRICES (URGENT);Investment Banking and Investment Services (TRBC);Islamic Finance;Terms / Conditions;Credit and Corporate Debt;Saudi Arabia;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Company News;Government Finances;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Government / Politics;Corporate Events;Economic Events;General News;Investment Banking and Brokerage Services (TRBC);National Government Debt;Market Events;Banking and Investment Services (TRBC);Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Wed Apr 12 12:58:17 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-12T12:58:17+0000"/>
-    <cse:Attribute name="sailthru.title" value="Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Saudi Arabia has set the finalsize of its planned debut international sukuk at $8 billion,split equally between a five-year and a 10-year tranche, sourcesfamiliar with the matter said on Wednesday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-12T12:58:17+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-12T12:58:17+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Saudi Arabia,SAUDI,SUKUK/PRICES (URGENT),Investment Banking and Investment Services (TRBC),Islamic Finance,Terms / Conditions,Credit and Corporate Debt,Saudi Arabia,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Company News,Government Finances,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Government / Politics,Corporate Events,Economic Events,General News,Investment Banking and Brokerage Services (TRBC),National Government Debt,Market Events,Banking and Investment Services (TRBC),Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources"/>
-    <cse:Attribute name="twitter:description" value="Saudi Arabia has set the finalsize of its planned debut international sukuk at $8 billion,split equally between a five-year and a 10-year tranche, sourcesfamiliar with the matter said on Wednesday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/canada-conocophillips-surmont-idUSL2N1HE1CG</id>
-  <updated>1970-01-18T06:27:15.955Z</updated>
-  <title type="html">Nexen joins ConocoPhillips in cutting oil sands output: sources ...</title>
-  <link href="http://www.reuters.com/article/canada-conocophillips-surmont-idUSL2N1HE1CG" title="www.reuters.com"/>
-  <summary type="html">... Argentina in a move that will include job losses as part of a wider shake-up at &lt;br&gt;
-the U.S. agribusiness group, three &lt;b&gt;sources familiar with&lt;/b&gt; the plans said this week.</summary>
-  <cse:cacheId>V39EfQPNScMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../canada-conocophillips-surmont-idUSL2N1HE1CG</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="everything;Deals;AllianzInvestments;Allianz;cfaglobal;shipping;nonegative;dassaultuk;greenpeace;ubs;Intel;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;MOC_US_2017;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Nexen+joins+ConocoPhillips+in+cutting+oil+sands+output%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Nia Williams and Catherine Ngai"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Nia Williams and Catherine Ngai"/>
-    <cse:Attribute name="news_keywords" value="Canada;United States;Brittney Price;Michelle McCullagh;US;CANADA;CONOCOPHILLIPS;SURMONT;Energy Markets;Hong Kong;Western Europe;Crude Oil;Energy (Legacy);Heating Oil / Gasoil;France;Pipelines;Oil and Gas Exploration and Production (TRBC);Oil and Gas Refining and Marketing (TRBC);Government Borrowing Requirement;United Kingdom;Canada;United States;Gasoline;Company News;Corporate Events;Integrated Oil and Gas (TRBC);Oil Refineries;Production Status Changes;English;Energy (TRBC);Europe;Transportation Markets / Transportation;Reports"/>
-    <cse:Attribute name="revision_date" value="Thu Apr 06 22:02:01 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Nia Williams and Catherine Ngai"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-06T22:02:01+0000"/>
-    <cse:Attribute name="sailthru.title" value="Nexen joins ConocoPhillips in cutting oil sands output: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Nexen joins ConocoPhillips in cutting oil sands output: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-canada-conocophillips-surmont-idUSKBN1782N7"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Two oil sands producers in northern Alberta have cut production at their facilities due to a shortage of synthetic crude, market sources said on Thursday, causing Canadian and U.S. crude prices to surge to multi-year highs."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-06T22:02:01+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-06T22:02:01+0000"/>
-    <cse:Attribute name="og:article:author" value="Nia Williams and Catherine Ngai"/>
-    <cse:Attribute name="og:article:tag" value="Canada,United States,Brittney Price,Michelle McCullagh,US,CANADA,CONOCOPHILLIPS,SURMONT,Energy Markets,Hong Kong,Western Europe,Crude Oil,Energy (Legacy),Heating Oil / Gasoil,France,Pipelines,Oil and Gas Exploration and Production (TRBC),Oil and Gas Refining and Marketing (TRBC),Government Borrowing Requirement,United Kingdom,Canada,United States,Gasoline,Company News,Corporate Events,Integrated Oil and Gas (TRBC),Oil Refineries,Production Status Changes,English,Energy (TRBC),Europe,Transportation Markets / Transportation,Reports"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Nexen joins ConocoPhillips in cutting oil sands output: sources"/>
-    <cse:Attribute name="twitter:description" value="Two oil sands producers in northern Alberta have cut production at their facilities due to a shortage of synthetic crude, market sources said on Thursday, causing Canadian and U.S. crude prices to surge to multi-year highs."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
