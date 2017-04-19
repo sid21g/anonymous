@@ -5,128 +5,179 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:29:39.359Z</updated>
+ <updated>1970-01-18T06:36:40.315Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6430" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6430" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>6430</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="5400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="5400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>5400</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.282096</cse:searchTime>
-  <cse:formattedSearchTime>0.28</cse:formattedSearchTime>
-  <cse:totalResults>6430</cse:totalResults>
-  <cse:formattedTotalResults>6,430</cse:formattedTotalResults>
+  <cse:searchTime>0.313124</cse:searchTime>
+  <cse:formattedSearchTime>0.31</cse:formattedSearchTime>
+  <cse:totalResults>5400</cse:totalResults>
+  <cse:formattedTotalResults>5,400</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-petronas-m-a-idUSKBN17C14A</id>
-  <updated>1970-01-18T06:29:39.359Z</updated>
-  <title type="html">Petronas seeks buyers for $1 bln offshore gas project stake: sources ...</title>
-  <link href="http://www.reuters.com/article/us-petronas-m-a-idUSKBN17C14A" title="www.reuters.com"/>
-  <summary type="html">... bidders including Royal Dutch Shell, ExxonMobil Corp, Thailand&amp;#39;s PTT &lt;br&gt;
-Exploration and Production and Japanese firms, &lt;b&gt;sources familiar with&lt;/b&gt; the matter &lt;br&gt;
-said.</summary>
-  <cse:cacheId>pcVYlWAvrdQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-petronas-m-a-idUSKBN17C14A</cse:formattedUrl>
+  <id>https://www.wsj.com/articles/wells-fargo-board-faces-high-stakes-vote-1492254001</id>
+  <updated>1970-01-18T06:36:40.315Z</updated>
+  <title type="html">Wells Fargo Board Faces High-Stakes Vote - WSJ</title>
+  <link href="https://www.wsj.com/articles/wells-fargo-board-faces-high-stakes-vote-1492254001" title="www.wsj.com"/>
+  <summary type="html">Wells Fargo faces something few other big banks have dealt with since the &lt;br&gt;
+financial crisis: a serious effort to vote out most of its directors.</summary>
+  <cse:formattedUrl type="html">https://www.wsj.com/.../wells-fargo-board-faces-high-stakes-vote- 1492254001</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsEnergy;americasDealsNews;americasPrivateEquityNews;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;corporateResponsibility;innovationAMD;SustainabilityGreen;SustainabilityCorporate;SustainabilitySocial;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Hyundai;Allianz;malaysia;asia;newsproHome;verizonmm;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;MBenz;ubs;Intel;PFG;huawei;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;BigStory11;GCA-Commodities"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Petronas+seeks+buyers+for+%241+bln+offshore+gas+project+stake%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Anshuman Daga and Henning Gloystein"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Anshuman Daga and Henning Gloystein"/>
-    <cse:Attribute name="news_keywords" value="Malaysia;Prasanth Kakaraparthi;Vikas Halan;US;PETRONAS;M;A;Mergers / Acquisitions / Takeovers;Japan;Equity Investments;Oil and Gas Exploration and Production (TRBC);Oil and Gas Refining and Marketing (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Singapore;Major News;Government Borrowing Requirement;Middle East;Deals;United Kingdom;United States;Company News;Malaysia;Corporate Events;Integrated Oil and Gas (TRBC);Thailand;Europe;Natural Gas"/>
-    <cse:Attribute name="revision_date" value="Mon Apr 10 11:27:49 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Anshuman Daga and Henning Gloystein"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-10T11:27:49+0000"/>
-    <cse:Attribute name="sailthru.title" value="Petronas seeks buyers for $1 bln offshore gas project stake: sources"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="dj.asn" value="i-02c7"/>
+    <cse:Attribute name="user.type" value="nonsubscriber"/>
+    <cse:Attribute name="user.exp" value="default"/>
+    <cse:Attribute name="testkeys" value="C"/>
+    <cse:Attribute name="page.section" value="Article"/>
+    <cse:Attribute name="page.content.type" value="Article"/>
+    <cse:Attribute name="page.content.format" value="responsive"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="page.content.source" value="PRO,WSJ-PRO-FR,WSJ-PRO-WSJ.com"/>
+    <cse:Attribute name="article.template" value="snippet"/>
+    <cse:Attribute name="page.site" value="wsj"/>
+    <cse:Attribute name="page.site.product" value="WSJ"/>
+    <cse:Attribute name="page.region" value="na,us"/>
+    <cse:Attribute name="article.id" value="SB11904716150883304366204583085432455179760"/>
+    <cse:Attribute name="article.type" value="Markets Main"/>
+    <cse:Attribute name="article.access" value="paid"/>
+    <cse:Attribute name="article.origheadline" value="Wells Fargo Board Faces High-Stakes Vote"/>
+    <cse:Attribute name="article.headline" value="Wells Fargo board faces high-stakes vote"/>
+    <cse:Attribute name="article.summary" value="Wells Fargo faces something few other big banks have dealt with since the financial crisis: a serious effort to vote out most of its directors."/>
+    <cse:Attribute name="article.page" value="Markets"/>
+    <cse:Attribute name="article.section" value="Markets"/>
+    <cse:Attribute name="article.published" value="2017-04-17T00:51:00.000Z"/>
+    <cse:Attribute name="article.updated" value="2017-04-17T00:51:00.000Z"/>
+    <cse:Attribute name="article.created" value="2017-04-15T11:00:00.000Z"/>
+    <cse:Attribute name="author" value="Emily Glazer and Joann S. Lublin"/>
+    <cse:Attribute name="cxenseparse:wsj-keywords" value="glass lewis,iss,john stumpf,proxy advisory firms,stephen sanger,timothy sloan,tim sloan,wells fargo,wells fargo annual meeting,wells fargo board election,wells fargo board vote,wells fargo chairman stephen sanger,Wells Fargo,WFC,WFCL,institutional Shareholder Services,John Stumpf,Stephen Sanger,Timothy Sloan,Scott M. Stringer,annual meetings,management,board of directors,corporate,industrial news,corporate governance,printing,publishing,database,directory publishing,banking,commercial banking,credit,financial services,media,entertainment"/>
+    <cse:Attribute name="news_keywords" value="glass lewis,iss,john stumpf,proxy advisory firms,stephen sanger,timothy sloan,tim sloan,wells fargo,wells fargo annual meeting,wells fargo board election"/>
+    <cse:Attribute name="article:word_count" value="901"/>
+    <cse:Attribute name="article:image_count" value="2"/>
+    <cse:Attribute name="article:internal_link_count" value="8"/>
+    <cse:Attribute name="cxenseparse:wsj-primary-inset" value="image"/>
+    <cse:Attribute name="hdl_p" value="Key Vote Tests Wells Fargo’s Directors"/>
+    <cse:Attribute name="language" value="en-US"/>
+    <cse:Attribute name="twitter:title" value="Wells Fargo Board Faces High-Stakes Vote"/>
+    <cse:Attribute name="twitter:description" value="Wells Fargo faces something few other big banks have dealt with since the financial crisis: a serious effort to vote out most of its directors."/>
+    <cse:Attribute name="twitter:image" value="https://si.wsj.net/public/resources/images/BN-SY899_3097l_TOP_20170414192848.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image:alt" value="Wells Fargo board faces high-stakes vote"/>
+    <cse:Attribute name="twitter:creator" value="@EmilyGlazerWSJ"/>
+    <cse:Attribute name="twitter:site" value="@WSJ"/>
+    <cse:Attribute name="twitter:domain" value="wsj.com"/>
+    <cse:Attribute name="fb:app_id" value="368513495882"/>
+    <cse:Attribute name="og:title" value="Wells Fargo Board Faces High-Stakes Vote"/>
+    <cse:Attribute name="og:description" value="Wells Fargo faces something few other big banks have dealt with since the financial crisis: a serious effort to vote out most of its directors."/>
+    <cse:Attribute name="og:url" value="https://www.wsj.com/articles/wells-fargo-board-faces-high-stakes-vote-1492254001"/>
+    <cse:Attribute name="og:image" value="https://si.wsj.net/public/resources/images/BN-SY899_3097l_TOP_20170414192848.jpg"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Petronas seeks buyers for $1 bln offshore gas project stake: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-petronas-m-a-idUSKBN17C14A"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Malaysia&apos;s Petronas has pitched an estimated $1 billion stake in a prized upstream local gas project to potential bidders including Royal Dutch Shell, ExxonMobil Corp, Thailand&apos;s PTT Exploration and Production and Japanese firms, sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170410&amp;t=2&amp;i=1180070636&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED390MY"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-10T11:27:49+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-10T11:27:49+0000"/>
-    <cse:Attribute name="og:article:author" value="Anshuman Daga and Henning Gloystein"/>
-    <cse:Attribute name="og:article:tag" value="Malaysia,Prasanth Kakaraparthi,Vikas Halan,US,PETRONAS,M,A,Mergers / Acquisitions / Takeovers,Japan,Equity Investments,Oil and Gas Exploration and Production (TRBC),Oil and Gas Refining and Marketing (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Singapore,Major News,Government Borrowing Requirement,Middle East,Deals,United Kingdom,United States,Company News,Malaysia,Corporate Events,Integrated Oil and Gas (TRBC),Thailand,Europe,Natural Gas"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Petronas seeks buyers for $1 bln offshore gas project stake: sources"/>
-    <cse:Attribute name="twitter:description" value="Malaysia&apos;s Petronas has pitched an estimated $1 billion stake in a prized upstream local gas project to potential bidders including Royal Dutch Shell, ExxonMobil Corp, Thailand&apos;s PTT Exploration and Production and Japanese firms, sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170410&amp;t=2&amp;i=1180070636&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED390MY"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170410&amp;t=2&amp;i=1180070636&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED390MY"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="og:site_name" value="WSJ"/>
+   </cse:DataObject>
+   <cse:DataObject type="webpage">
+    <cse:Attribute name="datepublished" value="2017-04-17T00:51:00.000Z"/>
+    <cse:Attribute name="datemodified" value="2017-04-17T00:51:00.000Z"/>
+    <cse:Attribute name="datecreated" value="2017-04-15T11:00:00.000Z"/>
+    <cse:Attribute name="description" value="Wells Fargo faces something few other big banks have dealt with since the financial crisis: a serious effort to vote out most of its directors."/>
+    <cse:Attribute name="alternativeheadline" value="Key Vote Tests Wells Fargo’s Directors"/>
+    <cse:Attribute name="inlanguage" value="en-US"/>
+    <cse:Attribute name="image" value="https://si.wsj.net/public/resources/images/BN-SY899_3097l_TOP_20170414192848.jpg"/>
+    <cse:Attribute name="publisher" value="wsj.com"/>
+    <cse:Attribute name="headline" value="Wells Fargo Board Faces High-Stakes Vote"/>
+   </cse:DataObject>
+   <cse:DataObject type="listitem">
+    <cse:Attribute name="item" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Emily Glazer"/>
+    <cse:Attribute name="url" value="Emily Glazer"/>
+    <cse:Attribute name="email" value="Emily.Glazer@wsj.com"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Joann S. Lublin"/>
+    <cse:Attribute name="url" value="Joann S. Lublin"/>
+    <cse:Attribute name="email" value="Joann.Lublin@wsj.com"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041717opinioncra/041717opinioncra_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041717luncharconic/041717luncharconic_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170412/041217ptech3/041217ptech3_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170302/030217mansionsuyama2/030217mansionsuyama2_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170412/041217thelostcityofz1/041217thelostcityofz1_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SW279_CCBACH_C_20170407122901.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ049_UNITED_C_20170416184827.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ690_HIB041_C_20170417192158.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ460_327YK_C_20170417125834.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ260_2cDgM_C_20170417012310.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041717facebookmurder/041717facebookmurder_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170414/041417luxsuv/041417luxsuv_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170418/041817ukmay2/041817ukmay2_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041817ptech2/041817ptech2_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041317cnewcity/041317cnewcity_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SW279_CCBACH_C_20170407122901.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ049_UNITED_C_20170416184827.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ690_HIB041_C_20170417192158.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ460_327YK_C_20170417125834.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ260_2cDgM_C_20170417012310.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170410&amp;t=2&amp;i=1180070636&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED390MY"/>
+    <cse:Attribute name="src" value="https://si.wsj.net/public/resources/images/BN-SY899_3097l_TOP_20170414192848.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="268"/>
-    <cse:Attribute name="height" value="188"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRigN_sXVh4MA13vZX_7mWsZ8OojlHAkU5IhEkJN6sr4WDj_f-326s47oSx"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.nbcnews.com/politics/white-house/steve-bannon-appears-be-digging-against-storm-bad-press-n744196</id>
-  <updated>1970-01-18T06:29:39.359Z</updated>
-  <title type="html">Steve Bannon &amp;#39;Ain&amp;#39;t Going Anywhere&amp;#39; Despite Negative Press: Sources</title>
-  <link href="http://www.nbcnews.com/politics/white-house/steve-bannon-appears-be-digging-against-storm-bad-press-n744196" title="www.nbcnews.com"/>
-  <summary type="html">An embattled Steve Bannon appears to be digging in against a storm of bad &lt;br&gt;
-press suggesting he&amp;#39;s on his way out, &lt;b&gt;sources familiar with&lt;/b&gt; the inner workings of &lt;br&gt;
-the&amp;nbsp;...</summary>
-  <cse:cacheId>fqc-lAYu6RAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.nbcnews.com/.../steve-bannon-appears-be-digging-against-storm-bad- press-n744196</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
-    <cse:Attribute name="og:site_name" value="NBC News"/>
-    <cse:Attribute name="og:description" value="A source said Bannon&apos;s message was this: &apos;Democrats will never run the White House&apos; — a comment apparently referring to Jared Kushner and Gary Cohn."/>
-    <cse:Attribute name="og:title" value="Steve Bannon &quot;ain&apos;t going anywhere,&quot; despite storm of bad press"/>
-    <cse:Attribute name="og:url" value="http://www.nbcnews.com/politics/white-house/steve-bannon-appears-be-digging-against-storm-bad-press-n744196"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="https://media2.s-nbcnews.com/j/newscms/2017_14/1958951/170804-bannon-kushner-259p-rs_87bd00af01a36b65a2634e3639fda7f9.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="NBCNews"/>
-    <cse:Attribute name="twitter:title" value="Steve Bannon &quot;ain&apos;t going anywhere,&quot; despite storm of bad press"/>
-    <cse:Attribute name="twitter:description" value="A source said Bannon&apos;s message was this: &apos;Democrats will never run the White House&apos; — a comment apparently referring to Jared Kushner and Gary Cohn."/>
-    <cse:Attribute name="twitter:creator" value="NBCNews"/>
-    <cse:Attribute name="twitter:image" value="https://media2.s-nbcnews.com/j/newscms/2017_14/1958951/170804-bannon-kushner-259p-rs_87bd00af01a36b65a2634e3639fda7f9.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/politics/white-house/steve-bannon-appears-be-digging-against-storm-bad-press-n744196"/>
-    <cse:Attribute name="news_keywords" value="Politics,White House,Donald Trump,Politics News,U.S. news"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
-    <cse:Attribute name="dc.date.issued" value="2017-04-09"/>
-    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://media2.s-nbcnews.com/j/newscms/2017_14/1958951/170804-bannon-kushner-259p-rs_87bd00af01a36b65a2634e3639fda7f9.nbcnews-fp-1200-800.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp8hHDgz3WGEaz_Y6gWAwnYI8e2iYpLCM7t-sX-GUOwsXqGJNsnlTzDyU"/>
+    <cse:Attribute name="width" value="318"/>
+    <cse:Attribute name="height" value="159"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19mdQbjD7bV2W54EsedCOZSl-GxzTGvn7saSzdp-AdU612ZecSGyLj4o"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-reckitt-benc-grp-m-a-food-idUSKBN17F1FT</id>
-  <updated>1970-01-18T06:29:39.359Z</updated>
+  <updated>1970-01-18T06:36:40.315Z</updated>
   <title type="html">Reckitt working with Morgan Stanley on food business sale: sources ...</title>
   <link href="http://www.reuters.com/article/us-reckitt-benc-grp-m-a-food-idUSKBN17F1FT" title="www.reuters.com"/>
   <summary type="html">L) is working with Morgan Stanley (MS.N) on the sale of its food business, which &lt;br&gt;
@@ -190,7 +241,7 @@ could fetch roughly $3 billion, &lt;b&gt;sources familiar with&lt;/b&gt; the mat
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-lightower-m-a-idUSKBN17F2J8</id>
-  <updated>1970-01-18T06:29:39.359Z</updated>
+  <updated>1970-01-18T06:36:40.315Z</updated>
   <title type="html">Lightower Fiber Networks explores sale: sources | Reuters</title>
   <link href="http://www.reuters.com/article/us-lightower-m-a-idUSKBN17F2J8" title="www.reuters.com"/>
   <summary type="html">... owners hope will value the high-speed internet U.S. infrastructure company at &lt;br&gt;
@@ -253,187 +304,58 @@ more than $7 billion, including debt, according to &lt;b&gt;sources familiar wit
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-straight-path-m-a-at-t-idUSKBN17F2R9?il=0</id>
-  <updated>1970-01-18T06:29:39.359Z</updated>
-  <title type="html">Verizon considering topping AT&amp;amp;T&amp;#39;s bid for Straight Path: sources ...</title>
-  <link href="http://www.reuters.com/article/us-straight-path-m-a-at-t-idUSKBN17F2R9?il=0" title="www.reuters.com"/>
-  <summary type="html">... hope will value the high-speed internet U.S. infrastructure company at more &lt;br&gt;
-than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>1Gv2qAIpLiEJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-straight-path-m-a-at-t-idUSKBN17F2R9?il=0</cse:formattedUrl>
+  <id>http://www.reuters.com/article/shuaa-headquarters-idUSL8N1HK30J</id>
+  <updated>1970-01-18T06:36:40.315Z</updated>
+  <title type="html">Dubai&amp;#39;s Shuaa moving HQ to Abu Dhabi -sources | Reuters</title>
+  <link href="http://www.reuters.com/article/shuaa-headquarters-idUSL8N1HK30J" title="www.reuters.com"/>
+  <summary type="html">... move to Abu Dhabi Global Market (ADGM), according to two &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt; the matter who spoke on condition of anonymity as the matter is not public.</summary>
+  <cse:cacheId>APbCnxXqG28J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/shuaa-headquarters-idUSL8N1HK30J</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="businessNews;innovationNews;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;vbcSmallBusiness;innovationAMD;everything;Deals;AllianzInvestments;Allianz;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;shipping;PorscheCayenne;Intel;PFG;huawei;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Verizon+considering+topping+AT%26T%27s+bid+for+Straight+Path%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="news_keywords" value="United States;United States;US;STRAIGHT;PATH;M;A;AT;T;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Corporate Events;Technology (TRBC);Integrated Telecommunications Services (TRBC);Banking and Investment Services (TRBC);Major News;Government Borrowing Requirement;Europe;Technology / Media / Telecoms;United Kingdom;United States"/>
-    <cse:Attribute name="revision_date" value="Fri Apr 14 00:21:22 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-14T00:21:22+0000"/>
-    <cse:Attribute name="sailthru.title" value="Verizon considering topping AT&amp;T&apos;s bid for Straight Path: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Verizon considering topping AT&amp;T&apos;s bid for Straight Path: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-straight-path-m-a-at-t-idUSKBN17F2R9"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Verizon Communications Inc (VZ.N) is considering making a buyout offer for Straight Path Communications Inc (STRP.A) which would top AT&amp;T Inc&apos;s (T.N) $1.25 billion bid, people familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586470&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U7"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-14T00:21:22+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-14T00:21:22+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="og:article:tag" value="United States,United States,US,STRAIGHT,PATH,M,A,AT,T,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Corporate Events,Technology (TRBC),Integrated Telecommunications Services (TRBC),Banking and Investment Services (TRBC),Major News,Government Borrowing Requirement,Europe,Technology / Media / Telecoms,United Kingdom,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Verizon considering topping AT&amp;T&apos;s bid for Straight Path: sources"/>
-    <cse:Attribute name="twitter:description" value="Verizon Communications Inc (VZ.N) is considering making a buyout offer for Straight Path Communications Inc (STRP.A) which would top AT&amp;T Inc&apos;s (T.N) $1.25 billion bid, people familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586470&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U7"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586470&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U7"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586470&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U7"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5_vl1VCU__weLwXNCgrAbDK7EDOPf4413mUZS7qDNHGQfdiMBQO_uyv8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-chiltern-m-a-idUSKBN17F263</id>
-  <updated>1970-01-18T06:29:39.359Z</updated>
-  <title type="html">Clinical trials firm Chiltern up for sale: sources | Reuters</title>
-  <link href="http://www.reuters.com/article/us-chiltern-m-a-idUSKBN17F263" title="www.reuters.com"/>
-  <summary type="html">... hope will value the high-speed internet U.S. infrastructure company at more &lt;br&gt;
-than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>JS20SkzxA18J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-chiltern-m-a-idUSKBN17F263</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;innovationAMD;everything;Deals;AllianzInvestments;Allianz;newsproHome;credit-rss;cfaglobal;aa48hours;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Clinical+trials+firm+Chiltern+up+for+sale%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="vbcSmallBusiness;SustainabilityCorporate;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;verizonmm;audib2b;cfaglobal;aa48hours;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Dubai%27s+Shuaa+moving+HQ+to+Abu+Dhabi+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="US;CHILTERN;M;A;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Clinical Medicine;Privatisations;Equity Financing;Corporate Events;Investment Banking and Brokerage Services (TRBC);Government Borrowing Requirement;Corporate Finance;Europe;Pharmaceuticals and Medical Research (TRBC);Drug and Device Development;Healthcare (TRBC);Deals;United Kingdom;Investment Management and Fund Operators (TRBC);United States"/>
-    <cse:Attribute name="revision_date" value="Thu Apr 13 16:36:26 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Bahrain;Mohammed bin Rashid al;Maktoum;SHUAA;HEADQUARTERS/;Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Asia / Pacific;Middle East;Deals;Banking Services (TRBC);Banks (TRBC);United Arab Emirates;Company News;Financials (TRBC);Financials (Legacy);Commercial REITs (TRBC);Corporate Events;Real Estate (Legacy);Diversified Investment Services (TRBC);Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Real Estate (TRBC);Residential and Commercial REITs (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Thu Apr 13 07:53:33 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-13T16:36:26+0000"/>
-    <cse:Attribute name="sailthru.title" value="Clinical trials firm Chiltern up for sale: sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-13T07:53:33+0000"/>
+    <cse:Attribute name="sailthru.title" value="Dubai&apos;s Shuaa moving HQ to Abu Dhabi -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Clinical trials firm Chiltern up for sale: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-chiltern-m-a-idUSKBN17F263"/>
+    <cse:Attribute name="og:title" value="Dubai&apos;s Shuaa moving HQ to Abu Dhabi -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/shuaa-headquarters-idUSL8N1HK30J"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Chiltern International Ltd, a privately held British drug research contractor, has hired investment bank Jefferies LLC to explore a sale that could value it at around $1.3 billion, including debt, according to people familiar with the matter."/>
+    <cse:Attribute name="og:description" value="Dubai-listed investment bankShuaa Capital plans to move its headquarters to AbuDhabi, sources told Reuters on Thursday."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-13T16:36:26+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-13T16:36:26+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="US,CHILTERN,M,A,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Clinical Medicine,Privatisations,Equity Financing,Corporate Events,Investment Banking and Brokerage Services (TRBC),Government Borrowing Requirement,Corporate Finance,Europe,Pharmaceuticals and Medical Research (TRBC),Drug and Device Development,Healthcare (TRBC),Deals,United Kingdom,Investment Management and Fund Operators (TRBC),United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Clinical trials firm Chiltern up for sale: sources"/>
-    <cse:Attribute name="twitter:description" value="Chiltern International Ltd, a privately held British drug research contractor, has hired investment bank Jefferies LLC to explore a sale that could value it at around $1.3 billion, including debt, according to people familiar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/germany-economy-forecast-idUSB4N1C4057</id>
-  <updated>1970-01-18T06:29:39.359Z</updated>
-  <title type="html">German GDP growth seen topping estimates in 2017, 2018 - sources</title>
-  <link href="http://www.reuters.com/article/germany-economy-forecast-idUSB4N1C4057" title="www.reuters.com"/>
-  <summary type="html">... growth to1.5 percent in 2017 from 1.4 percent, and to 1.8 percent in2018, &lt;br&gt;
-according to &lt;b&gt;sources familiar with&lt;/b&gt; new projections due tobe released on &lt;br&gt;
-Wednesday.</summary>
-  <cse:cacheId>hbS7kwwpqDMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../germany-economy-forecast-idUSB4N1C4057</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="economicNews"/>
-    <cse:Attribute name="dcsext.channellist" value="economicNews;marketsNews;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="German+GDP+growth+seen+topping+estimates+in+2017%2C+2018+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-economicNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Germany;GERMANY;ECONOMY/FORECAST (URGENT);Germany;Government Finances;Western Europe;Economic Indicators;Government / Politics;Central / Eastern Europe;Economic Events;Euro Zone;General News;Business Sentiment;East European Countries;Europe"/>
-    <cse:Attribute name="revision_date" value="Tue Apr 11 08:49:37 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-11T08:49:37+0000"/>
-    <cse:Attribute name="sailthru.title" value="German GDP growth seen topping estimates in 2017, 2018 - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="German GDP growth seen topping estimates in 2017, 2018 - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/germany-economy-forecast-idUSB4N1C4057"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Germany&apos;s leading economicinstitutes have raised their forecasts for economic growth to1.5 percent in 2017 from 1.4 percent, and to 1.8 percent in2018, according to sources familiar with new projections due tobe released on Wednesday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-11T08:49:37+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-11T08:49:37+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-13T07:53:33+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-13T07:53:33+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Germany,GERMANY,ECONOMY/FORECAST (URGENT),Germany,Government Finances,Western Europe,Economic Indicators,Government / Politics,Central / Eastern Europe,Economic Events,Euro Zone,General News,Business Sentiment,East European Countries,Europe"/>
+    <cse:Attribute name="og:article:tag" value="Bahrain,Mohammed bin Rashid al,Maktoum,SHUAA,HEADQUARTERS/,Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Asia / Pacific,Middle East,Deals,Banking Services (TRBC),Banks (TRBC),United Arab Emirates,Company News,Financials (TRBC),Financials (Legacy),Commercial REITs (TRBC),Corporate Events,Real Estate (Legacy),Diversified Investment Services (TRBC),Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Real Estate (TRBC),Residential and Commercial REITs (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="German GDP growth seen topping estimates in 2017, 2018 - sources"/>
-    <cse:Attribute name="twitter:description" value="Germany&apos;s leading economicinstitutes have raised their forecasts for economic growth to1.5 percent in 2017 from 1.4 percent, and to 1.8 percent in2018, according to sources familiar with new projections due tobe released on Wednesday."/>
+    <cse:Attribute name="twitter:title" value="Dubai&apos;s Shuaa moving HQ to Abu Dhabi -sources"/>
+    <cse:Attribute name="twitter:description" value="Dubai-listed investment bankShuaa Capital plans to move its headquarters to AbuDhabi, sources told Reuters on Thursday."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/economy/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Economy"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -446,183 +368,308 @@ Wednesday.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/canada-marijuana-idUSL1N1HI15A</id>
-  <updated>1970-01-18T06:29:39.359Z</updated>
-  <title type="html">UPDATE 1-Canada to introduce legal marijuana legislation this ...</title>
-  <link href="http://www.reuters.com/article/canada-marijuana-idUSL1N1HI15A" title="www.reuters.com"/>
-  <summary type="html">The Canadian government willintroduce legislation this week to legalize &lt;br&gt;
-marijuana forrecreational use, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said onMonday,&amp;nbsp;...</summary>
-  <cse:cacheId>OEdC35QDaNoJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/canada-marijuana-idUSL1N1HI15A</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="hotStocksNews"/>
-    <cse:Attribute name="dcsext.channellist" value="hotStocksNews;everything;AllianzInvestments;Allianz;cfaglobal;aa48hours;canoe;shipping;greenpeace;ubs;Intel;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-Canada+to+introduce+legal+marijuana+legislation+this+week+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-hotStocksNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Canada;United States;CANADA;MARIJUANA/ (UPDATE 1);Crime / Law / Justice;Drug Trafficking / Narcotics;Americas;Lawmaking;Company News;Health / Medicine;Crime;Volatile Shares / Hot Stocks;Government / Politics;Corporate Events;General News;Equities Markets;Pharmaceuticals and Medical Research (TRBC);Regulation;Healthcare (TRBC);Generic and Specialty Pharmaceuticals (TRBC);Canada;United States"/>
-    <cse:Attribute name="revision_date" value="Mon Apr 10 20:00:55 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-10T20:00:55+0000"/>
-    <cse:Attribute name="sailthru.title" value="UPDATE 1-Canada to introduce legal marijuana legislation this week -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="UPDATE 1-Canada to introduce legal marijuana legislation this week -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/canada-marijuana-idUSL1N1HI15A"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The Canadian government willintroduce legislation this week to legalize marijuana forrecreational use, sources familiar with the matter said onMonday, providing a road map that will be closely watched bycompanies seeking to capitalize on the emerging market."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-10T20:00:55+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-10T20:00:55+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Canada,United States,CANADA,MARIJUANA/ (UPDATE 1),Crime / Law / Justice,Drug Trafficking / Narcotics,Americas,Lawmaking,Company News,Health / Medicine,Crime,Volatile Shares / Hot Stocks,Government / Politics,Corporate Events,General News,Equities Markets,Pharmaceuticals and Medical Research (TRBC),Regulation,Healthcare (TRBC),Generic and Specialty Pharmaceuticals (TRBC),Canada,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="UPDATE 1-Canada to introduce legal marijuana legislation this week -sources"/>
-    <cse:Attribute name="twitter:description" value="The Canadian government willintroduce legislation this week to legalize marijuana forrecreational use, sources familiar with the matter said onMonday, providing a road map that will be closely watched bycompanies seeking to capitalize on the emerging market."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/stocks/hotstocks/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Stocks"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-ascend-learning-m-a-blackstone-group-idUSKBN17F2SE</id>
-  <updated>1970-01-18T06:29:39.359Z</updated>
-  <title type="html">Exclusive: Blackstone in advanced talks to buy Ascend Learning ...</title>
-  <link href="http://www.reuters.com/article/us-ascend-learning-m-a-blackstone-group-idUSKBN17F2SE" title="www.reuters.com"/>
-  <summary type="html">... hope will value the high-speed internet U.S. infrastructure company at more &lt;br&gt;
-than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>jqsDz98f3-kJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-ascend-learning-m-a-blackstone-group- idUSKBN17F2SE</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsTechMediaTelco;americasDealsNews;americasPrivateEquityNews;vbcSmallBusiness;innovationAMD;SustainabilityGreen;everything;Deals;ShellEnergy;AllianzInvestments;Hyundai;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;PorscheCayenne;MBenz;ubs;Intel;PFG;huawei;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Blackstone+in+advanced+talks+to+buy+Ascend+Learning+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="news_keywords" value="United States;US;ASCEND;LEARNING;M;A;BLACKSTONE;GROUP;Mergers / Acquisitions / Takeovers;Company News;Software and IT Services (TRBC);Exclusive;Arts / Culture / Entertainment;Software (TRBC);Corporate Events;Investment Banking and Brokerage Services (TRBC);Major News;Corporate Finance;Education;Technology / Media / Telecoms;Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
-    <cse:Attribute name="revision_date" value="Thu Apr 13 22:48:59 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-13T22:48:59+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Blackstone in advanced talks to buy Ascend Learning - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Blackstone in advanced talks to buy Ascend Learning - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-ascend-learning-m-a-blackstone-group-idUSKBN17F2SE"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Private equity firm Blackstone Group LP (BX.N) is in advanced talks to acquire Ascend Learning LLC, a privately held U.S. maker of educational software, for more than $2 billion, including debt, according to people familiar with the matter."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U5"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-13T22:48:59+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-13T22:48:59+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="og:article:tag" value="United States,US,ASCEND,LEARNING,M,A,BLACKSTONE,GROUP,Mergers / Acquisitions / Takeovers,Company News,Software and IT Services (TRBC),Exclusive,Arts / Culture / Entertainment,Software (TRBC),Corporate Events,Investment Banking and Brokerage Services (TRBC),Major News,Corporate Finance,Education,Technology / Media / Telecoms,Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Blackstone in advanced talks to buy Ascend Learning - sources"/>
-    <cse:Attribute name="twitter:description" value="Private equity firm Blackstone Group LP (BX.N) is in advanced talks to acquire Ascend Learning LLC, a privately held U.S. maker of educational software, for more than $2 billion, including debt, according to people familiar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U5"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U5"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170413&amp;t=2&amp;i=1180586183&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3C1U5"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG-PoNh_vPRKch0bA88ItjrlclBB88MSmIKzcjPz6lqE8k_A7OqRa8XyQ"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/wells-fargo-accounts-examiner-idUSL1N1HF1RE</id>
-  <updated>1970-01-18T06:29:39.359Z</updated>
-  <title type="html">U.S. regulator removes top examiner for Wells Fargo -sources ...</title>
-  <link href="http://www.reuters.com/article/wells-fargo-accounts-examiner-idUSL1N1HF1RE" title="www.reuters.com"/>
-  <summary type="html">Wells Fargo&amp;#39;s board is expected to release a report on Monday detailing what &lt;br&gt;
-went wrong at the fourth-largest U.S. bank, according to &lt;b&gt;sources familiar with&lt;/b&gt; the&lt;br&gt;
+  <id>http://www.reuters.com/journalists/lauren-hirsch</id>
+  <updated>1970-01-18T06:36:40.315Z</updated>
+  <title type="html">Lauren Hirsch</title>
+  <link href="http://www.reuters.com/journalists/lauren-hirsch" title="www.reuters.com"/>
+  <summary type="html">Staples Inc is in talks with private equity firms about a potential sale, &lt;b&gt;sources&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;familiar with&lt;/b&gt; the matter said on Tuesday, as the largest U.S. office-supplies seller&lt;br&gt;
 &amp;nbsp;...</summary>
-  <cse:cacheId>rEYGlKjK43UJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../wells-fargo-accounts-examiner-idUSL1N1HF1RE</cse:formattedUrl>
+  <cse:cacheId>WwaF03GQG6gJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/lauren-hirsch</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="credit-rss"/>
-    <cse:Attribute name="dcsext.channellist" value="everything;Deals;forexNewsCopy;ShellEnergy;AllianzInvestments;Allianz;credit-rss;cfaglobal;aa48hours;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;USLegal"/>
-    <cse:Attribute name="dcsext.contentheadline" value="U.S.+regulator+removes+top+examiner+for+Wells+Fargo+-sources"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/lauren-hirsch"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/andrew-macaskill</id>
+  <updated>1970-01-18T06:36:40.315Z</updated>
+  <title type="html">Andrew MacAskill</title>
+  <link href="http://www.reuters.com/journalists/andrew-macaskill" title="www.reuters.com"/>
+  <summary type="html">... the importance of protecting whistleblowers after the head of Barclays sought &lt;br&gt;
+to unmask one, &lt;b&gt;sources familiar with&lt;/b&gt; the matter have told Reuters. Apr 13 2017&amp;nbsp;...</summary>
+  <cse:cacheId>FX8qHIGZqLQJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/andrew-macaskill</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/andrew-macaskill"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286</id>
+  <updated>1970-01-18T06:36:40.315Z</updated>
+  <title type="html">After seven seasons with Knicks, will Carmelo agree to a trade ...</title>
+  <link href="http://abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286" title="abcnews.go.com"/>
+  <summary type="html">... since the Knicks and Jackson quietly picked up their option on the remaining &lt;br&gt;
+two years of his contract this spring,?&lt;b&gt;sources familiar with&lt;/b&gt; the situation told ESPN&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id...</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="ABC News"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
+    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="fb:admins" value="704409894"/>
+    <cse:Attribute name="fb:app_id" value="4942312939"/>
+    <cse:Attribute name="fb_title" value="After seven seasons with Knicks, will Carmelo agree to a trade?"/>
+    <cse:Attribute name="og:site_name" value="ABC News"/>
+    <cse:Attribute name="og:title" value="After seven seasons with Knicks, will Carmelo agree to a trade?"/>
+    <cse:Attribute name="og:description" value="In a season littered with low points, the 2016-17 New York Knicks appeared to find rock bottom on March 12. In Brooklyn, the 11-win Nets sank 14 3-pointers in the first half against the Knicks, effectively ending New York&apos;s playoff hopes in 24 painful minutes. And head coach Jeff..."/>
+    <cse:Attribute name="og:url" value="http://abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286"/>
+    <cse:Attribute name="og:image:type" value="image/jpeg"/>
+    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/Sports/espnapi_dm_170413_NBA_Jackson_must_explain_himself_to_Melo_wmain.jpg"/>
+    <cse:Attribute name="dc.date.issued" value="2017-04-14"/>
+    <cse:Attribute name="date" value="2017-04-14"/>
+    <cse:Attribute name="last-modified" value="2017-04-14 20:26:48"/>
+    <cse:Attribute name="news_keywords" value="NBA, New York Knicks, future, Carmelo Anthony, Melo, likely end of era"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@ABC"/>
+    <cse:Attribute name="twitter:title" value="After seven seasons with Knicks, will Carmelo agree to a trade?"/>
+    <cse:Attribute name="twitter:description" value="In a season littered with low points, the 2016-17 New York Knicks appeared to find rock bottom on March 12. In Brooklyn, the 11-win Nets sank 14 3-pointers in the first half against the Knicks, effectively ending New York&apos;s playoff hopes in 24 painful minutes. And head coach Jeff..."/>
+    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286"/>
+    <cse:Attribute name="twitter:image:width" value="150"/>
+    <cse:Attribute name="twitter:image:height" value="116"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,46805286"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,46805286"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286"/>
+    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,46805286"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
+    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
+    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,46805286"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
+    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
+    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286"/>
+    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
+    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
+    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286"/>
+   </cse:DataObject>
+   <cse:DataObject type="sitenavigationelement">
+    <cse:Attribute name="name" value="U.S."/>
+    <cse:Attribute name="url" value="U.S."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://a.abcnews.com/images/Sports/espnapi_dm_170413_NBA_Jackson_must_explain_himself_to_Melo_wmain.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qQjX6gfWNPOPTJ-4WQcHFpl1znJ9YBzwPv0kQ2A7Cggkv853RVCr5jmK"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/pamela-barbaglia</id>
+  <updated>1970-01-18T06:36:40.315Z</updated>
+  <title type="html">Pamela Barbaglia</title>
+  <link href="http://www.reuters.com/journalists/pamela-barbaglia" title="www.reuters.com"/>
+  <summary type="html">... is working with Morgan Stanley on the sale of its food business, which could &lt;br&gt;
+fetch roughly $3 billion, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on Thursday.</summary>
+  <cse:cacheId>xjTOWCfqFOoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/pamela-barbaglia</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/pamela-barbaglia"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B</id>
+  <updated>1970-01-18T06:36:40.315Z</updated>
+  <title type="html">Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources ...</title>
+  <link href="http://www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B" title="www.reuters.com"/>
+  <summary type="html">... planned debut international sukuk at $8 billion, split equally between a five-&lt;br&gt;
+year and a 10-year tranche, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday.</summary>
+  <cse:cacheId>6aiggwrL4HYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="CathayPacific_US;ABG_2016;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Arabia+sets+size+of+debut+dollar+sukuk+at+%248+billion+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-credit-rss"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United States;Bradley Linskens;Bryan Hubbard;Thomas Curry;WELLS FARGO;ACCOUNTS/EXAMINER;Americas;United States"/>
-    <cse:Attribute name="revision_date" value="Fri Apr 07 20:41:37 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Saudi Arabia;SAUDI;SUKUK/PRICES (URGENT);Investment Banking and Investment Services (TRBC);Islamic Finance;Terms / Conditions;Credit and Corporate Debt;Saudi Arabia;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Company News;Government Finances;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Government / Politics;Corporate Events;Economic Events;General News;Investment Banking and Brokerage Services (TRBC);National Government Debt;Market Events;Banking and Investment Services (TRBC);Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Apr 12 12:58:17 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-07T20:41:37+0000"/>
-    <cse:Attribute name="sailthru.title" value="U.S. regulator removes top examiner for Wells Fargo -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-12T12:58:17+0000"/>
+    <cse:Attribute name="sailthru.title" value="Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="U.S. regulator removes top examiner for Wells Fargo -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/wells-fargo-accounts-examiner-idUSL1N1HF1RE"/>
+    <cse:Attribute name="og:title" value="Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The most senior bank examiner forWells Fargo &amp; Co has been removed by a U.S. regulator inthe wake of the bank&apos;s unauthorized accounts scandal, peoplefamiliar with the matter told Reuters this week."/>
+    <cse:Attribute name="og:description" value="Saudi Arabia has set the finalsize of its planned debut international sukuk at $8 billion,split equally between a five-year and a 10-year tranche, sourcesfamiliar with the matter said on Wednesday."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-07T20:41:37+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-07T20:41:37+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-12T12:58:17+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-12T12:58:17+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United States,Bradley Linskens,Bryan Hubbard,Thomas Curry,WELLS FARGO,ACCOUNTS/EXAMINER,Americas,United States"/>
+    <cse:Attribute name="og:article:tag" value="Saudi Arabia,SAUDI,SUKUK/PRICES (URGENT),Investment Banking and Investment Services (TRBC),Islamic Finance,Terms / Conditions,Credit and Corporate Debt,Saudi Arabia,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Company News,Government Finances,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Government / Politics,Corporate Events,Economic Events,General News,Investment Banking and Brokerage Services (TRBC),National Government Debt,Market Events,Banking and Investment Services (TRBC),Emerging Market Countries"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="U.S. regulator removes top examiner for Wells Fargo -sources"/>
-    <cse:Attribute name="twitter:description" value="The most senior bank examiner forWells Fargo &amp; Co has been removed by a U.S. regulator inthe wake of the bank&apos;s unauthorized accounts scandal, peoplefamiliar with the matter told Reuters this week."/>
+    <cse:Attribute name="twitter:title" value="Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources"/>
+    <cse:Attribute name="twitter:description" value="Saudi Arabia has set the finalsize of its planned debut international sukuk at $8 billion,split equally between a five-year and a 10-year tranche, sourcesfamiliar with the matter said on Wednesday."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/greg-roumeliotis</id>
+  <updated>1970-01-18T06:36:40.315Z</updated>
+  <title type="html">Greg Roumeliotis</title>
+  <link href="http://www.reuters.com/journalists/greg-roumeliotis" title="www.reuters.com"/>
+  <summary type="html">... hope will value the high-speed internet U.S. infrastructure company at more &lt;br&gt;
+than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>OOBcDv-41KMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/greg-roumeliotis</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/greg-roumeliotis"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
