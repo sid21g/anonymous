@@ -5,25 +5,80 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:36:40.315Z</updated>
+ <updated>1970-01-18T06:41:05.314Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="5400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="5400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>5400</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6710" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6710" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>6710</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.313124</cse:searchTime>
-  <cse:formattedSearchTime>0.31</cse:formattedSearchTime>
-  <cse:totalResults>5400</cse:totalResults>
-  <cse:formattedTotalResults>5,400</cse:formattedTotalResults>
+  <cse:searchTime>0.257768</cse:searchTime>
+  <cse:formattedSearchTime>0.26</cse:formattedSearchTime>
+  <cse:totalResults>6710</cse:totalResults>
+  <cse:formattedTotalResults>6,710</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
+  <id>http://www.cbsnews.com/news/cia-fbi-on-manhunt-for-leaker-who-gave-top-secret-documents-to-wikileaks/</id>
+  <updated>1970-01-18T06:41:05.314Z</updated>
+  <title type="html">CIA manhunt for employee who gave WikiLeaks top secret information</title>
+  <link href="http://www.cbsnews.com/news/cia-fbi-on-manhunt-for-leaker-who-gave-top-secret-documents-to-wikileaks/" title="www.cbsnews.com"/>
+  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the investigation say it is looking for an insider -- either a &lt;br&gt;
+CIA employee or contractor -- who had physical access to the material.</summary>
+  <cse:cacheId>AAxGdlEuwhoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cbsnews.com/.../cia-fbi-on-manhunt-for-leaker-who-gave-top-secret- documents-to-wikileaks/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width"/>
+    <cse:Attribute name="al:web:url" value="http://www.cbsnews.com/news/cia-fbi-on-manhunt-for-leaker-who-gave-top-secret-documents-to-wikileaks/"/>
+    <cse:Attribute name="al:ios:app_name" value="CBS News"/>
+    <cse:Attribute name="al:ios:app_store_id" value="334256223"/>
+    <cse:Attribute name="al:ios:url" value="cbsnewsapp://news/cia-fbi-on-manhunt-for-leaker-who-gave-top-secret-documents-to-wikileaks/"/>
+    <cse:Attribute name="al:android:app_name" value="CBS News"/>
+    <cse:Attribute name="al:android:package" value="com.treemolabs.apps.cbsnews"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.cbsnews.com/news/cia-fbi-on-manhunt-for-leaker-who-gave-top-secret-documents-to-wikileaks/"/>
+    <cse:Attribute name="og:title" value="CIA, FBI launch manhunt for leaker who gave top-secret documents to WikiLeaks"/>
+    <cse:Attribute name="og:description" value="Leak exposed thousands of top-secret documents that described CIA tools used to penetrate smart phones, smart TVs and computer systems"/>
+    <cse:Attribute name="og:image" value="http://cbsnews1.cbsistatic.com/hub/i/2017/03/09/142e570c-4688-40f2-803d-c3bf590494de/0309-cbsn-tks-wikileaks-1266466-640x360.jpg"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="630"/>
+    <cse:Attribute name="fb:app_id" value="1536620209892267"/>
+    <cse:Attribute name="twitter:app:country" value="US"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="CBS News"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="334256223"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="cbsnewsapp://news/cia-fbi-on-manhunt-for-leaker-who-gave-top-secret-documents-to-wikileaks/"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="CBS News"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="334256223"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="cbsnewsapp://news/cia-fbi-on-manhunt-for-leaker-who-gave-top-secret-documents-to-wikileaks/"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="CBS News"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.treemolabs.apps.cbsnews"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="http://www.cbsnews.com/news/cia-fbi-on-manhunt-for-leaker-who-gave-top-secret-documents-to-wikileaks/"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@cbseveningnews"/>
+    <cse:Attribute name="twitter:title" value="CIA, FBI launch manhunt for leaker who gave top-secret documents to WikiLeaks"/>
+    <cse:Attribute name="twitter:description" value="Leak exposed thousands of top-secret documents that described CIA tools used to penetrate smart phones, smart TVs and computer systems"/>
+    <cse:Attribute name="twitter:image" value="http://cbsnews1.cbsistatic.com/hub/i/2017/03/09/142e570c-4688-40f2-803d-c3bf590494de/0309-cbsn-tks-wikileaks-1266466-640x360.jpg"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/CBSEveningNews"/>
+    <cse:Attribute name="news_keywords" value="classified documents, Central Intelligence Agency, wikileaks, cia, julian assange, fbi"/>
+    <cse:Attribute name="standout" value="http://www.cbsnews.com/news/cia-fbi-on-manhunt-for-leaker-who-gave-top-secret-documents-to-wikileaks/"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://cbsnews1.cbsistatic.com/hub/i/2017/03/09/142e570c-4688-40f2-803d-c3bf590494de/0309-cbsn-tks-wikileaks-1266466-640x360.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgEUEzwt1AmSmcrgkzOP0A8VaWQ33AJXt-1kx8IED_eRcwzzZ5U58PNoHr"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.wsj.com/articles/wells-fargo-board-faces-high-stakes-vote-1492254001</id>
-  <updated>1970-01-18T06:36:40.315Z</updated>
+  <updated>1970-01-18T06:41:05.314Z</updated>
   <title type="html">Wells Fargo Board Faces High-Stakes Vote - WSJ</title>
   <link href="https://www.wsj.com/articles/wells-fargo-board-faces-high-stakes-vote-1492254001" title="www.wsj.com"/>
   <summary type="html">Wells Fargo faces something few other big banks have dealt with since the &lt;br&gt;
@@ -32,7 +87,7 @@ financial crisis: a serious effort to vote out most of its directors.</summary>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="dj.asn" value="i-02c7"/>
+    <cse:Attribute name="dj.asn" value="i-025c"/>
     <cse:Attribute name="user.type" value="nonsubscriber"/>
     <cse:Attribute name="user.exp" value="default"/>
     <cse:Attribute name="testkeys" value="C"/>
@@ -106,64 +161,64 @@ financial crisis: a serious effort to vote out most of its directors.</summary>
     <cse:Attribute name="email" value="Joann.Lublin@wsj.com"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041717opinioncra/041717opinioncra_115x65.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041717seib/041717seib_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041717luncharconic/041717luncharconic_115x65.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170413/041317luncharctic/041317luncharctic_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170412/041217ptech3/041217ptech3_115x65.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170419/041917fitnessblender/041917fitnessblender_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170302/030217mansionsuyama2/030217mansionsuyama2_115x65.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170418/041817ukmay2/041817ukmay2_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170412/041217thelostcityofz1/041217thelostcityofz1_115x65.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170418/next-costowatch/next-costowatch_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SW279_CCBACH_C_20170407122901.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SE390_cmogoo_C_20170221071116.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ049_UNITED_C_20170416184827.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TA192_328JV_C_20170418132433.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ690_HIB041_C_20170417192158.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TA754_RUSEXX_C_20170419090311.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ460_327YK_C_20170417125834.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ617_BLENDE_C_20170417173040.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ260_2cDgM_C_20170417012310.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TA993_VENEZU_C_20170419180348.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041717facebookmurder/041717facebookmurder_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170418/041817autoshowmex1/041817autoshowmex1_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170414/041417luxsuv/041417luxsuv_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170420/042017sail2/042017sail2_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170418/041817ukmay2/041817ukmay2_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170419/041917fitnessblender/041917fitnessblender_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041817ptech2/041817ptech2_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170420/042017trumppresser/042017trumppresser_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170417/041317cnewcity/041317cnewcity_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170419/041917cauto1/041917cauto1_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SW279_CCBACH_C_20170407122901.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SE390_cmogoo_C_20170221071116.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ049_UNITED_C_20170416184827.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TA192_328JV_C_20170418132433.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ690_HIB041_C_20170417192158.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TA754_RUSEXX_C_20170419090311.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ460_327YK_C_20170417125834.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ617_BLENDE_C_20170417173040.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-SZ260_2cDgM_C_20170417012310.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TA993_VENEZU_C_20170419180348.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://si.wsj.net/public/resources/images/BN-SY899_3097l_TOP_20170414192848.jpg"/>
@@ -176,391 +231,119 @@ financial crisis: a serious effort to vote out most of its directors.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-reckitt-benc-grp-m-a-food-idUSKBN17F1FT</id>
-  <updated>1970-01-18T06:36:40.315Z</updated>
-  <title type="html">Reckitt working with Morgan Stanley on food business sale: sources ...</title>
-  <link href="http://www.reuters.com/article/us-reckitt-benc-grp-m-a-food-idUSKBN17F1FT" title="www.reuters.com"/>
-  <summary type="html">L) is working with Morgan Stanley (MS.N) on the sale of its food business, which &lt;br&gt;
-could fetch roughly $3 billion, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on&amp;nbsp;...</summary>
-  <cse:cacheId>4OVJC4GSHk8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-reckitt-benc-grp-m-a-food-idUSKBN17F1FT</cse:formattedUrl>
+  <id>http://www.cnn.com/2017/04/21/politics/mattis-military-spending-trump-budget/</id>
+  <updated>1970-01-18T06:41:05.314Z</updated>
+  <title type="html">Sources: Mattis says Trump budget won&amp;#39;t rebuild military ...</title>
+  <link href="http://www.cnn.com/2017/04/21/politics/mattis-military-spending-trump-budget/" title="www.cnn.com"/>
+  <summary type="html">... isn&amp;#39;t sufficient to cover the cost of rebuilding the military as President Donald &lt;br&gt;
+Trump has vowed to do, four &lt;b&gt;sources familiar with&lt;/b&gt; the conversations told CNN.</summary>
+  <cse:cacheId>kS65I60xkOkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/04/21/.../mattis-military-spending-trump-budget/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsConsumerGoodsAndRetail;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;newsproHome;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Reckitt+working+with+Morgan+Stanley+on+food+business+sale%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Martinne Geller and Pamela Barbaglia"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Martinne Geller and Pamela Barbaglia"/>
-    <cse:Attribute name="news_keywords" value="US;RECKITT;BENC;GRP;M;A;FOOD;Wealth Management;Mergers / Acquisitions / Takeovers;Funds;Household Products (TRBC);Company News;Western Europe;Arts / Culture / Entertainment;Food Processing (TRBC);Food and Beverages (TRBC);Corporate Events;Economic Events;Beverages (Legacy);Divestitures / Spin;Offs;Investment Banking and Brokerage Services (TRBC);Market Events;Government Borrowing Requirement;Europe;Food Processing (Legacy);United Kingdom;United States"/>
-    <cse:Attribute name="revision_date" value="Thu Apr 13 11:48:06 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Martinne Geller and Pamela Barbaglia"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-13T11:48:06+0000"/>
-    <cse:Attribute name="sailthru.title" value="Reckitt working with Morgan Stanley on food business sale: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Reckitt working with Morgan Stanley on food business sale: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-reckitt-benc-grp-m-a-food-idUSKBN17F1FT"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="British consumer goods group Reckitt Benckiser Group (RB.L) is working with Morgan Stanley (MS.N) on the sale of its food business, which could fetch roughly $3 billion, sources familiar with the matter told Reuters on Thursday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-13T11:48:06+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-13T11:48:06+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Martinne Geller and Pamela Barbaglia"/>
-    <cse:Attribute name="og:article:tag" value="US,RECKITT,BENC,GRP,M,A,FOOD,Wealth Management,Mergers / Acquisitions / Takeovers,Funds,Household Products (TRBC),Company News,Western Europe,Arts / Culture / Entertainment,Food Processing (TRBC),Food and Beverages (TRBC),Corporate Events,Economic Events,Beverages (Legacy),Divestitures / Spin,Offs,Investment Banking and Brokerage Services (TRBC),Market Events,Government Borrowing Requirement,Europe,Food Processing (Legacy),United Kingdom,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Reckitt working with Morgan Stanley on food business sale: sources"/>
-    <cse:Attribute name="twitter:description" value="British consumer goods group Reckitt Benckiser Group (RB.L) is working with Morgan Stanley (MS.N) on the sale of its food business, which could fetch roughly $3 billion, sources familiar with the matter told Reuters on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-lightower-m-a-idUSKBN17F2J8</id>
-  <updated>1970-01-18T06:36:40.315Z</updated>
-  <title type="html">Lightower Fiber Networks explores sale: sources | Reuters</title>
-  <link href="http://www.reuters.com/article/us-lightower-m-a-idUSKBN17F2J8" title="www.reuters.com"/>
-  <summary type="html">... owners hope will value the high-speed internet U.S. infrastructure company at &lt;br&gt;
-more than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>E1z2XW1FU6UJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-lightower-m-a-idUSKBN17F2J8</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="internetNews;innovationNews;innovationNewsEnergy;innovationNewsTechMediaTelco;innovationNewsIndustryMaterialsAndUtilities;americasDealsNews;americasPrivateEquityNews;vbcSmallBusiness;innovationAMD;everything;Deals;ShellEnergy;AllianzInvestments;Allianz;newsproHome;cfaglobal;aa48hours;dassaultuk;PorscheCayenne;ubs;Intel;intelmicrosite;PFG;huawei;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Lightower+Fiber+Networks+explores+sale%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="news_keywords" value="United States;US;LIGHTOWER;M;A;Mergers / Acquisitions / Takeovers;Company News;Insurance (TRBC);Highways and Rail Tracks (TRBC);Exclusive;New Issues;Privatisations;Telecommunications Services (TRBC);Equity Financing;Communications Equipment (TRBC);Corporate Events;Corporate Debt;Oil and Gas Exploration and Production (TRBC);Divestitures / Spin;Offs;Science;Company Management Issues;Canada;Private Equity Funds;United States"/>
-    <cse:Attribute name="revision_date" value="Thu Apr 13 19:44:25 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-13T19:44:25+0000"/>
-    <cse:Attribute name="sailthru.title" value="Lightower Fiber Networks explores sale: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Lightower Fiber Networks explores sale: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-lightower-m-a-idUSKBN17F2J8"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Lightower Fiber Networks is exploring a sale that its private equity owners hope will value the high-speed internet U.S. infrastructure company at more than $7 billion, including debt, according to sources familiar with the matter."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-13T19:44:25+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-13T19:44:25+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Liana B. Baker and Greg Roumeliotis"/>
-    <cse:Attribute name="og:article:tag" value="United States,US,LIGHTOWER,M,A,Mergers / Acquisitions / Takeovers,Company News,Insurance (TRBC),Highways and Rail Tracks (TRBC),Exclusive,New Issues,Privatisations,Telecommunications Services (TRBC),Equity Financing,Communications Equipment (TRBC),Corporate Events,Corporate Debt,Oil and Gas Exploration and Production (TRBC),Divestitures / Spin,Offs,Science,Company Management Issues,Canada,Private Equity Funds,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Lightower Fiber Networks explores sale: sources"/>
-    <cse:Attribute name="twitter:description" value="Lightower Fiber Networks is exploring a sale that its private equity owners hope will value the high-speed internet U.S. infrastructure company at more than $7 billion, including debt, according to sources familiar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/shuaa-headquarters-idUSL8N1HK30J</id>
-  <updated>1970-01-18T06:36:40.315Z</updated>
-  <title type="html">Dubai&amp;#39;s Shuaa moving HQ to Abu Dhabi -sources | Reuters</title>
-  <link href="http://www.reuters.com/article/shuaa-headquarters-idUSL8N1HK30J" title="www.reuters.com"/>
-  <summary type="html">... move to Abu Dhabi Global Market (ADGM), according to two &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;with&lt;/b&gt; the matter who spoke on condition of anonymity as the matter is not public.</summary>
-  <cse:cacheId>APbCnxXqG28J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/shuaa-headquarters-idUSL8N1HK30J</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="vbcSmallBusiness;SustainabilityCorporate;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;verizonmm;audib2b;cfaglobal;aa48hours;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Dubai%27s+Shuaa+moving+HQ+to+Abu+Dhabi+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Bahrain;Mohammed bin Rashid al;Maktoum;SHUAA;HEADQUARTERS/;Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Asia / Pacific;Middle East;Deals;Banking Services (TRBC);Banks (TRBC);United Arab Emirates;Company News;Financials (TRBC);Financials (Legacy);Commercial REITs (TRBC);Corporate Events;Real Estate (Legacy);Diversified Investment Services (TRBC);Investment Banking and Brokerage Services (TRBC);Banking and Investment Services (TRBC);Real Estate (TRBC);Residential and Commercial REITs (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Thu Apr 13 07:53:33 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-13T07:53:33+0000"/>
-    <cse:Attribute name="sailthru.title" value="Dubai&apos;s Shuaa moving HQ to Abu Dhabi -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Dubai&apos;s Shuaa moving HQ to Abu Dhabi -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/shuaa-headquarters-idUSL8N1HK30J"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Dubai-listed investment bankShuaa Capital plans to move its headquarters to AbuDhabi, sources told Reuters on Thursday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-13T07:53:33+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-13T07:53:33+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Bahrain,Mohammed bin Rashid al,Maktoum,SHUAA,HEADQUARTERS/,Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Asia / Pacific,Middle East,Deals,Banking Services (TRBC),Banks (TRBC),United Arab Emirates,Company News,Financials (TRBC),Financials (Legacy),Commercial REITs (TRBC),Corporate Events,Real Estate (Legacy),Diversified Investment Services (TRBC),Investment Banking and Brokerage Services (TRBC),Banking and Investment Services (TRBC),Real Estate (TRBC),Residential and Commercial REITs (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Dubai&apos;s Shuaa moving HQ to Abu Dhabi -sources"/>
-    <cse:Attribute name="twitter:description" value="Dubai-listed investment bankShuaa Capital plans to move its headquarters to AbuDhabi, sources told Reuters on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/lauren-hirsch</id>
-  <updated>1970-01-18T06:36:40.315Z</updated>
-  <title type="html">Lauren Hirsch</title>
-  <link href="http://www.reuters.com/journalists/lauren-hirsch" title="www.reuters.com"/>
-  <summary type="html">Staples Inc is in talks with private equity firms about a potential sale, &lt;b&gt;sources&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;familiar with&lt;/b&gt; the matter said on Tuesday, as the largest U.S. office-supplies seller&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>WwaF03GQG6gJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/lauren-hirsch</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-04-21T10:00:20Z"/>
+    <cse:Attribute name="pubdate" value="2017-04-21T10:00:20Z"/>
+    <cse:Attribute name="lastmod" value="2017-04-21T13:22:08Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/04/21/politics/mattis-military-spending-trump-budget/index.html"/>
+    <cse:Attribute name="author" value="Jeremy Herb, CNN"/>
+    <cse:Attribute name="og:title" value="Sources: Mattis tells Hill Trump budget won&apos;t rebuild military"/>
+    <cse:Attribute name="twitter:title" value="Sources: Mattis tells Hill Trump budget won&apos;t rebuild military"/>
+    <cse:Attribute name="og:description" value="Defense Secretary James Mattis has privately told Congress the Trump administration&apos;s Pentagon budget request isn&apos;t sufficient to cover the cost of rebuilding the military as President Donald Trump has vowed to do, four sources familiar with the conversations told CNN."/>
+    <cse:Attribute name="twitter:description" value="Defense Secretary James Mattis has privately told Congress the Trump administration&apos;s Pentagon budget request isn&apos;t sufficient to cover the cost of rebuilding the military as President Donald Trump has vowed to do, four sources familiar with the conversations told CNN."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/lauren-hirsch"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/andrew-macaskill</id>
-  <updated>1970-01-18T06:36:40.315Z</updated>
-  <title type="html">Andrew MacAskill</title>
-  <link href="http://www.reuters.com/journalists/andrew-macaskill" title="www.reuters.com"/>
-  <summary type="html">... the importance of protecting whistleblowers after the head of Barclays sought &lt;br&gt;
-to unmask one, &lt;b&gt;sources familiar with&lt;/b&gt; the matter have told Reuters. Apr 13 2017&amp;nbsp;...</summary>
-  <cse:cacheId>FX8qHIGZqLQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/andrew-macaskill</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/andrew-macaskill"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286</id>
-  <updated>1970-01-18T06:36:40.315Z</updated>
-  <title type="html">After seven seasons with Knicks, will Carmelo agree to a trade ...</title>
-  <link href="http://abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286" title="abcnews.go.com"/>
-  <summary type="html">... since the Knicks and Jackson quietly picked up their option on the remaining &lt;br&gt;
-two years of his contract this spring,?&lt;b&gt;sources familiar with&lt;/b&gt; the situation told ESPN&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id...</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="ABC News"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
-    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="fb:admins" value="704409894"/>
-    <cse:Attribute name="fb:app_id" value="4942312939"/>
-    <cse:Attribute name="fb_title" value="After seven seasons with Knicks, will Carmelo agree to a trade?"/>
-    <cse:Attribute name="og:site_name" value="ABC News"/>
-    <cse:Attribute name="og:title" value="After seven seasons with Knicks, will Carmelo agree to a trade?"/>
-    <cse:Attribute name="og:description" value="In a season littered with low points, the 2016-17 New York Knicks appeared to find rock bottom on March 12. In Brooklyn, the 11-win Nets sank 14 3-pointers in the first half against the Knicks, effectively ending New York&apos;s playoff hopes in 24 painful minutes. And head coach Jeff..."/>
-    <cse:Attribute name="og:url" value="http://abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286"/>
-    <cse:Attribute name="og:image:type" value="image/jpeg"/>
-    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/Sports/espnapi_dm_170413_NBA_Jackson_must_explain_himself_to_Melo_wmain.jpg"/>
-    <cse:Attribute name="dc.date.issued" value="2017-04-14"/>
-    <cse:Attribute name="date" value="2017-04-14"/>
-    <cse:Attribute name="last-modified" value="2017-04-14 20:26:48"/>
-    <cse:Attribute name="news_keywords" value="NBA, New York Knicks, future, Carmelo Anthony, Melo, likely end of era"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@ABC"/>
-    <cse:Attribute name="twitter:title" value="After seven seasons with Knicks, will Carmelo agree to a trade?"/>
-    <cse:Attribute name="twitter:description" value="In a season littered with low points, the 2016-17 New York Knicks appeared to find rock bottom on March 12. In Brooklyn, the 11-win Nets sank 14 3-pointers in the first half against the Knicks, effectively ending New York&apos;s playoff hopes in 24 painful minutes. And head coach Jeff..."/>
-    <cse:Attribute name="twitter:url" value="http://abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286"/>
-    <cse:Attribute name="twitter:image:width" value="150"/>
-    <cse:Attribute name="twitter:image:height" value="116"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/story,46805286"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/story,46805286"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.abc.abcnews"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286"/>
-    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/story,46805286"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
-    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
-    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/story,46805286"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
-    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
-    <cse:Attribute name="al:android:url" value="android-app://com.abc.abcnews/abcnews/abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286"/>
-    <cse:Attribute name="al:android:app_name" value="ABC News Breaking Latest News"/>
-    <cse:Attribute name="al:android:package" value="com.abc.abcnews"/>
-    <cse:Attribute name="al:web:url" value="http://abcnews.go.com/Sports/seasons-knicks-carmelo-agree-trade/story?id=46805286"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170421063449-donald-trump-james-mattis-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170421063449-donald-trump-james-mattis-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170421063449-donald-trump-james-mattis-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/04/21/politics/mattis-military-spending-trump-budget/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,bra-us-military,art-vid-vls-col,col-military"/>
    </cse:DataObject>
-   <cse:DataObject type="sitenavigationelement">
-    <cse:Attribute name="name" value="U.S."/>
-    <cse:Attribute name="url" value="U.S."/>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-04-21T10:00:20Z"/>
+    <cse:Attribute name="datepublished" value="2017-04-21T10:00:20Z"/>
+    <cse:Attribute name="datemodified" value="2017-04-21T13:22:08Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/04/21/politics/mattis-military-spending-trump-budget/index.html"/>
+    <cse:Attribute name="author" value="Jeremy Herb, CNN"/>
+    <cse:Attribute name="headline" value="Sources: Mattis says Trump budget won&apos;t rebuild military - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="Defense Secretary James Mattis has privately told Congress the Trump administration&apos;s Pentagon budget request isn&apos;t sufficient to cover the cost of rebuilding the military as President Donald..."/>
+    <cse:Attribute name="keywords" value="politics, Sources: Mattis says Trump budget won&apos;t rebuild military - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170421063449-donald-trump-james-mattis-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170421063449-donald-trump-james-mattis-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Sources: Mattis tells Hill Trump budget won&apos;t fully rebuild military"/>
+    <cse:Attribute name="articlebody" value="Story highlightsThe Trump administration is seeking $603 billion for the Pentagon in its budget requestRepublican defense hawks say the funding level is too low to rebuild the militaryWashington..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170421063449-donald-trump-james-mattis-super-tease.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://a.abcnews.com/images/Sports/espnapi_dm_170413_NBA_Jackson_must_explain_himself_to_Melo_wmain.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170421063449-donald-trump-james-mattis-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
     <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qQjX6gfWNPOPTJ-4WQcHFpl1znJ9YBzwPv0kQ2A7Cggkv853RVCr5jmK"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/pamela-barbaglia</id>
-  <updated>1970-01-18T06:36:40.315Z</updated>
-  <title type="html">Pamela Barbaglia</title>
-  <link href="http://www.reuters.com/journalists/pamela-barbaglia" title="www.reuters.com"/>
-  <summary type="html">... is working with Morgan Stanley on the sale of its food business, which could &lt;br&gt;
-fetch roughly $3 billion, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on Thursday.</summary>
-  <cse:cacheId>xjTOWCfqFOoJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/pamela-barbaglia</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-russia-polyus-china-idUSKBN17L1JT</id>
+  <updated>1970-01-18T06:41:05.314Z</updated>
+  <title type="html">Exclusive: China Development Bank may finance Fosun&amp;#39;s Polyus ...</title>
+  <link href="http://www.reuters.com/article/us-russia-polyus-china-idUSKBN17L1JT" title="www.reuters.com"/>
+  <summary type="html">MM), two &lt;b&gt;sources familiar with&lt;/b&gt; discussions about the potential deal told Reuters. &lt;br&gt;
+The consortium, led by Fosun International Ltd (0656.HK), one of China&amp;#39;s most&amp;nbsp;...</summary>
+  <cse:cacheId>aLrKt1QcILEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-russia-polyus-china-idUSKBN17L1JT</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;innovationNewsIndustryMaterialsAndUtilities;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;china;russia;everything;Deals;forexNewsCopy;china-labor;ShellEnergy;asia;newsproHome;money-markets-rss;cfaglobal;aa48hours;shipping;MBenz;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+China+Development+Bank+may+finance+Fosun%27s+Polyus+deal+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Polina Devitt and Julie  Zhu"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Polina Devitt and Julie  Zhu"/>
+    <cse:Attribute name="news_keywords" value="Asia;China;Russia;Ukraine;Igor Shuvalov;Oleg Deripaska;Suleiman Kerimov;Vladimir Putin;US;RUSSIA;POLYUS;CHINA;Security Listings / Delistings;Hong Kong;Mergers / Acquisitions / Takeovers;Russia;Precious Metals and Minerals (TRBC);Exclusive;Initial Public Offerings;Aluminium;Equity Financing;Equity Investments;Asia / Pacific;Debt / Fixed Income Markets;Secondary Share Offerings / Issues;Loans;Banks (TRBC);Company News;Gold;Iron and Steel (TRBC);CIS Countries;China (PRC);Corporate Events;Economic Events;Mining;Metals Markets;Market Events;Banking and Investment Services (TRBC);Metals and Mining (TRBC);Europe;Mineral Resources (TRBC);Commodities News (3rd Party);Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Wed Apr 19 12:35:56 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Polina Devitt and Julie  Zhu"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-19T12:35:56+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: China Development Bank may finance Fosun&apos;s Polyus deal - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/pamela-barbaglia"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+    <cse:Attribute name="og:title" value="Exclusive: China Development Bank may finance Fosun&apos;s Polyus deal - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-russia-polyus-china-idUSKBN17L1JT"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="China Development Bank is considering providing financing for a Chinese consortium seeking to buy a stake in Russia&apos;s largest gold producer Polyus (PLZL.MM), two sources familiar with discussions about the potential deal told Reuters."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-19T12:35:56+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-19T12:35:56+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Polina Devitt and Julie  Zhu"/>
+    <cse:Attribute name="og:article:tag" value="Asia,China,Russia,Ukraine,Igor Shuvalov,Oleg Deripaska,Suleiman Kerimov,Vladimir Putin,US,RUSSIA,POLYUS,CHINA,Security Listings / Delistings,Hong Kong,Mergers / Acquisitions / Takeovers,Russia,Precious Metals and Minerals (TRBC),Exclusive,Initial Public Offerings,Aluminium,Equity Financing,Equity Investments,Asia / Pacific,Debt / Fixed Income Markets,Secondary Share Offerings / Issues,Loans,Banks (TRBC),Company News,Gold,Iron and Steel (TRBC),CIS Countries,China (PRC),Corporate Events,Economic Events,Mining,Metals Markets,Market Events,Banking and Investment Services (TRBC),Metals and Mining (TRBC),Europe,Mineral Resources (TRBC),Commodities News (3rd Party),Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: China Development Bank may finance Fosun&apos;s Polyus deal - sources"/>
+    <cse:Attribute name="twitter:description" value="China Development Bank is considering providing financing for a Chinese consortium seeking to buy a stake in Russia&apos;s largest gold producer Polyus (PLZL.MM), two sources familiar with discussions about the potential deal told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -573,56 +356,120 @@ fetch roughly $3 billion, &lt;b&gt;sources familiar with&lt;/b&gt; the matter to
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B</id>
-  <updated>1970-01-18T06:36:40.315Z</updated>
-  <title type="html">Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources ...</title>
-  <link href="http://www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B" title="www.reuters.com"/>
-  <summary type="html">... planned debut international sukuk at $8 billion, split equally between a five-&lt;br&gt;
-year and a 10-year tranche, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday.</summary>
-  <cse:cacheId>6aiggwrL4HYJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-m1-m-a-idUSKBN17N1CM</id>
+  <updated>1970-01-18T06:41:05.314Z</updated>
+  <title type="html">China Mobile, others approached for buying into Singapore telco M1 ...</title>
+  <link href="http://www.reuters.com/article/us-m1-m-a-idUSKBN17N1CM" title="www.reuters.com"/>
+  <summary type="html">... China Mobile (0941.HK) and global private equity firms, among others, to sell &lt;br&gt;
+their combined majority stake in the firm, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>O2PMXNVHc00J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-m1-m-a-idUSKBN17N1CM</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="CathayPacific_US;ABG_2016;financialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Arabia+sets+size+of+debut+dollar+sukuk+at+%248+billion+-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;innovationNews;innovationNewsTechMediaTelco;innovationNewsIndustryMaterialsAndUtilities;asiaDealsNews;asiaPrivateEquityNews;pakistan;china;corporateResponsibility;SustainabilityCorporate;SustainabilitySocial;everything;Deals;china-labor;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;singapore;asia;newsproHome;verizonmm;audib2b;cfaglobal;aa48hours;shipping;dassaultuk;MBenz;ubs;globalinnovations;Intel;PFG;huawei;Fidelity2014;LinkedInBusTech;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="China+Mobile%2C+others+approached+for+buying+into+Singapore+telco+M1%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Anshuman Daga"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Anshuman Daga"/>
+    <cse:Attribute name="news_keywords" value="Australia;China;Malaysia;Singapore;Gregory Yap;Rameez Ansar;US;M1;M;A;Hong Kong;Mergers / Acquisitions / Takeovers;Company News;Japan;Construction and Engineering (TRBC);Telecommunications Services (TRBC);China (PRC);Wireless Telecommunications Services (TRBC);Industrial Machinery and Equipment (TRBC);Corporate Events;Publishing (TRBC);Asia / Pacific;Australia;Singapore;Major News;Science;ASEAN Countries;Pictures;Emerging Market Countries;Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Fri Apr 21 11:38:02 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Anshuman Daga"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-21T11:38:02+0000"/>
+    <cse:Attribute name="sailthru.title" value="China Mobile, others approached for buying into Singapore telco M1: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="China Mobile, others approached for buying into Singapore telco M1: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-m1-m-a-idUSKBN17N1CM"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Top shareholders in Singapore telecoms company M1 Ltd (MONE.SI) have approached potential buyers China Mobile (0941.HK) and global private equity firms, among others, to sell their combined majority stake in the firm, sources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170421&amp;t=2&amp;i=1181504267&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3K0S8"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-21T11:38:02+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-21T11:38:02+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Anshuman Daga"/>
+    <cse:Attribute name="og:article:tag" value="Australia,China,Malaysia,Singapore,Gregory Yap,Rameez Ansar,US,M1,M,A,Hong Kong,Mergers / Acquisitions / Takeovers,Company News,Japan,Construction and Engineering (TRBC),Telecommunications Services (TRBC),China (PRC),Wireless Telecommunications Services (TRBC),Industrial Machinery and Equipment (TRBC),Corporate Events,Publishing (TRBC),Asia / Pacific,Australia,Singapore,Major News,Science,ASEAN Countries,Pictures,Emerging Market Countries,Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="China Mobile, others approached for buying into Singapore telco M1: sources"/>
+    <cse:Attribute name="twitter:description" value="Top shareholders in Singapore telecoms company M1 Ltd (MONE.SI) have approached potential buyers China Mobile (0941.HK) and global private equity firms, among others, to sell their combined majority stake in the firm, sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170421&amp;t=2&amp;i=1181504267&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3K0S8"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170421&amp;t=2&amp;i=1181504267&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3K0S8"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170421&amp;t=2&amp;i=1181504267&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3K0S8"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="268"/>
+    <cse:Attribute name="height" value="188"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPF-TBxaUjeuWkMVi8MrPp8c27UgEEw3mdMJyQ-5jgdrJt0L1rM7S-_-Vr"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/china-oil-futures-idUSL3N1HF3RR</id>
+  <updated>1970-01-18T06:41:05.314Z</updated>
+  <title type="html">China plans Shanghai crude oil futures launch in H2 2017 - sources ...</title>
+  <link href="http://www.reuters.com/article/china-oil-futures-idUSL3N1HF3RR" title="www.reuters.com"/>
+  <summary type="html">SINGAPORE/BEIJING, April 18 China is looking at launching its crude oil futures &lt;br&gt;
+in Shanghai in the second half of this year, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter&amp;nbsp;...</summary>
+  <cse:cacheId>EG7hA9a-41QJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/china-oil-futures-idUSL3N1HF3RR</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="energySector"/>
+    <cse:Attribute name="dcsext.channellist" value="rbssEnergyNews;rbssFinancialServicesAndRealEstateNews;rbssOilGasRefiningMarketing;rbssInvestmentServices;everything;china-labor;ShellEnergy;AllianzInvestments;Allianz;asia;audib2b;cfaglobal;dassaultuk;PorscheCayenne;ubs;Intel;Fidelity2014;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;MOC_US_2017;energySector;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="China+plans+Shanghai+crude+oil+futures+launch+in+H2+2017+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-energySector"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Saudi Arabia;SAUDI;SUKUK/PRICES (URGENT);Investment Banking and Investment Services (TRBC);Islamic Finance;Terms / Conditions;Credit and Corporate Debt;Saudi Arabia;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Company News;Government Finances;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Government / Politics;Corporate Events;Economic Events;General News;Investment Banking and Brokerage Services (TRBC);National Government Debt;Market Events;Banking and Investment Services (TRBC);Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Wed Apr 12 12:58:17 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="China;Oman;United States;Chen Aizhu;Florence Tan;Xi Jinping;CHINA;OIL/FUTURES;Investment Banking and Investment Services (TRBC);Asia (Energy);Energy Markets;Crude Oil;Energy (Legacy);Derivatives;Oil and Gas Refining and Marketing (TRBC);Asia / Pacific;Europe / Middle East / Africa Crudes;Middle East;Commodities Markets;Financials (TRBC);Financials (Legacy);China (PRC);Middle East (Energy);Corporate Events;Oil and Gas (TRBC);Europe / Middle East / Africa (Energy);Refined Products;Oil Refineries;Banking and Investment Services (TRBC);Energy (TRBC);North Asia (Energy);Regulation;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Tue Apr 18 09:43:10 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-12T12:58:17+0000"/>
-    <cse:Attribute name="sailthru.title" value="Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-18T09:43:10+0000"/>
+    <cse:Attribute name="sailthru.title" value="China plans Shanghai crude oil futures launch in H2 2017 - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/saudi-sukuk-prices-idUSD5N1FR00B"/>
+    <cse:Attribute name="og:title" value="China plans Shanghai crude oil futures launch in H2 2017 - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/china-oil-futures-idUSL3N1HF3RR"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Saudi Arabia has set the finalsize of its planned debut international sukuk at $8 billion,split equally between a five-year and a 10-year tranche, sourcesfamiliar with the matter said on Wednesday."/>
+    <cse:Attribute name="og:description" value="source"/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-12T12:58:17+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-12T12:58:17+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-18T09:43:10+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-18T09:43:10+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Saudi Arabia,SAUDI,SUKUK/PRICES (URGENT),Investment Banking and Investment Services (TRBC),Islamic Finance,Terms / Conditions,Credit and Corporate Debt,Saudi Arabia,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Company News,Government Finances,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Government / Politics,Corporate Events,Economic Events,General News,Investment Banking and Brokerage Services (TRBC),National Government Debt,Market Events,Banking and Investment Services (TRBC),Emerging Market Countries"/>
+    <cse:Attribute name="og:article:tag" value="China,Oman,United States,Chen Aizhu,Florence Tan,Xi Jinping,CHINA,OIL/FUTURES,Investment Banking and Investment Services (TRBC),Asia (Energy),Energy Markets,Crude Oil,Energy (Legacy),Derivatives,Oil and Gas Refining and Marketing (TRBC),Asia / Pacific,Europe / Middle East / Africa Crudes,Middle East,Commodities Markets,Financials (TRBC),Financials (Legacy),China (PRC),Middle East (Energy),Corporate Events,Oil and Gas (TRBC),Europe / Middle East / Africa (Energy),Refined Products,Oil Refineries,Banking and Investment Services (TRBC),Energy (TRBC),North Asia (Energy),Regulation,Emerging Market Countries"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Saudi Arabia sets size of debut dollar sukuk at $8 billion -sources"/>
-    <cse:Attribute name="twitter:description" value="Saudi Arabia has set the finalsize of its planned debut international sukuk at $8 billion,split equally between a five-year and a 10-year tranche, sourcesfamiliar with the matter said on Wednesday."/>
+    <cse:Attribute name="twitter:title" value="China plans Shanghai crude oil futures launch in H2 2017 - sources"/>
+    <cse:Attribute name="twitter:description" value="source"/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/energy/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
     <cse:Attribute name="wt.cg_s" value="Industries"/>
    </cse:DataObject>
@@ -637,39 +484,59 @@ year and a 10-year tranche, &lt;b&gt;sources familiar with&lt;/b&gt; the matter 
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/greg-roumeliotis</id>
-  <updated>1970-01-18T06:36:40.315Z</updated>
-  <title type="html">Greg Roumeliotis</title>
-  <link href="http://www.reuters.com/journalists/greg-roumeliotis" title="www.reuters.com"/>
-  <summary type="html">... hope will value the high-speed internet U.S. infrastructure company at more &lt;br&gt;
-than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>OOBcDv-41KMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/greg-roumeliotis</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-charter-nex-m-a-leonardgreen-idUSKBN17I0LD</id>
+  <updated>1970-01-18T06:41:05.314Z</updated>
+  <title type="html">Buyout firm Leonard Green nears $1.5 billion acquisition of Charter ...</title>
+  <link href="http://www.reuters.com/article/us-charter-nex-m-a-leonardgreen-idUSKBN17I0LD" title="www.reuters.com"/>
+  <summary type="html">... approached potential buyers China Mobile and global private equity firms, &lt;br&gt;
+among others, to sell their combined majority stake in the firm, &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>_3EHozKIthoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-charter-nex-m-a-leonardgreen-idUSKBN17I0LD</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsIndustryMaterialsAndUtilities;americasDealsNews;americasPrivateEquityNews;euDealsNews;euPrivateEquityNews;Retirement;SustainabilityGreen;SustainabilityCorporate;everything;Deals;forexNewsCopy;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;shipping;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Buyout+firm+Leonard+Green+nears+%241.5+billion+acquisition+of+Charter+NEX%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Greg Roumeliotis"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Greg Roumeliotis"/>
+    <cse:Attribute name="news_keywords" value="US;CHARTER;NEX;M;A;LEONARDGREEN;Mergers / Acquisitions / Takeovers;Company News;Film;Western Europe;Arts / Culture / Entertainment;Corporate Events;Divestitures / Spin;Offs;Investment Banking and Brokerage Services (TRBC);Government Borrowing Requirement;Corporate Finance;Europe;Non;Paper Containers and Packaging (TRBC);United Kingdom;Containers and Packaging (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Sun Apr 16 16:43:32 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Greg Roumeliotis"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-16T16:43:32+0000"/>
+    <cse:Attribute name="sailthru.title" value="Buyout firm Leonard Green nears $1.5 billion acquisition of Charter NEX: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/greg-roumeliotis"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+    <cse:Attribute name="og:title" value="Buyout firm Leonard Green nears $1.5 billion acquisition of Charter NEX: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-charter-nex-m-a-leonardgreen-idUSKBN17I0LD"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="U.S. buyout firm Leonard Green &amp; Partners LP has prevailed in an auction to acquire Charter NEX Films Inc, a U.S. manufacturer of specialty films for the food and medical industries, for $1.5 billion, including debt, people familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-16T16:43:32+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-16T16:43:32+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Greg Roumeliotis"/>
+    <cse:Attribute name="og:article:tag" value="US,CHARTER,NEX,M,A,LEONARDGREEN,Mergers / Acquisitions / Takeovers,Company News,Film,Western Europe,Arts / Culture / Entertainment,Corporate Events,Divestitures / Spin,Offs,Investment Banking and Brokerage Services (TRBC),Government Borrowing Requirement,Corporate Finance,Europe,Non,Paper Containers and Packaging (TRBC),United Kingdom,Containers and Packaging (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Buyout firm Leonard Green nears $1.5 billion acquisition of Charter NEX: sources"/>
+    <cse:Attribute name="twitter:description" value="U.S. buyout firm Leonard Green &amp; Partners LP has prevailed in an auction to acquire Charter NEX Films Inc, a U.S. manufacturer of specialty films for the food and medical industries, for $1.5 billion, including debt, people familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -678,6 +545,208 @@ than $7 billion, including debt, according to &lt;b&gt;sources familiar with&lt;
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-siam-comrcl-m-a-insurance-idUSKBN17L0G6</id>
+  <updated>1970-01-18T06:41:05.314Z</updated>
+  <title type="html">Thailand&amp;#39;s Siam Commercial in exclusive talks with FWD for $3 ...</title>
+  <link href="http://www.reuters.com/article/us-siam-comrcl-m-a-insurance-idUSKBN17L0G6" title="www.reuters.com"/>
+  <summary type="html">... approached potential buyers China Mobile and global private equity firms, &lt;br&gt;
+among others, to sell their combined majority stake in the firm, &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>15eawEF1PrcJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-siam-comrcl-m-a-insurance-idUSKBN17L0G6</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsFinancialServicesAndRealEstate;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;everything;India;Deals;AllianzInsurance;AllianzInvestments;Allianz;asia;newsproHome;cfaglobal;aa48hours;ubs;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Thailand%27s+Siam+Commercial+in+exclusive+talks+with+FWD+for+%243+billion+insurance+sale%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Sumeet Chatterjee and Anshuman Daga"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Sumeet Chatterjee and Anshuman Daga"/>
+    <cse:Attribute name="news_keywords" value="Australia;India;Indonesia;Macau;Philippines;Thailand;Vietnam;Aaron Pan;Li Ka;shing;Tzar Kai Li;US;SIAM;COMRCL;M;A;INSURANCE;Hong Kong;Mergers / Acquisitions / Takeovers;Insurance;Linked Securities;Divestitures / Spin;Offs;Asia / Pacific;Major News;Government Borrowing Requirement;Insurance Brokers (TRBC);Deals;United Kingdom;Canada;Banking Services (TRBC);Life and Health Insurance (TRBC);Banks (TRBC);Company News;Insurance (TRBC);Financials (TRBC);Financials (Legacy);China (PRC);Corporate Events;Thailand;Banking and Investment Services (TRBC);Europe;ASEAN Countries;Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Wed Apr 19 05:49:39 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Sumeet Chatterjee and Anshuman Daga"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-19T05:49:39+0000"/>
+    <cse:Attribute name="sailthru.title" value="Thailand&apos;s Siam Commercial in exclusive talks with FWD for $3 billion insurance sale: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Thailand&apos;s Siam Commercial in exclusive talks with FWD for $3 billion insurance sale: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-siam-comrcl-m-a-insurance-idUSKBN17L0G6"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Siam Commercial Bank (SCB) (SCB.BK) has entered into exclusive talks with Hong Kong insurer FWD Group to sell its life insurance arm, which could raise $3 billion for Thailand&apos;s third-biggest lender, people with direct knowledge of the matter said."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170419&amp;t=2&amp;i=1181145153&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3I09M"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-19T05:49:39+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-19T05:49:39+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Sumeet Chatterjee and Anshuman Daga"/>
+    <cse:Attribute name="og:article:tag" value="Australia,India,Indonesia,Macau,Philippines,Thailand,Vietnam,Aaron Pan,Li Ka,shing,Tzar Kai Li,US,SIAM,COMRCL,M,A,INSURANCE,Hong Kong,Mergers / Acquisitions / Takeovers,Insurance,Linked Securities,Divestitures / Spin,Offs,Asia / Pacific,Major News,Government Borrowing Requirement,Insurance Brokers (TRBC),Deals,United Kingdom,Canada,Banking Services (TRBC),Life and Health Insurance (TRBC),Banks (TRBC),Company News,Insurance (TRBC),Financials (TRBC),Financials (Legacy),China (PRC),Corporate Events,Thailand,Banking and Investment Services (TRBC),Europe,ASEAN Countries,Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Thailand&apos;s Siam Commercial in exclusive talks with FWD for $3 billion insurance sale: sources"/>
+    <cse:Attribute name="twitter:description" value="Siam Commercial Bank (SCB) (SCB.BK) has entered into exclusive talks with Hong Kong insurer FWD Group to sell its life insurance arm, which could raise $3 billion for Thailand&apos;s third-biggest lender, people with direct knowledge of the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170419&amp;t=2&amp;i=1181145153&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3I09M"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170419&amp;t=2&amp;i=1181145153&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3I09M"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170419&amp;t=2&amp;i=1181145153&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3I09M"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQa6MSYXiLfTyEIDN4r2qIgwzddjc0lW7SpGEtf1QPUZsDKc9-SLPu4sbJ"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/opec-meeting-idUSL8N1HR3V1</id>
+  <updated>1970-01-18T06:41:05.314Z</updated>
+  <title type="html">OPEC, non-OPEC to meet on same day as group&amp;#39;s May gathering ...</title>
+  <link href="http://www.reuters.com/article/opec-meeting-idUSL8N1HR3V1" title="www.reuters.com"/>
+  <summary type="html">OPEC plans to meet withnon-OPEC oil producers on the same day as its &lt;br&gt;
+scheduled May 25conference, &lt;b&gt;sources familiar with&lt;/b&gt; the arrangements said, as&amp;nbsp;...</summary>
+  <cse:cacheId>nagmRgoATdoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/opec-meeting-idUSL8N1HR3V1</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="energySector"/>
+    <cse:Attribute name="dcsext.channellist" value="rbssEnergyNews;SustainabilityCorporate;everything;Deals;forexNewsCopy;ShellEnergy;Hyundai;Allianz;cfaglobal;shipping;nonegative;dassaultuk;PorscheCayenne;ubs;Intel;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017;energySector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="OPEC%2C+non-OPEC+to+meet+on+same+day+as+group%27s+May+gathering-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-energySector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Russia;Saudi Arabia;United States;OPEC;MEETING/;Energy Markets;Russia;Crude Oil;Energy (Legacy);Africa;Central / Eastern Europe;Saudi Arabia;Asia / Pacific;Major News;Middle East;Organization of the Petroleum Exporting Countries;International Agencies / Treaty Groups;United States;Commodities Markets;Americas;CIS Countries;Diplomacy / Foreign Policy;Government / Politics;Corporate Events;Economic Events;Oil and Gas (TRBC);General News;Refined Products;Energy (TRBC);Europe;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Apr 19 13:22:36 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-19T13:22:36+0000"/>
+    <cse:Attribute name="sailthru.title" value="OPEC, non-OPEC to meet on same day as group&apos;s May gathering-sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="OPEC, non-OPEC to meet on same day as group&apos;s May gathering-sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/opec-meeting-idUSL8N1HR3V1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="OPEC plans to meet withnon-OPEC oil producers on the same day as its scheduled May 25conference, sources familiar with the arrangements said, as theydecide whether to extend supply cuts into the second half of theyear."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-19T13:22:36+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-19T13:22:36+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Russia,Saudi Arabia,United States,OPEC,MEETING/,Energy Markets,Russia,Crude Oil,Energy (Legacy),Africa,Central / Eastern Europe,Saudi Arabia,Asia / Pacific,Major News,Middle East,Organization of the Petroleum Exporting Countries,International Agencies / Treaty Groups,United States,Commodities Markets,Americas,CIS Countries,Diplomacy / Foreign Policy,Government / Politics,Corporate Events,Economic Events,Oil and Gas (TRBC),General News,Refined Products,Energy (TRBC),Europe,Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="OPEC, non-OPEC to meet on same day as group&apos;s May gathering-sources"/>
+    <cse:Attribute name="twitter:description" value="OPEC plans to meet withnon-OPEC oil producers on the same day as its scheduled May 25conference, sources familiar with the arrangements said, as theydecide whether to extend supply cuts into the second half of theyear."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/energy/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.politico.com/story/2017/04/19/donald-trump-border-security-shutdown-fight-237376</id>
+  <updated>1970-01-18T06:41:05.314Z</updated>
+  <title type="html">White House eyes harder line on shutdown talks - POLITICO</title>
+  <link href="http://www.politico.com/story/2017/04/19/donald-trump-border-security-shutdown-fight-237376" title="www.politico.com"/>
+  <summary type="html">... for a border wall, more immigration enforcement officers and a bigger military, &lt;br&gt;
+according to White House and congressional &lt;b&gt;sources familiar with&lt;/b&gt; the plan.</summary>
+  <cse:cacheId>D4hrf2PRD84J</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/.../donald-trump-border-security-shutdown-fight-237376</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Josh Dawsey"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/josh-dawsey"/>
+    <cse:Attribute name="url_text" value="Josh Dawsey"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jake Sherman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
+    <cse:Attribute name="url_text" value="Jake Sherman"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Josh Dawsey"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/josh-dawsey"/>
+    <cse:Attribute name="url_text" value="Josh Dawsey"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jake Sherman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
+    <cse:Attribute name="url_text" value="Jake Sherman"/>
+   </cse:DataObject>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="og:title" value="White House eyes harder line on shutdown talks"/>
+    <cse:Attribute name="og:description" value="The push for tighter border security is risky and comes amid pressure for a win."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2pDsG73"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/Jakeshermanpolitico"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/ef/1b/0f5ee4524a3ca35a4a9a301ac2c0/170419-border-security-gty-1160.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@politico"/>
+    <cse:Attribute name="twitter:creator" value="@politico"/>
+    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
+    <cse:Attribute name="og:site_name" value="POLITICO"/>
+    <cse:Attribute name="host" value="www.politico.com"/>
+    <cse:Attribute name="build" value="hotfix/don-2017-04-21 98c6954 2017-04-21T18:51:26Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="White House eyes harder line on shutdown talks"/>
+    <cse:Attribute name="datepublished" value="2017-04-19T05:14-0400"/>
+    <cse:Attribute name="datemodified" value="2017-04-19T05:43-0400"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="url" value="http://www.politico.com/"/>
+    <cse:Attribute name="name" value="POLITICO"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://static.politico.com/ef/1b/0f5ee4524a3ca35a4a9a301ac2c0/170419-border-security-gty-1160.jpg"/>
+    <cse:Attribute name="width" value="1160"/>
+    <cse:Attribute name="height" value="550"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Josh Dawsey"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static.politico.com/ef/1b/0f5ee4524a3ca35a4a9a301ac2c0/170419-border-security-gty-1160.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="305"/>
+    <cse:Attribute name="height" value="165"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR84JoCBErNcys6wj-uy6i-KJJxUdJz8JZmMX9U0u3y8XIdLX1UYZO6mZc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
