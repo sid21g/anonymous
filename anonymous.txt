@@ -1,298 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "sources familiar with"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "according to people with direct knowledge"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="according to people with direct knowledge"&amp;cx=012091639844104041986:munhfapni70&amp;num=5&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T06:51:23.530Z</updated>
+ <updated>1970-01-18T06:52:37.782Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>15000</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;according to people with direct knowledge&quot;" totalResults="5" searchTerms="&quot;according to people with direct knowledge&quot;" count="5" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>5</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.514916</cse:searchTime>
-  <cse:formattedSearchTime>0.51</cse:formattedSearchTime>
-  <cse:totalResults>15000</cse:totalResults>
-  <cse:formattedTotalResults>15,000</cse:formattedTotalResults>
+  <cse:searchTime>0.256774</cse:searchTime>
+  <cse:formattedSearchTime>0.26</cse:formattedSearchTime>
+  <cse:totalResults>5</cse:totalResults>
+  <cse:formattedTotalResults>5</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-uzbekistan-politics-idUSKBN17S1LS</id>
-  <updated>1970-01-18T06:51:23.530Z</updated>
-  <title type="html">Exclusive: Uzbek president sidelines member of ruling triumvirate ...</title>
-  <link href="http://www.reuters.com/article/us-uzbekistan-politics-idUSKBN17S1LS" title="www.reuters.com"/>
-  <summary type="html">... his power by sidelining a member of the triumvirate that has ruled the ex-Soviet &lt;br&gt;
-state since last year, two &lt;b&gt;sources familiar with&lt;/b&gt; the government told Reuters.</summary>
-  <cse:cacheId>D-98Bn9kRNgJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-uzbekistan-politics-idUSKBN17S1LS</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="worldNews;newsMaps;SustainabilityGreen;SustainabilityCorporate;everything;Deals;forexNewsCopy;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;newsproHome;verizonmm;marine;cfaglobal;aa48hours;shipping;dassaultuk;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Uzbek+president+sidelines+member+of+ruling+triumvirate+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Olzhas Auyezov"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
-    <cse:Attribute name="author" value="Olzhas Auyezov"/>
-    <cse:Attribute name="news_keywords" value="Afghanistan;Russia;United States;Uzbekistan;Karimov;RUSTAM AZIMOV;Rustam Inoyatov;Shavkat Mirziyoyev;Sodiq Safoyev;US;UZBEKISTAN;POLITICS;Russia;Exclusive;Asia / Pacific;Kyrgyzstan;Conflicts / War / Peace;Economic News (3rd Party);United States;Key Personnel Changes;Afghanistan;Uzbekistan;CIS Countries;Cotton;Diplomacy / Foreign Policy;China (PRC);Government / Politics;Kazakhstan;General News;Tajikistan;Europe;Turkmenistan"/>
-    <cse:Attribute name="revision_date" value="Wed Apr 26 12:26:12 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Olzhas Auyezov"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-26T12:26:12+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Uzbek president sidelines member of ruling triumvirate - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Uzbek president sidelines member of ruling triumvirate - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-uzbekistan-politics-idUSKBN17S1LS"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Shavkat Mirziyoyev, the new president of Uzbekistan, has moved to consolidate his power by sidelining a member of the triumvirate that has ruled the ex-Soviet state since last year, two sources familiar with the government told Reuters."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170426&amp;t=2&amp;i=1182121502&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3P0RR"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-26T12:26:12+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-26T12:26:12+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
-    <cse:Attribute name="og:article:author" value="Olzhas Auyezov"/>
-    <cse:Attribute name="og:article:tag" value="Afghanistan,Russia,United States,Uzbekistan,Karimov,RUSTAM AZIMOV,Rustam Inoyatov,Shavkat Mirziyoyev,Sodiq Safoyev,US,UZBEKISTAN,POLITICS,Russia,Exclusive,Asia / Pacific,Kyrgyzstan,Conflicts / War / Peace,Economic News (3rd Party),United States,Key Personnel Changes,Afghanistan,Uzbekistan,CIS Countries,Cotton,Diplomacy / Foreign Policy,China (PRC),Government / Politics,Kazakhstan,General News,Tajikistan,Europe,Turkmenistan"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Uzbek president sidelines member of ruling triumvirate - sources"/>
-    <cse:Attribute name="twitter:description" value="Shavkat Mirziyoyev, the new president of Uzbekistan, has moved to consolidate his power by sidelining a member of the triumvirate that has ruled the ex-Soviet state since last year, two sources familiar with the government told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170426&amp;t=2&amp;i=1182121502&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3P0RR"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170426&amp;t=2&amp;i=1182121502&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3P0RR"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170426&amp;t=2&amp;i=1182121502&amp;w=780&amp;fh=&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3P0RR"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzVZEOoKS-tD7sppJD-T3-I1NA29eitU-fGojk0bEd9kl_G4Lil5ccd7g"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-tesla-germany-exclusive-idUSKBN17T2IY</id>
-  <updated>1970-01-18T06:51:23.530Z</updated>
-  <title type="html">Exclusive: Tesla&amp;#39;s Klaus Grohmann ousted after clash with CEO Musk</title>
-  <link href="http://www.reuters.com/article/us-tesla-germany-exclusive-idUSKBN17T2IY" title="www.reuters.com"/>
-  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said Tesla&amp;#39;s plans to ramp up production &lt;br&gt;
-with the help of the company now renamed Tesla Grohmann Automation remain&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>ymuwar1pBr8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-tesla-germany-exclusive-idUSKBN17T2IY</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;businessNews;technologyNews;vbcSmallBusiness;Retirement;innovationAMD;everything;Deals;AllianzRetirement;Hyundai;Allianz;newsproHome;cfaglobal;aa48hours;shipping;dassaultuk;ubs;globalinnovations;Intel;PFG;Fidelity2014;LinkedInBusTech;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;USWire;hsbcDubai;ABG_2016;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Tesla%27s+Klaus+Grohmann+ousted+after+clash+with+CEO+Musk+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Edward Taylor"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow-Video"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Edward Taylor"/>
-    <cse:Attribute name="news_keywords" value="Luxembourg;Luxembourg;Elon Musk;Klaus Grohmann;Elon Musk;Klaus Grohmann;US;TESLA;GERMANY;EXCLUSIVE;Chemicals (Legacy);Germany;Mergers / Acquisitions / Takeovers;Switzerland;Company News;Auto and Truck Manufacturers (TRBC);Western Europe;Exclusive;Corporate Events;Semiconductors (TRBC);Major News;Auto : Truck and Motorcycle Parts (TRBC);Europe;Science;Generic and Specialty Pharmaceuticals (TRBC);United States"/>
-    <cse:Attribute name="revision_date" value="Fri Apr 28 16:04:00 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Edward Taylor"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-28T16:04:00+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Tesla&apos;s Klaus Grohmann ousted after clash with CEO Musk - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Tesla&apos;s Klaus Grohmann ousted after clash with CEO Musk - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-tesla-germany-exclusive-idUSKBN17T2IY"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Tesla executive Klaus Grohmann was ousted last month after a clash with Chief Executive Elon Musk over the strategy of Grohmann&apos;s firm, which Tesla had acquired in November, a source familiar with the matter told Reuters."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170428&amp;t=2&amp;i=1182420031&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3Q1F3"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-28T16:04:00+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-28T16:04:00+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Edward Taylor"/>
-    <cse:Attribute name="og:article:tag" value="Luxembourg,Luxembourg,Elon Musk,Klaus Grohmann,Elon Musk,Klaus Grohmann,US,TESLA,GERMANY,EXCLUSIVE,Chemicals (Legacy),Germany,Mergers / Acquisitions / Takeovers,Switzerland,Company News,Auto and Truck Manufacturers (TRBC),Western Europe,Exclusive,Corporate Events,Semiconductors (TRBC),Major News,Auto : Truck and Motorcycle Parts (TRBC),Europe,Science,Generic and Specialty Pharmaceuticals (TRBC),United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Tesla&apos;s Klaus Grohmann ousted after clash with CEO Musk - sources"/>
-    <cse:Attribute name="twitter:description" value="Tesla executive Klaus Grohmann was ousted last month after a clash with Chief Executive Elon Musk over the strategy of Grohmann&apos;s firm, which Tesla had acquired in November, a source familiar with the matter told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170428&amp;t=2&amp;i=1182420031&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3Q1F3"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170428&amp;t=2&amp;i=1182420031&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3Q1F3"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170428&amp;t=2&amp;i=1182420031&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3Q1F3"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrIxc-CO0v4hai8wYDJCIIdP-MJ4Z29r_2fyF1klCT0urBQ2uvNAe7LPE4"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-en-ipo-idUSKBN17S28N</id>
-  <updated>1970-01-18T06:51:23.530Z</updated>
-  <title type="html">Russian tycoon Deripaska&amp;#39;s En+ wants to raise $2 billion in listing ...</title>
-  <link href="http://www.reuters.com/article/us-en-ipo-idUSKBN17S28N" title="www.reuters.com"/>
-  <summary type="html">... aluminum and hydro power businesses, plans to raise $2 billion in an initial &lt;br&gt;
-public offering (IPO) in London and Moscow, &lt;b&gt;sources familiar with&lt;/b&gt; the deal said.</summary>
-  <cse:cacheId>4aUW7x34uN4J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-en-ipo-idUSKBN17S28N</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;innovationNewsConsumerGoodsAndRetail;innovationNewsFinancialServicesAndRealEstate;innovationNewsIndustryMaterialsAndUtilities;asiaDealsNews;asiaPrivateEquityNews;euDealsNews;euPrivateEquityNews;russia;innovationAMD;everything;Deals;forexNewsCopy;ShellEnergy;AllianzInvestments;Allianz;newsproHome;verizonmm;cfaglobal;aa48hours;shipping;PorscheCayenne;ubs;Intel;PFG;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Russian+tycoon+Deripaska%27s+En%2B+wants+to+raise+%242+billion+in+listing%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Dasha Afanasieva and Olga Popova"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Dasha Afanasieva and Olga Popova"/>
-    <cse:Attribute name="news_keywords" value="Russia;United States;Oleg Deripaska;US;EN;IPO;Performance / Results / Earnings;Security Listings / Delistings;Hong Kong;Mergers / Acquisitions / Takeovers;Russia;Precious Metals and Minerals (TRBC);Western Europe;Initial Public Offerings;Aluminium;Base Metals;Equity Financing;Equity Investments;Specialty Mining and Metals (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Coal;Government Borrowing Requirement;Department Stores (TRBC);United Kingdom;Hydroelectric Power Stations;Aluminum (TRBC);Results Forecasts / Warnings;Banks (TRBC);Company News;Utilities (TRBC);New Issues;Corporate Events;European Union;Metals Markets;Banking and Investment Services (TRBC);Energy (TRBC);Metals and Mining (TRBC);Electric Utilities (TRBC);Europe;Industrial Conglomerates (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Wed Apr 26 16:06:10 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Dasha Afanasieva and Olga Popova"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-26T16:06:10+0000"/>
-    <cse:Attribute name="sailthru.title" value="Russian tycoon Deripaska&apos;s En+ wants to raise $2 billion in listing: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Russian tycoon Deripaska&apos;s En+ wants to raise $2 billion in listing: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-en-ipo-idUSKBN17S28N"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="En+ Group, which manages Russian tycoon Oleg Deripaska&apos;s aluminum and hydro power businesses, plans to raise $2 billion in an initial public offering (IPO) in London and Moscow, sources familiar with the deal said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-26T16:06:10+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-26T16:06:10+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Dasha Afanasieva and Olga Popova"/>
-    <cse:Attribute name="og:article:tag" value="Russia,United States,Oleg Deripaska,US,EN,IPO,Performance / Results / Earnings,Security Listings / Delistings,Hong Kong,Mergers / Acquisitions / Takeovers,Russia,Precious Metals and Minerals (TRBC),Western Europe,Initial Public Offerings,Aluminium,Base Metals,Equity Financing,Equity Investments,Specialty Mining and Metals (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Coal,Government Borrowing Requirement,Department Stores (TRBC),United Kingdom,Hydroelectric Power Stations,Aluminum (TRBC),Results Forecasts / Warnings,Banks (TRBC),Company News,Utilities (TRBC),New Issues,Corporate Events,European Union,Metals Markets,Banking and Investment Services (TRBC),Energy (TRBC),Metals and Mining (TRBC),Electric Utilities (TRBC),Europe,Industrial Conglomerates (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Russian tycoon Deripaska&apos;s En+ wants to raise $2 billion in listing: sources"/>
-    <cse:Attribute name="twitter:description" value="En+ Group, which manages Russian tycoon Oleg Deripaska&apos;s aluminum and hydro power businesses, plans to raise $2 billion in an initial public offering (IPO) in London and Moscow, sources familiar with the deal said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-britain-security-suspect-idUSKBN17U2HS</id>
-  <updated>1970-01-18T06:51:23.530Z</updated>
-  <title type="html">London terrorism suspect was on Gaza flotilla ship in 2010: sources ...</title>
-  <link href="http://www.reuters.com/article/us-britain-security-suspect-idUSKBN17U2HS" title="www.reuters.com"/>
-  <summary type="html">... knives near Prime Minister Theresa May&amp;#39;s office, was on a ship raided by &lt;br&gt;
-Israeli soldiers in 2010, &lt;b&gt;sources familiar with&lt;/b&gt; the investigation have told Reuters.</summary>
-  <cse:cacheId>cx7SQ2yH0fMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-britain-security-suspect-idUSKBN17U2HS</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="topNews;newsOne;worldNews;newsMaps;everything;Deals;Hyundai;israel;middle-east;newsproHome;audib2b;aa48hours;shipping;nonegative;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;MOC_US_2017;BigStory12;GCA-live-feed"/>
-    <cse:Attribute name="dcsext.contentheadline" value="London+terrorism+suspect+was+on+Gaza+flotilla+ship+in+2010%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Egypt;Libya;Khalid Omar Ali;Theresa May;US;BRITAIN;SECURITY;SUSPECT;Crime / Law / Justice;Egypt;Israel;Palestinian Territories;Western Europe;England;Crime;Government / Politics;Transportation (TRBC);Corporate Events;Major News;Government Borrowing Requirement;Europe;Middle East;United Kingdom;International / National Security;Conflicts / War / Peace;Civil Unrest"/>
-    <cse:Attribute name="revision_date" value="Fri Apr 28 17:07:05 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-28T17:07:05+0000"/>
-    <cse:Attribute name="sailthru.title" value="London terrorism suspect was on Gaza flotilla ship in 2010: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="London terrorism suspect was on Gaza flotilla ship in 2010: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-britain-security-suspect-idUSKBN17U2HS"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="A man arrested on suspicion of planning a terrorist act on Thursday, carrying knives near Prime Minister Theresa May&apos;s office, was on a ship raided by Israeli soldiers in 2010, sources familiar with the investigation have told Reuters."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170428&amp;t=2&amp;i=1182529990&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3R1IX"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-28T17:07:05+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-28T17:07:05+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Egypt,Libya,Khalid Omar Ali,Theresa May,US,BRITAIN,SECURITY,SUSPECT,Crime / Law / Justice,Egypt,Israel,Palestinian Territories,Western Europe,England,Crime,Government / Politics,Transportation (TRBC),Corporate Events,Major News,Government Borrowing Requirement,Europe,Middle East,United Kingdom,International / National Security,Conflicts / War / Peace,Civil Unrest"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="London terrorism suspect was on Gaza flotilla ship in 2010: sources"/>
-    <cse:Attribute name="twitter:description" value="A man arrested on suspicion of planning a terrorist act on Thursday, carrying knives near Prime Minister Theresa May&apos;s office, was on a ship raided by Israeli soldiers in 2010, sources familiar with the investigation have told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170428&amp;t=2&amp;i=1182529990&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3R1IX"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170428&amp;t=2&amp;i=1182529990&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3R1IX"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170428&amp;t=2&amp;i=1182529990&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3R1IX"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="271"/>
-    <cse:Attribute name="height" value="186"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVUlT4-pZ4lwlIxVJSgradrfWCS41tpc1EzXbqQMLCw-Xn2ZePW0Ky14YQ"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.politico.com/story/2017/04/24/net-neutrality-fcc-237543</id>
-  <updated>1970-01-18T06:51:23.530Z</updated>
-  <title type="html">FCC chief to launch net neutrality rewrite this week, sources say ...</title>
-  <link href="http://www.politico.com/story/2017/04/24/net-neutrality-fcc-237543" title="www.politico.com"/>
-  <summary type="html">FCC Chairman Ajit Pai intends to launch his reworking of the Obama-era net &lt;br&gt;
-neutrality rules, according to &lt;b&gt;sources familiar with&lt;/b&gt; the plan, setting up a &lt;br&gt;
-showdown&amp;nbsp;...</summary>
-  <cse:cacheId>vNNi6u1cDtsJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.politico.com/story/2017/04/24/net-neutrality-fcc-237543</cse:formattedUrl>
+  <id>http://www.politico.com/story/2017/04/25/michael-flynn-turkey-russia-237550</id>
+  <updated>1970-01-18T06:52:37.782Z</updated>
+  <title type="html">Flynn&amp;#39;s Turkish lobbying linked to Russia - POLITICO</title>
+  <link href="http://www.politico.com/story/2017/04/25/michael-flynn-turkey-russia-237550" title="www.politico.com"/>
+  <summary type="html">But the firms sometimes sent invoices to one of Zaikin&amp;#39;s companies, Key &lt;br&gt;
+Elements Group in London, &lt;b&gt;according to people with direct knowledge&lt;/b&gt; of the &lt;br&gt;
+dealings.</summary>
+  <cse:cacheId>_ENW_hW6yQoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/story/2017/.../michael-flynn-turkey-russia-237550</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Margaret Harding McGill"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/margaret-harding-mcgill"/>
-    <cse:Attribute name="url_text" value="Margaret Harding McGill"/>
+    <cse:Attribute name="fn" value="Isaac Arnsdorf"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/isaac-arnsdorf"/>
+    <cse:Attribute name="url_text" value="Isaac Arnsdorf"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Michael Grunwald"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/michael-grunwald"/>
+    <cse:Attribute name="url_text" value="Michael Grunwald"/>
    </cse:DataObject>
    <cse:DataObject type="hcard">
     <cse:Attribute name="fn" value="Burgess Everett"/>
@@ -300,176 +47,133 @@ showdown&amp;nbsp;...</summary>
     <cse:Attribute name="url_text" value="Burgess Everett"/>
    </cse:DataObject>
    <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Margaret Harding McGill"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/margaret-harding-mcgill"/>
-    <cse:Attribute name="url_text" value="Margaret Harding McGill"/>
+    <cse:Attribute name="fn" value="Annie Karni"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/annie-karni"/>
+    <cse:Attribute name="url_text" value="Annie Karni"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Nahal Toosi"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/nahal-toosi"/>
+    <cse:Attribute name="url_text" value="Nahal Toosi"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Isaac Arnsdorf"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/isaac-arnsdorf"/>
+    <cse:Attribute name="url_text" value="Isaac Arnsdorf"/>
    </cse:DataObject>
    <cse:DataObject type="hcard">
     <cse:Attribute name="fn" value="Burgess Everett"/>
    </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Annie Karni"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Nahal Toosi"/>
+   </cse:DataObject>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="og:title" value="FCC chief to launch net neutrality rewrite this week, sources say"/>
-    <cse:Attribute name="og:description" value="Ajit Pai is to speak in Washington on Wednesday."/>
+    <cse:Attribute name="og:title" value="Flynn’s Turkish lobbying linked to Russia"/>
+    <cse:Attribute name="og:description" value="The former national security adviser’s client had business dealings in Russia and worked with an executive in Russian oil companies on Turkish lobbying projects."/>
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://politi.co/2pby92a"/>
-    <cse:Attribute name="og:image" value="http://static.politico.com/1f/10/03251ab142c3bf07cebeae56177d/170120-ajit-pai-ap-638357301139.jpg"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2q0ZV44"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/2e/eb/d5fb0c5e435ab99460b655a2e96a/170424-michael-flynn-ap-17089851495505.jpg"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
     <cse:Attribute name="twitter:site" value="@politico"/>
     <cse:Attribute name="twitter:creator" value="@politico"/>
     <cse:Attribute name="og:fb_appid" value="114037015331397"/>
     <cse:Attribute name="og:site_name" value="POLITICO"/>
     <cse:Attribute name="host" value="www.politico.com"/>
-    <cse:Attribute name="build" value="hotfix/don-2017-04-21 98c6954 2017-04-21T18:51:26Z"/>
+    <cse:Attribute name="build" value="hotfix/2017-04-28 30d5b22 2017-04-28T18:45:23Z"/>
    </cse:DataObject>
    <cse:DataObject type="article">
-    <cse:Attribute name="headline" value="FCC chief to launch net neutrality rewrite this week, sources say"/>
-    <cse:Attribute name="datepublished" value="2017-04-24T06:22-0400"/>
-    <cse:Attribute name="datemodified" value="2017-04-24T07:50-0400"/>
+    <cse:Attribute name="headline" value="Flynn’s Turkish lobbying linked to Russia"/>
+    <cse:Attribute name="datepublished" value="2017-04-25T05:14-0400"/>
    </cse:DataObject>
    <cse:DataObject type="organization">
     <cse:Attribute name="url" value="http://www.politico.com/"/>
     <cse:Attribute name="name" value="POLITICO"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://static.politico.com/1f/10/03251ab142c3bf07cebeae56177d/170120-ajit-pai-ap-638357301139.jpg"/>
+    <cse:Attribute name="url" value="http://static.politico.com/2e/eb/d5fb0c5e435ab99460b655a2e96a/170424-michael-flynn-ap-17089851495505.jpg"/>
     <cse:Attribute name="width" value="1160"/>
     <cse:Attribute name="height" value="550"/>
    </cse:DataObject>
    <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Margaret Harding McGill"/>
+    <cse:Attribute name="name" value="Isaac Arnsdorf"/>
    </cse:DataObject>
    <cse:DataObject type="person">
     <cse:Attribute name="name" value="Burgess Everett"/>
    </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Annie Karni"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Nahal Toosi"/>
+   </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static.politico.com/1f/10/03251ab142c3bf07cebeae56177d/170120-ajit-pai-ap-638357301139.jpg"/>
+    <cse:Attribute name="src" value="http://static.politico.com/2e/eb/d5fb0c5e435ab99460b655a2e96a/170424-michael-flynn-ap-17089851495505.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="305"/>
     <cse:Attribute name="height" value="165"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr2AwOjVaMRyttFL7B1cymK_m5Skk_hz0zQxo3xcTfxOIaYbmZsnvlscTc"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKVqYL34JOMsciDKpCy4tm7Z5VP3sEDV4BCBBl3mVIQpVK-v8sZstc42o"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/m1-ma-idUSL4N1HW0Y5</id>
-  <updated>1970-01-18T06:51:23.530Z</updated>
-  <title type="html">RPT-China Mobile, others approached for buying into Singapore ...</title>
-  <link href="http://www.reuters.com/article/m1-ma-idUSL4N1HW0Y5" title="www.reuters.com"/>
-  <summary type="html">... buyers China Mobile and global privateequity firms, among others, to sell their &lt;br&gt;
-combined majoritystake in the firm, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>GS6Qw7uQ9yEJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/m1-ma-idUSL4N1HW0Y5</cse:formattedUrl>
+  <id>http://www.reuters.com/article/press-digest-wsj-idUSL4N1HW280</id>
+  <updated>1970-01-18T06:52:37.782Z</updated>
+  <title type="html">PRESS DIGEST - Wall Street Journal - April 24 | Reuters</title>
+  <link href="http://www.reuters.com/article/press-digest-wsj-idUSL4N1HW280" title="www.reuters.com"/>
+  <summary type="html">... misappropriated by a conspiracy of former executives and advisers to both &lt;br&gt;
+funds, &lt;b&gt;according to people with direct knowledge&lt;/b&gt; of the deal. on.wsj.com/&lt;br&gt;
+2pVIBNT.</summary>
+  <cse:cacheId>q4zOzdNI7LEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/press-digest-wsj-idUSL4N1HW280</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="privateEquity"/>
-    <cse:Attribute name="dcsext.channellist" value="rbssFinancialServicesAndRealEstateNews;rbssIndustryMaterialsUtilitiesNews;rbssTechMediaTelecomNews;privateEquity;rbssInvestmentServices;rbssIndustrialMachineryEquipment;rbssPublishing;rbssWirelessTelecommunicationServices;technology-media-telco-SP;privateEquityFinancialServicesAndRealEstate;privateEquityTechMediaTelco;privateEquityIndustryMaterialsAndUtilities;corporateResponsibility;SustainabilityCorporate;SustainabilitySocial;everything;Deals;ShellEnergy;AllianzRetirement;AllianzInvestments;Allianz;verizonmm;audib2b;cfaglobal;aa48hours;shipping;dassaultuk;MBenz;ubs;Intel;PFG;Fidelity2014;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;cyclicalConsumerGoodsSector;financialsSector;industrialsSector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="RPT-China+Mobile%2C+others+approached+for+buying+into+Singapore+telco+M1+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-privateEquity"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Australia;China;Malaysia;Pakistan;Singapore;Thailand;Gregory Yap;Rameez Ansar;M1;MandA/ (REPEAT;URGENT;PIX);Investment Banking and Investment Services (TRBC);Hong Kong;Mergers / Acquisitions / Takeovers;Japan;Construction and Engineering (TRBC);Industrial Goods (TRBC);Media and Publishing (TRBC);Industrial Machinery and Equipment (TRBC);Asia / Pacific;Singapore;Major News;Industrials (TRBC);Machinery : Equipment and Components (TRBC);Cyclical Consumer Services (TRBC);Deals;Media / Publishing (Legacy);Funds;Company News;Financials (TRBC);Financials (Legacy);Telecommunications Services (TRBC);China (PRC);Wireless Telecommunications Services (TRBC);Corporate Events;Publishing (TRBC);Australia;Banking and Investment Services (TRBC);Industrial Services (TRBC);Cyclical Consumer Goods and Services (TRBC);ASEAN Countries;Technology / Media / Telecoms;Emerging Market Countries;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Mon Apr 24 01:12:14 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-24T01:12:14+0000"/>
-    <cse:Attribute name="sailthru.title" value="RPT-China Mobile, others approached for buying into Singapore telco M1 -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="RPT-China Mobile, others approached for buying into Singapore telco M1 -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/m1-ma-idUSL4N1HW0Y5"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Top shareholders inSingapore telecoms company M1 Ltd have approachedpotential buyers China Mobile and global privateequity firms, among others, to sell their combined majoritystake in the firm, sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-24T01:12:14+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-24T01:12:14+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Australia,China,Malaysia,Pakistan,Singapore,Thailand,Gregory Yap,Rameez Ansar,M1,MandA/ (REPEAT,URGENT,PIX),Investment Banking and Investment Services (TRBC),Hong Kong,Mergers / Acquisitions / Takeovers,Japan,Construction and Engineering (TRBC),Industrial Goods (TRBC),Media and Publishing (TRBC),Industrial Machinery and Equipment (TRBC),Asia / Pacific,Singapore,Major News,Industrials (TRBC),Machinery : Equipment and Components (TRBC),Cyclical Consumer Services (TRBC),Deals,Media / Publishing (Legacy),Funds,Company News,Financials (TRBC),Financials (Legacy),Telecommunications Services (TRBC),China (PRC),Wireless Telecommunications Services (TRBC),Corporate Events,Publishing (TRBC),Australia,Banking and Investment Services (TRBC),Industrial Services (TRBC),Cyclical Consumer Goods and Services (TRBC),ASEAN Countries,Technology / Media / Telecoms,Emerging Market Countries,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="RPT-China Mobile, others approached for buying into Singapore telco M1 -sources"/>
-    <cse:Attribute name="twitter:description" value="Top shareholders inSingapore telecoms company M1 Ltd have approachedpotential buyers China Mobile and global privateequity firms, among others, to sell their combined majoritystake in the firm, sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/privatecapital/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/jpmorgan-r-idUSL1N1HZ1VR</id>
-  <updated>1970-01-18T06:51:23.530Z</updated>
-  <title type="html">JPMorgan Chase &amp;amp; Co leaves blockchain consortium R3 -sources ...</title>
-  <link href="http://www.reuters.com/article/jpmorgan-r-idUSL1N1HZ1VR" title="www.reuters.com"/>
-  <summary type="html">... by New York-based startup R3 CEV, as financial institutions refine their &lt;br&gt;
-strategies around the nascent technology, according to &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-plans.</summary>
-  <cse:cacheId>b_csT8GQm84J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/jpmorgan-r-idUSL1N1HZ1VR</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;marketsNews;rbssTechMediaTelecomNews;technology-media-telco-SP;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017;financialsSector;technologySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="JPMorgan+Chase+%26+Co+leaves+blockchain+consortium+R3+-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="bondsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="companyNews;governmentFilingsNews;bondsNews;marketsNews;rbssHealthcareNews;rbssMedicalEquipment, Supplies &amp; Distribution;regulatoryNewsFinancialServicesAndRealEstate;regulatoryNewsHealthcare;americasRegulatoryNews;asiaRegulatoryNews;audib2b;CathayPacific_US;MOC_US_2015-16;ABG_2016;MOC_US_2017"/>
+    <cse:Attribute name="dcsext.contentheadline" value="PRESS+DIGEST+-+Wall+Street+Journal+-+April+24"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-bondsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="JPMORGAN;R3/ (URGENT);Investment Banking and Investment Services (TRBC);Banking Services (TRBC);Americas;Banks (TRBC);Company News;Financials (TRBC);Financials (Legacy);Corporate Events;Financial and Commodity Market Operators (TRBC);Technology (TRBC);Banking and Investment Services (TRBC);Technology / Media / Telecoms;Banking Services (Legacy);United States"/>
-    <cse:Attribute name="revision_date" value="Thu Apr 27 18:22:25 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Malaysia;North Korea;United States;PRESS;DIGEST;WSJ/;Crime / Law / Justice;Investment Banking and Investment Services (TRBC);Medical Equipment : Supplies and Distribution (TRBC);Judicial Process / Court Cases / Court Decisions;Debt / Fixed Income Markets;Middle East;Healthcare Equipment and Supplies (TRBC);United States;Banking Services (TRBC);Wealth Management;Americas;Banks (TRBC);Key Personnel Changes;United Arab Emirates;Company News;Malaysia;Government / Politics;Fundamental Rights / Civil Liberties;General News;Corporate Governance;Healthcare (TRBC);International / National Security;Investment Management and Fund Operators (TRBC);Content produced in Bangalore;Arts / Culture / Entertainment;Asia / Pacific;Singapore;Human Rights / Civil Rights;Healthcare Services (TRBC);Conflicts / War / Peace;Society / Social Issues;North Korea;Financials (TRBC);Financials (Legacy);Corporate Events;Banking and Investment Services (TRBC);Regulation;ASEAN Countries;Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Mon Apr 24 05:35:38 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-27T18:22:25+0000"/>
-    <cse:Attribute name="sailthru.title" value="JPMorgan Chase &amp; Co leaves blockchain consortium R3 -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-24T05:35:38+0000"/>
+    <cse:Attribute name="sailthru.title" value="PRESS DIGEST - Wall Street Journal - April 24"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="JPMorgan Chase &amp; Co leaves blockchain consortium R3 -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/jpmorgan-r-idUSL1N1HZ1VR"/>
+    <cse:Attribute name="og:title" value="PRESS DIGEST - Wall Street Journal - April 24"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/press-digest-wsj-idUSL4N1HW280"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="JPMorgan Chase &amp; Co has leftthe mammoth bank blockchain consortium led by New York-basedstartup R3 CEV, as financial institutions refine theirstrategies around the nascent technology, according to sourcesfamiliar with the plans."/>
+    <cse:Attribute name="og:description" value="The following are the top stories inthe Wall Street Journal. Reuters has not verified these storiesand does not vouch for their accuracy."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-27T18:22:25+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-27T18:22:25+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-04-24T05:35:38+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-04-24T05:35:38+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="JPMORGAN,R3/ (URGENT),Investment Banking and Investment Services (TRBC),Banking Services (TRBC),Americas,Banks (TRBC),Company News,Financials (TRBC),Financials (Legacy),Corporate Events,Financial and Commodity Market Operators (TRBC),Technology (TRBC),Banking and Investment Services (TRBC),Technology / Media / Telecoms,Banking Services (Legacy),United States"/>
+    <cse:Attribute name="og:article:tag" value="Malaysia,North Korea,United States,PRESS,DIGEST,WSJ/,Crime / Law / Justice,Investment Banking and Investment Services (TRBC),Medical Equipment : Supplies and Distribution (TRBC),Judicial Process / Court Cases / Court Decisions,Debt / Fixed Income Markets,Middle East,Healthcare Equipment and Supplies (TRBC),United States,Banking Services (TRBC),Wealth Management,Americas,Banks (TRBC),Key Personnel Changes,United Arab Emirates,Company News,Malaysia,Government / Politics,Fundamental Rights / Civil Liberties,General News,Corporate Governance,Healthcare (TRBC),International / National Security,Investment Management and Fund Operators (TRBC),Content produced in Bangalore,Arts / Culture / Entertainment,Asia / Pacific,Singapore,Human Rights / Civil Rights,Healthcare Services (TRBC),Conflicts / War / Peace,Society / Social Issues,North Korea,Financials (TRBC),Financials (Legacy),Corporate Events,Banking and Investment Services (TRBC),Regulation,ASEAN Countries,Emerging Market Countries,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="JPMorgan Chase &amp; Co leaves blockchain consortium R3 -sources"/>
-    <cse:Attribute name="twitter:description" value="JPMorgan Chase &amp; Co has leftthe mammoth bank blockchain consortium led by New York-basedstartup R3 CEV, as financial institutions refine theirstrategies around the nascent technology, according to sourcesfamiliar with the plans."/>
+    <cse:Attribute name="twitter:title" value="PRESS DIGEST - Wall Street Journal - April 24"/>
+    <cse:Attribute name="twitter:description" value="The following are the top stories inthe Wall Street Journal. Reuters has not verified these storiesand does not vouch for their accuracy."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/bonds/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Bonds"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -482,176 +186,266 @@ plans.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/venezuela-politics-energy-idUSL1N1HW12H</id>
-  <updated>1970-01-18T06:51:23.530Z</updated>
-  <title type="html">Some oil companies in Venezuela pull expats amid protests -sources</title>
-  <link href="http://www.reuters.com/article/venezuela-politics-energy-idUSL1N1HW12H" title="www.reuters.com"/>
-  <summary type="html">... ASA and Spain&amp;#39;s Repsol SA have furtherreduced their already-dwindling ranks &lt;br&gt;
-of expatriate employees inthe country, &lt;b&gt;sources familiar with&lt;/b&gt; the situation said.</summary>
-  <cse:cacheId>ZME5zLiwGGsJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../venezuela-politics-energy-idUSL1N1HW12H</cse:formattedUrl>
+  <id>http://nypost.com/2017/04/25/obamas-400k-speech-makes-him-wall-streets-new-fat-cat/</id>
+  <updated>1970-01-18T06:52:37.782Z</updated>
+  <title type="html">Obama&amp;#39;s $400K speech makes him Wall Street&amp;#39;s new &amp;#39;fat cat&amp;#39; | New ...</title>
+  <link href="http://nypost.com/2017/04/25/obamas-400k-speech-makes-him-wall-streets-new-fat-cat/" title="nypost.com"/>
+  <summary type="html">... than $200000 is about half of what President Obama will be commanding for &lt;br&gt;
+his speech at Cantor, &lt;b&gt;according to people with direct knowledge&lt;/b&gt; of the matter.</summary>
+  <cse:cacheId>lDT0aposMmgJ</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/.../obamas-400k-speech-makes-him-wall-streets-new-fat-cat/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="companyNews;marketsNews;OILPRD;rbssEnergyNews;rbssIntegratedOilGas;rbssOilGasExplorationProduction;rbssOilGasRefiningMarketing;rbssOilRelatedServicesEquipment;SustainabilitySocial;everything;Deals;forexNewsCopy;ShellEnergy;audib2b;cfaglobal;aa48hours;shipping;dassaultuk;greenpeace;Intel;PFG;CathayPacific_US;MSFTOne_UK;MOC_US_2015-16;ABG_2016;MOC_US_2017;energySector"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Some+oil+companies+in+Venezuela+pull+expats+amid+protests+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Colombia;Russia;United States;Venezuela;Nicolas Maduro;VENEZUELA;POLITICS/ENERGY (PIX);Energy Markets;Central / Eastern Europe;Oil and Gas Refining and Marketing (TRBC);Nordic States;Labour / Personnel;United States;Americas;Company News;South America / Central America;CIS Countries;Government / Politics;Spain;Euro Zone;Venezuela;General News;Corporate Governance;Oil and Gas Related Equipment and Services (TRBC);Energy (TRBC);Norway;Russia;Western Europe;Crude Oil;Energy (Legacy);Oil and Gas Exploration and Production (TRBC);Asia / Pacific;Government Borrowing Requirement;United Kingdom;Conflicts / War / Peace;Commodities Markets;Diplomacy / Foreign Policy;China (PRC);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Europe;Oil Related Services and Equipment (TRBC);Emerging Market Countries;Civil Unrest;Service Alerts"/>
-    <cse:Attribute name="revision_date" value="Tue Apr 25 17:28:45 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-25T17:28:45+0000"/>
-    <cse:Attribute name="sailthru.title" value="Some oil companies in Venezuela pull expats amid protests -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Some oil companies in Venezuela pull expats amid protests -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/venezuela-politics-energy-idUSL1N1HW12H"/>
+    <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
+    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="As political turmoilin Venezuela persists, oil firms including Norwegian majorStatoil ASA and Spain&apos;s Repsol SA have furtherreduced their already-dwindling ranks of expatriate employees inthe country, sources familiar with the situation said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-25T17:28:45+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-25T17:28:45+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Colombia,Russia,United States,Venezuela,Nicolas Maduro,VENEZUELA,POLITICS/ENERGY (PIX),Energy Markets,Central / Eastern Europe,Oil and Gas Refining and Marketing (TRBC),Nordic States,Labour / Personnel,United States,Americas,Company News,South America / Central America,CIS Countries,Government / Politics,Spain,Euro Zone,Venezuela,General News,Corporate Governance,Oil and Gas Related Equipment and Services (TRBC),Energy (TRBC),Norway,Russia,Western Europe,Crude Oil,Energy (Legacy),Oil and Gas Exploration and Production (TRBC),Asia / Pacific,Government Borrowing Requirement,United Kingdom,Conflicts / War / Peace,Commodities Markets,Diplomacy / Foreign Policy,China (PRC),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Europe,Oil Related Services and Equipment (TRBC),Emerging Market Countries,Civil Unrest,Service Alerts"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Some oil companies in Venezuela pull expats amid protests -sources"/>
-    <cse:Attribute name="twitter:description" value="As political turmoilin Venezuela persists, oil firms including Norwegian majorStatoil ASA and Spain&apos;s Repsol SA have furtherreduced their already-dwindling ranks of expatriate employees inthe country, sources familiar with the situation said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-usa-sec-markets-idUSKBN17R1YD</id>
-  <updated>1970-01-18T06:51:23.530Z</updated>
-  <title type="html">Exclusive: ITG&amp;#39;s Selway eyed to run markets division at U.S. SEC ...</title>
-  <link href="http://www.reuters.com/article/us-usa-sec-markets-idUSKBN17R1YD" title="www.reuters.com"/>
-  <summary type="html">N), is a front runner to head the Trading and Markets division at the U.S. &lt;br&gt;
-Securities and Exchange Commission, according to three &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-the matter.</summary>
-  <cse:cacheId>QjOV2PY1d8AJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-sec-markets-idUSKBN17R1YD</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
-    <cse:Attribute name="dcsext.channellist" value="ousivMolt;davosBackup;CathayPacific_US;MOC_US_2015-16;USWire;ABG_2016;FRBtestD;FRBnewsB;FRBnewsA;MOC_US_2017"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+ITG%27s+Selway+eyed+to+run+markets+division+at+U.S.+SEC+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="John McCrank and Sarah N. Lynch"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
-    <cse:Attribute name="author" value="John McCrank and Sarah N. Lynch"/>
-    <cse:Attribute name="news_keywords" value="United States;Jamie Selway;Jay Clayton;US;USA;SEC;MARKETS;Financial and Commodity Market Operators (TRBC);Investment Banking and Brokerage Services (TRBC);Company News;Major News;Exclusive;Regulation;Corporate Events;Investment Management and Fund Operators (TRBC);United States"/>
-    <cse:Attribute name="revision_date" value="Tue Apr 25 14:57:04 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="John McCrank and Sarah N. Lynch"/>
-    <cse:Attribute name="sailthru.date" value="2017-04-25T14:57:04+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: ITG&apos;s Selway eyed to run markets division at U.S. SEC - sources"/>
+    <cse:Attribute name="og:title" value="Obama’s $400K speech makes him Wall Street’s new ‘fat cat’"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2017/04/25/obamas-400k-speech-makes-him-wall-streets-new-fat-cat/"/>
+    <cse:Attribute name="og:description" value="When he was president he called them “fat cats,” but now he’s likely thanking them for a huge payday. Former President Barack Obama, less than 100 days out of office, has agreed to speak at a Wall …"/>
+    <cse:Attribute name="article:published_time" value="2017-04-25T19:06:20+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2017-04-25T20:47:18+00:00"/>
+    <cse:Attribute name="og:site_name" value="New York Post"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="800"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: ITG&apos;s Selway eyed to run markets division at U.S. SEC - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-sec-markets-idUSKBN17R1YD"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Jamie Selway, head of execution services at agency brokerage Investment Technology Group (ITG) (ITG.N), is a front runner to head the Trading and Markets division at the U.S. Securities and Exchange Commission, according to three sources familiar with the matter."/>
-    <cse:Attribute name="og:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170425&amp;t=2&amp;i=1181983158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3O110"/>
-    <cse:Attribute name="og:article:published_time" value="2017-04-25T14:57:04+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-04-25T14:57:04+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="John McCrank and Sarah N. Lynch"/>
-    <cse:Attribute name="og:article:tag" value="United States,Jamie Selway,Jay Clayton,US,USA,SEC,MARKETS,Financial and Commodity Market Operators (TRBC),Investment Banking and Brokerage Services (TRBC),Company News,Major News,Exclusive,Regulation,Corporate Events,Investment Management and Fund Operators (TRBC),United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:site" value="@nypost"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/04/170425-obama-wall-street-feature.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: ITG&apos;s Selway eyed to run markets division at U.S. SEC - sources"/>
-    <cse:Attribute name="twitter:description" value="Jamie Selway, head of execution services at agency brokerage Investment Technology Group (ITG) (ITG.N), is a front runner to head the Trading and Markets division at the U.S. Securities and Exchange Commission, according to three sources familiar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170425&amp;t=2&amp;i=1181983158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3O110"/>
-    <cse:Attribute name="twitter:image" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170425&amp;t=2&amp;i=1181983158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3O110"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="twitter:creator" value="@nypost"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
+    <cse:Attribute name="twitter:title" value="Obama’s $400K speech makes him Wall Street&apos;s new &apos;fat cat&apos;"/>
+    <cse:Attribute name="twitter:description" value="When he was president he called them “fat cats,” but now he’s likely thanking them for a huge payday. Former President Barack Obama, less than 100 days out of office, has agreed to speak at a"/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/04/170425-obama-wall-street-feature.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/04/170425-obama-wall-street-feature.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i1.wp.com/thenypost.files.wordpress.com/2017/04/170425-obama-wall-street-feature.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="nypost-section" value="Business"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-10899441&quot;}"/>
+    <cse:Attribute name="news_keywords" value="Business,barack obama,speeches,wall street"/>
+    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
+    <cse:Attribute name="fb:pages" value="134486075205"/>
+    <cse:Attribute name="application-name" value="New York Post"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170425&amp;t=2&amp;i=1181983158&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED3O110"/>
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/04/170425-obama-wall-street-feature.jpg?quality=90&amp;strip=all&amp;w=1200"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaQ6-q2Aj6LRg0nAGekEypKItOA2F_pfLiGBYOVFaQA8EBflZwn_jl2m8"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfX2K299HM7__jUKRxgr6UUQR943WwVXAj-45QWvp5aL2_sWCCwySsmaI"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/journalists/anshuman-daga</id>
-  <updated>1970-01-18T06:51:23.530Z</updated>
-  <title type="html">Anshuman Daga</title>
-  <link href="http://www.reuters.com/journalists/anshuman-daga" title="www.reuters.com"/>
-  <summary type="html">... buyers China Mobile and global private equity firms, among others, to sell their &lt;br&gt;
-combined majority stake in the firm, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>bINawGaOrUcJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/journalists/anshuman-daga</cse:formattedUrl>
+  <id>http://www.businessinsider.com/r-press-digest---wall-street-journal---april-24-2017-4</id>
+  <updated>1970-01-18T06:52:37.782Z</updated>
+  <title type="html">PRESS DIGEST - Wall Street Journal - April 24 - Business Insider</title>
+  <link href="http://www.businessinsider.com/r-press-digest---wall-street-journal---april-24-2017-4" title="www.businessinsider.com"/>
+  <summary type="html">... by a conspiracy of former executives and advisers to both funds, &lt;b&gt;according to&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;people with direct knowledge&lt;/b&gt; of the deal. http://on.wsj.com/2pVIBNT.</summary>
+  <cse:cacheId>y4QP4R4Q7JwJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-press-digest---wall-street-journal---april-24-2017 -4</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="date" value="2017-04-24"/>
+    <cse:Attribute name="sailthru.date" value="2017-04-24"/>
+    <cse:Attribute name="news_keywords" value="Reuters Company News, PRESS-DIGEST-WSJ/"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters Company News, PRESS-DIGEST-WSJ/"/>
+    <cse:Attribute name="sailthru.description" value="April 24 (Reuters) - The following are the top..."/>
+    <cse:Attribute name="title" value="PRESS DIGEST - Wall Street Journal - April 24"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Company News"/>
+    <cse:Attribute name="sailthru.title" value="PRESS DIGEST - Wall Street Journal - April 24"/>
+    <cse:Attribute name="og:title" value="PRESS DIGEST - Wall Street Journal - April 24"/>
+    <cse:Attribute name="og:description" value="April 24 (Reuters) - The following are the top..."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-press-digest---wall-street-journal---april-24-2017-4"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-press-digest---wall-street-journal---april-24-2017-4"/>
+    <cse:Attribute name="twitter:title" value="PRESS DIGEST - Wall Street Journal - April 24"/>
+    <cse:Attribute name="twitter:description" value="April 24 (Reuters) - The following are the top..."/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/anshuman-daga"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="PRESS DIGEST - Wall Street Journal - April 24"/>
+    <cse:Attribute name="url" value="PRESS DIGEST - Wall Street Journal - April 24"/>
+    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
+    <cse:Attribute name="description" value="April 24 (Reuters) - The following are the top..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="http://static6.businessinsider.com/image/583333ecba6eb67d058b585c-400/21-things-you-should-never-say-when-you-meet-someone-new.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+    <cse:Attribute name="width" value="259"/>
+    <cse:Attribute name="height" value="194"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUWt5_y2OOkOwFJU0GKDcSzMhCOct81ZFxc2iWiOgMpJ0E9cnnPm9dGZs"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.wsj.com/articles/malaysias-1mdb-abu-dhabi-state-investment-fund-reach-repayment-agreement-1492959490</id>
+  <updated>1970-01-18T06:52:37.782Z</updated>
+  <title type="html">Malaysia&amp;#39;s 1MDB, Abu Dhabi State Investment Fund Reach ...</title>
+  <link href="https://www.wsj.com/articles/malaysias-1mdb-abu-dhabi-state-investment-fund-reach-repayment-agreement-1492959490" title="www.wsj.com"/>
+  <summary type="html">... that were allegedly misappropriated by a conspiracy of former executives and &lt;br&gt;
+advisers to both funds, &lt;b&gt;according to people with direct knowledge&lt;/b&gt; of the deal.</summary>
+  <cse:formattedUrl type="html">https://www.wsj.com/.../malaysias-1mdb-abu-dhabi-state-investment-fund- reach-repayment-agreement-1492959490</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="dj.asn" value="i-08c6"/>
+    <cse:Attribute name="user.type" value="nonsubscriber"/>
+    <cse:Attribute name="user.exp" value="default"/>
+    <cse:Attribute name="testkeys" value="C"/>
+    <cse:Attribute name="page.section" value="Article"/>
+    <cse:Attribute name="page.content.type" value="Article"/>
+    <cse:Attribute name="page.content.format" value="responsive"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="page.content.source" value="NEWSPLUS,PRO,WSJ-PRO-FR,WSJ-PRO-WSJ.com"/>
+    <cse:Attribute name="article.template" value="snippet"/>
+    <cse:Attribute name="page.site" value="wsj"/>
+    <cse:Attribute name="page.site.product" value="WSJ"/>
+    <cse:Attribute name="page.region" value="na,us"/>
+    <cse:Attribute name="article.id" value="SB10209773855151133688804583101862121612532"/>
+    <cse:Attribute name="article.type" value="Markets Main"/>
+    <cse:Attribute name="article.access" value="paid"/>
+    <cse:Attribute name="article.origheadline" value="Malaysia’s 1MDB, Abu Dhabi State Investment Fund Reach Repayment Agreement"/>
+    <cse:Attribute name="article.headline" value="Malaysia’s 1MDB, Abu Dhabi state investment fund reach repayment agreement"/>
+    <cse:Attribute name="article.summary" value="State investment fund 1Malaysia Development Bhd. agreed to pay $1.2 billion to settle part of its dispute with Abu Dhabi’s sovereign fund, a move that could ease tension between the two funds and avoid arbitration proceedings."/>
+    <cse:Attribute name="article.page" value="Markets"/>
+    <cse:Attribute name="article.section" value="Markets"/>
+    <cse:Attribute name="article.published" value="2017-04-23T14:58:00.000Z"/>
+    <cse:Attribute name="article.updated" value="2017-04-23T14:58:00.000Z"/>
+    <cse:Attribute name="article.created" value="2017-04-23T14:58:00.000Z"/>
+    <cse:Attribute name="author" value="Bradley Hope and Tom Wright"/>
+    <cse:Attribute name="cxenseparse:wsj-keywords" value="1mdb misappropriation,1mdb scandal,abu dhabi state fund scandal,finreg,malaysian state fund scandal,wolf of wall street,1Malaysia Development,International Petroleum Investment,Khadem Al Qubaisi,Jho Low,political,general news,politics,international relations,domestic politics,government bodies,executive branch,justice department,fund markets,commodity,financial market news,trusts,funds,financial vehicles,closed-end funds,investment trusts,financial investments,business,consumer services,financial services,investing,securities,shell company"/>
+    <cse:Attribute name="news_keywords" value="1mdb misappropriation,1mdb scandal,abu dhabi state fund scandal,finreg,malaysian state fund scandal,wolf of wall street,1Malaysia Development,International Petroleum Investment,Khadem Al Qubaisi,Jho Low"/>
+    <cse:Attribute name="article:word_count" value="746"/>
+    <cse:Attribute name="article:image_count" value="1"/>
+    <cse:Attribute name="article:internal_link_count" value="9"/>
+    <cse:Attribute name="article:external_link_count" value="1"/>
+    <cse:Attribute name="cxenseparse:wsj-primary-inset" value="image"/>
+    <cse:Attribute name="hdl_p" value="1MDB Fund Feud Reaches A Truce"/>
+    <cse:Attribute name="language" value="en-US"/>
+    <cse:Attribute name="twitter:title" value="Malaysia’s 1MDB, Abu Dhabi State Investment Fund Reach Repayment Agreement"/>
+    <cse:Attribute name="twitter:description" value="State investment fund 1Malaysia Development Bhd. agreed to pay $1.2 billion to settle part of its dispute with Abu Dhabi’s sovereign fund, a move that could ease tension between the two funds and avoid arbitration proceedings."/>
+    <cse:Attribute name="twitter:image" value="https://si.wsj.net/public/resources/images/BN-TB964_2XzCX_TOP_20170423064438.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image:alt" value="Malaysia’s 1MDB, Abu Dhabi state investment fund reach repayment agreement"/>
+    <cse:Attribute name="twitter:creator" value="@bradleyhope"/>
+    <cse:Attribute name="twitter:site" value="@WSJ"/>
+    <cse:Attribute name="twitter:domain" value="wsj.com"/>
+    <cse:Attribute name="fb:app_id" value="368513495882"/>
+    <cse:Attribute name="og:title" value="Malaysia’s 1MDB, Abu Dhabi State Investment Fund Reach Repayment Agreement"/>
+    <cse:Attribute name="og:description" value="State investment fund 1Malaysia Development Bhd. agreed to pay $1.2 billion to settle part of its dispute with Abu Dhabi’s sovereign fund, a move that could ease tension between the two funds and avoid arbitration proceedings."/>
+    <cse:Attribute name="og:url" value="https://www.wsj.com/articles/malaysias-1mdb-abu-dhabi-state-investment-fund-reach-repayment-agreement-1492959490"/>
+    <cse:Attribute name="og:image" value="https://si.wsj.net/public/resources/images/BN-TB964_2XzCX_TOP_20170423064438.jpg"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+   </cse:DataObject>
+   <cse:DataObject type="webpage">
+    <cse:Attribute name="datepublished" value="2017-04-23T14:58:00.000Z"/>
+    <cse:Attribute name="datemodified" value="2017-04-23T14:58:00.000Z"/>
+    <cse:Attribute name="datecreated" value="2017-04-23T14:58:00.000Z"/>
+    <cse:Attribute name="description" value="State investment fund 1Malaysia Development Bhd. agreed to pay $1.2 billion to settle part of its dispute with Abu Dhabi’s sovereign fund, a move that could ease tension between the two funds..."/>
+    <cse:Attribute name="alternativeheadline" value="1MDB Fund Feud Reaches A Truce"/>
+    <cse:Attribute name="inlanguage" value="en-US"/>
+    <cse:Attribute name="image" value="https://si.wsj.net/public/resources/images/BN-TB964_2XzCX_TOP_20170423064438.jpg"/>
+    <cse:Attribute name="publisher" value="wsj.com"/>
+    <cse:Attribute name="headline" value="Malaysia’s 1MDB, Abu Dhabi State Investment Fund Reach Repayment Agreement"/>
+   </cse:DataObject>
+   <cse:DataObject type="listitem">
+    <cse:Attribute name="item" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Bradley Hope"/>
+    <cse:Attribute name="url" value="Bradley Hope"/>
+    <cse:Attribute name="email" value="bradley.hope@wsj.com"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Tom Wright"/>
+    <cse:Attribute name="url" value="Tom Wright"/>
+    <cse:Attribute name="email" value="tom.wright@wsj.com"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170427/042717_colorblind/042717_colorblind_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170427/042717maduro2/042717maduro2_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170201/020117mansionplantation/020117mansionplantation_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170424/042417dunkirktrailer/042417dunkirktrailer_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170420/042017maytegarcia/042017maytegarcia_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TE391_NAFTA0_C_20170427145338.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TE902_0428un_C_20170428110131.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TE398_pw0428_C_20170427151218.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/ED-AW327_Noonan_C_20170427150247.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TD606_2QN2H_C_20170426123002.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170428/042817mof/042817mof_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170428/042817lunchandrea/042817lunchandrea_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170428/042817trumpnra/042817trumpnra_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170426/042717nkmissile/042717nkmissile_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170427/042417atomicblondetrailer2/042417atomicblondetrailer2_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TE391_NAFTA0_C_20170427145338.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TE902_0428un_C_20170428110131.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TE398_pw0428_C_20170427151218.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/ED-AW327_Noonan_C_20170427150247.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TD606_2QN2H_C_20170426123002.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://si.wsj.net/public/resources/images/BN-TB964_2XzCX_TOP_20170423064438.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="318"/>
+    <cse:Attribute name="height" value="159"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6JNJoJ2KJLJ2OLtQ1ObbC-ABKi0grN1aJ0TTLtGeFGkO56ZRbKnni5P8"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
