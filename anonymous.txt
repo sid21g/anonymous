@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T07:17:21.974Z</updated>
+ <updated>1970-01-18T07:17:29.859Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12200" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12200" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>12200</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>12400</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.508429</cse:searchTime>
-  <cse:formattedSearchTime>0.51</cse:formattedSearchTime>
-  <cse:totalResults>12200</cse:totalResults>
-  <cse:formattedTotalResults>12,200</cse:formattedTotalResults>
+  <cse:searchTime>0.486759</cse:searchTime>
+  <cse:formattedSearchTime>0.49</cse:formattedSearchTime>
+  <cse:totalResults>12400</cse:totalResults>
+  <cse:formattedTotalResults>12,400</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://www.wsj.com/articles/nintendo-developing-the-legend-of-zelda-smartphone-game-1494820189</id>
-  <updated>1970-01-18T07:17:21.974Z</updated>
+  <updated>1970-01-18T07:17:29.859Z</updated>
   <title type="html">Nintendo Developing &amp;#39;The Legend of Zelda&amp;#39; Smartphone Game - WSJ</title>
   <link href="https://www.wsj.com/articles/nintendo-developing-the-legend-of-zelda-smartphone-game-1494820189" title="www.wsj.com"/>
   <summary type="html">TOKYO—Nintendo Co. plans to bring its videogame franchise “The Legend of &lt;br&gt;
@@ -33,7 +33,7 @@ Zelda” to smartphones, people familiar with the matter said, the latest step b
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="dj.asn" value="i-0bc3"/>
+    <cse:Attribute name="dj.asn" value="i-0e36"/>
     <cse:Attribute name="user.type" value="nonsubscriber"/>
     <cse:Attribute name="user.exp" value="default"/>
     <cse:Attribute name="testkeys" value="C"/>
@@ -117,46 +117,46 @@ Zelda” to smartphones, people familiar with the matter said, the latest step b
     <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocbarshefsky1/051617ceocbarshefsky1_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TK015_liondo_C_20170510200502.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
     <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL908_TRUMP0_C_20170516140227.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL767_33W3V_C_20170516075400.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM260_2Vw4k_C_20170517063150.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL558_FORD05_C_20170515211743.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM261_34rBL_C_20170517064233.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL767_33W3V_C_20170516075400.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
     <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BF-AQ765A_LILD_C_20170516230409.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051517mcmaster4/051517mcmaster4_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocghosn1/051617ceocghosn1_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/18000101/a88c281b3164464b94213769e35cd81d/a88c281b3164464b94213769e35cd81d_167x94.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
     <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocfung/051617ceocfung_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170516/051617ceocuskorea1/051617ceocuskorea1_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
     <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocbarshefsky1/051617ceocbarshefsky1_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TK015_liondo_C_20170510200502.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051517mcmaster4/051517mcmaster4_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170517/051717himalhydro/051717himalhydro_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
     <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL908_TRUMP0_C_20170516140227.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL767_33W3V_C_20170516075400.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM260_2Vw4k_C_20170517063150.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL558_FORD05_C_20170515211743.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM261_34rBL_C_20170517064233.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL767_33W3V_C_20170516075400.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
     <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BF-AQ765A_LILD_C_20170516230409.jpg"/>
@@ -173,7 +173,7 @@ Zelda” to smartphones, people familiar with the matter said, the latest step b
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.bloomberg.com/politics/articles/2017-05-11/saudi-arabia-said-to-boost-u-s-ties-with-40-billion-investment</id>
-  <updated>1970-01-18T07:17:21.974Z</updated>
+  <updated>1970-01-18T07:17:29.859Z</updated>
   <title type="html">Saudis to Boost U.S. Ties With $40 Billion Investment - Bloomberg</title>
   <link href="https://www.bloomberg.com/politics/articles/2017-05-11/saudi-arabia-said-to-boost-u-s-ties-with-40-billion-investment" title="www.bloomberg.com"/>
   <summary type="html">The kingdom&amp;#39;s sovereign wealth fund is set to announce plans to deploy as much &lt;br&gt;
@@ -227,69 +227,8 @@ as $40 billion into U.S. infrastructure, according to people familiar with the&a
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/05/10/politics/james-comey-russia-investigation-money/index.html</id>
-  <updated>1970-01-18T07:17:21.974Z</updated>
-  <title type="html">Sources: James Comey sought resources for Russia probe ...</title>
-  <link href="http://www.cnn.com/2017/05/10/politics/james-comey-russia-investigation-money/index.html" title="www.cnn.com"/>
-  <summary type="html">... Rod Rosenstein last week and pushed for more resources to be devoted to the &lt;br&gt;
-Russia investigation, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the discussion.</summary>
-  <cse:cacheId>7FuGoCw5mwgJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/05/10/politics/james-comey.../index.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-05-10T16:45:51Z"/>
-    <cse:Attribute name="pubdate" value="2017-05-10T16:45:51Z"/>
-    <cse:Attribute name="lastmod" value="2017-05-10T17:26:49Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/05/10/politics/james-comey-russia-investigation-money/index.html"/>
-    <cse:Attribute name="author" value="Sara Murray, CNN"/>
-    <cse:Attribute name="og:title" value="Sources: Comey sought resources for Russia probe"/>
-    <cse:Attribute name="twitter:title" value="Sources: Comey sought resources for Russia probe"/>
-    <cse:Attribute name="og:description" value="FBI Director James Comey asked the Justice Department for more resources for the agency&apos;s investigation into Russian meddling of the US election and ties to Donald Trump&apos;s presidential campaign, just the week before the President fired him."/>
-    <cse:Attribute name="twitter:description" value="FBI Director James Comey asked the Justice Department for more resources for the agency&apos;s investigation into Russian meddling of the US election and ties to Donald Trump&apos;s presidential campaign, just the week before the President fired him."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="1100"/>
-    <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/05/10/politics/james-comey-russia-investigation-money/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid-vls-col,col-former-fbi-director-james-comey-"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-05-10T16:45:51Z"/>
-    <cse:Attribute name="datepublished" value="2017-05-10T16:45:51Z"/>
-    <cse:Attribute name="datemodified" value="2017-05-10T17:26:49Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/05/10/politics/james-comey-russia-investigation-money/index.html"/>
-    <cse:Attribute name="author" value="Sara Murray, CNN"/>
-    <cse:Attribute name="headline" value="Sources: James Comey sought resources for Russia probe - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="FBI Director James Comey asked the Justice Department for more resources for the agency&apos;s investigation into Russian meddling of the US election and ties to Donald Trump&apos;s presidential campaign,..."/>
-    <cse:Attribute name="keywords" value="politics, Sources: James Comey sought resources for Russia probe - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Sources: James Comey sought more resources for Russia investigation"/>
-    <cse:Attribute name="articlebody" value="Story highlightsJames Comey spoke to the leaders of the Senate intelligence committee last weekThe Justice Department denied the allegation the former FBI director had requested more help (CNN)FBI..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG</id>
-  <updated>1970-01-18T07:17:21.974Z</updated>
+  <updated>1970-01-18T07:17:29.859Z</updated>
   <title type="html">Greece eyeing July bond, if deal reached with lenders: sources ...</title>
   <link href="http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG" title="www.reuters.com"/>
   <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the plan say Athens wants to test market appetite for Greek &lt;br&gt;
@@ -353,7 +292,7 @@ debt before a current bailout program, worth up to 86 billion euros, expires in&
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-intelsat-m-a-oneweb-idUSKBN1870DF</id>
-  <updated>1970-01-18T07:17:21.974Z</updated>
+  <updated>1970-01-18T07:17:29.859Z</updated>
   <title type="html">SoftBank&amp;#39;s OneWeb merger with Intelsat teeters: sources | Reuters</title>
   <link href="http://www.reuters.com/article/us-intelsat-m-a-oneweb-idUSKBN1870DF" title="www.reuters.com"/>
   <summary type="html">SoftBank&amp;#39;s (9984.T) bid to merge its satellite technology startup with Intelsat SA (&lt;br&gt;
@@ -417,7 +356,7 @@ I.N) teetered on Wednesday, as some Intelsat creditors held up the deal and a&am
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html</id>
-  <updated>1970-01-18T07:17:21.974Z</updated>
+  <updated>1970-01-18T07:17:29.859Z</updated>
   <title type="html">Gun deal emails spurred city probe into racist, sexist Water ...</title>
   <link href="http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html" title="www.chicagotribune.com"/>
   <summary type="html">... a key role in a city inspector general&amp;#39;s investigation that led to last week&amp;#39;s &lt;br&gt;
@@ -465,8 +404,71 @@ shake-up at the Water Department, &lt;b&gt;sources familiar with&lt;/b&gt; the p
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/</id>
+  <updated>1970-01-18T07:17:29.859Z</updated>
+  <title type="html">Comey memo: Trump asked Comey to end Flynn investigation ...</title>
+  <link href="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/" title="www.cnn.com"/>
+  <summary type="html">... former national security adviser Michael Flynn, a request documented in a &lt;br&gt;
+memo written by the former FBI director, according to &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter.</summary>
+  <cse:cacheId>tk63p0LnayEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/05/16/politics/trump-james-comey-memo/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="pubdate" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="lastmod" value="2017-05-17T11:46:08Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
+    <cse:Attribute name="author" value="Pamela Brown, Jake Tapper and Stephen Collinson, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/JakeTapper"/>
+    <cse:Attribute name="og:title" value="Memo: Trump asked Comey to end Flynn investigation"/>
+    <cse:Attribute name="twitter:title" value="Memo: Trump asked Comey to end Flynn investigation"/>
+    <cse:Attribute name="og:description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,art-vid-vls-col,col-trump-fires-james-comey"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="datepublished" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="datemodified" value="2017-05-17T11:46:08Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
+    <cse:Attribute name="author" value="Pamela Brown, Jake Tapper and Stephen Collinson, CNN"/>
+    <cse:Attribute name="headline" value="Comey memo: Trump asked Comey to end Flynn investigation - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according..."/>
+    <cse:Attribute name="keywords" value="politics, Comey memo: Trump asked Comey to end Flynn investigation - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Memo: Trump asked Comey to end Flynn investigation"/>
+    <cse:Attribute name="articlebody" value="Story highlightsTrump fired Comey last weekLawmakers want to hear from Comey (CNN)President Donald Trump asked James Comey to end the investigation into former national security adviser Michael..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-cargill-inc-m-a-trailstone-idUSKCN18C2AB</id>
-  <updated>1970-01-18T07:17:21.974Z</updated>
+  <updated>1970-01-18T07:17:29.859Z</updated>
   <title type="html">TrailStone&amp;#39;s bid for Cargill&amp;#39;s power, gas book falls through: sources ...</title>
   <link href="http://www.reuters.com/article/us-cargill-inc-m-a-trailstone-idUSKCN18C2AB" title="www.reuters.com"/>
   <summary type="html">Commodities trader and investor TrailStone Group&amp;#39;s bid to buy Cargill Inc&amp;#39;s U.S. &lt;br&gt;
@@ -530,7 +532,7 @@ power and gas trading book has fallen through, two &lt;b&gt;sources familiar wit
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-globalstar-m-a-idUSKBN1882IL</id>
-  <updated>1970-01-18T07:17:21.974Z</updated>
+  <updated>1970-01-18T07:17:29.859Z</updated>
   <title type="html">Wireless spectrum holder Globalstar explores sale: sources | Reuters</title>
   <link href="http://www.reuters.com/article/us-globalstar-m-a-idUSKBN1882IL" title="www.reuters.com"/>
   <summary type="html">U.S. wireless spectrum holder Globalstar Inc (GSAT.A) is working with financial &lt;br&gt;
@@ -594,7 +596,7 @@ advisers on a potential sale of the company, according to &lt;b&gt;sources famil
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/cargill-inc-ma-trailstone-idUSL2N1II1DP</id>
-  <updated>1970-01-18T07:17:21.974Z</updated>
+  <updated>1970-01-18T07:17:29.859Z</updated>
   <title type="html">TrailStone&amp;#39;s bid to buy Cargill&amp;#39;s power and gas book falls through ...</title>
   <link href="http://www.reuters.com/article/cargill-inc-ma-trailstone-idUSL2N1II1DP" title="www.reuters.com"/>
   <summary type="html">... and investor TrailStone Group&amp;#39;s bid to buy Cargill&amp;#39;s U.S. power and gas trading &lt;br&gt;
@@ -657,65 +659,67 @@ book has fallen through, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/</id>
-  <updated>1970-01-18T07:17:21.974Z</updated>
-  <title type="html">Memo: Trump asked Comey to end Flynn investigation - CNNPolitics ...</title>
-  <link href="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/" title="www.cnn.com"/>
-  <summary type="html">... former national security adviser Michael Flynn, a request documented in a &lt;br&gt;
-memo written by the former FBI director, according to &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-matter.</summary>
-  <cse:cacheId>tk63p0LnayEJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/05/16/politics/trump-james-comey-memo/</cse:formattedUrl>
+  <id>http://www.reuters.com/article/qiib-sukuk-idUSL8N1IH3YC</id>
+  <updated>1970-01-18T07:17:29.859Z</updated>
+  <title type="html">Qatar International Islamic Bank appoints banks for dollar sukuk ...</title>
+  <link href="http://www.reuters.com/article/qiib-sukuk-idUSL8N1IH3YC" title="www.reuters.com"/>
+  <summary type="html">... listed Islamic bank byassets, has appointed banks ahead of a potential U.S.&lt;br&gt;
+dollar-denominated sukuk, banking &lt;b&gt;sources familiar with&lt;/b&gt; thematter said on &lt;br&gt;
+Monday.</summary>
+  <cse:cacheId>g8NDRJBDKjMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/qiib-sukuk-idUSL8N1IH3YC</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-05-16T21:51:08Z"/>
-    <cse:Attribute name="pubdate" value="2017-05-16T21:51:08Z"/>
-    <cse:Attribute name="lastmod" value="2017-05-17T02:08:49Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
-    <cse:Attribute name="author" value="Pamela Brown, Jake Tapper and Stephen Collinson, CNN"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/JakeTapper"/>
-    <cse:Attribute name="og:title" value="Memo: Trump asked Comey to end Flynn investigation"/>
-    <cse:Attribute name="twitter:title" value="Memo: Trump asked Comey to end Flynn investigation"/>
-    <cse:Attribute name="og:description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according to sources familiar with the matter."/>
-    <cse:Attribute name="twitter:description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according to sources familiar with the matter."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="FRBnewsA"/>
+    <cse:Attribute name="dcsext.channellist" value="FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Qatar+International+Islamic+Bank+appoints+banks+for+dollar+sukuk+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-FRBnewsA"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Qatar;QIIB;SUKUK/;Investment Banking and Investment Services (TRBC);Islamic Finance;Credit and Corporate Debt;Corporate Debt;Qatar;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Banking Services (TRBC);Banks (TRBC);Company News;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Corporate Events;Economic Events;Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Mon May 15 11:59:47 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-15T11:59:47+0000"/>
+    <cse:Attribute name="sailthru.title" value="Qatar International Islamic Bank appoints banks for dollar sukuk - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Qatar International Islamic Bank appoints banks for dollar sukuk - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/qiib-sukuk-idUSL8N1IH3YC"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="1100"/>
-    <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid-vls-col,col-trump-fires-james-comey"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-05-16T21:51:08Z"/>
-    <cse:Attribute name="datepublished" value="2017-05-16T21:51:08Z"/>
-    <cse:Attribute name="datemodified" value="2017-05-17T02:08:49Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
-    <cse:Attribute name="author" value="Pamela Brown, Jake Tapper and Stephen Collinson, CNN"/>
-    <cse:Attribute name="headline" value="Memo: Trump asked Comey to end Flynn investigation - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according..."/>
-    <cse:Attribute name="keywords" value="politics, Memo: Trump asked Comey to end Flynn investigation - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Memo: Trump asked Comey to end Flynn investigation"/>
-    <cse:Attribute name="articlebody" value="Story highlightsTrump fired Comey last weekLawmakers want to hear from Comey (CNN)President Donald Trump asked James Comey to end the investigation into former national security adviser Michael..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="og:description" value="Qatar International Islamic Bank(QIIB), Qatar’s third largest listed Islamic bank byassets, has appointed banks ahead of a potential U.S.dollar-denominated sukuk, banking sources familiar with thematter said on Monday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-15T11:59:47+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-15T11:59:47+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Qatar,QIIB,SUKUK/,Investment Banking and Investment Services (TRBC),Islamic Finance,Credit and Corporate Debt,Corporate Debt,Qatar,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Banking Services (TRBC),Banks (TRBC),Company News,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Corporate Events,Economic Events,Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Qatar International Islamic Bank appoints banks for dollar sukuk - sources"/>
+    <cse:Attribute name="twitter:description" value="Qatar International Islamic Bank(QIIB), Qatar’s third largest listed Islamic bank byassets, has appointed banks ahead of a potential U.S.dollar-denominated sukuk, banking sources familiar with thematter said on Monday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
