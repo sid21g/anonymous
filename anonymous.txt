@@ -5,29 +5,179 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T07:09:10.654Z</updated>
+ <updated>1970-01-18T07:17:21.974Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="14800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="14800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>14800</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12200" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12200" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>12200</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.373283</cse:searchTime>
-  <cse:formattedSearchTime>0.37</cse:formattedSearchTime>
-  <cse:totalResults>14800</cse:totalResults>
-  <cse:formattedTotalResults>14,800</cse:formattedTotalResults>
+  <cse:searchTime>0.508429</cse:searchTime>
+  <cse:formattedSearchTime>0.51</cse:formattedSearchTime>
+  <cse:totalResults>12200</cse:totalResults>
+  <cse:formattedTotalResults>12,200</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
+  <id>https://www.wsj.com/articles/nintendo-developing-the-legend-of-zelda-smartphone-game-1494820189</id>
+  <updated>1970-01-18T07:17:21.974Z</updated>
+  <title type="html">Nintendo Developing &amp;#39;The Legend of Zelda&amp;#39; Smartphone Game - WSJ</title>
+  <link href="https://www.wsj.com/articles/nintendo-developing-the-legend-of-zelda-smartphone-game-1494820189" title="www.wsj.com"/>
+  <summary type="html">TOKYO—Nintendo Co. plans to bring its videogame franchise “The Legend of &lt;br&gt;
+Zelda” to smartphones, people familiar with the matter said, the latest step by the&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">https://www.wsj.com/.../nintendo-developing-the-legend-of-zelda- smartphone-game-1494820189</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="dj.asn" value="i-0bc3"/>
+    <cse:Attribute name="user.type" value="nonsubscriber"/>
+    <cse:Attribute name="user.exp" value="default"/>
+    <cse:Attribute name="testkeys" value="C"/>
+    <cse:Attribute name="page.section" value="Article"/>
+    <cse:Attribute name="page.content.type" value="Article"/>
+    <cse:Attribute name="page.content.format" value="responsive"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="page.content.source" value="WSJ Online Article"/>
+    <cse:Attribute name="article.template" value="snippet"/>
+    <cse:Attribute name="page.site" value="wsj"/>
+    <cse:Attribute name="page.site.product" value="WSJ"/>
+    <cse:Attribute name="page.region" value="na,us"/>
+    <cse:Attribute name="article.id" value="SB11067109489889134891904583146210350013472"/>
+    <cse:Attribute name="article.type" value="Technology"/>
+    <cse:Attribute name="article.access" value="paid"/>
+    <cse:Attribute name="article.origheadline" value="Nintendo Developing ‘The Legend of Zelda’ Smartphone Game"/>
+    <cse:Attribute name="article.headline" value="Nintendo developing ‘The Legend of Zelda’ smartphone game"/>
+    <cse:Attribute name="article.summary" value="Nintendo plans to bring its videogame franchise “The Legend of Zelda” to smartphones, the latest step by the Kyoto company to expand its mobile-games lineup."/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=364387007,app-argument=wsj://launch?articleid=SB11067109489889134891904583146210350013472&amp;headline=Nintendo%20developing%20%u2018The%20Legend%20of%20Zelda%u2019%20smartphone%20game&amp;weburl=http://www.wsj.com/articles/SB11067109489889134891904583146210350013472"/>
+    <cse:Attribute name="al:ios:url" value="wsj://launch?articleid=SB11067109489889134891904583146210350013472&amp;headline=Nintendo%20developing%20%u2018The%20Legend%20of%20Zelda%u2019%20smartphone%20game&amp;weburl=http://www.wsj.com/articles/SB11067109489889134891904583146210350013472"/>
+    <cse:Attribute name="article.page" value="Tech"/>
+    <cse:Attribute name="article.section" value="Tech"/>
+    <cse:Attribute name="article.published" value="2017-05-15T03:49:00.000Z"/>
+    <cse:Attribute name="article.updated" value="2017-05-15T03:49:00.000Z"/>
+    <cse:Attribute name="article.created" value="2017-05-15T03:49:00.000Z"/>
+    <cse:Attribute name="author" value="Takashi Mochizuki"/>
+    <cse:Attribute name="cxenseparse:wsj-keywords" value="animal crossing,mobile games, nintendo, pokemon, pokemon go,smartphone games, the legend of zelda,zelda,DeNA,2432.TO,JP:2432,Nintendo,7974.TO,plans,strategy,new products,services,corporate,industrial news,political,general news,living,lifestyle,personal technology,computers,consumer electronics,software,applications software,telecommunications technology,equipment,mobile communications equipment,video game consoles,consumer goods,computing,durable household products,games software,home electronics,appliances,internet,online,mobile applications software,technology"/>
+    <cse:Attribute name="news_keywords" value="animal crossing,mobile games, nintendo, pokemon, pokemon go,smartphone games, the legend of zelda,zelda,DeNA,2432.TO"/>
+    <cse:Attribute name="article:word_count" value="441"/>
+    <cse:Attribute name="article:image_count" value="1"/>
+    <cse:Attribute name="article:embed_count" value="2"/>
+    <cse:Attribute name="article:internal_link_count" value="10"/>
+    <cse:Attribute name="cxenseparse:wsj-primary-inset" value="image"/>
+    <cse:Attribute name="language" value="en-US"/>
+    <cse:Attribute name="twitter:title" value="Nintendo Developing ‘The Legend of Zelda’ Smartphone Game"/>
+    <cse:Attribute name="twitter:description" value="Nintendo plans to bring its videogame franchise “The Legend of Zelda” to smartphones, the latest step by the Kyoto company to expand its mobile-games lineup."/>
+    <cse:Attribute name="twitter:image" value="https://si.wsj.net/public/resources/images/BN-TL112_2DnXW_TOP_20170514233718.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image:alt" value="Nintendo developing ‘The Legend of Zelda’ smartphone game"/>
+    <cse:Attribute name="twitter:creator" value="@mochi_wsj"/>
+    <cse:Attribute name="twitter:site" value="@WSJ"/>
+    <cse:Attribute name="twitter:domain" value="wsj.com"/>
+    <cse:Attribute name="fb:app_id" value="368513495882"/>
+    <cse:Attribute name="og:title" value="Nintendo Developing ‘The Legend of Zelda’ Smartphone Game"/>
+    <cse:Attribute name="og:description" value="Nintendo plans to bring its videogame franchise “The Legend of Zelda” to smartphones, the latest step by the Kyoto company to expand its mobile-games lineup."/>
+    <cse:Attribute name="og:url" value="https://www.wsj.com/articles/nintendo-developing-the-legend-of-zelda-smartphone-game-1494820189"/>
+    <cse:Attribute name="og:image" value="https://si.wsj.net/public/resources/images/BN-TL112_2DnXW_TOP_20170514233718.jpg"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+   </cse:DataObject>
+   <cse:DataObject type="webpage">
+    <cse:Attribute name="datepublished" value="2017-05-15T03:49:00.000Z"/>
+    <cse:Attribute name="datemodified" value="2017-05-15T03:49:00.000Z"/>
+    <cse:Attribute name="datecreated" value="2017-05-15T03:49:00.000Z"/>
+    <cse:Attribute name="description" value="Nintendo plans to bring its videogame franchise “The Legend of Zelda” to smartphones, the latest step by the Kyoto company to expand its mobile-games lineup."/>
+    <cse:Attribute name="inlanguage" value="en-US"/>
+    <cse:Attribute name="image" value="https://si.wsj.net/public/resources/images/BN-TL112_2DnXW_TOP_20170514233718.jpg"/>
+    <cse:Attribute name="publisher" value="wsj.com"/>
+    <cse:Attribute name="headline" value="Nintendo Developing ‘The Legend of Zelda’ Smartphone Game"/>
+   </cse:DataObject>
+   <cse:DataObject type="listitem">
+    <cse:Attribute name="item" value="Tech"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Takashi Mochizuki"/>
+    <cse:Attribute name="url" value="Takashi Mochizuki"/>
+    <cse:Attribute name="email" value="takashi.mochizuki@wsj.com"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051517mcmaster4/051517mcmaster4_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170516/051617ceocuskorea1/051617ceocuskorea1_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocghosn1/051617ceocghosn1_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocfung/051617ceocfung_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocbarshefsky1/051617ceocbarshefsky1_115x65.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TK015_liondo_C_20170510200502.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL908_TRUMP0_C_20170516140227.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL767_33W3V_C_20170516075400.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL558_FORD05_C_20170515211743.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BF-AQ765A_LILD_C_20170516230409.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051517mcmaster4/051517mcmaster4_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocghosn1/051617ceocghosn1_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/18000101/a88c281b3164464b94213769e35cd81d/a88c281b3164464b94213769e35cd81d_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocfung/051617ceocfung_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocbarshefsky1/051617ceocbarshefsky1_167x94.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TK015_liondo_C_20170510200502.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL908_TRUMP0_C_20170516140227.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL767_33W3V_C_20170516075400.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL558_FORD05_C_20170515211743.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BF-AQ765A_LILD_C_20170516230409.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://si.wsj.net/public/resources/images/BN-TL112_2DnXW_TOP_20170514233718.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="318"/>
+    <cse:Attribute name="height" value="159"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrFNg_S5M09n6Zz7w_dKqiWm6XvtlZuvIPIvLAXd8AYVoN6yTp9PWG82A"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.bloomberg.com/politics/articles/2017-05-11/saudi-arabia-said-to-boost-u-s-ties-with-40-billion-investment</id>
-  <updated>1970-01-18T07:09:10.654Z</updated>
-  <title type="html">Saudis Boost U.S. Ties With $40 Billion Investment - Bloomberg</title>
+  <updated>1970-01-18T07:17:21.974Z</updated>
+  <title type="html">Saudis to Boost U.S. Ties With $40 Billion Investment - Bloomberg</title>
   <link href="https://www.bloomberg.com/politics/articles/2017-05-11/saudi-arabia-said-to-boost-u-s-ties-with-40-billion-investment" title="www.bloomberg.com"/>
-  <summary type="html">Saudi Arabia is preparing to cement ties with President Donald Trump by &lt;br&gt;
-committing to unprecedented investments in the U.S..</summary>
+  <summary type="html">The kingdom&amp;#39;s sovereign wealth fund is set to announce plans to deploy as much &lt;br&gt;
+as $40 billion into U.S. infrastructure, according to people familiar with the&amp;nbsp;...</summary>
   <cse:cacheId>ozZ8BYg7pYkJ</cse:cacheId>
   <cse:formattedUrl type="html">https://www.bloomberg.com/.../saudi-arabia-said-to-boost-u-s-ties-with-40- billion-investment</cse:formattedUrl>
   <cse:PageMap>
@@ -37,7 +187,7 @@ committing to unprecedented investments in the U.S..</summary>
     <cse:Attribute name="og:description" value="Saudi Arabia is preparing to cement ties with President Donald Trump by committing to unprecedented investments in the U.S."/>
     <cse:Attribute name="og:image" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1oeEk9ajgvs/v0/1200x860.jpg"/>
     <cse:Attribute name="og:site_name" value="Bloomberg.com"/>
-    <cse:Attribute name="og:title" value="Saudis Boost U.S. Ties With $40 Billion Investment"/>
+    <cse:Attribute name="og:title" value="Saudis to Boost U.S. Ties With $40 Billion Investment"/>
     <cse:Attribute name="og:type" value="article"/>
     <cse:Attribute name="og:url" value="https://www.bloomberg.com/politics/articles/2017-05-11/saudi-arabia-said-to-boost-u-s-ties-with-40-billion-investment"/>
     <cse:Attribute name="fb:status" value="Saudi Arabia is preparing to cement ties with President Donald Trump by committing to unprecedented investments in the U.S."/>
@@ -45,26 +195,26 @@ committing to unprecedented investments in the U.S..</summary>
     <cse:Attribute name="twitter:description" value="Saudi Arabia is preparing to cement ties with President Donald Trump by committing to unprecedented investments in the U.S."/>
     <cse:Attribute name="twitter:image" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1oeEk9ajgvs/v0/1200x860.jpg"/>
     <cse:Attribute name="twitter:site" value="@bpolitics"/>
-    <cse:Attribute name="twitter:title" value="Saudis Boost U.S. Ties With $40 Billion Investment"/>
-    <cse:Attribute name="parsely-title" value="Saudis Boost U.S. Ties With $40 Billion Investment"/>
+    <cse:Attribute name="twitter:title" value="Saudis to Boost U.S. Ties With $40 Billion Investment"/>
+    <cse:Attribute name="parsely-title" value="Saudis to Boost U.S. Ties With $40 Billion Investment"/>
     <cse:Attribute name="parsely-link" value="https://www.bloomberg.com/politics/articles/2017-05-11/saudi-arabia-said-to-boost-u-s-ties-with-40-billion-investment"/>
     <cse:Attribute name="parsely-type" value="post"/>
     <cse:Attribute name="parsely-image-url" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1oeEk9ajgvs/v0/1200x860.jpg"/>
     <cse:Attribute name="parsely-pub-date" value="2017-05-11T18:39:53.440Z"/>
     <cse:Attribute name="parsely-section" value="politics"/>
-    <cse:Attribute name="parsely-tags" value="Saudi Arabia,Donald John Trump,Infrastructure,White House,Wealth,Barack H Obama,Iran,Jerusalem,Europe,Law,Region: Global,Page: article"/>
+    <cse:Attribute name="parsely-tags" value="Saudi Arabia,Donald John Trump,Infrastructure,White House,Wealth,Barack H Obama,Iran,Jerusalem,Europe,Oil,Region: Global,Page: article"/>
     <cse:Attribute name="parsely-post-id" value="OPSA1X6JIJUO01"/>
     <cse:Attribute name="parsely-author" value="Dinesh Nair"/>
     <cse:Attribute name="apple-mobile-web-app-capable" value="no"/>
     <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black"/>
-    <cse:Attribute name="sailthru.title" value="Saudis Boost U.S. Ties With $40 Billion Investment"/>
+    <cse:Attribute name="sailthru.title" value="Saudis to Boost U.S. Ties With $40 Billion Investment"/>
     <cse:Attribute name="sailthru.author" value="Dinesh Nair,Keith Campbell,Matthew Martin"/>
     <cse:Attribute name="sailthru.description" value="Saudi Arabia is preparing to cement ties with President Donald Trump by committing to unprecedented investments in the U.S."/>
     <cse:Attribute name="sailthru.date" value="2017-05-11T18:39:53.440Z"/>
    </cse:DataObject>
    <cse:DataObject type="article">
     <cse:Attribute name="datepublished" value="2017-05-11T18:39:53.440Z"/>
-    <cse:Attribute name="datemodified" value="2017-05-11T18:54:43.676Z"/>
+    <cse:Attribute name="datemodified" value="2017-05-12T10:01:14.175Z"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1oeEk9ajgvs/v0/1200x860.jpg"/>
@@ -77,628 +227,296 @@ committing to unprecedented investments in the U.S..</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN17Z27B</id>
-  <updated>1970-01-18T07:09:10.654Z</updated>
-  <title type="html">Exclusive: London tries to lure Saudi Aramco with new listing structure</title>
-  <link href="http://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN17Z27B" title="www.reuters.com"/>
-  <summary type="html">While the paper discussed general listing rules, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-negotiations said the new segment was being devised specifically with Aramco in &lt;br&gt;
-mind.</summary>
-  <cse:cacheId>DAYfTV6FV5wJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-saudi-aramco-ipo-london-exclusive- idUSKBN17Z27B</cse:formattedUrl>
+  <id>http://www.cnn.com/2017/05/10/politics/james-comey-russia-investigation-money/index.html</id>
+  <updated>1970-01-18T07:17:21.974Z</updated>
+  <title type="html">Sources: James Comey sought resources for Russia probe ...</title>
+  <link href="http://www.cnn.com/2017/05/10/politics/james-comey-russia-investigation-money/index.html" title="www.cnn.com"/>
+  <summary type="html">... Rod Rosenstein last week and pushed for more resources to be devoted to the &lt;br&gt;
+Russia investigation, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the discussion.</summary>
+  <cse:cacheId>7FuGoCw5mwgJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/05/10/politics/james-comey.../index.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;GCA-Commodities;middle-east-full-coverage;oil;FRBnewsA"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+London+tries+to+lure+Saudi+Aramco+with+new+listing+structure+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="3"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Dasha Afanasieva and Michelle Price"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Dasha Afanasieva and Michelle Price"/>
-    <cse:Attribute name="news_keywords" value="Saudi Arabia;United Kingdom;Saudi Arabia;United Kingdom;Saudi Arabia;United Kingdom;Russell Holden;Theresa May;Xavier R. Rolet;Russell Holden;Theresa May;Xavier R. Rolet;Russell Holden;Theresa May;Xavier R. Rolet;US;SAUDI;ARAMCO;IPO;LONDON;EXCLUSIVE;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Crude Oil;Initial Public Offerings;New Issues;Equity Financing;Corporate Events;Saudi Arabia;Oil and Gas (TRBC);Financial and Commodity Market Operators (TRBC);Integrated Oil and Gas (TRBC);Government Borrowing Requirement;Equities Markets;Europe;Middle East;Regulation;United Kingdom;Indices Changes"/>
-    <cse:Attribute name="revision_date" value="Fri May 05 07:15:04 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Dasha Afanasieva and Michelle Price"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-05T07:15:04+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: London tries to lure Saudi Aramco with new listing structure - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: London tries to lure Saudi Aramco with new listing structure - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN17Z27B"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The London Stock Exchange is working on a new type of listing structure that would make it more attractive for oil giant Saudi Aramco to join the bourse, sources familiar with the discussions said."/>
-    <cse:Attribute name="og:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170504&amp;t=2&amp;i=1183199089&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED421FB"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-05T07:15:04+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-05T07:15:04+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Dasha Afanasieva and Michelle Price"/>
-    <cse:Attribute name="og:article:tag" value="Saudi Arabia,United Kingdom,Saudi Arabia,United Kingdom,Saudi Arabia,United Kingdom,Russell Holden,Theresa May,Xavier R. Rolet,Russell Holden,Theresa May,Xavier R. Rolet,Russell Holden,Theresa May,Xavier R. Rolet,US,SAUDI,ARAMCO,IPO,LONDON,EXCLUSIVE,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Crude Oil,Initial Public Offerings,New Issues,Equity Financing,Corporate Events,Saudi Arabia,Oil and Gas (TRBC),Financial and Commodity Market Operators (TRBC),Integrated Oil and Gas (TRBC),Government Borrowing Requirement,Equities Markets,Europe,Middle East,Regulation,United Kingdom,Indices Changes"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-05-10T16:45:51Z"/>
+    <cse:Attribute name="pubdate" value="2017-05-10T16:45:51Z"/>
+    <cse:Attribute name="lastmod" value="2017-05-10T17:26:49Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/05/10/politics/james-comey-russia-investigation-money/index.html"/>
+    <cse:Attribute name="author" value="Sara Murray, CNN"/>
+    <cse:Attribute name="og:title" value="Sources: Comey sought resources for Russia probe"/>
+    <cse:Attribute name="twitter:title" value="Sources: Comey sought resources for Russia probe"/>
+    <cse:Attribute name="og:description" value="FBI Director James Comey asked the Justice Department for more resources for the agency&apos;s investigation into Russian meddling of the US election and ties to Donald Trump&apos;s presidential campaign, just the week before the President fired him."/>
+    <cse:Attribute name="twitter:description" value="FBI Director James Comey asked the Justice Department for more resources for the agency&apos;s investigation into Russian meddling of the US election and ties to Donald Trump&apos;s presidential campaign, just the week before the President fired him."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: London tries to lure Saudi Aramco with new listing structure - sources"/>
-    <cse:Attribute name="twitter:description" value="The London Stock Exchange is working on a new type of listing structure that would make it more attractive for oil giant Saudi Aramco to join the bourse, sources familiar with the discussions said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170504&amp;t=2&amp;i=1183199089&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED421FB"/>
-    <cse:Attribute name="twitter:image" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170504&amp;t=2&amp;i=1183199089&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED421FB"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170504&amp;t=2&amp;i=1183199089&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED421FB"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="311"/>
-    <cse:Attribute name="height" value="162"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSvj9exIntoNOTqh9MdGjyv755eHtAT3Ln4H5RptTqF8usLyR7YnmeB6N"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.washingtonexaminer.com/whats-going-on-with-the-new-comey-reports/article/2622571</id>
-  <updated>1970-01-18T07:09:10.654Z</updated>
-  <title type="html">What&amp;#39;s going on with the new Comey reports?</title>
-  <link href="http://www.washingtonexaminer.com/whats-going-on-with-the-new-comey-reports/article/2622571" title="www.washingtonexaminer.com"/>
-  <summary type="html">According to two &lt;b&gt;sources familiar with&lt;/b&gt; the matter — including one in law &lt;br&gt;
-enforcement — Abedin forwarded only a handful of Clinton emails to her &lt;br&gt;
-husband for&amp;nbsp;...</summary>
-  <cse:cacheId>2cGKbSxLz1YJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.washingtonexaminer.com/whats-going-on-with.../2622571</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.washingtonexaminer.com/whats-going-on-with-the-new-comey-reports/article/2622571"/>
-    <cse:Attribute name="fb:pages" value="40656699159"/>
-    <cse:Attribute name="twitter:widgets:csp" value="on"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@dcexaminer"/>
-    <cse:Attribute name="short_url" value="http://www.washingtonexaminer.com/article/2622571"/>
-    <cse:Attribute name="dy:url" value="http://www.washingtonexaminer.com/whats-going-on-with-the-new-comey-reports/article/2622571"/>
-    <cse:Attribute name="og:image" value="http://cdn.washingtonexaminer.biz/cache/1060x600-df36365aa5437f2ca745ec5e074b915a.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://cdn.washingtonexaminer.biz/cache/1060x600-df36365aa5437f2ca745ec5e074b915a.jpg"/>
-    <cse:Attribute name="og:title" value="What&apos;s going on with the new Comey reports?"/>
-    <cse:Attribute name="twitter:title" value="What&apos;s going on with the new Comey reports?"/>
-    <cse:Attribute name="og:description" value="New reports suggest Comey massively overstated the volume of emails containing classified information that Huma Abedin forwarded to her husb..."/>
-    <cse:Attribute name="author" value="Emily Jashinsky"/>
-    <cse:Attribute name="og:author" value="Emily Jashinsky"/>
-    <cse:Attribute name="twitter:creator" value="@emilyjashinsky"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=890150273"/>
-    <cse:Attribute name="fb:app_id" value="190451957673826"/>
-    <cse:Attribute name="fb:admins" value="1285945407"/>
-    <cse:Attribute name="og:site_name" value="Washington Examiner"/>
-    <cse:Attribute name="msvalidate.01" value="0F003B4674EABE0F24651B476B61A43C"/>
-    <cse:Attribute name="bitly-verification" value="cb370c61f734"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/05/10/politics/james-comey-russia-investigation-money/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,art-vid-vls-col,col-former-fbi-director-james-comey-"/>
    </cse:DataObject>
    <cse:DataObject type="newsarticle">
-    <cse:Attribute name="datepublished" value="2017-05-09T14:39:40-04:00"/>
-    <cse:Attribute name="image" value="http://cdn.washingtonexaminer.biz/cache/1060x600-df36365aa5437f2ca745ec5e074b915a.jpg"/>
-    <cse:Attribute name="text" value="New reports suggesting that FBI Director James Comey massively overstated the volume of emails containing classified information that Huma Abedin forwarded to her husband add greater confusion..."/>
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-05-10T16:45:51Z"/>
+    <cse:Attribute name="datepublished" value="2017-05-10T16:45:51Z"/>
+    <cse:Attribute name="datemodified" value="2017-05-10T17:26:49Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/05/10/politics/james-comey-russia-investigation-money/index.html"/>
+    <cse:Attribute name="author" value="Sara Murray, CNN"/>
+    <cse:Attribute name="headline" value="Sources: James Comey sought resources for Russia probe - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="FBI Director James Comey asked the Justice Department for more resources for the agency&apos;s investigation into Russian meddling of the US election and ties to Donald Trump&apos;s presidential campaign,..."/>
+    <cse:Attribute name="keywords" value="politics, Sources: James Comey sought resources for Russia probe - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Sources: James Comey sought more resources for Russia investigation"/>
+    <cse:Attribute name="articlebody" value="Story highlightsJames Comey spoke to the leaders of the Senate intelligence committee last weekThe Justice Department denied the allegation the former FBI director had requested more help (CNN)FBI..."/>
    </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Emily Jashinsky"/>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://cdn.washingtonexaminer.biz/cache/1060x600-df36365aa5437f2ca745ec5e074b915a.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170510112128-james-comey-president-trump-split-composite-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
     <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="169"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSa_YLAE6bqVK3QDoRxUWIqeN8Qbu54J9vGdSdZE_RRLiWKzk-Gkyrq2EX2"/>
+    <cse:Attribute name="height" value="168"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/parexel-intl-ma-idUSL1N1IA1LG</id>
-  <updated>1970-01-18T07:09:10.654Z</updated>
-  <title type="html">Contract research firm Parexel International explores sale-sources ...</title>
-  <link href="http://www.reuters.com/article/parexel-intl-ma-idUSL1N1IA1LG" title="www.reuters.com"/>
-  <summary type="html">Contract drug research firm Parexel International Corp is exploring a sale, &lt;br&gt;
-&lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on Monday. Boston-based Parexel &lt;br&gt;
-had a&amp;nbsp;...</summary>
-  <cse:cacheId>iKPYmEocDzQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/parexel-intl-ma-idUSL1N1IA1LG</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG</id>
+  <updated>1970-01-18T07:17:21.974Z</updated>
+  <title type="html">Greece eyeing July bond, if deal reached with lenders: sources ...</title>
+  <link href="http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG" title="www.reuters.com"/>
+  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the plan say Athens wants to test market appetite for Greek &lt;br&gt;
+debt before a current bailout program, worth up to 86 billion euros, expires in&amp;nbsp;...</summary>
+  <cse:cacheId>bYcsGd1cvkIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-eurozone-greece-bonds-idUSKCN18C1SG</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="USLegal"/>
-    <cse:Attribute name="dcsext.channellist" value="USLegal"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Contract+research+firm+Parexel+International+explores+sale-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-USLegal"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="PAREXEL INTL;MandA/;Americas;United States"/>
-    <cse:Attribute name="revision_date" value="Mon May 08 20:41:29 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-08T20:41:29+0000"/>
-    <cse:Attribute name="sailthru.title" value="Contract research firm Parexel International explores sale-sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Contract research firm Parexel International explores sale-sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/parexel-intl-ma-idUSL1N1IA1LG"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Contract drug research firm ParexelInternational Corp is exploring a sale, sourcesfamiliar with the matter told Reuters on Monday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-08T20:41:29+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-08T20:41:29+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="PAREXEL INTL,MandA/,Americas,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Contract research firm Parexel International explores sale-sources"/>
-    <cse:Attribute name="twitter:description" value="Contract drug research firm ParexelInternational Corp is exploring a sale, sourcesfamiliar with the matter told Reuters on Monday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/legal"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cbsnews.com/videos/tsa-weighing-expansion-of-laptop-ban-on-flights/</id>
-  <updated>1970-01-18T07:09:10.654Z</updated>
-  <title type="html">TSA weighing expansion of laptop ban on flights</title>
-  <link href="http://www.cbsnews.com/videos/tsa-weighing-expansion-of-laptop-ban-on-flights/" title="www.cbsnews.com"/>
-  <summary type="html">May 8, 2017, 6:34 PM | &lt;b&gt;Sources familiar with&lt;/b&gt; ongoing discussions say it is likely &lt;br&gt;
-the Department of Homeland Security will expand the ban on large electronics&amp;nbsp;...</summary>
-  <cse:cacheId>PEQqbZhshCQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cbsnews.com/.../tsa-weighing-expansion-of-laptop-ban-on-flights/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width"/>
-    <cse:Attribute name="al:web:url" value="http://www.cbsnews.com/videos/tsa-weighing-expansion-of-laptop-ban-on-flights/"/>
-    <cse:Attribute name="al:ios:app_name" value="CBS News"/>
-    <cse:Attribute name="al:ios:app_store_id" value="334256223"/>
-    <cse:Attribute name="al:ios:url" value="cbsnewsapp://videos/tsa-weighing-expansion-of-laptop-ban-on-flights/"/>
-    <cse:Attribute name="al:android:app_name" value="CBS News"/>
-    <cse:Attribute name="al:android:package" value="com.treemolabs.apps.cbsnews"/>
-    <cse:Attribute name="og:type" value="video.other"/>
-    <cse:Attribute name="og:url" value="http://www.cbsnews.com/videos/tsa-weighing-expansion-of-laptop-ban-on-flights/"/>
-    <cse:Attribute name="og:title" value="TSA weighing expansion of laptop ban on flights"/>
-    <cse:Attribute name="og:description" value="Sources familiar with ongoing discussions say it is likely the Department of Homeland Security will expand the ban on large electronics being carried onto planes. Sources say airports in Europe and the U.K. are among those likely to be added to the list. Kris Van Cleave has more."/>
-    <cse:Attribute name="og:image" value="http://cbsnews1.cbsistatic.com/hub/i/r/2017/05/08/449f01be-9bbb-4066-bf46-028a735769ea/thumbnail/1200x630/c010be5e7f2bc3af504e737f1e782963/0508-en-vancleave-electronicsban-1311628-640x360.jpg"/>
-    <cse:Attribute name="og:image:width" value="1200"/>
-    <cse:Attribute name="og:image:height" value="630"/>
-    <cse:Attribute name="fb:app_id" value="1536620209892267"/>
-    <cse:Attribute name="twitter:app:country" value="US"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="CBS News"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="334256223"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="cbsnewsapp://videos/tsa-weighing-expansion-of-laptop-ban-on-flights/"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="CBS News"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="334256223"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="cbsnewsapp://videos/tsa-weighing-expansion-of-laptop-ban-on-flights/"/>
-    <cse:Attribute name="twitter:app:name:googleplay" value="CBS News"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.treemolabs.apps.cbsnews"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="http://www.cbsnews.com/videos/tsa-weighing-expansion-of-laptop-ban-on-flights/"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@cbseveningnews"/>
-    <cse:Attribute name="twitter:title" value="TSA weighing expansion of laptop ban on flights"/>
-    <cse:Attribute name="twitter:description" value="Sources familiar with ongoing discussions say it is likely the Department of Homeland Security will expand the ban on large electronics being carried onto planes. Sources say airports in Europe and the U.K. are among those likely to be added to the list. Kris Van Cleave has more."/>
-    <cse:Attribute name="twitter:image" value="http://cbsnews1.cbsistatic.com/hub/i/r/2017/05/08/449f01be-9bbb-4066-bf46-028a735769ea/thumbnail/1200x630/c010be5e7f2bc3af504e737f1e782963/0508-en-vancleave-electronicsban-1311628-640x360.jpg"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/CBSEveningNews"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://cbsnews1.cbsistatic.com/hub/i/r/2017/05/08/449f01be-9bbb-4066-bf46-028a735769ea/thumbnail/1200x630/c010be5e7f2bc3af504e737f1e782963/0508-en-vancleave-electronicsban-1311628-640x360.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2cPqONymytYgxiPAVaGoy9d9RJFuoYYTrM6h_bfOpzGdK7oljC-O87s0"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/socgen-ald-ipo-idUSL8N1IB6HD</id>
-  <updated>1970-01-18T07:09:10.654Z</updated>
-  <title type="html">SocGen, JP Morgan, Credit Suisse to lead ALD Automotive IPO ...</title>
-  <link href="http://www.reuters.com/article/socgen-ald-ipo-idUSL8N1IB6HD" title="www.reuters.com"/>
-  <summary type="html">... and Credit Suisse have been appointed as global coordinators for the initial &lt;br&gt;
-public offering of ALD Automotive, three &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>0rAcz79WrUIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/socgen-ald-ipo-idUSL8N1IB6HD</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;bank-news;transportation"/>
-    <cse:Attribute name="dcsext.contentheadline" value="SocGen%2C+JP+Morgan%2C+Credit+Suisse+to+lead+ALD+Automotive+IPO%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="France;US;SOCGEN;ALD;IPO;Investment Banking and Investment Services (TRBC);Chemicals (Legacy);Security Listings / Delistings;Western Europe;Initial Public Offerings;Privatisations;Equity Financing;France;Transportation (TRBC);Corporate Debt;Divestitures / Spin;Offs;United States;Banks (TRBC);Funds;Switzerland;Company News;Financials (TRBC);Financials (Legacy);New Issues;Corporate Events;Investment Banking and Brokerage Services (TRBC);Europe;Banking Services (Legacy);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Tue May 09 17:30:28 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-09T17:30:28+0000"/>
-    <cse:Attribute name="sailthru.title" value="SocGen, JP Morgan, Credit Suisse to lead ALD Automotive IPO: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="SocGen, JP Morgan, Credit Suisse to lead ALD Automotive IPO: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-socgen-ald-ipo-idUSKBN185250"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Societe Generale, JP Morgan and Credit Suisse have been appointed as global coordinators for the initial public offering of ALD Automotive, three sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-09T17:30:28+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-09T17:30:28+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="France,US,SOCGEN,ALD,IPO,Investment Banking and Investment Services (TRBC),Chemicals (Legacy),Security Listings / Delistings,Western Europe,Initial Public Offerings,Privatisations,Equity Financing,France,Transportation (TRBC),Corporate Debt,Divestitures / Spin,Offs,United States,Banks (TRBC),Funds,Switzerland,Company News,Financials (TRBC),Financials (Legacy),New Issues,Corporate Events,Investment Banking and Brokerage Services (TRBC),Europe,Banking Services (Legacy),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="SocGen, JP Morgan, Credit Suisse to lead ALD Automotive IPO: sources"/>
-    <cse:Attribute name="twitter:description" value="Societe Generale, JP Morgan and Credit Suisse have been appointed as global coordinators for the initial public offering of ALD Automotive, three sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/etihad-bond-alitalia-idUSL8N1IA1TU</id>
-  <updated>1970-01-18T07:09:10.654Z</updated>
-  <title type="html">Etihad pledged to cover Alitalia&amp;#39;s part of EA Partners bonds - sources</title>
-  <link href="http://www.reuters.com/article/etihad-bond-alitalia-idUSL8N1IA1TU" title="www.reuters.com"/>
-  <summary type="html">One of the &lt;b&gt;sources familiar with&lt;/b&gt; the matter said Etihad had probably informed &lt;br&gt;
-Fitch about the debt agreement to prevent the bonds from being downgraded&amp;nbsp;...</summary>
-  <cse:cacheId>Y16HIX96LuMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/etihad-bond-alitalia-idUSL8N1IA1TU</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="FRBnewsA"/>
-    <cse:Attribute name="dcsext.channellist" value="transportation;FRBnewsA"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Etihad+pledged+to+cover+Alitalia%27s+part+of+EA+Partners+bonds+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-FRBnewsA"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="ETIHAD;BOND/ALITALIA;Investment Banking and Investment Services (TRBC);Western Europe;Transportation (TRBC);Credit and Corporate Debt;Corporate Debt;Asia / Pacific;Government Borrowing Requirement;Industrials (TRBC);Debt / Fixed Income Markets;Middle East;Deals;United Kingdom;Credit / Debt Ratings;Corporate Debt Renegotiation;United Arab Emirates;Corporate Debt Financing;Company News;Financials (TRBC);Financials (Legacy);New Issues;Italy;Corporate Events;Economic Events;Euro Zone;Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Airline Services (TRBC);Europe;Airlines (TRBC);Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Mon May 08 12:14:25 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-08T12:14:25+0000"/>
-    <cse:Attribute name="sailthru.title" value="Etihad pledged to cover Alitalia&apos;s part of EA Partners bonds - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Etihad pledged to cover Alitalia&apos;s part of EA Partners bonds - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/etihad-bond-alitalia-idUSL8N1IA1TU"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Etihad Airways agreed at the end oflast year to repay a portion of two bonds maturing in 2020 and2021 on behalf of Alitalia if the Italian airline ends updefaulting, two sources familiar with the situation said onMonday."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-08T12:14:25+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-08T12:14:25+0000"/>
-    <cse:Attribute name="og:article:section" value="Subjects"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="ETIHAD,BOND/ALITALIA,Investment Banking and Investment Services (TRBC),Western Europe,Transportation (TRBC),Credit and Corporate Debt,Corporate Debt,Asia / Pacific,Government Borrowing Requirement,Industrials (TRBC),Debt / Fixed Income Markets,Middle East,Deals,United Kingdom,Credit / Debt Ratings,Corporate Debt Renegotiation,United Arab Emirates,Corporate Debt Financing,Company News,Financials (TRBC),Financials (Legacy),New Issues,Italy,Corporate Events,Economic Events,Euro Zone,Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Airline Services (TRBC),Europe,Airlines (TRBC),Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Etihad pledged to cover Alitalia&apos;s part of EA Partners bonds - sources"/>
-    <cse:Attribute name="twitter:description" value="Etihad Airways agreed at the end oflast year to repay a portion of two bonds maturing in 2020 and2021 on behalf of Alitalia if the Italian airline ends updefaulting, two sources familiar with the situation said onMonday."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
-    <cse:Attribute name="wt.cg_n" value="Subjects"/>
-    <cse:Attribute name="wt.cg_s" value="Transportation"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.usatoday.com/videos/tech/2017/05/05/u.s.-department-justice-begins-investigation-into-uber/101320310/</id>
-  <updated>1970-01-18T07:09:10.654Z</updated>
-  <title type="html">U.S. Department of Justice begins investigation into Uber</title>
-  <link href="https://www.usatoday.com/videos/tech/2017/05/05/u.s.-department-justice-begins-investigation-into-uber/101320310/" title="www.usatoday.com"/>
-  <summary type="html">... investigation into Uber&amp;#39;s use of a software tool that helped its drivers evade &lt;br&gt;
-local transportation regulators, two &lt;b&gt;sources familiar with&lt;/b&gt; the situation told Reuters&lt;br&gt;
-.</summary>
-  <cse:cacheId>i0lf6hGVO5YJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.usatoday.com/videos/tech/2017/...s.../101320310/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="content-type" value="text/html; charset=UTF-8"/>
-    <cse:Attribute name="google" value="notranslate"/>
-    <cse:Attribute name="fb:app_id" value="215046668549694"/>
-    <cse:Attribute name="og:site_name" value="USA TODAY"/>
-    <cse:Attribute name="og:image" value="https://www.gannett-cdn.com/-mm-/a7b715558f1440b80fd7e2a4f80a6abb31b637ab/c=0-33-1024-612&amp;r=1280x720&amp;r=x1803&amp;c=3200x1800/local/-/media/2017/02/27/USATODAY/USATODAY/636238050807867258-Uber.JPG"/>
-    <cse:Attribute name="og:image:width" value="3200"/>
-    <cse:Attribute name="og:image:height" value="1800"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="https://www.gannett-cdn.com/-mm-/c9a1740961274775ce374421ba8a318b42d30433/c=0-33-1024-612&amp;r=1280x720&amp;r=x324&amp;c=600x321/local/-/media/2017/02/27/USATODAY/USATODAY/636238050807867258-Uber.JPG"/>
-    <cse:Attribute name="og:title" value="U.S. Department of Justice begins investigation into Uber"/>
-    <cse:Attribute name="og:description" value="The U.S. Department of Justice has begun a criminal investigation into Uber&apos;s use of a software tool that helped its drivers evade local transportation regulators, two sources familiar with the situation told Reuters."/>
-    <cse:Attribute name="og:url" value="https://www.usatoday.com/videos/tech/2017/05/05/u.s.-department-justice-begins-investigation-into-uber/101320310/"/>
-    <cse:Attribute name="duration" value="36"/>
-    <cse:Attribute name="cxenseparse:recs:articleid" value="101320310"/>
-    <cse:Attribute name="cxenseparse:pageclass" value="article"/>
-    <cse:Attribute name="cxenseparse:recs:publishtime" value="2017-05-05T07:39:34-04:00"/>
-    <cse:Attribute name="cxenseparse:recs:category" value="tech"/>
-    <cse:Attribute name="cxenseparse:title" value="U.S. Department of Justice begins investigation into Uber"/>
-    <cse:Attribute name="cxenseparse:author" value="Newslook"/>
-    <cse:Attribute name="cxenseparse:recs:contenttype" value="video"/>
-    <cse:Attribute name="cxenseparse:gci-asset-type" value="video"/>
-    <cse:Attribute name="cxenseparse:recs:image" value="https://www.gannett-cdn.com/-mm-/a7b715558f1440b80fd7e2a4f80a6abb31b637ab/c=0-33-1024-612&amp;r=1280x720&amp;r=x1803&amp;c=3200x1800/local/-/media/2017/02/27/USATODAY/USATODAY/636238050807867258-Uber.JPG"/>
-    <cse:Attribute name="viewport" value="width=1070"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechYou should interview your mom this Mother&apos;s DayYou should interview your mom this Mother&apos;s DayThis Mother&apos;s Day, do yourself and your family a favor and schedule an interview with your..."/>
-    <cse:Attribute name="headline" value="You should interview your mom this Mother&apos;s Day"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="3 hours, 10 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Talking Tech&apos;Prey&apos; is video games&apos; latest sci-fi epic&apos;Prey&apos; is video games&apos; latest sci-fi epicIt may share the same name, but the video game Prey has little in common with its 2006 predecessor.Talk..."/>
-    <cse:Attribute name="headline" value="&apos;Prey&apos; is video games&apos; latest sci-fi epic"/>
-    <cse:Attribute name="articlesection" value="Talking Tech"/>
-    <cse:Attribute name="datepublished" value="1 day, 20 hours ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechTeespring apologizes for allowing racist t-shirts on siteTeespring apologizes for allowing racist t-shirts on siteThis million dollar t-shirt making company failed to catch a customer&apos;s..."/>
-    <cse:Attribute name="headline" value="Teespring apologizes for allowing racist t-shirts on site"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="45 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechInterview mom on smartphone for Mother&apos;s DayInterview mom on smartphone for Mother&apos;s DayJefferson Graham shows off in-expensive tools to get a pro quality video interview with mom for Mother&apos;s..."/>
-    <cse:Attribute name="headline" value="Interview mom on smartphone for Mother&apos;s Day"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="1 hour, 23 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechAmazon seeks to preserve its retail edge with robotsAmazon seeks to preserve its retail edge with robotsWhen Amazon changes a price, competitors will often follow suit to avoid losing a..."/>
-    <cse:Attribute name="headline" value="Amazon seeks to preserve its retail edge with robots"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="1 hour, 29 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechLet your voice be your guide - at least on WazeLet your voice be your guide - at least on WazeA new feature on Waze app lets you record your own GPS directions. Buzz60&apos;s Djenane Beaulieu..."/>
-    <cse:Attribute name="headline" value="Let your voice be your guide - at least on Waze"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="1 hour, 39 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Personal FinanceTwo must-have apps that make investing easyTwo must-have apps that make investing easyThese mobile apps will do some serious good for your financial future, especially if you’re..."/>
-    <cse:Attribute name="headline" value="Two must-have apps that make investing easy"/>
-    <cse:Attribute name="articlesection" value="Personal Finance"/>
-    <cse:Attribute name="datepublished" value="2 hours, 5 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Tech&apos;Nerdy&apos; baker risked her life savings on YouTube videos.&apos;Nerdy&apos; baker risked her life savings on YouTube videos.YouTube is overflowing with food videos, but very few hosts have more than..."/>
-    <cse:Attribute name="headline" value="&apos;Nerdy&apos; baker risked her life savings on YouTube videos."/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="3 hours, 4 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechWhy mom should always be in the pictureWhy mom should always be in the pictureJefferson Graham offers shout outs for the moms, who shouldn&apos;t just be taking the family photos, but in them..."/>
-    <cse:Attribute name="headline" value="Why mom should always be in the picture"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="10 hours, 18 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechNewly found dinosaur fossil earns &apos;Ghostbusters&apos; nameNewly found dinosaur fossil earns &apos;Ghostbusters&apos; nameThe &quot;Zuul cruvirastator&apos;s&quot; fossil is one of the most intact skeleton of the species..."/>
-    <cse:Attribute name="headline" value="Newly found dinosaur fossil earns &apos;Ghostbusters&apos; name"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="15 hours, 26 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechInstagram now lets you upload photos without using the appInstagram now lets you upload photos without using the appAfter making some changes to its mobile website.Tech16 hours, 30 minutes ago"/>
-    <cse:Attribute name="headline" value="Instagram now lets you upload photos without using the app"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="16 hours, 30 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="MoneyYou can now text your razor orders to GilletteYou can now text your razor orders to GilletteIt revamped its subscription shave club service.Money16 hours, 33 minutes ago"/>
-    <cse:Attribute name="headline" value="You can now text your razor orders to Gillette"/>
-    <cse:Attribute name="articlesection" value="Money"/>
-    <cse:Attribute name="datepublished" value="16 hours, 33 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Reviewed.comUpgrade your smoothie with this popular Ninja blender for only $80Upgrade your smoothie with this popular Ninja blender for only $80Your summer parties will be seriously swankier..."/>
-    <cse:Attribute name="headline" value="Upgrade your smoothie with this popular Ninja blender for only $80"/>
-    <cse:Attribute name="articlesection" value="Reviewed.com"/>
-    <cse:Attribute name="datepublished" value="17 hours, 16 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="SciencefairInfant &apos;Baby Louie&apos; dinosaur identified as new species &apos;baby dragon&apos;Infant &apos;Baby Louie&apos; dinosaur identified as new species &apos;baby dragon&apos;More than 20 years after it was featured on..."/>
-    <cse:Attribute name="headline" value="Infant &apos;Baby Louie&apos; dinosaur identified as new species &apos;baby dragon&apos;"/>
-    <cse:Attribute name="articlesection" value="Sciencefair"/>
-    <cse:Attribute name="datepublished" value="17 hours, 35 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Reviewed.comHere’s everything that works with your Amazon Echo and AlexaHere’s everything that works with your Amazon Echo and AlexaThe list just keeps on growing...Reviewed.com18 hours,..."/>
-    <cse:Attribute name="headline" value="Here’s everything that works with your Amazon Echo and Alexa"/>
-    <cse:Attribute name="articlesection" value="Reviewed.com"/>
-    <cse:Attribute name="datepublished" value="18 hours, 33 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechTinder users around the world are dreaming of the &apos;Mile High Club&apos;Tinder users around the world are dreaming of the &apos;Mile High Club&apos;Tinder user? You may want to consider a career change..."/>
-    <cse:Attribute name="headline" value="Tinder users around the world are dreaming of the &apos;Mile High Club&apos;"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="18 hours, 44 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechHere’s a look at Amazon’s latest home automation device: Echo ShowHere’s a look at Amazon’s latest home automation device: Echo ShowAmazon has officially unveiled the new device..."/>
-    <cse:Attribute name="headline" value="Here’s a look at Amazon’s latest home automation device: Echo Show"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="19 hours ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Home and Outdoors10 vegetables that can kill you if they’re not prepared properly10 vegetables that can kill you if they’re not prepared properlyWe spill the beans on common yet dangerous..."/>
-    <cse:Attribute name="headline" value="10 vegetables that can kill you if they’re not prepared properly"/>
-    <cse:Attribute name="articlesection" value="Home and Outdoors"/>
-    <cse:Attribute name="datepublished" value="19 hours, 26 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Tech&apos;Nugget kid&apos; reaches all-time retweet record&apos;Nugget kid&apos; reaches all-time retweet recordA year’s supply of Wendy’s chicken nuggets was enough for this teen to create one epic social..."/>
-    <cse:Attribute name="headline" value="&apos;Nugget kid&apos; reaches all-time retweet record"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="19 hours, 41 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Reviewed.comThe newest Instant Pot is at its lowest price ever right nowThe newest Instant Pot is at its lowest price ever right nowInstant Pot&apos;s IP-DUO Plus60 9-in-1 pressure cooker can make..."/>
-    <cse:Attribute name="headline" value="The newest Instant Pot is at its lowest price ever right now"/>
-    <cse:Attribute name="articlesection" value="Reviewed.com"/>
-    <cse:Attribute name="datepublished" value="10 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechAmazon&apos;s Seattle office spheres, a social media attractionAmazon&apos;s Seattle office spheres, a social media attractionAmazon&apos;s Seattle offices are unique spheres with a lot of interesting..."/>
-    <cse:Attribute name="headline" value="Amazon&apos;s Seattle office spheres, a social media attraction"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="21 hours, 19 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechThis amazing blanket will help you sleepThis amazing blanket will help you sleepThe campaign features several versions of a weighted blanket, called Gravity, has raised more than $2.5 million.T..."/>
-    <cse:Attribute name="headline" value="This amazing blanket will help you sleep"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="22 hours, 5 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechAmazon Echo Show brings us closer to &apos;The Jetsons&apos;Amazon Echo Show brings us closer to &apos;The Jetsons&apos;The features on Amazon&apos;s new Echo Show look straight out of the future.Tech22 hours,..."/>
-    <cse:Attribute name="headline" value="Amazon Echo Show brings us closer to &apos;The Jetsons&apos;"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="22 hours, 8 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechWhy do we treat our spacecraft like they&apos;re humans?Why do we treat our spacecraft like they&apos;re humans?Space bots are our new space explorers, and we treat them like it. Video provided by..."/>
-    <cse:Attribute name="headline" value="Why do we treat our spacecraft like they&apos;re humans?"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="22 hours, 31 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="TechForget your water bottle, eat a blob of water insteadForget your water bottle, eat a blob of water insteadThis invention would let you eat water like a giant grape. Skipping Rocks Lab is..."/>
-    <cse:Attribute name="headline" value="Forget your water bottle, eat a blob of water instead"/>
-    <cse:Attribute name="articlesection" value="Tech"/>
-    <cse:Attribute name="datepublished" value="23 hours, 52 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="url" value="Nation NowTeen reaches all-time retweet record; gets nuggetsTeen reaches all-time retweet record; gets nuggetsCarter Wilkerson surpasses previous record held by Ellen DeGeneres.Nation Now10..."/>
-    <cse:Attribute name="headline" value="Teen reaches all-time retweet record; gets nuggets"/>
-    <cse:Attribute name="articlesection" value="Nation Now"/>
-    <cse:Attribute name="datepublished" value="10 hours, 39 minutes ago"/>
-   </cse:DataObject>
-   <cse:DataObject type="videoobject">
-    <cse:Attribute name="description" value="The U.S. Department of Justice has begun a criminal investigation into Uber&apos;s use of a software tool that helped its drivers evade local transportation regulators, two sources familiar with..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://www.gannett-cdn.com/-mm-/840d8b3fc47deba5a155e19179dd844810672116/c=0-33-1024-612&amp;r=1280x720&amp;r=880/local/-/media/2017/02/27/USATODAY/USATODAY/636238050807867258-Uber.JPG"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="169"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSju4pgZcoc6eAtU0wb1kAXrV5EpV4UPO8o7ClI5w5-7c1DRUK_8FyzAC2d"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/uber-tech-crime-idUSL1N1I702I</id>
-  <updated>1970-01-18T07:09:10.654Z</updated>
-  <title type="html">Uber faces criminal probe over software used to evade authorities ...</title>
-  <link href="http://www.reuters.com/article/uber-tech-crime-idUSL1N1I702I" title="www.reuters.com"/>
-  <summary type="html">... a criminal investigation into Uber Technologies Inc&amp;#39;suse of a software tool that &lt;br&gt;
-helped its drivers evadelocal transportation regulators, two &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>4ecTdyh6wPQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/uber-tech-crime-idUSL1N1I702I</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="USLegal"/>
-    <cse:Attribute name="dcsext.channellist" value="USLegal"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Uber+faces+criminal+probe+over+software+used+to+evade+authorities"/>
+    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
+    <cse:Attribute name="dcsext.channellist" value="ousivMolt;euro-zone;bank-news;US-The-Wire;USWire_EL;FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Greece+eyeing+July+bond%2C+if+deal+reached+with+lenders%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-USLegal"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Travis Kalanick;UBER TECH;CRIME/;Americas;United States"/>
-    <cse:Attribute name="revision_date" value="Fri May 05 01:25:42 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-05T01:25:42+0000"/>
-    <cse:Attribute name="sailthru.title" value="Uber faces criminal probe over software used to evade authorities"/>
+    <cse:Attribute name="dcsext.rauthor" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
+    <cse:Attribute name="author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="news_keywords" value="Greece;Louis Gargour;US;EUROZONE;GREECE;BONDS;Banks (TRBC);International Monetary Fund;EU Institutions;Government Finances;Western Europe;New Issues;Greece;Corporate Events;Economic Events;European Union;National Government Debt;Market Events;Euro Zone as a Whole;Money Markets;Major News;Debt / Fixed Income Markets;Europe;Sovereign Debt Auctions;Economic News (3rd Party);Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Tue May 16 15:31:52 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-16T15:31:52+0000"/>
+    <cse:Attribute name="sailthru.title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Uber faces criminal probe over software used to evade authorities"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/uber-tech-crime-idUSL1N1I702I"/>
+    <cse:Attribute name="og:title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The U.S. Department of Justice hasbegun a criminal investigation into Uber Technologies Inc&apos;suse of a software tool that helped its drivers evadelocal transportation regulators, two sources familiar with thesituation said."/>
+    <cse:Attribute name="og:description" value="Greece is eyeing its first sovereign bond issue in three years as early as July if its international lenders specify longer term debt relief for the country, and the European Central Bank includes it in its bond-buying program."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-16T15:31:52+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-16T15:31:52+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="og:article:tag" value="Greece,Louis Gargour,US,EUROZONE,GREECE,BONDS,Banks (TRBC),International Monetary Fund,EU Institutions,Government Finances,Western Europe,New Issues,Greece,Corporate Events,Economic Events,European Union,National Government Debt,Market Events,Euro Zone as a Whole,Money Markets,Major News,Debt / Fixed Income Markets,Europe,Sovereign Debt Auctions,Economic News (3rd Party),Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
+    <cse:Attribute name="twitter:description" value="Greece is eyeing its first sovereign bond issue in three years as early as July if its international lenders specify longer term debt relief for the country, and the European Central Bank includes it in its bond-buying program."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGXOEVyzKCGmTMZghPbD2th8NpOr2TG8PQWeJjy-1DRZVluDXqcex4C-UM"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-intelsat-m-a-oneweb-idUSKBN1870DF</id>
+  <updated>1970-01-18T07:17:21.974Z</updated>
+  <title type="html">SoftBank&amp;#39;s OneWeb merger with Intelsat teeters: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-intelsat-m-a-oneweb-idUSKBN1870DF" title="www.reuters.com"/>
+  <summary type="html">SoftBank&amp;#39;s (9984.T) bid to merge its satellite technology startup with Intelsat SA (&lt;br&gt;
+I.N) teetered on Wednesday, as some Intelsat creditors held up the deal and a&amp;nbsp;...</summary>
+  <cse:cacheId>BzqMSNmpWQsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-intelsat-m-a-oneweb-idUSKBN1870DF</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="aerospace-defense;innovationNews;FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="SoftBank%27s+OneWeb+merger+with+Intelsat+teeters%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Jessica DiNapoli"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Jessica DiNapoli"/>
+    <cse:Attribute name="news_keywords" value="Luxembourg;Neil Armstrong;US;INTELSAT;M;A;ONEWEB;Corporate Debt Renegotiation;Mergers / Acquisitions / Takeovers;Company News;Japan;Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Aerospace / Defense (Legacy);Corporate Events;Corporate Debt;Investment Banking and Brokerage Services (TRBC);Asia / Pacific;Corporate Finance;Technology / Media / Telecoms;United States;Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Thu May 11 04:33:51 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Jessica DiNapoli"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-11T04:33:51+0000"/>
+    <cse:Attribute name="sailthru.title" value="SoftBank&apos;s OneWeb merger with Intelsat teeters: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="SoftBank&apos;s OneWeb merger with Intelsat teeters: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-intelsat-m-a-oneweb-idUSKBN1870DF"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="SoftBank&apos;s (9984.T) bid to merge its satellite technology startup with Intelsat SA (I.N) teetered on Wednesday, as some Intelsat creditors held up the deal and a few made a last-minute offer to rescue it, people familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170511&amp;t=2&amp;i=1184128442&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4A08L"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-11T04:33:51+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-11T04:33:51+0000"/>
+    <cse:Attribute name="og:article:section" value="Subjects"/>
+    <cse:Attribute name="og:article:author" value="Jessica DiNapoli"/>
+    <cse:Attribute name="og:article:tag" value="Luxembourg,Neil Armstrong,US,INTELSAT,M,A,ONEWEB,Corporate Debt Renegotiation,Mergers / Acquisitions / Takeovers,Company News,Japan,Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Aerospace / Defense (Legacy),Corporate Events,Corporate Debt,Investment Banking and Brokerage Services (TRBC),Asia / Pacific,Corporate Finance,Technology / Media / Telecoms,United States,Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="SoftBank&apos;s OneWeb merger with Intelsat teeters: sources"/>
+    <cse:Attribute name="twitter:description" value="SoftBank&apos;s (9984.T) bid to merge its satellite technology startup with Intelsat SA (I.N) teetered on Wednesday, as some Intelsat creditors held up the deal and a few made a last-minute offer to rescue it, people familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170511&amp;t=2&amp;i=1184128442&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4A08L"/>
+    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170511&amp;t=2&amp;i=1184128442&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4A08L"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+    <cse:Attribute name="wt.cg_n" value="Subjects"/>
+    <cse:Attribute name="wt.cg_s" value="Aerospace and Defense"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170511&amp;t=2&amp;i=1184128442&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4A08L"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="292"/>
+    <cse:Attribute name="height" value="173"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9CtwTfp62I9XC3W81RyBqiMaRB-3zRx_x-VnCSPaZEM4kbHtDfUwA7hhf"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html</id>
+  <updated>1970-01-18T07:17:21.974Z</updated>
+  <title type="html">Gun deal emails spurred city probe into racist, sexist Water ...</title>
+  <link href="http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html" title="www.chicagotribune.com"/>
+  <summary type="html">... a key role in a city inspector general&amp;#39;s investigation that led to last week&amp;#39;s &lt;br&gt;
+shake-up at the Water Department, &lt;b&gt;sources familiar with&lt;/b&gt; the probe said Monday.</summary>
+  <cse:cacheId>tWjdvjFzMIIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-chicago-water-department-gun-deal-emails- met-0516-20170515-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="Ray Long, Hal Dardick"/>
+    <cse:Attribute name="date" value="2017-05-15"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 Chicago Tribune"/>
+    <cse:Attribute name="news_keywords" value="Chicago Water Department, Rahm Emanuel, racist emails, Barack Obama, sexist emails, racist sexist emails chicago"/>
+    <cse:Attribute name="fb_title" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
+    <cse:Attribute name="og:title" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
+    <cse:Attribute name="og:description" value="Emails about gun deals played a key role in a city inspector general&apos;s investigation that led to last week&apos;s shakeup at the Water Department, sources familiar"/>
+    <cse:Attribute name="fb:page_id" value="5953023255"/>
+    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-591a4e60/turbine/ct-chicago-water-department-gun-deal-emails-met-0516-20170515"/>
+    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/93318697"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i18prod-e25f394-0-188.1"/>
+    <cse:Attribute name="so:status" value="5,1"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="News"/>
+    <cse:Attribute name="headline" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
+    <cse:Attribute name="author" value="Ray Long"/>
+    <cse:Attribute name="datepublished" value="2017-05-15T20:44:27CDT"/>
+    <cse:Attribute name="articlebody" value="Emails about gun deals played a key role in a city inspector general&apos;s investigation that led to last week&apos;s shake-up at the Water Department, sources familiar with the probe said Monday.One..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-591a4e60/turbine/ct-chicago-water-department-gun-deal-emails-met-0516-20170515"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSj7z3iy7GCJyQvIeUEskQPNMm6wC-bXteF0QmXShqF8wEC7GgI4kYBMDNh"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-cargill-inc-m-a-trailstone-idUSKCN18C2AB</id>
+  <updated>1970-01-18T07:17:21.974Z</updated>
+  <title type="html">TrailStone&amp;#39;s bid for Cargill&amp;#39;s power, gas book falls through: sources ...</title>
+  <link href="http://www.reuters.com/article/us-cargill-inc-m-a-trailstone-idUSKCN18C2AB" title="www.reuters.com"/>
+  <summary type="html">Commodities trader and investor TrailStone Group&amp;#39;s bid to buy Cargill Inc&amp;#39;s U.S. &lt;br&gt;
+power and gas trading book has fallen through, two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>amg1BEJPUNYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-cargill-inc-m-a-trailstone-idUSKCN18C2AB</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;bank-news;energy-news;oil;power;FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="TrailStone%27s+bid+for+Cargill%27s+power%2C+gas+book+falls+through%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="United States;Anna Lovely;US;CARGILL;INC;M;A;TRAILSTONE;Energy Markets;Mergers / Acquisitions / Takeovers;Company News;Crude Oil;Energy (Legacy);Power Markets;Corporate Events;Oil and Gas (TRBC);Banking and Investment Services (TRBC);Energy (TRBC);Deals;Natural Gas;Natural Gas Utilities (TRBC);Canada;Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Tue May 16 19:34:06 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-16T19:34:06+0000"/>
+    <cse:Attribute name="sailthru.title" value="TrailStone&apos;s bid for Cargill&apos;s power, gas book falls through: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="TrailStone&apos;s bid for Cargill&apos;s power, gas book falls through: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-cargill-inc-m-a-trailstone-idUSKCN18C2AB"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Commodities trader and investor TrailStone Group&apos;s bid to buy Cargill Inc&apos;s U.S. power and gas trading book has fallen through, two sources familiar with the matter said on Tuesday, setting back the seller&apos;s efforts to streamline operations."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-05T01:25:42+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-05T01:25:42+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-16T19:34:06+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-16T19:34:06+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Travis Kalanick,UBER TECH,CRIME/,Americas,United States"/>
+    <cse:Attribute name="og:article:tag" value="United States,Anna Lovely,US,CARGILL,INC,M,A,TRAILSTONE,Energy Markets,Mergers / Acquisitions / Takeovers,Company News,Crude Oil,Energy (Legacy),Power Markets,Corporate Events,Oil and Gas (TRBC),Banking and Investment Services (TRBC),Energy (TRBC),Deals,Natural Gas,Natural Gas Utilities (TRBC),Canada,Private Equity Funds,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Uber faces criminal probe over software used to evade authorities"/>
-    <cse:Attribute name="twitter:description" value="The U.S. Department of Justice hasbegun a criminal investigation into Uber Technologies Inc&apos;suse of a software tool that helped its drivers evadelocal transportation regulators, two sources familiar with thesituation said."/>
+    <cse:Attribute name="twitter:title" value="TrailStone&apos;s bid for Cargill&apos;s power, gas book falls through: sources"/>
+    <cse:Attribute name="twitter:description" value="Commodities trader and investor TrailStone Group&apos;s bid to buy Cargill Inc&apos;s U.S. power and gas trading book has fallen through, two sources familiar with the matter said on Tuesday, setting back the seller&apos;s efforts to streamline operations."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/legal"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -711,53 +529,53 @@ helped its drivers evadelocal transportation regulators, two &lt;b&gt;sources fa
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-abertis-m-a-atlantia-idUSKBN1851NY</id>
-  <updated>1970-01-18T07:09:10.654Z</updated>
-  <title type="html">Atlantia to submit takeover bid for Abertis within days: sources ...</title>
-  <link href="http://www.reuters.com/article/us-abertis-m-a-atlantia-idUSKBN1851NY" title="www.reuters.com"/>
-  <summary type="html">MC) within days, two &lt;b&gt;sources familiar with&lt;/b&gt; the situation said on Tuesday, hoping &lt;br&gt;
-to bridge differences over price that have held up negotiations in the past few&amp;nbsp;...</summary>
-  <cse:cacheId>XvbEM7mE0oQJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-abertis-m-a-atlantia-idUSKBN1851NY</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-globalstar-m-a-idUSKBN1882IL</id>
+  <updated>1970-01-18T07:17:21.974Z</updated>
+  <title type="html">Wireless spectrum holder Globalstar explores sale: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-globalstar-m-a-idUSKBN1882IL" title="www.reuters.com"/>
+  <summary type="html">U.S. wireless spectrum holder Globalstar Inc (GSAT.A) is working with financial &lt;br&gt;
+advisers on a potential sale of the company, according to &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>FydAEn1bwCIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-globalstar-m-a-idUSKBN1882IL</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;bank-news;FRBnewsA"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Atlantia+to+submit+takeover+bid+for+Abertis+within+days%3A+sources"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Wireless+spectrum+holder+Globalstar+explores+sale%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Pamela Barbaglia, Paola Arosio and Robert Hetz"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Pamela Barbaglia, Paola Arosio and Robert Hetz"/>
-    <cse:Attribute name="news_keywords" value="France;Italy;La Caixa;US;ABERTIS;M;A;ATLANTIA;Chemicals (Legacy);Mergers / Acquisitions / Takeovers;Highways and Rail Tracks (TRBC);Western Europe;Transportation : Ground (TRBC);France;Corporate Debt;Debt / Fixed Income Markets;Deals;United States;Loans;Banks (TRBC);Switzerland;Company News;New Issues;Italy;Corporate Events;Spain;Euro Zone as a Whole;Europe;Airport Services (TRBC);Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Tue May 09 13:58:48 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Pamela Barbaglia, Paola Arosio and Robert Hetz"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-09T13:58:48+0000"/>
-    <cse:Attribute name="sailthru.title" value="Atlantia to submit takeover bid for Abertis within days: sources"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="United States;US;GLOBALSTAR;M;A;Technology (TRBC);Mergers / Acquisitions / Takeovers;Company News;Telecommunications Services (TRBC);Deals;Wireless Telecommunications Services (TRBC);Volatile Shares / Hot Stocks;Corporate Events;United States"/>
+    <cse:Attribute name="revision_date" value="Fri May 12 19:32:32 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-12T19:32:32+0000"/>
+    <cse:Attribute name="sailthru.title" value="Wireless spectrum holder Globalstar explores sale: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Atlantia to submit takeover bid for Abertis within days: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-abertis-m-a-atlantia-idUSKBN1851NY"/>
+    <cse:Attribute name="og:title" value="Wireless spectrum holder Globalstar explores sale: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-globalstar-m-a-idUSKBN1882IL"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Italian toll road operator Atlantia (ATL.MI) is planning to submit a takeover bid for Spanish rival Abertis (ABE.MC) within days, two sources familiar with the situation said on Tuesday, hoping to bridge differences over price that have held up negotiations in the past few weeks."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170509&amp;t=2&amp;i=1183864574&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4815J"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-09T13:58:48+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-09T13:58:48+0000"/>
+    <cse:Attribute name="og:description" value="U.S. wireless spectrum holder Globalstar Inc (GSAT.A) is working with financial advisers on a potential sale of the company, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-12T19:32:32+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-12T19:32:32+0000"/>
     <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Pamela Barbaglia, Paola Arosio and Robert Hetz"/>
-    <cse:Attribute name="og:article:tag" value="France,Italy,La Caixa,US,ABERTIS,M,A,ATLANTIA,Chemicals (Legacy),Mergers / Acquisitions / Takeovers,Highways and Rail Tracks (TRBC),Western Europe,Transportation : Ground (TRBC),France,Corporate Debt,Debt / Fixed Income Markets,Deals,United States,Loans,Banks (TRBC),Switzerland,Company News,New Issues,Italy,Corporate Events,Spain,Euro Zone as a Whole,Europe,Airport Services (TRBC),Banking Services (Legacy)"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="United States,US,GLOBALSTAR,M,A,Technology (TRBC),Mergers / Acquisitions / Takeovers,Company News,Telecommunications Services (TRBC),Deals,Wireless Telecommunications Services (TRBC),Volatile Shares / Hot Stocks,Corporate Events,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Atlantia to submit takeover bid for Abertis within days: sources"/>
-    <cse:Attribute name="twitter:description" value="Italian toll road operator Atlantia (ATL.MI) is planning to submit a takeover bid for Spanish rival Abertis (ABE.MC) within days, two sources familiar with the situation said on Tuesday, hoping to bridge differences over price that have held up negotiations in the past few weeks."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170509&amp;t=2&amp;i=1183864574&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4815J"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170509&amp;t=2&amp;i=1183864574&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4815J"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Wireless spectrum holder Globalstar explores sale: sources"/>
+    <cse:Attribute name="twitter:description" value="U.S. wireless spectrum holder Globalstar Inc (GSAT.A) is working with financial advisers on a potential sale of the company, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
@@ -765,12 +583,139 @@ to bridge differences over price that have held up negotiations in the past few&
     <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170509&amp;t=2&amp;i=1183864574&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4815J"/>
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="353"/>
-    <cse:Attribute name="height" value="143"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNa8xkD-8dSW8sGIn1ReUDTt8-MeHIF15nbdKXJ42eFoxks0Ml8SZg0IM"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/cargill-inc-ma-trailstone-idUSL2N1II1DP</id>
+  <updated>1970-01-18T07:17:21.974Z</updated>
+  <title type="html">TrailStone&amp;#39;s bid to buy Cargill&amp;#39;s power and gas book falls through ...</title>
+  <link href="http://www.reuters.com/article/cargill-inc-ma-trailstone-idUSL2N1II1DP" title="www.reuters.com"/>
+  <summary type="html">... and investor TrailStone Group&amp;#39;s bid to buy Cargill&amp;#39;s U.S. power and gas trading &lt;br&gt;
+book has fallen through, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Tuesday.</summary>
+  <cse:cacheId>-cdiJ1JMWJIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/cargill-inc-ma-trailstone-idUSL2N1II1DP</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="marketsNews;fundsFundsNews;energy-news;FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="TrailStone%27s+bid+to+buy+Cargill%27s+power+and+gas+book+falls+through+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="United States;CARGILL INC;MandA/TRAILSTONE (URGENT);Commodities Markets;Investment Banking and Investment Services (TRBC);Americas;Energy Markets;Mergers / Acquisitions / Takeovers;Funds;Company News;Crude Oil;Energy (Legacy);Financials (TRBC);Financials (Legacy);Power Markets;Corporate Events;Oil and Gas (TRBC);Banking and Investment Services (TRBC);Energy (TRBC);Deals;Natural Gas;Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Tue May 16 17:45:07 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-16T17:45:07+0000"/>
+    <cse:Attribute name="sailthru.title" value="TrailStone&apos;s bid to buy Cargill&apos;s power and gas book falls through -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="TrailStone&apos;s bid to buy Cargill&apos;s power and gas book falls through -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/cargill-inc-ma-trailstone-idUSL2N1II1DP"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Commodities trader andinvestor TrailStone Group&apos;s bid to buy Cargill&apos;s U.S. power andgas trading book has fallen through, two sources familiar withthe matter said on Tuesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-16T17:45:07+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-16T17:45:07+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="United States,CARGILL INC,MandA/TRAILSTONE (URGENT),Commodities Markets,Investment Banking and Investment Services (TRBC),Americas,Energy Markets,Mergers / Acquisitions / Takeovers,Funds,Company News,Crude Oil,Energy (Legacy),Financials (TRBC),Financials (Legacy),Power Markets,Corporate Events,Oil and Gas (TRBC),Banking and Investment Services (TRBC),Energy (TRBC),Deals,Natural Gas,Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="TrailStone&apos;s bid to buy Cargill&apos;s power and gas book falls through -sources"/>
+    <cse:Attribute name="twitter:description" value="Commodities trader andinvestor TrailStone Group&apos;s bid to buy Cargill&apos;s U.S. power andgas trading book has fallen through, two sources familiar withthe matter said on Tuesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/</id>
+  <updated>1970-01-18T07:17:21.974Z</updated>
+  <title type="html">Memo: Trump asked Comey to end Flynn investigation - CNNPolitics ...</title>
+  <link href="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/" title="www.cnn.com"/>
+  <summary type="html">... former national security adviser Michael Flynn, a request documented in a &lt;br&gt;
+memo written by the former FBI director, according to &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter.</summary>
+  <cse:cacheId>tk63p0LnayEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/05/16/politics/trump-james-comey-memo/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="pubdate" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="lastmod" value="2017-05-17T02:08:49Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
+    <cse:Attribute name="author" value="Pamela Brown, Jake Tapper and Stephen Collinson, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/JakeTapper"/>
+    <cse:Attribute name="og:title" value="Memo: Trump asked Comey to end Flynn investigation"/>
+    <cse:Attribute name="twitter:title" value="Memo: Trump asked Comey to end Flynn investigation"/>
+    <cse:Attribute name="og:description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,art-vid-vls-col,col-trump-fires-james-comey"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="datepublished" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="datemodified" value="2017-05-17T02:08:49Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
+    <cse:Attribute name="author" value="Pamela Brown, Jake Tapper and Stephen Collinson, CNN"/>
+    <cse:Attribute name="headline" value="Memo: Trump asked Comey to end Flynn investigation - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according..."/>
+    <cse:Attribute name="keywords" value="politics, Memo: Trump asked Comey to end Flynn investigation - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Memo: Trump asked Comey to end Flynn investigation"/>
+    <cse:Attribute name="articlebody" value="Story highlightsTrump fired Comey last weekLawmakers want to hear from Comey (CNN)President Donald Trump asked James Comey to end the investigation into former national security adviser Michael..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
