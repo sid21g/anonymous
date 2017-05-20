@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T07:17:29.859Z</updated>
+ <updated>1970-01-18T07:20:40.746Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>12400</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10900" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10900" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>10900</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.486759</cse:searchTime>
-  <cse:formattedSearchTime>0.49</cse:formattedSearchTime>
-  <cse:totalResults>12400</cse:totalResults>
-  <cse:formattedTotalResults>12,400</cse:formattedTotalResults>
+  <cse:searchTime>0.450848</cse:searchTime>
+  <cse:formattedSearchTime>0.45</cse:formattedSearchTime>
+  <cse:totalResults>10900</cse:totalResults>
+  <cse:formattedTotalResults>10,900</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://www.wsj.com/articles/nintendo-developing-the-legend-of-zelda-smartphone-game-1494820189</id>
-  <updated>1970-01-18T07:17:29.859Z</updated>
+  <updated>1970-01-18T07:20:40.746Z</updated>
   <title type="html">Nintendo Developing &amp;#39;The Legend of Zelda&amp;#39; Smartphone Game - WSJ</title>
   <link href="https://www.wsj.com/articles/nintendo-developing-the-legend-of-zelda-smartphone-game-1494820189" title="www.wsj.com"/>
   <summary type="html">TOKYO—Nintendo Co. plans to bring its videogame franchise “The Legend of &lt;br&gt;
@@ -33,10 +33,10 @@ Zelda” to smartphones, people familiar with the matter said, the latest step b
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="dj.asn" value="i-0e36"/>
+    <cse:Attribute name="dj.asn" value="i-01cf"/>
     <cse:Attribute name="user.type" value="nonsubscriber"/>
     <cse:Attribute name="user.exp" value="default"/>
-    <cse:Attribute name="testkeys" value="C"/>
+    <cse:Attribute name="testkeys" value="A"/>
     <cse:Attribute name="page.section" value="Article"/>
     <cse:Attribute name="page.content.type" value="Article"/>
     <cse:Attribute name="page.content.format" value="responsive"/>
@@ -102,64 +102,64 @@ Zelda” to smartphones, people familiar with the matter said, the latest step b
     <cse:Attribute name="email" value="takashi.mochizuki@wsj.com"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051517mcmaster4/051517mcmaster4_115x65.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170517/05172017crabranches_3/05172017crabranches_3_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170516/051617ceocuskorea1/051617ceocuskorea1_115x65.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170517/051717mansionmorgante/051717mansionmorgante_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocghosn1/051617ceocghosn1_115x65.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170518/051817nycrash/051817nycrash_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocfung/051617ceocfung_115x65.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170517/051717mansionsanjuan/051717mansionsanjuan_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocbarshefsky1/051617ceocbarshefsky1_115x65.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170518/051817mueller3/051817mueller3_115x65.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL908_TRUMP0_C_20170516140227.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM643_2couns_C_20170517190623.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM260_2Vw4k_C_20170517063150.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM553_ibmrem_C_20170517171101.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM261_34rBL_C_20170517064233.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM796_2YFUX_C_20170518095613.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL767_33W3V_C_20170516075400.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM767_34pQw_C_20170518080856.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BF-AQ765A_LILD_C_20170516230409.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM753_34xlK_C_20170518045556.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocfung/051617ceocfung_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170517/051717mansionmorgante/051717mansionmorgante_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170516/051617ceocuskorea1/051617ceocuskorea1_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170518/051817nycrash/051817nycrash_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051617ceocbarshefsky1/051617ceocbarshefsky1_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170518/051817mueller3/051817mueller3_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170515/051517mcmaster4/051517mcmaster4_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170517/051717gmailtipsfix2/051717gmailtipsfix2_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170517/051717himalhydro/051717himalhydro_167x94.jpg"/>
+    <cse:Attribute name="contenturl" value="https://m.wsj.net/video/20170517/051717mansionsanjuan/051717mansionsanjuan_167x94.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL908_TRUMP0_C_20170516140227.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM643_2couns_C_20170517190623.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM260_2Vw4k_C_20170517063150.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM553_ibmrem_C_20170517171101.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM261_34rBL_C_20170517064233.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM796_2YFUX_C_20170518095613.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TL767_33W3V_C_20170516075400.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM767_34pQw_C_20170518080856.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="imageobject">
-    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BF-AQ765A_LILD_C_20170516230409.jpg"/>
+    <cse:Attribute name="contenturl" value="https://s.wsj.net/public/resources/images/BN-TM753_34xlK_C_20170518045556.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://si.wsj.net/public/resources/images/BN-TL112_2DnXW_TOP_20170514233718.jpg"/>
@@ -172,240 +172,8 @@ Zelda” to smartphones, people familiar with the matter said, the latest step b
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.bloomberg.com/politics/articles/2017-05-11/saudi-arabia-said-to-boost-u-s-ties-with-40-billion-investment</id>
-  <updated>1970-01-18T07:17:29.859Z</updated>
-  <title type="html">Saudis to Boost U.S. Ties With $40 Billion Investment - Bloomberg</title>
-  <link href="https://www.bloomberg.com/politics/articles/2017-05-11/saudi-arabia-said-to-boost-u-s-ties-with-40-billion-investment" title="www.bloomberg.com"/>
-  <summary type="html">The kingdom&amp;#39;s sovereign wealth fund is set to announce plans to deploy as much &lt;br&gt;
-as $40 billion into U.S. infrastructure, according to people familiar with the&amp;nbsp;...</summary>
-  <cse:cacheId>ozZ8BYg7pYkJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.bloomberg.com/.../saudi-arabia-said-to-boost-u-s-ties-with-40- billion-investment</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1"/>
-    <cse:Attribute name="referrer" value="unsafe-url"/>
-    <cse:Attribute name="og:description" value="Saudi Arabia is preparing to cement ties with President Donald Trump by committing to unprecedented investments in the U.S."/>
-    <cse:Attribute name="og:image" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1oeEk9ajgvs/v0/1200x860.jpg"/>
-    <cse:Attribute name="og:site_name" value="Bloomberg.com"/>
-    <cse:Attribute name="og:title" value="Saudis to Boost U.S. Ties With $40 Billion Investment"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="https://www.bloomberg.com/politics/articles/2017-05-11/saudi-arabia-said-to-boost-u-s-ties-with-40-billion-investment"/>
-    <cse:Attribute name="fb:status" value="Saudi Arabia is preparing to cement ties with President Donald Trump by committing to unprecedented investments in the U.S."/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:description" value="Saudi Arabia is preparing to cement ties with President Donald Trump by committing to unprecedented investments in the U.S."/>
-    <cse:Attribute name="twitter:image" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1oeEk9ajgvs/v0/1200x860.jpg"/>
-    <cse:Attribute name="twitter:site" value="@bpolitics"/>
-    <cse:Attribute name="twitter:title" value="Saudis to Boost U.S. Ties With $40 Billion Investment"/>
-    <cse:Attribute name="parsely-title" value="Saudis to Boost U.S. Ties With $40 Billion Investment"/>
-    <cse:Attribute name="parsely-link" value="https://www.bloomberg.com/politics/articles/2017-05-11/saudi-arabia-said-to-boost-u-s-ties-with-40-billion-investment"/>
-    <cse:Attribute name="parsely-type" value="post"/>
-    <cse:Attribute name="parsely-image-url" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1oeEk9ajgvs/v0/1200x860.jpg"/>
-    <cse:Attribute name="parsely-pub-date" value="2017-05-11T18:39:53.440Z"/>
-    <cse:Attribute name="parsely-section" value="politics"/>
-    <cse:Attribute name="parsely-tags" value="Saudi Arabia,Donald John Trump,Infrastructure,White House,Wealth,Barack H Obama,Iran,Jerusalem,Europe,Oil,Region: Global,Page: article"/>
-    <cse:Attribute name="parsely-post-id" value="OPSA1X6JIJUO01"/>
-    <cse:Attribute name="parsely-author" value="Dinesh Nair"/>
-    <cse:Attribute name="apple-mobile-web-app-capable" value="no"/>
-    <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black"/>
-    <cse:Attribute name="sailthru.title" value="Saudis to Boost U.S. Ties With $40 Billion Investment"/>
-    <cse:Attribute name="sailthru.author" value="Dinesh Nair,Keith Campbell,Matthew Martin"/>
-    <cse:Attribute name="sailthru.description" value="Saudi Arabia is preparing to cement ties with President Donald Trump by committing to unprecedented investments in the U.S."/>
-    <cse:Attribute name="sailthru.date" value="2017-05-11T18:39:53.440Z"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="datepublished" value="2017-05-11T18:39:53.440Z"/>
-    <cse:Attribute name="datemodified" value="2017-05-12T10:01:14.175Z"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1oeEk9ajgvs/v0/1200x860.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="265"/>
-    <cse:Attribute name="height" value="190"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1u0ti5QeZZti4cs020BbmQMKZhhnkdGxHpYjhliUx7U01ysbtLTLQpZw"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG</id>
-  <updated>1970-01-18T07:17:29.859Z</updated>
-  <title type="html">Greece eyeing July bond, if deal reached with lenders: sources ...</title>
-  <link href="http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG" title="www.reuters.com"/>
-  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the plan say Athens wants to test market appetite for Greek &lt;br&gt;
-debt before a current bailout program, worth up to 86 billion euros, expires in&amp;nbsp;...</summary>
-  <cse:cacheId>bYcsGd1cvkIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-eurozone-greece-bonds-idUSKCN18C1SG</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
-    <cse:Attribute name="dcsext.channellist" value="ousivMolt;euro-zone;bank-news;US-The-Wire;USWire_EL;FRBnewsA"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Greece+eyeing+July+bond%2C+if+deal+reached+with+lenders%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
-    <cse:Attribute name="author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
-    <cse:Attribute name="news_keywords" value="Greece;Louis Gargour;US;EUROZONE;GREECE;BONDS;Banks (TRBC);International Monetary Fund;EU Institutions;Government Finances;Western Europe;New Issues;Greece;Corporate Events;Economic Events;European Union;National Government Debt;Market Events;Euro Zone as a Whole;Money Markets;Major News;Debt / Fixed Income Markets;Europe;Sovereign Debt Auctions;Economic News (3rd Party);Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Tue May 16 15:31:52 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-16T15:31:52+0000"/>
-    <cse:Attribute name="sailthru.title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Greece is eyeing its first sovereign bond issue in three years as early as July if its international lenders specify longer term debt relief for the country, and the European Central Bank includes it in its bond-buying program."/>
-    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-16T15:31:52+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-16T15:31:52+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
-    <cse:Attribute name="og:article:tag" value="Greece,Louis Gargour,US,EUROZONE,GREECE,BONDS,Banks (TRBC),International Monetary Fund,EU Institutions,Government Finances,Western Europe,New Issues,Greece,Corporate Events,Economic Events,European Union,National Government Debt,Market Events,Euro Zone as a Whole,Money Markets,Major News,Debt / Fixed Income Markets,Europe,Sovereign Debt Auctions,Economic News (3rd Party),Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
-    <cse:Attribute name="twitter:description" value="Greece is eyeing its first sovereign bond issue in three years as early as July if its international lenders specify longer term debt relief for the country, and the European Central Bank includes it in its bond-buying program."/>
-    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
-    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGXOEVyzKCGmTMZghPbD2th8NpOr2TG8PQWeJjy-1DRZVluDXqcex4C-UM"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-intelsat-m-a-oneweb-idUSKBN1870DF</id>
-  <updated>1970-01-18T07:17:29.859Z</updated>
-  <title type="html">SoftBank&amp;#39;s OneWeb merger with Intelsat teeters: sources | Reuters</title>
-  <link href="http://www.reuters.com/article/us-intelsat-m-a-oneweb-idUSKBN1870DF" title="www.reuters.com"/>
-  <summary type="html">SoftBank&amp;#39;s (9984.T) bid to merge its satellite technology startup with Intelsat SA (&lt;br&gt;
-I.N) teetered on Wednesday, as some Intelsat creditors held up the deal and a&amp;nbsp;...</summary>
-  <cse:cacheId>BzqMSNmpWQsJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-intelsat-m-a-oneweb-idUSKBN1870DF</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="aerospace-defense;innovationNews;FRBnewsA"/>
-    <cse:Attribute name="dcsext.contentheadline" value="SoftBank%27s+OneWeb+merger+with+Intelsat+teeters%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Jessica DiNapoli"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Jessica DiNapoli"/>
-    <cse:Attribute name="news_keywords" value="Luxembourg;Neil Armstrong;US;INTELSAT;M;A;ONEWEB;Corporate Debt Renegotiation;Mergers / Acquisitions / Takeovers;Company News;Japan;Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Aerospace / Defense (Legacy);Corporate Events;Corporate Debt;Investment Banking and Brokerage Services (TRBC);Asia / Pacific;Corporate Finance;Technology / Media / Telecoms;United States;Aerospace and Defense (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Thu May 11 04:33:51 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Jessica DiNapoli"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-11T04:33:51+0000"/>
-    <cse:Attribute name="sailthru.title" value="SoftBank&apos;s OneWeb merger with Intelsat teeters: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="SoftBank&apos;s OneWeb merger with Intelsat teeters: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-intelsat-m-a-oneweb-idUSKBN1870DF"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="SoftBank&apos;s (9984.T) bid to merge its satellite technology startup with Intelsat SA (I.N) teetered on Wednesday, as some Intelsat creditors held up the deal and a few made a last-minute offer to rescue it, people familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170511&amp;t=2&amp;i=1184128442&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4A08L"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-11T04:33:51+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-11T04:33:51+0000"/>
-    <cse:Attribute name="og:article:section" value="Subjects"/>
-    <cse:Attribute name="og:article:author" value="Jessica DiNapoli"/>
-    <cse:Attribute name="og:article:tag" value="Luxembourg,Neil Armstrong,US,INTELSAT,M,A,ONEWEB,Corporate Debt Renegotiation,Mergers / Acquisitions / Takeovers,Company News,Japan,Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Aerospace / Defense (Legacy),Corporate Events,Corporate Debt,Investment Banking and Brokerage Services (TRBC),Asia / Pacific,Corporate Finance,Technology / Media / Telecoms,United States,Aerospace and Defense (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="SoftBank&apos;s OneWeb merger with Intelsat teeters: sources"/>
-    <cse:Attribute name="twitter:description" value="SoftBank&apos;s (9984.T) bid to merge its satellite technology startup with Intelsat SA (I.N) teetered on Wednesday, as some Intelsat creditors held up the deal and a few made a last-minute offer to rescue it, people familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170511&amp;t=2&amp;i=1184128442&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4A08L"/>
-    <cse:Attribute name="twitter:image" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170511&amp;t=2&amp;i=1184128442&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4A08L"/>
-    <cse:Attribute name="dcsext.rchannel" value="News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
-    <cse:Attribute name="wt.cg_n" value="Subjects"/>
-    <cse:Attribute name="wt.cg_s" value="Aerospace and Defense"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170511&amp;t=2&amp;i=1184128442&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4A08L"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="292"/>
-    <cse:Attribute name="height" value="173"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9CtwTfp62I9XC3W81RyBqiMaRB-3zRx_x-VnCSPaZEM4kbHtDfUwA7hhf"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html</id>
-  <updated>1970-01-18T07:17:29.859Z</updated>
-  <title type="html">Gun deal emails spurred city probe into racist, sexist Water ...</title>
-  <link href="http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html" title="www.chicagotribune.com"/>
-  <summary type="html">... a key role in a city inspector general&amp;#39;s investigation that led to last week&amp;#39;s &lt;br&gt;
-shake-up at the Water Department, &lt;b&gt;sources familiar with&lt;/b&gt; the probe said Monday.</summary>
-  <cse:cacheId>tWjdvjFzMIIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-chicago-water-department-gun-deal-emails- met-0516-20170515-story.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="Ray Long, Hal Dardick"/>
-    <cse:Attribute name="date" value="2017-05-15"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 Chicago Tribune"/>
-    <cse:Attribute name="news_keywords" value="Chicago Water Department, Rahm Emanuel, racist emails, Barack Obama, sexist emails, racist sexist emails chicago"/>
-    <cse:Attribute name="fb_title" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
-    <cse:Attribute name="og:title" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
-    <cse:Attribute name="og:description" value="Emails about gun deals played a key role in a city inspector general&apos;s investigation that led to last week&apos;s shakeup at the Water Department, sources familiar"/>
-    <cse:Attribute name="fb:page_id" value="5953023255"/>
-    <cse:Attribute name="fb:app_id" value="306836229411287"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html"/>
-    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-591a4e60/turbine/ct-chicago-water-department-gun-deal-emails-met-0516-20170515"/>
-    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
-    <cse:Attribute name="googlebot-news" value="index"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/93318697"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i18prod-e25f394-0-188.1"/>
-    <cse:Attribute name="so:status" value="5,1"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="headline" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
-    <cse:Attribute name="author" value="Ray Long"/>
-    <cse:Attribute name="datepublished" value="2017-05-15T20:44:27CDT"/>
-    <cse:Attribute name="articlebody" value="Emails about gun deals played a key role in a city inspector general&apos;s investigation that led to last week&apos;s shake-up at the Water Department, sources familiar with the probe said Monday.One..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.trbimg.com/img-591a4e60/turbine/ct-chicago-water-department-gun-deal-emails-met-0516-20170515"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSj7z3iy7GCJyQvIeUEskQPNMm6wC-bXteF0QmXShqF8wEC7GgI4kYBMDNh"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/</id>
-  <updated>1970-01-18T07:17:29.859Z</updated>
+  <updated>1970-01-18T07:20:40.746Z</updated>
   <title type="html">Comey memo: Trump asked Comey to end Flynn investigation ...</title>
   <link href="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/" title="www.cnn.com"/>
   <summary type="html">... former national security adviser Michael Flynn, a request documented in a &lt;br&gt;
@@ -467,8 +235,72 @@ matter.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG</id>
+  <updated>1970-01-18T07:20:40.746Z</updated>
+  <title type="html">Greece eyeing July bond, if deal reached with lenders: sources ...</title>
+  <link href="http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG" title="www.reuters.com"/>
+  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the plan say Athens wants to test market appetite for Greek &lt;br&gt;
+debt before a current bailout program, worth up to 86 billion euros, expires in&amp;nbsp;...</summary>
+  <cse:cacheId>bYcsGd1cvkIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-eurozone-greece-bonds-idUSKCN18C1SG</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
+    <cse:Attribute name="dcsext.channellist" value="ousivMolt;euro-zone;bank-news;US-The-Wire;USWire_EL"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Greece+eyeing+July+bond%2C+if+deal+reached+with+lenders%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
+    <cse:Attribute name="author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="news_keywords" value="Greece;Louis Gargour;US;EUROZONE;GREECE;BONDS;Banks (TRBC);International Monetary Fund;EU Institutions;Government Finances;Western Europe;New Issues;Greece;Corporate Events;Economic Events;European Union;National Government Debt;Market Events;Euro Zone as a Whole;Money Markets;Major News;Debt / Fixed Income Markets;Europe;Sovereign Debt Auctions;Economic News (3rd Party);Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Tue May 16 15:31:52 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-16T15:31:52+0000"/>
+    <cse:Attribute name="sailthru.title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Greece is eyeing its first sovereign bond issue in three years as early as July if its international lenders specify longer term debt relief for the country, and the European Central Bank includes it in its bond-buying program."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-16T15:31:52+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-16T15:31:52+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="og:article:tag" value="Greece,Louis Gargour,US,EUROZONE,GREECE,BONDS,Banks (TRBC),International Monetary Fund,EU Institutions,Government Finances,Western Europe,New Issues,Greece,Corporate Events,Economic Events,European Union,National Government Debt,Market Events,Euro Zone as a Whole,Money Markets,Major News,Debt / Fixed Income Markets,Europe,Sovereign Debt Auctions,Economic News (3rd Party),Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
+    <cse:Attribute name="twitter:description" value="Greece is eyeing its first sovereign bond issue in three years as early as July if its international lenders specify longer term debt relief for the country, and the European Central Bank includes it in its bond-buying program."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGXOEVyzKCGmTMZghPbD2th8NpOr2TG8PQWeJjy-1DRZVluDXqcex4C-UM"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-cargill-inc-m-a-trailstone-idUSKCN18C2AB</id>
-  <updated>1970-01-18T07:17:29.859Z</updated>
+  <updated>1970-01-18T07:20:40.746Z</updated>
   <title type="html">TrailStone&amp;#39;s bid for Cargill&amp;#39;s power, gas book falls through: sources ...</title>
   <link href="http://www.reuters.com/article/us-cargill-inc-m-a-trailstone-idUSKCN18C2AB" title="www.reuters.com"/>
   <summary type="html">Commodities trader and investor TrailStone Group&amp;#39;s bid to buy Cargill Inc&amp;#39;s U.S. &lt;br&gt;
@@ -479,7 +311,7 @@ power and gas trading book has fallen through, two &lt;b&gt;sources familiar wit
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;bank-news;energy-news;oil;power;FRBnewsA"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;bank-news;energy-news;oil;power"/>
     <cse:Attribute name="dcsext.contentheadline" value="TrailStone%27s+bid+for+Cargill%27s+power%2C+gas+book+falls+through%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
@@ -531,58 +363,107 @@ power and gas trading book has fallen through, two &lt;b&gt;sources familiar wit
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-globalstar-m-a-idUSKBN1882IL</id>
-  <updated>1970-01-18T07:17:29.859Z</updated>
-  <title type="html">Wireless spectrum holder Globalstar explores sale: sources | Reuters</title>
-  <link href="http://www.reuters.com/article/us-globalstar-m-a-idUSKBN1882IL" title="www.reuters.com"/>
-  <summary type="html">U.S. wireless spectrum holder Globalstar Inc (GSAT.A) is working with financial &lt;br&gt;
-advisers on a potential sale of the company, according to &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>FydAEn1bwCIJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-globalstar-m-a-idUSKBN1882IL</cse:formattedUrl>
+  <id>http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html</id>
+  <updated>1970-01-18T07:20:40.746Z</updated>
+  <title type="html">Gun deal emails spurred city probe into racist, sexist Water ...</title>
+  <link href="http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html" title="www.chicagotribune.com"/>
+  <summary type="html">... a key role in a city inspector general&amp;#39;s investigation that led to last week&amp;#39;s &lt;br&gt;
+shake-up at the Water Department, &lt;b&gt;sources familiar with&lt;/b&gt; the probe said Monday.</summary>
+  <cse:cacheId>tWjdvjFzMIIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-chicago-water-department-gun-deal-emails- met-0516-20170515-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="Ray Long, Hal Dardick"/>
+    <cse:Attribute name="date" value="2017-05-15"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 Chicago Tribune"/>
+    <cse:Attribute name="news_keywords" value="Chicago Water Department, Rahm Emanuel, racist emails, Barack Obama, sexist emails, racist sexist emails chicago"/>
+    <cse:Attribute name="fb_title" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
+    <cse:Attribute name="og:title" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
+    <cse:Attribute name="og:description" value="Emails about gun deals played a key role in a city inspector general&apos;s investigation that led to last week&apos;s shakeup at the Water Department, sources familiar"/>
+    <cse:Attribute name="fb:page_id" value="5953023255"/>
+    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-591a4e60/turbine/ct-chicago-water-department-gun-deal-emails-met-0516-20170515"/>
+    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/93318697"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i18prod-e25f394-0-188.1"/>
+    <cse:Attribute name="so:status" value="5,1"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="News"/>
+    <cse:Attribute name="headline" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
+    <cse:Attribute name="author" value="Ray Long"/>
+    <cse:Attribute name="datepublished" value="2017-05-15T20:44:27CDT"/>
+    <cse:Attribute name="articlebody" value="Emails about gun deals played a key role in a city inspector general&apos;s investigation that led to last week&apos;s shake-up at the Water Department, sources familiar with the probe said Monday.One..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-591a4e60/turbine/ct-chicago-water-department-gun-deal-emails-met-0516-20170515"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSj7z3iy7GCJyQvIeUEskQPNMm6wC-bXteF0QmXShqF8wEC7GgI4kYBMDNh"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/spain-energy-renewables-idUSL8N1IJ4FG</id>
+  <updated>1970-01-18T07:20:40.746Z</updated>
+  <title type="html">Spain awards 3 GW at clean power auction - sources | Reuters</title>
+  <link href="http://www.reuters.com/article/spain-energy-renewables-idUSL8N1IJ4FG" title="www.reuters.com"/>
+  <summary type="html">Spain&amp;#39;s government has pickedsuppliers for 3 gigawatts (GW) of renewable &lt;br&gt;
+power in an auctionon Wednesday, &lt;b&gt;sources familiar with&lt;/b&gt; the process said.</summary>
+  <cse:cacheId>j8WgGQJY3JUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/spain-energy-renewables-idUSL8N1IJ4FG</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;FRBnewsA"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Wireless+spectrum+holder+Globalstar+explores+sale%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="energySector"/>
+    <cse:Attribute name="dcsext.channellist" value="energy-news"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Spain+awards+3+GW+at+clean+power+auction+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-energySector"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United States;US;GLOBALSTAR;M;A;Technology (TRBC);Mergers / Acquisitions / Takeovers;Company News;Telecommunications Services (TRBC);Deals;Wireless Telecommunications Services (TRBC);Volatile Shares / Hot Stocks;Corporate Events;United States"/>
-    <cse:Attribute name="revision_date" value="Fri May 12 19:32:32 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Spain;SPAIN;ENERGY/RENEWABLES;Energy Markets;Western Europe;Energy (Legacy);Renewable Energy (TRBC);Renewable Energy Equipment and Services (TRBC);Renewable Energy Power Stations;Renewable Energy;Natural Gas Utilities (TRBC);Commodities Markets;Transmission Lines;Solar Power Stations;Company News;Utilities (TRBC);Power Markets;Corporate Events;Spain;Euro Zone;Gas;fired Power Stations;Wind Farms;Energy (TRBC);Electric Utilities (TRBC);Europe;Regulation;Natural Gas"/>
+    <cse:Attribute name="revision_date" value="Wed May 17 14:30:32 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-12T19:32:32+0000"/>
-    <cse:Attribute name="sailthru.title" value="Wireless spectrum holder Globalstar explores sale: sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-17T14:30:32+0000"/>
+    <cse:Attribute name="sailthru.title" value="Spain awards 3 GW at clean power auction - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Wireless spectrum holder Globalstar explores sale: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-globalstar-m-a-idUSKBN1882IL"/>
+    <cse:Attribute name="og:title" value="Spain awards 3 GW at clean power auction - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/spain-energy-renewables-idUSL8N1IJ4FG"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="U.S. wireless spectrum holder Globalstar Inc (GSAT.A) is working with financial advisers on a potential sale of the company, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:description" value="Spain&apos;s government has pickedsuppliers for 3 gigawatts (GW) of renewable power in an auctionon Wednesday, sources familiar with the process said."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-12T19:32:32+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-12T19:32:32+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-17T14:30:32+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-17T14:30:32+0000"/>
+    <cse:Attribute name="og:article:section" value="Subjects"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United States,US,GLOBALSTAR,M,A,Technology (TRBC),Mergers / Acquisitions / Takeovers,Company News,Telecommunications Services (TRBC),Deals,Wireless Telecommunications Services (TRBC),Volatile Shares / Hot Stocks,Corporate Events,United States"/>
+    <cse:Attribute name="og:article:tag" value="Spain,SPAIN,ENERGY/RENEWABLES,Energy Markets,Western Europe,Energy (Legacy),Renewable Energy (TRBC),Renewable Energy Equipment and Services (TRBC),Renewable Energy Power Stations,Renewable Energy,Natural Gas Utilities (TRBC),Commodities Markets,Transmission Lines,Solar Power Stations,Company News,Utilities (TRBC),Power Markets,Corporate Events,Spain,Euro Zone,Gas,fired Power Stations,Wind Farms,Energy (TRBC),Electric Utilities (TRBC),Europe,Regulation,Natural Gas"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Wireless spectrum holder Globalstar explores sale: sources"/>
-    <cse:Attribute name="twitter:description" value="U.S. wireless spectrum holder Globalstar Inc (GSAT.A) is working with financial advisers on a potential sale of the company, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:title" value="Spain awards 3 GW at clean power auction - sources"/>
+    <cse:Attribute name="twitter:description" value="Spain&apos;s government has pickedsuppliers for 3 gigawatts (GW) of renewable power in an auctionon Wednesday, sources familiar with the process said."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+    <cse:Attribute name="wt.cg_n" value="Subjects"/>
+    <cse:Attribute name="wt.cg_s" value="Energy"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -596,7 +477,7 @@ advisers on a potential sale of the company, according to &lt;b&gt;sources famil
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/cargill-inc-ma-trailstone-idUSL2N1II1DP</id>
-  <updated>1970-01-18T07:17:29.859Z</updated>
+  <updated>1970-01-18T07:20:40.746Z</updated>
   <title type="html">TrailStone&amp;#39;s bid to buy Cargill&amp;#39;s power and gas book falls through ...</title>
   <link href="http://www.reuters.com/article/cargill-inc-ma-trailstone-idUSL2N1II1DP" title="www.reuters.com"/>
   <summary type="html">... and investor TrailStone Group&amp;#39;s bid to buy Cargill&amp;#39;s U.S. power and gas trading &lt;br&gt;
@@ -659,59 +540,59 @@ book has fallen through, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/qiib-sukuk-idUSL8N1IH3YC</id>
-  <updated>1970-01-18T07:17:29.859Z</updated>
-  <title type="html">Qatar International Islamic Bank appoints banks for dollar sukuk ...</title>
-  <link href="http://www.reuters.com/article/qiib-sukuk-idUSL8N1IH3YC" title="www.reuters.com"/>
-  <summary type="html">... listed Islamic bank byassets, has appointed banks ahead of a potential U.S.&lt;br&gt;
-dollar-denominated sukuk, banking &lt;b&gt;sources familiar with&lt;/b&gt; thematter said on &lt;br&gt;
-Monday.</summary>
-  <cse:cacheId>g8NDRJBDKjMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/qiib-sukuk-idUSL8N1IH3YC</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-la-quinta-m-a-exclusive-idUSKCN18B2GH</id>
+  <updated>1970-01-18T07:20:40.746Z</updated>
+  <title type="html">Exclusive: Hotel operator La Quinta prepares to explore sale - sources</title>
+  <link href="http://www.reuters.com/article/us-la-quinta-m-a-exclusive-idUSKCN18B2GH" title="www.reuters.com"/>
+  <summary type="html">... with United Arab Shipping Company (UASC) after UASC&amp;#39;s shareholders &lt;br&gt;
+agreed terms to repay outstanding debts, &lt;b&gt;sources familiar with&lt;/b&gt; the talks told &lt;br&gt;
+Reuters.</summary>
+  <cse:cacheId>C9QcErVrbpgJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-la-quinta-m-a-exclusive-idUSKCN18B2GH</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="FRBnewsA"/>
-    <cse:Attribute name="dcsext.channellist" value="FRBnewsA"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Qatar+International+Islamic+Bank+appoints+banks+for+dollar+sukuk+-+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;housing;FRBnewsA"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Hotel+operator+La+Quinta+prepares+to+explore+sale+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Carl O&apos;Donnell"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-FRBnewsA"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Qatar;QIIB;SUKUK/;Investment Banking and Investment Services (TRBC);Islamic Finance;Credit and Corporate Debt;Corporate Debt;Qatar;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Banking Services (TRBC);Banks (TRBC);Company News;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Corporate Events;Economic Events;Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Mon May 15 11:59:47 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-15T11:59:47+0000"/>
-    <cse:Attribute name="sailthru.title" value="Qatar International Islamic Bank appoints banks for dollar sukuk - sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="news_keywords" value="Canada;Honduras;Mexico;United States;US;LA;QUINTA;M;A;EXCLUSIVE;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Funds;Company News;Financials (TRBC);Exclusive;Financials (Legacy);Corporate Events;Economic Events;Technology (TRBC);Divestitures / Spin;Offs;Market Events;Major News;Residential and Commercial REITs (TRBC);Real Estate Markets;Investment Management and Fund Operators (TRBC);Private Equity Funds;United States;Hotels : Motels and Cruise Lines (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Mon May 15 21:01:47 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-15T21:01:47+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Hotel operator La Quinta prepares to explore sale - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Qatar International Islamic Bank appoints banks for dollar sukuk - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/qiib-sukuk-idUSL8N1IH3YC"/>
+    <cse:Attribute name="og:title" value="Exclusive: Hotel operator La Quinta prepares to explore sale - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-la-quinta-m-a-exclusive-idUSKCN18B2GH"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Qatar International Islamic Bank(QIIB), Qatar’s third largest listed Islamic bank byassets, has appointed banks ahead of a potential U.S.dollar-denominated sukuk, banking sources familiar with thematter said on Monday."/>
+    <cse:Attribute name="og:description" value="North American budget hotel chain La Quinta Holdings Inc (LQ.N) is preparing to explore a sale of the company, hoping for a high valuation as its seeks to spin off its real estate assets, people familiar with the matter said on Monday."/>
     <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-15T11:59:47+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-15T11:59:47+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Qatar,QIIB,SUKUK/,Investment Banking and Investment Services (TRBC),Islamic Finance,Credit and Corporate Debt,Corporate Debt,Qatar,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Banking Services (TRBC),Banks (TRBC),Company News,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Corporate Events,Economic Events,Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-15T21:01:47+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-15T21:01:47+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="og:article:tag" value="Canada,Honduras,Mexico,United States,US,LA,QUINTA,M,A,EXCLUSIVE,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Funds,Company News,Financials (TRBC),Exclusive,Financials (Legacy),Corporate Events,Economic Events,Technology (TRBC),Divestitures / Spin,Offs,Market Events,Major News,Residential and Commercial REITs (TRBC),Real Estate Markets,Investment Management and Fund Operators (TRBC),Private Equity Funds,United States,Hotels : Motels and Cruise Lines (TRBC)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Qatar International Islamic Bank appoints banks for dollar sukuk - sources"/>
-    <cse:Attribute name="twitter:description" value="Qatar International Islamic Bank(QIIB), Qatar’s third largest listed Islamic bank byassets, has appointed banks ahead of a potential U.S.dollar-denominated sukuk, banking sources familiar with thematter said on Monday."/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Hotel operator La Quinta prepares to explore sale - sources"/>
+    <cse:Attribute name="twitter:description" value="North American budget hotel chain La Quinta Holdings Inc (LQ.N) is preparing to explore a sale of the company, hoping for a high valuation as its seeks to spin off its real estate assets, people familiar with the matter said on Monday."/>
     <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -720,6 +601,157 @@ Monday.</summary>
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/uasc-ma-hapag-lloyd-idUSL8N1IJ4S7</id>
+  <updated>1970-01-18T07:20:40.746Z</updated>
+  <title type="html">Hapag-UASC tie-up nears completion as funding snags overcome ...</title>
+  <link href="http://www.reuters.com/article/uasc-ma-hapag-lloyd-idUSL8N1IJ4S7" title="www.reuters.com"/>
+  <summary type="html">... with United Arab Shipping Company (UASC) after UASC&amp;#39;s shareholders &lt;br&gt;
+agreed terms to repay outstanding debts, &lt;b&gt;sources familiar with&lt;/b&gt; the talks told &lt;br&gt;
+Reuters.</summary>
+  <cse:cacheId>_5ymSkBAOksJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/uasc-ma-hapag-lloyd-idUSL8N1IJ4S7</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="credit-rss"/>
+    <cse:Attribute name="dcsext.channellist" value="transportation"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Hapag-UASC+tie-up+nears+completion+as+funding+snags+overcome+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-credit-rss"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Bahrain;Germany;Iraq;Kuwait;Qatar;Saudi Arabia;South Korea;United Arab Emirates;Arno Schuetze;JOB CUTS;Jonathan Saul;Rolf Habben Jansen;UASC;MandA/HAPAG LLOYD;Germany;Mergers / Acquisitions / Takeovers;Western Europe;Hotels and Entertainment Services (TRBC);Transportation (TRBC);Central / Eastern Europe;Qatar;Divestitures / Spin;Offs;Asia / Pacific;Industrials (TRBC);Middle East;Leisure and Recreation (TRBC);Marine Services (TRBC);Cyclical Consumer Services (TRBC);Deals;Commodities Markets;Banking Services (TRBC);Banks (TRBC);Freight Transportation : Marine (TRBC);United Arab Emirates;Marine Port Services (TRBC);Company News;Financials (TRBC);Financials (Legacy);Kuwait;Container;Corporate Events;Euro Zone;Corporate Governance;Banking and Investment Services (TRBC);Airline Services (TRBC);Europe;Transportation Markets / Transportation;Cyclical Consumer Goods and Services (TRBC);Airlines (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Thu May 18 14:47:26 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-18T14:47:26+0000"/>
+    <cse:Attribute name="sailthru.title" value="Hapag-UASC tie-up nears completion as funding snags overcome - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Hapag-UASC tie-up nears completion as funding snags overcome - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/uasc-ma-hapag-lloyd-idUSL8N1IJ4S7"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="* Obstacles over funds, commitment overcome - sources* QIA, Hapag Lloyd may have to acquire UACC shares - sources* Deal expected to close by"/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-18T14:47:26+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-18T14:47:26+0000"/>
+    <cse:Attribute name="og:article:section" value="Subjects"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Bahrain,Germany,Iraq,Kuwait,Qatar,Saudi Arabia,South Korea,United Arab Emirates,Arno Schuetze,JOB CUTS,Jonathan Saul,Rolf Habben Jansen,UASC,MandA/HAPAG LLOYD,Germany,Mergers / Acquisitions / Takeovers,Western Europe,Hotels and Entertainment Services (TRBC),Transportation (TRBC),Central / Eastern Europe,Qatar,Divestitures / Spin,Offs,Asia / Pacific,Industrials (TRBC),Middle East,Leisure and Recreation (TRBC),Marine Services (TRBC),Cyclical Consumer Services (TRBC),Deals,Commodities Markets,Banking Services (TRBC),Banks (TRBC),Freight Transportation : Marine (TRBC),United Arab Emirates,Marine Port Services (TRBC),Company News,Financials (TRBC),Financials (Legacy),Kuwait,Container,Corporate Events,Euro Zone,Corporate Governance,Banking and Investment Services (TRBC),Airline Services (TRBC),Europe,Transportation Markets / Transportation,Cyclical Consumer Goods and Services (TRBC),Airlines (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Hapag-UASC tie-up nears completion as funding snags overcome - sources"/>
+    <cse:Attribute name="twitter:description" value="* Obstacles over funds, commitment overcome - sources* QIA, Hapag Lloyd may have to acquire UACC shares - sources* Deal expected to close by"/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+    <cse:Attribute name="wt.cg_n" value="Subjects"/>
+    <cse:Attribute name="wt.cg_s" value="Transportation"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.dailymail.co.uk/sciencetech/article-4512812/Apple-rumored-revamp-MacBook-line.html</id>
+  <updated>1970-01-18T07:20:40.746Z</updated>
+  <title type="html">Apple is rumored to revamp its MacBook line | Daily Mail Online</title>
+  <link href="http://www.dailymail.co.uk/sciencetech/article-4512812/Apple-rumored-revamp-MacBook-line.html" title="www.dailymail.co.uk"/>
+  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the matter told Bloomberg that Apple will unveil three new &lt;br&gt;
+laptops at its annual Worldwide Developers Conference set to kick off in June.</summary>
+  <cse:formattedUrl type="html">www.dailymail.co.uk/.../article.../Apple-rumored-revamp-MacBook-line.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="news_keywords" value="Apple,rumored,revamp,MacBook,line"/>
+    <cse:Attribute name="original-source" value="http://www.dailymail.co.uk/sciencetech/article-4512812/Apple-rumored-revamp-MacBook-line.html"/>
+    <cse:Attribute name="channel" value="Science,Technology,Video Games,Space,Personal Technology,Internet,Geography,Environment,Computing,Science&amp;Tech"/>
+    <cse:Attribute name="rating" value="General"/>
+    <cse:Attribute name="doc-class" value="Living Document"/>
+    <cse:Attribute name="msvalidate.01" value="12E6B4B813EB44C9BFC8F6A21F1D01F5"/>
+    <cse:Attribute name="y_key" value="1a7e912afbfcab2f"/>
+    <cse:Attribute name="twitter:account_id" value="15438913"/>
+    <cse:Attribute name="articleid" value="4512812"/>
+    <cse:Attribute name="divclasspage" value="articlePage"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Apple rumored to revamp its MacBook line and could unveil them in June"/>
+    <cse:Attribute name="twitter:description" value="‘People familiar with the matter’ have revealed that the Apple is set to unveil three revamped MacBooks at the Worldwide Developers Conference set to kick off in June."/>
+    <cse:Attribute name="twitter:url" value="http://www.dailymail.co.uk/sciencetech/article-4512812/Apple-rumored-revamp-MacBook-line.html"/>
+    <cse:Attribute name="twitter:image" value="http://i.dailymail.co.uk/i/pix/2017/05/16/23/4069723900000578-0-image-a-103_1494974659898.jpg"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="384101264"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="400442503"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/DailyMail"/>
+    <cse:Attribute name="article:published_time" value="2017-05-16T23:46:26+0100"/>
+    <cse:Attribute name="article:modified_time" value="2017-05-16T23:50:56+0100"/>
+    <cse:Attribute name="article:section" value="Science"/>
+    <cse:Attribute name="article:tag" value="Apple rumored revamp MacBook line"/>
+    <cse:Attribute name="article:author" value="http://www.dailymail.co.uk/home/search.html?s=&amp;authornamef=Stacy+Liberatore+For+Dailymail.com"/>
+    <cse:Attribute name="fb:app_id" value="146202712090395"/>
+    <cse:Attribute name="og:site_name" value="Mail Online"/>
+    <cse:Attribute name="og:title" value="Apple rumored to revamp its MacBook line and could unveil them in June"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="‘People familiar with the matter’ have revealed that the Apple is set to unveil three revamped MacBooks at the Worldwide Developers Conference set to kick off in June."/>
+    <cse:Attribute name="og:url" value="http://www.dailymail.co.uk/~/article-4512812/index.html"/>
+    <cse:Attribute name="og:image" value="http://i.dailymail.co.uk/i/pix/2017/05/16/23/4069723900000578-0-image-a-103_1494974659898.jpg"/>
+    <cse:Attribute name="og:image:width" value="636"/>
+    <cse:Attribute name="og:image:height" value="382"/>
+    <cse:Attribute name="fb:pages" value="1622758588037001,164305410295882"/>
+    <cse:Attribute name="og:video" value="http://video.dailymail.co.uk/video/mol/2017/05/02/5419363948175050350/1024x576_MP4_5419363948175050350.mp4"/>
+    <cse:Attribute name="og:video:type" value="video/mp4"/>
+    <cse:Attribute name="og:video:width" value="636"/>
+    <cse:Attribute name="og:video:height" value="358"/>
+    <cse:Attribute name="al:android:url" value="dailymail-fb://article/4512812/"/>
+    <cse:Attribute name="al:android:package" value="com.dailymail.online"/>
+    <cse:Attribute name="al:android:app_name" value="Daily Mail Online"/>
+    <cse:Attribute name="al:ios:url" value="dailymail-fb://article/4512812/"/>
+    <cse:Attribute name="al:ios:app_store_id" value="384101264"/>
+    <cse:Attribute name="al:ios:app_name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Apple is rumored to revamp its MacBook line"/>
+    <cse:Attribute name="datepublished" value="2017-05-16T23:46:26+0100"/>
+    <cse:Attribute name="datemodified" value="2017-05-16T23:50:56+0100"/>
+    <cse:Attribute name="articlebody" value="It seems Apple has a few surprises in-stored for its fans this year – from the iPhone redesign to a new Siri-enabled device and now, the tech giant could update its laptop lineup.People familiar..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="By Stacy Liberatore For Dailymail.com"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/pix/2017/05/16/23/4069723900000578-0-image-a-103_1494974659898.jpg"/>
+    <cse:Attribute name="height" value="382"/>
+    <cse:Attribute name="width" value="636"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="MailOnline"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif"/>
+    <cse:Attribute name="width" value="350"/>
+    <cse:Attribute name="height" value="66"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i.dailymail.co.uk/i/pix/2017/05/16/23/4069723900000578-0-image-a-103_1494974659898.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="290"/>
+    <cse:Attribute name="height" value="174"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCOXao7Srjoh3c2qTdI52gMfTNO_5CrGwbEc3sX8pHdTeT5AbDcrNnnbo"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
