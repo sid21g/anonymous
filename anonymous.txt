@@ -1,19 +1,631 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "according to people briefed on the matter"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="according to people briefed on the matter"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-18T07:23:31.819Z</updated>
+ <title>Google Custom Search - "sources familiar with"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-18T07:24:25.717Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;according to people briefed on the matter&quot;" totalResults="0" searchTerms="&quot;according to people briefed on the matter&quot;" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="13600" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="13600" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>13600</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.544965</cse:searchTime>
-  <cse:formattedSearchTime>0.54</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.660747</cse:searchTime>
+  <cse:formattedSearchTime>0.66</cse:formattedSearchTime>
+  <cse:totalResults>13600</cse:totalResults>
+  <cse:formattedTotalResults>13,600</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-clariant-m-a-hunstman-idUSKBN18H14B</id>
+  <updated>1970-01-18T07:24:25.717Z</updated>
+  <title type="html">Chemical groups Huntsman, Clariant set to announce merger: sources</title>
+  <link href="http://www.reuters.com/article/us-clariant-m-a-hunstman-idUSKBN18H14B" title="www.reuters.com"/>
+  <summary type="html">... Ltd are lining up for Toshiba Corp&amp;#39;s semiconductor business, &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt; matter said ahead of a deadline for second-round offers on Friday.</summary>
+  <cse:cacheId>YRjMD9od5s8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-clariant-m-a-hunstman-idUSKBN18H14B</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;USWire_EL"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Chemical+groups+Huntsman%2C+Clariant+set+to+announce+merger%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Greg Roumeliotis and Ludwig Burger"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Greg Roumeliotis and Ludwig Burger"/>
+    <cse:Attribute name="news_keywords" value="China;Germany;Russia;Singapore;Switzerland;United States;Donald Trump;Hariolf Kottmann;Jon Huntsman;Peter R. Huntsman;US;CLARIANT;M;A;HUNSTMAN;Chemicals (Legacy);Mergers / Acquisitions / Takeovers;Switzerland;Company News;Corporate Events;Economic Events;Divestitures / Spin;Offs;Investment Banking and Brokerage Services (TRBC);Market Events;Major News;Europe;Company Management Issues;Specialty Chemicals (TRBC);United States"/>
+    <cse:Attribute name="revision_date" value="Sun May 21 23:14:51 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Greg Roumeliotis and Ludwig Burger"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-21T23:14:51+0000"/>
+    <cse:Attribute name="sailthru.title" value="Chemical groups Huntsman, Clariant set to announce merger: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Chemical groups Huntsman, Clariant set to announce merger: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-clariant-m-a-hunstman-idUSKBN18H14B"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Hunstman Corp (HUN.N) and Clariant AG (CLN.S) are set to announce their merger on Monday, creating a chemical manufacturer with a market value of more than $14 billion, people familiar with the matter said on Sunday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-21T23:14:51+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-21T23:14:51+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Greg Roumeliotis and Ludwig Burger"/>
+    <cse:Attribute name="og:article:tag" value="China,Germany,Russia,Singapore,Switzerland,United States,Donald Trump,Hariolf Kottmann,Jon Huntsman,Peter R. Huntsman,US,CLARIANT,M,A,HUNSTMAN,Chemicals (Legacy),Mergers / Acquisitions / Takeovers,Switzerland,Company News,Corporate Events,Economic Events,Divestitures / Spin,Offs,Investment Banking and Brokerage Services (TRBC),Market Events,Major News,Europe,Company Management Issues,Specialty Chemicals (TRBC),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Chemical groups Huntsman, Clariant set to announce merger: sources"/>
+    <cse:Attribute name="twitter:description" value="Hunstman Corp (HUN.N) and Clariant AG (CLN.S) are set to announce their merger on Monday, creating a chemical manufacturer with a market value of more than $14 billion, people familiar with the matter said on Sunday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-aclara-meter-business-sale-idUSKCN18F22C</id>
+  <updated>1970-01-18T07:24:25.717Z</updated>
+  <title type="html">Sun Capital appoints Morgan Stanley to sell smart meter firm Aclara ...</title>
+  <link href="http://www.reuters.com/article/us-aclara-meter-business-sale-idUSKCN18F22C" title="www.reuters.com"/>
+  <summary type="html">N) to sell Aclara Technologies, a provider of smart meters to almost 800 utility &lt;br&gt;
+customers, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said. The sale is expected to draw&amp;nbsp;...</summary>
+  <cse:cacheId>xt2oqZj9kAkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-aclara-meter-business-sale-idUSKCN18F22C</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Sun+Capital+appoints+Morgan+Stanley+to+sell+smart+meter+firm+Aclara%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Clara Denina , Pamela Barbaglia and Arno Schuetze"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Clara Denina , Pamela Barbaglia and Arno Schuetze"/>
+    <cse:Attribute name="news_keywords" value="Japan;Spain;United Kingdom;United States;US;ACLARA;METER;BUSINESS;SALE;Germany;Western Europe;Arts / Culture / Entertainment;Divestitures / Spin;Offs;Government Borrowing Requirement;Industrials (TRBC);Deals;United Kingdom;United States;Wealth Management;Funds;Company News;Utilities (TRBC);Corporate Events;Spain;Economic Events;Technology (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Europe;Industrial Conglomerates (TRBC);Technology Equipment (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Fri May 19 17:04:33 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Clara Denina , Pamela Barbaglia and Arno Schuetze"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-19T17:04:33+0000"/>
+    <cse:Attribute name="sailthru.title" value="Sun Capital appoints Morgan Stanley to sell smart meter firm Aclara: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Sun Capital appoints Morgan Stanley to sell smart meter firm Aclara: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-aclara-meter-business-sale-idUSKCN18F22C"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="U.S. private equity firm Sun Capital Partners has appointed Morgan Stanley (MS.N) to sell Aclara Technologies, a provider of smart meters to almost 800 utility customers, sources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-19T17:04:33+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-19T17:04:33+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Clara Denina , Pamela Barbaglia and Arno Schuetze"/>
+    <cse:Attribute name="og:article:tag" value="Japan,Spain,United Kingdom,United States,US,ACLARA,METER,BUSINESS,SALE,Germany,Western Europe,Arts / Culture / Entertainment,Divestitures / Spin,Offs,Government Borrowing Requirement,Industrials (TRBC),Deals,United Kingdom,United States,Wealth Management,Funds,Company News,Utilities (TRBC),Corporate Events,Spain,Economic Events,Technology (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Europe,Industrial Conglomerates (TRBC),Technology Equipment (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Sun Capital appoints Morgan Stanley to sell smart meter firm Aclara: sources"/>
+    <cse:Attribute name="twitter:description" value="U.S. private equity firm Sun Capital Partners has appointed Morgan Stanley (MS.N) to sell Aclara Technologies, a provider of smart meters to almost 800 utility customers, sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG</id>
+  <updated>1970-01-18T07:24:25.717Z</updated>
+  <title type="html">Greece eyeing July bond, if deal reached with lenders: sources ...</title>
+  <link href="http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG" title="www.reuters.com"/>
+  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the plan say Athens wants to test market appetite for Greek &lt;br&gt;
+debt before a current bailout program, worth up to 86 billion euros, expires in&amp;nbsp;...</summary>
+  <cse:cacheId>bYcsGd1cvkIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-eurozone-greece-bonds-idUSKCN18C1SG</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
+    <cse:Attribute name="dcsext.channellist" value="ousivMolt;euro-zone;bank-news;US-The-Wire;USWire_EL"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Greece+eyeing+July+bond%2C+if+deal+reached+with+lenders%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
+    <cse:Attribute name="author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="news_keywords" value="Greece;Louis Gargour;US;EUROZONE;GREECE;BONDS;Banks (TRBC);International Monetary Fund;EU Institutions;Government Finances;Western Europe;New Issues;Greece;Corporate Events;Economic Events;European Union;National Government Debt;Market Events;Euro Zone as a Whole;Money Markets;Major News;Debt / Fixed Income Markets;Europe;Sovereign Debt Auctions;Economic News (3rd Party);Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Tue May 16 15:31:52 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-16T15:31:52+0000"/>
+    <cse:Attribute name="sailthru.title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-eurozone-greece-bonds-idUSKCN18C1SG"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Greece is eyeing its first sovereign bond issue in three years as early as July if its international lenders specify longer term debt relief for the country, and the European Central Bank includes it in its bond-buying program."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-16T15:31:52+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-16T15:31:52+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Lefteris Papadimas and Abhinav Ramnarayan"/>
+    <cse:Attribute name="og:article:tag" value="Greece,Louis Gargour,US,EUROZONE,GREECE,BONDS,Banks (TRBC),International Monetary Fund,EU Institutions,Government Finances,Western Europe,New Issues,Greece,Corporate Events,Economic Events,European Union,National Government Debt,Market Events,Euro Zone as a Whole,Money Markets,Major News,Debt / Fixed Income Markets,Europe,Sovereign Debt Auctions,Economic News (3rd Party),Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Greece eyeing July bond, if deal reached with lenders: sources"/>
+    <cse:Attribute name="twitter:description" value="Greece is eyeing its first sovereign bond issue in three years as early as July if its international lenders specify longer term debt relief for the country, and the European Central Bank includes it in its bond-buying program."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170516&amp;t=2&amp;i=1184945661&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4F11Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGXOEVyzKCGmTMZghPbD2th8NpOr2TG8PQWeJjy-1DRZVluDXqcex4C-UM"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/</id>
+  <updated>1970-01-18T07:24:25.717Z</updated>
+  <title type="html">Comey memo: Trump asked Comey to end Flynn investigation ...</title>
+  <link href="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/" title="www.cnn.com"/>
+  <summary type="html">... former national security adviser Michael Flynn, a request documented in a &lt;br&gt;
+memo written by the former FBI director, according to &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter.</summary>
+  <cse:cacheId>tk63p0LnayEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/05/16/politics/trump-james-comey-memo/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="pubdate" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="lastmod" value="2017-05-17T11:46:08Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
+    <cse:Attribute name="author" value="Pamela Brown, Jake Tapper and Stephen Collinson, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/JakeTapper"/>
+    <cse:Attribute name="og:title" value="Memo: Trump asked Comey to end Flynn investigation"/>
+    <cse:Attribute name="twitter:title" value="Memo: Trump asked Comey to end Flynn investigation"/>
+    <cse:Attribute name="og:description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,art-vid-vls-col,col-trump-fires-james-comey"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="datepublished" value="2017-05-16T21:51:08Z"/>
+    <cse:Attribute name="datemodified" value="2017-05-17T11:46:08Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/05/16/politics/trump-james-comey-memo/index.html"/>
+    <cse:Attribute name="author" value="Pamela Brown, Jake Tapper and Stephen Collinson, CNN"/>
+    <cse:Attribute name="headline" value="Comey memo: Trump asked Comey to end Flynn investigation - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="President Donald Trump asked James Comey to end the investigation into former national security adviser Michael Flynn, a request documented in a memo written by the former FBI director, according..."/>
+    <cse:Attribute name="keywords" value="politics, Comey memo: Trump asked Comey to end Flynn investigation - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Memo: Trump asked Comey to end Flynn investigation"/>
+    <cse:Attribute name="articlebody" value="Story highlightsTrump fired Comey last weekLawmakers want to hear from Comey (CNN)President Donald Trump asked James Comey to end the investigation into former national security adviser Michael..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170509184450-0509-comey-trump-split-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-uasc-m-a-hapag-lloyd-idUSKCN18E24S</id>
+  <updated>1970-01-18T07:24:25.717Z</updated>
+  <title type="html">Hapag-UASC tie-up nears completion as funding snags overcome ...</title>
+  <link href="http://www.reuters.com/article/us-uasc-m-a-hapag-lloyd-idUSKCN18E24S" title="www.reuters.com"/>
+  <summary type="html">... with United Arab Shipping Company (UASC) after UASC&amp;#39;s shareholders &lt;br&gt;
+agreed terms to repay outstanding debts, &lt;b&gt;sources familiar with&lt;/b&gt; the talks told &lt;br&gt;
+Reuters.</summary>
+  <cse:cacheId>9Gx0vJdHxjcJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-uasc-m-a-hapag-lloyd-idUSKCN18E24S</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;bank-news;middle-east-full-coverage"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Hapag-UASC+tie-up+nears+completion+as+funding+snags+overcome%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Jonathan Saul and Arno Schuetze"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Jonathan Saul and Arno Schuetze"/>
+    <cse:Attribute name="news_keywords" value="Bahrain;Germany;Iraq;Kuwait;Qatar;Saudi Arabia;South Korea;United Arab Emirates;Rolf Habben Jansen;US;UASC;M;A;HAPAG;LLOYD;Germany;Mergers / Acquisitions / Takeovers;Western Europe;Qatar;Divestitures / Spin;Offs;Middle East;Leisure and Recreation (TRBC);Marine Services (TRBC);Pictures;Banks (TRBC);Freight Transportation : Marine (TRBC);United Arab Emirates;Marine Port Services (TRBC);Company News;Kuwait;Container;Corporate Events;Banking and Investment Services (TRBC);Europe;Transportation Markets / Transportation;Company Management Issues;Airlines (TRBC);Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Thu May 18 14:54:22 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Jonathan Saul and Arno Schuetze"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-18T14:54:22+0000"/>
+    <cse:Attribute name="sailthru.title" value="Hapag-UASC tie-up nears completion as funding snags overcome: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Hapag-UASC tie-up nears completion as funding snags overcome: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-uasc-m-a-hapag-lloyd-idUSKCN18E24S"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="German shipping line Hapag Lloyd (HLAG.DE) is close to completing a merger with United Arab Shipping Company (UASC) after UASC&apos;s shareholders agreed terms to repay outstanding debts, sources familiar with the talks told Reuters."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170518&amp;t=2&amp;i=1185261335&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4H19T"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-18T14:54:22+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-18T14:54:22+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Jonathan Saul and Arno Schuetze"/>
+    <cse:Attribute name="og:article:tag" value="Bahrain,Germany,Iraq,Kuwait,Qatar,Saudi Arabia,South Korea,United Arab Emirates,Rolf Habben Jansen,US,UASC,M,A,HAPAG,LLOYD,Germany,Mergers / Acquisitions / Takeovers,Western Europe,Qatar,Divestitures / Spin,Offs,Middle East,Leisure and Recreation (TRBC),Marine Services (TRBC),Pictures,Banks (TRBC),Freight Transportation : Marine (TRBC),United Arab Emirates,Marine Port Services (TRBC),Company News,Kuwait,Container,Corporate Events,Banking and Investment Services (TRBC),Europe,Transportation Markets / Transportation,Company Management Issues,Airlines (TRBC),Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Hapag-UASC tie-up nears completion as funding snags overcome: sources"/>
+    <cse:Attribute name="twitter:description" value="German shipping line Hapag Lloyd (HLAG.DE) is close to completing a merger with United Arab Shipping Company (UASC) after UASC&apos;s shareholders agreed terms to repay outstanding debts, sources familiar with the talks told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170518&amp;t=2&amp;i=1185261335&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4H19T"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170518&amp;t=2&amp;i=1185261335&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4H19T"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170518&amp;t=2&amp;i=1185261335&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED4H19T"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="280"/>
+    <cse:Attribute name="height" value="180"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIxPSICzJOrMXV6E7hA7j3TlT2MbZfqhI298iioK1yti5veL8jiLTPuVA"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-cargill-inc-m-a-trailstone-idUSKCN18C2AB</id>
+  <updated>1970-01-18T07:24:25.717Z</updated>
+  <title type="html">TrailStone&amp;#39;s bid for Cargill&amp;#39;s power, gas book falls through: sources ...</title>
+  <link href="http://www.reuters.com/article/us-cargill-inc-m-a-trailstone-idUSKCN18C2AB" title="www.reuters.com"/>
+  <summary type="html">Commodities trader and investor TrailStone Group&amp;#39;s bid to buy Cargill Inc&amp;#39;s U.S. &lt;br&gt;
+power and gas trading book has fallen through, two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>amg1BEJPUNYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-cargill-inc-m-a-trailstone-idUSKCN18C2AB</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;bank-news;energy-news;oil;power"/>
+    <cse:Attribute name="dcsext.contentheadline" value="TrailStone%27s+bid+for+Cargill%27s+power%2C+gas+book+falls+through%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="United States;Anna Lovely;US;CARGILL;INC;M;A;TRAILSTONE;Energy Markets;Mergers / Acquisitions / Takeovers;Company News;Crude Oil;Energy (Legacy);Power Markets;Corporate Events;Oil and Gas (TRBC);Banking and Investment Services (TRBC);Energy (TRBC);Deals;Natural Gas;Natural Gas Utilities (TRBC);Canada;Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Tue May 16 19:34:06 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-16T19:34:06+0000"/>
+    <cse:Attribute name="sailthru.title" value="TrailStone&apos;s bid for Cargill&apos;s power, gas book falls through: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="TrailStone&apos;s bid for Cargill&apos;s power, gas book falls through: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-cargill-inc-m-a-trailstone-idUSKCN18C2AB"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Commodities trader and investor TrailStone Group&apos;s bid to buy Cargill Inc&apos;s U.S. power and gas trading book has fallen through, two sources familiar with the matter said on Tuesday, setting back the seller&apos;s efforts to streamline operations."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-16T19:34:06+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-16T19:34:06+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="United States,Anna Lovely,US,CARGILL,INC,M,A,TRAILSTONE,Energy Markets,Mergers / Acquisitions / Takeovers,Company News,Crude Oil,Energy (Legacy),Power Markets,Corporate Events,Oil and Gas (TRBC),Banking and Investment Services (TRBC),Energy (TRBC),Deals,Natural Gas,Natural Gas Utilities (TRBC),Canada,Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="TrailStone&apos;s bid for Cargill&apos;s power, gas book falls through: sources"/>
+    <cse:Attribute name="twitter:description" value="Commodities trader and investor TrailStone Group&apos;s bid to buy Cargill Inc&apos;s U.S. power and gas trading book has fallen through, two sources familiar with the matter said on Tuesday, setting back the seller&apos;s efforts to streamline operations."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html</id>
+  <updated>1970-01-18T07:24:25.717Z</updated>
+  <title type="html">Gun deal emails spurred city probe into racist, sexist Water ...</title>
+  <link href="http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html" title="www.chicagotribune.com"/>
+  <summary type="html">... a key role in a city inspector general&amp;#39;s investigation that led to last week&amp;#39;s &lt;br&gt;
+shake-up at the Water Department, &lt;b&gt;sources familiar with&lt;/b&gt; the probe said Monday.</summary>
+  <cse:cacheId>tWjdvjFzMIIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-chicago-water-department-gun-deal-emails- met-0516-20170515-story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="Ray Long, Hal Dardick"/>
+    <cse:Attribute name="date" value="2017-05-15"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 Chicago Tribune"/>
+    <cse:Attribute name="news_keywords" value="Chicago Water Department, Rahm Emanuel, racist emails, Barack Obama, sexist emails, racist sexist emails chicago"/>
+    <cse:Attribute name="fb_title" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
+    <cse:Attribute name="og:title" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
+    <cse:Attribute name="og:description" value="Emails about gun deals played a key role in a city inspector general&apos;s investigation that led to last week&apos;s shakeup at the Water Department, sources familiar"/>
+    <cse:Attribute name="fb:page_id" value="5953023255"/>
+    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/local/politics/ct-chicago-water-department-gun-deal-emails-met-0516-20170515-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-591a4e60/turbine/ct-chicago-water-department-gun-deal-emails-met-0516-20170515"/>
+    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/93318697"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i18prod-e25f394-10-68.1"/>
+    <cse:Attribute name="so:status" value="5,1"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="News"/>
+    <cse:Attribute name="headline" value="Gun deal emails spurred city probe into racist, sexist Water Department messages"/>
+    <cse:Attribute name="author" value="Ray Long"/>
+    <cse:Attribute name="datepublished" value="2017-05-15T20:44:27CDT"/>
+    <cse:Attribute name="articlebody" value="Emails about gun deals played a key role in a city inspector general&apos;s investigation that led to last week&apos;s shake-up at the Water Department, sources familiar with the probe said Monday.One..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-591a4e60/turbine/ct-chicago-water-department-gun-deal-emails-met-0516-20170515"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSj7z3iy7GCJyQvIeUEskQPNMm6wC-bXteF0QmXShqF8wEC7GgI4kYBMDNh"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-wavedivision-m-a-tpg-capital-exclusiv-idUSKCN18D29B</id>
+  <updated>1970-01-18T07:24:25.717Z</updated>
+  <title type="html">Exclusive: Private equity firm TPG near deal for cable operator Wave ...</title>
+  <link href="http://www.reuters.com/article/us-wavedivision-m-a-tpg-capital-exclusiv-idUSKCN18D29B" title="www.reuters.com"/>
+  <summary type="html">... Group Ltd due to concerns over the finances and business outlook of the loss-&lt;br&gt;
+making commodity trader, three &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
+  <cse:cacheId>Klj-GSWSl_YJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-wavedivision-m-a-tpg-capital-exclusiv- idUSKCN18D29B</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="media-industry;innovationNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Private+equity+firm+TPG+near+deal+for+cable+operator+Wave+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="news_keywords" value="United States;Steve Weed;US;WAVEDIVISION;M;A;TPG;CAPITAL;EXCLUSIVE;Mergers / Acquisitions / Takeovers;Company News;Exclusive;Telecommunications Services (TRBC);Media and Publishing (TRBC);Communications Equipment (TRBC);Corporate Events;Integrated Telecommunications Services (TRBC);Divestitures / Spin;Offs;Major News;Government Borrowing Requirement;Internet / World Wide Web;Europe;Science;Technology / Media / Telecoms;United Kingdom;Media / Publishing (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Wed May 17 18:30:25 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-17T18:30:25+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Private equity firm TPG near deal for cable operator Wave - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Private equity firm TPG near deal for cable operator Wave - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-wavedivision-m-a-tpg-capital-exclusiv-idUSKCN18D29B"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Private equity (PE) firm TPG Global LLC is nearing a deal to buy regional broadband operator WaveDivision Holdings LLC for more than $2 billion, including debt, people familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-17T18:30:25+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-17T18:30:25+0000"/>
+    <cse:Attribute name="og:article:section" value="Subjects"/>
+    <cse:Attribute name="og:article:author" value="Liana B. Baker and Greg Roumeliotis"/>
+    <cse:Attribute name="og:article:tag" value="United States,Steve Weed,US,WAVEDIVISION,M,A,TPG,CAPITAL,EXCLUSIVE,Mergers / Acquisitions / Takeovers,Company News,Exclusive,Telecommunications Services (TRBC),Media and Publishing (TRBC),Communications Equipment (TRBC),Corporate Events,Integrated Telecommunications Services (TRBC),Divestitures / Spin,Offs,Major News,Government Borrowing Requirement,Internet / World Wide Web,Europe,Science,Technology / Media / Telecoms,United Kingdom,Media / Publishing (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Private equity firm TPG near deal for cable operator Wave - sources"/>
+    <cse:Attribute name="twitter:description" value="Private equity (PE) firm TPG Global LLC is nearing a deal to buy regional broadband operator WaveDivision Holdings LLC for more than $2 billion, including debt, people familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/media/article"/>
+    <cse:Attribute name="wt.cg_n" value="Subjects"/>
+    <cse:Attribute name="wt.cg_s" value="Media Industry"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-la-quinta-m-a-exclusive-idUSKCN18B2GH</id>
+  <updated>1970-01-18T07:24:25.717Z</updated>
+  <title type="html">Exclusive: Hotel operator La Quinta prepares to explore sale - sources</title>
+  <link href="http://www.reuters.com/article/us-la-quinta-m-a-exclusive-idUSKCN18B2GH" title="www.reuters.com"/>
+  <summary type="html">... Ltd are lining up for Toshiba Corp&amp;#39;s semiconductor business, &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt; matter said ahead of a deadline for second-round offers on Friday.</summary>
+  <cse:cacheId>C9QcErVrbpgJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-la-quinta-m-a-exclusive-idUSKCN18B2GH</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;housing"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Hotel+operator+La+Quinta+prepares+to+explore+sale+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="news_keywords" value="Canada;Honduras;Mexico;United States;US;LA;QUINTA;M;A;EXCLUSIVE;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Funds;Company News;Financials (TRBC);Exclusive;Financials (Legacy);Corporate Events;Economic Events;Technology (TRBC);Divestitures / Spin;Offs;Market Events;Major News;Residential and Commercial REITs (TRBC);Real Estate Markets;Investment Management and Fund Operators (TRBC);Private Equity Funds;United States;Hotels : Motels and Cruise Lines (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Mon May 15 21:01:47 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-15T21:01:47+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Hotel operator La Quinta prepares to explore sale - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Hotel operator La Quinta prepares to explore sale - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-la-quinta-m-a-exclusive-idUSKCN18B2GH"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="North American budget hotel chain La Quinta Holdings Inc (LQ.N) is preparing to explore a sale of the company, hoping for a high valuation as its seeks to spin off its real estate assets, people familiar with the matter said on Monday."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-15T21:01:47+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-15T21:01:47+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="og:article:tag" value="Canada,Honduras,Mexico,United States,US,LA,QUINTA,M,A,EXCLUSIVE,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Funds,Company News,Financials (TRBC),Exclusive,Financials (Legacy),Corporate Events,Economic Events,Technology (TRBC),Divestitures / Spin,Offs,Market Events,Major News,Residential and Commercial REITs (TRBC),Real Estate Markets,Investment Management and Fund Operators (TRBC),Private Equity Funds,United States,Hotels : Motels and Cruise Lines (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Hotel operator La Quinta prepares to explore sale - sources"/>
+    <cse:Attribute name="twitter:description" value="North American budget hotel chain La Quinta Holdings Inc (LQ.N) is preparing to explore a sale of the company, hoping for a high valuation as its seeks to spin off its real estate assets, people familiar with the matter said on Monday."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/davide-barbuscia</id>
+  <updated>1970-01-18T07:24:25.717Z</updated>
+  <title type="html">Davide Barbuscia</title>
+  <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
+  <summary type="html">... investment bank Moelis and U.S. legal firm Weil, Gotshal &amp;amp; Manges to &lt;br&gt;
+negotiate restructuring of the notes, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on &lt;br&gt;
+Wednesday.</summary>
+  <cse:cacheId>qkDoJF9t80EJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDs993fZj3_l1MNM_QM_qKb9ZEzMuw0eNgMptcS0sgOVqxPsL24GH43GWc"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
 </feed>
