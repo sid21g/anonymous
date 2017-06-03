@@ -1,31 +1,589 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "on a condition of anonymity"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="on a condition of anonymity"&amp;cx=012091639844104041986:munhfapni70&amp;num=1&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "sources close to"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources close to"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T07:40:02.487Z</updated>
+ <updated>1970-01-18T07:41:51.062Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;on a condition of anonymity&quot;" totalResults="1" searchTerms="&quot;on a condition of anonymity&quot;" count="1" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>1</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources close to&quot;" totalResults="17300" searchTerms="&quot;sources close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources close to&quot;" totalResults="17300" searchTerms="&quot;sources close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>17300</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.255378</cse:searchTime>
-  <cse:formattedSearchTime>0.26</cse:formattedSearchTime>
-  <cse:totalResults>1</cse:totalResults>
-  <cse:formattedTotalResults>1</cse:formattedTotalResults>
+  <cse:searchTime>0.386222</cse:searchTime>
+  <cse:formattedSearchTime>0.39</cse:formattedSearchTime>
+  <cse:totalResults>17300</cse:totalResults>
+  <cse:formattedTotalResults>17,300</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.thedailybeast.com/donald-trump-kept-calling-lil-jon-an-uncle-tom-on-celebrity-apprentice</id>
-  <updated>1970-01-18T07:40:02.487Z</updated>
-  <title type="html">Donald Trump Kept Calling Lil Jon an &amp;#39;Uncle Tom,&amp;#39;</title>
-  <link href="http://www.thedailybeast.com/donald-trump-kept-calling-lil-jon-an-uncle-tom-on-celebrity-apprentice" title="www.thedailybeast.com"/>
+  <id>http://abcnews.go.com/ThisWeek/video/karl-sources-close-president-time-kushner-leave-absence-47690686</id>
+  <updated>1970-01-18T07:41:51.062Z</updated>
+  <title type="html">Karl: &lt;b&gt;Sources close to&lt;/b&gt; president say it may be time for Kushner to ...</title>
+  <link href="http://abcnews.go.com/ThisWeek/video/karl-sources-close-president-time-kushner-leave-absence-47690686" title="abcnews.go.com"/>
+  <summary type="html">ABC News&amp;#39; Chief White House Correspondent Jonathan Karl and Senior Justice &lt;br&gt;
+Correspondent Pierre Thomas report on the Russia investigation and latest&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">abcnews.go.com/.../karl-sources-close-president-time-kushner-leave-absence- 47690686</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="ABC News"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
+    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="news_keywords" value="This Week, George Stephanopoulos, Martha Raddatz, Jonathan Karl, Donald Trump, trip, foreign policy, political news, political analysis, political interviews, george stephanopoulos, this week"/>
+    <cse:Attribute name="fb:admins" value="704409894"/>
+    <cse:Attribute name="fb:app_id" value="4942312939"/>
+    <cse:Attribute name="fb_title" value="Video: Karl: Sources close to president say it may be time for Kushner to take leave of absence"/>
+    <cse:Attribute name="og:site_name" value="ABC News"/>
+    <cse:Attribute name="og:title" value="Video: Karl: Sources close to president say it may be time for Kushner to take leave of absence"/>
+    <cse:Attribute name="og:description" value="ABC News&apos; Chief White House Correspondent Jonathan Karl and Senior Justice Correspondent Pierre Thomas report on the Russia investigation and latest developments about Jared Kushner."/>
+    <cse:Attribute name="og:url" value="http://abcnews.go.com/ThisWeek/video/karl-sources-close-president-time-kushner-leave-absence-47690686"/>
+    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/ThisWeek/170528_tw_karl_16x9_992.jpg"/>
+    <cse:Attribute name="og:image:type" value="image/jpeg"/>
+    <cse:Attribute name="twitter:image" value="http://a.abcnews.com/images/ThisWeek/170528_tw_karl_16x9_992.jpg"/>
+    <cse:Attribute name="og:type" value="video"/>
+    <cse:Attribute name="og:video" value="http://abcnewsplayer-a.akamaihd.net/player/2.19.0.0004/amp.premier/AkamaiPremierPlayer.swf?settings_url=http://abcnewsplayer-a.akamaihd.net/player/2.19.0.0004/amp.premier/amp.premier.flashonly.xml?sec=1&amp;params=%7B%22playerId%22%3A%22facebookHTTP%22%7D&amp;data_feed_url=http://abcnews.go.com/video/itemfeed?id=47690686&amp;auto_play=true&amp;ad_control_enabled=false"/>
+    <cse:Attribute name="og:video:width" value="470"/>
+    <cse:Attribute name="og:video:height" value="265"/>
+    <cse:Attribute name="og:video:type" value="application/x-shockwave-flash"/>
+    <cse:Attribute name="og:video:secure_url" value="https://abcnewsplayer-a.akamaihd.net/player/2.19.0.0004/amp.premier/AkamaiPremierPlayer.swf?settings_url=https://abcnewsplayer-a.akamaihd.net/player/2.19.0.0004/amp.premier/amp.premier.flashonly.xml?sec=1&amp;params=%7B%22playerId%22%3A%22facebookHTTPS%22%7D&amp;data_feed_url=http://abcnews.go.com/video/itemfeed?id=47690686&amp;auto_play=true&amp;ad_control_enabled=false"/>
+    <cse:Attribute name="twitter:card" value="player"/>
+    <cse:Attribute name="twitter:site" value="@ABC"/>
+    <cse:Attribute name="twitter:player:width" value="412"/>
+    <cse:Attribute name="twitter:player:height" value="241"/>
+    <cse:Attribute name="twitter:player" value="https://abcnews.go.com/video/twittercard?id=47690686"/>
+    <cse:Attribute name="twitter:player:stream" value="http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/15a750c8-e7be-4371-b5c3-dd911c0d8bb0/thisweek-47690686/content.once"/>
+    <cse:Attribute name="twitter:player:stream:content_type" value="video/mp4"/>
+    <cse:Attribute name="video:duration" value="281"/>
+    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
+    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/video,47690686"/>
+    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
+    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
+    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/video,47690686"/>
+    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/video,47690686"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
+    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
+    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/video,47690686"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
+    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
+   </cse:DataObject>
+   <cse:DataObject type="sitenavigationelement">
+    <cse:Attribute name="name" value="U.S."/>
+    <cse:Attribute name="url" value="U.S."/>
+   </cse:DataObject>
+   <cse:DataObject type="videoobject">
+    <cse:Attribute name="name" value="Karl: Sources close to president say it may be time for Kushner to take leave of absence"/>
+    <cse:Attribute name="description" value="ABC News&apos; Chief White House Correspondent Jonathan Karl and Senior Justice Correspondent Pierre Thomas report on the Russia investigation and latest developments about Jared Kushner."/>
+    <cse:Attribute name="duration" value="T4M41S"/>
+    <cse:Attribute name="height" value="640"/>
+    <cse:Attribute name="contenturl" value="http://ondemand.abcnews.com/playback/abcnews/2017/05/170528_tw_karl_0904_700.mp4"/>
+    <cse:Attribute name="width" value="360"/>
+    <cse:Attribute name="thumbnailurl" value="http://a.abcnews.com/images/ThisWeek/170528_tw_karl_16x9_992.jpg"/>
+    <cse:Attribute name="embedurl" value="http://abcnewsplayer-a.akamaihd.net/player/2.64.0.0010/amp.premier/AkamaiPremierPlayer.swf?settings_url=http://abcnews.go.comhttp://abcnewsplayer-a.akamaihd.net/player/2.64.0.0010/_config/flash.xml&amp;params=%7B%22playerId%22%3A%22facebookHTTP%22%7D&amp;data_feed_url=http://abcnews.go.com/video/itemfeed?id=47690686"/>
+    <cse:Attribute name="uploaddate" value="2017-05-28T11:17:05Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://a.abcnews.com/images/ThisWeek/170528_tw_karl_16x9_992.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy55fqLhroxwmCmOBQe-u0q5YZclLV2SBIJRQhrcymhHKnbUhqLtRerwky"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2017/05/31/politics/fbi-comey-testimony/</id>
+  <updated>1970-01-18T07:41:51.062Z</updated>
+  <title type="html">Comey to testify publicly about Trump confrontations - CNNPolitics ...</title>
+  <link href="http://www.cnn.com/2017/05/31/politics/fbi-comey-testimony/" title="www.cnn.com"/>
+  <summary type="html">Fired FBI director James Comey plans to testify publicly in the Senate as early as &lt;br&gt;
+next week to confirm bombshell accusations that President Donald Trump&amp;nbsp;...</summary>
+  <cse:cacheId>Cc7RC3zLbdMJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/05/31/politics/fbi-comey-testimony/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-05-31T17:00:34Z"/>
+    <cse:Attribute name="pubdate" value="2017-05-31T17:00:34Z"/>
+    <cse:Attribute name="lastmod" value="2017-06-01T08:45:32Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/05/31/politics/fbi-comey-testimony/index.html"/>
+    <cse:Attribute name="author" value="Eric Lichtblau, CNN Investigates"/>
+    <cse:Attribute name="og:title" value="Comey to testify publicly about Trump confrontations"/>
+    <cse:Attribute name="twitter:title" value="Comey to testify publicly about Trump confrontations"/>
+    <cse:Attribute name="og:description" value="Fired FBI director James Comey plans to testify publicly in the Senate as early as next week to confirm bombshell accusations that President Donald Trump pressured him to end his investigation into a top Trump aide&apos;s ties to Russia, a source close to the issue said Wednesday."/>
+    <cse:Attribute name="twitter:description" value="Fired FBI director James Comey plans to testify publicly in the Senate as early as next week to confirm bombshell accusations that President Donald Trump pressured him to end his investigation into a top Trump aide&apos;s ties to Russia, a source close to the issue said Wednesday."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/05/31/politics/fbi-comey-testimony/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,art-vid"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-05-31T17:00:34Z"/>
+    <cse:Attribute name="datepublished" value="2017-05-31T17:00:34Z"/>
+    <cse:Attribute name="datemodified" value="2017-06-01T08:45:32Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/05/31/politics/fbi-comey-testimony/index.html"/>
+    <cse:Attribute name="author" value="Eric Lichtblau, CNN Investigates"/>
+    <cse:Attribute name="headline" value="Comey to testify publicly about Trump confrontations - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="Fired FBI director James Comey plans to testify publicly in the Senate as early as next week to confirm bombshell accusations that President Donald Trump pressured him to end his investigation..."/>
+    <cse:Attribute name="keywords" value="politics, Comey to testify publicly about Trump confrontations - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Source: Comey to testify publicly about Trump confrontations"/>
+    <cse:Attribute name="articlebody" value="Story highlightsMueller and Comey have discussed parameters to avoid conflicts with criminal probe.Comey is likely to confirm for the first time accounts of pressure from Trump over Russia..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.thedailybeast.com/steve-bannon-pushed-trump-to-go-full-andrew-jackson</id>
+  <updated>1970-01-18T07:41:51.062Z</updated>
+  <title type="html">Steve Bannon Pushed Trump to Go Full Andrew Jackson - The Daily</title>
+  <link href="http://www.thedailybeast.com/steve-bannon-pushed-trump-to-go-full-andrew-jackson" title="www.thedailybeast.com"/>
   <summary type="html"/>
-  <cse:formattedUrl type="html">www.thedailybeast.com/donald-trump-kept-calling-lil-jon-an-uncle-tom-on- celebrity-apprentice</cse:formattedUrl>
+  <cse:formattedUrl type="html">www.thedailybeast.com/steve-bannon-pushed-trump-to-go-full-andrew- jackson</cse:formattedUrl>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.axios.com/scoop-trump-tells-confidants-he-plans-to-leave-paris-climate-deal-2424446776.html</id>
+  <updated>1970-01-18T07:41:51.062Z</updated>
+  <title type="html">Scoop: Trump tells confidants U.S. will quit Paris climate deal - Axios</title>
+  <link href="https://www.axios.com/scoop-trump-tells-confidants-he-plans-to-leave-paris-climate-deal-2424446776.html" title="www.axios.com"/>
+  <summary type="html">Three &lt;b&gt;sources close to&lt;/b&gt; the contenders who have interviewed to fill former FBI &lt;br&gt;
+Director James Comey&amp;#39;s vacated role at the helm of the FBI tell Reuters the&amp;nbsp;...</summary>
+  <cse:cacheId>p-w6clfQeIkJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.axios.com/scoop-trump-tells-confidants-he-plans-to-leave-paris- climate-deal-2424446776.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="application-name" value="Axios"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#FFFFFF"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-310x310.png"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@axios"/>
+    <cse:Attribute name="twitter:site:id" value="800707492346925056"/>
+    <cse:Attribute name="twitter:image" value="https://assets.rbl.ms/9891787/1200x600.jpg"/>
+    <cse:Attribute name="fb:app_id" value="196174674132611"/>
+    <cse:Attribute name="fb:pages" value="1830665590513511"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="https://www.axios.com/scoop-trump-tells-confidants-he-plans-to-leave-paris-climate-deal-2424446776.html"/>
+    <cse:Attribute name="og:site_name" value="Axios"/>
+    <cse:Attribute name="og:image" value="https://axios-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F9891787%2F1200x600.jpg/2000%2C2000/QMYPxyLWKi9SS2KJ/img.jpg"/>
+    <cse:Attribute name="og:image:width" value="2000"/>
+    <cse:Attribute name="og:image:height" value="1000"/>
+    <cse:Attribute name="og:title" value="Scoop: Trump tells confidants U.S. will quit Paris climate deal"/>
+    <cse:Attribute name="og:description" value="Trump has privately told multiple people, including EPA Administrator Scott Pruitt, that he plans to leave the Paris agreement on climate change"/>
+    <cse:Attribute name="article:publisher" value="1830665590513511"/>
+    <cse:Attribute name="article:published_time" value="2017-05-28T11:58:00"/>
+    <cse:Attribute name="article:modified_time" value="2017-05-28T15:35:47"/>
+    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://axios-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F9891787%2F1200x600.jpg/2000%2C2000/QMYPxyLWKi9SS2KJ/img.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="318"/>
+    <cse:Attribute name="height" value="159"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-B4-hwotpcigtp7xIXPEkFCvIv9bv-h2sUpxZFbDAfMTqF0zwhkK8TXM3"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/eurozone-banks-italy-veneto-idUSI6N1IS005</id>
+  <updated>1970-01-18T07:41:51.062Z</updated>
+  <title type="html">Italy&amp;#39;s Veneto banks urge quick solution in letter to Treasury-sources ...</title>
+  <link href="https://www.reuters.com/article/eurozone-banks-italy-veneto-idUSI6N1IS005" title="www.reuters.com"/>
+  <summary type="html">Banca Popolare di Vicenzaand Veneto Banca have sent a letter to Italy&amp;#39;sTreasury &lt;br&gt;
+urging it to find a quick solution to rescue the twolenders, two &lt;b&gt;sources close to&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>YmJlo3O3p1oJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../eurozone-banks-italy-veneto-idUSI6N1IS005</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="]"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Italy%27s+Veneto+banks+urge+quick+solution+in+letter+to+Treasury-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Italy;Andrea Mandala;Francesca Landini;EUROZONE;BANKS/ITALY;VENETO (URGENT);Mergers / Acquisitions / Takeovers;Western Europe;Debt / Fixed Income Markets;Deals;International Agencies / Treaty Groups;Banking Services (TRBC);Banks (TRBC);Company News;European Central Bank;Financials (TRBC);Financials (Legacy);Italy;Government / Politics;Central Banks / Central Bank Events;Corporate Events;Economic Events;Euro Zone;European Union;General News;National Government Debt;Banking and Investment Services (TRBC);Euro Zone as a Whole;Europe;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Thu Jun 01 17:05:43 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-01T17:05:43+0000"/>
+    <cse:Attribute name="sailthru.title" value="Italy&apos;s Veneto banks urge quick solution in letter to Treasury-sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Italy&apos;s Veneto banks urge quick solution in letter to Treasury-sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/eurozone-banks-italy-veneto-idUSI6N1IS005"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Banca Popolare di Vicenzaand Veneto Banca have sent a letter to Italy&apos;sTreasury urging it to find a quick solution to rescue the twolenders, two sources close to the matter said on Thursday."/>
+    <cse:Attribute name="og:image" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-01T17:05:43+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-01T17:05:43+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Italy,Andrea Mandala,Francesca Landini,EUROZONE,BANKS/ITALY,VENETO (URGENT),Mergers / Acquisitions / Takeovers,Western Europe,Debt / Fixed Income Markets,Deals,International Agencies / Treaty Groups,Banking Services (TRBC),Banks (TRBC),Company News,European Central Bank,Financials (TRBC),Financials (Legacy),Italy,Government / Politics,Central Banks / Central Bank Events,Corporate Events,Economic Events,Euro Zone,European Union,General News,National Government Debt,Banking and Investment Services (TRBC),Euro Zone as a Whole,Europe,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Italy&apos;s Veneto banks urge quick solution in letter to Treasury-sources"/>
+    <cse:Attribute name="twitter:description" value="Banca Popolare di Vicenzaand Veneto Banca have sent a letter to Italy&apos;sTreasury urging it to find a quick solution to rescue the twolenders, two sources close to the matter said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlvPGU9JVMLKlkAxjxHzGMQ4QjYzAcUmyc_oe-yU70hs9A4HvHAVoQAx8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-e-on-uniper-sale-idUSKBN18Q245</id>
+  <updated>1970-01-18T07:41:51.062Z</updated>
+  <title type="html">E.ON hires Goldman to explore options for Uniper stake: sources ...</title>
+  <link href="http://www.reuters.com/article/us-e-on-uniper-sale-idUSKBN18Q245" title="www.reuters.com"/>
+  <summary type="html">... for a sale of the group&amp;#39;s remaining stake in Uniper (UN01.DE), the power plant &lt;br&gt;
+and trading business it spun off last year, two &lt;b&gt;sources close to&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>-nX_hYc0KHsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-e-on-uniper-sale-idUSKBN18Q245</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;oil"/>
+    <cse:Attribute name="dcsext.contentheadline" value="E.ON+hires+Goldman+to+explore+options+for+Uniper+stake%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Christoph Steitz, Arno Schuetze and Alexander Hübner"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Christoph Steitz, Arno Schuetze and Alexander Hübner"/>
+    <cse:Attribute name="news_keywords" value="United States;US;E;ON;UNIPER;SALE;Germany;Mergers / Acquisitions / Takeovers;Western Europe;Equity Investments;France;Central / Eastern Europe;Divestitures / Spin;Offs;Asia / Pacific;Deals;Hydroelectric Power Stations;United States;Funds;Multiline Utilities (TRBC);Company News;Utilities (TRBC);China (PRC);Corporate Events;Gas;fired Power Stations;Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Electric Utilities (TRBC);Europe;Coal;fired Power Stations;Natural Gas;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Tue May 30 17:17:35 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Christoph Steitz, Arno Schuetze and Alexander Hübner"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-30T17:17:35+0000"/>
+    <cse:Attribute name="sailthru.title" value="E.ON hires Goldman to explore options for Uniper stake: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="E.ON hires Goldman to explore options for Uniper stake: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-e-on-uniper-sale-idUSKBN18Q245"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="German energy group E.ON (EONGn.DE) has hired Goldman Sachs (GS.N) to explore options for a sale of the group&apos;s remaining stake in Uniper (UN01.DE), the power plant and trading business it spun off last year, two sources close to the matter said."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170530&amp;t=2&amp;i=1186830223&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4T1HM"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-30T17:17:35+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-30T17:17:35+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Christoph Steitz, Arno Schuetze and Alexander Hübner"/>
+    <cse:Attribute name="og:article:tag" value="United States,US,E,ON,UNIPER,SALE,Germany,Mergers / Acquisitions / Takeovers,Western Europe,Equity Investments,France,Central / Eastern Europe,Divestitures / Spin,Offs,Asia / Pacific,Deals,Hydroelectric Power Stations,United States,Funds,Multiline Utilities (TRBC),Company News,Utilities (TRBC),China (PRC),Corporate Events,Gas,fired Power Stations,Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Electric Utilities (TRBC),Europe,Coal,fired Power Stations,Natural Gas,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="E.ON hires Goldman to explore options for Uniper stake: sources"/>
+    <cse:Attribute name="twitter:description" value="German energy group E.ON (EONGn.DE) has hired Goldman Sachs (GS.N) to explore options for a sale of the group&apos;s remaining stake in Uniper (UN01.DE), the power plant and trading business it spun off last year, two sources close to the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170530&amp;t=2&amp;i=1186830223&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4T1HM"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170530&amp;t=2&amp;i=1186830223&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4T1HM"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170530&amp;t=2&amp;i=1186830223&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4T1HM"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="282"/>
+    <cse:Attribute name="height" value="179"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhGLeLaXeLmCKaNBtoiFCdBukIlwamze0eUflgQLYte9wM9-hd6Zu9gk_"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.nbcnews.com/politics/white-house/sources-possible-white-house-shakeup-could-reach-priebus-n766566</id>
+  <updated>1970-01-18T07:41:51.062Z</updated>
+  <title type="html">Possible White House Shakeup Could Reach Priebus - NBC News</title>
+  <link href="http://www.nbcnews.com/politics/white-house/sources-possible-white-house-shakeup-could-reach-priebus-n766566" title="www.nbcnews.com"/>
+  <summary type="html">Multiple &lt;b&gt;sources close to&lt;/b&gt; the administration told NBC News the president has &lt;br&gt;
+been sounding off about staff changes, although no final decisions have been&amp;nbsp;...</summary>
+  <cse:cacheId>141Havvl1DkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.nbcnews.com/.../sources-possible-white-house-shakeup-could-reach- priebus-n766566</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
+    <cse:Attribute name="og:site_name" value="NBC News"/>
+    <cse:Attribute name="og:description" value="Facing a West Wing in near-constant crisis, and with little progress so far on most of his legislative priorities, President Donald Trump is actively seeking advice about a shakeup that could envelop his Chief of Staff, Reince Priebus."/>
+    <cse:Attribute name="og:title" value="Possible White House shakeup could reach Priebus"/>
+    <cse:Attribute name="og:url" value="http://www.nbcnews.com/politics/white-house/sources-possible-white-house-shakeup-could-reach-priebus-n766566"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="https://media1.s-nbcnews.com/j/newscms/2017_22/1978916/ss-170426-trump-100-days-mn-03_d7c0ba75d133aac22a2bee080c4b06b6.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="NBCNews"/>
+    <cse:Attribute name="twitter:title" value="Possible White House shakeup could reach Priebus"/>
+    <cse:Attribute name="twitter:description" value="Facing a West Wing in near-constant crisis, and with little progress so far on most of his legislative priorities, President Donald Trump is actively seeking advice about a shakeup that could envelop his Chief of Staff, Reince Priebus."/>
+    <cse:Attribute name="twitter:creator" value="NBCNews"/>
+    <cse:Attribute name="twitter:image" value="https://media1.s-nbcnews.com/j/newscms/2017_22/1978916/ss-170426-trump-100-days-mn-03_d7c0ba75d133aac22a2bee080c4b06b6.nbcnews-fp-1200-800.jpg"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/politics/white-house/sources-possible-white-house-shakeup-could-reach-priebus-n766566"/>
+    <cse:Attribute name="news_keywords" value="Politics,White House"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
+    <cse:Attribute name="dc.date.issued" value="2017-05-31"/>
+    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://media1.s-nbcnews.com/j/newscms/2017_22/1978916/ss-170426-trump-100-days-mn-03_d7c0ba75d133aac22a2bee080c4b06b6.nbcnews-fp-1200-800.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdXX0mZ4Pqy_vPxn3A2Acb8W7V9Iof9rSD5Fl1mSjc5XCTmuKmZ9EGow8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-usicholdings-m-a-idUSKBN18Q2DY</id>
+  <updated>1970-01-18T07:41:51.062Z</updated>
+  <title type="html">Leonard Green explores sale of USIC: sources | Reuters</title>
+  <link href="https://www.reuters.com/article/us-usicholdings-m-a-idUSKBN18Q2DY" title="www.reuters.com"/>
+  <summary type="html">... to explore options for a sale of the group&amp;#39;s remaining stake in Uniper , the &lt;br&gt;
+power plant and trading business it spun off last year, two &lt;b&gt;sources close to&lt;/b&gt; the &lt;br&gt;
+matter&amp;nbsp;...</summary>
+  <cse:cacheId>51vL5avSwhwJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-usicholdings-m-a-idUSKBN18Q2DY</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Leonard+Green+explores+sale+of+USIC%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Greg Roumeliotis"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Greg Roumeliotis"/>
+    <cse:Attribute name="news_keywords" value="Canada;United States;Donald Trump;US;USICHOLDINGS;M;A;Water and Other Utilities (TRBC);Divestitures / Spin;Offs;Investment Banking and Brokerage Services (TRBC);Mergers / Acquisitions / Takeovers;Company News;Utilities (TRBC);Corporate Finance;Electric Utilities (TRBC);Corporate Events;Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Tue May 30 20:19:50 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Greg Roumeliotis"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-30T20:19:50+0000"/>
+    <cse:Attribute name="sailthru.title" value="Leonard Green explores sale of USIC: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Leonard Green explores sale of USIC: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usicholdings-m-a-idUSKBN18Q2DY"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Buyout firm Leonard Green &amp; Partners is exploring the sale of USIC LLC, a U.S. company that locates and maintains the underground cables of utilities, seeking a valuation of close to $2 billion, including debt, according to people familiar with the matter."/>
+    <cse:Attribute name="og:image" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-30T20:19:50+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-30T20:19:50+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Greg Roumeliotis"/>
+    <cse:Attribute name="og:article:tag" value="Canada,United States,Donald Trump,US,USICHOLDINGS,M,A,Water and Other Utilities (TRBC),Divestitures / Spin,Offs,Investment Banking and Brokerage Services (TRBC),Mergers / Acquisitions / Takeovers,Company News,Utilities (TRBC),Corporate Finance,Electric Utilities (TRBC),Corporate Events,Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Leonard Green explores sale of USIC: sources"/>
+    <cse:Attribute name="twitter:description" value="Buyout firm Leonard Green &amp; Partners is exploring the sale of USIC LLC, a U.S. company that locates and maintains the underground cables of utilities, seeking a valuation of close to $2 billion, including debt, according to people familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlvPGU9JVMLKlkAxjxHzGMQ4QjYzAcUmyc_oe-yU70hs9A4HvHAVoQAx8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.axios.com/sources-trump-interviews-for-fbi-chief-are-chaotic-2430842486.html</id>
+  <updated>1970-01-18T07:41:51.062Z</updated>
+  <title type="html">Reuters sources: Trump interviews for FBI chief are chaotic - Axios</title>
+  <link href="https://www.axios.com/sources-trump-interviews-for-fbi-chief-are-chaotic-2430842486.html" title="www.axios.com"/>
+  <summary type="html">Three &lt;b&gt;sources close to&lt;/b&gt; the contenders who have interviewed to fill former FBI &lt;br&gt;
+Director James Comey&amp;#39;s vacated role at the helm of the FBI tell Reuters the&amp;nbsp;...</summary>
+  <cse:cacheId>Xu_aCdkUhR4J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.axios.com/sources-trump-interviews-for-fbi-chief-are-chaotic- 2430842486.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="application-name" value="Axios"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#FFFFFF"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-310x310.png"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@axios"/>
+    <cse:Attribute name="twitter:site:id" value="800707492346925056"/>
+    <cse:Attribute name="twitter:image" value="https://assets.rbl.ms/9898678/1200x600.jpg"/>
+    <cse:Attribute name="fb:app_id" value="196174674132611"/>
+    <cse:Attribute name="fb:pages" value="1830665590513511"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="https://www.axios.com/sources-trump-interviews-for-fbi-chief-are-chaotic-2430842486.html"/>
+    <cse:Attribute name="og:site_name" value="Axios"/>
+    <cse:Attribute name="og:image" value="https://axios-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F9898678%2F1200x600.jpg/2000%2C2000/TYjt7nhvm3RkIW6b/img.jpg"/>
+    <cse:Attribute name="og:image:width" value="2000"/>
+    <cse:Attribute name="og:image:height" value="1000"/>
+    <cse:Attribute name="og:title" value="Reuters sources: Trump interviews for FBI chief are chaotic"/>
+    <cse:Attribute name="og:description" value="&quot;Trump spoke mostly about himself and seemed distracted.&quot;"/>
+    <cse:Attribute name="article:publisher" value="1830665590513511"/>
+    <cse:Attribute name="article:published_time" value="2017-06-03T00:01:29"/>
+    <cse:Attribute name="article:modified_time" value="2017-06-03T01:07:49"/>
+    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://axios-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F9898678%2F1200x600.jpg/2000%2C2000/TYjt7nhvm3RkIW6b/img.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="318"/>
+    <cse:Attribute name="height" value="159"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-wYwtNaLDRWHhkVho8N9jpH06X5sdxW2XlKIALZWzHRmdTvgj0bnjR0Gp"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.telegraph.co.uk/news/2017/06/03/boris-johnson-reassured-will-keep-foreign-secretary-job-election/</id>
+  <updated>1970-01-18T07:41:51.062Z</updated>
+  <title type="html">Boris Johnson reassured he will keep Foreign Secretary job after the ...</title>
+  <link href="http://www.telegraph.co.uk/news/2017/06/03/boris-johnson-reassured-will-keep-foreign-secretary-job-election/" title="www.telegraph.co.uk"/>
+  <summary type="html">Two &lt;b&gt;sources close to&lt;/b&gt; Mr Johnson have told this newspaper he was given &lt;br&gt;
+indications he would be safe in any post-election reshuffle. It is understood they &lt;br&gt;
+were&amp;nbsp;...</summary>
+  <cse:cacheId>C_N_ahE4Z8gJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.telegraph.co.uk/.../boris-johnson-reassured-will-keep-foreign-secretary- job-election/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
+    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-tooltip" value="The Telegraph"/>
+    <cse:Attribute name="msapplication-config" value="/etc/designs/telegraph/core/clientlibs/core/icons/browserconfig.xml"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-70x70.png"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
+    <cse:Attribute name="tmgads.channel" value="news"/>
+    <cse:Attribute name="tmgads.section" value="news-2017"/>
+    <cse:Attribute name="tmgads.zone" value="news.2017.06.03"/>
+    <cse:Attribute name="tmgads.articleid" value="An5B989glnz2"/>
+    <cse:Attribute name="tmgads.pagetype" value="story"/>
+    <cse:Attribute name="tmgads.level" value="5"/>
+    <cse:Attribute name="tmgads.geo" value="US"/>
+    <cse:Attribute name="tmgads.keywords" value="News,Boris Johnson,Standard,General Election 2017"/>
+    <cse:Attribute name="dcsext.channel" value="news"/>
+    <cse:Attribute name="dcsext.category" value="2017"/>
+    <cse:Attribute name="dcsext.genre" value="06"/>
+    <cse:Attribute name="dcsext.mlc" value="/news/2017/06/03"/>
+    <cse:Attribute name="dcsext.articleid" value="An5B989glnz2"/>
+    <cse:Attribute name="dcsext.content_type" value="story"/>
+    <cse:Attribute name="dcsext.level" value="5"/>
+    <cse:Attribute name="dcsext.author" value="Ben Riley-Smith"/>
+    <cse:Attribute name="dcsext.articlefirstpublished" value="2017-06-03 11:59"/>
+    <cse:Attribute name="dcsext.cf" value="1"/>
+    <cse:Attribute name="dcsext.cd" value="0"/>
+    <cse:Attribute name="dcsext.cn" value="0"/>
+    <cse:Attribute name="dcsext.pd" value="0"/>
+    <cse:Attribute name="og:title" value="Boris Johnson reassured he will keep Foreign Secretary job after the election, sources say"/>
+    <cse:Attribute name="og:description" value="Boris Johnson has been given reassurances from Number 10 that he will not be sacked as Foreign Secretary if the Tories are re-elected, The Telegraph understands."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="The Telegraph"/>
+    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2017/06/03/boris-johnson-reassured-will-keep-foreign-secretary-job-election/"/>
+    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2017/06/03/TELEMMGLPICT000129802135-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"/>
+    <cse:Attribute name="twitter:title" value="Boris Johnson reassured he will keep Foreign Secretary job after the election, sources say"/>
+    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2017/06/03/boris-johnson-reassured-will-keep-foreign-secretary-job-election/"/>
+    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2017/06/03/TELEMMGLPICT000129802135-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"/>
+    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
+    <cse:Attribute name="twitter:description" value="Boris Johnson has been given reassurances from Number 10 that he will not be sacked as Foreign Secretary if the Tories are re-elected, The Telegraph understands."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="tmgads.businesssegment" value="news"/>
+    <cse:Attribute name="tmg.premium.override" value="true"/>
+    <cse:Attribute name="tmg.premium.state" value="true"/>
+    <cse:Attribute name="premiumcontentonfirstpublish" value="false"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Boris Johnson reassured he will keep Foreign Secretary job after the election, sources say"/>
+    <cse:Attribute name="name" value="Boris Johnson reassured he will keep Foreign Secretary job after the election, sources say"/>
+    <cse:Attribute name="datepublished" value="2017-06-03T11:59+0100"/>
+    <cse:Attribute name="articlebody" value="Boris Johnson has been given reassurances from Number 10 that he will not be sacked as Foreign Secretary if the Tories are re-elected, The Telegraph understands. Two sources close to Mr Johnson..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="width" value="1280"/>
+    <cse:Attribute name="height" value="799"/>
+    <cse:Attribute name="url" value="http://www.telegraph.co.uk/content/dam/news/2017/06/03/TELEMMGLPICT000129802135-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"/>
+    <cse:Attribute name="caption" value="Boris Johnson has been given reassurances about his future, The Telegraph understands"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Justin Tallis/AFP/Getty Images"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Ben Riley-Smith"/>
+    <cse:Attribute name="jobtitle" value="Assistant Political Editor"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="width" value="1280"/>
+    <cse:Attribute name="height" value="718"/>
+    <cse:Attribute name="url" value="http://www.telegraph.co.uk/content/dam/video_previews/l/n/lnc3zkyje6qotjpuv9rbkwiiqsba6sxm-xlarge.jpg"/>
+    <cse:Attribute name="caption" value="Boris asks his own questions on Sky News"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2017/06/03/TELEMMGLPICT000129802135-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="177"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSn5oykhQ-KEm346ciPnS0EvOOpe4AwIqEYstJXnHnyppZBFXKdhI6L-z4I"/>
+   </cse:DataObject>
+  </cse:PageMap>
  </entry>
 </feed>
