@@ -1,157 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "sources close to"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources close to"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "sources familiar with"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T07:43:01.596Z</updated>
- <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;cref={cse:cref?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources close to&quot;" totalResults="16400" searchTerms="&quot;sources close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources close to&quot;" totalResults="16400" searchTerms="&quot;sources close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>16400</opensearch:totalResults>
+ <updated>1970-01-18T07:45:36.138Z</updated>
+ <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="13000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="13000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>13000</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.361648</cse:searchTime>
-  <cse:formattedSearchTime>0.36</cse:formattedSearchTime>
-  <cse:totalResults>16400</cse:totalResults>
-  <cse:formattedTotalResults>16,400</cse:formattedTotalResults>
+  <cse:searchTime>0.266288</cse:searchTime>
+  <cse:formattedSearchTime>0.27</cse:formattedSearchTime>
+  <cse:totalResults>13000</cse:totalResults>
+  <cse:formattedTotalResults>13,000</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://abcnews.go.com/ThisWeek/video/karl-sources-close-president-time-kushner-leave-absence-47690686</id>
-  <updated>1970-01-18T07:43:01.596Z</updated>
-  <title type="html">Karl: &lt;b&gt;Sources close to&lt;/b&gt; president say it may be time for Kushner to ...</title>
-  <link href="http://abcnews.go.com/ThisWeek/video/karl-sources-close-president-time-kushner-leave-absence-47690686" title="abcnews.go.com"/>
-  <summary type="html">ABC News&amp;#39; Chief White House Correspondent Jonathan Karl and Senior Justice &lt;br&gt;
-Correspondent Pierre Thomas report on the Russia investigation and latest&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">abcnews.go.com/.../karl-sources-close-president-time-kushner-leave-absence- 47690686</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="ABC News"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 ABC News Internet Ventures"/>
-    <cse:Attribute name="viewport" value="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="news_keywords" value="This Week, George Stephanopoulos, Martha Raddatz, Jonathan Karl, Donald Trump, trip, foreign policy, political news, political analysis, political interviews, george stephanopoulos, this week"/>
-    <cse:Attribute name="fb:admins" value="704409894"/>
-    <cse:Attribute name="fb:app_id" value="4942312939"/>
-    <cse:Attribute name="fb_title" value="Video: Karl: Sources close to president say it may be time for Kushner to take leave of absence"/>
-    <cse:Attribute name="og:site_name" value="ABC News"/>
-    <cse:Attribute name="og:title" value="Video: Karl: Sources close to president say it may be time for Kushner to take leave of absence"/>
-    <cse:Attribute name="og:description" value="ABC News&apos; Chief White House Correspondent Jonathan Karl and Senior Justice Correspondent Pierre Thomas report on the Russia investigation and latest developments about Jared Kushner."/>
-    <cse:Attribute name="og:url" value="http://abcnews.go.com/ThisWeek/video/karl-sources-close-president-time-kushner-leave-absence-47690686"/>
-    <cse:Attribute name="og:image" value="http://a.abcnews.com/images/ThisWeek/170528_tw_karl_16x9_992.jpg"/>
-    <cse:Attribute name="og:image:type" value="image/jpeg"/>
-    <cse:Attribute name="twitter:image" value="http://a.abcnews.com/images/ThisWeek/170528_tw_karl_16x9_992.jpg"/>
-    <cse:Attribute name="og:type" value="video"/>
-    <cse:Attribute name="og:video" value="http://abcnewsplayer-a.akamaihd.net/player/2.19.0.0004/amp.premier/AkamaiPremierPlayer.swf?settings_url=http://abcnewsplayer-a.akamaihd.net/player/2.19.0.0004/amp.premier/amp.premier.flashonly.xml?sec=1&amp;params=%7B%22playerId%22%3A%22facebookHTTP%22%7D&amp;data_feed_url=http://abcnews.go.com/video/itemfeed?id=47690686&amp;auto_play=true&amp;ad_control_enabled=false"/>
-    <cse:Attribute name="og:video:width" value="470"/>
-    <cse:Attribute name="og:video:height" value="265"/>
-    <cse:Attribute name="og:video:type" value="application/x-shockwave-flash"/>
-    <cse:Attribute name="og:video:secure_url" value="https://abcnewsplayer-a.akamaihd.net/player/2.19.0.0004/amp.premier/AkamaiPremierPlayer.swf?settings_url=https://abcnewsplayer-a.akamaihd.net/player/2.19.0.0004/amp.premier/amp.premier.flashonly.xml?sec=1&amp;params=%7B%22playerId%22%3A%22facebookHTTPS%22%7D&amp;data_feed_url=http://abcnews.go.com/video/itemfeed?id=47690686&amp;auto_play=true&amp;ad_control_enabled=false"/>
-    <cse:Attribute name="twitter:card" value="player"/>
-    <cse:Attribute name="twitter:site" value="@ABC"/>
-    <cse:Attribute name="twitter:player:width" value="412"/>
-    <cse:Attribute name="twitter:player:height" value="241"/>
-    <cse:Attribute name="twitter:player" value="https://abcnews.go.com/video/twittercard?id=47690686"/>
-    <cse:Attribute name="twitter:player:stream" value="http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/15a750c8-e7be-4371-b5c3-dd911c0d8bb0/thisweek-47690686/content.once"/>
-    <cse:Attribute name="twitter:player:stream:content_type" value="video/mp4"/>
-    <cse:Attribute name="video:duration" value="281"/>
-    <cse:Attribute name="twitter:app:name:iphone" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="300255638"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="abcnewsiphone://link/video,47690686"/>
-    <cse:Attribute name="twitter:app:name:ipad" value="ABC News"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="306934135"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="abcnewsipad://link/video,47690686"/>
-    <cse:Attribute name="al:iphone:url" value="abcnewsiphone://link/video,47690686"/>
-    <cse:Attribute name="al:iphone:app_store_id" value="300255638"/>
-    <cse:Attribute name="al:iphone:app_name" value="ABC News - Breaking US &amp; World News"/>
-    <cse:Attribute name="al:ipad:url" value="abcnewsipad://link/video,47690686"/>
-    <cse:Attribute name="al:ipad:app_store_id" value="380520716"/>
-    <cse:Attribute name="al:ipad:app_name" value="ABC News for iPad"/>
-   </cse:DataObject>
-   <cse:DataObject type="sitenavigationelement">
-    <cse:Attribute name="name" value="U.S."/>
-    <cse:Attribute name="url" value="U.S."/>
-   </cse:DataObject>
-   <cse:DataObject type="videoobject">
-    <cse:Attribute name="name" value="Karl: Sources close to president say it may be time for Kushner to take leave of absence"/>
-    <cse:Attribute name="description" value="ABC News&apos; Chief White House Correspondent Jonathan Karl and Senior Justice Correspondent Pierre Thomas report on the Russia investigation and latest developments about Jared Kushner."/>
-    <cse:Attribute name="duration" value="T4M41S"/>
-    <cse:Attribute name="height" value="640"/>
-    <cse:Attribute name="contenturl" value="http://ondemand.abcnews.com/playback/abcnews/2017/05/170528_tw_karl_0904_700.mp4"/>
-    <cse:Attribute name="width" value="360"/>
-    <cse:Attribute name="thumbnailurl" value="http://a.abcnews.com/images/ThisWeek/170528_tw_karl_16x9_992.jpg"/>
-    <cse:Attribute name="embedurl" value="http://abcnewsplayer-a.akamaihd.net/player/2.64.0.0010/amp.premier/AkamaiPremierPlayer.swf?settings_url=http://abcnews.go.comhttp://abcnewsplayer-a.akamaihd.net/player/2.64.0.0010/_config/flash.xml&amp;params=%7B%22playerId%22%3A%22facebookHTTP%22%7D&amp;data_feed_url=http://abcnews.go.com/video/itemfeed?id=47690686"/>
-    <cse:Attribute name="uploaddate" value="2017-05-28T11:17:05Z"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://a.abcnews.com/images/ThisWeek/170528_tw_karl_16x9_992.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy55fqLhroxwmCmOBQe-u0q5YZclLV2SBIJRQhrcymhHKnbUhqLtRerwky"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/05/31/politics/fbi-comey-testimony/</id>
-  <updated>1970-01-18T07:43:01.596Z</updated>
-  <title type="html">Comey to testify publicly about Trump confrontations - CNNPolitics ...</title>
-  <link href="http://www.cnn.com/2017/05/31/politics/fbi-comey-testimony/" title="www.cnn.com"/>
-  <summary type="html">Fired FBI director James Comey plans to testify publicly in the Senate as early as &lt;br&gt;
-next week to confirm bombshell accusations that President Donald Trump&amp;nbsp;...</summary>
-  <cse:cacheId>Cc7RC3zLbdMJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/05/31/politics/fbi-comey-testimony/</cse:formattedUrl>
+  <id>http://www.cnn.com/2017/06/05/politics/acting-ambassador-to-china-david-rank-resigns/</id>
+  <updated>1970-01-18T07:45:36.138Z</updated>
+  <title type="html">Acting US ambassador to China resigns - CNNPolitics.com</title>
+  <link href="http://www.cnn.com/2017/06/05/politics/acting-ambassador-to-china-david-rank-resigns/" title="www.cnn.com"/>
+  <summary type="html">... his post in Beijing over President Donald Trump&amp;#39;s decision to withdraw from the &lt;br&gt;
+Paris climate agreement, several &lt;b&gt;sources familiar with&lt;/b&gt; the decision told CNN.</summary>
+  <cse:cacheId>1myghP4_k5UJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/.../acting-ambassador-to-china-david-rank-resigns/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
     <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-05-31T17:00:34Z"/>
-    <cse:Attribute name="pubdate" value="2017-05-31T17:00:34Z"/>
-    <cse:Attribute name="lastmod" value="2017-06-01T08:45:32Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/05/31/politics/fbi-comey-testimony/index.html"/>
-    <cse:Attribute name="author" value="Eric Lichtblau, CNN Investigates"/>
-    <cse:Attribute name="og:title" value="Comey to testify publicly about Trump confrontations"/>
-    <cse:Attribute name="twitter:title" value="Comey to testify publicly about Trump confrontations"/>
-    <cse:Attribute name="og:description" value="Fired FBI director James Comey plans to testify publicly in the Senate as early as next week to confirm bombshell accusations that President Donald Trump pressured him to end his investigation into a top Trump aide&apos;s ties to Russia, a source close to the issue said Wednesday."/>
-    <cse:Attribute name="twitter:description" value="Fired FBI director James Comey plans to testify publicly in the Senate as early as next week to confirm bombshell accusations that President Donald Trump pressured him to end his investigation into a top Trump aide&apos;s ties to Russia, a source close to the issue said Wednesday."/>
+    <cse:Attribute name="og:pubdate" value="2017-06-05T20:46:54Z"/>
+    <cse:Attribute name="pubdate" value="2017-06-05T20:46:54Z"/>
+    <cse:Attribute name="lastmod" value="2017-06-05T20:46:54Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/06/05/politics/acting-ambassador-to-china-david-rank-resigns/index.html"/>
+    <cse:Attribute name="author" value="Elise Labott, Zachary Cohen and Michelle Kosinski, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/EliseLabottCNN"/>
+    <cse:Attribute name="og:title" value="Acting US ambassador to China resigns"/>
+    <cse:Attribute name="twitter:title" value="Acting US ambassador to China resigns"/>
+    <cse:Attribute name="og:description" value="Acting US ambassador to China David Rank resigned from his post in Beijing over President Donald Trump&apos;s decision to withdraw from the Paris climate agreement, several sources familiar with the decision told CNN."/>
+    <cse:Attribute name="twitter:description" value="Acting US ambassador to China David Rank resigned from his post in Beijing over President Donald Trump&apos;s decision to withdraw from the Paris climate agreement, several sources familiar with the decision told CNN."/>
     <cse:Attribute name="og:site_name" value="CNN"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170602162247-trump-rose-garden-0601-super-tease.jpg"/>
     <cse:Attribute name="og:image:width" value="1100"/>
     <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/05/31/politics/fbi-comey-testimony/index.html"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170602162247-trump-rose-garden-0601-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170602162247-trump-rose-garden-0601-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/06/05/politics/acting-ambassador-to-china-david-rank-resigns/index.html"/>
     <cse:Attribute name="fb:app_id" value="80401312489"/>
     <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
     <cse:Attribute name="template-top" value="politics,art-vid"/>
    </cse:DataObject>
    <cse:DataObject type="newsarticle">
     <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-05-31T17:00:34Z"/>
-    <cse:Attribute name="datepublished" value="2017-05-31T17:00:34Z"/>
-    <cse:Attribute name="datemodified" value="2017-06-01T08:45:32Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/05/31/politics/fbi-comey-testimony/index.html"/>
-    <cse:Attribute name="author" value="Eric Lichtblau, CNN Investigates"/>
-    <cse:Attribute name="headline" value="Comey to testify publicly about Trump confrontations - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="Fired FBI director James Comey plans to testify publicly in the Senate as early as next week to confirm bombshell accusations that President Donald Trump pressured him to end his investigation..."/>
-    <cse:Attribute name="keywords" value="politics, Comey to testify publicly about Trump confrontations - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Source: Comey to testify publicly about Trump confrontations"/>
-    <cse:Attribute name="articlebody" value="Story highlightsMueller and Comey have discussed parameters to avoid conflicts with criminal probe.Comey is likely to confirm for the first time accounts of pressure from Trump over Russia..."/>
+    <cse:Attribute name="datecreated" value="2017-06-05T20:46:54Z"/>
+    <cse:Attribute name="datepublished" value="2017-06-05T20:46:54Z"/>
+    <cse:Attribute name="datemodified" value="2017-06-05T20:46:54Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/06/05/politics/acting-ambassador-to-china-david-rank-resigns/index.html"/>
+    <cse:Attribute name="author" value="Elise Labott, Zachary Cohen and Michelle Kosinski, CNN"/>
+    <cse:Attribute name="headline" value="Acting US ambassador to China resigns - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="Acting US ambassador to China David Rank resigned from his post in Beijing over President Donald Trump&apos;s decision to withdraw from the Paris climate agreement, several sources familiar with..."/>
+    <cse:Attribute name="keywords" value="politics, Acting US ambassador to China resigns - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170602162247-trump-rose-garden-0601-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170602162247-trump-rose-garden-0601-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Sources: Acting US ambassador to China quit over Trump climate decision"/>
+    <cse:Attribute name="articlebody" value="Story highlightsSources indicated Rank&apos;s exit is tied to Trump&apos;s Paris decisionChina, the world&apos;s largest carbon emitter, said it would stick by Paris dealWashington (CNN)Acting US ambassador..."/>
    </cse:DataObject>
    <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170602162247-trump-rose-garden-0601-super-tease.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170519061711-james-comey-file-super-tease.jpg"/>
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170602162247-trump-rose-garden-0601-super-tease.jpg"/>
     <cse:Attribute name="type" value="1"/>
     <cse:Attribute name="width" value="299"/>
     <cse:Attribute name="height" value="168"/>
@@ -159,125 +84,119 @@ next week to confirm bombshell accusations that President Donald Trump&amp;nbsp;
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.thedailybeast.com/steve-bannon-pushed-trump-to-go-full-andrew-jackson</id>
-  <updated>1970-01-18T07:43:01.596Z</updated>
-  <title type="html">Steve Bannon Pushed Trump to Go Full Andrew Jackson - The Daily</title>
-  <link href="http://www.thedailybeast.com/steve-bannon-pushed-trump-to-go-full-andrew-jackson" title="www.thedailybeast.com"/>
-  <summary type="html"/>
-  <cse:formattedUrl type="html">www.thedailybeast.com/steve-bannon-pushed-trump-to-go-full-andrew- jackson</cse:formattedUrl>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/eurozone-banks-italy-veneto-idUSI6N1IS005</id>
-  <updated>1970-01-18T07:43:01.596Z</updated>
-  <title type="html">Italy&amp;#39;s Veneto banks urge quick solution in letter to Treasury-sources ...</title>
-  <link href="https://www.reuters.com/article/eurozone-banks-italy-veneto-idUSI6N1IS005" title="www.reuters.com"/>
-  <summary type="html">Banca Popolare di Vicenzaand Veneto Banca have sent a letter to Italy&amp;#39;sTreasury &lt;br&gt;
-urging it to find a quick solution to rescue the twolenders, two &lt;b&gt;sources close to&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>YmJlo3O3p1oJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../eurozone-banks-italy-veneto-idUSI6N1IS005</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-usa-justice-fbi-idUSKBN18T2S8</id>
+  <updated>1970-01-18T07:45:36.138Z</updated>
+  <title type="html">Trump&amp;#39;s continued search for new FBI chief seen as chaotic: sources ...</title>
+  <link href="http://www.reuters.com/article/us-usa-justice-fbi-idUSKBN18T2S8" title="www.reuters.com"/>
+  <summary type="html">President Donald Trump is still looking for a new FBI director more than three &lt;br&gt;
+weeks after he fired James Comey, and &lt;b&gt;sources familiar with&lt;/b&gt; the recruiting &lt;br&gt;
+process&amp;nbsp;...</summary>
+  <cse:cacheId>mCuTO9eVatEJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-usa-justice-fbi-idUSKBN18T2S8</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="]"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Italy%27s+Veneto+banks+urge+quick+solution+in+letter+to+Treasury-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="politicsNews;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Trump%27s+continued+search+for+new+FBI+chief+seen+as+chaotic%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Julia Edwards Ainsley"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Italy;Andrea Mandala;Francesca Landini;EUROZONE;BANKS/ITALY;VENETO (URGENT);Mergers / Acquisitions / Takeovers;Western Europe;Debt / Fixed Income Markets;Deals;International Agencies / Treaty Groups;Banking Services (TRBC);Banks (TRBC);Company News;European Central Bank;Financials (TRBC);Financials (Legacy);Italy;Government / Politics;Central Banks / Central Bank Events;Corporate Events;Economic Events;Euro Zone;European Union;General News;National Government Debt;Banking and Investment Services (TRBC);Euro Zone as a Whole;Europe;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Thu Jun 01 17:05:43 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-01T17:05:43+0000"/>
-    <cse:Attribute name="sailthru.title" value="Italy&apos;s Veneto banks urge quick solution in letter to Treasury-sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Julia Edwards Ainsley"/>
+    <cse:Attribute name="news_keywords" value="Russia;United States;Andrew McCabe;Chris Wray;Donald Trump;Frank Keating;Hillary Clinton;James Comey;Joe Lieberman;John Cornyn;John Pistole;Michael Flynn;Mike Pence;Richard McFeely;Sean Spicer;Trey Gowdy;Vladimir Putin;US;USA;JUSTICE;FBI;Crime / Law / Justice;Russia;Crime;Government / Politics;US House of Representatives;Major News;Europe;US Government News;International / National Security;Conflicts / War / Peace;US Senate;United States"/>
+    <cse:Attribute name="revision_date" value="Fri Jun 02 19:27:43 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Julia Edwards Ainsley"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-02T19:27:43+0000"/>
+    <cse:Attribute name="sailthru.title" value="Trump&apos;s continued search for new FBI chief seen as chaotic: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Italy&apos;s Veneto banks urge quick solution in letter to Treasury-sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/eurozone-banks-italy-veneto-idUSI6N1IS005"/>
+    <cse:Attribute name="og:title" value="Trump&apos;s continued search for new FBI chief seen as chaotic: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-justice-fbi-idUSKBN18T2S8"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Banca Popolare di Vicenzaand Veneto Banca have sent a letter to Italy&apos;sTreasury urging it to find a quick solution to rescue the twolenders, two sources close to the matter said on Thursday."/>
-    <cse:Attribute name="og:image" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-01T17:05:43+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-01T17:05:43+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Italy,Andrea Mandala,Francesca Landini,EUROZONE,BANKS/ITALY,VENETO (URGENT),Mergers / Acquisitions / Takeovers,Western Europe,Debt / Fixed Income Markets,Deals,International Agencies / Treaty Groups,Banking Services (TRBC),Banks (TRBC),Company News,European Central Bank,Financials (TRBC),Financials (Legacy),Italy,Government / Politics,Central Banks / Central Bank Events,Corporate Events,Economic Events,Euro Zone,European Union,General News,National Government Debt,Banking and Investment Services (TRBC),Euro Zone as a Whole,Europe,Banking Services (Legacy)"/>
+    <cse:Attribute name="og:description" value="President Donald Trump is still looking for a new FBI director more than three weeks after he fired James Comey, and sources familiar with the recruiting process say it has been chaotic and that job interviews led by Trump have been brief."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170602&amp;t=2&amp;i=1187346827&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED511ZI"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-02T19:27:43+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-02T19:27:43+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Julia Edwards Ainsley"/>
+    <cse:Attribute name="og:article:tag" value="Russia,United States,Andrew McCabe,Chris Wray,Donald Trump,Frank Keating,Hillary Clinton,James Comey,Joe Lieberman,John Cornyn,John Pistole,Michael Flynn,Mike Pence,Richard McFeely,Sean Spicer,Trey Gowdy,Vladimir Putin,US,USA,JUSTICE,FBI,Crime / Law / Justice,Russia,Crime,Government / Politics,US House of Representatives,Major News,Europe,US Government News,International / National Security,Conflicts / War / Peace,US Senate,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Italy&apos;s Veneto banks urge quick solution in letter to Treasury-sources"/>
-    <cse:Attribute name="twitter:description" value="Banca Popolare di Vicenzaand Veneto Banca have sent a letter to Italy&apos;sTreasury urging it to find a quick solution to rescue the twolenders, two sources close to the matter said on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Trump&apos;s continued search for new FBI chief seen as chaotic: sources"/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump is still looking for a new FBI director more than three weeks after he fired James Comey, and sources familiar with the recruiting process say it has been chaotic and that job interviews led by Trump have been brief."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170602&amp;t=2&amp;i=1187346827&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED511ZI"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170602&amp;t=2&amp;i=1187346827&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED511ZI"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Industries"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170602&amp;t=2&amp;i=1187346827&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED511ZI"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="284"/>
-    <cse:Attribute name="height" value="178"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlvPGU9JVMLKlkAxjxHzGMQ4QjYzAcUmyc_oe-yU70hs9A4HvHAVoQAx8"/>
+    <cse:Attribute name="width" value="270"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe9ulPRSMCV_7YsUybde54oSo-xoNvPfId5FnshnuxaHsPTejuQKBG5N0"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-e-on-uniper-sale-idUSKBN18Q245</id>
-  <updated>1970-01-18T07:43:01.596Z</updated>
-  <title type="html">E.ON hires Goldman to explore options for Uniper stake: sources ...</title>
-  <link href="http://www.reuters.com/article/us-e-on-uniper-sale-idUSKBN18Q245" title="www.reuters.com"/>
-  <summary type="html">... for a sale of the group&amp;#39;s remaining stake in Uniper (UN01.DE), the power plant &lt;br&gt;
-and trading business it spun off last year, two &lt;b&gt;sources close to&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>-nX_hYc0KHsJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-e-on-uniper-sale-idUSKBN18Q245</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-mallinckrodt-generics-exclusive-idUSKBN18Q2F6</id>
+  <updated>1970-01-18T07:45:36.138Z</updated>
+  <title type="html">Exclusive: Mallinckrodt explores sale of generic drugs business ...</title>
+  <link href="http://www.reuters.com/article/us-mallinckrodt-generics-exclusive-idUSKBN18Q2F6" title="www.reuters.com"/>
+  <summary type="html">... founder Jack Ma to submit a joint bid of more than 800 million euros ($900 &lt;br&gt;
+million) for L&amp;#39;Oreal&amp;#39;s The Body Shop, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on &lt;br&gt;
+Friday,&amp;nbsp;...</summary>
+  <cse:cacheId>96izkKk-NWIJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-mallinckrodt-generics-exclusive-idUSKBN18Q2F6</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;oil"/>
-    <cse:Attribute name="dcsext.contentheadline" value="E.ON+hires+Goldman+to+explore+options+for+Uniper+stake%3A+sources"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;ousivMolt;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Mallinckrodt+explores+sale+of+generic+drugs+business+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Christoph Steitz, Arno Schuetze and Alexander Hübner"/>
+    <cse:Attribute name="dcsext.rauthor" value="Carl O&apos;Donnell"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Christoph Steitz, Arno Schuetze and Alexander Hübner"/>
-    <cse:Attribute name="news_keywords" value="United States;US;E;ON;UNIPER;SALE;Germany;Mergers / Acquisitions / Takeovers;Western Europe;Equity Investments;France;Central / Eastern Europe;Divestitures / Spin;Offs;Asia / Pacific;Deals;Hydroelectric Power Stations;United States;Funds;Multiline Utilities (TRBC);Company News;Utilities (TRBC);China (PRC);Corporate Events;Gas;fired Power Stations;Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Electric Utilities (TRBC);Europe;Coal;fired Power Stations;Natural Gas;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Tue May 30 17:17:35 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Christoph Steitz, Arno Schuetze and Alexander Hübner"/>
-    <cse:Attribute name="sailthru.date" value="2017-05-30T17:17:35+0000"/>
-    <cse:Attribute name="sailthru.title" value="E.ON hires Goldman to explore options for Uniper stake: sources"/>
+    <cse:Attribute name="author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="news_keywords" value="United Kingdom;Matthew K Harbaugh;US;MALLINCKRODT;GENERICS;EXCLUSIVE;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Exclusive;Corporate Events;Divestitures / Spin;Offs;Major News;Government Borrowing Requirement;Europe;Healthcare (TRBC);United Kingdom;Generic and Specialty Pharmaceuticals (TRBC);United States"/>
+    <cse:Attribute name="revision_date" value="Tue May 30 20:17:52 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-30T20:17:52+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Mallinckrodt explores sale of generic drugs business - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="E.ON hires Goldman to explore options for Uniper stake: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-e-on-uniper-sale-idUSKBN18Q245"/>
+    <cse:Attribute name="og:title" value="Exclusive: Mallinckrodt explores sale of generic drugs business - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-mallinckrodt-generics-exclusive-idUSKBN18Q2F6"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="German energy group E.ON (EONGn.DE) has hired Goldman Sachs (GS.N) to explore options for a sale of the group&apos;s remaining stake in Uniper (UN01.DE), the power plant and trading business it spun off last year, two sources close to the matter said."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170530&amp;t=2&amp;i=1186830223&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4T1HM"/>
-    <cse:Attribute name="og:article:published_time" value="2017-05-30T17:17:35+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-05-30T17:17:35+0000"/>
+    <cse:Attribute name="og:description" value="Mallinckrodt Plc (MNK.N) is exploring a sale of its generic drug unit, in a deal that could fetch as much as $2 billion and help pivot the specialty pharmaceutical maker toward higher-margin branded drugs, according to people familiar with the matter."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-30T20:17:52+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-30T20:17:52+0000"/>
     <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Christoph Steitz, Arno Schuetze and Alexander Hübner"/>
-    <cse:Attribute name="og:article:tag" value="United States,US,E,ON,UNIPER,SALE,Germany,Mergers / Acquisitions / Takeovers,Western Europe,Equity Investments,France,Central / Eastern Europe,Divestitures / Spin,Offs,Asia / Pacific,Deals,Hydroelectric Power Stations,United States,Funds,Multiline Utilities (TRBC),Company News,Utilities (TRBC),China (PRC),Corporate Events,Gas,fired Power Stations,Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Electric Utilities (TRBC),Europe,Coal,fired Power Stations,Natural Gas,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="og:article:author" value="Carl O&apos;Donnell"/>
+    <cse:Attribute name="og:article:tag" value="United Kingdom,Matthew K Harbaugh,US,MALLINCKRODT,GENERICS,EXCLUSIVE,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Exclusive,Corporate Events,Divestitures / Spin,Offs,Major News,Government Borrowing Requirement,Europe,Healthcare (TRBC),United Kingdom,Generic and Specialty Pharmaceuticals (TRBC),United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="E.ON hires Goldman to explore options for Uniper stake: sources"/>
-    <cse:Attribute name="twitter:description" value="German energy group E.ON (EONGn.DE) has hired Goldman Sachs (GS.N) to explore options for a sale of the group&apos;s remaining stake in Uniper (UN01.DE), the power plant and trading business it spun off last year, two sources close to the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170530&amp;t=2&amp;i=1186830223&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4T1HM"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170530&amp;t=2&amp;i=1186830223&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4T1HM"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Mallinckrodt explores sale of generic drugs business - sources"/>
+    <cse:Attribute name="twitter:description" value="Mallinckrodt Plc (MNK.N) is exploring a sale of its generic drug unit, in a deal that could fetch as much as $2 billion and help pivot the specialty pharmaceutical maker toward higher-margin branded drugs, according to people familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
@@ -285,135 +204,348 @@ and trading business it spun off last year, two &lt;b&gt;sources close to&lt;/b&
     <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170530&amp;t=2&amp;i=1186830223&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED4T1HM"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="282"/>
-    <cse:Attribute name="height" value="179"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhGLeLaXeLmCKaNBtoiFCdBukIlwamze0eUflgQLYte9wM9-hd6Zu9gk_"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.nbcnews.com/politics/white-house/sources-possible-white-house-shakeup-could-reach-priebus-n766566</id>
-  <updated>1970-01-18T07:43:01.596Z</updated>
-  <title type="html">Possible White House Shakeup Could Reach Priebus - NBC News</title>
-  <link href="http://www.nbcnews.com/politics/white-house/sources-possible-white-house-shakeup-could-reach-priebus-n766566" title="www.nbcnews.com"/>
-  <summary type="html">Multiple &lt;b&gt;sources close to&lt;/b&gt; the administration told NBC News the president has &lt;br&gt;
-been sounding off about staff changes, although no final decisions have been&amp;nbsp;...</summary>
-  <cse:cacheId>141Havvl1DkJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.nbcnews.com/.../sources-possible-white-house-shakeup-could-reach- priebus-n766566</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="fb:app_id" value="10150138890205613"/>
-    <cse:Attribute name="og:site_name" value="NBC News"/>
-    <cse:Attribute name="og:description" value="Facing a West Wing in near-constant crisis, and with little progress so far on most of his legislative priorities, President Donald Trump is actively seeking advice about a shakeup that could envelop his Chief of Staff, Reince Priebus."/>
-    <cse:Attribute name="og:title" value="Possible White House shakeup could reach Priebus"/>
-    <cse:Attribute name="og:url" value="http://www.nbcnews.com/politics/white-house/sources-possible-white-house-shakeup-could-reach-priebus-n766566"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="https://media1.s-nbcnews.com/j/newscms/2017_22/1978916/ss-170426-trump-100-days-mn-03_d7c0ba75d133aac22a2bee080c4b06b6.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="NBCNews"/>
-    <cse:Attribute name="twitter:title" value="Possible White House shakeup could reach Priebus"/>
-    <cse:Attribute name="twitter:description" value="Facing a West Wing in near-constant crisis, and with little progress so far on most of his legislative priorities, President Donald Trump is actively seeking advice about a shakeup that could envelop his Chief of Staff, Reince Priebus."/>
-    <cse:Attribute name="twitter:creator" value="NBCNews"/>
-    <cse:Attribute name="twitter:image" value="https://media1.s-nbcnews.com/j/newscms/2017_22/1978916/ss-170426-trump-100-days-mn-03_d7c0ba75d133aac22a2bee080c4b06b6.nbcnews-fp-1200-800.jpg"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=319740707, app-argument=http://www.nbcnews.com/politics/white-house/sources-possible-white-house-shakeup-could-reach-priebus-n766566"/>
-    <cse:Attribute name="news_keywords" value="Politics,White House"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/NBCNews"/>
-    <cse:Attribute name="dc.date.issued" value="2017-05-31"/>
-    <cse:Attribute name="blitz" value="mu-e1e842c9-946002e6-ea8f0454-41b29546"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://media1.s-nbcnews.com/j/newscms/2017_22/1978916/ss-170426-trump-100-days-mn-03_d7c0ba75d133aac22a2bee080c4b06b6.nbcnews-fp-1200-800.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdXX0mZ4Pqy_vPxn3A2Acb8W7V9Iof9rSD5Fl1mSjc5XCTmuKmZ9EGow8"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-volkswagen-emissions-audi-ceo-idUSKBN18V0EE</id>
-  <updated>1970-01-18T07:43:01.596Z</updated>
-  <title type="html">Audi CEO may not stay until end 2022 due to board pact: sources ...</title>
-  <link href="https://www.reuters.com/article/us-volkswagen-emissions-audi-ceo-idUSKBN18V0EE" title="www.reuters.com"/>
-  <summary type="html">... an agreement among supervisory board members that he would not serve out &lt;br&gt;
-his full term, two &lt;b&gt;sources close to&lt;/b&gt; the company&amp;#39;s supervisory board told Reuters.</summary>
-  <cse:cacheId>s771eARyiiIJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-volkswagen-emissions-audi-ceo- idUSKBN18V0EE</cse:formattedUrl>
+  <id>https://www.reuters.com/article/kuwait-exchange-ipo-idUSL8N1J107R</id>
+  <updated>1970-01-18T07:45:36.138Z</updated>
+  <title type="html">Kuwait picks EY to value stock exchange for potential listing-sources ...</title>
+  <link href="https://www.reuters.com/article/kuwait-exchange-ipo-idUSL8N1J107R" title="www.reuters.com"/>
+  <summary type="html">DUBAI, June 4 Kuwait has picked accounting firm EY to do a valuation of its stock &lt;br&gt;
+exchange, &lt;b&gt;sources familiar with&lt;/b&gt; the batter told Reuters on Sunday. The country&amp;nbsp;...</summary>
+  <cse:cacheId>33-f0_hZWWoJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../kuwait-exchange-ipo-idUSL8N1J107R</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="autos"/>
-    <cse:Attribute name="dcsext.channellist" value="autos;autos-news;businessNews;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Audi+CEO+may+not+stay+until+end+2022+due+to+board+pact%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="fundsFundsNews;marketsNews;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Kuwait+picks+EY+to+value+stock+exchange+for+potential+listing-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-autos"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Germany;United States;Martin Winterkorn;Rupert Stadler;US;VOLKSWAGEN;EMISSIONS;AUDI;CEO;Automobiles / Auto Parts (Legacy);Crime / Law / Justice;Germany;Key Personnel Changes;Pollution;Company News;Auto and Truck Manufacturers (TRBC);Western Europe;Carbon / Emissions Markets;Crime;Government / Politics;Corporate Events;Disasters / Accidents;Automobiles and Auto Parts (TRBC);Asia / Pacific;Europe;Regulation;Company Management Issues;United States"/>
-    <cse:Attribute name="revision_date" value="Sun Jun 04 08:42:18 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Kuwait;KUWAIT;EXCHANGE/IPO;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Western Europe;Initial Public Offerings;Privatisations;Equity Financing;Equity Investments;France;Asia / Pacific;Equities Markets;Middle East;Deals;United States;Americas;Funds;Company News;Financials (TRBC);Financials (Legacy);New Issues;Kuwait;Corporate Events;Economic Events;Euro Zone;Financial and Commodity Market Operators (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Europe;Regulation;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Sun Jun 04 12:11:10 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-04T08:42:18+0000"/>
-    <cse:Attribute name="sailthru.title" value="Audi CEO may not stay until end 2022 due to board pact: sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-04T12:11:10+0000"/>
+    <cse:Attribute name="sailthru.title" value="Kuwait picks EY to value stock exchange for potential listing-sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Audi CEO may not stay until end 2022 due to board pact: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-volkswagen-emissions-audi-ceo-idUSKBN18V0EE"/>
+    <cse:Attribute name="og:title" value="Kuwait picks EY to value stock exchange for potential listing-sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/kuwait-exchange-ipo-idUSL8N1J107R"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Embattled Audi Chief Executive Rupert Stadler only got a five-year contract extension last month because of an agreement among supervisory board members that he would not serve out his full term, two sources close to the company&apos;s supervisory board told Reuters."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170604&amp;t=2&amp;i=1187489939&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED530BK"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-04T08:42:18+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-04T08:42:18+0000"/>
-    <cse:Attribute name="og:article:section" value="Unknown"/>
+    <cse:Attribute name="og:description" value="Kuwait has picked accounting firmEY to do a valuation of its stock exchange, sources familiarwith the batter told Reuters on Sunday."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-04T12:11:10+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-04T12:11:10+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Germany,United States,Martin Winterkorn,Rupert Stadler,US,VOLKSWAGEN,EMISSIONS,AUDI,CEO,Automobiles / Auto Parts (Legacy),Crime / Law / Justice,Germany,Key Personnel Changes,Pollution,Company News,Auto and Truck Manufacturers (TRBC),Western Europe,Carbon / Emissions Markets,Crime,Government / Politics,Corporate Events,Disasters / Accidents,Automobiles and Auto Parts (TRBC),Asia / Pacific,Europe,Regulation,Company Management Issues,United States"/>
+    <cse:Attribute name="og:article:tag" value="Kuwait,KUWAIT,EXCHANGE/IPO,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Western Europe,Initial Public Offerings,Privatisations,Equity Financing,Equity Investments,France,Asia / Pacific,Equities Markets,Middle East,Deals,United States,Americas,Funds,Company News,Financials (TRBC),Financials (Legacy),New Issues,Kuwait,Corporate Events,Economic Events,Euro Zone,Financial and Commodity Market Operators (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Europe,Regulation,Emerging Market Countries"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Audi CEO may not stay until end 2022 due to board pact: sources"/>
-    <cse:Attribute name="twitter:description" value="Embattled Audi Chief Executive Rupert Stadler only got a five-year contract extension last month because of an agreement among supervisory board members that he would not serve out his full term, two sources close to the company&apos;s supervisory board told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170604&amp;t=2&amp;i=1187489939&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED530BK"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170604&amp;t=2&amp;i=1187489939&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED530BK"/>
-    <cse:Attribute name="dcsext.rchannel" value="Unknown"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Kuwait picks EY to value stock exchange for potential listing-sources"/>
+    <cse:Attribute name="twitter:description" value="Kuwait has picked accounting firmEY to do a valuation of its stock exchange, sources familiarwith the batter told Reuters on Sunday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/autos/article"/>
-    <cse:Attribute name="wt.cg_n" value="Unknown"/>
-    <cse:Attribute name="wt.cg_s" value="autos"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170604&amp;t=2&amp;i=1187489939&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED530BK"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="284"/>
-    <cse:Attribute name="height" value="177"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSByDGE-V2Vi84FAF-Dyl0QBpURibhc0miJcFMPx6Q2Dr1zLDTrjUOUqw4"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-usicholdings-m-a-idUSKBN18Q2DY</id>
-  <updated>1970-01-18T07:43:01.596Z</updated>
-  <title type="html">Leonard Green explores sale of USIC: sources | Reuters</title>
-  <link href="https://www.reuters.com/article/us-usicholdings-m-a-idUSKBN18Q2DY" title="www.reuters.com"/>
-  <summary type="html">... to explore options for a sale of the group&amp;#39;s remaining stake in Uniper , the &lt;br&gt;
-power plant and trading business it spun off last year, two &lt;b&gt;sources close to&lt;/b&gt; the &lt;br&gt;
+  <id>http://www.reuters.com/article/us-bhp-billiton-chairman-idUSKBN18S3LB</id>
+  <updated>1970-01-18T07:45:36.138Z</updated>
+  <title type="html">BHP board set to select new chairman in June: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-bhp-billiton-chairman-idUSKBN18S3LB" title="www.reuters.com"/>
+  <summary type="html">... to select a new chairman at its June meeting to replace long-serving former &lt;br&gt;
+Ford Motor Co boss Jac Nasser, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>sELB-Id-pS8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-bhp-billiton-chairman-idUSKBN18S3LB</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="GCA-Commodities;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="BHP+board+set+to+select+new+chairman+in+June%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="3"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Jamie Freed and Sonali Paul"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Jamie Freed and Sonali Paul"/>
+    <cse:Attribute name="news_keywords" value="Australia;Brazil;United Kingdom;United States;Andrew N. Liveris;Andy Forster;Barack Obama;Carolyn Judith Hewson;Craig Evans;Donald R. Argus;Donald Trump;Elliott;George Clapham;Jac Nasser;Kenneth Norman MacKenzie;Lindsay Philip Maxsted;Malcolm W. Broomhead;US;BHP;BILLITON;CHAIRMAN;Americas;Key Personnel Changes;Iron Ore;Company News;Coal (TRBC);Corporate Events;Oil and Gas Exploration and Production (TRBC);Specialty Mining and Metals (TRBC);Asia / Pacific;Australia;Major News;Energy (TRBC);Government Borrowing Requirement;Europe;United Kingdom;Company Management Issues;Pictures"/>
+    <cse:Attribute name="revision_date" value="Thu Jun 01 01:36:54 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Jamie Freed and Sonali Paul"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-01T01:36:54+0000"/>
+    <cse:Attribute name="sailthru.title" value="BHP board set to select new chairman in June: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="BHP board set to select new chairman in June: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-bhp-billiton-chairman-idUSKBN18S3LB"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="BHP&apos;s board is expected to select a new chairman at its June meeting to replace long-serving former Ford Motor Co boss Jac Nasser, according to two sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170601&amp;t=2&amp;i=1187038679&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED502DC"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-01T01:36:54+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-01T01:36:54+0000"/>
+    <cse:Attribute name="og:article:author" value="Jamie Freed and Sonali Paul"/>
+    <cse:Attribute name="og:article:tag" value="Australia,Brazil,United Kingdom,United States,Andrew N. Liveris,Andy Forster,Barack Obama,Carolyn Judith Hewson,Craig Evans,Donald R. Argus,Donald Trump,Elliott,George Clapham,Jac Nasser,Kenneth Norman MacKenzie,Lindsay Philip Maxsted,Malcolm W. Broomhead,US,BHP,BILLITON,CHAIRMAN,Americas,Key Personnel Changes,Iron Ore,Company News,Coal (TRBC),Corporate Events,Oil and Gas Exploration and Production (TRBC),Specialty Mining and Metals (TRBC),Asia / Pacific,Australia,Major News,Energy (TRBC),Government Borrowing Requirement,Europe,United Kingdom,Company Management Issues,Pictures"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="BHP board set to select new chairman in June: sources"/>
+    <cse:Attribute name="twitter:description" value="BHP&apos;s board is expected to select a new chairman at its June meeting to replace long-serving former Ford Motor Co boss Jac Nasser, according to two sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170601&amp;t=2&amp;i=1187038679&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED502DC"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170601&amp;t=2&amp;i=1187038679&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED502DC"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170601&amp;t=2&amp;i=1187038679&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED502DC"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="276"/>
+    <cse:Attribute name="height" value="182"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSclc2qpzZyvSo4qOmAbQj28lA9MR_rVMGmm4vIoL46SXej0KiukRzxCe1G"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/brazil-oecd-idUSL1N1IW1R7</id>
+  <updated>1970-01-18T07:45:36.138Z</updated>
+  <title type="html">Brazil seeks to join OECD despite political crisis -sources | Reuters</title>
+  <link href="https://www.reuters.com/article/brazil-oecd-idUSL1N1IW1R7" title="www.reuters.com"/>
+  <summary type="html">... Economic Co-operation and Development (OECD) despite a corruption &lt;br&gt;
+scandal that threatens to unseat him, two government &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
 matter&amp;nbsp;...</summary>
-  <cse:cacheId>51vL5avSwhwJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-usicholdings-m-a-idUSKBN18Q2DY</cse:formattedUrl>
+  <cse:cacheId>_OMn6WGqQrEJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/brazil-oecd-idUSL1N1IW1R7</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="fundsFundsNews;marketsNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Brazil+seeks+to+join+OECD+despite+political+crisis+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Brazil;Michel Temer;BRAZIL;OECD/;Crime / Law / Justice;Lawmaking;Western Europe;Arts / Culture / Entertainment;Taxation;Crime;France;Brazil;Organisation for Economic Co;operation and Development;Food and Tobacco (TRBC);Food Processing (Legacy);Non;Cyclical Consumer Goods and Services (TRBC);International Agencies / Treaty Groups;United States;Americas;Funds;Company News;Government Finances;South America / Central America;Diplomacy / Foreign Policy;Food Processing (TRBC);Government / Politics;Food and Beverages (TRBC);Corporate Events;Economic Events;Euro Zone;General News;Beverages (Legacy);Corruption / Bribery / Embezzlement;Europe;White Collar Crime / Fraud / Corporate Crime;Regulation;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Tue May 30 21:47:21 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-30T21:47:21+0000"/>
+    <cse:Attribute name="sailthru.title" value="Brazil seeks to join OECD despite political crisis -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Brazil seeks to join OECD despite political crisis -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/brazil-oecd-idUSL1N1IW1R7"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Brazilian President MichelTemer on Tuesday sent a formal request to join the Organisationfor Economic Co-operation and Development (OECD) despite acorruption scandal that threatens to unseat him, two governmentsources familiar with the matter told Reuters."/>
+    <cse:Attribute name="og:image" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-30T21:47:21+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-30T21:47:21+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Brazil,Michel Temer,BRAZIL,OECD/,Crime / Law / Justice,Lawmaking,Western Europe,Arts / Culture / Entertainment,Taxation,Crime,France,Brazil,Organisation for Economic Co,operation and Development,Food and Tobacco (TRBC),Food Processing (Legacy),Non,Cyclical Consumer Goods and Services (TRBC),International Agencies / Treaty Groups,United States,Americas,Funds,Company News,Government Finances,South America / Central America,Diplomacy / Foreign Policy,Food Processing (TRBC),Government / Politics,Food and Beverages (TRBC),Corporate Events,Economic Events,Euro Zone,General News,Beverages (Legacy),Corruption / Bribery / Embezzlement,Europe,White Collar Crime / Fraud / Corporate Crime,Regulation,Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Brazil seeks to join OECD despite political crisis -sources"/>
+    <cse:Attribute name="twitter:description" value="Brazilian President MichelTemer on Tuesday sent a formal request to join the Organisationfor Economic Co-operation and Development (OECD) despite acorruption scandal that threatens to unseat him, two governmentsources familiar with the matter told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSWZ7RNyQZ0MOUCcftQrCTf4xtu4P1Og2WHBj7einNx8nCWDo5oA3uNCA6"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-bankruptcy-bcbgmaxazria-marqueebrands-idUSKBN18T33J?il=0</id>
+  <updated>1970-01-18T07:45:36.138Z</updated>
+  <title type="html">Marquee Brands-led group in bid for bankrupt BCBG: sources ...</title>
+  <link href="http://www.reuters.com/article/us-bankruptcy-bcbgmaxazria-marqueebrands-idUSKBN18T33J?il=0" title="www.reuters.com"/>
+  <summary type="html">... founder Jack Ma to submit a joint bid of more than 800 million euros ($900 &lt;br&gt;
+million) for L&amp;#39;Oreal&amp;#39;s The Body Shop, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on &lt;br&gt;
+Friday,&amp;nbsp;...</summary>
+  <cse:cacheId>p4Ah05vgiPYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-bankruptcy-bcbgmaxazria-marqueebrands- idUSKBN18T33J?...</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;ousivMolt;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Marquee+Brands-led+group+in+bid+for+bankrupt+BCBG%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Jessica DiNapoli"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Jessica DiNapoli"/>
+    <cse:Attribute name="news_keywords" value="United States;Bruno Magli;Drew Barrymore;Selena Gomez;US;BANKRUPTCY;BCBGMAXAZRIA;MARQUEEBRANDS;Corporate Debt Renegotiation;Hong Kong;Mergers / Acquisitions / Takeovers;Textiles / Apparel (Legacy);Western Europe;Picture available;France;Corporate Events;Corporate Debt;Divestitures / Spin;Offs;Bankruptcy / Insolvency;Europe;Apparel and Accessories (TRBC);Pictures;Textiles and Apparel (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Fri Jun 02 23:48:44 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Jessica DiNapoli"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-02T23:48:44+0000"/>
+    <cse:Attribute name="sailthru.title" value="Marquee Brands-led group in bid for bankrupt BCBG: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Marquee Brands-led group in bid for bankrupt BCBG: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-bankruptcy-bcbgmaxazria-marqueebrands-idUSKBN18T33J"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Brand licensor Marquee Brands LLC is leading a consortium that is preparing a bid for BCBG Max Azria Group LLC, which would allow the U.S. fashion house to exit bankruptcy with a footprint of 15 to 20 stores, people familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170602&amp;t=2&amp;i=1187373748&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5127P"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-02T23:48:44+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-02T23:48:44+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Jessica DiNapoli"/>
+    <cse:Attribute name="og:article:tag" value="United States,Bruno Magli,Drew Barrymore,Selena Gomez,US,BANKRUPTCY,BCBGMAXAZRIA,MARQUEEBRANDS,Corporate Debt Renegotiation,Hong Kong,Mergers / Acquisitions / Takeovers,Textiles / Apparel (Legacy),Western Europe,Picture available,France,Corporate Events,Corporate Debt,Divestitures / Spin,Offs,Bankruptcy / Insolvency,Europe,Apparel and Accessories (TRBC),Pictures,Textiles and Apparel (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Marquee Brands-led group in bid for bankrupt BCBG: sources"/>
+    <cse:Attribute name="twitter:description" value="Brand licensor Marquee Brands LLC is leading a consortium that is preparing a bid for BCBG Max Azria Group LLC, which would allow the U.S. fashion house to exit bankruptcy with a footprint of 15 to 20 stores, people familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170602&amp;t=2&amp;i=1187373748&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5127P"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170602&amp;t=2&amp;i=1187373748&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5127P"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170602&amp;t=2&amp;i=1187373748&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5127P"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGPEBobhiV-_nx50lrfd8Nar61DGRQKGKTNPPOWjWhfyEwDKKvJcUgxLg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/goldman-saudi-idUSL3N1IX2HH</id>
+  <updated>1970-01-18T07:45:36.138Z</updated>
+  <title type="html">Goldman Sachs applies for Saudi equities trading licence-sources ...</title>
+  <link href="https://www.reuters.com/article/goldman-saudi-idUSL3N1IX2HH" title="www.reuters.com"/>
+  <summary type="html">Goldman Sachs has appliedto Saudi Arabia&amp;#39;s capital markets regulator for a &lt;br&gt;
+licence totrade equities in the kingdom, two &lt;b&gt;sources familiar with&lt;/b&gt; themove said,&amp;nbsp;...</summary>
+  <cse:cacheId>h8oOeRVNwxQJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/goldman-saudi-idUSL3N1IX2HH</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="fundsFundsNews;marketsNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Goldman+Sachs+applies+for+Saudi+equities+trading+licence-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Saudi Arabia;GOLDMAN;SAUDI;Investment Banking and Investment Services (TRBC);Chemicals (Legacy);Hong Kong;Mergers / Acquisitions / Takeovers;Western Europe;Equity Financing;Central / Eastern Europe;Saudi Arabia;Asia / Pacific;Government Borrowing Requirement;Middle East;Deals;United Kingdom;United States;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Switzerland;Company News;Financials (TRBC);Financials (Legacy);China (PRC);Corporate Events;Economic Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Europe;Regulation;Emerging Market Countries;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Fri Jun 02 09:07:10 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-02T09:07:10+0000"/>
+    <cse:Attribute name="sailthru.title" value="Goldman Sachs applies for Saudi equities trading licence-sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Goldman Sachs applies for Saudi equities trading licence-sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/goldman-saudi-idUSL3N1IX2HH"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Goldman Sachs has appliedto Saudi Arabia&apos;s capital markets regulator for a licence totrade equities in the kingdom, two sources familiar with themove said, in the latest step by Western banks to expandoperations in the country."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-02T09:07:10+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-02T09:07:10+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Saudi Arabia,GOLDMAN,SAUDI,Investment Banking and Investment Services (TRBC),Chemicals (Legacy),Hong Kong,Mergers / Acquisitions / Takeovers,Western Europe,Equity Financing,Central / Eastern Europe,Saudi Arabia,Asia / Pacific,Government Borrowing Requirement,Middle East,Deals,United Kingdom,United States,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Switzerland,Company News,Financials (TRBC),Financials (Legacy),China (PRC),Corporate Events,Economic Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Europe,Regulation,Emerging Market Countries,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Goldman Sachs applies for Saudi equities trading licence-sources"/>
+    <cse:Attribute name="twitter:description" value="Goldman Sachs has appliedto Saudi Arabia&apos;s capital markets regulator for a licence totrade equities in the kingdom, two sources familiar with themove said, in the latest step by Western banks to expandoperations in the country."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-usicholdings-m-a-idUSKBN18Q2DY</id>
+  <updated>1970-01-18T07:45:36.138Z</updated>
+  <title type="html">Leonard Green explores sale of USIC: sources | Reuters</title>
+  <link href="http://www.reuters.com/article/us-usicholdings-m-a-idUSKBN18Q2DY" title="www.reuters.com"/>
+  <summary type="html">... founder Jack Ma to submit a joint bid of more than 800 million euros ($900 &lt;br&gt;
+million) for L&amp;#39;Oreal&amp;#39;s The Body Shop, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on &lt;br&gt;
+Friday,&amp;nbsp;...</summary>
+  <cse:cacheId>1T1iIerADoYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-usicholdings-m-a-idUSKBN18Q2DY</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;Intel"/>
     <cse:Attribute name="dcsext.contentheadline" value="Leonard+Green+explores+sale+of+USIC%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
@@ -435,7 +567,7 @@ matter&amp;nbsp;...</summary>
     <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usicholdings-m-a-idUSKBN18Q2DY"/>
     <cse:Attribute name="og:type" value="article"/>
     <cse:Attribute name="og:description" value="Buyout firm Leonard Green &amp; Partners is exploring the sale of USIC LLC, a U.S. company that locates and maintains the underground cables of utilities, seeking a valuation of close to $2 billion, including debt, according to people familiar with the matter."/>
-    <cse:Attribute name="og:image" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="og:article:published_time" value="2017-05-30T20:19:50+0000"/>
     <cse:Attribute name="og:article:modified_time" value="2017-05-30T20:19:50+0000"/>
     <cse:Attribute name="og:article:section" value="Business"/>
@@ -446,8 +578,8 @@ matter&amp;nbsp;...</summary>
     <cse:Attribute name="twitter:card" value="summary"/>
     <cse:Attribute name="twitter:title" value="Leonard Green explores sale of USIC: sources"/>
     <cse:Attribute name="twitter:description" value="Buyout firm Leonard Green &amp; Partners is exploring the sale of USIC LLC, a U.S. company that locates and maintains the underground cables of utilities, seeking a valuation of close to $2 billion, including debt, according to people familiar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="//s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
@@ -455,148 +587,77 @@ matter&amp;nbsp;...</summary>
     <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/r-generic-hdr.png"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="284"/>
-    <cse:Attribute name="height" value="178"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlvPGU9JVMLKlkAxjxHzGMQ4QjYzAcUmyc_oe-yU70hs9A4HvHAVoQAx8"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.axios.com/delaware-sized-iceberg-to-break-into-the-ocean-2429231035.html</id>
-  <updated>1970-01-18T07:43:01.596Z</updated>
-  <title type="html">Delaware-sized iceberg is close to breaking off Antarctica - Axios</title>
-  <link href="https://www.axios.com/delaware-sized-iceberg-to-break-into-the-ocean-2429231035.html" title="www.axios.com"/>
-  <summary type="html">Three &lt;b&gt;sources close to&lt;/b&gt; the contenders who have interviewed to fill former FBI &lt;br&gt;
-Director James Comey&amp;#39;s vacated role at the helm of the FBI tell Reuters the&amp;nbsp;...</summary>
-  <cse:cacheId>ia0BCRFcgDYJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.axios.com/delaware-sized-iceberg-to-break-into-the-ocean- 2429231035.html</cse:formattedUrl>
+  <id>http://www.reuters.com/article/idera-ma-hggc-idUSL1N1IW1QS</id>
+  <updated>1970-01-18T07:45:36.138Z</updated>
+  <title type="html">HGGC to buy majority stake in Idera, values firm over $1 bln: sources</title>
+  <link href="http://www.reuters.com/article/idera-ma-hggc-idUSL1N1IW1QS" title="www.reuters.com"/>
+  <summary type="html">... to take a majority stake in database software firmIdera, valuing the company at &lt;br&gt;
+roughly $1.125 billion includingdebt, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter&lt;br&gt;
+.</summary>
+  <cse:cacheId>iBTFZ19Ow40J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/idera-ma-hggc-idUSL1N1IW1QS</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="application-name" value="Axios"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#FFFFFF"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://static.rbl.ms/static/img/whitelabel/axios/favicons/mstile-310x310.png"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@axios"/>
-    <cse:Attribute name="twitter:site:id" value="800707492346925056"/>
-    <cse:Attribute name="twitter:image" value="https://assets.rbl.ms/9896728/1200x600.jpg"/>
-    <cse:Attribute name="fb:app_id" value="196174674132611"/>
-    <cse:Attribute name="fb:pages" value="1830665590513511"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="fundsFundsNews;marketsNews;fintech-full;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="HGGC+to+buy+majority+stake+in+Idera%2C+values+firm+over+%241+bln%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Steven K. Young;IDERA;MandA/HGGC;Investment Banking and Investment Services (TRBC);Americas;Mergers / Acquisitions / Takeovers;Funds;Company News;Financials (TRBC);Software and IT Services (TRBC);Financials (Legacy);Software (TRBC);Corporate Events;Financial and Commodity Market Operators (TRBC);Technology (TRBC);Banking and Investment Services (TRBC);Technology / Media / Telecoms;Deals;Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Wed May 31 10:00:00 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-05-31T10:00:00+0000"/>
+    <cse:Attribute name="sailthru.title" value="HGGC to buy majority stake in Idera, values firm over $1 bln: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="HGGC to buy majority stake in Idera, values firm over $1 bln: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/idera-ma-hggc-idUSL1N1IW1QS"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="https://www.axios.com/delaware-sized-iceberg-to-break-into-the-ocean-2429231035.html"/>
-    <cse:Attribute name="og:site_name" value="Axios"/>
-    <cse:Attribute name="og:image" value="https://axios-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F9896728%2F1200x600.jpg/2000%2C2000/IZ6dzWus%2FxAqgnyR/img.jpg"/>
-    <cse:Attribute name="og:image:width" value="2000"/>
-    <cse:Attribute name="og:image:height" value="1000"/>
-    <cse:Attribute name="og:title" value="Delaware-sized iceberg is close to breaking off Antarctica"/>
-    <cse:Attribute name="og:description" value="And there&apos;s nothing to be done."/>
-    <cse:Attribute name="article:publisher" value="1830665590513511"/>
-    <cse:Attribute name="article:published_time" value="2017-06-01T17:31:49"/>
-    <cse:Attribute name="article:modified_time" value="2017-06-02T01:08:57"/>
-    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <cse:Attribute name="og:description" value="Private equity firm HGGChas agreed to take a majority stake in database software firmIdera, valuing the company at roughly $1.125 billion includingdebt, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-05-31T10:00:00+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-05-31T10:00:00+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Steven K. Young,IDERA,MandA/HGGC,Investment Banking and Investment Services (TRBC),Americas,Mergers / Acquisitions / Takeovers,Funds,Company News,Financials (TRBC),Software and IT Services (TRBC),Financials (Legacy),Software (TRBC),Corporate Events,Financial and Commodity Market Operators (TRBC),Technology (TRBC),Banking and Investment Services (TRBC),Technology / Media / Telecoms,Deals,Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="HGGC to buy majority stake in Idera, values firm over $1 bln: sources"/>
+    <cse:Attribute name="twitter:description" value="Private equity firm HGGChas agreed to take a majority stake in database software firmIdera, valuing the company at roughly $1.125 billion includingdebt, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://axios-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F9896728%2F1200x600.jpg/2000%2C2000/IZ6dzWus%2FxAqgnyR/img.jpg"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="318"/>
-    <cse:Attribute name="height" value="159"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFLq-RZrGE5xOBx8Rrx8pU-wrZJjy7lzDtUJzEio4CZH06m7WH0lepdtE"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.telegraph.co.uk/news/2017/06/03/boris-johnson-reassured-will-keep-foreign-secretary-job-election/</id>
-  <updated>1970-01-18T07:43:01.596Z</updated>
-  <title type="html">Boris Johnson reassured he will keep Foreign Secretary job after the ...</title>
-  <link href="http://www.telegraph.co.uk/news/2017/06/03/boris-johnson-reassured-will-keep-foreign-secretary-job-election/" title="www.telegraph.co.uk"/>
-  <summary type="html">Two &lt;b&gt;sources close to&lt;/b&gt; Mr Johnson have told this newspaper he was given &lt;br&gt;
-indications he would be safe in any post-election reshuffle. It is understood they &lt;br&gt;
-were&amp;nbsp;...</summary>
-  <cse:cacheId>C_N_ahE4Z8gJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.telegraph.co.uk/.../boris-johnson-reassured-will-keep-foreign-secretary- job-election/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
-    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-tooltip" value="The Telegraph"/>
-    <cse:Attribute name="msapplication-config" value="/etc/designs/telegraph/core/clientlibs/core/icons/browserconfig.xml"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-70x70.png"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
-    <cse:Attribute name="tmgads.channel" value="news"/>
-    <cse:Attribute name="tmgads.section" value="news-2017"/>
-    <cse:Attribute name="tmgads.zone" value="news.2017.06.03"/>
-    <cse:Attribute name="tmgads.articleid" value="An5B989glnz2"/>
-    <cse:Attribute name="tmgads.pagetype" value="story"/>
-    <cse:Attribute name="tmgads.level" value="5"/>
-    <cse:Attribute name="tmgads.geo" value="US"/>
-    <cse:Attribute name="tmgads.keywords" value="News,Boris Johnson,Standard,General Election 2017"/>
-    <cse:Attribute name="dcsext.channel" value="news"/>
-    <cse:Attribute name="dcsext.category" value="2017"/>
-    <cse:Attribute name="dcsext.genre" value="06"/>
-    <cse:Attribute name="dcsext.mlc" value="/news/2017/06/03"/>
-    <cse:Attribute name="dcsext.articleid" value="An5B989glnz2"/>
-    <cse:Attribute name="dcsext.content_type" value="story"/>
-    <cse:Attribute name="dcsext.level" value="5"/>
-    <cse:Attribute name="dcsext.author" value="Ben Riley-Smith"/>
-    <cse:Attribute name="dcsext.articlefirstpublished" value="2017-06-03 11:59"/>
-    <cse:Attribute name="dcsext.cf" value="1"/>
-    <cse:Attribute name="dcsext.cd" value="0"/>
-    <cse:Attribute name="dcsext.cn" value="0"/>
-    <cse:Attribute name="dcsext.pd" value="0"/>
-    <cse:Attribute name="og:title" value="Boris Johnson reassured he will keep Foreign Secretary job after the election, sources say"/>
-    <cse:Attribute name="og:description" value="Boris Johnson has been given reassurances from Number 10 that he will not be sacked as Foreign Secretary if the Tories are re-elected, The Telegraph understands."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="The Telegraph"/>
-    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2017/06/03/boris-johnson-reassured-will-keep-foreign-secretary-job-election/"/>
-    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2017/06/03/TELEMMGLPICT000129802135-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"/>
-    <cse:Attribute name="twitter:title" value="Boris Johnson reassured he will keep Foreign Secretary job after the election, sources say"/>
-    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2017/06/03/boris-johnson-reassured-will-keep-foreign-secretary-job-election/"/>
-    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2017/06/03/TELEMMGLPICT000129802135-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"/>
-    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
-    <cse:Attribute name="twitter:description" value="Boris Johnson has been given reassurances from Number 10 that he will not be sacked as Foreign Secretary if the Tories are re-elected, The Telegraph understands."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="tmgads.businesssegment" value="news"/>
-    <cse:Attribute name="tmg.premium.override" value="true"/>
-    <cse:Attribute name="tmg.premium.state" value="true"/>
-    <cse:Attribute name="premiumcontentonfirstpublish" value="false"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="headline" value="Boris Johnson reassured he will keep Foreign Secretary job after the election, sources say"/>
-    <cse:Attribute name="name" value="Boris Johnson reassured he will keep Foreign Secretary job after the election, sources say"/>
-    <cse:Attribute name="datepublished" value="2017-06-03T11:59+0100"/>
-    <cse:Attribute name="articlebody" value="Boris Johnson has been given reassurances from Number 10 that he will not be sacked as Foreign Secretary if the Tories are re-elected, The Telegraph understands. Two sources close to Mr Johnson..."/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="width" value="1280"/>
-    <cse:Attribute name="height" value="799"/>
-    <cse:Attribute name="url" value="http://www.telegraph.co.uk/content/dam/news/2017/06/03/TELEMMGLPICT000129802135-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"/>
-    <cse:Attribute name="caption" value="Boris Johnson has been given reassurances about his future, The Telegraph understands"/>
-    <cse:Attribute name="copyrightholder" value="Credit: Justin Tallis/AFP/Getty Images"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Ben Riley-Smith"/>
-    <cse:Attribute name="jobtitle" value="Assistant Political Editor"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="caption" value="Boris asks his own questions on Sky News"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2017/06/03/TELEMMGLPICT000129802135-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="284"/>
-    <cse:Attribute name="height" value="177"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSn5oykhQ-KEm346ciPnS0EvOOpe4AwIqEYstJXnHnyppZBFXKdhI6L-z4I"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
