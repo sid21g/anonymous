@@ -5,38 +5,32 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T08:00:27.311Z</updated>
+ <updated>1970-01-18T08:01:43.579Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15200" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15200" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>15200</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15600" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15600" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>15600</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.344854</cse:searchTime>
-  <cse:formattedSearchTime>0.34</cse:formattedSearchTime>
-  <cse:totalResults>15200</cse:totalResults>
-  <cse:formattedTotalResults>15,200</cse:formattedTotalResults>
+  <cse:searchTime>0.318494</cse:searchTime>
+  <cse:formattedSearchTime>0.32</cse:formattedSearchTime>
+  <cse:totalResults>15600</cse:totalResults>
+  <cse:formattedTotalResults>15,600</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/story/2017/06/15/scalise-faces-third-surgery-after-being-wounded-in-mass-shooting-239591</id>
-  <updated>1970-01-18T08:00:27.311Z</updated>
+  <updated>1970-01-18T08:01:43.579Z</updated>
   <title type="html">Lawmakers struggle with emotions as Scalise remains in critical ...</title>
   <link href="http://www.politico.com/story/2017/06/15/scalise-faces-third-surgery-after-being-wounded-in-mass-shooting-239591" title="www.politico.com"/>
-  <summary type="html">Trump, facing deepening probes, revives attacks on Clinton &amp;middot; According to &lt;br&gt;
-&lt;b&gt;sources familiar with&lt;/b&gt; House Majority Whip Steve Scalise&amp;#39;s condition, the third &lt;br&gt;
-surgery&amp;nbsp;...</summary>
+  <summary type="html">White House aides fret over Trump&amp;#39;s Russia probe obsession &amp;middot; According to &lt;br&gt;
+&lt;b&gt;sources familiar with&lt;/b&gt; House Majority Whip Steve Scalise&amp;#39;s condition, the third&amp;nbsp;...</summary>
   <cse:cacheId>q_6mZh5Cj2oJ</cse:cacheId>
   <cse:formattedUrl type="html">www.politico.com/.../scalise-faces-third-surgery-after-being-wounded-in- mass-shooting-239591</cse:formattedUrl>
   <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Jack Shafer"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/jack-shafer"/>
-    <cse:Attribute name="url_text" value="Jack Shafer"/>
-   </cse:DataObject>
    <cse:DataObject type="hcard">
     <cse:Attribute name="fn" value="Rachael Bade"/>
     <cse:Attribute name="url" value="http://www.politico.com/staff/rachael-bade"/>
@@ -69,7 +63,7 @@ surgery&amp;nbsp;...</summary>
     <cse:Attribute name="og:fb_appid" value="114037015331397"/>
     <cse:Attribute name="og:site_name" value="POLITICO"/>
     <cse:Attribute name="host" value="www.politico.com"/>
-    <cse:Attribute name="build" value="release/2017-Harvey 003f0f9 2017-06-15T16:13:59Z"/>
+    <cse:Attribute name="build" value="release/2017-Harvey 3471478 2017-06-16T13:52:59Z"/>
    </cse:DataObject>
    <cse:DataObject type="article">
     <cse:Attribute name="headline" value="Lawmakers struggle with emotions as Scalise remains in critical condition"/>
@@ -103,7 +97,7 @@ surgery&amp;nbsp;...</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-gulf-qatar-flights-idUSKBN1931KB</id>
-  <updated>1970-01-18T08:00:27.311Z</updated>
+  <updated>1970-01-18T08:01:43.579Z</updated>
   <title type="html">Qatar asks U.N. body to resolve Gulf airspace row: sources | Reuters</title>
   <link href="https://www.reuters.com/article/us-gulf-qatar-flights-idUSKBN1931KB" title="www.reuters.com"/>
   <summary type="html">... an airspace rights&amp;#39; dispute with three Gulf states following an escalating &lt;br&gt;
@@ -167,8 +161,58 @@ Monday.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.chicagotribune.com/news/local/breaking/ct-chicago-cops-deaths-probe-met-20170616-story.html</id>
+  <updated>1970-01-18T08:01:43.579Z</updated>
+  <title type="html">Criminal probe of Chicago cop&amp;#39;s death was underway when widow ...</title>
+  <link href="http://www.chicagotribune.com/news/local/breaking/ct-chicago-cops-deaths-probe-met-20170616-story.html" title="www.chicagotribune.com"/>
+  <summary type="html">2, 2015, death of Sgt. Donald Markham, according to two &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+the investigation. The Cook County medical examiner&amp;#39;s office has said Markham,&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>e02ukF_OvoAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-chicago-cops-deaths-probe-met-20170616- story.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="author" value="Jeremy Gorner, Annie Sweeney, Jason Meisner"/>
+    <cse:Attribute name="date" value="2017-06-16"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 Chicago Tribune"/>
+    <cse:Attribute name="news_keywords" value="Donald Markham, Dina Markham, Chicago police, investigation"/>
+    <cse:Attribute name="fb_title" value="Criminal probe of Chicago cop&apos;s death was underway when widow cop died: sources"/>
+    <cse:Attribute name="og:title" value="Criminal probe of Chicago cop&apos;s death was underway when widow cop died: sources"/>
+    <cse:Attribute name="og:description" value="The Cook County state&apos;s attorney&apos;s office was in the midst of a criminal investigation into the 2015 death of a Chicago police sergeant when his widow, also a veteran officer, was found dead in their home over Memorial Day weekend, the Tribune has learned."/>
+    <cse:Attribute name="fb:page_id" value="5953023255"/>
+    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/local/breaking/ct-chicago-cops-deaths-probe-met-20170616-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-59444093/turbine/ct-chicago-cops-deaths-probe-met-20170616"/>
+    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/93869879"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i18prod-402ef6a-0-17.1"/>
+    <cse:Attribute name="so:status" value="5,1"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="News"/>
+    <cse:Attribute name="headline" value="Criminal probe of Chicago cop&apos;s death was underway when widow cop died: sources"/>
+    <cse:Attribute name="author" value="Jeremy Gorner"/>
+    <cse:Attribute name="datepublished" value="2017-06-16T16:30:00CDT"/>
+    <cse:Attribute name="articlebody" value="The Cook County state&apos;s attorney&apos;s office was in the midst of a criminal investigation into the 2015 death of a Chicago police sergeant when his widow, also a veteran officer, was found dead..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-59444093/turbine/ct-chicago-cops-deaths-probe-met-20170616"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaFiPZIN186mHPlY0gcY3zxgCam5ZklktLM2inZBmiXzV5FxRgT6ZNutM"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.nytimes.com/reuters/2017/06/15/business/15reuters-takata-bankruptcy.html</id>
-  <updated>1970-01-18T08:00:27.311Z</updated>
+  <updated>1970-01-18T08:01:43.579Z</updated>
   <title type="html">Air Bag Maker Takata to File for Bankruptcy This Month: Sources ...</title>
   <link href="https://www.nytimes.com/reuters/2017/06/15/business/15reuters-takata-bankruptcy.html" title="www.nytimes.com"/>
   <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the matter, who asked for anonymity because they were not &lt;br&gt;
@@ -252,7 +296,7 @@ authorized to speak with the media, said a final deal with Key may not be&amp;nb
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-moves-freepoint-citi-idUSKBN1932KO</id>
-  <updated>1970-01-18T08:00:27.311Z</updated>
+  <updated>1970-01-18T08:01:43.579Z</updated>
   <title type="html">Citi snags Freepoint Commodities SVP: sources | Reuters</title>
   <link href="https://www.reuters.com/article/us-moves-freepoint-citi-idUSKBN1932KO" title="www.reuters.com"/>
   <summary type="html">John Haynes, a senior vice president for Freepoint Commodities, has left the &lt;br&gt;
@@ -316,72 +360,8 @@ said&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-pinnacle-midstream-m-a-idUSKBN1962IR</id>
-  <updated>1970-01-18T08:00:27.311Z</updated>
-  <title type="html">BP Energy Partners selling midstream portfolio company: sources ...</title>
-  <link href="https://www.reuters.com/article/us-pinnacle-midstream-m-a-idUSKBN1962IR" title="www.reuters.com"/>
-  <summary type="html">... energy investment company backed by oil tycoon T. Boone Pickens, is selling &lt;br&gt;
-portfolio company Pinnacle Midstream, according to four &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
-  <cse:cacheId>0o0J_512blYJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-pinnacle-midstream-m-a-idUSKBN1962IR</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;GCA-Commodities;oil;transportation;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="BP+Energy+Partners+selling+midstream+portfolio+company%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Liz Hampton"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Liz Hampton"/>
-    <cse:Attribute name="news_keywords" value="US;PINNACLE;MIDSTREAM;M;A;Americas (Energy);Mergers / Acquisitions / Takeovers;Marine Port Services (TRBC);Crude Oil;Transportation (TRBC);Pipelines;Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Exclude story from RNP;Energy (TRBC);Natural Gas;US Crudes;Natural Gas Utilities (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Thu Jun 15 18:00:16 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Liz Hampton"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-15T18:00:16+0000"/>
-    <cse:Attribute name="sailthru.title" value="BP Energy Partners selling midstream portfolio company: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="BP Energy Partners selling midstream portfolio company: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-pinnacle-midstream-m-a-idUSKBN1962IR"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="BP Energy Partners, an energy investment company backed by oil tycoon T. Boone Pickens, is selling portfolio company Pinnacle Midstream, according to four sources familiar with the matter."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-15T18:00:16+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-15T18:00:16+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Liz Hampton"/>
-    <cse:Attribute name="og:article:tag" value="US,PINNACLE,MIDSTREAM,M,A,Americas (Energy),Mergers / Acquisitions / Takeovers,Marine Port Services (TRBC),Crude Oil,Transportation (TRBC),Pipelines,Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Exclude story from RNP,Energy (TRBC),Natural Gas,US Crudes,Natural Gas Utilities (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="BP Energy Partners selling midstream portfolio company: sources"/>
-    <cse:Attribute name="twitter:description" value="BP Energy Partners, an energy investment company backed by oil tycoon T. Boone Pickens, is selling portfolio company Pinnacle Midstream, according to four sources familiar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-saudi-oil-exports-idUSKBN1952AW</id>
-  <updated>1970-01-18T08:00:27.311Z</updated>
+  <updated>1970-01-18T08:01:43.579Z</updated>
   <title type="html">Saudi Arabia&amp;#39;s oil exports seen below 7 million bpd in summer ...</title>
   <link href="http://www.reuters.com/article/us-saudi-oil-exports-idUSKBN1952AW" title="www.reuters.com"/>
   <summary type="html">Saudi Arabia&amp;#39;s crude exports are expected to fall below 7 million barrels per day &lt;br&gt;
@@ -442,72 +422,72 @@ this summer, according to industry &lt;b&gt;sources familiar with&lt;/b&gt; the 
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-usa-trade-mexico-sugar-idUSKBN1952UL</id>
-  <updated>1970-01-18T08:00:27.311Z</updated>
-  <title type="html">United States, Mexico finalize sugar trade deal: sources | Reuters</title>
-  <link href="https://www.reuters.com/article/us-usa-trade-mexico-sugar-idUSKBN1952UL" title="www.reuters.com"/>
-  <summary type="html">The U.S. Department of Commerce has finalized terms of a closely watched &lt;br&gt;
-sugar trade pact with Mexico, &lt;b&gt;sources familiar with&lt;/b&gt; the agreement said on&amp;nbsp;...</summary>
-  <cse:cacheId>YO4rGhLt6DgJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-usa-trade-mexico-sugar-idUSKBN1952UL</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-pinnacle-midstream-m-a-idUSKBN1962IR</id>
+  <updated>1970-01-18T08:01:43.579Z</updated>
+  <title type="html">BP Energy Partners selling midstream portfolio company: sources ...</title>
+  <link href="https://www.reuters.com/article/us-pinnacle-midstream-m-a-idUSKBN1962IR" title="www.reuters.com"/>
+  <summary type="html">... energy investment company backed by oil tycoon T. Boone Pickens, is selling &lt;br&gt;
+portfolio company Pinnacle Midstream, according to four &lt;b&gt;sources familiar with&lt;/b&gt;&amp;nbsp;...</summary>
+  <cse:cacheId>0o0J_512blYJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-pinnacle-midstream-m-a-idUSKBN1962IR</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
-    <cse:Attribute name="dcsext.channellist" value="ousivMolt;GCA-Commodities;mexico-news;agriculture-news;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="United+States%2C+Mexico+finalize+sugar+trade+deal%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;GCA-Commodities;oil;transportation;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="BP+Energy+Partners+selling+midstream+portfolio+company%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Liz Hampton"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Canada;Mexico;United States;Ildefonso Guajardo;Wilbur Ross;US;USA;TRADE;MEXICO;SUGAR;Americas;Agricultural Markets;Sugar;South America / Central America;International Trade;Mexico;Government / Politics;Corporate Events;Economic Events;Softs;US Government News;United States"/>
-    <cse:Attribute name="revision_date" value="Wed Jun 14 19:43:11 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-14T19:43:11+0000"/>
-    <cse:Attribute name="sailthru.title" value="United States, Mexico finalize sugar trade deal: sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Liz Hampton"/>
+    <cse:Attribute name="news_keywords" value="United States;J. Greg Sargent;T. Boone Pickens;US;PINNACLE;MIDSTREAM;M;A;Americas (Energy);Mergers / Acquisitions / Takeovers;Marine Port Services (TRBC);Crude Oil;Transportation (TRBC);Pipelines;Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Exclude story from RNP;Energy (TRBC);Natural Gas;US Crudes;Natural Gas Utilities (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Thu Jun 15 18:00:16 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Liz Hampton"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-15T18:00:16+0000"/>
+    <cse:Attribute name="sailthru.title" value="BP Energy Partners selling midstream portfolio company: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="United States, Mexico finalize sugar trade deal: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trade-mexico-sugar-idUSKBN1952UL"/>
+    <cse:Attribute name="og:title" value="BP Energy Partners selling midstream portfolio company: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-pinnacle-midstream-m-a-idUSKBN1962IR"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The U.S. Department of Commerce has finalized terms of a closely watched sugar trade pact with Mexico, sources familiar with the agreement said on Wednesday, moving to end a years-long dispute over the sweetener."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170614&amp;t=2&amp;i=1189006580&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5D1P7"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-14T19:43:11+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-14T19:43:11+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Canada,Mexico,United States,Ildefonso Guajardo,Wilbur Ross,US,USA,TRADE,MEXICO,SUGAR,Americas,Agricultural Markets,Sugar,South America / Central America,International Trade,Mexico,Government / Politics,Corporate Events,Economic Events,Softs,US Government News,United States"/>
+    <cse:Attribute name="og:description" value="BP Energy Partners, an energy investment company backed by oil tycoon T. Boone Pickens, is selling portfolio company Pinnacle Midstream, according to four sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-15T18:00:16+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-15T18:00:16+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Liz Hampton"/>
+    <cse:Attribute name="og:article:tag" value="United States,J. Greg Sargent,T. Boone Pickens,US,PINNACLE,MIDSTREAM,M,A,Americas (Energy),Mergers / Acquisitions / Takeovers,Marine Port Services (TRBC),Crude Oil,Transportation (TRBC),Pipelines,Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Exclude story from RNP,Energy (TRBC),Natural Gas,US Crudes,Natural Gas Utilities (TRBC)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="United States, Mexico finalize sugar trade deal: sources"/>
-    <cse:Attribute name="twitter:description" value="The U.S. Department of Commerce has finalized terms of a closely watched sugar trade pact with Mexico, sources familiar with the agreement said on Wednesday, moving to end a years-long dispute over the sweetener."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170614&amp;t=2&amp;i=1189006580&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5D1P7"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170614&amp;t=2&amp;i=1189006580&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5D1P7"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="BP Energy Partners selling midstream portfolio company: sources"/>
+    <cse:Attribute name="twitter:description" value="BP Energy Partners, an energy investment company backed by oil tycoon T. Boone Pickens, is selling portfolio company Pinnacle Midstream, according to four sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170614&amp;t=2&amp;i=1189006580&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5D1P7"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="271"/>
-    <cse:Attribute name="height" value="186"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUAUDx9fyjL1AkgZ3XpSL5YLeCHWNe-7zWFWaqHsprXIuZTsOa7ojFH7s"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-toshiba-accounting-idUSKBN19432L</id>
-  <updated>1970-01-18T08:00:27.311Z</updated>
+  <updated>1970-01-18T08:01:43.579Z</updated>
   <title type="html">Japan government-led bid for Toshiba chip unit to include SK Hynix ...</title>
   <link href="https://www.reuters.com/article/us-toshiba-accounting-idUSKBN19432L" title="www.reuters.com"/>
   <summary type="html">A Japanese government-led consortium bidding for Toshiba Corp&amp;#39;s chip &lt;br&gt;
@@ -571,72 +551,8 @@ the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-toshiba-accounting-idUSKBN190043</id>
-  <updated>1970-01-18T08:00:27.311Z</updated>
-  <title type="html">Toshiba unconvinced by Western Digital&amp;#39;s last-ditch chip bid | Reuters</title>
-  <link href="https://www.reuters.com/article/us-toshiba-accounting-idUSKBN190043" title="www.reuters.com"/>
-  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Friday the Japanese state-backed &lt;br&gt;
-fund was in talks with U.S. private equity firm Bain Capital about teaming up in a&amp;nbsp;...</summary>
-  <cse:cacheId>nkZH7RC7AHAJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-toshiba-accounting-idUSKBN190043</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationIntellectualProperty"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationIntellectualProperty;innovation;top-100-innovators;technologyNews;innovationNews;ousivMolt;businessNews;japan;US-The-Wire;USWire_EL"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Toshiba+unconvinced+by+Western+Digital%27s+last-ditch+chip+bid"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Makiko Yamazaki and Junko Fujita"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationIntellectualProperty"/>
-    <cse:Attribute name="author" value="Makiko Yamazaki and Junko Fujita"/>
-    <cse:Attribute name="news_keywords" value="Japan;United States;Satoshi Tsunakawa;Steve Milligan;US;TOSHIBA;ACCOUNTING;Mergers / Acquisitions / Takeovers;Japan;Semiconductors and Semiconductor Equipment (TRBC);Picture available;Semiconductors (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Major News;Restructuring / Reorganization;Pictures;United States;Computer Hardware (TRBC);Funds;Company News;South Korea;Corporate Events;Technology (TRBC);Electrical Components and Equipment (TRBC);Science;Industrial Conglomerates (TRBC);Company Management Issues;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Fri Jun 09 18:56:05 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Makiko Yamazaki and Junko Fujita"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-09T18:56:05+0000"/>
-    <cse:Attribute name="sailthru.title" value="Toshiba unconvinced by Western Digital&apos;s last-ditch chip bid"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Toshiba unconvinced by Western Digital&apos;s last-ditch chip bid"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN190043"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Toshiba Corp (6502.T) said on Friday it was not convinced by Western Digital Corp (WDC.O) CEO Steve Milligan&apos;s effort to win its backing for the U.S. tech firm&apos;s revised bid for the Japanese conglomerate&apos;s highly prized chip unit."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170609&amp;t=2&amp;i=1188350326&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED581CT"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-09T18:56:05+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-09T18:56:05+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Makiko Yamazaki and Junko Fujita"/>
-    <cse:Attribute name="og:article:tag" value="Japan,United States,Satoshi Tsunakawa,Steve Milligan,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Japan,Semiconductors and Semiconductor Equipment (TRBC),Picture available,Semiconductors (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Major News,Restructuring / Reorganization,Pictures,United States,Computer Hardware (TRBC),Funds,Company News,South Korea,Corporate Events,Technology (TRBC),Electrical Components and Equipment (TRBC),Science,Industrial Conglomerates (TRBC),Company Management Issues,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Toshiba unconvinced by Western Digital&apos;s last-ditch chip bid"/>
-    <cse:Attribute name="twitter:description" value="Toshiba Corp (6502.T) said on Friday it was not convinced by Western Digital Corp (WDC.O) CEO Steve Milligan&apos;s effort to win its backing for the U.S. tech firm&apos;s revised bid for the Japanese conglomerate&apos;s highly prized chip unit."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170609&amp;t=2&amp;i=1188350326&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED581CT"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170609&amp;t=2&amp;i=1188350326&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED581CT"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/innovation/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Innovation and Intellectual Property"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170609&amp;t=2&amp;i=1188350326&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED581CT"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="267"/>
-    <cse:Attribute name="height" value="188"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxZgtbD-oGfq9Asaiqz1dAg5fKj_Vx-0iWSVEKSl2tlMMl35Nk1GBpxQE"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/journalists/davide-barbuscia</id>
-  <updated>1970-01-18T08:00:27.311Z</updated>
+  <updated>1970-01-18T08:01:43.579Z</updated>
   <title type="html">Davide Barbuscia</title>
   <link href="http://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
   <summary type="html">... Qatar&amp;#39;s third largest listed Islamic bank by assets, has appointed banks ahead &lt;br&gt;
@@ -649,17 +565,25 @@ of a potential U.S. dollar-denominated sukuk, banking &lt;b&gt;sources familiar 
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
     <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
     <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
     <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
     <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -668,6 +592,71 @@ of a potential U.S. dollar-denominated sukuk, banking &lt;b&gt;sources familiar 
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-takata-bankruptcy-idUSKBN1972GG</id>
+  <updated>1970-01-18T08:01:43.579Z</updated>
+  <title type="html">Takata would stop making air-bag inflators under new plan: sources ...</title>
+  <link href="https://www.reuters.com/article/us-takata-bankruptcy-idUSKBN1972GG" title="www.reuters.com"/>
+  <summary type="html">... ability to supply the roughly 100 million replacement inflators required to &lt;br&gt;
+complete the global recall, one of the &lt;b&gt;sources familiar with&lt;/b&gt; the company&amp;#39;s plans &lt;br&gt;
+said.</summary>
+  <cse:cacheId>UNYEHlADDmoJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-takata-bankruptcy-idUSKBN1972GG</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="banks"/>
+    <cse:Attribute name="dcsext.channellist" value="autos-news;autos-top;banks;businessNews;japan;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Takata+would+stop+making+air-bag+inflators+under+new+plan%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Naomi Tajitsu and Maki Shiraki"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-banks"/>
+    <cse:Attribute name="author" value="Naomi Tajitsu and Maki Shiraki"/>
+    <cse:Attribute name="news_keywords" value="Japan;United States;US;TAKATA;BANKRUPTCY;Automobiles / Auto Parts (Legacy);Results Forecasts / Warnings;Mergers / Acquisitions / Takeovers;Company News;Auto and Truck Manufacturers (TRBC);Japan;China (PRC);Volatile Shares / Hot Stocks;Corporate Events;Automobiles and Auto Parts (TRBC);Asia / Pacific;Bankruptcy / Insolvency;Major News;Restructuring / Reorganization;Auto : Truck and Motorcycle Parts (TRBC);Regulation"/>
+    <cse:Attribute name="revision_date" value="Fri Jun 16 19:19:58 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Naomi Tajitsu and Maki Shiraki"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-16T19:19:58+0000"/>
+    <cse:Attribute name="sailthru.title" value="Takata would stop making air-bag inflators under new plan: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Takata would stop making air-bag inflators under new plan: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-takata-bankruptcy-idUSKBN1972GG"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Japan&apos;s Takata Corp (7312.T), facing bankruptcy over the biggest recall in automotive history, would stop making air-bag inflators after completing a global recall, under a restructuring plan under consideration by its steering committee, sources told Reuters on Friday."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170616&amp;t=2&amp;i=1189326733&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5F1QK"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-16T19:19:58+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-16T19:19:58+0000"/>
+    <cse:Attribute name="og:article:section" value="Subjects"/>
+    <cse:Attribute name="og:article:author" value="Naomi Tajitsu and Maki Shiraki"/>
+    <cse:Attribute name="og:article:tag" value="Japan,United States,US,TAKATA,BANKRUPTCY,Automobiles / Auto Parts (Legacy),Results Forecasts / Warnings,Mergers / Acquisitions / Takeovers,Company News,Auto and Truck Manufacturers (TRBC),Japan,China (PRC),Volatile Shares / Hot Stocks,Corporate Events,Automobiles and Auto Parts (TRBC),Asia / Pacific,Bankruptcy / Insolvency,Major News,Restructuring / Reorganization,Auto : Truck and Motorcycle Parts (TRBC),Regulation"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Takata would stop making air-bag inflators under new plan: sources"/>
+    <cse:Attribute name="twitter:description" value="Japan&apos;s Takata Corp (7312.T), facing bankruptcy over the biggest recall in automotive history, would stop making air-bag inflators after completing a global recall, under a restructuring plan under consideration by its steering committee, sources told Reuters on Friday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170616&amp;t=2&amp;i=1189326733&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5F1QK"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170616&amp;t=2&amp;i=1189326733&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5F1QK"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+    <cse:Attribute name="wt.cg_n" value="Subjects"/>
+    <cse:Attribute name="wt.cg_s" value="Autos"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170616&amp;t=2&amp;i=1189326733&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5F1QK"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="265"/>
+    <cse:Attribute name="height" value="190"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUdfG8HWpHJ6i3k2aIN-Af3CLG64vShhKIag-WQBNzjP-f-8v3e5LSBftG"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
