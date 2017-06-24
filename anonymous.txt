@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T08:10:50.510Z</updated>
+ <updated>1970-01-18T08:12:25.592Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8650" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8650" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>8650</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8030" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8030" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>8030</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.306308</cse:searchTime>
-  <cse:formattedSearchTime>0.31</cse:formattedSearchTime>
-  <cse:totalResults>8650</cse:totalResults>
-  <cse:formattedTotalResults>8,650</cse:formattedTotalResults>
+  <cse:searchTime>0.264618</cse:searchTime>
+  <cse:formattedSearchTime>0.26</cse:formattedSearchTime>
+  <cse:totalResults>8030</cse:totalResults>
+  <cse:formattedTotalResults>8,030</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://www.buzzfeed.com/adriancarrasquillo/trump-told-democrats-he-wants-to-do-something-about</id>
-  <updated>1970-01-18T08:10:50.510Z</updated>
+  <updated>1970-01-18T08:12:25.592Z</updated>
   <title type="html">Trump Told Democrats He Wants To Do Something About Deported ...</title>
   <link href="https://www.buzzfeed.com/adriancarrasquillo/trump-told-democrats-he-wants-to-do-something-about" title="www.buzzfeed.com"/>
   <summary type="html">&amp;quot;We should do something about this,&amp;quot; Trump said, according to &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
@@ -81,8 +81,46 @@
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://time.com/4828306/russian-hacking-election-widespread-private-data/</id>
+  <updated>1970-01-18T08:12:25.592Z</updated>
+  <title type="html">Russian Hacking on Election More Widespread Than Reported ...</title>
+  <link href="http://time.com/4828306/russian-hacking-election-widespread-private-data/" title="time.com"/>
+  <summary type="html">Congressional investigators are probing whether any of this stolen private &lt;br&gt;
+information made its way to the Trump campaign, two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>bnMN98NqNSsJ</cse:cacheId>
+  <cse:formattedUrl type="html">time.com/4828306/russian-hacking-election-widespread-private-data/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="news_keywords" value="russian hacking, russian hacking election, nsa russian hacking report, evidence of russian hacking, russia hacking election, election hacking, putin hacking election, 2016 election, trump"/>
+    <cse:Attribute name="og:site_name" value="Time"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:url" value="http://time.com/4828306/russian-hacking-election-widespread-private-data/"/>
+    <cse:Attribute name="og:title" value="Election Hackers Altered Voter Rolls, Stole Private Data: Officials"/>
+    <cse:Attribute name="author" value="Massimo Calabresi"/>
+    <cse:Attribute name="og:description" value="Including at least one successful attempt to alter voter information."/>
+    <cse:Attribute name="og:image" value="https://timedotcom.files.wordpress.com/2017/05/gettyimages-138711450.jpg?w=720"/>
+    <cse:Attribute name="fb:app_id" value="53177223193"/>
+    <cse:Attribute name="twitter:site" value="@TIME"/>
+    <cse:Attribute name="twitter:title" value="Election Hackers Altered Voter Rolls, Stole Private Data: Officials"/>
+    <cse:Attribute name="twitter:description" value="Including at least one successful attempt to alter voter information."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="article:author" value="http://time.com/author/massimo-calabresi/"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://timedotcom.files.wordpress.com/2017/05/gettyimages-138711450.jpg?w=720"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSASGkzYDeB2fi2BUsRP5xgZBXb0vWvPLlSPuHCI0SNVg_8ZKO1kkcwEz4I"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.yahoo.com/news/eric-holder-joins-anti-trump-resistance-mulls-presidential-campaign-110025091.html</id>
-  <updated>1970-01-18T08:10:50.510Z</updated>
+  <updated>1970-01-18T08:12:25.592Z</updated>
   <title type="html">Eric Holder joins the anti-Trump resistance — and mulls a ...</title>
   <link href="https://www.yahoo.com/news/eric-holder-joins-anti-trump-resistance-mulls-presidential-campaign-110025091.html" title="www.yahoo.com"/>
   <summary type="html">Now is the time to be heard,” former Attorney General Eric Holder said in an &lt;br&gt;
@@ -177,7 +215,7 @@ exclusive interview with Yahoo News.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/story/2017/06/19/sources-senate-gop-prepared-for-obamacare-repeal-vote-next-week-239726</id>
-  <updated>1970-01-18T08:10:50.510Z</updated>
+  <updated>1970-01-18T08:12:25.592Z</updated>
   <title type="html">Senate GOP prepares for Obamacare repeal vote next week ...</title>
   <link href="http://www.politico.com/story/2017/06/19/sources-senate-gop-prepared-for-obamacare-repeal-vote-next-week-239726" title="www.politico.com"/>
   <summary type="html">Senate Republicans are preparing to vote on Obamacare repeal next week, &lt;br&gt;
@@ -186,19 +224,14 @@ according to multiple &lt;b&gt;sources familiar with&lt;/b&gt; the negotiations,
   <cse:formattedUrl type="html">www.politico.com/.../sources-senate-gop-prepared-for-obamacare-repeal- vote-next-week-239726</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Bryan Bender"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/bryan-bender"/>
-    <cse:Attribute name="url_text" value="Bryan Bender"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
     <cse:Attribute name="fn" value="Katelyn Fossett"/>
     <cse:Attribute name="url" value="http://www.politico.com/staff/katelyn-fossett"/>
     <cse:Attribute name="url_text" value="Katelyn Fossett"/>
    </cse:DataObject>
    <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Charlie Mahtesian"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/charlie-mahtesian"/>
-    <cse:Attribute name="url_text" value="Charlie Mahtesian"/>
+    <cse:Attribute name="fn" value="Bryan Bender"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/bryan-bender"/>
+    <cse:Attribute name="url_text" value="Bryan Bender"/>
    </cse:DataObject>
    <cse:DataObject type="hcard">
     <cse:Attribute name="fn" value="Burgess Everett"/>
@@ -279,58 +312,71 @@ according to multiple &lt;b&gt;sources familiar with&lt;/b&gt; the negotiations,
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.chicagotribune.com/news/local/breaking/ct-chicago-cops-deaths-probe-met-20170616-story.html</id>
-  <updated>1970-01-18T08:10:50.510Z</updated>
-  <title type="html">Criminal probe of Chicago cop&amp;#39;s death was underway when widow ...</title>
-  <link href="http://www.chicagotribune.com/news/local/breaking/ct-chicago-cops-deaths-probe-met-20170616-story.html" title="www.chicagotribune.com"/>
-  <summary type="html">2, 2015, death of Sgt. Donald Markham, according to two &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-the investigation. The Cook County medical examiner&amp;#39;s office has said Markham,&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>e02ukF_OvoAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-chicago-cops-deaths-probe-met-20170616- story.html</cse:formattedUrl>
+  <id>http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html</id>
+  <updated>1970-01-18T08:12:25.592Z</updated>
+  <title type="html">Intel chiefs tell investigators Trump suggested they refute collusion ...</title>
+  <link href="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html" title="www.cnn.com"/>
+  <summary type="html">In classified follow-up meetings with the Senate intelligence committee, they &lt;br&gt;
+were more forthcoming, according to &lt;b&gt;sources familiar with&lt;/b&gt; the closed-door &lt;br&gt;
+session.</summary>
+  <cse:cacheId>_LA6kBm9Hg4J</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/06/22/politics/intel-chiefs.../index.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="Jeremy Gorner, Annie Sweeney, Jason Meisner"/>
-    <cse:Attribute name="date" value="2017-06-16"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 Chicago Tribune"/>
-    <cse:Attribute name="news_keywords" value="Donald Markham, Dina Markham, Chicago police, investigation"/>
-    <cse:Attribute name="fb_title" value="Criminal probe of Chicago cop&apos;s death was underway when widow cop died: sources"/>
-    <cse:Attribute name="og:title" value="Criminal probe of Chicago cop&apos;s death was underway when widow cop died: sources"/>
-    <cse:Attribute name="og:description" value="The Cook County state&apos;s attorney&apos;s office was in the midst of a criminal investigation into the 2015 death of a Chicago police sergeant when his widow, also a veteran officer, was found dead in their home over Memorial Day weekend, the Tribune has learned."/>
-    <cse:Attribute name="fb:page_id" value="5953023255"/>
-    <cse:Attribute name="fb:app_id" value="306836229411287"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-06-22T10:01:57Z"/>
+    <cse:Attribute name="pubdate" value="2017-06-22T10:01:57Z"/>
+    <cse:Attribute name="lastmod" value="2017-06-23T03:00:28Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html"/>
+    <cse:Attribute name="author" value="Dana Bash, Evan Perez and Manu Raju, CNN"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/mkraju00"/>
+    <cse:Attribute name="og:title" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians"/>
+    <cse:Attribute name="twitter:title" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians"/>
+    <cse:Attribute name="og:description" value="Two of the nation&apos;s top intelligence officials told Special Counsel Robert Mueller&apos;s team and Senate investigators, in separate meetings last week, that President Donald Trump suggested they say publicly there was no collusion between his campaign and the Russians, according to multiple sources."/>
+    <cse:Attribute name="twitter:description" value="Two of the nation&apos;s top intelligence officials told Special Counsel Robert Mueller&apos;s team and Senate investigators, in separate meetings last week, that President Donald Trump suggested they say publicly there was no collusion between his campaign and the Russians, according to multiple sources."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/local/breaking/ct-chicago-cops-deaths-probe-met-20170616-story.html"/>
-    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-59444093/turbine/ct-chicago-cops-deaths-probe-met-20170616"/>
-    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
-    <cse:Attribute name="googlebot-news" value="index"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/93869879"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i18prod-54d7477-0-78.1"/>
-    <cse:Attribute name="so:status" value="5,1"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,art-vid"/>
    </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="headline" value="Criminal probe of Chicago cop&apos;s death was underway when widow cop died: sources"/>
-    <cse:Attribute name="author" value="Jeremy Gorner"/>
-    <cse:Attribute name="datepublished" value="2017-06-16T16:30:00CDT"/>
-    <cse:Attribute name="articlebody" value="The Cook County state&apos;s attorney&apos;s office was in the midst of a criminal investigation into the 2015 death of a Chicago police sergeant when his widow, also a veteran officer, was found dead..."/>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-06-22T10:01:57Z"/>
+    <cse:Attribute name="datepublished" value="2017-06-22T10:01:57Z"/>
+    <cse:Attribute name="datemodified" value="2017-06-23T03:00:28Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html"/>
+    <cse:Attribute name="author" value="Dana Bash, Evan Perez and Manu Raju, CNN"/>
+    <cse:Attribute name="headline" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="Two of the nation&apos;s top intelligence officials told Special Counsel Robert Mueller&apos;s team and Senate investigators, in separate meetings last week, that President Donald Trump suggested they..."/>
+    <cse:Attribute name="keywords" value="politics, Intel chiefs tell investigators Trump suggested they refute collusion with Russians - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians"/>
+    <cse:Attribute name="articlebody" value="Story highlightsCoats and Rogers said interactions with Trump about the Russia investigation were odd, uncomfortableThe two also met individually with the Senate intelligence committee in two..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.trbimg.com/img-59444093/turbine/ct-chicago-cops-deaths-probe-met-20170616"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
     <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaFiPZIN186mHPlY0gcY3zxgCam5ZklktLM2inZBmiXzV5FxRgT6ZNutM"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/toshiba-accounting-idUSL3N1JH2CU</id>
-  <updated>1970-01-18T08:10:50.510Z</updated>
+  <updated>1970-01-18T08:12:25.592Z</updated>
   <title type="html">Japan govt-led group tells Toshiba to fix chip spat with Western ...</title>
   <link href="https://www.reuters.com/article/toshiba-accounting-idUSL3N1JH2CU" title="www.reuters.com"/>
   <summary type="html">The conglomerate had set its sights on choosing a preferred bidder at a board &lt;br&gt;
@@ -394,133 +440,8 @@ meeting on Wednesday, separate &lt;b&gt;sources familiar with&lt;/b&gt; the matt
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html</id>
-  <updated>1970-01-18T08:10:50.510Z</updated>
-  <title type="html">Intel chiefs tell investigators Trump suggested they refute collusion ...</title>
-  <link href="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html" title="www.cnn.com"/>
-  <summary type="html">In classified follow-up meetings with the Senate intelligence committee, they &lt;br&gt;
-were more forthcoming, according to &lt;b&gt;sources familiar with&lt;/b&gt; the closed-door &lt;br&gt;
-session.</summary>
-  <cse:cacheId>_LA6kBm9Hg4J</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/06/22/politics/intel-chiefs.../index.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-06-22T10:01:57Z"/>
-    <cse:Attribute name="pubdate" value="2017-06-22T10:01:57Z"/>
-    <cse:Attribute name="lastmod" value="2017-06-23T03:00:28Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html"/>
-    <cse:Attribute name="author" value="Dana Bash, Evan Perez and Manu Raju, CNN"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/mkraju00"/>
-    <cse:Attribute name="og:title" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians"/>
-    <cse:Attribute name="twitter:title" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians"/>
-    <cse:Attribute name="og:description" value="Two of the nation&apos;s top intelligence officials told Special Counsel Robert Mueller&apos;s team and Senate investigators, in separate meetings last week, that President Donald Trump suggested they say publicly there was no collusion between his campaign and the Russians, according to multiple sources."/>
-    <cse:Attribute name="twitter:description" value="Two of the nation&apos;s top intelligence officials told Special Counsel Robert Mueller&apos;s team and Senate investigators, in separate meetings last week, that President Donald Trump suggested they say publicly there was no collusion between his campaign and the Russians, according to multiple sources."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="1100"/>
-    <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-06-22T10:01:57Z"/>
-    <cse:Attribute name="datepublished" value="2017-06-22T10:01:57Z"/>
-    <cse:Attribute name="datemodified" value="2017-06-23T03:00:28Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html"/>
-    <cse:Attribute name="author" value="Dana Bash, Evan Perez and Manu Raju, CNN"/>
-    <cse:Attribute name="headline" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="Two of the nation&apos;s top intelligence officials told Special Counsel Robert Mueller&apos;s team and Senate investigators, in separate meetings last week, that President Donald Trump suggested they..."/>
-    <cse:Attribute name="keywords" value="politics, Intel chiefs tell investigators Trump suggested they refute collusion with Russians - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians"/>
-    <cse:Attribute name="articlebody" value="Story highlightsCoats and Rogers said interactions with Trump about the Russia investigation were odd, uncomfortableThe two also met individually with the Senate intelligence committee in two..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/06/22/politics/podesta-testify-house-intelligence-panel/index.html</id>
-  <updated>1970-01-18T08:10:50.510Z</updated>
-  <title type="html">House intel panel plans to interview John Podesta - CNNPolitics.com</title>
-  <link href="http://www.cnn.com/2017/06/22/politics/podesta-testify-house-intelligence-panel/index.html" title="www.cnn.com"/>
-  <summary type="html">... chairman whose hacked email account became central to Russian meddling in &lt;br&gt;
-the US election last year, according to multiple &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>lauBwLsG0pgJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/06/22/politics/podesta-testify.../index.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-06-22T21:58:47Z"/>
-    <cse:Attribute name="pubdate" value="2017-06-22T21:58:47Z"/>
-    <cse:Attribute name="lastmod" value="2017-06-22T21:58:47Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/06/22/politics/podesta-testify-house-intelligence-panel/index.html"/>
-    <cse:Attribute name="author" value="Manu Raju and Tom LoBianco, CNN"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/mkraju00"/>
-    <cse:Attribute name="og:title" value="House intel panel plans to interview Podesta"/>
-    <cse:Attribute name="twitter:title" value="House intel panel plans to interview Podesta"/>
-    <cse:Attribute name="og:description" value="The House intelligence committee next week plans to interview John Podesta, Hillary Clinton&apos;s 2016 campaign chairman whose hacked email account became central to Russian meddling in the US election last year, according to multiple sources familiar with the matter."/>
-    <cse:Attribute name="twitter:description" value="The House intelligence committee next week plans to interview John Podesta, Hillary Clinton&apos;s 2016 campaign chairman whose hacked email account became central to Russian meddling in the US election last year, according to multiple sources familiar with the matter."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161030093444-john-podesta-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="1100"/>
-    <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161030093444-john-podesta-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161030093444-john-podesta-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/06/22/politics/podesta-testify-house-intelligence-panel/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-img"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-06-22T21:58:47Z"/>
-    <cse:Attribute name="datepublished" value="2017-06-22T21:58:47Z"/>
-    <cse:Attribute name="datemodified" value="2017-06-22T21:58:47Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/06/22/politics/podesta-testify-house-intelligence-panel/index.html"/>
-    <cse:Attribute name="author" value="Manu Raju and Tom LoBianco, CNN"/>
-    <cse:Attribute name="headline" value="House intel panel plans to interview John Podesta - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="The House intelligence committee next week plans to interview John Podesta, Hillary Clinton&apos;s 2016 campaign chairman whose hacked email account became central to Russian meddling in the US..."/>
-    <cse:Attribute name="keywords" value="politics, House intel panel plans to interview John Podesta - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/161030093444-john-podesta-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/161030093444-john-podesta-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="First on CNN: House intel panel plans to interview Podesta next week, sources say"/>
-    <cse:Attribute name="articlebody" value="Story highlightsThe House intelligence committee sent out requests to interview six witnesses this weekPodesta&apos;s appearance comes days after the panel&apos;s leaders met with Robert Mueller (CNN)The..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161030093444-john-podesta-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/161030093444-john-podesta-super-tease.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/states/new-jersey/story/2017/06/22/sources-christie-offered-to-sign-democratic-spending-priorities-as-part-of-budget-deal-112993?jumpEdition=</id>
-  <updated>1970-01-18T08:10:50.510Z</updated>
+  <updated>1970-01-18T08:12:25.592Z</updated>
   <title type="html">Sources: Christie offered to sign Democratic spending priorities as ...</title>
   <link href="http://www.politico.com/states/new-jersey/story/2017/06/22/sources-christie-offered-to-sign-democratic-spending-priorities-as-part-of-budget-deal-112993?jumpEdition=" title="www.politico.com"/>
   <summary type="html">... to include in their budget - so long as he gets his way on two other proposals &lt;br&gt;
@@ -613,7 +534,7 @@ negotiations.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/ukraine-privatbank-idUSL8N1JI3LK</id>
-  <updated>1970-01-18T08:10:50.510Z</updated>
+  <updated>1970-01-18T08:12:25.592Z</updated>
   <title type="html">Ukraine&amp;#39;s PrivatBank needs $1.5 bln extra capital - sources | Reuters</title>
   <link href="http://www.reuters.com/article/ukraine-privatbank-idUSL8N1JI3LK" title="www.reuters.com"/>
   <summary type="html">... needs a further capital injection of nearly 38.5 billion hryvnias ($1.5 billion) to &lt;br&gt;
@@ -672,66 +593,127 @@ stay afloat, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the bank&
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-rosneft-oil-essar-banks-idUSKBN19E0TP</id>
-  <updated>1970-01-18T08:10:50.510Z</updated>
-  <title type="html">Essar Oil&amp;#39;s creditors approve $12.9 billion Rosneft takeover: sources ...</title>
-  <link href="https://www.reuters.com/article/us-rosneft-oil-essar-banks-idUSKBN19E0TP" title="www.reuters.com"/>
-  <summary type="html">Creditor banks to India&amp;#39;s Essar Oil approved the acquisition of the company by a &lt;br&gt;
-group including Russia&amp;#39;s Rosneft, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said,&amp;nbsp;...</summary>
-  <cse:cacheId>BH38ndo446wJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-rosneft-oil-essar-banks-idUSKBN19E0TP</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19B0Y7</id>
+  <updated>1970-01-18T08:12:25.592Z</updated>
+  <title type="html">Japan government-led group tells Toshiba to fix chip spat with ...</title>
+  <link href="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19B0Y7" title="www.reuters.com"/>
+  <summary type="html">The conglomerate had set its sights on choosing a preferred bidder at a board &lt;br&gt;
+meeting on Wednesday, separate &lt;b&gt;sources familiar with&lt;/b&gt; the matter said. It wants to&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>zSM_GK838I4J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-toshiba-accounting-idUSKBN19B0Y7</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;GCA-Commodities;russia;bank-news;energy-news;oil;power;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Essar+Oil%27s+creditors+approve+%2412.9+billion+Rosneft+takeover%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationIntellectualProperty"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationIntellectualProperty;innovation;top-100-innovators;technologyNews;bank-news;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Japan+government-led+group+tells+Toshiba+to+fix+chip+spat+with+Western+Digital%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Promit Mukherjee and Devidutta Tripathy"/>
+    <cse:Attribute name="dcsext.rauthor" value="Taro Fuse and Se Young Lee"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Promit Mukherjee and Devidutta Tripathy"/>
-    <cse:Attribute name="news_keywords" value="India;Igor Sechin;Ruia;US;ROSNEFT;OIL;ESSAR;BANKS;Investment Banking and Investment Services (TRBC);Banks (TRBC);Energy Markets;Corporate Debt Renegotiation;Mergers / Acquisitions / Takeovers;Russia;Gasoline;Company News;Insurance (TRBC);Crude Oil;Energy (Legacy);Government / Politics;Corporate Events;Oil and Gas (TRBC);Oil and Gas Refining and Marketing (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Divestitures / Spin;Offs;Europe;Banking Services (Legacy);Loans"/>
-    <cse:Attribute name="revision_date" value="Fri Jun 23 08:35:05 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Promit Mukherjee and Devidutta Tripathy"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-23T08:35:05+0000"/>
-    <cse:Attribute name="sailthru.title" value="Essar Oil&apos;s creditors approve $12.9 billion Rosneft takeover: sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationIntellectualProperty"/>
+    <cse:Attribute name="author" value="Taro Fuse and Se Young Lee"/>
+    <cse:Attribute name="news_keywords" value="Japan;United States;Stephen D. Milligan;US;TOSHIBA;ACCOUNTING;Mergers / Acquisitions / Takeovers;Taiwan;Japan;Semiconductors (TRBC);Asia / Pacific;Major News;Restructuring / Reorganization;Accounting Issues;Pictures;United States;Computer Hardware (TRBC);Banks (TRBC);Company News;South Korea;Corporate Events;Electrical Components and Equipment (TRBC);Science;Industrial Conglomerates (TRBC);Technology Equipment (TRBC);Company Management Issues;Banking Services (Legacy);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Tue Jun 20 10:19:31 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Taro Fuse and Se Young Lee"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-20T10:19:31+0000"/>
+    <cse:Attribute name="sailthru.title" value="Japan government-led group tells Toshiba to fix chip spat with Western Digital: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Essar Oil&apos;s creditors approve $12.9 billion Rosneft takeover: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-rosneft-oil-essar-banks-idUSKBN19E0TP"/>
+    <cse:Attribute name="og:title" value="Japan government-led group tells Toshiba to fix chip spat with Western Digital: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19B0Y7"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Creditor banks to India&apos;s Essar Oil approved the acquisition of the company by a group including Russia&apos;s Rosneft, two sources familiar with the matter said, removing a key hurdle to the $12.9 billion deal that has been in the works for two years."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170623&amp;t=2&amp;i=1190212048&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5M0GZ"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-23T08:35:05+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-23T08:35:05+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Promit Mukherjee and Devidutta Tripathy"/>
-    <cse:Attribute name="og:article:tag" value="India,Igor Sechin,Ruia,US,ROSNEFT,OIL,ESSAR,BANKS,Investment Banking and Investment Services (TRBC),Banks (TRBC),Energy Markets,Corporate Debt Renegotiation,Mergers / Acquisitions / Takeovers,Russia,Gasoline,Company News,Insurance (TRBC),Crude Oil,Energy (Legacy),Government / Politics,Corporate Events,Oil and Gas (TRBC),Oil and Gas Refining and Marketing (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Divestitures / Spin,Offs,Europe,Banking Services (Legacy),Loans"/>
+    <cse:Attribute name="og:description" value="A Japanese government-led consortium has told Toshiba Corp it needs to resolve its legal dispute with Western Digital Corp before it will invest in the firm&apos;s chip unit, sources briefed on the matter said."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170620&amp;t=2&amp;i=1189737662&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5J0F6"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-20T10:19:31+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-20T10:19:31+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Taro Fuse and Se Young Lee"/>
+    <cse:Attribute name="og:article:tag" value="Japan,United States,Stephen D. Milligan,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Taiwan,Japan,Semiconductors (TRBC),Asia / Pacific,Major News,Restructuring / Reorganization,Accounting Issues,Pictures,United States,Computer Hardware (TRBC),Banks (TRBC),Company News,South Korea,Corporate Events,Electrical Components and Equipment (TRBC),Science,Industrial Conglomerates (TRBC),Technology Equipment (TRBC),Company Management Issues,Banking Services (Legacy),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Essar Oil&apos;s creditors approve $12.9 billion Rosneft takeover: sources"/>
-    <cse:Attribute name="twitter:description" value="Creditor banks to India&apos;s Essar Oil approved the acquisition of the company by a group including Russia&apos;s Rosneft, two sources familiar with the matter said, removing a key hurdle to the $12.9 billion deal that has been in the works for two years."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170623&amp;t=2&amp;i=1190212048&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5M0GZ"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170623&amp;t=2&amp;i=1190212048&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5M0GZ"/>
+    <cse:Attribute name="twitter:title" value="Japan government-led group tells Toshiba to fix chip spat with Western Digital: sources"/>
+    <cse:Attribute name="twitter:description" value="A Japanese government-led consortium has told Toshiba Corp it needs to resolve its legal dispute with Western Digital Corp before it will invest in the firm&apos;s chip unit, sources briefed on the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170620&amp;t=2&amp;i=1189737662&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5J0F6"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170620&amp;t=2&amp;i=1189737662&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5J0F6"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/innovation/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Innovation and Intellectual Property"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170623&amp;t=2&amp;i=1190212048&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5M0GZ"/>
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170620&amp;t=2&amp;i=1189737662&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5J0F6"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-brazil-venezuela-idUSKBN19A2IO</id>
+  <updated>1970-01-18T08:12:25.592Z</updated>
+  <title type="html">Brazil bans tear gas exports to Venezuela due to violence: sources ...</title>
+  <link href="https://www.reuters.com/article/us-brazil-venezuela-idUSKBN19A2IO" title="www.reuters.com"/>
+  <summary type="html">Brazil&amp;#39;s government has halted exports of tear gas for use in Venezuela due to &lt;br&gt;
+violent repression of protests there, two &lt;b&gt;sources familiar with&lt;/b&gt; the decision said on&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>RwbSkWacRKIJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-brazil-venezuela-idUSKBN19A2IO</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
+    <cse:Attribute name="dcsext.channellist" value="worldNews;china;brazil-news;US-The-Wire;USWire_EL;venezuela-news;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Brazil+bans+tear+gas+exports+to+Venezuela+due+to+violence%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Alonso Soto and Rodrigo Viga Gaier"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
+    <cse:Attribute name="author" value="Alonso Soto and Rodrigo Viga Gaier"/>
+    <cse:Attribute name="news_keywords" value="Brazil;Turkey;Venezuela;Henrique Capriles;Hugo Chavez;Nicolas Maduro;US;BRAZIL;VENEZUELA;Americas;Defense;South America / Central America;International Trade;Picture available;Military Conflicts;Diplomacy / Foreign Policy;Government / Politics;Economic Events;Venezuela;Brazil;General News;Pictures;International / National Security;Conflicts / War / Peace;Civil Unrest;Service Alerts"/>
+    <cse:Attribute name="revision_date" value="Mon Jun 19 19:40:18 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Alonso Soto and Rodrigo Viga Gaier"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-19T19:40:18+0000"/>
+    <cse:Attribute name="sailthru.title" value="Brazil bans tear gas exports to Venezuela due to violence: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Brazil bans tear gas exports to Venezuela due to violence: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-brazil-venezuela-idUSKBN19A2IO"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Brazil&apos;s government has halted exports of tear gas for use in Venezuela due to violent repression of protests there, two sources familiar with the decision said on Monday, a move that added to the diplomatic isolation of Venezuela President Nicolas Maduro."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170619&amp;t=2&amp;i=1189669609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5I1ZH"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-19T19:40:18+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-19T19:40:18+0000"/>
+    <cse:Attribute name="og:article:section" value="World"/>
+    <cse:Attribute name="og:article:author" value="Alonso Soto and Rodrigo Viga Gaier"/>
+    <cse:Attribute name="og:article:tag" value="Brazil,Turkey,Venezuela,Henrique Capriles,Hugo Chavez,Nicolas Maduro,US,BRAZIL,VENEZUELA,Americas,Defense,South America / Central America,International Trade,Picture available,Military Conflicts,Diplomacy / Foreign Policy,Government / Politics,Economic Events,Venezuela,Brazil,General News,Pictures,International / National Security,Conflicts / War / Peace,Civil Unrest,Service Alerts"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Brazil bans tear gas exports to Venezuela due to violence: sources"/>
+    <cse:Attribute name="twitter:description" value="Brazil&apos;s government has halted exports of tear gas for use in Venezuela due to violent repression of protests there, two sources familiar with the decision said on Monday, a move that added to the diplomatic isolation of Venezuela President Nicolas Maduro."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170619&amp;t=2&amp;i=1189669609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5I1ZH"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170619&amp;t=2&amp;i=1189669609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5I1ZH"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
+    <cse:Attribute name="wt.cg_n" value="World"/>
+    <cse:Attribute name="wt.cg_s" value="World"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170619&amp;t=2&amp;i=1189669609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5I1ZH"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="281"/>
+    <cse:Attribute name="width" value="279"/>
     <cse:Attribute name="height" value="180"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUUHojE9lM2fhxd2DZ6eNrJtzP4p7dsXG95S-_jViMoZrNNoYLPS1uo2Q"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRostuE-4rpitdPOW9eXcmURMst-KoKtkCfzP73X1uK1FHmOSnKD2bknv4"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
