@@ -5,391 +5,279 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T08:12:25.592Z</updated>
+ <updated>1970-01-18T08:22:08.769Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8030" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8030" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>8030</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12900" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12900" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>12900</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.264618</cse:searchTime>
-  <cse:formattedSearchTime>0.26</cse:formattedSearchTime>
-  <cse:totalResults>8030</cse:totalResults>
-  <cse:formattedTotalResults>8,030</cse:formattedTotalResults>
+  <cse:searchTime>0.406202</cse:searchTime>
+  <cse:formattedSearchTime>0.41</cse:formattedSearchTime>
+  <cse:totalResults>12900</cse:totalResults>
+  <cse:formattedTotalResults>12,900</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://www.buzzfeed.com/adriancarrasquillo/trump-told-democrats-he-wants-to-do-something-about</id>
-  <updated>1970-01-18T08:12:25.592Z</updated>
-  <title type="html">Trump Told Democrats He Wants To Do Something About Deported ...</title>
-  <link href="https://www.buzzfeed.com/adriancarrasquillo/trump-told-democrats-he-wants-to-do-something-about" title="www.buzzfeed.com"/>
-  <summary type="html">&amp;quot;We should do something about this,&amp;quot; Trump said, according to &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;with&lt;/b&gt; the meeting attended by Democratic Reps. Vicente Gonzalez, Stephanie&amp;nbsp;...</summary>
-  <cse:cacheId>aeHi1b0NcOkJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.buzzfeed.com/.../trump-told-democrats-he-wants-to-do- something-about</cse:formattedUrl>
+  <id>http://www.washingtonexaminer.com/toronto-hotel-to-shed-trump-brand-after-buyout-deal/article/2627258</id>
+  <updated>1970-01-18T08:22:08.769Z</updated>
+  <title type="html">Toronto hotel to shed Trump brand after buyout deal</title>
+  <link href="http://www.washingtonexaminer.com/toronto-hotel-to-shed-trump-brand-after-buyout-deal/article/2627258" title="www.washingtonexaminer.com"/>
+  <summary type="html">Trump Hotel signage may come down as early as August 1, and &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt; the situation told Bloomberg that the hotel will likely become one of Marriott&amp;nbsp;...</summary>
+  <cse:cacheId>kAYxgRzMO28J</cse:cacheId>
+  <cse:formattedUrl type="html">www.washingtonexaminer.com/toronto-hotel-to.../2627258</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="copyright" value="Copyright BuzzFeed, Inc. All rights reserved."/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
-    <cse:Attribute name="referrer" value="unsafe-url"/>
-    <cse:Attribute name="bf:buzzid" value="4562019"/>
-    <cse:Attribute name="title" value="Trump Told Democrats He Wants To Do Something About Deported Veterans. His Staff Was Less Open."/>
-    <cse:Attribute name="apple-mobile-web-app-capable" value="yes"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="BuzzFeed"/>
-    <cse:Attribute name="theme-color" value="#ee3322"/>
-    <cse:Attribute name="author" value="Adrian Carrasquillo"/>
-    <cse:Attribute name="pin:media" value="https://img.buzzfeed.com/buzzfeed-static/static/2017-06/23/12/campaign_images/buzzfeed-prod-fastlane-02/trump-told-democrats-he-wants-to-do-something-abo-2-28362-1498236863-0_dblbig.jpg"/>
-    <cse:Attribute name="pin:description" value="Trump Told Democrats He Wants To Do Something About Deported Veterans. His Staff Was Less Open."/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=352969997"/>
-    <cse:Attribute name="fb:smart_publish:robots" value="noauto"/>
-    <cse:Attribute name="fb:app_id" value="862012947269736"/>
-    <cse:Attribute name="article:author" value="http://facebook.com/adriancarrasquillo"/>
-    <cse:Attribute name="article:tag" value="--has-dateline"/>
-    <cse:Attribute name="article:section" value="Politics"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/BuzzFeed"/>
-    <cse:Attribute name="og:url" value="https://www.buzzfeed.com/adriancarrasquillo/trump-told-democrats-he-wants-to-do-something-about"/>
-    <cse:Attribute name="og:site_name" value="BuzzFeed"/>
-    <cse:Attribute name="og:image" value="https://img.buzzfeed.com/buzzfeed-static/static/2017-06/22/12/asset/buzzfeed-prod-fastlane-02/sub-buzz-10840-1498147551-11.jpg?crop=1600:1053;0,0"/>
-    <cse:Attribute name="og:title" value="Trump Told Democrats He Wants To Do Something About Deported Veterans. His Staff Was Less Open."/>
-    <cse:Attribute name="og:description" value="Sources say Democrats raised the issue of deported veterans in a private dinner last week. The president expressed support for doing something, but his staff quickly told him it was complicated. Democ"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="twitter:app:id:iphone" value="352969997"/>
-    <cse:Attribute name="twitter:app:url:iphone" value="buzzfeed://buzz/adriancarrasquillo/trump-told-democrats-he-wants-to-do-something-about"/>
-    <cse:Attribute name="twitter:app:id:ipad" value="352969997"/>
-    <cse:Attribute name="twitter:app:url:ipad" value="buzzfeed://buzz/adriancarrasquillo/trump-told-democrats-he-wants-to-do-something-about"/>
-    <cse:Attribute name="twitter:site" value="@buzzfeedpol"/>
-    <cse:Attribute name="twitter:creator" value="http://twitter.com/carrasquillo"/>
-    <cse:Attribute name="twitter:url" value="https://www.buzzfeed.com/adriancarrasquillo/trump-told-democrats-he-wants-to-do-something-about"/>
-    <cse:Attribute name="twitter:title" value="Trump Told Democrats He Wants To Do Something About Deported Veterans. His Staff Was Less Open."/>
-    <cse:Attribute name="twitter:description" value="Sources say Democrats raised the issue of deported veterans in a private dinner last week. The president expressed support for doing something, but his staff quickly told him it was complicated. Democ"/>
-    <cse:Attribute name="twitter:app:id:googleplay" value="com.buzzfeed.android"/>
-    <cse:Attribute name="twitter:app:url:googleplay" value="https://www.buzzfeed.com/adriancarrasquillo/trump-told-democrats-he-wants-to-do-something-about"/>
+    <cse:Attribute name="og:url" value="http://www.washingtonexaminer.com/toronto-hotel-to-shed-trump-brand-after-buyout-deal/article/2627258"/>
+    <cse:Attribute name="fb:pages" value="40656699159"/>
+    <cse:Attribute name="twitter:widgets:csp" value="on"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image" value="https://img.buzzfeed.com/buzzfeed-static/static/2017-06/22/12/asset/buzzfeed-prod-fastlane-02/sub-buzz-10840-1498147551-11.jpg?crop=1600:1053;0,0"/>
+    <cse:Attribute name="twitter:site" value="@dcexaminer"/>
+    <cse:Attribute name="short_url" value="http://www.washingtonexaminer.com/article/2627258"/>
+    <cse:Attribute name="dy:url" value="http://www.washingtonexaminer.com/toronto-hotel-to-shed-trump-brand-after-buyout-deal/article/2627258"/>
+    <cse:Attribute name="og:image" value="http://cdn.washingtonexaminer.biz/cache/1060x600-03fc3b20539babf58e97789ada0a16ac.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://cdn.washingtonexaminer.biz/cache/1060x600-03fc3b20539babf58e97789ada0a16ac.jpg"/>
+    <cse:Attribute name="og:title" value="Toronto hotel to shed Trump brand after buyout deal"/>
+    <cse:Attribute name="twitter:title" value="Toronto hotel to shed Trump brand after buyout deal"/>
+    <cse:Attribute name="og:description" value="Sources familiar with the situation told Bloomberg that the hotel will likely become one of Marriott International Inc.&apos;s St. Regis brands."/>
+    <cse:Attribute name="author" value="Leah DePiero"/>
+    <cse:Attribute name="og:author" value="Leah DePiero"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=890150273"/>
+    <cse:Attribute name="fb:app_id" value="190451957673826"/>
+    <cse:Attribute name="fb:admins" value="1285945407"/>
+    <cse:Attribute name="og:site_name" value="Washington Examiner"/>
+    <cse:Attribute name="msvalidate.01" value="0F003B4674EABE0F24651B476B61A43C"/>
+    <cse:Attribute name="bitly-verification" value="cb370c61f734"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="datepublished" value="2017-06-27T16:59:50-04:00"/>
+    <cse:Attribute name="image" value="http://cdn.washingtonexaminer.biz/cache/1060x600-03fc3b20539babf58e97789ada0a16ac.jpg"/>
+    <cse:Attribute name="text" value="The U.S. company that owns the Trump International Hotel &amp; Tower in Toronto will pay President Trump&apos;s business millions of dollars for the right not to use the Trump name on the hotel, Bloomberg..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Leah DePiero"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img.buzzfeed.com/buzzfeed-static/static/2017-06/22/12/asset/buzzfeed-prod-fastlane-02/sub-buzz-10840-1498147551-11.jpg?crop=1600:1053;0,0"/>
+    <cse:Attribute name="src" value="http://cdn.washingtonexaminer.biz/cache/1060x600-03fc3b20539babf58e97789ada0a16ac.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="277"/>
-    <cse:Attribute name="height" value="182"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_oJeWnc6q9H6k1eSXK7WXbyLQ7OhCU_hkvYTkw8ANRfuhf2dKLdzhLw"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="169"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrcoXtP0qUIt-uZDYJqBRwIdXwE6bOZ5tJQ28Fp-_abc5V8ZMd7FZ22s2K"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://time.com/4828306/russian-hacking-election-widespread-private-data/</id>
-  <updated>1970-01-18T08:12:25.592Z</updated>
-  <title type="html">Russian Hacking on Election More Widespread Than Reported ...</title>
-  <link href="http://time.com/4828306/russian-hacking-election-widespread-private-data/" title="time.com"/>
-  <summary type="html">Congressional investigators are probing whether any of this stolen private &lt;br&gt;
-information made its way to the Trump campaign, two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>bnMN98NqNSsJ</cse:cacheId>
-  <cse:formattedUrl type="html">time.com/4828306/russian-hacking-election-widespread-private-data/</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-sprint-corp-m-a-comcast-idUSKBN19I040</id>
+  <updated>1970-01-18T08:22:08.769Z</updated>
+  <title type="html">Charter, Comcast explore wireless partnership with Sprint: sources ...</title>
+  <link href="https://www.reuters.com/article/us-sprint-corp-m-a-comcast-idUSKBN19I040" title="www.reuters.com"/>
+  <summary type="html">... Inc and Comcast Corp about a partnership to boost the two U.S. cable &lt;br&gt;
+companies&amp;#39; wireless offerings, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>ovUrJLoUWlsJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-sprint-corp-m-a-comcast-idUSKBN19I040</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="news_keywords" value="russian hacking, russian hacking election, nsa russian hacking report, evidence of russian hacking, russia hacking election, election hacking, putin hacking election, 2016 election, trump"/>
-    <cse:Attribute name="og:site_name" value="Time"/>
-    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;innovationNews;businessNews;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Charter%2C+Comcast+explore+wireless+partnership+with+Sprint%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow-Video"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Liana B. Baker"/>
+    <cse:Attribute name="news_keywords" value="Germany;United States;Masayoshi Son;US;SPRINT;CORP;M;A;COMCAST;Germany;Americas;Mergers / Acquisitions / Takeovers;Company News;Japan;Diversified Trading and Distributing (TRBC);Content produced in Bangalore;Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Corporate Events;Technology (TRBC);Integrated Telecommunications Services (TRBC);Asia / Pacific;Europe;Science;Industrial Conglomerates (TRBC);Technology / Media / Telecoms;Deals;Broadcasting (TRBC);United States"/>
+    <cse:Attribute name="revision_date" value="Tue Jun 27 19:20:40 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Liana B. Baker"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-27T19:20:40+0000"/>
+    <cse:Attribute name="sailthru.title" value="Charter, Comcast explore wireless partnership with Sprint: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:url" value="http://time.com/4828306/russian-hacking-election-widespread-private-data/"/>
-    <cse:Attribute name="og:title" value="Election Hackers Altered Voter Rolls, Stole Private Data: Officials"/>
-    <cse:Attribute name="author" value="Massimo Calabresi"/>
-    <cse:Attribute name="og:description" value="Including at least one successful attempt to alter voter information."/>
-    <cse:Attribute name="og:image" value="https://timedotcom.files.wordpress.com/2017/05/gettyimages-138711450.jpg?w=720"/>
-    <cse:Attribute name="fb:app_id" value="53177223193"/>
-    <cse:Attribute name="twitter:site" value="@TIME"/>
-    <cse:Attribute name="twitter:title" value="Election Hackers Altered Voter Rolls, Stole Private Data: Officials"/>
-    <cse:Attribute name="twitter:description" value="Including at least one successful attempt to alter voter information."/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Charter, Comcast explore wireless partnership with Sprint: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-sprint-corp-m-a-comcast-idUSKBN19I040"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="U.S. wireless carrier Sprint Corp is in talks with Charter Communications Inc and Comcast Corp about a partnership to boost the two U.S. cable companies&apos; wireless offerings, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170627&amp;t=2&amp;i=1190714700&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5Q1E5"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-27T19:20:40+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-27T19:20:40+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Liana B. Baker"/>
+    <cse:Attribute name="og:article:tag" value="Germany,United States,Masayoshi Son,US,SPRINT,CORP,M,A,COMCAST,Germany,Americas,Mergers / Acquisitions / Takeovers,Company News,Japan,Diversified Trading and Distributing (TRBC),Content produced in Bangalore,Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Corporate Events,Technology (TRBC),Integrated Telecommunications Services (TRBC),Asia / Pacific,Europe,Science,Industrial Conglomerates (TRBC),Technology / Media / Telecoms,Deals,Broadcasting (TRBC),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="article:author" value="http://time.com/author/massimo-calabresi/"/>
+    <cse:Attribute name="twitter:title" value="Charter, Comcast explore wireless partnership with Sprint: sources"/>
+    <cse:Attribute name="twitter:description" value="U.S. wireless carrier Sprint Corp is in talks with Charter Communications Inc and Comcast Corp about a partnership to boost the two U.S. cable companies&apos; wireless offerings, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170627&amp;t=2&amp;i=1190714700&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5Q1E5"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170627&amp;t=2&amp;i=1190714700&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5Q1E5"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://timedotcom.files.wordpress.com/2017/05/gettyimages-138711450.jpg?w=720"/>
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170627&amp;t=2&amp;i=1190714700&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5Q1E5"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSASGkzYDeB2fi2BUsRP5xgZBXb0vWvPLlSPuHCI0SNVg_8ZKO1kkcwEz4I"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUsX3A9Pa_NaH5DvY6eHAw3NETQoxZeO_VpoFtuyKPp1KRT3gQVxMiNQ"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/news/eric-holder-joins-anti-trump-resistance-mulls-presidential-campaign-110025091.html</id>
-  <updated>1970-01-18T08:12:25.592Z</updated>
-  <title type="html">Eric Holder joins the anti-Trump resistance — and mulls a ...</title>
-  <link href="https://www.yahoo.com/news/eric-holder-joins-anti-trump-resistance-mulls-presidential-campaign-110025091.html" title="www.yahoo.com"/>
-  <summary type="html">Now is the time to be heard,” former Attorney General Eric Holder said in an &lt;br&gt;
-exclusive interview with Yahoo News.</summary>
-  <cse:cacheId>o0-YEXNC66kJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../eric-holder-joins-anti-trump-resistance-mulls- presidential-campaign-110025091.html</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-esp-m-a-halliburton-idUSKBN19J13B</id>
+  <updated>1970-01-18T08:22:08.769Z</updated>
+  <title type="html">Exclusive: Halliburton in talks to buy billionaire Kaiser&amp;#39;s equipment ...</title>
+  <link href="https://www.reuters.com/article/us-esp-m-a-halliburton-idUSKBN19J13B" title="www.reuters.com"/>
+  <summary type="html">... a fast-growing U.S. oilfield equipment supplier backed by Oklahoma energy &lt;br&gt;
+and banking billionaire George Kaiser, according to &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter.</summary>
+  <cse:cacheId>mVLJWTox-MkJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-esp-m-a-halliburton-idUSKBN19J13B</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@YahooNews"/>
-    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
-    <cse:Attribute name="news_keywords" value="Donald Trump, Attorney General Eric Holder, President Obama, California, California state Senate, Trump administration, Kevin de Leon"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=a464ded9-0e26-3245-a832-dd8cf9790ffd&amp;src=web"/>
-    <cse:Attribute name="twitter:creator" value="@andrewromano"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="“Now is the time to be heard,” former Attorney General Eric Holder said in an exclusive interview with Yahoo News."/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/ohxgqx3l3qqVY9mp4Y4XQQ--/aD01MTQ7dz03NDQ7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/7471fc0ac398b114370e3e946a94602b"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/ohxgqx3l3qqVY9mp4Y4XQQ--/aD01MTQ7dz03NDQ7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/7471fc0ac398b114370e3e946a94602b"/>
-    <cse:Attribute name="twitter:title" value="Eric Holder joins the anti-Trump resistance — and mulls a presidential campaign of his own"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;businessNews;russia;bank-news;energy-news;power;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Halliburton+in+talks+to+buy+billionaire+Kaiser%27s+equipment+firm+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Gary McWilliams and Liz Hampton"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Gary McWilliams and Liz Hampton"/>
+    <cse:Attribute name="news_keywords" value="Canada;United States;Anand Gnanamoorthy;Frost;George Kaiser;Jeffrey A. Miller;John Kenner;US;ESP;M;A;HALLIBURTON;Energy Markets;Americas (Energy);Mergers / Acquisitions / Takeovers;Russia;Company News;Energy (Legacy);Exclusive;Corporate Events;Banking and Investment Services (TRBC);Major News;Energy (TRBC);Europe;Regulation;Oil Related Services and Equipment (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Wed Jun 28 10:04:56 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Gary McWilliams and Liz Hampton"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-28T10:04:56+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Halliburton in talks to buy billionaire Kaiser&apos;s equipment firm - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Halliburton in talks to buy billionaire Kaiser&apos;s equipment firm - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-esp-m-a-halliburton-idUSKBN19J13B"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="fb:app_id" value="90376669494"/>
-    <cse:Attribute name="al:android:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=a464ded9-0e26-3245-a832-dd8cf9790ffd&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=a464ded9-0e26-3245-a832-dd8cf9790ffd&amp;src=web"/>
-    <cse:Attribute name="og:image:width" value="744"/>
-    <cse:Attribute name="og:image:height" value="514"/>
-    <cse:Attribute name="og:description" value="“Now is the time to be heard,” former Attorney General Eric Holder said in an exclusive interview with Yahoo News."/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/ohxgqx3l3qqVY9mp4Y4XQQ--/aD01MTQ7dz03NDQ7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/7471fc0ac398b114370e3e946a94602b"/>
-    <cse:Attribute name="og:title" value="Eric Holder joins the anti-Trump resistance — and mulls a presidential campaign of his own"/>
-    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/eric-holder-joins-anti-trump-resistance-mulls-presidential-campaign-110025091.html"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Eric Holder joins the anti-Trump resistance — and mulls a presidential campaign of his own"/>
-    <cse:Attribute name="datepublished" value="2017-06-20T11:00:25.000Z"/>
-    <cse:Attribute name="description" value="“Now is the time to be heard,” former Attorney General Eric Holder said in an exclusive interview with Yahoo News."/>
-    <cse:Attribute name="articlesection" value="Politics &amp; Government"/>
-    <cse:Attribute name="genre" value="Politics &amp; Government"/>
-    <cse:Attribute name="thumbnailurl" value="https://s.yimg.com/uu/api/res/1.2/ohxgqx3l3qqVY9mp4Y4XQQ--/aD01MTQ7dz03NDQ7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/7471fc0ac398b114370e3e946a94602b"/>
-    <cse:Attribute name="keywords" value="Donald Trump, Attorney General Eric Holder, President Obama, California, California state Senate, Trump administration, Kevin de Leon"/>
-    <cse:Attribute name="url" value="https://www.yahoo.com/news/eric-holder-joins-anti-trump-resistance-mulls-presidential-campaign-110025091.html"/>
-    <cse:Attribute name="articlebody" value="View photosFormer U.S. Attorney General Eric Holder, left. (Photo: Mark J. Terrill/AP)MoreLOS ANGELES — More than two years after leaving the Obama administration, former Attorney General..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Andrew Romano"/>
-    <cse:Attribute name="jobtitle" value="West Coast Correspondent"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="Yahoo News"/>
-    <cse:Attribute name="url" value="Yahoo News"/>
-    <cse:Attribute name="logo" value="https://s.yimg.com/ny/api/res/1.2/8lT_ir835uOUfiJQCOWnmQ--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODQ7aD04NDtpbD1wbGFuZQ--/https://media.zenfs.com/creatr-images/GLB/2016-10-18/9197dca0-94e1-11e6-9718-4d4a4a2e45f0_US-News.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="514"/>
-    <cse:Attribute name="width" value="744"/>
-    <cse:Attribute name="url" value="https://s.yimg.com/ny/api/res/1.2/_ygWtSRoz24ho1qUUZA0sw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NzQ0O2g9NTE0/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/7471fc0ac398b114370e3e946a94602b"/>
-    <cse:Attribute name="caption" value="Former U.S. Attorney General Eric Holder, left. (Photo: Mark J. Terrill/AP)More"/>
-    <cse:Attribute name="description" value="Former U.S. Attorney General Eric Holder, left. (Photo: Mark J. Terrill/AP)More"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="268"/>
-    <cse:Attribute name="width" value="744"/>
-    <cse:Attribute name="url" value="https://s.yimg.com/g/images/spaceball.gif"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="558"/>
-    <cse:Attribute name="width" value="744"/>
-    <cse:Attribute name="url" value="https://s.yimg.com/g/images/spaceball.gif"/>
-    <cse:Attribute name="caption" value="California state Senate President pro tempore Kevin de Leon, left, and Holder on June 19, 2017, in Los Angeles. (Photo: Andrew Romano/Yahoo News)More"/>
-    <cse:Attribute name="description" value="California state Senate President pro tempore Kevin de Leon, left, and Holder on June 19, 2017, in Los Angeles. (Photo: Andrew Romano/Yahoo News)More"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="321"/>
-    <cse:Attribute name="width" value="744"/>
-    <cse:Attribute name="url" value="https://s.yimg.com/g/images/spaceball.gif"/>
+    <cse:Attribute name="og:description" value="Halliburton Co (HAL.N) is in late-stage talks to acquire a fast-growing U.S. oilfield equipment supplier backed by Oklahoma energy and banking billionaire George Kaiser, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170628&amp;t=2&amp;i=1190820961&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5R0MU"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-28T10:04:56+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-28T10:04:56+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Gary McWilliams and Liz Hampton"/>
+    <cse:Attribute name="og:article:tag" value="Canada,United States,Anand Gnanamoorthy,Frost,George Kaiser,Jeffrey A. Miller,John Kenner,US,ESP,M,A,HALLIBURTON,Energy Markets,Americas (Energy),Mergers / Acquisitions / Takeovers,Russia,Company News,Energy (Legacy),Exclusive,Corporate Events,Banking and Investment Services (TRBC),Major News,Energy (TRBC),Europe,Regulation,Oil Related Services and Equipment (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Halliburton in talks to buy billionaire Kaiser&apos;s equipment firm - sources"/>
+    <cse:Attribute name="twitter:description" value="Halliburton Co (HAL.N) is in late-stage talks to acquire a fast-growing U.S. oilfield equipment supplier backed by Oklahoma energy and banking billionaire George Kaiser, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170628&amp;t=2&amp;i=1190820961&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5R0MU"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170628&amp;t=2&amp;i=1190820961&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5R0MU"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/ohxgqx3l3qqVY9mp4Y4XQQ--/aD01MTQ7dz03NDQ7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/7471fc0ac398b114370e3e946a94602b"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170628&amp;t=2&amp;i=1190820961&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5R0MU"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="270"/>
-    <cse:Attribute name="height" value="187"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsWeDcZfgGu9Y9ti43Vz5aNl0FkzzdHE_NLTYeXF-rQaSrCbwktI56E3cb"/>
+    <cse:Attribute name="width" value="268"/>
+    <cse:Attribute name="height" value="188"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwYx_FvIE17SjmfAHZx7e7dYcdG0qTxgjbAF5gapTuRTBHNiDQFTLgJzQU"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.politico.com/story/2017/06/19/sources-senate-gop-prepared-for-obamacare-repeal-vote-next-week-239726</id>
-  <updated>1970-01-18T08:12:25.592Z</updated>
-  <title type="html">Senate GOP prepares for Obamacare repeal vote next week ...</title>
-  <link href="http://www.politico.com/story/2017/06/19/sources-senate-gop-prepared-for-obamacare-repeal-vote-next-week-239726" title="www.politico.com"/>
-  <summary type="html">Senate Republicans are preparing to vote on Obamacare repeal next week, &lt;br&gt;
-according to multiple &lt;b&gt;sources familiar with&lt;/b&gt; the negotiations, potentially leaving&amp;nbsp;...</summary>
-  <cse:cacheId>wp0ZqhLL4YUJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.politico.com/.../sources-senate-gop-prepared-for-obamacare-repeal- vote-next-week-239726</cse:formattedUrl>
+  <id>https://www.reuters.com/article/mergermarket-ma-gic-idUSL8N1JR3TD</id>
+  <updated>1970-01-18T08:22:08.769Z</updated>
+  <title type="html">Singapore wealth fund GIC to take stake in Mergermarket -sources ...</title>
+  <link href="https://www.reuters.com/article/mergermarket-ma-gic-idUSL8N1JR3TD" title="www.reuters.com"/>
+  <summary type="html">... has agreed to buy around 30 percent of financial news anddata company &lt;br&gt;
+Mergermarket Group from its private equity owner,&lt;b&gt;sources familiar with&lt;/b&gt; the matter &lt;br&gt;
+said.</summary>
+  <cse:cacheId>Eb6s83AAwEUJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../mergermarket-ma-gic-idUSL8N1JR3TD</cse:formattedUrl>
   <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Katelyn Fossett"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/katelyn-fossett"/>
-    <cse:Attribute name="url_text" value="Katelyn Fossett"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Bryan Bender"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/bryan-bender"/>
-    <cse:Attribute name="url_text" value="Bryan Bender"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Burgess Everett"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/burgess-everett"/>
-    <cse:Attribute name="url_text" value="Burgess Everett"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Jennifer Haberkorn"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/jennifer-haberkorn"/>
-    <cse:Attribute name="url_text" value="Jennifer Haberkorn"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Tara Palmeri"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/tara-palmeri"/>
-    <cse:Attribute name="url_text" value="Tara Palmeri"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Andrew Restuccia"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/andrew-restuccia"/>
-    <cse:Attribute name="url_text" value="Andrew Restuccia"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Burgess Everett"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/burgess-everett"/>
-    <cse:Attribute name="url_text" value="Burgess Everett"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Jennifer Haberkorn"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/jennifer-haberkorn"/>
-    <cse:Attribute name="url_text" value="Jennifer Haberkorn"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Tara Palmeri"/>
-   </cse:DataObject>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="og:title" value="Senate GOP prepares for Obamacare repeal vote next week"/>
-    <cse:Attribute name="og:description" value="Republicans are working behind closed doors — and quickly — to finalize a bill and bring it to the floor.&lt;br /&gt;"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
+    <cse:Attribute name="dcsext.channellist" value="Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Singapore+wealth+fund+GIC+to+take+stake+in+Mergermarket+-sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Singapore;United States;MERGERMARKET;MandA/GIC;Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Western Europe;Media and Publishing (TRBC);Equity Investments;Divestitures / Spin;Offs;Asia / Pacific;Singapore;Government Borrowing Requirement;Cyclical Consumer Services (TRBC);Deals;United Kingdom;Media / Publishing (Legacy);Funds;Company News;Financials (TRBC);Financials (Legacy);China (PRC);Corporate Events;Publishing (TRBC);Banking and Investment Services (TRBC);Europe;Cyclical Consumer Goods and Services (TRBC);ASEAN Countries;Technology / Media / Telecoms;Sovereign Wealth Funds;Emerging Market Countries;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Fri Jun 30 14:34:36 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-30T14:34:36+0000"/>
+    <cse:Attribute name="sailthru.title" value="Singapore wealth fund GIC to take stake in Mergermarket -sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Singapore wealth fund GIC to take stake in Mergermarket -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/mergermarket-ma-gic-idUSL8N1JR3TD"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://politi.co/2stG9x4"/>
-    <cse:Attribute name="og:image" value="http://static.politico.com/9a/e3/cd195bc146c2ad80626e786ae2ba/orrin-hatch-gty.jpg"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@politico"/>
-    <cse:Attribute name="twitter:creator" value="@politico"/>
-    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
-    <cse:Attribute name="og:site_name" value="POLITICO"/>
-    <cse:Attribute name="host" value="www.politico.com"/>
-    <cse:Attribute name="build" value="release/2017-Harvey 3471478 2017-06-16T13:52:59Z"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="headline" value="Senate GOP prepares for Obamacare repeal vote next week"/>
-    <cse:Attribute name="datepublished" value="2017-06-19 17:02:53"/>
-    <cse:Attribute name="datemodified" value="2017-06-20T11:16-0400"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="url" value="http://www.politico.com/"/>
-    <cse:Attribute name="name" value="POLITICO"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://static.politico.com/9a/e3/cd195bc146c2ad80626e786ae2ba/orrin-hatch-gty.jpg"/>
-    <cse:Attribute name="width" value="1160"/>
-    <cse:Attribute name="height" value="550"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Burgess Everett"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Tara Palmeri"/>
+    <cse:Attribute name="og:description" value="Singapore sovereign wealth fundGIC has agreed to buy around 30 percent of financial news anddata company Mergermarket Group from its private equity owner,sources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-30T14:34:36+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-30T14:34:36+0000"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Singapore,United States,MERGERMARKET,MandA/GIC,Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Western Europe,Media and Publishing (TRBC),Equity Investments,Divestitures / Spin,Offs,Asia / Pacific,Singapore,Government Borrowing Requirement,Cyclical Consumer Services (TRBC),Deals,United Kingdom,Media / Publishing (Legacy),Funds,Company News,Financials (TRBC),Financials (Legacy),China (PRC),Corporate Events,Publishing (TRBC),Banking and Investment Services (TRBC),Europe,Cyclical Consumer Goods and Services (TRBC),ASEAN Countries,Technology / Media / Telecoms,Sovereign Wealth Funds,Emerging Market Countries,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Singapore wealth fund GIC to take stake in Mergermarket -sources"/>
+    <cse:Attribute name="twitter:description" value="Singapore sovereign wealth fundGIC has agreed to buy around 30 percent of financial news anddata company Mergermarket Group from its private equity owner,sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static.politico.com/9a/e3/cd195bc146c2ad80626e786ae2ba/orrin-hatch-gty.jpg"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="305"/>
-    <cse:Attribute name="height" value="165"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqkvKPBNs77rAYdBtJEI2g5KsXq8FH5He9fsb3CAAys792Se_5J4v8pm8o"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html</id>
-  <updated>1970-01-18T08:12:25.592Z</updated>
-  <title type="html">Intel chiefs tell investigators Trump suggested they refute collusion ...</title>
-  <link href="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html" title="www.cnn.com"/>
-  <summary type="html">In classified follow-up meetings with the Senate intelligence committee, they &lt;br&gt;
-were more forthcoming, according to &lt;b&gt;sources familiar with&lt;/b&gt; the closed-door &lt;br&gt;
-session.</summary>
-  <cse:cacheId>_LA6kBm9Hg4J</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/2017/06/22/politics/intel-chiefs.../index.html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="politics"/>
-    <cse:Attribute name="og:pubdate" value="2017-06-22T10:01:57Z"/>
-    <cse:Attribute name="pubdate" value="2017-06-22T10:01:57Z"/>
-    <cse:Attribute name="lastmod" value="2017-06-23T03:00:28Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html"/>
-    <cse:Attribute name="author" value="Dana Bash, Evan Perez and Manu Raju, CNN"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/mkraju00"/>
-    <cse:Attribute name="og:title" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians"/>
-    <cse:Attribute name="twitter:title" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians"/>
-    <cse:Attribute name="og:description" value="Two of the nation&apos;s top intelligence officials told Special Counsel Robert Mueller&apos;s team and Senate investigators, in separate meetings last week, that President Donald Trump suggested they say publicly there was no collusion between his campaign and the Russians, according to multiple sources."/>
-    <cse:Attribute name="twitter:description" value="Two of the nation&apos;s top intelligence officials told Special Counsel Robert Mueller&apos;s team and Senate investigators, in separate meetings last week, that President Donald Trump suggested they say publicly there was no collusion between his campaign and the Russians, according to multiple sources."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="1100"/>
-    <cse:Attribute name="og:image:height" value="619"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="politics,art-vid"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlesection" value="politics"/>
-    <cse:Attribute name="datecreated" value="2017-06-22T10:01:57Z"/>
-    <cse:Attribute name="datepublished" value="2017-06-22T10:01:57Z"/>
-    <cse:Attribute name="datemodified" value="2017-06-23T03:00:28Z"/>
-    <cse:Attribute name="url" value="http://www.cnn.com/2017/06/22/politics/intel-chiefs-trump-refute-collusion/index.html"/>
-    <cse:Attribute name="author" value="Dana Bash, Evan Perez and Manu Raju, CNN"/>
-    <cse:Attribute name="headline" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians - CNNPolitics.com"/>
-    <cse:Attribute name="description" value="Two of the nation&apos;s top intelligence officials told Special Counsel Robert Mueller&apos;s team and Senate investigators, in separate meetings last week, that President Donald Trump suggested they..."/>
-    <cse:Attribute name="keywords" value="politics, Intel chiefs tell investigators Trump suggested they refute collusion with Russians - CNNPolitics.com"/>
-    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="alternativeheadline" value="Intel chiefs tell investigators Trump suggested they refute collusion with Russians"/>
-    <cse:Attribute name="articlebody" value="Story highlightsCoats and Rogers said interactions with Trump about the Russia investigation were odd, uncomfortableThe two also met individually with the Senate intelligence committee in two..."/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170523090607-02-coats-rogers-file-restricted-super-tease.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/toshiba-accounting-idUSL3N1JH2CU</id>
-  <updated>1970-01-18T08:12:25.592Z</updated>
-  <title type="html">Japan govt-led group tells Toshiba to fix chip spat with Western ...</title>
-  <link href="https://www.reuters.com/article/toshiba-accounting-idUSL3N1JH2CU" title="www.reuters.com"/>
-  <summary type="html">The conglomerate had set its sights on choosing a preferred bidder at a board &lt;br&gt;
-meeting on Wednesday, separate &lt;b&gt;sources familiar with&lt;/b&gt; the matter said. It wants to&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>w4UXQ5LKfPoJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/toshiba-accounting-idUSL3N1JH2CU</cse:formattedUrl>
+  <id>https://www.reuters.com/article/poland-ma-inea-idUSL8N1JR393</id>
+  <updated>1970-01-18T08:22:08.769Z</updated>
+  <title type="html">Warburg Pincus looking to sell Polish cable operator Inea -sources ...</title>
+  <link href="https://www.reuters.com/article/poland-ma-inea-idUSL8N1JR393" title="www.reuters.com"/>
+  <summary type="html">Private equity firm WarburgPincus is considering selling its controlling stake in &lt;br&gt;
+Polishcable operator Inea, &lt;b&gt;sources familiar with&lt;/b&gt; the situation toldReuters.</summary>
+  <cse:cacheId>DN9JG68yZ-IJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/poland-ma-inea-idUSL8N1JR393</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="marketsNews;fundsFundsNews;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Japan+govt-led+group+tells+Toshiba+to+fix+chip+spat+with+Western+Digital+-sources"/>
+    <cse:Attribute name="dcsext.channellist" value="marketsNews;fundsFundsNews;bondsNews;transportation"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Warburg+Pincus+looking+to+sell+Polish+cable+operator+Inea+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
@@ -397,30 +285,30 @@ meeting on Wednesday, separate &lt;b&gt;sources familiar with&lt;/b&gt; the matt
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Japan;United States;Stephen D. Milligan;TOSHIBA;ACCOUNTING/ (PIX);Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Taiwan;Japan;Semiconductors and Semiconductor Equipment (TRBC);Industrial Goods (TRBC);Computers and Office Equipment (TRBC);Semiconductors (TRBC);Asia / Pacific;Major News;Restructuring / Reorganization;Accounting Issues;Industrials (TRBC);Machinery : Equipment and Components (TRBC);Deals;United States;Computer Hardware (TRBC);Americas;Funds;Company News;South Korea;Financials (TRBC);Financials (Legacy);Corporate Events;Technology (TRBC);Corporate Governance;Electrical Components and Equipment (TRBC);Banking and Investment Services (TRBC);Industrial Conglomerates (TRBC);Technology Equipment (TRBC);Technology / Media / Telecoms;Emerging Market Countries;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Tue Jun 20 08:44:31 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Poland;POLAND;MandA/INEA;Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Western Europe;Privatisations;Equity Financing;Media and Publishing (TRBC);Transportation (TRBC);Credit and Corporate Debt;Central / Eastern Europe;Corporate Debt;Hedge Funds;Divestitures / Spin;Offs;Government Borrowing Requirement;Industrials (TRBC);Debt / Fixed Income Markets;Cyclical Consumer Services (TRBC);Deals;United Kingdom;Media / Publishing (Legacy);United States;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Insurance (TRBC);Financials (TRBC);Financials (Legacy);Telecommunications Services (TRBC);Government / Politics;Corporate Events;East European Countries;Banking and Investment Services (TRBC);Europe;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Poland;Broadcasting (TRBC);Emerging Market Countries;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Fri Jun 30 13:38:56 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-20T08:44:31+0000"/>
-    <cse:Attribute name="sailthru.title" value="Japan govt-led group tells Toshiba to fix chip spat with Western Digital -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-30T13:38:56+0000"/>
+    <cse:Attribute name="sailthru.title" value="Warburg Pincus looking to sell Polish cable operator Inea -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Japan govt-led group tells Toshiba to fix chip spat with Western Digital -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/toshiba-accounting-idUSL3N1JH2CU"/>
+    <cse:Attribute name="og:title" value="Warburg Pincus looking to sell Polish cable operator Inea -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/poland-ma-inea-idUSL8N1JR393"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="A Japanese government-ledconsortium has told Toshiba Corp it needs to resolveits legal dispute with Western Digital Corp before itwill invest in the firm&apos;s chip unit, sources briefed on thematter said."/>
+    <cse:Attribute name="og:description" value="Private equity firm WarburgPincus is considering selling its controlling stake in Polishcable operator Inea, sources familiar with the situation toldReuters."/>
     <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-20T08:44:31+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-20T08:44:31+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-30T13:38:56+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-30T13:38:56+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Japan,United States,Stephen D. Milligan,TOSHIBA,ACCOUNTING/ (PIX),Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Taiwan,Japan,Semiconductors and Semiconductor Equipment (TRBC),Industrial Goods (TRBC),Computers and Office Equipment (TRBC),Semiconductors (TRBC),Asia / Pacific,Major News,Restructuring / Reorganization,Accounting Issues,Industrials (TRBC),Machinery : Equipment and Components (TRBC),Deals,United States,Computer Hardware (TRBC),Americas,Funds,Company News,South Korea,Financials (TRBC),Financials (Legacy),Corporate Events,Technology (TRBC),Corporate Governance,Electrical Components and Equipment (TRBC),Banking and Investment Services (TRBC),Industrial Conglomerates (TRBC),Technology Equipment (TRBC),Technology / Media / Telecoms,Emerging Market Countries,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="og:article:tag" value="Poland,POLAND,MandA/INEA,Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Western Europe,Privatisations,Equity Financing,Media and Publishing (TRBC),Transportation (TRBC),Credit and Corporate Debt,Central / Eastern Europe,Corporate Debt,Hedge Funds,Divestitures / Spin,Offs,Government Borrowing Requirement,Industrials (TRBC),Debt / Fixed Income Markets,Cyclical Consumer Services (TRBC),Deals,United Kingdom,Media / Publishing (Legacy),United States,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Insurance (TRBC),Financials (TRBC),Financials (Legacy),Telecommunications Services (TRBC),Government / Politics,Corporate Events,East European Countries,Banking and Investment Services (TRBC),Europe,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Poland,Broadcasting (TRBC),Emerging Market Countries,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Japan govt-led group tells Toshiba to fix chip spat with Western Digital -sources"/>
-    <cse:Attribute name="twitter:description" value="A Japanese government-ledconsortium has told Toshiba Corp it needs to resolveits legal dispute with Western Digital Corp before itwill invest in the firm&apos;s chip unit, sources briefed on thematter said."/>
+    <cse:Attribute name="twitter:title" value="Warburg Pincus looking to sell Polish cable operator Inea -sources"/>
+    <cse:Attribute name="twitter:description" value="Private equity firm WarburgPincus is considering selling its controlling stake in Polishcable operator Inea, sources familiar with the situation toldReuters."/>
     <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
@@ -440,147 +328,59 @@ meeting on Wednesday, separate &lt;b&gt;sources familiar with&lt;/b&gt; the matt
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.politico.com/states/new-jersey/story/2017/06/22/sources-christie-offered-to-sign-democratic-spending-priorities-as-part-of-budget-deal-112993?jumpEdition=</id>
-  <updated>1970-01-18T08:12:25.592Z</updated>
-  <title type="html">Sources: Christie offered to sign Democratic spending priorities as ...</title>
-  <link href="http://www.politico.com/states/new-jersey/story/2017/06/22/sources-christie-offered-to-sign-democratic-spending-priorities-as-part-of-budget-deal-112993?jumpEdition=" title="www.politico.com"/>
-  <summary type="html">... to include in their budget - so long as he gets his way on two other proposals &lt;br&gt;
-that he wants to get passed, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-negotiations.</summary>
-  <cse:cacheId>qJtydMyXErkJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.politico.com/.../sources-christie-offered-to-sign-democratic-spending- priorities-as-part-of-budget-deal-112993?...</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Ryan Hutchins"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/ryan-hutchins"/>
-    <cse:Attribute name="url_text" value="Ryan Hutchins"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/56bf120/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-187951.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Matt Friedman"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/matt-friedman"/>
-    <cse:Attribute name="url_text" value="Matt Friedman"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/8f94569/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F32%2Fa2%2F0d9ddf574a4fadbf443c4503ff4a%2Fmatt-friedman-staff-photo-2017.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="David Giambusso"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-york/staff/david-giambusso"/>
-    <cse:Attribute name="url_text" value="David Giambusso"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/2c0604e/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-188039.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Katie Jennings"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/katie-jennings"/>
-    <cse:Attribute name="url_text" value="Katie Jennings"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/884e0d3/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F7d%2Fd8%2F72287de841429e46667b3687e2ab%2Fkatie-jennings-staff-photo-2017.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Katherine Landergan"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/katherine-landergan"/>
-    <cse:Attribute name="url_text" value="Katherine Landergan"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/fcf69a1/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-193181.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Conor Skelding"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/staff/conor-skelding"/>
-    <cse:Attribute name="url_text" value="Conor Skelding"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/125faf0/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fdb%2F60%2F8d8b3da142cc9f6ae08fbcc18a65%2Fconor-skelding-staff-photo-2017.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Linh Tat"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/linh-tat"/>
-    <cse:Attribute name="url_text" value="Linh Tat"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/e7cc519/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-192922.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Ryan Hutchins"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/ryan-hutchins"/>
-    <cse:Attribute name="url_text" value="Ryan Hutchins"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Ryan Hutchins"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/ryan-hutchins"/>
-    <cse:Attribute name="url_text" value="Ryan Hutchins"/>
-   </cse:DataObject>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="og:title" value="Sources: Christie offered to sign Democratic spending priorities as part of budget deal"/>
-    <cse:Attribute name="og:description" value="&lt;p&gt;TRENTON - Gov. Chris Christie offered to sign most of the $200 million in spending proposals that Democratic lawmakers want to include in their budget - so long as he gets his way on two other proposals that he wants to get passed, according to two sources familiar with the negotiations.&lt;/p&gt;"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="Politico PRO"/>
-    <cse:Attribute name="host" value="www.politico.com"/>
-    <cse:Attribute name="build" value="release/2017-Harvey 3471478 2017-06-16T13:52:59Z"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="headline" value="Sources: Christie offered to sign Democratic spending priorities as part of budget deal"/>
-    <cse:Attribute name="datepublished" value="2017-06-22 16:43:37"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="url" value="http://www.politico.com/"/>
-    <cse:Attribute name="name" value="POLITICO"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Ryan Hutchins"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static.politico.com/dims4/default/fcf69a1/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-193181.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="78"/>
-    <cse:Attribute name="height" value="78"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKZLDQqE9kWd9IufJrf0BFUxQhQMyRWdoxGrzQw4tpgCrKzbWepLly"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/ukraine-privatbank-idUSL8N1JI3LK</id>
-  <updated>1970-01-18T08:12:25.592Z</updated>
-  <title type="html">Ukraine&amp;#39;s PrivatBank needs $1.5 bln extra capital - sources | Reuters</title>
-  <link href="http://www.reuters.com/article/ukraine-privatbank-idUSL8N1JI3LK" title="www.reuters.com"/>
-  <summary type="html">... needs a further capital injection of nearly 38.5 billion hryvnias ($1.5 billion) to &lt;br&gt;
-stay afloat, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the bank&amp;#39;s financial position.</summary>
-  <cse:cacheId>nNaSbDHxl7QJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/ukraine-privatbank-idUSL8N1JI3LK</cse:formattedUrl>
+  <id>https://www.reuters.com/article/ecb-policy-idUSL8N1JP2WS</id>
+  <updated>1970-01-18T08:22:08.769Z</updated>
+  <title type="html">ECB chief was overinterpreted by skittish markets: sources | Reuters</title>
+  <link href="https://www.reuters.com/article/ecb-policy-idUSL8N1JP2WS" title="www.reuters.com"/>
+  <summary type="html">... a period of weaker inflation, not an imminent policy tightening, when his &lt;br&gt;
+comments sent the euro higher this week, &lt;b&gt;sources familiar with&lt;/b&gt; Draghi&amp;#39;s thinking &lt;br&gt;
+said.</summary>
+  <cse:cacheId>abmn1bdybHQJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/ecb-policy-idUSL8N1JP2WS</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
-    <cse:Attribute name="dcsext.channellist" value="Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Ukraine%27s+PrivatBank+needs+%241.5+bln+extra+capital+-+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="marketsNews;bondsNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="ECB+chief+was+overinterpreted+by+skittish+markets%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Ukraine;Ihor Kolomoisky;Viktor Yanukovich;UKRAINE;PRIVATBANK/;Investment Banking and Investment Services (TRBC);Ukraine;Credit and Corporate Debt;Central / Eastern Europe;Corporate Debt;Debt / Fixed Income Markets;Equity;Linked Bonds;Loans;Banking Services (TRBC);Banks (TRBC);Corporate Debt Renegotiation;Government Finances;Financials (TRBC);CIS Countries;Financials (Legacy);Government / Politics;Central Banks / Central Bank Events;Corporate Events;Economic Events;General News;East European Countries;Banking and Investment Services (TRBC);Europe;Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Wed Jun 21 13:17:45 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Mario Draghi;ECB;POLICY/;Germany;Western Europe;Central / Eastern Europe;Currencies / Foreign Exchange Markets;Interest Rates / Policy;Asset;Backed Securities;Major News;Debt / Fixed Income Markets;Monetary / Fiscal Policy / Policy Makers;International Agencies / Treaty Groups;Banking Services (TRBC);Banks (TRBC);European Central Bank;Financials (TRBC);Financials (Legacy);Government / Politics;Central Banks / Central Bank Events;Corporate Events;Economic Events;Euro Zone;European Union;General News;National Government Debt;Banking and Investment Services (TRBC);Euro Zone as a Whole;Money Markets;Europe;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Wed Jun 28 12:31:16 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-21T13:17:45+0000"/>
-    <cse:Attribute name="sailthru.title" value="Ukraine&apos;s PrivatBank needs $1.5 bln extra capital - sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-28T12:31:16+0000"/>
+    <cse:Attribute name="sailthru.title" value="ECB chief was overinterpreted by skittish markets: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Ukraine&apos;s PrivatBank needs $1.5 bln extra capital - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/ukraine-privatbank-idUSL8N1JI3LK"/>
+    <cse:Attribute name="og:title" value="ECB chief was overinterpreted by skittish markets: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/ecb-policy-idUSL8N1JP2WS"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Ukraine&apos;s largest lenderPrivatBank, which was nationalised last December, needs afurther capital injection of nearly 38.5 billion hryvnias ($1.5billion) to stay afloat, according to two sources familiar withthe bank&apos;s financial position."/>
+    <cse:Attribute name="og:description" value="European Central BankPresident Mario Draghi intended to signal tolerance for a periodof weaker inflation, not an imminent policy tightening, when hiscomments sent the euro higher this week, sources familiar withDraghi&apos;s thinking said."/>
     <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-21T13:17:45+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-21T13:17:45+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-28T12:31:16+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-28T12:31:16+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Ukraine,Ihor Kolomoisky,Viktor Yanukovich,UKRAINE,PRIVATBANK/,Investment Banking and Investment Services (TRBC),Ukraine,Credit and Corporate Debt,Central / Eastern Europe,Corporate Debt,Debt / Fixed Income Markets,Equity,Linked Bonds,Loans,Banking Services (TRBC),Banks (TRBC),Corporate Debt Renegotiation,Government Finances,Financials (TRBC),CIS Countries,Financials (Legacy),Government / Politics,Central Banks / Central Bank Events,Corporate Events,Economic Events,General News,East European Countries,Banking and Investment Services (TRBC),Europe,Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="og:article:tag" value="Mario Draghi,ECB,POLICY/,Germany,Western Europe,Central / Eastern Europe,Currencies / Foreign Exchange Markets,Interest Rates / Policy,Asset,Backed Securities,Major News,Debt / Fixed Income Markets,Monetary / Fiscal Policy / Policy Makers,International Agencies / Treaty Groups,Banking Services (TRBC),Banks (TRBC),European Central Bank,Financials (TRBC),Financials (Legacy),Government / Politics,Central Banks / Central Bank Events,Corporate Events,Economic Events,Euro Zone,European Union,General News,National Government Debt,Banking and Investment Services (TRBC),Euro Zone as a Whole,Money Markets,Europe,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Ukraine&apos;s PrivatBank needs $1.5 bln extra capital - sources"/>
-    <cse:Attribute name="twitter:description" value="Ukraine&apos;s largest lenderPrivatBank, which was nationalised last December, needs afurther capital injection of nearly 38.5 billion hryvnias ($1.5billion) to stay afloat, according to two sources familiar withthe bank&apos;s financial position."/>
+    <cse:Attribute name="twitter:title" value="ECB chief was overinterpreted by skittish markets: sources"/>
+    <cse:Attribute name="twitter:description" value="European Central BankPresident Mario Draghi intended to signal tolerance for a periodof weaker inflation, not an imminent policy tightening, when hiscomments sent the euro higher this week, sources familiar withDraghi&apos;s thinking said."/>
     <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -593,127 +393,249 @@ stay afloat, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the bank&
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19B0Y7</id>
-  <updated>1970-01-18T08:12:25.592Z</updated>
-  <title type="html">Japan government-led group tells Toshiba to fix chip spat with ...</title>
-  <link href="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19B0Y7" title="www.reuters.com"/>
-  <summary type="html">The conglomerate had set its sights on choosing a preferred bidder at a board &lt;br&gt;
-meeting on Wednesday, separate &lt;b&gt;sources familiar with&lt;/b&gt; the matter said. It wants to&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>zSM_GK838I4J</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-toshiba-accounting-idUSKBN19B0Y7</cse:formattedUrl>
+  <id>http://nypost.com/2017/06/28/cnn-boss-in-crosshairs-if-att-time-warner-merger-approved/</id>
+  <updated>1970-01-18T08:22:08.769Z</updated>
+  <title type="html">CNN boss in crosshairs if AT&amp;amp;T-Time Warner merger approved ...</title>
+  <link href="http://nypost.com/2017/06/28/cnn-boss-in-crosshairs-if-att-time-warner-merger-approved/" title="nypost.com"/>
+  <summary type="html">... the federal probe of possible collusion between President Trump&amp;#39;s campaign &lt;br&gt;
+and Russia, according to three &lt;b&gt;sources familiar with&lt;/b&gt; the thinking of AT&amp;amp;T brass.</summary>
+  <cse:cacheId>g-JIrqOCGZcJ</cse:cacheId>
+  <cse:formattedUrl type="html">nypost.com/.../cnn-boss-in-crosshairs-if-att-time-warner-merger-approved/</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationIntellectualProperty"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationIntellectualProperty;innovation;top-100-innovators;technologyNews;bank-news;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Japan+government-led+group+tells+Toshiba+to+fix+chip+spat+with+Western+Digital%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Taro Fuse and Se Young Lee"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationIntellectualProperty"/>
-    <cse:Attribute name="author" value="Taro Fuse and Se Young Lee"/>
-    <cse:Attribute name="news_keywords" value="Japan;United States;Stephen D. Milligan;US;TOSHIBA;ACCOUNTING;Mergers / Acquisitions / Takeovers;Taiwan;Japan;Semiconductors (TRBC);Asia / Pacific;Major News;Restructuring / Reorganization;Accounting Issues;Pictures;United States;Computer Hardware (TRBC);Banks (TRBC);Company News;South Korea;Corporate Events;Electrical Components and Equipment (TRBC);Science;Industrial Conglomerates (TRBC);Technology Equipment (TRBC);Company Management Issues;Banking Services (Legacy);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Tue Jun 20 10:19:31 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Taro Fuse and Se Young Lee"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-20T10:19:31+0000"/>
-    <cse:Attribute name="sailthru.title" value="Japan government-led group tells Toshiba to fix chip spat with Western Digital: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Japan government-led group tells Toshiba to fix chip spat with Western Digital: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19B0Y7"/>
+    <cse:Attribute name="copyright" value="Copyright 2017 NYP Holdings. All rights reserved."/>
+    <cse:Attribute name="p:domain_verify" value="44b526edc36ffbcc163412ee9fe42833"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="A Japanese government-led consortium has told Toshiba Corp it needs to resolve its legal dispute with Western Digital Corp before it will invest in the firm&apos;s chip unit, sources briefed on the matter said."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170620&amp;t=2&amp;i=1189737662&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5J0F6"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-20T10:19:31+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-20T10:19:31+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Taro Fuse and Se Young Lee"/>
-    <cse:Attribute name="og:article:tag" value="Japan,United States,Stephen D. Milligan,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Taiwan,Japan,Semiconductors (TRBC),Asia / Pacific,Major News,Restructuring / Reorganization,Accounting Issues,Pictures,United States,Computer Hardware (TRBC),Banks (TRBC),Company News,South Korea,Corporate Events,Electrical Components and Equipment (TRBC),Science,Industrial Conglomerates (TRBC),Technology Equipment (TRBC),Company Management Issues,Banking Services (Legacy),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:title" value="CNN boss in crosshairs if AT&amp;T-Time Warner merger approved"/>
+    <cse:Attribute name="og:url" value="http://nypost.com/2017/06/28/cnn-boss-in-crosshairs-if-att-time-warner-merger-approved/"/>
+    <cse:Attribute name="og:description" value="AT&amp;T will look to “neutralize” CNN President Jeff Zucker after it buys Time Warner, The Post has learned. The buzz from the telecommunications giant comes as CNN is being slammed for highly pub…"/>
+    <cse:Attribute name="article:published_time" value="2017-06-29T01:45:25+00:00"/>
+    <cse:Attribute name="article:modified_time" value="2017-06-29T03:07:26+00:00"/>
+    <cse:Attribute name="og:site_name" value="New York Post"/>
+    <cse:Attribute name="og:image:width" value="1200"/>
+    <cse:Attribute name="og:image:height" value="800"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="twitter:site" value="@nypost"/>
+    <cse:Attribute name="twitter:text:title" value="CNN boss in crosshairs if AT&amp;T-Time Warner merger approved"/>
+    <cse:Attribute name="twitter:image:src" value="https://thenypost.files.wordpress.com/2017/06/zucker.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Japan government-led group tells Toshiba to fix chip spat with Western Digital: sources"/>
-    <cse:Attribute name="twitter:description" value="A Japanese government-led consortium has told Toshiba Corp it needs to resolve its legal dispute with Western Digital Corp before it will invest in the firm&apos;s chip unit, sources briefed on the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170620&amp;t=2&amp;i=1189737662&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5J0F6"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170620&amp;t=2&amp;i=1189737662&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5J0F6"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/innovation/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Innovation and Intellectual Property"/>
+    <cse:Attribute name="twitter:creator" value="@nypost"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/nypost"/>
+    <cse:Attribute name="twitter:title" value="CNN boss in crosshairs if AT&amp;T-Time Warner merger approved"/>
+    <cse:Attribute name="twitter:description" value="AT&amp;T will look to “neutralize” CNN President Jeff Zucker after it buys Time Warner, The Post has learned. The buzz from the telecommunications giant comes as CNN is being slammed for highly"/>
+    <cse:Attribute name="twitter:image" value="https://thenypost.files.wordpress.com/2017/06/zucker.jpg?quality=90&amp;strip=all&amp;w=664&amp;h=441&amp;crop=1"/>
+    <cse:Attribute name="og:image" value="https://thenypost.files.wordpress.com/2017/06/zucker.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+    <cse:Attribute name="og:image:secure_url" value="https://i1.wp.com/thenypost.files.wordpress.com/2017/06/zucker.jpg?quality=90&amp;strip=all&amp;ssl=1"/>
+    <cse:Attribute name="fb:pages" value="134486075205"/>
+    <cse:Attribute name="nypost-section" value="Media"/>
+    <cse:Attribute name="parsely-metadata" value="{&quot;post_id&quot;:&quot;nypost-11059691&quot;}"/>
+    <cse:Attribute name="news_keywords" value="Media,at&amp;t,cnn,jeff zucker,journalism,justice department,mergers &amp; acquisitions,time warner"/>
+    <cse:Attribute name="msvalidate.01" value="8188997BC82071CE07AB711B5675CE54"/>
+    <cse:Attribute name="application-name" value="New York Post"/>
+    <cse:Attribute name="msapplication-window" value="width=device-width;height=device-height"/>
+    <cse:Attribute name="msapplication-tooltip" value="Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more."/>
+    <cse:Attribute name="msapplication-task" value="name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170620&amp;t=2&amp;i=1189737662&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5J0F6"/>
+    <cse:Attribute name="src" value="https://thenypost.files.wordpress.com/2017/06/zucker.jpg?quality=90&amp;strip=all&amp;w=1200"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSos0QR2bq143q0Is0CVejq0ka8PjsACVKrmEHQzvFFkeywyUQ-dCbCWR8"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-brazil-venezuela-idUSKBN19A2IO</id>
-  <updated>1970-01-18T08:12:25.592Z</updated>
-  <title type="html">Brazil bans tear gas exports to Venezuela due to violence: sources ...</title>
-  <link href="https://www.reuters.com/article/us-brazil-venezuela-idUSKBN19A2IO" title="www.reuters.com"/>
-  <summary type="html">Brazil&amp;#39;s government has halted exports of tear gas for use in Venezuela due to &lt;br&gt;
-violent repression of protests there, two &lt;b&gt;sources familiar with&lt;/b&gt; the decision said on&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>RwbSkWacRKIJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-brazil-venezuela-idUSKBN19A2IO</cse:formattedUrl>
+  <id>https://www.reuters.com/article/ecb-policy-idUSL8N1JP3B0</id>
+  <updated>1970-01-18T08:22:08.769Z</updated>
+  <title type="html">UPDATE 2-ECB chief was overinterpreted by markets: sources ...</title>
+  <link href="https://www.reuters.com/article/ecb-policy-idUSL8N1JP3B0" title="www.reuters.com"/>
+  <summary type="html">... inflation, not an imminent policy tightening, when his comments sent the euro &lt;br&gt;
+higher this week, &lt;b&gt;sources familiar with&lt;/b&gt; Draghi&amp;#39;s thinking said on Wednesday.</summary>
+  <cse:cacheId>c0mmXIbzfDkJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/ecb-policy-idUSL8N1JP3B0</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="worldNews;china;brazil-news;US-The-Wire;USWire_EL;venezuela-news;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Brazil+bans+tear+gas+exports+to+Venezuela+due+to+violence%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="marketsNews;bondsNews;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+2-ECB+chief+was+overinterpreted+by+markets%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Alonso Soto and Rodrigo Viga Gaier"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
-    <cse:Attribute name="author" value="Alonso Soto and Rodrigo Viga Gaier"/>
-    <cse:Attribute name="news_keywords" value="Brazil;Turkey;Venezuela;Henrique Capriles;Hugo Chavez;Nicolas Maduro;US;BRAZIL;VENEZUELA;Americas;Defense;South America / Central America;International Trade;Picture available;Military Conflicts;Diplomacy / Foreign Policy;Government / Politics;Economic Events;Venezuela;Brazil;General News;Pictures;International / National Security;Conflicts / War / Peace;Civil Unrest;Service Alerts"/>
-    <cse:Attribute name="revision_date" value="Mon Jun 19 19:40:18 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Alonso Soto and Rodrigo Viga Gaier"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-19T19:40:18+0000"/>
-    <cse:Attribute name="sailthru.title" value="Brazil bans tear gas exports to Venezuela due to violence: sources"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Portugal;United States;Ben Bernanke;Mario Draghi;ECB;POLICY/ (UPDATE 2);Germany;Western Europe;Central / Eastern Europe;Currencies / Foreign Exchange Markets;Interest Rates / Policy;Asset;Backed Securities;Major News;Debt / Fixed Income Markets;Monetary / Fiscal Policy / Policy Makers;International Agencies / Treaty Groups;Banking Services (TRBC);Banks (TRBC);European Central Bank;Financials (TRBC);Financials (Legacy);Government / Politics;Central Banks / Central Bank Events;Corporate Events;Economic Events;Euro Zone;European Union;General News;National Government Debt;Banking and Investment Services (TRBC);Euro Zone as a Whole;Money Markets;Europe;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Wed Jun 28 13:19:04 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-28T13:19:04+0000"/>
+    <cse:Attribute name="sailthru.title" value="UPDATE 2-ECB chief was overinterpreted by markets: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Brazil bans tear gas exports to Venezuela due to violence: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-brazil-venezuela-idUSKBN19A2IO"/>
+    <cse:Attribute name="og:title" value="UPDATE 2-ECB chief was overinterpreted by markets: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/ecb-policy-idUSL8N1JP3B0"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Brazil&apos;s government has halted exports of tear gas for use in Venezuela due to violent repression of protests there, two sources familiar with the decision said on Monday, a move that added to the diplomatic isolation of Venezuela President Nicolas Maduro."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170619&amp;t=2&amp;i=1189669609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5I1ZH"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-19T19:40:18+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-19T19:40:18+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
-    <cse:Attribute name="og:article:author" value="Alonso Soto and Rodrigo Viga Gaier"/>
-    <cse:Attribute name="og:article:tag" value="Brazil,Turkey,Venezuela,Henrique Capriles,Hugo Chavez,Nicolas Maduro,US,BRAZIL,VENEZUELA,Americas,Defense,South America / Central America,International Trade,Picture available,Military Conflicts,Diplomacy / Foreign Policy,Government / Politics,Economic Events,Venezuela,Brazil,General News,Pictures,International / National Security,Conflicts / War / Peace,Civil Unrest,Service Alerts"/>
+    <cse:Attribute name="og:description" value="European Central BankPresident Mario Draghi intended to signal tolerance for a periodof weaker inflation, not an imminent policy tightening, when hiscomments sent the euro higher this week, sources familiar withDraghi&apos;s thinking said on Wednesday."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-28T13:19:04+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-28T13:19:04+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Portugal,United States,Ben Bernanke,Mario Draghi,ECB,POLICY/ (UPDATE 2),Germany,Western Europe,Central / Eastern Europe,Currencies / Foreign Exchange Markets,Interest Rates / Policy,Asset,Backed Securities,Major News,Debt / Fixed Income Markets,Monetary / Fiscal Policy / Policy Makers,International Agencies / Treaty Groups,Banking Services (TRBC),Banks (TRBC),European Central Bank,Financials (TRBC),Financials (Legacy),Government / Politics,Central Banks / Central Bank Events,Corporate Events,Economic Events,Euro Zone,European Union,General News,National Government Debt,Banking and Investment Services (TRBC),Euro Zone as a Whole,Money Markets,Europe,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Brazil bans tear gas exports to Venezuela due to violence: sources"/>
-    <cse:Attribute name="twitter:description" value="Brazil&apos;s government has halted exports of tear gas for use in Venezuela due to violent repression of protests there, two sources familiar with the decision said on Monday, a move that added to the diplomatic isolation of Venezuela President Nicolas Maduro."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170619&amp;t=2&amp;i=1189669609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5I1ZH"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170619&amp;t=2&amp;i=1189669609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5I1ZH"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="UPDATE 2-ECB chief was overinterpreted by markets: sources"/>
+    <cse:Attribute name="twitter:description" value="European Central BankPresident Mario Draghi intended to signal tolerance for a periodof weaker inflation, not an imminent policy tightening, when hiscomments sent the euro higher this week, sources familiar withDraghi&apos;s thinking said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170619&amp;t=2&amp;i=1189669609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5I1ZH"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="279"/>
-    <cse:Attribute name="height" value="180"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRostuE-4rpitdPOW9eXcmURMst-KoKtkCfzP73X1uK1FHmOSnKD2bknv4"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/wesfarmers-australia-coal-idUSL8N1JR1ZX</id>
+  <updated>1970-01-18T08:22:08.769Z</updated>
+  <title type="html">Wesfarmers coal mine sale cools off, bidders drop out - sources ...</title>
+  <link href="https://www.reuters.com/article/wesfarmers-australia-coal-idUSL8N1JR1ZX" title="www.reuters.com"/>
+  <summary type="html">... buy the Curragh coking coal mine in Australia from conglomerate Wesfarmers &lt;br&gt;
+Ltd has dropped out, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on Friday.</summary>
+  <cse:cacheId>YgJzwuzz2FUJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../wesfarmers-australia-coal-idUSL8N1JR1ZX</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="marketsNews;energy-news;metals-news;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Wesfarmers+coal+mine+sale+cools+off%2C+bidders+drop+out+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="United States;Ernie L. Thrasher;WESFARMERS;AUSTRALIA/COAL;Investment Banking and Investment Services (TRBC);Retailers (Legacy);Energy Markets;Precious Metals and Minerals (TRBC);Diversified Trading and Distributing (TRBC);Coal (TRBC);Specialty Mining and Metals (TRBC);Deals;All Retail;United States;Basic Materials (TRBC);Americas;Company News;South America / Central America;Power Markets;Mining;Australia;Metals Markets;Energy (TRBC);Metals and Mining (TRBC);Diversified Retail (TRBC);Industrial Conglomerates (TRBC);Investment Management and Fund Operators (TRBC);Mergers / Acquisitions / Takeovers;Japan;Western Europe;Energy (Legacy);Base Metals;Oil and Gas Exploration and Production (TRBC);Brazil;Retailers excl Food and Drug Specialists (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Coal;Government Borrowing Requirement;Industrials (TRBC);Department Stores (TRBC);United Kingdom;Commodities Markets;Iron and Steel (TRBC);Financials (TRBC);Financials (Legacy);All Precious Metals and Minerals;Corporate Events;Oil "/>
+    <cse:Attribute name="revision_date" value="Fri Jun 30 10:25:03 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-30T10:25:03+0000"/>
+    <cse:Attribute name="sailthru.title" value="Wesfarmers coal mine sale cools off, bidders drop out - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Wesfarmers coal mine sale cools off, bidders drop out - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/wesfarmers-australia-coal-idUSL8N1JR1ZX"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The final groupattempting to buy the Curragh coking coal mine in Australia fromconglomerate Wesfarmers Ltd has dropped out, twosources familiar with the matter told Reuters on Friday."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-30T10:25:03+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-30T10:25:03+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="United States,Ernie L. Thrasher,WESFARMERS,AUSTRALIA/COAL,Investment Banking and Investment Services (TRBC),Retailers (Legacy),Energy Markets,Precious Metals and Minerals (TRBC),Diversified Trading and Distributing (TRBC),Coal (TRBC),Specialty Mining and Metals (TRBC),Deals,All Retail,United States,Basic Materials (TRBC),Americas,Company News,South America / Central America,Power Markets,Mining,Australia,Metals Markets,Energy (TRBC),Metals and Mining (TRBC),Diversified Retail (TRBC),Industrial Conglomerates (TRBC),Investment Management and Fund Operators (TRBC),Mergers / Acquisitions / Takeovers,Japan,Western Europe,Energy (Legacy),Base Metals,Oil and Gas Exploration and Production (TRBC),Brazil,Retailers excl Food and Drug Specialists (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Coal,Government Borrowing Requirement,Industrials (TRBC),Department Stores (TRBC),United Kingdom,Commodities Markets,Iron and Steel (TRBC),Financials (TRBC),Financials (Legacy),All Precious Metals and Minerals,Corporate Events,Oil "/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Wesfarmers coal mine sale cools off, bidders drop out - sources"/>
+    <cse:Attribute name="twitter:description" value="The final groupattempting to buy the Curragh coking coal mine in Australia fromconglomerate Wesfarmers Ltd has dropped out, twosources familiar with the matter told Reuters on Friday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/gulf-qatar-switzerland-idUSL8N1JQ2QS</id>
+  <updated>1970-01-18T08:22:08.769Z</updated>
+  <title type="html">Qatari rights body to hire Swiss firm to seek damages against Gulf ...</title>
+  <link href="https://www.reuters.com/article/gulf-qatar-switzerland-idUSL8N1JQ2QS" title="www.reuters.com"/>
+  <summary type="html">... Swiss law firm to help seek compensation for citizensaffected by sanctions &lt;br&gt;
+imposed by Saudi Arabia and other Arabstates, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter&amp;nbsp;...</summary>
+  <cse:cacheId>pWJ7GC2yuTUJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../gulf-qatar-switzerland-idUSL8N1JQ2QS</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
+    <cse:Attribute name="dcsext.channellist" value="energy-news;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Qatari+rights+body+to+hire+Swiss+firm+to+seek+damages+against+Gulf+states"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Bahrain;Iraq;Kuwait;Qatar;Saudi Arabia;United Arab Emirates;Ali al;Marri;Michael Schneider;Saddam Hussein;GULF;QATAR/SWITZERLAND (TV);Chemicals (Legacy);Energy Markets;Western Europe;Energy (Legacy);Central / Eastern Europe;Saudi Arabia;Qatar;Asia / Pacific;Middle East;Commodities Markets;United Arab Emirates;Switzerland;Middle East (Energy);Government / Politics;Corporate Events;Oil and Gas (TRBC);Europe / Middle East / Africa (Energy);General News;Energy (TRBC);Europe;Natural Gas;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Thu Jun 29 13:08:43 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-29T13:08:43+0000"/>
+    <cse:Attribute name="sailthru.title" value="Qatari rights body to hire Swiss firm to seek damages against Gulf states"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Qatari rights body to hire Swiss firm to seek damages against Gulf states"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/gulf-qatar-switzerland-idUSL8N1JQ2QS"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="A Qatari human rights group ishiring a Swiss law firm to help seek compensation for citizensaffected by sanctions imposed by Saudi Arabia and other Arabstates, two sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-29T13:08:43+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-29T13:08:43+0000"/>
+    <cse:Attribute name="og:article:section" value="Subjects"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Bahrain,Iraq,Kuwait,Qatar,Saudi Arabia,United Arab Emirates,Ali al,Marri,Michael Schneider,Saddam Hussein,GULF,QATAR/SWITZERLAND (TV),Chemicals (Legacy),Energy Markets,Western Europe,Energy (Legacy),Central / Eastern Europe,Saudi Arabia,Qatar,Asia / Pacific,Middle East,Commodities Markets,United Arab Emirates,Switzerland,Middle East (Energy),Government / Politics,Corporate Events,Oil and Gas (TRBC),Europe / Middle East / Africa (Energy),General News,Energy (TRBC),Europe,Natural Gas,Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Qatari rights body to hire Swiss firm to seek damages against Gulf states"/>
+    <cse:Attribute name="twitter:description" value="A Qatari human rights group ishiring a Swiss law firm to help seek compensation for citizensaffected by sanctions imposed by Saudi Arabia and other Arabstates, two sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
+    <cse:Attribute name="wt.cg_n" value="Subjects"/>
+    <cse:Attribute name="wt.cg_s" value="Energy"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
