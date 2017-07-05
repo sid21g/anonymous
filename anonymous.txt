@@ -5,141 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T08:25:26.518Z</updated>
+ <updated>1970-01-18T08:26:57.484Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9580" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9580" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>9580</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9190" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9190" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9190</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.352216</cse:searchTime>
-  <cse:formattedSearchTime>0.35</cse:formattedSearchTime>
-  <cse:totalResults>9580</cse:totalResults>
-  <cse:formattedTotalResults>9,580</cse:formattedTotalResults>
+  <cse:searchTime>0.293435</cse:searchTime>
+  <cse:formattedSearchTime>0.29</cse:formattedSearchTime>
+  <cse:totalResults>9190</cse:totalResults>
+  <cse:formattedTotalResults>9,190</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.washingtonexaminer.com/toronto-hotel-to-shed-trump-brand-after-buyout-deal/article/2627258</id>
-  <updated>1970-01-18T08:25:26.518Z</updated>
-  <title type="html">Toronto hotel to shed Trump brand after buyout deal</title>
-  <link href="http://www.washingtonexaminer.com/toronto-hotel-to-shed-trump-brand-after-buyout-deal/article/2627258" title="www.washingtonexaminer.com"/>
-  <summary type="html">Trump Hotel signage may come down as early as August 1, and &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;with&lt;/b&gt; the situation told Bloomberg that the hotel will likely become one of Marriott&amp;nbsp;...</summary>
-  <cse:cacheId>kAYxgRzMO28J</cse:cacheId>
-  <cse:formattedUrl type="html">www.washingtonexaminer.com/toronto-hotel-to.../2627258</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.washingtonexaminer.com/toronto-hotel-to-shed-trump-brand-after-buyout-deal/article/2627258"/>
-    <cse:Attribute name="fb:pages" value="40656699159"/>
-    <cse:Attribute name="twitter:widgets:csp" value="on"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@dcexaminer"/>
-    <cse:Attribute name="short_url" value="http://www.washingtonexaminer.com/article/2627258"/>
-    <cse:Attribute name="dy:url" value="http://www.washingtonexaminer.com/toronto-hotel-to-shed-trump-brand-after-buyout-deal/article/2627258"/>
-    <cse:Attribute name="og:image" value="http://cdn.washingtonexaminer.biz/cache/1060x600-03fc3b20539babf58e97789ada0a16ac.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://cdn.washingtonexaminer.biz/cache/1060x600-03fc3b20539babf58e97789ada0a16ac.jpg"/>
-    <cse:Attribute name="og:title" value="Toronto hotel to shed Trump brand after buyout deal"/>
-    <cse:Attribute name="twitter:title" value="Toronto hotel to shed Trump brand after buyout deal"/>
-    <cse:Attribute name="og:description" value="Sources familiar with the situation told Bloomberg that the hotel will likely become one of Marriott International Inc.&apos;s St. Regis brands."/>
-    <cse:Attribute name="author" value="Leah DePiero"/>
-    <cse:Attribute name="og:author" value="Leah DePiero"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=890150273"/>
-    <cse:Attribute name="fb:app_id" value="190451957673826"/>
-    <cse:Attribute name="fb:admins" value="1285945407"/>
-    <cse:Attribute name="og:site_name" value="Washington Examiner"/>
-    <cse:Attribute name="msvalidate.01" value="0F003B4674EABE0F24651B476B61A43C"/>
-    <cse:Attribute name="bitly-verification" value="cb370c61f734"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="datepublished" value="2017-06-27T16:59:50-04:00"/>
-    <cse:Attribute name="image" value="http://cdn.washingtonexaminer.biz/cache/1060x600-03fc3b20539babf58e97789ada0a16ac.jpg"/>
-    <cse:Attribute name="text" value="The U.S. company that owns the Trump International Hotel &amp; Tower in Toronto will pay President Trump&apos;s business millions of dollars for the right not to use the Trump name on the hotel, Bloomberg..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Leah DePiero"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://cdn.washingtonexaminer.biz/cache/1060x600-03fc3b20539babf58e97789ada0a16ac.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="169"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrcoXtP0qUIt-uZDYJqBRwIdXwE6bOZ5tJQ28Fp-_abc5V8ZMd7FZ22s2K"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-sprint-corp-m-a-comcast-idUSKBN19I040</id>
-  <updated>1970-01-18T08:25:26.518Z</updated>
-  <title type="html">Charter, Comcast explore wireless partnership with Sprint: sources ...</title>
-  <link href="https://www.reuters.com/article/us-sprint-corp-m-a-comcast-idUSKBN19I040" title="www.reuters.com"/>
-  <summary type="html">... Inc and Comcast Corp about a partnership to boost the two U.S. cable &lt;br&gt;
-companies&amp;#39; wireless offerings, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>ovUrJLoUWlsJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-sprint-corp-m-a-comcast-idUSKBN19I040</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;innovationNews;businessNews;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Charter%2C+Comcast+explore+wireless+partnership+with+Sprint%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Liana B. Baker"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow-Video"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Liana B. Baker"/>
-    <cse:Attribute name="news_keywords" value="Germany;United States;Masayoshi Son;US;SPRINT;CORP;M;A;COMCAST;Germany;Americas;Mergers / Acquisitions / Takeovers;Company News;Japan;Diversified Trading and Distributing (TRBC);Content produced in Bangalore;Telecommunications Services (TRBC);Wireless Telecommunications Services (TRBC);Corporate Events;Technology (TRBC);Integrated Telecommunications Services (TRBC);Asia / Pacific;Europe;Science;Industrial Conglomerates (TRBC);Technology / Media / Telecoms;Deals;Broadcasting (TRBC);United States"/>
-    <cse:Attribute name="revision_date" value="Tue Jun 27 19:20:40 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Liana B. Baker"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-27T19:20:40+0000"/>
-    <cse:Attribute name="sailthru.title" value="Charter, Comcast explore wireless partnership with Sprint: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Charter, Comcast explore wireless partnership with Sprint: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-sprint-corp-m-a-comcast-idUSKBN19I040"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="U.S. wireless carrier Sprint Corp is in talks with Charter Communications Inc and Comcast Corp about a partnership to boost the two U.S. cable companies&apos; wireless offerings, according to sources familiar with the matter."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170627&amp;t=2&amp;i=1190714700&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5Q1E5"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-27T19:20:40+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-27T19:20:40+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Liana B. Baker"/>
-    <cse:Attribute name="og:article:tag" value="Germany,United States,Masayoshi Son,US,SPRINT,CORP,M,A,COMCAST,Germany,Americas,Mergers / Acquisitions / Takeovers,Company News,Japan,Diversified Trading and Distributing (TRBC),Content produced in Bangalore,Telecommunications Services (TRBC),Wireless Telecommunications Services (TRBC),Corporate Events,Technology (TRBC),Integrated Telecommunications Services (TRBC),Asia / Pacific,Europe,Science,Industrial Conglomerates (TRBC),Technology / Media / Telecoms,Deals,Broadcasting (TRBC),United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Charter, Comcast explore wireless partnership with Sprint: sources"/>
-    <cse:Attribute name="twitter:description" value="U.S. wireless carrier Sprint Corp is in talks with Charter Communications Inc and Comcast Corp about a partnership to boost the two U.S. cable companies&apos; wireless offerings, according to sources familiar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170627&amp;t=2&amp;i=1190714700&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5Q1E5"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170627&amp;t=2&amp;i=1190714700&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5Q1E5"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170627&amp;t=2&amp;i=1190714700&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5Q1E5"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUsX3A9Pa_NaH5DvY6eHAw3NETQoxZeO_VpoFtuyKPp1KRT3gQVxMiNQ"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-esp-m-a-halliburton-idUSKBN19J13B</id>
-  <updated>1970-01-18T08:25:26.518Z</updated>
+  <updated>1970-01-18T08:26:57.484Z</updated>
   <title type="html">Exclusive: Halliburton in talks to buy billionaire Kaiser&amp;#39;s equipment ...</title>
   <link href="https://www.reuters.com/article/us-esp-m-a-halliburton-idUSKBN19J13B" title="www.reuters.com"/>
   <summary type="html">... a fast-growing U.S. oilfield equipment supplier backed by Oklahoma energy &lt;br&gt;
@@ -203,130 +87,8 @@ matter.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.businessinsider.com/r-sk-hynix-proposes-financing-toshiba-chip-deal-via-convertible-bonds--sources-2017-7</id>
-  <updated>1970-01-18T08:25:26.518Z</updated>
-  <title type="html">SK Hynix proposes financing Toshiba chip deal via convertible ...</title>
-  <link href="http://www.businessinsider.com/r-sk-hynix-proposes-financing-toshiba-chip-deal-via-convertible-bonds--sources-2017-7" title="www.businessinsider.com"/>
-  <summary type="html">The current scheme proposed by the preferred bidder consortium has raised &lt;br&gt;
-eyebrows as &lt;b&gt;sources familiar with&lt;/b&gt; the matter say a state-backed fund, the&amp;nbsp;...</summary>
-  <cse:cacheId>3BoxG7Kg0h4J</cse:cacheId>
-  <cse:formattedUrl type="html">www.businessinsider.com/r-sk-hynix-proposes-financing-toshiba-chip-deal- via-convertible-bonds--sources-2017-7</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="date" value="2017-07-03"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-03"/>
-    <cse:Attribute name="news_keywords" value="Reuters Company News, TOSHIBA-ACCOUNTING/ (PIX)"/>
-    <cse:Attribute name="sailthru.tags" value="Reuters Company News, TOSHIBA-ACCOUNTING/ (PIX)"/>
-    <cse:Attribute name="sailthru.description" value="By Se Young Lee and Kentaro HamadaSEOUL/TOKYO..."/>
-    <cse:Attribute name="title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
-    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Company News"/>
-    <cse:Attribute name="sailthru.title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
-    <cse:Attribute name="og:title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
-    <cse:Attribute name="og:description" value="By Se Young Lee and Kentaro HamadaSEOUL/TOKYO..."/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-sk-hynix-proposes-financing-toshiba-chip-deal-via-convertible-bonds--sources-2017-7"/>
-    <cse:Attribute name="og:site_name" value="Business Insider"/>
-    <cse:Attribute name="fb:app_id" value="155043519637"/>
-    <cse:Attribute name="article:publisher" value="businessinsider"/>
-    <cse:Attribute name="author" value="Reuters"/>
-    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-sk-hynix-proposes-financing-toshiba-chip-deal-via-convertible-bonds--sources-2017-7"/>
-    <cse:Attribute name="twitter:title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
-    <cse:Attribute name="twitter:description" value="By Se Young Lee and Kentaro HamadaSEOUL/TOKYO..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="fb:pages" value="20446254070"/>
-    <cse:Attribute name="tbi-vertical" value="reuters"/>
-    <cse:Attribute name="viewport" value="width=1024"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
-    <cse:Attribute name="application-name" value="Business Insider"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
-    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
-    <cse:Attribute name="theme-color" value="#185f7c"/>
-    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="name" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
-    <cse:Attribute name="url" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
-    <cse:Attribute name="image" value="http://static1.businessinsider.com/"/>
-    <cse:Attribute name="description" value="By Se Young Lee and Kentaro HamadaSEOUL/TOKYO..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://static6.businessinsider.com/image/589df07f8e91c66f5d9dffd1-700/ignition-future-of-digital-free.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="290"/>
-    <cse:Attribute name="height" value="174"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI5cDSRmdDzD5zN66IJ0UfSMaUO35ISo9jOVzN9JM1bc4pduCr96S8468"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-usa-trump-russia-lawyer-idUSKBN19O29Z</id>
-  <updated>1970-01-18T08:25:26.518Z</updated>
-  <title type="html">Trump considering lawyer for White House Russia role: sources ...</title>
-  <link href="https://www.reuters.com/article/us-usa-trump-russia-lawyer-idUSKBN19O29Z" title="www.reuters.com"/>
-  <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the matter, lawyers from major firms have &lt;br&gt;
-turned down joining Trump&amp;#39;s outside legal team, citing conflicts at their firms and&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>G6ao8bJUmJsJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-usa-trump-russia-lawyer-idUSKBN19O29Z</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="politicsNews;domesticNews;russia;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Trump+considering+lawyer+for+White+House+Russia+role%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Karen Freifeld and Jeff Mason"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
-    <cse:Attribute name="author" value="Karen Freifeld and Jeff Mason"/>
-    <cse:Attribute name="news_keywords" value="Russia;United States;David Watkins;Don McGahn;Donald Trump;Emmet Flood;Jay Sekulow;John Dowd;John Huang;Lindsay Walters;Marc Kasowitz;Mary McCarthy;Michael Bowe;Robert Mueller;Ty Cobb;William Burck;US;USA;TRUMP;RUSSIA;LAWYER;Crime / Law / Justice;Russia;Judicial Process / Court Cases / Court Decisions;Crime;Government / Politics;General News;Europe;US Government News;United States"/>
-    <cse:Attribute name="revision_date" value="Mon Jul 03 19:14:42 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Karen Freifeld and Jeff Mason"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-03T19:14:42+0000"/>
-    <cse:Attribute name="sailthru.title" value="Trump considering lawyer for White House Russia role: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Trump considering lawyer for White House Russia role: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-russia-lawyer-idUSKBN19O29Z"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="President Donald Trump is considering adding a veteran Washington lawyer to the White House counsel&apos;s office to deal with Russia-related issues, people familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-03T19:14:42+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-03T19:14:42+0000"/>
-    <cse:Attribute name="og:article:section" value="Politics"/>
-    <cse:Attribute name="og:article:author" value="Karen Freifeld and Jeff Mason"/>
-    <cse:Attribute name="og:article:tag" value="Russia,United States,David Watkins,Don McGahn,Donald Trump,Emmet Flood,Jay Sekulow,John Dowd,John Huang,Lindsay Walters,Marc Kasowitz,Mary McCarthy,Michael Bowe,Robert Mueller,Ty Cobb,William Burck,US,USA,TRUMP,RUSSIA,LAWYER,Crime / Law / Justice,Russia,Judicial Process / Court Cases / Court Decisions,Crime,Government / Politics,General News,Europe,US Government News,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Trump considering lawyer for White House Russia role: sources"/>
-    <cse:Attribute name="twitter:description" value="President Donald Trump is considering adding a veteran Washington lawyer to the White House counsel&apos;s office to deal with Russia-related issues, people familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
-    <cse:Attribute name="wt.cg_n" value="Politics"/>
-    <cse:Attribute name="wt.cg_s" value="Politics"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX1oLzzheYm8LJsWQc8le5G2QpoMl18Y-a35F6jcnQCCZzAzfb8tlWDfLW"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/mergermarket-ma-gic-idUSL8N1JR3TD</id>
-  <updated>1970-01-18T08:25:26.518Z</updated>
+  <updated>1970-01-18T08:26:57.484Z</updated>
   <title type="html">Singapore wealth fund GIC to take stake in Mergermarket -sources ...</title>
   <link href="https://www.reuters.com/article/mergermarket-ma-gic-idUSL8N1JR3TD" title="www.reuters.com"/>
   <summary type="html">... has agreed to buy around 30 percent of financial news anddata company &lt;br&gt;
@@ -386,8 +148,138 @@ said.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO</id>
+  <updated>1970-01-18T08:26:57.484Z</updated>
+  <title type="html">SK Hynix proposes financing Toshiba chip deal via convertible ...</title>
+  <link href="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO" title="www.reuters.com"/>
+  <summary type="html">... financing for a Japan government-led group bidding for Toshiba Corp&amp;#39;s chip &lt;br&gt;
+unit be done through convertible bonds, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said,&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>VfqTTBqenaAJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="SK+Hynix+proposes+financing+Toshiba+chip+deal+via+convertible+bonds%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Se Young Lee and Kentaro Hamada"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Se Young Lee and Kentaro Hamada"/>
+    <cse:Attribute name="news_keywords" value="Japan;Satoshi Tsunakawa;US;TOSHIBA;ACCOUNTING;Mergers / Acquisitions / Takeovers;Company News;Japan;South Korea;Semiconductors and Semiconductor Equipment (TRBC);Corporate Events;Monopolies / Antitrust Issues;Technology (TRBC);Semiconductors (TRBC);Electrical Components and Equipment (TRBC);Asia / Pacific;Major News;Restructuring / Reorganization;Equity;Linked Bonds;Science;Industrial Conglomerates (TRBC);Company Management Issues;Emerging Market Countries;Private Equity Funds;United States;Computer Hardware (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Mon Jul 03 07:15:45 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Se Young Lee and Kentaro Hamada"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-03T07:15:45+0000"/>
+    <cse:Attribute name="sailthru.title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="SK Hynix Inc has proposed that its financing for a Japan government-led group bidding for Toshiba Corp&apos;s chip unit be done through convertible bonds, two sources familiar with the matter said, potentially allowing it to have an equity interest in the world&apos;s No. 2 NAND chip maker."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-03T07:15:45+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-03T07:15:45+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Se Young Lee and Kentaro Hamada"/>
+    <cse:Attribute name="og:article:tag" value="Japan,Satoshi Tsunakawa,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Company News,Japan,South Korea,Semiconductors and Semiconductor Equipment (TRBC),Corporate Events,Monopolies / Antitrust Issues,Technology (TRBC),Semiconductors (TRBC),Electrical Components and Equipment (TRBC),Asia / Pacific,Major News,Restructuring / Reorganization,Equity,Linked Bonds,Science,Industrial Conglomerates (TRBC),Company Management Issues,Emerging Market Countries,Private Equity Funds,United States,Computer Hardware (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds: sources"/>
+    <cse:Attribute name="twitter:description" value="SK Hynix Inc has proposed that its financing for a Japan government-led group bidding for Toshiba Corp&apos;s chip unit be done through convertible bonds, two sources familiar with the matter said, potentially allowing it to have an equity interest in the world&apos;s No. 2 NAND chip maker."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="273"/>
+    <cse:Attribute name="height" value="185"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEofAiIY3Pv2pDJdryx0xPrtTNNp5sZxHf_oJ1jY0CDXIrlt6yHLniKFM"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-usa-trump-russia-lawyer-idUSKBN19O29Z</id>
+  <updated>1970-01-18T08:26:57.484Z</updated>
+  <title type="html">Trump considering lawyer for White House Russia role: sources ...</title>
+  <link href="https://www.reuters.com/article/us-usa-trump-russia-lawyer-idUSKBN19O29Z" title="www.reuters.com"/>
+  <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the matter, lawyers from major firms have &lt;br&gt;
+turned down joining Trump&amp;#39;s outside legal team, citing conflicts at their firms and&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>G6ao8bJUmJsJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-usa-trump-russia-lawyer-idUSKBN19O29Z</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="politicsNews;domesticNews;russia;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Trump+considering+lawyer+for+White+House+Russia+role%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Karen Freifeld and Jeff Mason"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
+    <cse:Attribute name="author" value="Karen Freifeld and Jeff Mason"/>
+    <cse:Attribute name="news_keywords" value="Russia;United States;David Watkins;Don McGahn;Donald Trump;Emmet Flood;Jay Sekulow;John Dowd;John Huang;Lindsay Walters;Marc Kasowitz;Mary McCarthy;Michael Bowe;Robert Mueller;Ty Cobb;William Burck;US;USA;TRUMP;RUSSIA;LAWYER;Crime / Law / Justice;Russia;Judicial Process / Court Cases / Court Decisions;Crime;Government / Politics;General News;Europe;US Government News;United States"/>
+    <cse:Attribute name="revision_date" value="Mon Jul 03 20:39:46 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Karen Freifeld and Jeff Mason"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-03T20:39:46+0000"/>
+    <cse:Attribute name="sailthru.title" value="Trump considering lawyer for White House Russia role: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Trump considering lawyer for White House Russia role: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-russia-lawyer-idUSKBN19O29Z"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="President Donald Trump is considering adding a veteran Washington lawyer to the White House counsel&apos;s office to deal with Russia-related issues, people familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-03T20:39:46+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-03T20:39:46+0000"/>
+    <cse:Attribute name="og:article:section" value="Politics"/>
+    <cse:Attribute name="og:article:author" value="Karen Freifeld and Jeff Mason"/>
+    <cse:Attribute name="og:article:tag" value="Russia,United States,David Watkins,Don McGahn,Donald Trump,Emmet Flood,Jay Sekulow,John Dowd,John Huang,Lindsay Walters,Marc Kasowitz,Mary McCarthy,Michael Bowe,Robert Mueller,Ty Cobb,William Burck,US,USA,TRUMP,RUSSIA,LAWYER,Crime / Law / Justice,Russia,Judicial Process / Court Cases / Court Decisions,Crime,Government / Politics,General News,Europe,US Government News,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Trump considering lawyer for White House Russia role: sources"/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump is considering adding a veteran Washington lawyer to the White House counsel&apos;s office to deal with Russia-related issues, people familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
+    <cse:Attribute name="wt.cg_n" value="Politics"/>
+    <cse:Attribute name="wt.cg_s" value="Politics"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX1oLzzheYm8LJsWQc8le5G2QpoMl18Y-a35F6jcnQCCZzAzfb8tlWDfLW"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/ecb-policy-idUSL8N1JP2WS</id>
-  <updated>1970-01-18T08:25:26.518Z</updated>
+  <updated>1970-01-18T08:26:57.484Z</updated>
   <title type="html">ECB chief was overinterpreted by skittish markets: sources | Reuters</title>
   <link href="https://www.reuters.com/article/ecb-policy-idUSL8N1JP2WS" title="www.reuters.com"/>
   <summary type="html">... a period of weaker inflation, not an imminent policy tightening, when his &lt;br&gt;
@@ -452,7 +344,7 @@ said.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/lotte-chemical-ipo-price-idUSL3N1JQ2C7</id>
-  <updated>1970-01-18T08:25:26.518Z</updated>
+  <updated>1970-01-18T08:26:57.484Z</updated>
   <title type="html">Malaysia&amp;#39;s Lotte Chemical Titan to relaunch IPO at lower price ...</title>
   <link href="https://www.reuters.com/article/lotte-chemical-ipo-price-idUSL3N1JQ2C7" title="www.reuters.com"/>
   <summary type="html">... relaunch its initial public offering (IPO) on Monday at a lower price than initially &lt;br&gt;
@@ -513,7 +405,7 @@ targeted due to weak investor appetite, three &lt;b&gt;sources familiar with&lt;
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/poland-ma-inea-idUSL8N1JR393</id>
-  <updated>1970-01-18T08:25:26.518Z</updated>
+  <updated>1970-01-18T08:26:57.484Z</updated>
   <title type="html">Warburg Pincus looking to sell Polish cable operator Inea -sources ...</title>
   <link href="https://www.reuters.com/article/poland-ma-inea-idUSL8N1JR393" title="www.reuters.com"/>
   <summary type="html">Private equity firm WarburgPincus is considering selling its controlling stake in &lt;br&gt;
@@ -576,8 +468,73 @@ Polishcable operator Inea, &lt;b&gt;sources familiar with&lt;/b&gt; the situatio
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-canada-guantanamo-khadr-idUSKBN19P203</id>
+  <updated>1970-01-18T08:26:57.484Z</updated>
+  <title type="html">Canada to compensate ex-Guantanamo inmate, apologize: sources ...</title>
+  <link href="http://www.reuters.com/article/us-canada-guantanamo-khadr-idUSKBN19P203" title="www.reuters.com"/>
+  <summary type="html">... and pay him around C$10 million ($7.7 million) to compensate him for the &lt;br&gt;
+abuse he suffered in detention, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on &lt;br&gt;
+Tuesday.</summary>
+  <cse:cacheId>MLSKlAum3LUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-canada-guantanamo-khadr-idUSKBN19P203</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
+    <cse:Attribute name="dcsext.channellist" value="worldNews;US-The-Wire;USWire_EL"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Canada+to+compensate+ex-Guantanamo+inmate%2C+apologize%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="David Ljunggren"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
+    <cse:Attribute name="author" value="David Ljunggren"/>
+    <cse:Attribute name="news_keywords" value="US;CANADA;GUANTANAMO;KHADR;Crime / Law / Justice;Americas;Afghanistan;South America / Central America;Judicial Process / Court Cases / Court Decisions;Diplomacy / Foreign Policy;Government / Politics;General News;Cuba;Asia / Pacific;Human Rights / Civil Rights;International / National Security;Conflicts / War / Peace;Canada;United States"/>
+    <cse:Attribute name="revision_date" value="Tue Jul 04 15:51:38 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="David Ljunggren"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-04T15:51:38+0000"/>
+    <cse:Attribute name="sailthru.title" value="Canada to compensate ex-Guantanamo inmate, apologize: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Canada to compensate ex-Guantanamo inmate, apologize: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-canada-guantanamo-khadr-idUSKBN19P203"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The Canadian government will apologize to former Guantanamo Bay inmate Omar Khadr and pay him around C$10 million ($7.7 million) to compensate him for the abuse he suffered in detention, two sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170704&amp;t=2&amp;i=1191597609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6313Y"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-04T15:51:38+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-04T15:51:38+0000"/>
+    <cse:Attribute name="og:article:section" value="World"/>
+    <cse:Attribute name="og:article:author" value="David Ljunggren"/>
+    <cse:Attribute name="og:article:tag" value="US,CANADA,GUANTANAMO,KHADR,Crime / Law / Justice,Americas,Afghanistan,South America / Central America,Judicial Process / Court Cases / Court Decisions,Diplomacy / Foreign Policy,Government / Politics,General News,Cuba,Asia / Pacific,Human Rights / Civil Rights,International / National Security,Conflicts / War / Peace,Canada,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Canada to compensate ex-Guantanamo inmate, apologize: sources"/>
+    <cse:Attribute name="twitter:description" value="The Canadian government will apologize to former Guantanamo Bay inmate Omar Khadr and pay him around C$10 million ($7.7 million) to compensate him for the abuse he suffered in detention, two sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170704&amp;t=2&amp;i=1191597609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6313Y"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170704&amp;t=2&amp;i=1191597609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6313Y"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
+    <cse:Attribute name="wt.cg_n" value="World"/>
+    <cse:Attribute name="wt.cg_s" value="World"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170704&amp;t=2&amp;i=1191597609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6313Y"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="273"/>
+    <cse:Attribute name="height" value="185"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1xT11yR053ymcFnXCPHCpnIMJUwNqvv6E--elmmzTMehmC2uagqazbw"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/eurozone-markets-idUSL8N1JP38F</id>
-  <updated>1970-01-18T08:25:26.518Z</updated>
+  <updated>1970-01-18T08:26:57.484Z</updated>
   <title type="html">Euro, bond yields fall after sources say Draghi comments ...</title>
   <link href="https://www.reuters.com/article/eurozone-markets-idUSL8N1JP38F" title="www.reuters.com"/>
   <summary type="html">... for a period of weaker inflation, not an imminent policy tightening, when his &lt;br&gt;
@@ -629,6 +586,71 @@ said.</summary>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
     <cse:Attribute name="wt.cg_s" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/gulf-qatar-switzerland-idUSL8N1JQ2QS</id>
+  <updated>1970-01-18T08:26:57.484Z</updated>
+  <title type="html">Qatari rights body to hire Swiss firm to seek damages against Gulf ...</title>
+  <link href="https://www.reuters.com/article/gulf-qatar-switzerland-idUSL8N1JQ2QS" title="www.reuters.com"/>
+  <summary type="html">... Swiss law firm to help seek compensation for citizensaffected by sanctions &lt;br&gt;
+imposed by Saudi Arabia and other Arabstates, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter&amp;nbsp;...</summary>
+  <cse:cacheId>pWJ7GC2yuTUJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../gulf-qatar-switzerland-idUSL8N1JQ2QS</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
+    <cse:Attribute name="dcsext.channellist" value="energy-news;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Qatari+rights+body+to+hire+Swiss+firm+to+seek+damages+against+Gulf+states"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Bahrain;Iraq;Kuwait;Qatar;Saudi Arabia;United Arab Emirates;Ali al;Marri;Michael Schneider;Saddam Hussein;GULF;QATAR/SWITZERLAND (TV);Chemicals (Legacy);Energy Markets;Western Europe;Energy (Legacy);Central / Eastern Europe;Saudi Arabia;Qatar;Asia / Pacific;Middle East;Commodities Markets;United Arab Emirates;Switzerland;Middle East (Energy);Government / Politics;Corporate Events;Oil and Gas (TRBC);Europe / Middle East / Africa (Energy);General News;Energy (TRBC);Europe;Natural Gas;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Thu Jun 29 13:08:43 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-06-29T13:08:43+0000"/>
+    <cse:Attribute name="sailthru.title" value="Qatari rights body to hire Swiss firm to seek damages against Gulf states"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Qatari rights body to hire Swiss firm to seek damages against Gulf states"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/gulf-qatar-switzerland-idUSL8N1JQ2QS"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="A Qatari human rights group ishiring a Swiss law firm to help seek compensation for citizensaffected by sanctions imposed by Saudi Arabia and other Arabstates, two sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-06-29T13:08:43+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-06-29T13:08:43+0000"/>
+    <cse:Attribute name="og:article:section" value="Subjects"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Bahrain,Iraq,Kuwait,Qatar,Saudi Arabia,United Arab Emirates,Ali al,Marri,Michael Schneider,Saddam Hussein,GULF,QATAR/SWITZERLAND (TV),Chemicals (Legacy),Energy Markets,Western Europe,Energy (Legacy),Central / Eastern Europe,Saudi Arabia,Qatar,Asia / Pacific,Middle East,Commodities Markets,United Arab Emirates,Switzerland,Middle East (Energy),Government / Politics,Corporate Events,Oil and Gas (TRBC),Europe / Middle East / Africa (Energy),General News,Energy (TRBC),Europe,Natural Gas,Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Qatari rights body to hire Swiss firm to seek damages against Gulf states"/>
+    <cse:Attribute name="twitter:description" value="A Qatari human rights group ishiring a Swiss law firm to help seek compensation for citizensaffected by sanctions imposed by Saudi Arabia and other Arabstates, two sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+    <cse:Attribute name="wt.cg_n" value="Subjects"/>
+    <cse:Attribute name="wt.cg_s" value="Energy"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
