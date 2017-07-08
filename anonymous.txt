@@ -5,170 +5,43 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T08:26:57.484Z</updated>
+ <updated>1970-01-18T08:32:06.748Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9190" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9190" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>9190</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6410" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6410" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>6410</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.293435</cse:searchTime>
-  <cse:formattedSearchTime>0.29</cse:formattedSearchTime>
-  <cse:totalResults>9190</cse:totalResults>
-  <cse:formattedTotalResults>9,190</cse:formattedTotalResults>
+  <cse:searchTime>0.310797</cse:searchTime>
+  <cse:formattedSearchTime>0.31</cse:formattedSearchTime>
+  <cse:totalResults>6410</cse:totalResults>
+  <cse:formattedTotalResults>6,410</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-esp-m-a-halliburton-idUSKBN19J13B</id>
-  <updated>1970-01-18T08:26:57.484Z</updated>
-  <title type="html">Exclusive: Halliburton in talks to buy billionaire Kaiser&amp;#39;s equipment ...</title>
-  <link href="https://www.reuters.com/article/us-esp-m-a-halliburton-idUSKBN19J13B" title="www.reuters.com"/>
-  <summary type="html">... a fast-growing U.S. oilfield equipment supplier backed by Oklahoma energy &lt;br&gt;
-and banking billionaire George Kaiser, according to &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-matter.</summary>
-  <cse:cacheId>mVLJWTox-MkJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-esp-m-a-halliburton-idUSKBN19J13B</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;businessNews;russia;bank-news;energy-news;power;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Halliburton+in+talks+to+buy+billionaire+Kaiser%27s+equipment+firm+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Gary McWilliams and Liz Hampton"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Gary McWilliams and Liz Hampton"/>
-    <cse:Attribute name="news_keywords" value="Canada;United States;Anand Gnanamoorthy;Frost;George Kaiser;Jeffrey A. Miller;John Kenner;US;ESP;M;A;HALLIBURTON;Energy Markets;Americas (Energy);Mergers / Acquisitions / Takeovers;Russia;Company News;Energy (Legacy);Exclusive;Corporate Events;Banking and Investment Services (TRBC);Major News;Energy (TRBC);Europe;Regulation;Oil Related Services and Equipment (TRBC);Private Equity Funds;United States"/>
-    <cse:Attribute name="revision_date" value="Wed Jun 28 10:04:56 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Gary McWilliams and Liz Hampton"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-28T10:04:56+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Halliburton in talks to buy billionaire Kaiser&apos;s equipment firm - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Halliburton in talks to buy billionaire Kaiser&apos;s equipment firm - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-esp-m-a-halliburton-idUSKBN19J13B"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Halliburton Co (HAL.N) is in late-stage talks to acquire a fast-growing U.S. oilfield equipment supplier backed by Oklahoma energy and banking billionaire George Kaiser, according to sources familiar with the matter."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170628&amp;t=2&amp;i=1190820961&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5R0MU"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-28T10:04:56+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-28T10:04:56+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Gary McWilliams and Liz Hampton"/>
-    <cse:Attribute name="og:article:tag" value="Canada,United States,Anand Gnanamoorthy,Frost,George Kaiser,Jeffrey A. Miller,John Kenner,US,ESP,M,A,HALLIBURTON,Energy Markets,Americas (Energy),Mergers / Acquisitions / Takeovers,Russia,Company News,Energy (Legacy),Exclusive,Corporate Events,Banking and Investment Services (TRBC),Major News,Energy (TRBC),Europe,Regulation,Oil Related Services and Equipment (TRBC),Private Equity Funds,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Halliburton in talks to buy billionaire Kaiser&apos;s equipment firm - sources"/>
-    <cse:Attribute name="twitter:description" value="Halliburton Co (HAL.N) is in late-stage talks to acquire a fast-growing U.S. oilfield equipment supplier backed by Oklahoma energy and banking billionaire George Kaiser, according to sources familiar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170628&amp;t=2&amp;i=1190820961&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5R0MU"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170628&amp;t=2&amp;i=1190820961&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5R0MU"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170628&amp;t=2&amp;i=1190820961&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED5R0MU"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="268"/>
-    <cse:Attribute name="height" value="188"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwYx_FvIE17SjmfAHZx7e7dYcdG0qTxgjbAF5gapTuRTBHNiDQFTLgJzQU"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/mergermarket-ma-gic-idUSL8N1JR3TD</id>
-  <updated>1970-01-18T08:26:57.484Z</updated>
-  <title type="html">Singapore wealth fund GIC to take stake in Mergermarket -sources ...</title>
-  <link href="https://www.reuters.com/article/mergermarket-ma-gic-idUSL8N1JR3TD" title="www.reuters.com"/>
-  <summary type="html">... has agreed to buy around 30 percent of financial news anddata company &lt;br&gt;
-Mergermarket Group from its private equity owner,&lt;b&gt;sources familiar with&lt;/b&gt; the matter &lt;br&gt;
-said.</summary>
-  <cse:cacheId>Eb6s83AAwEUJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../mergermarket-ma-gic-idUSL8N1JR3TD</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
-    <cse:Attribute name="dcsext.channellist" value="Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Singapore+wealth+fund+GIC+to+take+stake+in+Mergermarket+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Singapore;United States;MERGERMARKET;MandA/GIC;Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Western Europe;Media and Publishing (TRBC);Equity Investments;Divestitures / Spin;Offs;Asia / Pacific;Singapore;Government Borrowing Requirement;Cyclical Consumer Services (TRBC);Deals;United Kingdom;Media / Publishing (Legacy);Funds;Company News;Financials (TRBC);Financials (Legacy);China (PRC);Corporate Events;Publishing (TRBC);Banking and Investment Services (TRBC);Europe;Cyclical Consumer Goods and Services (TRBC);ASEAN Countries;Technology / Media / Telecoms;Sovereign Wealth Funds;Emerging Market Countries;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Fri Jun 30 14:34:36 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-30T14:34:36+0000"/>
-    <cse:Attribute name="sailthru.title" value="Singapore wealth fund GIC to take stake in Mergermarket -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Singapore wealth fund GIC to take stake in Mergermarket -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/mergermarket-ma-gic-idUSL8N1JR3TD"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Singapore sovereign wealth fundGIC has agreed to buy around 30 percent of financial news anddata company Mergermarket Group from its private equity owner,sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-30T14:34:36+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-30T14:34:36+0000"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Singapore,United States,MERGERMARKET,MandA/GIC,Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Western Europe,Media and Publishing (TRBC),Equity Investments,Divestitures / Spin,Offs,Asia / Pacific,Singapore,Government Borrowing Requirement,Cyclical Consumer Services (TRBC),Deals,United Kingdom,Media / Publishing (Legacy),Funds,Company News,Financials (TRBC),Financials (Legacy),China (PRC),Corporate Events,Publishing (TRBC),Banking and Investment Services (TRBC),Europe,Cyclical Consumer Goods and Services (TRBC),ASEAN Countries,Technology / Media / Telecoms,Sovereign Wealth Funds,Emerging Market Countries,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Singapore wealth fund GIC to take stake in Mergermarket -sources"/>
-    <cse:Attribute name="twitter:description" value="Singapore sovereign wealth fundGIC has agreed to buy around 30 percent of financial news anddata company Mergermarket Group from its private equity owner,sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO</id>
-  <updated>1970-01-18T08:26:57.484Z</updated>
+  <updated>1970-01-18T08:32:06.748Z</updated>
   <title type="html">SK Hynix proposes financing Toshiba chip deal via convertible ...</title>
   <link href="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO" title="www.reuters.com"/>
-  <summary type="html">... financing for a Japan government-led group bidding for Toshiba Corp&amp;#39;s chip &lt;br&gt;
-unit be done through convertible bonds, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said,&lt;br&gt;
-&amp;nbsp;...</summary>
+  <summary type="html">The current scheme proposed by the preferred bidder consortium has raised &lt;br&gt;
+eyebrows as &lt;b&gt;sources familiar with&lt;/b&gt; the matter say a state-backed fund, the&amp;nbsp;...</summary>
   <cse:cacheId>VfqTTBqenaAJ</cse:cacheId>
   <cse:formattedUrl type="html">www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationIntellectualProperty"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationIntellectualProperty;innovation;top-100-innovators;technologyNews;innovationNews;japan;US-The-Wire;USWire_EL;Intel"/>
     <cse:Attribute name="dcsext.contentheadline" value="SK+Hynix+proposes+financing+Toshiba+chip+deal+via+convertible+bonds%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Se Young Lee and Kentaro Hamada"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationIntellectualProperty"/>
     <cse:Attribute name="author" value="Se Young Lee and Kentaro Hamada"/>
     <cse:Attribute name="news_keywords" value="Japan;Satoshi Tsunakawa;US;TOSHIBA;ACCOUNTING;Mergers / Acquisitions / Takeovers;Company News;Japan;South Korea;Semiconductors and Semiconductor Equipment (TRBC);Corporate Events;Monopolies / Antitrust Issues;Technology (TRBC);Semiconductors (TRBC);Electrical Components and Equipment (TRBC);Asia / Pacific;Major News;Restructuring / Reorganization;Equity;Linked Bonds;Science;Industrial Conglomerates (TRBC);Company Management Issues;Emerging Market Countries;Private Equity Funds;United States;Computer Hardware (TRBC)"/>
     <cse:Attribute name="revision_date" value="Mon Jul 03 07:15:45 UTC 2017"/>
@@ -186,7 +59,7 @@ unit be done through convertible bonds, two &lt;b&gt;sources familiar with&lt;/b
     <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
     <cse:Attribute name="og:article:published_time" value="2017-07-03T07:15:45+0000"/>
     <cse:Attribute name="og:article:modified_time" value="2017-07-03T07:15:45+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
     <cse:Attribute name="og:article:author" value="Se Young Lee and Kentaro Hamada"/>
     <cse:Attribute name="og:article:tag" value="Japan,Satoshi Tsunakawa,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Company News,Japan,South Korea,Semiconductors and Semiconductor Equipment (TRBC),Corporate Events,Monopolies / Antitrust Issues,Technology (TRBC),Semiconductors (TRBC),Electrical Components and Equipment (TRBC),Asia / Pacific,Major News,Restructuring / Reorganization,Equity,Linked Bonds,Science,Industrial Conglomerates (TRBC),Company Management Issues,Emerging Market Countries,Private Equity Funds,United States,Computer Hardware (TRBC)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
@@ -198,9 +71,9 @@ unit be done through convertible bonds, two &lt;b&gt;sources familiar with&lt;/b
     <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/innovation/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Innovation and Intellectual Property"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
@@ -213,263 +86,197 @@ unit be done through convertible bonds, two &lt;b&gt;sources familiar with&lt;/b
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-usa-trump-russia-lawyer-idUSKBN19O29Z</id>
-  <updated>1970-01-18T08:26:57.484Z</updated>
-  <title type="html">Trump considering lawyer for White House Russia role: sources ...</title>
-  <link href="https://www.reuters.com/article/us-usa-trump-russia-lawyer-idUSKBN19O29Z" title="www.reuters.com"/>
+  <id>https://www.reuters.com/article/uk-stada-arzneimitt-m-a-elliott-idUSKBN19S12A</id>
+  <updated>1970-01-18T08:32:06.748Z</updated>
+  <title type="html">Activist Elliott acquires Stada stake: sources | Reuters</title>
+  <link href="https://www.reuters.com/article/uk-stada-arzneimitt-m-a-elliott-idUSKBN19S12A" title="www.reuters.com"/>
+  <summary type="html">Activist investor Elliott Management has bought a stake in Stada, two financial &lt;br&gt;
+&lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Friday, adding a new twist to a takeover&amp;nbsp;...</summary>
+  <cse:cacheId>5afJAR_O5EMJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../uk-stada-arzneimitt-m-a-elliott-idUSKBN19S12A</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Activist+Elliott+acquires+Stada+stake%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="UK;STADA;ARZNEIMITT;M;A;ELLIOTT;Guernsey;Germany;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Equity Investments;Corporate Events;Hedge Funds;Europe;Generic and Specialty Pharmaceuticals (TRBC);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Fri Jul 07 08:34:07 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-07T08:34:07+0000"/>
+    <cse:Attribute name="sailthru.title" value="Activist Elliott acquires Stada stake: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Activist Elliott acquires Stada stake: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/uk-stada-arzneimitt-m-a-elliott-idUSKBN19S12A"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Activist investor Elliott Management has bought a stake in Stada, two financial sources familiar with the matter said on Friday, adding a new twist to a takeover battle for the German generic drugs maker."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-07T08:34:07+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-07T08:34:07+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="UK,STADA,ARZNEIMITT,M,A,ELLIOTT,Guernsey,Germany,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Equity Investments,Corporate Events,Hedge Funds,Europe,Generic and Specialty Pharmaceuticals (TRBC),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Activist Elliott acquires Stada stake: sources"/>
+    <cse:Attribute name="twitter:description" value="Activist investor Elliott Management has bought a stake in Stada, two financial sources familiar with the matter said on Friday, adding a new twist to a takeover battle for the German generic drugs maker."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/usa-trump-russia-lawyer-idUSL1N1JU190</id>
+  <updated>1970-01-18T08:32:06.748Z</updated>
+  <title type="html">Trump considering lawyer for White House Russia role -sources ...</title>
+  <link href="https://www.reuters.com/article/usa-trump-russia-lawyer-idUSL1N1JU190" title="www.reuters.com"/>
   <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the matter, lawyers from major firms have &lt;br&gt;
 turned down joining Trump&amp;#39;s outside legal team, citing conflicts at their firms and&lt;br&gt;
 &amp;nbsp;...</summary>
-  <cse:cacheId>G6ao8bJUmJsJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-usa-trump-russia-lawyer-idUSKBN19O29Z</cse:formattedUrl>
+  <cse:cacheId>29sen_GWANIJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../usa-trump-russia-lawyer-idUSL1N1JU190</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="politicsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="politicsNews;domesticNews;russia;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Trump+considering+lawyer+for+White+House+Russia+role%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="USLegal"/>
+    <cse:Attribute name="dcsext.channellist" value="USLegal;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Trump+considering+lawyer+for+White+House+Russia+role+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Karen Freifeld and Jeff Mason"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-politicsNews"/>
-    <cse:Attribute name="author" value="Karen Freifeld and Jeff Mason"/>
-    <cse:Attribute name="news_keywords" value="Russia;United States;David Watkins;Don McGahn;Donald Trump;Emmet Flood;Jay Sekulow;John Dowd;John Huang;Lindsay Walters;Marc Kasowitz;Mary McCarthy;Michael Bowe;Robert Mueller;Ty Cobb;William Burck;US;USA;TRUMP;RUSSIA;LAWYER;Crime / Law / Justice;Russia;Judicial Process / Court Cases / Court Decisions;Crime;Government / Politics;General News;Europe;US Government News;United States"/>
-    <cse:Attribute name="revision_date" value="Mon Jul 03 20:39:46 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Karen Freifeld and Jeff Mason"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-03T20:39:46+0000"/>
-    <cse:Attribute name="sailthru.title" value="Trump considering lawyer for White House Russia role: sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-USLegal"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Russia;United States;David Watkins;Don McGahn;Donald Trump;Emmet Flood;Jay Sekulow;John Dowd;John Huang;Lindsay Walters;Marc Kasowitz;Mary McCarthy;Michael Bowe;Robert Mueller;Ty Cobb;William Burck;USA;TRUMP/RUSSIA;LAWYER;Americas;United States"/>
+    <cse:Attribute name="revision_date" value="Mon Jul 03 19:16:36 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-03T19:16:36+0000"/>
+    <cse:Attribute name="sailthru.title" value="Trump considering lawyer for White House Russia role -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Trump considering lawyer for White House Russia role: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-russia-lawyer-idUSKBN19O29Z"/>
+    <cse:Attribute name="og:title" value="Trump considering lawyer for White House Russia role -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-trump-russia-lawyer-idUSL1N1JU190"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="President Donald Trump is considering adding a veteran Washington lawyer to the White House counsel&apos;s office to deal with Russia-related issues, people familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-03T20:39:46+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-03T20:39:46+0000"/>
-    <cse:Attribute name="og:article:section" value="Politics"/>
-    <cse:Attribute name="og:article:author" value="Karen Freifeld and Jeff Mason"/>
-    <cse:Attribute name="og:article:tag" value="Russia,United States,David Watkins,Don McGahn,Donald Trump,Emmet Flood,Jay Sekulow,John Dowd,John Huang,Lindsay Walters,Marc Kasowitz,Mary McCarthy,Michael Bowe,Robert Mueller,Ty Cobb,William Burck,US,USA,TRUMP,RUSSIA,LAWYER,Crime / Law / Justice,Russia,Judicial Process / Court Cases / Court Decisions,Crime,Government / Politics,General News,Europe,US Government News,United States"/>
+    <cse:Attribute name="og:description" value="President Donald Trump is considering adding aveteran Washington lawyer to the White House counsel&apos;s office todeal with Russia-related issues, people familiar with the mattersaid."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-03T19:16:36+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-03T19:16:36+0000"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Russia,United States,David Watkins,Don McGahn,Donald Trump,Emmet Flood,Jay Sekulow,John Dowd,John Huang,Lindsay Walters,Marc Kasowitz,Mary McCarthy,Michael Bowe,Robert Mueller,Ty Cobb,William Burck,USA,TRUMP/RUSSIA,LAWYER,Americas,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Trump considering lawyer for White House Russia role -sources"/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump is considering adding aveteran Washington lawyer to the White House counsel&apos;s office todeal with Russia-related issues, people familiar with the mattersaid."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/legal"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ</id>
+  <updated>1970-01-18T08:32:06.748Z</updated>
+  <title type="html">Indian e-commerce firm Snapdeal rejects rival Flipkart&amp;#39;s initial bid ...</title>
+  <link href="https://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ" title="www.reuters.com"/>
+  <summary type="html">The Snapdeal board rejected the bid as it was below a valuation of $1 billion &lt;br&gt;
+indicated earlier by Flipkart, two &lt;b&gt;sources familiar with&lt;/b&gt; the negotiations said.</summary>
+  <cse:cacheId>sn__mrVgKe8J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-snapdeal-m-a-flipkart-idUSKBN19P2BQ</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;media-industry;innovationNews;africa-news;retail;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Indian+e-commerce+firm+Snapdeal+rejects+rival+Flipkart%27s+initial+bid%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Sankalp Phartiyal"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Sankalp Phartiyal"/>
+    <cse:Attribute name="news_keywords" value="India;Japan;China;India;Japan;Snapdeal;US;SNAPDEAL;M;A;FLIPKART;Germany;Mergers / Acquisitions / Takeovers;Japan;Diversified Trading and Distributing (TRBC);Equity Financing;Media and Publishing (TRBC);Equity Investments;Africa;Divestitures / Spin;Offs;Asia / Pacific;Major News;Department Stores (TRBC);Pictures;Media / Publishing (Legacy);All Retail;United States;IT Services and Consulting (TRBC);Company News;India;South Africa;Software and IT Services (TRBC);China (PRC);Wireless Telecommunications Services (TRBC);Corporate Events;Internet / World Wide Web;Europe;Science;Technology / Media / Telecoms;Emerging Market Countries;Industrial Machinery / Equipment (Legacy);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Wed Jul 05 10:36:20 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Sankalp Phartiyal"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-05T10:36:20+0000"/>
+    <cse:Attribute name="sailthru.title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="India&apos;s No. 3 e-commerce firm Snapdeal has rejected an initial takeover offer from its larger rival Flipkart, but talks between the two camps that have been working on forging a deal for months continue, sources close to the matter said."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-05T10:36:20+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-05T10:36:20+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Sankalp Phartiyal"/>
+    <cse:Attribute name="og:article:tag" value="India,Japan,China,India,Japan,Snapdeal,US,SNAPDEAL,M,A,FLIPKART,Germany,Mergers / Acquisitions / Takeovers,Japan,Diversified Trading and Distributing (TRBC),Equity Financing,Media and Publishing (TRBC),Equity Investments,Africa,Divestitures / Spin,Offs,Asia / Pacific,Major News,Department Stores (TRBC),Pictures,Media / Publishing (Legacy),All Retail,United States,IT Services and Consulting (TRBC),Company News,India,South Africa,Software and IT Services (TRBC),China (PRC),Wireless Telecommunications Services (TRBC),Corporate Events,Internet / World Wide Web,Europe,Science,Technology / Media / Telecoms,Emerging Market Countries,Industrial Machinery / Equipment (Legacy),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Trump considering lawyer for White House Russia role: sources"/>
-    <cse:Attribute name="twitter:description" value="President Donald Trump is considering adding a veteran Washington lawyer to the White House counsel&apos;s office to deal with Russia-related issues, people familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
+    <cse:Attribute name="twitter:title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
+    <cse:Attribute name="twitter:description" value="India&apos;s No. 3 e-commerce firm Snapdeal has rejected an initial takeover offer from its larger rival Flipkart, but talks between the two camps that have been working on forging a deal for months continue, sources close to the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/politics/article"/>
-    <cse:Attribute name="wt.cg_n" value="Politics"/>
-    <cse:Attribute name="wt.cg_s" value="Politics"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191490164&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED621EG"/>
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX1oLzzheYm8LJsWQc8le5G2QpoMl18Y-a35F6jcnQCCZzAzfb8tlWDfLW"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/ecb-policy-idUSL8N1JP2WS</id>
-  <updated>1970-01-18T08:26:57.484Z</updated>
-  <title type="html">ECB chief was overinterpreted by skittish markets: sources | Reuters</title>
-  <link href="https://www.reuters.com/article/ecb-policy-idUSL8N1JP2WS" title="www.reuters.com"/>
-  <summary type="html">... a period of weaker inflation, not an imminent policy tightening, when his &lt;br&gt;
-comments sent the euro higher this week, &lt;b&gt;sources familiar with&lt;/b&gt; Draghi&amp;#39;s thinking &lt;br&gt;
-said.</summary>
-  <cse:cacheId>abmn1bdybHQJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/ecb-policy-idUSL8N1JP2WS</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="marketsNews;bondsNews"/>
-    <cse:Attribute name="dcsext.contentheadline" value="ECB+chief+was+overinterpreted+by+skittish+markets%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Mario Draghi;ECB;POLICY/;Germany;Western Europe;Central / Eastern Europe;Currencies / Foreign Exchange Markets;Interest Rates / Policy;Asset;Backed Securities;Major News;Debt / Fixed Income Markets;Monetary / Fiscal Policy / Policy Makers;International Agencies / Treaty Groups;Banking Services (TRBC);Banks (TRBC);European Central Bank;Financials (TRBC);Financials (Legacy);Government / Politics;Central Banks / Central Bank Events;Corporate Events;Economic Events;Euro Zone;European Union;General News;National Government Debt;Banking and Investment Services (TRBC);Euro Zone as a Whole;Money Markets;Europe;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Wed Jun 28 12:31:16 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-28T12:31:16+0000"/>
-    <cse:Attribute name="sailthru.title" value="ECB chief was overinterpreted by skittish markets: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="ECB chief was overinterpreted by skittish markets: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/ecb-policy-idUSL8N1JP2WS"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="European Central BankPresident Mario Draghi intended to signal tolerance for a periodof weaker inflation, not an imminent policy tightening, when hiscomments sent the euro higher this week, sources familiar withDraghi&apos;s thinking said."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-28T12:31:16+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-28T12:31:16+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Mario Draghi,ECB,POLICY/,Germany,Western Europe,Central / Eastern Europe,Currencies / Foreign Exchange Markets,Interest Rates / Policy,Asset,Backed Securities,Major News,Debt / Fixed Income Markets,Monetary / Fiscal Policy / Policy Makers,International Agencies / Treaty Groups,Banking Services (TRBC),Banks (TRBC),European Central Bank,Financials (TRBC),Financials (Legacy),Government / Politics,Central Banks / Central Bank Events,Corporate Events,Economic Events,Euro Zone,European Union,General News,National Government Debt,Banking and Investment Services (TRBC),Euro Zone as a Whole,Money Markets,Europe,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="ECB chief was overinterpreted by skittish markets: sources"/>
-    <cse:Attribute name="twitter:description" value="European Central BankPresident Mario Draghi intended to signal tolerance for a periodof weaker inflation, not an imminent policy tightening, when hiscomments sent the euro higher this week, sources familiar withDraghi&apos;s thinking said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/lotte-chemical-ipo-price-idUSL3N1JQ2C7</id>
-  <updated>1970-01-18T08:26:57.484Z</updated>
-  <title type="html">Malaysia&amp;#39;s Lotte Chemical Titan to relaunch IPO at lower price ...</title>
-  <link href="https://www.reuters.com/article/lotte-chemical-ipo-price-idUSL3N1JQ2C7" title="www.reuters.com"/>
-  <summary type="html">... relaunch its initial public offering (IPO) on Monday at a lower price than initially &lt;br&gt;
-targeted due to weak investor appetite, three &lt;b&gt;sources familiar with&lt;/b&gt; the deal said&amp;nbsp;...</summary>
-  <cse:cacheId>duhg6BqtDCIJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../lotte-chemical-ipo-price-idUSL3N1JQ2C7</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="basicMaterialsSector"/>
-    <cse:Attribute name="dcsext.channellist" value="energy-environment-economy;energy-news"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Malaysia%27s+Lotte+Chemical+Titan+to+relaunch+IPO+at+lower+price+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-basicMaterialsSector"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Malaysia;South Korea;LOTTE CHEMICAL;IPO/PRICE;Investment Banking and Investment Services (TRBC);Petrochemicals;Security Listings / Delistings;Energy Markets;Energy (Legacy);Initial Public Offerings;Equity Financing;Chemicals (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Deals;Commodity Chemicals (TRBC);Commodities Markets;Basic Materials (TRBC);Company News;South Korea;Financials (TRBC);Financials (Legacy);New Issues;Malaysia;Corporate Events;Economic Events;Oil and Gas (TRBC);Market Events;Banking and Investment Services (TRBC);Energy (TRBC);ASEAN Countries;Emerging Market Countries;Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Fri Jun 30 09:55:46 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-30T09:55:46+0000"/>
-    <cse:Attribute name="sailthru.title" value="Malaysia&apos;s Lotte Chemical Titan to relaunch IPO at lower price - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Malaysia&apos;s Lotte Chemical Titan to relaunch IPO at lower price - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/lotte-chemical-ipo-price-idUSL3N1JQ2C7"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Malaysia&apos;s Lotte ChemicalTitan Holding Sdn Bhd will relaunch its initial publicoffering (IPO) on Monday at a lower price than initiallytargeted due to weak investor appetite, three sources familiarwith the deal said."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-30T09:55:46+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-30T09:55:46+0000"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Malaysia,South Korea,LOTTE CHEMICAL,IPO/PRICE,Investment Banking and Investment Services (TRBC),Petrochemicals,Security Listings / Delistings,Energy Markets,Energy (Legacy),Initial Public Offerings,Equity Financing,Chemicals (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Deals,Commodity Chemicals (TRBC),Commodities Markets,Basic Materials (TRBC),Company News,South Korea,Financials (TRBC),Financials (Legacy),New Issues,Malaysia,Corporate Events,Economic Events,Oil and Gas (TRBC),Market Events,Banking and Investment Services (TRBC),Energy (TRBC),ASEAN Countries,Emerging Market Countries,Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Malaysia&apos;s Lotte Chemical Titan to relaunch IPO at lower price - sources"/>
-    <cse:Attribute name="twitter:description" value="Malaysia&apos;s Lotte ChemicalTitan Holding Sdn Bhd will relaunch its initial publicoffering (IPO) on Monday at a lower price than initiallytargeted due to weak investor appetite, three sources familiarwith the deal said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/poland-ma-inea-idUSL8N1JR393</id>
-  <updated>1970-01-18T08:26:57.484Z</updated>
-  <title type="html">Warburg Pincus looking to sell Polish cable operator Inea -sources ...</title>
-  <link href="https://www.reuters.com/article/poland-ma-inea-idUSL8N1JR393" title="www.reuters.com"/>
-  <summary type="html">Private equity firm WarburgPincus is considering selling its controlling stake in &lt;br&gt;
-Polishcable operator Inea, &lt;b&gt;sources familiar with&lt;/b&gt; the situation toldReuters.</summary>
-  <cse:cacheId>DN9JG68yZ-IJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/poland-ma-inea-idUSL8N1JR393</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="marketsNews;fundsFundsNews;bondsNews;transportation"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Warburg+Pincus+looking+to+sell+Polish+cable+operator+Inea+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Poland;POLAND;MandA/INEA;Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Western Europe;Privatisations;Equity Financing;Media and Publishing (TRBC);Transportation (TRBC);Credit and Corporate Debt;Central / Eastern Europe;Corporate Debt;Hedge Funds;Divestitures / Spin;Offs;Government Borrowing Requirement;Industrials (TRBC);Debt / Fixed Income Markets;Cyclical Consumer Services (TRBC);Deals;United Kingdom;Media / Publishing (Legacy);United States;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Insurance (TRBC);Financials (TRBC);Financials (Legacy);Telecommunications Services (TRBC);Government / Politics;Corporate Events;East European Countries;Banking and Investment Services (TRBC);Europe;Cyclical Consumer Goods and Services (TRBC);Technology / Media / Telecoms;Poland;Broadcasting (TRBC);Emerging Market Countries;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Fri Jun 30 13:38:56 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-30T13:38:56+0000"/>
-    <cse:Attribute name="sailthru.title" value="Warburg Pincus looking to sell Polish cable operator Inea -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Warburg Pincus looking to sell Polish cable operator Inea -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/poland-ma-inea-idUSL8N1JR393"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Private equity firm WarburgPincus is considering selling its controlling stake in Polishcable operator Inea, sources familiar with the situation toldReuters."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-30T13:38:56+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-30T13:38:56+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Poland,POLAND,MandA/INEA,Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Western Europe,Privatisations,Equity Financing,Media and Publishing (TRBC),Transportation (TRBC),Credit and Corporate Debt,Central / Eastern Europe,Corporate Debt,Hedge Funds,Divestitures / Spin,Offs,Government Borrowing Requirement,Industrials (TRBC),Debt / Fixed Income Markets,Cyclical Consumer Services (TRBC),Deals,United Kingdom,Media / Publishing (Legacy),United States,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Insurance (TRBC),Financials (TRBC),Financials (Legacy),Telecommunications Services (TRBC),Government / Politics,Corporate Events,East European Countries,Banking and Investment Services (TRBC),Europe,Cyclical Consumer Goods and Services (TRBC),Technology / Media / Telecoms,Poland,Broadcasting (TRBC),Emerging Market Countries,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Warburg Pincus looking to sell Polish cable operator Inea -sources"/>
-    <cse:Attribute name="twitter:description" value="Private equity firm WarburgPincus is considering selling its controlling stake in Polishcable operator Inea, sources familiar with the situation toldReuters."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+    <cse:Attribute name="width" value="279"/>
+    <cse:Attribute name="height" value="181"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgg7Bvl3rIGK2dMmrRZZsWfgeeK99NK0YXyTChgHvWYuAwjylhfmLdBQtT"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-canada-guantanamo-khadr-idUSKBN19P203</id>
-  <updated>1970-01-18T08:26:57.484Z</updated>
+  <updated>1970-01-18T08:32:06.748Z</updated>
   <title type="html">Canada to compensate ex-Guantanamo inmate, apologize: sources ...</title>
   <link href="http://www.reuters.com/article/us-canada-guantanamo-khadr-idUSKBN19P203" title="www.reuters.com"/>
   <summary type="html">... and pay him around C$10 million ($7.7 million) to compensate him for the &lt;br&gt;
@@ -481,7 +288,7 @@ Tuesday.</summary>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="worldNews;US-The-Wire;USWire_EL"/>
+    <cse:Attribute name="dcsext.channellist" value="worldNews;US-The-Wire;USWire_EL;Intel"/>
     <cse:Attribute name="dcsext.contentheadline" value="Canada+to+compensate+ex-Guantanamo+inmate%2C+apologize%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
@@ -490,7 +297,7 @@ Tuesday.</summary>
     <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
     <cse:Attribute name="author" value="David Ljunggren"/>
-    <cse:Attribute name="news_keywords" value="US;CANADA;GUANTANAMO;KHADR;Crime / Law / Justice;Americas;Afghanistan;South America / Central America;Judicial Process / Court Cases / Court Decisions;Diplomacy / Foreign Policy;Government / Politics;General News;Cuba;Asia / Pacific;Human Rights / Civil Rights;International / National Security;Conflicts / War / Peace;Canada;United States"/>
+    <cse:Attribute name="news_keywords" value="Afghanistan;Canada;Cuba;Republic of Ireland;United States;Ihsaan Gardee;Jody Wilson;Raybould;Justin Trudeau;Omar Khadr;US;CANADA;GUANTANAMO;KHADR;Crime / Law / Justice;Americas;Afghanistan;South America / Central America;Judicial Process / Court Cases / Court Decisions;Diplomacy / Foreign Policy;Government / Politics;General News;Cuba;Asia / Pacific;Human Rights / Civil Rights;International / National Security;Conflicts / War / Peace;Canada;United States"/>
     <cse:Attribute name="revision_date" value="Tue Jul 04 15:51:38 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="David Ljunggren"/>
     <cse:Attribute name="sailthru.date" value="2017-07-04T15:51:38+0000"/>
@@ -508,7 +315,7 @@ Tuesday.</summary>
     <cse:Attribute name="og:article:modified_time" value="2017-07-04T15:51:38+0000"/>
     <cse:Attribute name="og:article:section" value="World"/>
     <cse:Attribute name="og:article:author" value="David Ljunggren"/>
-    <cse:Attribute name="og:article:tag" value="US,CANADA,GUANTANAMO,KHADR,Crime / Law / Justice,Americas,Afghanistan,South America / Central America,Judicial Process / Court Cases / Court Decisions,Diplomacy / Foreign Policy,Government / Politics,General News,Cuba,Asia / Pacific,Human Rights / Civil Rights,International / National Security,Conflicts / War / Peace,Canada,United States"/>
+    <cse:Attribute name="og:article:tag" value="Afghanistan,Canada,Cuba,Republic of Ireland,United States,Ihsaan Gardee,Jody Wilson,Raybould,Justin Trudeau,Omar Khadr,US,CANADA,GUANTANAMO,KHADR,Crime / Law / Justice,Americas,Afghanistan,South America / Central America,Judicial Process / Court Cases / Court Decisions,Diplomacy / Foreign Policy,Government / Politics,General News,Cuba,Asia / Pacific,Human Rights / Civil Rights,International / National Security,Conflicts / War / Peace,Canada,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
@@ -533,21 +340,21 @@ Tuesday.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/eurozone-markets-idUSL8N1JP38F</id>
-  <updated>1970-01-18T08:26:57.484Z</updated>
-  <title type="html">Euro, bond yields fall after sources say Draghi comments ...</title>
-  <link href="https://www.reuters.com/article/eurozone-markets-idUSL8N1JP38F" title="www.reuters.com"/>
-  <summary type="html">... for a period of weaker inflation, not an imminent policy tightening, when his &lt;br&gt;
-comments on Tuesday rattled markets, &lt;b&gt;sources familiar with&lt;/b&gt; Draghi&amp;#39;s thinking &lt;br&gt;
-said.</summary>
-  <cse:cacheId>Jl_qKAPZKOAJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/eurozone-markets-idUSL8N1JP38F</cse:formattedUrl>
+  <id>https://www.reuters.com/article/dana-gas-sukuk-court-idUSL8N1JW5GB</id>
+  <updated>1970-01-18T08:32:06.748Z</updated>
+  <title type="html">UPDATE 1-London court to hear Dana Gas sukuk case in September</title>
+  <link href="https://www.reuters.com/article/dana-gas-sukuk-court-idUSL8N1JW5GB" title="www.reuters.com"/>
+  <summary type="html">... hearing in September on efforts by AbuDhabi-listed Dana Gas to restructure &lt;br&gt;
+$700 million ofits Islamic bonds, &lt;b&gt;sources familiar with&lt;/b&gt; the case said &lt;br&gt;
+onWednesday.</summary>
+  <cse:cacheId>KaExdD9bGqcJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../dana-gas-sukuk-court-idUSL8N1JW5GB</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
     <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="marketsNews;bondsNews"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Euro%2C+bond+yields+fall+after+sources+say+Draghi+comments+overinterpreted"/>
+    <cse:Attribute name="dcsext.channellist" value="marketsNews;energy-environment-economy;bondsNews;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-London+court+to+hear+Dana+Gas+sukuk+case+in+September"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
@@ -555,30 +362,30 @@ said.</summary>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Germany;Mario Draghi;EUROZONE;MARKETS/ (URGENT);Germany;Belgium;Finland;Portugal;Western Europe;France;Central / Eastern Europe;Debt / Fixed Income Markets;Nordic States;Monetary / Fiscal Policy / Policy Makers;Ireland;International Agencies / Treaty Groups;Automobiles / Auto Parts (Legacy);South;Eastern Europe;Financials (Legacy);Greece;Italy;Government / Politics;Central Banks / Central Bank Events;Corporate Events;Spain;Economic Events;Euro Zone;European Union;General News;Austria;National Government Debt;Euro Zone as a Whole;Europe;Netherlands"/>
-    <cse:Attribute name="revision_date" value="Wed Jun 28 12:39:58 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="United Arab Emirates;Dana Gas;DANA GAS;SUKUK/COURT (UPDATE 1);Crime / Law / Justice;Investment Banking and Investment Services (TRBC);Germany;Performance / Results / Earnings;Islamic Finance;Western Europe;Judicial Process / Court Cases / Court Decisions;Credit and Corporate Debt;Central / Eastern Europe;Corporate Debt;Asia / Pacific;Major News;Restructuring / Reorganization;Government Borrowing Requirement;Debt / Fixed Income Markets;Middle East;United Kingdom;Banking Services (TRBC);Banks (TRBC);Corporate Debt Renegotiation;United Arab Emirates;Company News;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Corporate Events;Economic Events;Euro Zone;Dividends;Oil and Gas (TRBC);General News;Integrated Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Europe;Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Wed Jul 05 19:04:16 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-28T12:39:58+0000"/>
-    <cse:Attribute name="sailthru.title" value="Euro, bond yields fall after sources say Draghi comments overinterpreted"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-05T19:04:16+0000"/>
+    <cse:Attribute name="sailthru.title" value="UPDATE 1-London court to hear Dana Gas sukuk case in September"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Euro, bond yields fall after sources say Draghi comments overinterpreted"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/eurozone-markets-idUSL8N1JP38F"/>
+    <cse:Attribute name="og:title" value="UPDATE 1-London court to hear Dana Gas sukuk case in September"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/dana-gas-sukuk-court-idUSL8N1JW5GB"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The euro fell and governmentbond yields across the bloc gave up earlier rises on Wednesdayafter euro zone central bank sources told Reuters the market hadoverinterpreted comments from ECB chief Mario Draghi."/>
+    <cse:Attribute name="og:description" value="London&apos;s High Court plansto hold a full hearing in September on efforts by AbuDhabi-listed Dana Gas to restructure $700 million ofits Islamic bonds, sources familiar with the case said onWednesday."/>
     <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-28T12:39:58+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-28T12:39:58+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-05T19:04:16+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-05T19:04:16+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Germany,Mario Draghi,EUROZONE,MARKETS/ (URGENT),Germany,Belgium,Finland,Portugal,Western Europe,France,Central / Eastern Europe,Debt / Fixed Income Markets,Nordic States,Monetary / Fiscal Policy / Policy Makers,Ireland,International Agencies / Treaty Groups,Automobiles / Auto Parts (Legacy),South,Eastern Europe,Financials (Legacy),Greece,Italy,Government / Politics,Central Banks / Central Bank Events,Corporate Events,Spain,Economic Events,Euro Zone,European Union,General News,Austria,National Government Debt,Euro Zone as a Whole,Europe,Netherlands"/>
+    <cse:Attribute name="og:article:tag" value="United Arab Emirates,Dana Gas,DANA GAS,SUKUK/COURT (UPDATE 1),Crime / Law / Justice,Investment Banking and Investment Services (TRBC),Germany,Performance / Results / Earnings,Islamic Finance,Western Europe,Judicial Process / Court Cases / Court Decisions,Credit and Corporate Debt,Central / Eastern Europe,Corporate Debt,Asia / Pacific,Major News,Restructuring / Reorganization,Government Borrowing Requirement,Debt / Fixed Income Markets,Middle East,United Kingdom,Banking Services (TRBC),Banks (TRBC),Corporate Debt Renegotiation,United Arab Emirates,Company News,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Corporate Events,Economic Events,Euro Zone,Dividends,Oil and Gas (TRBC),General News,Integrated Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Europe,Emerging Market Countries,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Euro, bond yields fall after sources say Draghi comments overinterpreted"/>
-    <cse:Attribute name="twitter:description" value="The euro fell and governmentbond yields across the bloc gave up earlier rises on Wednesdayafter euro zone central bank sources told Reuters the market hadoverinterpreted comments from ECB chief Mario Draghi."/>
+    <cse:Attribute name="twitter:title" value="UPDATE 1-London court to hear Dana Gas sukuk case in September"/>
+    <cse:Attribute name="twitter:description" value="London&apos;s High Court plansto hold a full hearing in September on efforts by AbuDhabi-listed Dana Gas to restructure $700 million ofits Islamic bonds, sources familiar with the case said onWednesday."/>
     <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
@@ -598,59 +405,122 @@ said.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/gulf-qatar-switzerland-idUSL8N1JQ2QS</id>
-  <updated>1970-01-18T08:26:57.484Z</updated>
-  <title type="html">Qatari rights body to hire Swiss firm to seek damages against Gulf ...</title>
-  <link href="https://www.reuters.com/article/gulf-qatar-switzerland-idUSL8N1JQ2QS" title="www.reuters.com"/>
-  <summary type="html">... Swiss law firm to help seek compensation for citizensaffected by sanctions &lt;br&gt;
-imposed by Saudi Arabia and other Arabstates, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-matter&amp;nbsp;...</summary>
-  <cse:cacheId>pWJ7GC2yuTUJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../gulf-qatar-switzerland-idUSL8N1JQ2QS</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX</id>
+  <updated>1970-01-18T08:32:06.748Z</updated>
+  <title type="html">BOJ to cut inflation forecasts, hold off on easing: sources | Reuters</title>
+  <link href="https://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX" title="www.reuters.com"/>
+  <summary type="html">... has yet to translate into inflation, a dilemma they are struggling with as wages &lt;br&gt;
+and prices remain stubbornly weak, say &lt;b&gt;sources familiar with&lt;/b&gt; its thinking.</summary>
+  <cse:cacheId>OVLB3Cm0JfYJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-japan-economy-boj-idUSKBN19Q0IX</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
-    <cse:Attribute name="dcsext.channellist" value="energy-news;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Qatari+rights+body+to+hire+Swiss+firm+to+seek+damages+against+Gulf+states"/>
+    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
+    <cse:Attribute name="dcsext.channellist" value="ousivMolt;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="BOJ+to+cut+inflation+forecasts%2C+hold+off+on+easing%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Leika Kihara"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
+    <cse:Attribute name="author" value="Leika Kihara"/>
+    <cse:Attribute name="news_keywords" value="Haruhiko Kuroda;Izuru Kato;US;JAPAN;ECONOMY;BOJ;Japan;Inflation;Central Banks / Central Bank Events;Corporate Events;Interest Rates / Policy;Economic Events;Asia / Pacific;Major News;Graphics;Monetary / Fiscal Policy / Policy Makers;Bank of Japan;Economic News (3rd Party)"/>
+    <cse:Attribute name="revision_date" value="Wed Jul 05 07:31:58 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Leika Kihara"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-05T07:31:58+0000"/>
+    <cse:Attribute name="sailthru.title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Japan&apos;s central bank will cut its inflation forecasts but hold off expanding stimulus this month, people familiar with the matter say, in another sign the bank is retreating from Governor Haruhiko Kuroda&apos;s initial pledge to do whatever it takes to achieve his ambitious inflation target."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-05T07:31:58+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-05T07:31:58+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Leika Kihara"/>
+    <cse:Attribute name="og:article:tag" value="Haruhiko Kuroda,Izuru Kato,US,JAPAN,ECONOMY,BOJ,Japan,Inflation,Central Banks / Central Bank Events,Corporate Events,Interest Rates / Policy,Economic Events,Asia / Pacific,Major News,Graphics,Monetary / Fiscal Policy / Policy Makers,Bank of Japan,Economic News (3rd Party)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
+    <cse:Attribute name="twitter:description" value="Japan&apos;s central bank will cut its inflation forecasts but hold off expanding stimulus this month, people familiar with the matter say, in another sign the bank is retreating from Governor Haruhiko Kuroda&apos;s initial pledge to do whatever it takes to achieve his ambitious inflation target."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="276"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54eh0T7cZ39uC-aiguMZ6vaxngsAcAOMbupC6j5V8BA6J0QOXcyw0yaI"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/japan-economy-boj-idUSL3N1JW1FI</id>
+  <updated>1970-01-18T08:32:06.748Z</updated>
+  <title type="html">BOJ to cut inflation forecasts, hold off on easing - sources | Reuters</title>
+  <link href="https://www.reuters.com/article/japan-economy-boj-idUSL3N1JW1FI" title="www.reuters.com"/>
+  <summary type="html">... and offer a more upbeat assessment of the economy than it did in June to say it &lt;br&gt;
+is expanding moderately, said &lt;b&gt;sources familiar with&lt;/b&gt; the central bank&amp;#39;s thinking.</summary>
+  <cse:cacheId>d-GWPqcFilsJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/japan-economy-boj-idUSL3N1JW1FI</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="marketsNews;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="BOJ+to+cut+inflation+forecasts%2C+hold+off+on+easing+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Bahrain;Iraq;Kuwait;Qatar;Saudi Arabia;United Arab Emirates;Ali al;Marri;Michael Schneider;Saddam Hussein;GULF;QATAR/SWITZERLAND (TV);Chemicals (Legacy);Energy Markets;Western Europe;Energy (Legacy);Central / Eastern Europe;Saudi Arabia;Qatar;Asia / Pacific;Middle East;Commodities Markets;United Arab Emirates;Switzerland;Middle East (Energy);Government / Politics;Corporate Events;Oil and Gas (TRBC);Europe / Middle East / Africa (Energy);General News;Energy (TRBC);Europe;Natural Gas;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Thu Jun 29 13:08:43 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Haruhiko Kuroda;JAPAN;ECONOMY/BOJ (URGENT;PIX);Japan;Inflation;Central Banks / Central Bank Events;Corporate Events;Interest Rates / Policy;Economic Events;Mining;Asia / Pacific;Major News;Monetary / Fiscal Policy / Policy Makers;Bank of Japan"/>
+    <cse:Attribute name="revision_date" value="Wed Jul 05 06:00:01 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-06-29T13:08:43+0000"/>
-    <cse:Attribute name="sailthru.title" value="Qatari rights body to hire Swiss firm to seek damages against Gulf states"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-05T06:00:01+0000"/>
+    <cse:Attribute name="sailthru.title" value="BOJ to cut inflation forecasts, hold off on easing - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Qatari rights body to hire Swiss firm to seek damages against Gulf states"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/gulf-qatar-switzerland-idUSL8N1JQ2QS"/>
+    <cse:Attribute name="og:title" value="BOJ to cut inflation forecasts, hold off on easing - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/japan-economy-boj-idUSL3N1JW1FI"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="A Qatari human rights group ishiring a Swiss law firm to help seek compensation for citizensaffected by sanctions imposed by Saudi Arabia and other Arabstates, two sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="og:description" value="Japan&apos;s central bank will cut itsinflation forecasts but hold off expanding stimulus this month,people familiar with the matter say, in another sign the bank isretreating from Governor Haruhiko Kuroda&apos;s initial pledge to dowhatever it takes to achieve his ambitious inflation target."/>
     <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-06-29T13:08:43+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-06-29T13:08:43+0000"/>
-    <cse:Attribute name="og:article:section" value="Subjects"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-05T06:00:01+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-05T06:00:01+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Bahrain,Iraq,Kuwait,Qatar,Saudi Arabia,United Arab Emirates,Ali al,Marri,Michael Schneider,Saddam Hussein,GULF,QATAR/SWITZERLAND (TV),Chemicals (Legacy),Energy Markets,Western Europe,Energy (Legacy),Central / Eastern Europe,Saudi Arabia,Qatar,Asia / Pacific,Middle East,Commodities Markets,United Arab Emirates,Switzerland,Middle East (Energy),Government / Politics,Corporate Events,Oil and Gas (TRBC),Europe / Middle East / Africa (Energy),General News,Energy (TRBC),Europe,Natural Gas,Emerging Market Countries"/>
+    <cse:Attribute name="og:article:tag" value="Haruhiko Kuroda,JAPAN,ECONOMY/BOJ (URGENT,PIX),Japan,Inflation,Central Banks / Central Bank Events,Corporate Events,Interest Rates / Policy,Economic Events,Mining,Asia / Pacific,Major News,Monetary / Fiscal Policy / Policy Makers,Bank of Japan"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Qatari rights body to hire Swiss firm to seek damages against Gulf states"/>
-    <cse:Attribute name="twitter:description" value="A Qatari human rights group ishiring a Swiss law firm to help seek compensation for citizensaffected by sanctions imposed by Saudi Arabia and other Arabstates, two sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="twitter:title" value="BOJ to cut inflation forecasts, hold off on easing - sources"/>
+    <cse:Attribute name="twitter:description" value="Japan&apos;s central bank will cut itsinflation forecasts but hold off expanding stimulus this month,people familiar with the matter say, in another sign the bank isretreating from Governor Haruhiko Kuroda&apos;s initial pledge to dowhatever it takes to achieve his ambitious inflation target."/>
     <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
-    <cse:Attribute name="wt.cg_n" value="Subjects"/>
-    <cse:Attribute name="wt.cg_s" value="Energy"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -659,6 +529,164 @@ matter&amp;nbsp;...</summary>
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-usa-india-westinghouse-idUSKBN19N0Y1</id>
+  <updated>1970-01-18T08:32:06.748Z</updated>
+  <title type="html">Washington tells India Westinghouse could be sold by year end ...</title>
+  <link href="http://www.reuters.com/article/us-usa-india-westinghouse-idUSKBN19N0Y1" title="www.reuters.com"/>
+  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the matter said the statement was backed by U.S. guidance &lt;br&gt;
+that Westinghouse would be sold to a U.S. investor after emerging from&amp;nbsp;...</summary>
+  <cse:cacheId>Vao0If_pFkgJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-usa-india-westinghouse-idUSKBN19N0Y1</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;ousivMolt;businessNews;GCA-Commodities;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Washington+tells+India+Westinghouse+could+be+sold+by+year+end%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="3"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Douglas Busvine"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Douglas Busvine"/>
+    <cse:Attribute name="news_keywords" value="India;United States;Ashley Tellis;Donald J. Trump;Kenneth Juster;Narendra Modi;Rick Perry;S.N. Roy;SUBRAHMANYAM JAISHANKAR;US;USA;INDIA;WESTINGHOUSE;Mergers / Acquisitions / Takeovers;Company News;India;Japan;Construction and Engineering (TRBC);Diplomacy / Foreign Policy;Government / Politics;Corporate Events;Asia / Pacific;Bankruptcy / Insolvency;Major News;Debt / Fixed Income Markets;Electric Utilities (TRBC);Industrial Conglomerates (TRBC);Emerging Market Countries;Industrial Machinery / Equipment (Legacy);United States"/>
+    <cse:Attribute name="revision_date" value="Mon Jul 03 01:13:35 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Douglas Busvine"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-03T01:13:35+0000"/>
+    <cse:Attribute name="sailthru.title" value="Washington tells India Westinghouse could be sold by year end: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Washington tells India Westinghouse could be sold by year end: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-india-westinghouse-idUSKBN19N0Y1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The U.S. administration has told India that Westinghouse Electric Co will emerge from bankruptcy and be sold by the year end, industry and diplomatic sources have said, raising the prospect of a Washington-supported sale or bailout for the nuclear firm."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191384441&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6201M"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-03T01:13:35+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-03T01:13:35+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Douglas Busvine"/>
+    <cse:Attribute name="og:article:tag" value="India,United States,Ashley Tellis,Donald J. Trump,Kenneth Juster,Narendra Modi,Rick Perry,S.N. Roy,SUBRAHMANYAM JAISHANKAR,US,USA,INDIA,WESTINGHOUSE,Mergers / Acquisitions / Takeovers,Company News,India,Japan,Construction and Engineering (TRBC),Diplomacy / Foreign Policy,Government / Politics,Corporate Events,Asia / Pacific,Bankruptcy / Insolvency,Major News,Debt / Fixed Income Markets,Electric Utilities (TRBC),Industrial Conglomerates (TRBC),Emerging Market Countries,Industrial Machinery / Equipment (Legacy),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Washington tells India Westinghouse could be sold by year end: sources"/>
+    <cse:Attribute name="twitter:description" value="The U.S. administration has told India that Westinghouse Electric Co will emerge from bankruptcy and be sold by the year end, industry and diplomatic sources have said, raising the prospect of a Washington-supported sale or bailout for the nuclear firm."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191384441&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6201M"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191384441&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6201M"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191384441&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6201M"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAFNBFR0HBaosAKF9ToHFZwF1bg_eRexWjDYXAwNjWPdKo0e0KKEsKWk8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.politico.com/states/new-jersey/story/2017/07/03/budget-deal-in-the-works-lawmakers-told-to-be-on-standby-113205</id>
+  <updated>1970-01-18T08:32:06.748Z</updated>
+  <title type="html">Sources: Deal in the works to end budget standoff, shutdown</title>
+  <link href="http://www.politico.com/states/new-jersey/story/2017/07/03/budget-deal-in-the-works-lawmakers-told-to-be-on-standby-113205" title="www.politico.com"/>
+  <summary type="html">TRENTON - A deal to end the budget impasses, which has shutdown state &lt;br&gt;
+government for three days, is in the works, according to three &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>XK6Mb5zcWg8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/.../budget-deal-in-the-works-lawmakers-told-to-be-on- standby-113205</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Ryan Hutchins"/>
+    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/ryan-hutchins"/>
+    <cse:Attribute name="url_text" value="Ryan Hutchins"/>
+    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/56bf120/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-187951.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Matt Friedman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/matt-friedman"/>
+    <cse:Attribute name="url_text" value="Matt Friedman"/>
+    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/8f94569/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F32%2Fa2%2F0d9ddf574a4fadbf443c4503ff4a%2Fmatt-friedman-staff-photo-2017.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="David Giambusso"/>
+    <cse:Attribute name="url" value="http://www.politico.com/states/new-york/staff/david-giambusso"/>
+    <cse:Attribute name="url_text" value="David Giambusso"/>
+    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/2c0604e/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-188039.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Katie Jennings"/>
+    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/katie-jennings"/>
+    <cse:Attribute name="url_text" value="Katie Jennings"/>
+    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/884e0d3/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F7d%2Fd8%2F72287de841429e46667b3687e2ab%2Fkatie-jennings-staff-photo-2017.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Katherine Landergan"/>
+    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/katherine-landergan"/>
+    <cse:Attribute name="url_text" value="Katherine Landergan"/>
+    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/fcf69a1/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-193181.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Linh Tat"/>
+    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/linh-tat"/>
+    <cse:Attribute name="url_text" value="Linh Tat"/>
+    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/e7cc519/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-192922.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Katie Jennings"/>
+    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/katie-jennings"/>
+    <cse:Attribute name="url_text" value="Katie Jennings"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Katie Jennings"/>
+    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/katie-jennings"/>
+    <cse:Attribute name="url_text" value="Katie Jennings"/>
+   </cse:DataObject>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="og:title" value="Sources: Deal in the works to end budget standoff, shutdown"/>
+    <cse:Attribute name="og:description" value="&lt;p&gt;TRENTON - A deal to end the budget impasses, which has shutdown state government for three days, is in the works, according to three sources familiar with the negotiations. &lt;/p&gt;"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2taVwwi"/>
+    <cse:Attribute name="og:site_name" value="Politico PRO"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/92/3b/92db533e42f1946316ce165c3ec4/170601-vincent-prieto-ap.jpg"/>
+    <cse:Attribute name="host" value="www.politico.com"/>
+    <cse:Attribute name="build" value="release/2017-irma 1802dd7 2017-06-28T15:15:32Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Sources: Deal in the works to end budget standoff, shutdown"/>
+    <cse:Attribute name="datepublished" value="2017-07-03 19:21:56"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="url" value="http://www.politico.com/"/>
+    <cse:Attribute name="name" value="POLITICO"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://static.politico.com/92/3b/92db533e42f1946316ce165c3ec4/170601-vincent-prieto-ap.jpg"/>
+    <cse:Attribute name="width" value="1160"/>
+    <cse:Attribute name="height" value="550"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Katie Jennings"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static.politico.com/92/3b/92db533e42f1946316ce165c3ec4/170601-vincent-prieto-ap.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="305"/>
+    <cse:Attribute name="height" value="165"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP9lAbATysAdn2Pq0u-1s3J7vB_ET33F9AUymqZqQ9Ep_eWnKuNntNtac"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
