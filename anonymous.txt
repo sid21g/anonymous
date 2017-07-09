@@ -5,89 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T08:32:06.748Z</updated>
+ <updated>1970-01-18T08:33:07.332Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6410" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6410" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>6410</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6090" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6090" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>6090</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.310797</cse:searchTime>
-  <cse:formattedSearchTime>0.31</cse:formattedSearchTime>
-  <cse:totalResults>6410</cse:totalResults>
-  <cse:formattedTotalResults>6,410</cse:formattedTotalResults>
+  <cse:searchTime>0.220963</cse:searchTime>
+  <cse:formattedSearchTime>0.22</cse:formattedSearchTime>
+  <cse:totalResults>6090</cse:totalResults>
+  <cse:formattedTotalResults>6,090</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO</id>
-  <updated>1970-01-18T08:32:06.748Z</updated>
-  <title type="html">SK Hynix proposes financing Toshiba chip deal via convertible ...</title>
-  <link href="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO" title="www.reuters.com"/>
-  <summary type="html">The current scheme proposed by the preferred bidder consortium has raised &lt;br&gt;
-eyebrows as &lt;b&gt;sources familiar with&lt;/b&gt; the matter say a state-backed fund, the&amp;nbsp;...</summary>
-  <cse:cacheId>VfqTTBqenaAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationIntellectualProperty"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationIntellectualProperty;innovation;top-100-innovators;technologyNews;innovationNews;japan;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="SK+Hynix+proposes+financing+Toshiba+chip+deal+via+convertible+bonds%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Se Young Lee and Kentaro Hamada"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationIntellectualProperty"/>
-    <cse:Attribute name="author" value="Se Young Lee and Kentaro Hamada"/>
-    <cse:Attribute name="news_keywords" value="Japan;Satoshi Tsunakawa;US;TOSHIBA;ACCOUNTING;Mergers / Acquisitions / Takeovers;Company News;Japan;South Korea;Semiconductors and Semiconductor Equipment (TRBC);Corporate Events;Monopolies / Antitrust Issues;Technology (TRBC);Semiconductors (TRBC);Electrical Components and Equipment (TRBC);Asia / Pacific;Major News;Restructuring / Reorganization;Equity;Linked Bonds;Science;Industrial Conglomerates (TRBC);Company Management Issues;Emerging Market Countries;Private Equity Funds;United States;Computer Hardware (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Mon Jul 03 07:15:45 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Se Young Lee and Kentaro Hamada"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-03T07:15:45+0000"/>
-    <cse:Attribute name="sailthru.title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-toshiba-accounting-idUSKBN19O0LO"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="SK Hynix Inc has proposed that its financing for a Japan government-led group bidding for Toshiba Corp&apos;s chip unit be done through convertible bonds, two sources familiar with the matter said, potentially allowing it to have an equity interest in the world&apos;s No. 2 NAND chip maker."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-03T07:15:45+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-03T07:15:45+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Se Young Lee and Kentaro Hamada"/>
-    <cse:Attribute name="og:article:tag" value="Japan,Satoshi Tsunakawa,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Company News,Japan,South Korea,Semiconductors and Semiconductor Equipment (TRBC),Corporate Events,Monopolies / Antitrust Issues,Technology (TRBC),Semiconductors (TRBC),Electrical Components and Equipment (TRBC),Asia / Pacific,Major News,Restructuring / Reorganization,Equity,Linked Bonds,Science,Industrial Conglomerates (TRBC),Company Management Issues,Emerging Market Countries,Private Equity Funds,United States,Computer Hardware (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds: sources"/>
-    <cse:Attribute name="twitter:description" value="SK Hynix Inc has proposed that its financing for a Japan government-led group bidding for Toshiba Corp&apos;s chip unit be done through convertible bonds, two sources familiar with the matter said, potentially allowing it to have an equity interest in the world&apos;s No. 2 NAND chip maker."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/innovation/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Innovation and Intellectual Property"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191410226&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED620D4"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="273"/>
-    <cse:Attribute name="height" value="185"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEofAiIY3Pv2pDJdryx0xPrtTNNp5sZxHf_oJ1jY0CDXIrlt6yHLniKFM"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/uk-stada-arzneimitt-m-a-elliott-idUSKBN19S12A</id>
-  <updated>1970-01-18T08:32:06.748Z</updated>
+  <updated>1970-01-18T08:33:07.332Z</updated>
   <title type="html">Activist Elliott acquires Stada stake: sources | Reuters</title>
   <link href="https://www.reuters.com/article/uk-stada-arzneimitt-m-a-elliott-idUSKBN19S12A" title="www.reuters.com"/>
   <summary type="html">Activist investor Elliott Management has bought a stake in Stada, two financial &lt;br&gt;
@@ -150,8 +86,72 @@ eyebrows as &lt;b&gt;sources familiar with&lt;/b&gt; the matter say a state-back
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX</id>
+  <updated>1970-01-18T08:33:07.332Z</updated>
+  <title type="html">BOJ to cut inflation forecasts, hold off on easing: sources | Reuters</title>
+  <link href="https://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX" title="www.reuters.com"/>
+  <summary type="html">... has yet to translate into inflation, a dilemma they are struggling with as wages &lt;br&gt;
+and prices remain stubbornly weak, say &lt;b&gt;sources familiar with&lt;/b&gt; its thinking.</summary>
+  <cse:cacheId>OVLB3Cm0JfYJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-japan-economy-boj-idUSKBN19Q0IX</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
+    <cse:Attribute name="dcsext.channellist" value="ousivMolt;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="BOJ+to+cut+inflation+forecasts%2C+hold+off+on+easing%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Leika Kihara"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
+    <cse:Attribute name="author" value="Leika Kihara"/>
+    <cse:Attribute name="news_keywords" value="Haruhiko Kuroda;Izuru Kato;US;JAPAN;ECONOMY;BOJ;Japan;Inflation;Central Banks / Central Bank Events;Corporate Events;Interest Rates / Policy;Economic Events;Asia / Pacific;Major News;Graphics;Monetary / Fiscal Policy / Policy Makers;Bank of Japan;Economic News (3rd Party)"/>
+    <cse:Attribute name="revision_date" value="Wed Jul 05 07:31:58 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Leika Kihara"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-05T07:31:58+0000"/>
+    <cse:Attribute name="sailthru.title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Japan&apos;s central bank will cut its inflation forecasts but hold off expanding stimulus this month, people familiar with the matter say, in another sign the bank is retreating from Governor Haruhiko Kuroda&apos;s initial pledge to do whatever it takes to achieve his ambitious inflation target."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-05T07:31:58+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-05T07:31:58+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Leika Kihara"/>
+    <cse:Attribute name="og:article:tag" value="Haruhiko Kuroda,Izuru Kato,US,JAPAN,ECONOMY,BOJ,Japan,Inflation,Central Banks / Central Bank Events,Corporate Events,Interest Rates / Policy,Economic Events,Asia / Pacific,Major News,Graphics,Monetary / Fiscal Policy / Policy Makers,Bank of Japan,Economic News (3rd Party)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
+    <cse:Attribute name="twitter:description" value="Japan&apos;s central bank will cut its inflation forecasts but hold off expanding stimulus this month, people familiar with the matter say, in another sign the bank is retreating from Governor Haruhiko Kuroda&apos;s initial pledge to do whatever it takes to achieve his ambitious inflation target."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="276"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54eh0T7cZ39uC-aiguMZ6vaxngsAcAOMbupC6j5V8BA6J0QOXcyw0yaI"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/usa-trump-russia-lawyer-idUSL1N1JU190</id>
-  <updated>1970-01-18T08:32:06.748Z</updated>
+  <updated>1970-01-18T08:33:07.332Z</updated>
   <title type="html">Trump considering lawyer for White House Russia role -sources ...</title>
   <link href="https://www.reuters.com/article/usa-trump-russia-lawyer-idUSL1N1JU190" title="www.reuters.com"/>
   <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the matter, lawyers from major firms have &lt;br&gt;
@@ -211,72 +211,8 @@ turned down joining Trump&amp;#39;s outside legal team, citing conflicts at thei
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ</id>
-  <updated>1970-01-18T08:32:06.748Z</updated>
-  <title type="html">Indian e-commerce firm Snapdeal rejects rival Flipkart&amp;#39;s initial bid ...</title>
-  <link href="https://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ" title="www.reuters.com"/>
-  <summary type="html">The Snapdeal board rejected the bid as it was below a valuation of $1 billion &lt;br&gt;
-indicated earlier by Flipkart, two &lt;b&gt;sources familiar with&lt;/b&gt; the negotiations said.</summary>
-  <cse:cacheId>sn__mrVgKe8J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-snapdeal-m-a-flipkart-idUSKBN19P2BQ</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;media-industry;innovationNews;africa-news;retail;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Indian+e-commerce+firm+Snapdeal+rejects+rival+Flipkart%27s+initial+bid%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Sankalp Phartiyal"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Sankalp Phartiyal"/>
-    <cse:Attribute name="news_keywords" value="India;Japan;China;India;Japan;Snapdeal;US;SNAPDEAL;M;A;FLIPKART;Germany;Mergers / Acquisitions / Takeovers;Japan;Diversified Trading and Distributing (TRBC);Equity Financing;Media and Publishing (TRBC);Equity Investments;Africa;Divestitures / Spin;Offs;Asia / Pacific;Major News;Department Stores (TRBC);Pictures;Media / Publishing (Legacy);All Retail;United States;IT Services and Consulting (TRBC);Company News;India;South Africa;Software and IT Services (TRBC);China (PRC);Wireless Telecommunications Services (TRBC);Corporate Events;Internet / World Wide Web;Europe;Science;Technology / Media / Telecoms;Emerging Market Countries;Industrial Machinery / Equipment (Legacy);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Wed Jul 05 10:36:20 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Sankalp Phartiyal"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-05T10:36:20+0000"/>
-    <cse:Attribute name="sailthru.title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="India&apos;s No. 3 e-commerce firm Snapdeal has rejected an initial takeover offer from its larger rival Flipkart, but talks between the two camps that have been working on forging a deal for months continue, sources close to the matter said."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-05T10:36:20+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-05T10:36:20+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Sankalp Phartiyal"/>
-    <cse:Attribute name="og:article:tag" value="India,Japan,China,India,Japan,Snapdeal,US,SNAPDEAL,M,A,FLIPKART,Germany,Mergers / Acquisitions / Takeovers,Japan,Diversified Trading and Distributing (TRBC),Equity Financing,Media and Publishing (TRBC),Equity Investments,Africa,Divestitures / Spin,Offs,Asia / Pacific,Major News,Department Stores (TRBC),Pictures,Media / Publishing (Legacy),All Retail,United States,IT Services and Consulting (TRBC),Company News,India,South Africa,Software and IT Services (TRBC),China (PRC),Wireless Telecommunications Services (TRBC),Corporate Events,Internet / World Wide Web,Europe,Science,Technology / Media / Telecoms,Emerging Market Countries,Industrial Machinery / Equipment (Legacy),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
-    <cse:Attribute name="twitter:description" value="India&apos;s No. 3 e-commerce firm Snapdeal has rejected an initial takeover offer from its larger rival Flipkart, but talks between the two camps that have been working on forging a deal for months continue, sources close to the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="279"/>
-    <cse:Attribute name="height" value="181"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgg7Bvl3rIGK2dMmrRZZsWfgeeK99NK0YXyTChgHvWYuAwjylhfmLdBQtT"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-canada-guantanamo-khadr-idUSKBN19P203</id>
-  <updated>1970-01-18T08:32:06.748Z</updated>
+  <updated>1970-01-18T08:33:07.332Z</updated>
   <title type="html">Canada to compensate ex-Guantanamo inmate, apologize: sources ...</title>
   <link href="http://www.reuters.com/article/us-canada-guantanamo-khadr-idUSKBN19P203" title="www.reuters.com"/>
   <summary type="html">... and pay him around C$10 million ($7.7 million) to compensate him for the &lt;br&gt;
@@ -340,8 +276,72 @@ Tuesday.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ</id>
+  <updated>1970-01-18T08:33:07.332Z</updated>
+  <title type="html">Indian e-commerce firm Snapdeal rejects rival Flipkart&amp;#39;s initial bid ...</title>
+  <link href="https://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ" title="www.reuters.com"/>
+  <summary type="html">The Snapdeal board rejected the bid as it was below a valuation of $1 billion &lt;br&gt;
+indicated earlier by Flipkart, two &lt;b&gt;sources familiar with&lt;/b&gt; the negotiations said.</summary>
+  <cse:cacheId>sn__mrVgKe8J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-snapdeal-m-a-flipkart-idUSKBN19P2BQ</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;media-industry;innovationNews;africa-news;retail;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Indian+e-commerce+firm+Snapdeal+rejects+rival+Flipkart%27s+initial+bid%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Sankalp Phartiyal"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Sankalp Phartiyal"/>
+    <cse:Attribute name="news_keywords" value="India;Japan;China;India;Japan;Snapdeal;US;SNAPDEAL;M;A;FLIPKART;Germany;Mergers / Acquisitions / Takeovers;Japan;Diversified Trading and Distributing (TRBC);Equity Financing;Media and Publishing (TRBC);Equity Investments;Africa;Divestitures / Spin;Offs;Asia / Pacific;Major News;Department Stores (TRBC);Pictures;Media / Publishing (Legacy);All Retail;United States;IT Services and Consulting (TRBC);Company News;India;South Africa;Software and IT Services (TRBC);China (PRC);Wireless Telecommunications Services (TRBC);Corporate Events;Internet / World Wide Web;Europe;Science;Technology / Media / Telecoms;Emerging Market Countries;Industrial Machinery / Equipment (Legacy);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Wed Jul 05 10:36:20 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Sankalp Phartiyal"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-05T10:36:20+0000"/>
+    <cse:Attribute name="sailthru.title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="India&apos;s No. 3 e-commerce firm Snapdeal has rejected an initial takeover offer from its larger rival Flipkart, but talks between the two camps that have been working on forging a deal for months continue, sources close to the matter said."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-05T10:36:20+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-05T10:36:20+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Sankalp Phartiyal"/>
+    <cse:Attribute name="og:article:tag" value="India,Japan,China,India,Japan,Snapdeal,US,SNAPDEAL,M,A,FLIPKART,Germany,Mergers / Acquisitions / Takeovers,Japan,Diversified Trading and Distributing (TRBC),Equity Financing,Media and Publishing (TRBC),Equity Investments,Africa,Divestitures / Spin,Offs,Asia / Pacific,Major News,Department Stores (TRBC),Pictures,Media / Publishing (Legacy),All Retail,United States,IT Services and Consulting (TRBC),Company News,India,South Africa,Software and IT Services (TRBC),China (PRC),Wireless Telecommunications Services (TRBC),Corporate Events,Internet / World Wide Web,Europe,Science,Technology / Media / Telecoms,Emerging Market Countries,Industrial Machinery / Equipment (Legacy),Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
+    <cse:Attribute name="twitter:description" value="India&apos;s No. 3 e-commerce firm Snapdeal has rejected an initial takeover offer from its larger rival Flipkart, but talks between the two camps that have been working on forging a deal for months continue, sources close to the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="279"/>
+    <cse:Attribute name="height" value="181"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgg7Bvl3rIGK2dMmrRZZsWfgeeK99NK0YXyTChgHvWYuAwjylhfmLdBQtT"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/dana-gas-sukuk-court-idUSL8N1JW5GB</id>
-  <updated>1970-01-18T08:32:06.748Z</updated>
+  <updated>1970-01-18T08:33:07.332Z</updated>
   <title type="html">UPDATE 1-London court to hear Dana Gas sukuk case in September</title>
   <link href="https://www.reuters.com/article/dana-gas-sukuk-court-idUSL8N1JW5GB" title="www.reuters.com"/>
   <summary type="html">... hearing in September on efforts by AbuDhabi-listed Dana Gas to restructure &lt;br&gt;
@@ -405,72 +405,8 @@ onWednesday.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX</id>
-  <updated>1970-01-18T08:32:06.748Z</updated>
-  <title type="html">BOJ to cut inflation forecasts, hold off on easing: sources | Reuters</title>
-  <link href="https://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX" title="www.reuters.com"/>
-  <summary type="html">... has yet to translate into inflation, a dilemma they are struggling with as wages &lt;br&gt;
-and prices remain stubbornly weak, say &lt;b&gt;sources familiar with&lt;/b&gt; its thinking.</summary>
-  <cse:cacheId>OVLB3Cm0JfYJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-japan-economy-boj-idUSKBN19Q0IX</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
-    <cse:Attribute name="dcsext.channellist" value="ousivMolt;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="BOJ+to+cut+inflation+forecasts%2C+hold+off+on+easing%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Leika Kihara"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
-    <cse:Attribute name="author" value="Leika Kihara"/>
-    <cse:Attribute name="news_keywords" value="Haruhiko Kuroda;Izuru Kato;US;JAPAN;ECONOMY;BOJ;Japan;Inflation;Central Banks / Central Bank Events;Corporate Events;Interest Rates / Policy;Economic Events;Asia / Pacific;Major News;Graphics;Monetary / Fiscal Policy / Policy Makers;Bank of Japan;Economic News (3rd Party)"/>
-    <cse:Attribute name="revision_date" value="Wed Jul 05 07:31:58 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Leika Kihara"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-05T07:31:58+0000"/>
-    <cse:Attribute name="sailthru.title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Japan&apos;s central bank will cut its inflation forecasts but hold off expanding stimulus this month, people familiar with the matter say, in another sign the bank is retreating from Governor Haruhiko Kuroda&apos;s initial pledge to do whatever it takes to achieve his ambitious inflation target."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-05T07:31:58+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-05T07:31:58+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Leika Kihara"/>
-    <cse:Attribute name="og:article:tag" value="Haruhiko Kuroda,Izuru Kato,US,JAPAN,ECONOMY,BOJ,Japan,Inflation,Central Banks / Central Bank Events,Corporate Events,Interest Rates / Policy,Economic Events,Asia / Pacific,Major News,Graphics,Monetary / Fiscal Policy / Policy Makers,Bank of Japan,Economic News (3rd Party)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
-    <cse:Attribute name="twitter:description" value="Japan&apos;s central bank will cut its inflation forecasts but hold off expanding stimulus this month, people familiar with the matter say, in another sign the bank is retreating from Governor Haruhiko Kuroda&apos;s initial pledge to do whatever it takes to achieve his ambitious inflation target."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="276"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54eh0T7cZ39uC-aiguMZ6vaxngsAcAOMbupC6j5V8BA6J0QOXcyw0yaI"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/japan-economy-boj-idUSL3N1JW1FI</id>
-  <updated>1970-01-18T08:32:06.748Z</updated>
+  <updated>1970-01-18T08:33:07.332Z</updated>
   <title type="html">BOJ to cut inflation forecasts, hold off on easing - sources | Reuters</title>
   <link href="https://www.reuters.com/article/japan-economy-boj-idUSL3N1JW1FI" title="www.reuters.com"/>
   <summary type="html">... and offer a more upbeat assessment of the economy than it did in June to say it &lt;br&gt;
@@ -533,72 +469,72 @@ is expanding moderately, said &lt;b&gt;sources familiar with&lt;/b&gt; the centr
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-usa-india-westinghouse-idUSKBN19N0Y1</id>
-  <updated>1970-01-18T08:32:06.748Z</updated>
-  <title type="html">Washington tells India Westinghouse could be sold by year end ...</title>
-  <link href="http://www.reuters.com/article/us-usa-india-westinghouse-idUSKBN19N0Y1" title="www.reuters.com"/>
-  <summary type="html">&lt;b&gt;Sources familiar with&lt;/b&gt; the matter said the statement was backed by U.S. guidance &lt;br&gt;
-that Westinghouse would be sold to a U.S. investor after emerging from&amp;nbsp;...</summary>
-  <cse:cacheId>Vao0If_pFkgJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-usa-india-westinghouse-idUSKBN19N0Y1</cse:formattedUrl>
+  <id>https://www.reuters.com/article/toshiba-accounting-idUSL3N1JU297</id>
+  <updated>1970-01-18T08:33:07.332Z</updated>
+  <title type="html">SK Hynix proposes financing Toshiba chip deal via convertible ...</title>
+  <link href="https://www.reuters.com/article/toshiba-accounting-idUSL3N1JU297" title="www.reuters.com"/>
+  <summary type="html">... Corp&amp;#39;s chip unit be done throughconvertible bonds, two &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+the matter said,potentially allowing it to have an equity interest in theworld&amp;#39;s No.</summary>
+  <cse:cacheId>7QfLl64g-9kJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/toshiba-accounting-idUSL3N1JU297</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;ousivMolt;businessNews;GCA-Commodities;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Washington+tells+India+Westinghouse+could+be+sold+by+year+end%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="marketsNews;fundsFundsNews;bondsNews;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="SK+Hynix+proposes+financing+Toshiba+chip+deal+via+convertible+bonds+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="3"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Douglas Busvine"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Douglas Busvine"/>
-    <cse:Attribute name="news_keywords" value="India;United States;Ashley Tellis;Donald J. Trump;Kenneth Juster;Narendra Modi;Rick Perry;S.N. Roy;SUBRAHMANYAM JAISHANKAR;US;USA;INDIA;WESTINGHOUSE;Mergers / Acquisitions / Takeovers;Company News;India;Japan;Construction and Engineering (TRBC);Diplomacy / Foreign Policy;Government / Politics;Corporate Events;Asia / Pacific;Bankruptcy / Insolvency;Major News;Debt / Fixed Income Markets;Electric Utilities (TRBC);Industrial Conglomerates (TRBC);Emerging Market Countries;Industrial Machinery / Equipment (Legacy);United States"/>
-    <cse:Attribute name="revision_date" value="Mon Jul 03 01:13:35 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Douglas Busvine"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-03T01:13:35+0000"/>
-    <cse:Attribute name="sailthru.title" value="Washington tells India Westinghouse could be sold by year end: sources"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Japan;Joyce Lee;Kentaro Hamada;Makiko Yamazaki;Satoshi Tsunakawa;Se Young Lee;TOSHIBA;ACCOUNTING/ (PIX);Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Japan;Semiconductors and Semiconductor Equipment (TRBC);Industrial Goods (TRBC);Credit and Corporate Debt;Corporate Debt;Computers and Office Equipment (TRBC);Semiconductors (TRBC);Asia / Pacific;Major News;Restructuring / Reorganization;Industrials (TRBC);Debt / Fixed Income Markets;Equity;Linked Bonds;Machinery : Equipment and Components (TRBC);Deals;United States;Computer Hardware (TRBC);Americas;Funds;Company News;South Korea;Financials (TRBC);Financials (Legacy);Corporate Events;Monopolies / Antitrust Issues;Technology (TRBC);Corporate Governance;Electrical Components and Equipment (TRBC);Banking and Investment Services (TRBC);Regulation;Industrial Conglomerates (TRBC);Technology Equipment (TRBC);Technology / Media / Telecoms;Emerging Market Countries;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Mon Jul 03 07:12:38 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-03T07:12:38+0000"/>
+    <cse:Attribute name="sailthru.title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Washington tells India Westinghouse could be sold by year end: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-india-westinghouse-idUSKBN19N0Y1"/>
+    <cse:Attribute name="og:title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/toshiba-accounting-idUSL3N1JU297"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The U.S. administration has told India that Westinghouse Electric Co will emerge from bankruptcy and be sold by the year end, industry and diplomatic sources have said, raising the prospect of a Washington-supported sale or bailout for the nuclear firm."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191384441&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6201M"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-03T01:13:35+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-03T01:13:35+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Douglas Busvine"/>
-    <cse:Attribute name="og:article:tag" value="India,United States,Ashley Tellis,Donald J. Trump,Kenneth Juster,Narendra Modi,Rick Perry,S.N. Roy,SUBRAHMANYAM JAISHANKAR,US,USA,INDIA,WESTINGHOUSE,Mergers / Acquisitions / Takeovers,Company News,India,Japan,Construction and Engineering (TRBC),Diplomacy / Foreign Policy,Government / Politics,Corporate Events,Asia / Pacific,Bankruptcy / Insolvency,Major News,Debt / Fixed Income Markets,Electric Utilities (TRBC),Industrial Conglomerates (TRBC),Emerging Market Countries,Industrial Machinery / Equipment (Legacy),United States"/>
+    <cse:Attribute name="og:description" value="SK Hynix Inc hasproposed that its financing for a Japan government-led groupbidding for Toshiba Corp&apos;s chip unit be done throughconvertible bonds, two sources familiar with the matter said,potentially allowing it to have an equity interest in theworld&apos;s No. 2 NAND chip maker."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-03T07:12:38+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-03T07:12:38+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Japan,Joyce Lee,Kentaro Hamada,Makiko Yamazaki,Satoshi Tsunakawa,Se Young Lee,TOSHIBA,ACCOUNTING/ (PIX),Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Japan,Semiconductors and Semiconductor Equipment (TRBC),Industrial Goods (TRBC),Credit and Corporate Debt,Corporate Debt,Computers and Office Equipment (TRBC),Semiconductors (TRBC),Asia / Pacific,Major News,Restructuring / Reorganization,Industrials (TRBC),Debt / Fixed Income Markets,Equity,Linked Bonds,Machinery : Equipment and Components (TRBC),Deals,United States,Computer Hardware (TRBC),Americas,Funds,Company News,South Korea,Financials (TRBC),Financials (Legacy),Corporate Events,Monopolies / Antitrust Issues,Technology (TRBC),Corporate Governance,Electrical Components and Equipment (TRBC),Banking and Investment Services (TRBC),Regulation,Industrial Conglomerates (TRBC),Technology Equipment (TRBC),Technology / Media / Telecoms,Emerging Market Countries,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Washington tells India Westinghouse could be sold by year end: sources"/>
-    <cse:Attribute name="twitter:description" value="The U.S. administration has told India that Westinghouse Electric Co will emerge from bankruptcy and be sold by the year end, industry and diplomatic sources have said, raising the prospect of a Washington-supported sale or bailout for the nuclear firm."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191384441&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6201M"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191384441&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6201M"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
+    <cse:Attribute name="twitter:description" value="SK Hynix Inc hasproposed that its financing for a Japan government-led groupbidding for Toshiba Corp&apos;s chip unit be done throughconvertible bonds, two sources familiar with the matter said,potentially allowing it to have an equity interest in theworld&apos;s No. 2 NAND chip maker."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170703&amp;t=2&amp;i=1191384441&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6201M"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAFNBFR0HBaosAKF9ToHFZwF1bg_eRexWjDYXAwNjWPdKo0e0KKEsKWk8"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/states/new-jersey/story/2017/07/03/budget-deal-in-the-works-lawmakers-told-to-be-on-standby-113205</id>
-  <updated>1970-01-18T08:32:06.748Z</updated>
+  <updated>1970-01-18T08:33:07.332Z</updated>
   <title type="html">Sources: Deal in the works to end budget standoff, shutdown</title>
   <link href="http://www.politico.com/states/new-jersey/story/2017/07/03/budget-deal-in-the-works-lawmakers-told-to-be-on-standby-113205" title="www.politico.com"/>
   <summary type="html">TRENTON - A deal to end the budget impasses, which has shutdown state &lt;br&gt;
@@ -687,6 +623,57 @@ government for three days, is in the works, according to three &lt;b&gt;sources 
     <cse:Attribute name="width" value="305"/>
     <cse:Attribute name="height" value="165"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP9lAbATysAdn2Pq0u-1s3J7vB_ET33F9AUymqZqQ9Ep_eWnKuNntNtac"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.latimes.com/business/hollywood/la-fi-ct-charles-payne-fox-business-20170706-story.html</id>
+  <updated>1970-01-18T08:33:07.332Z</updated>
+  <title type="html">Fox suspends business news host Charles Payne amid sexual ...</title>
+  <link href="http://www.latimes.com/business/hollywood/la-fi-ct-charles-payne-fox-business-20170706-story.html" title="www.latimes.com"/>
+  <summary type="html">... the network after she ended the affair in 2015 and tried to report Payne to top &lt;br&gt;
+executives at Fox News, according to two &lt;b&gt;sources familiar with&lt;/b&gt; her complaint.</summary>
+  <cse:cacheId>tIwfFtMPlGsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.latimes.com/.../la-fi-ct-charles-payne-fox-business-20170706-story. html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <cse:Attribute name="x-servername" value="i13prod-9fbd517-0-251.1"/>
+    <cse:Attribute name="author" value="Stephen Battaglio"/>
+    <cse:Attribute name="date" value="2017-07-06"/>
+    <cse:Attribute name="copyright" value="Copyright (c) 2017 Los Angeles Times"/>
+    <cse:Attribute name="news_keywords" value="Charles Payne, Fox, Roger Ailes, sex, harassment"/>
+    <cse:Attribute name="fb_title" value="Fox suspends business news host Charles Payne amid sexual harassment allegations"/>
+    <cse:Attribute name="og:title" value="Fox suspends business news host Charles Payne amid sexual harassment allegations"/>
+    <cse:Attribute name="og:description" value="The law firm investigating sexual harassment claims at 21st Century Fox is reviewing new allegations against a Fox Business News anchor Charles Payne."/>
+    <cse:Attribute name="fb:page_id" value="5863113009"/>
+    <cse:Attribute name="fb:admins" value="100000786395051"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.latimes.com/business/hollywood/la-fi-ct-charles-payne-fox-business-20170706-story.html"/>
+    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-595fa0ed/turbine/la-fi-ct-charles-payne-fox-business-20170706"/>
+    <cse:Attribute name="og:site_name" value="latimes.com"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:site" value="@latimes"/>
+    <cse:Attribute name="y_key" value="cee2fe4077f8d050"/>
+    <cse:Attribute name="msvalidate.01" value="AAC9C18F70AC386BC4DCF4DDF9BF1786"/>
+    <cse:Attribute name="googlebot-news" value="index"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/deeplinkid/94012305"/>
+    <cse:Attribute name="so:status" value="5,1"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="articlesection" value="BUSINESS"/>
+    <cse:Attribute name="headline" value="Fox suspends business news host Charles Payne amid sexual harassment allegations"/>
+    <cse:Attribute name="author" value="Stephen Battaglio"/>
+    <cse:Attribute name="datepublished" value="2017-07-06T18:00:00PDT"/>
+    <cse:Attribute name="articlebody" value="Fox Business Network host Charles Payne has been suspended while 21st Century Fox investigates sexual harassment allegations made against him, the company confirmed Thursday night.Payne’s..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.trbimg.com/img-595fa0ed/turbine/la-fi-ct-charles-payne-fox-business-20170706"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="300"/>
+    <cse:Attribute name="height" value="168"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYtsGxv-8KZrgKtfMDNiq0zgDbDIuY4NC7CaPP1VQe7E3QeWuSEZ19foM"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
