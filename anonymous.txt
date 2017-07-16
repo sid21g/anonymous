@@ -5,200 +5,279 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T08:33:07.332Z</updated>
+ <updated>1970-01-18T08:42:52.053Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6090" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="6090" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>6090</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9460" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="9460" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>9460</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.220963</cse:searchTime>
-  <cse:formattedSearchTime>0.22</cse:formattedSearchTime>
-  <cse:totalResults>6090</cse:totalResults>
-  <cse:formattedTotalResults>6,090</cse:formattedTotalResults>
+  <cse:searchTime>0.29546</cse:searchTime>
+  <cse:formattedSearchTime>0.30</cse:formattedSearchTime>
+  <cse:totalResults>9460</cse:totalResults>
+  <cse:formattedTotalResults>9,460</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/uk-stada-arzneimitt-m-a-elliott-idUSKBN19S12A</id>
-  <updated>1970-01-18T08:33:07.332Z</updated>
-  <title type="html">Activist Elliott acquires Stada stake: sources | Reuters</title>
-  <link href="https://www.reuters.com/article/uk-stada-arzneimitt-m-a-elliott-idUSKBN19S12A" title="www.reuters.com"/>
-  <summary type="html">Activist investor Elliott Management has bought a stake in Stada, two financial &lt;br&gt;
-&lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Friday, adding a new twist to a takeover&amp;nbsp;...</summary>
-  <cse:cacheId>5afJAR_O5EMJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../uk-stada-arzneimitt-m-a-elliott-idUSKBN19S12A</cse:formattedUrl>
+  <id>http://www.businessinsider.com/r-toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources-2017-7</id>
+  <updated>1970-01-18T08:42:52.053Z</updated>
+  <title type="html">Toshiba talking with Western Digital, Foxconn about chip unit sale ...</title>
+  <link href="http://www.businessinsider.com/r-toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources-2017-7" title="www.businessinsider.com"/>
+  <summary type="html">... talks with Western Digital Corp and Taiwan&amp;#39;s Foxconn over the $18 billion sale &lt;br&gt;
+of its prized chip unit, banking &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Tuesday.</summary>
+  <cse:cacheId>l0Mnx1DExgQJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.businessinsider.com/r-toshiba-talking-with-western-digital-foxconn- about-chip-unit-sale-sources-2017-7</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="date" value="2017-07-11"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-11"/>
+    <cse:Attribute name="news_keywords" value="Reuters"/>
+    <cse:Attribute name="sailthru.tags" value="Reuters"/>
+    <cse:Attribute name="sailthru.description" value="TOKYO (Reuters) - Toshiba Corp  told its..."/>
+    <cse:Attribute name="title" value="Toshiba talking with Western Digital, Foxconn about chip unit sale: sources"/>
+    <cse:Attribute name="sailthru.verticals" value="reuters,Reuters Business,clusterstock"/>
+    <cse:Attribute name="sailthru.title" value="Toshiba talking with Western Digital, Foxconn about chip unit sale: sources"/>
+    <cse:Attribute name="tbi-image" value="http://static2.businessinsider.com/image/5964a1cf5124c9c75c919939/toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources.jpg"/>
+    <cse:Attribute name="sailthru.image.full" value="http://static2.businessinsider.com/image/5964a1cf5124c9c75c919939/toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources.jpg"/>
+    <cse:Attribute name="sailthru.image.thumb" value="http://static1.businessinsider.com/image/5964a1cf5124c9c75c919939-50-50/toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources.jpg"/>
+    <cse:Attribute name="og:title" value="Toshiba talking with Western Digital, Foxconn about chip unit sale: sources"/>
+    <cse:Attribute name="og:description" value="TOKYO (Reuters) - Toshiba Corp  told its..."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="http://www.businessinsider.com/r-toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources-2017-7"/>
+    <cse:Attribute name="og:site_name" value="Business Insider"/>
+    <cse:Attribute name="fb:app_id" value="155043519637"/>
+    <cse:Attribute name="article:publisher" value="businessinsider"/>
+    <cse:Attribute name="author" value="Reuters"/>
+    <cse:Attribute name="twitter:url" value="http://www.businessinsider.com/r-toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources-2017-7"/>
+    <cse:Attribute name="twitter:title" value="Toshiba talking with Western Digital, Foxconn about chip unit sale: sources"/>
+    <cse:Attribute name="twitter:description" value="TOKYO (Reuters) - Toshiba Corp  told its..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image" value="http://static6.businessinsider.com/image/5964a1cf5124c9c75c919939-506-253/toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources.jpg"/>
+    <cse:Attribute name="og:image" value="http://static2.businessinsider.com/image/5964a1cf5124c9c75c919939-1190-625/toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources.jpg"/>
+    <cse:Attribute name="pm:template" value="noad-byline"/>
+    <cse:Attribute name="fb:pages" value="20446254070"/>
+    <cse:Attribute name="tbi-vertical" value="reuters"/>
+    <cse:Attribute name="viewport" value="width=1024"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="Business Insider"/>
+    <cse:Attribute name="application-name" value="Business Insider"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#185f7c"/>
+    <cse:Attribute name="msapplication-tileimage" value="http://static1.businessinsider.com/assets/images/us/favicons/mstile-144x144.png?v=BI-US-2016-03-31"/>
+    <cse:Attribute name="theme-color" value="#185f7c"/>
+    <cse:Attribute name="linkedin:owner" value="mid:1d5f7b"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="name" value="Toshiba talking with Western Digital, Foxconn about chip unit sale: sources"/>
+    <cse:Attribute name="url" value="Toshiba talking with Western Digital, Foxconn about chip unit sale: sources"/>
+    <cse:Attribute name="image" value="http://static6.businessinsider.com/image/5964a1cf5124c9c75c919939-506-253/toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources.jpg"/>
+    <cse:Attribute name="description" value="TOKYO (Reuters) - Toshiba Corp told its..."/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static2.businessinsider.com/image/5964a1cf5124c9c75c919939-1190-625/toshiba-talking-with-western-digital-foxconn-about-chip-unit-sale-sources.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="286"/>
+    <cse:Attribute name="height" value="176"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFoIvp9oDx5_5_ZAXbUySDN1hGSZidPFwybbzNGL1RoMp6V2aT6-2QwY4"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-anz-bank-m-a-malaysia-idUSKBN19X1N7</id>
+  <updated>1970-01-18T08:42:52.053Z</updated>
+  <title type="html">ANZ Bank nears deal to sell Malaysian banking stake to pension ...</title>
+  <link href="https://www.reuters.com/article/us-anz-bank-m-a-malaysia-idUSKBN19X1N7" title="www.reuters.com"/>
+  <summary type="html">AX) is near a deal to sell its Malaysian banking stake to a pension fund and exit &lt;br&gt;
+the Southeast Asian nation, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, in a transaction&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>T7I3aZfOIE0J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-anz-bank-m-a-malaysia-idUSKBN19X1N7</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
     <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Activist+Elliott+acquires+Stada+stake%3A+sources"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;bank-news;middle-east-full-coverage;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="ANZ+Bank+nears+deal+to+sell+Malaysian+banking+stake+to+pension+fund%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Liz Lee and Stanley Carvalho"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="UK;STADA;ARZNEIMITT;M;A;ELLIOTT;Guernsey;Germany;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Equity Investments;Corporate Events;Hedge Funds;Europe;Generic and Specialty Pharmaceuticals (TRBC);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Fri Jul 07 08:34:07 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-07T08:34:07+0000"/>
-    <cse:Attribute name="sailthru.title" value="Activist Elliott acquires Stada stake: sources"/>
+    <cse:Attribute name="author" value="Liz Lee and Stanley Carvalho"/>
+    <cse:Attribute name="news_keywords" value="Malaysia;Najib Razak;Wan Kamaruzaman Wan;US;ANZ;BANK;M;A;MALAYSIA;Investment Banking and Investment Services (TRBC);Investment Trusts (TRBC);Banks (TRBC);Mergers / Acquisitions / Takeovers;United Arab Emirates;Company News;Equity Investments;Malaysia;Corporate Events;Asia / Pacific;Australia;Major News;Middle East;ASEAN Countries;Deals;Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Wed Jul 12 12:38:11 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Liz Lee and Stanley Carvalho"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-12T12:38:11+0000"/>
+    <cse:Attribute name="sailthru.title" value="ANZ Bank nears deal to sell Malaysian banking stake to pension fund: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Activist Elliott acquires Stada stake: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/uk-stada-arzneimitt-m-a-elliott-idUSKBN19S12A"/>
+    <cse:Attribute name="og:title" value="ANZ Bank nears deal to sell Malaysian banking stake to pension fund: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-anz-bank-m-a-malaysia-idUSKBN19X1N7"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Activist investor Elliott Management has bought a stake in Stada, two financial sources familiar with the matter said on Friday, adding a new twist to a takeover battle for the German generic drugs maker."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-07T08:34:07+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-07T08:34:07+0000"/>
+    <cse:Attribute name="og:description" value="Australia and New Zealand Banking Group (ANZ.AX) is near a deal to sell its Malaysian banking stake to a pension fund and exit the Southeast Asian nation, sources familiar with the matter said, in a transaction that could be worth around $900 million."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170712&amp;t=2&amp;i=1192669159&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6B0Y8"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-12T12:38:11+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-12T12:38:11+0000"/>
     <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="UK,STADA,ARZNEIMITT,M,A,ELLIOTT,Guernsey,Germany,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Equity Investments,Corporate Events,Hedge Funds,Europe,Generic and Specialty Pharmaceuticals (TRBC),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
+    <cse:Attribute name="og:article:author" value="Liz Lee and Stanley Carvalho"/>
+    <cse:Attribute name="og:article:tag" value="Malaysia,Najib Razak,Wan Kamaruzaman Wan,US,ANZ,BANK,M,A,MALAYSIA,Investment Banking and Investment Services (TRBC),Investment Trusts (TRBC),Banks (TRBC),Mergers / Acquisitions / Takeovers,United Arab Emirates,Company News,Equity Investments,Malaysia,Corporate Events,Asia / Pacific,Australia,Major News,Middle East,ASEAN Countries,Deals,Emerging Market Countries,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Activist Elliott acquires Stada stake: sources"/>
-    <cse:Attribute name="twitter:description" value="Activist investor Elliott Management has bought a stake in Stada, two financial sources familiar with the matter said on Friday, adding a new twist to a takeover battle for the German generic drugs maker."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="ANZ Bank nears deal to sell Malaysian banking stake to pension fund: sources"/>
+    <cse:Attribute name="twitter:description" value="Australia and New Zealand Banking Group (ANZ.AX) is near a deal to sell its Malaysian banking stake to a pension fund and exit the Southeast Asian nation, sources familiar with the matter said, in a transaction that could be worth around $900 million."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170712&amp;t=2&amp;i=1192669159&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6B0Y8"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170712&amp;t=2&amp;i=1192669159&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6B0Y8"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
     <cse:Attribute name="wt.cg_n" value="Business"/>
     <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170712&amp;t=2&amp;i=1192669159&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6B0Y8"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+    <cse:Attribute name="width" value="271"/>
+    <cse:Attribute name="height" value="186"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSC88nJ28t1_7whJTsdfh5HMvT802ugcJqsdl-2T4Ct5pb37yUeErePsJ8"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX</id>
-  <updated>1970-01-18T08:33:07.332Z</updated>
-  <title type="html">BOJ to cut inflation forecasts, hold off on easing: sources | Reuters</title>
-  <link href="https://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX" title="www.reuters.com"/>
-  <summary type="html">... has yet to translate into inflation, a dilemma they are struggling with as wages &lt;br&gt;
-and prices remain stubbornly weak, say &lt;b&gt;sources familiar with&lt;/b&gt; its thinking.</summary>
-  <cse:cacheId>OVLB3Cm0JfYJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-japan-economy-boj-idUSKBN19Q0IX</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-lme-nfex-clearing-idUSKBN19X1KM</id>
+  <updated>1970-01-18T08:42:52.053Z</updated>
+  <title type="html">LME favorite to clear for new base metals platform NFEx: sources</title>
+  <link href="https://www.reuters.com/article/us-lme-nfex-clearing-idUSKBN19X1KM" title="www.reuters.com"/>
+  <summary type="html">... trades for the new base metals platform NFEx as it would be the most efficient &lt;br&gt;
+option for those wanting to use both venues, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>Z1tYfuE6kUoJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-lme-nfex-clearing-idUSKBN19X1KM</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
-    <cse:Attribute name="dcsext.channellist" value="ousivMolt;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="BOJ+to+cut+inflation+forecasts%2C+hold+off+on+easing%3A+sources"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="GCA-Commodities;metals-news;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="LME+favorite+to+clear+for+new+base+metals+platform+NFEx%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Leika Kihara"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
-    <cse:Attribute name="author" value="Leika Kihara"/>
-    <cse:Attribute name="news_keywords" value="Haruhiko Kuroda;Izuru Kato;US;JAPAN;ECONOMY;BOJ;Japan;Inflation;Central Banks / Central Bank Events;Corporate Events;Interest Rates / Policy;Economic Events;Asia / Pacific;Major News;Graphics;Monetary / Fiscal Policy / Policy Makers;Bank of Japan;Economic News (3rd Party)"/>
-    <cse:Attribute name="revision_date" value="Wed Jul 05 07:31:58 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Leika Kihara"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-05T07:31:58+0000"/>
-    <cse:Attribute name="sailthru.title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
+    <cse:Attribute name="dcsext.rauthor" value="Pratima Desai"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Pratima Desai"/>
+    <cse:Attribute name="news_keywords" value="China;United Kingdom;Mark E. Bradley;US;LME;NFEX;CLEARING;Hong Kong;Company News;Base Metals;Corporate Events;Economic Events;Financial and Commodity Market Operators (TRBC);Mining;Asia / Pacific;Metals Markets;Market Events;Singapore;Regulatory Corporate News Announcements;Government Borrowing Requirement;Metals and Mining (TRBC);Europe;Mineral Resources (TRBC);United Kingdom;United States"/>
+    <cse:Attribute name="revision_date" value="Thu Jul 13 00:54:45 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Pratima Desai"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-13T00:54:45+0000"/>
+    <cse:Attribute name="sailthru.title" value="LME favorite to clear for new base metals platform NFEx: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-japan-economy-boj-idUSKBN19Q0IX"/>
+    <cse:Attribute name="og:title" value="LME favorite to clear for new base metals platform NFEx: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-lme-nfex-clearing-idUSKBN19X1KM"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Japan&apos;s central bank will cut its inflation forecasts but hold off expanding stimulus this month, people familiar with the matter say, in another sign the bank is retreating from Governor Haruhiko Kuroda&apos;s initial pledge to do whatever it takes to achieve his ambitious inflation target."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-05T07:31:58+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-05T07:31:58+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Leika Kihara"/>
-    <cse:Attribute name="og:article:tag" value="Haruhiko Kuroda,Izuru Kato,US,JAPAN,ECONOMY,BOJ,Japan,Inflation,Central Banks / Central Bank Events,Corporate Events,Interest Rates / Policy,Economic Events,Asia / Pacific,Major News,Graphics,Monetary / Fiscal Policy / Policy Makers,Bank of Japan,Economic News (3rd Party)"/>
+    <cse:Attribute name="og:description" value="The London Metal Exchange is the favorite to clear trades for the new base metals platform NFEx as it would be the most efficient option for those wanting to use both venues, sources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170712&amp;t=2&amp;i=1192665497&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6B0WB"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-13T00:54:45+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-13T00:54:45+0000"/>
+    <cse:Attribute name="og:article:author" value="Pratima Desai"/>
+    <cse:Attribute name="og:article:tag" value="China,United Kingdom,Mark E. Bradley,US,LME,NFEX,CLEARING,Hong Kong,Company News,Base Metals,Corporate Events,Economic Events,Financial and Commodity Market Operators (TRBC),Mining,Asia / Pacific,Metals Markets,Market Events,Singapore,Regulatory Corporate News Announcements,Government Borrowing Requirement,Metals and Mining (TRBC),Europe,Mineral Resources (TRBC),United Kingdom,United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="BOJ to cut inflation forecasts, hold off on easing: sources"/>
-    <cse:Attribute name="twitter:description" value="Japan&apos;s central bank will cut its inflation forecasts but hold off expanding stimulus this month, people familiar with the matter say, in another sign the bank is retreating from Governor Haruhiko Kuroda&apos;s initial pledge to do whatever it takes to achieve his ambitious inflation target."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="twitter:title" value="LME favorite to clear for new base metals platform NFEx: sources"/>
+    <cse:Attribute name="twitter:description" value="The London Metal Exchange is the favorite to clear trades for the new base metals platform NFEx as it would be the most efficient option for those wanting to use both venues, sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170712&amp;t=2&amp;i=1192665497&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6B0WB"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170712&amp;t=2&amp;i=1192665497&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6B0WB"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667590&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED640DH"/>
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170712&amp;t=2&amp;i=1192665497&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6B0WB"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="276"/>
+    <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54eh0T7cZ39uC-aiguMZ6vaxngsAcAOMbupC6j5V8BA6J0QOXcyw0yaI"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxbL_slM7LI5lRsCVl7dzqq0BcizRhhsVUjbg0PkVvQlLE3CY8LkwIDPn"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/usa-trump-russia-lawyer-idUSL1N1JU190</id>
-  <updated>1970-01-18T08:33:07.332Z</updated>
-  <title type="html">Trump considering lawyer for White House Russia role -sources ...</title>
-  <link href="https://www.reuters.com/article/usa-trump-russia-lawyer-idUSL1N1JU190" title="www.reuters.com"/>
-  <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the matter, lawyers from major firms have &lt;br&gt;
-turned down joining Trump&amp;#39;s outside legal team, citing conflicts at their firms and&lt;br&gt;
-&amp;nbsp;...</summary>
-  <cse:cacheId>29sen_GWANIJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../usa-trump-russia-lawyer-idUSL1N1JU190</cse:formattedUrl>
+  <id>http://www.reuters.com/article/toshiba-accounting-idUSL4N1K23MH</id>
+  <updated>1970-01-18T08:42:52.053Z</updated>
+  <title type="html">UPDATE 1-Toshiba talking with Western Digital, Foxconn about chip ...</title>
+  <link href="http://www.reuters.com/article/toshiba-accounting-idUSL4N1K23MH" title="www.reuters.com"/>
+  <summary type="html">... Taiwan&amp;#39;s Foxconn over the $18 billion sale of its prized chip unit in addition to &lt;br&gt;
+its preferred bidder, banking &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Tuesday.</summary>
+  <cse:cacheId>BhkVvWCTo1gJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/toshiba-accounting-idUSL4N1K23MH</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="USLegal"/>
-    <cse:Attribute name="dcsext.channellist" value="USLegal;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Trump+considering+lawyer+for+White+House+Russia+role+-sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="marketsNews;fundsFundsNews;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-Toshiba+talking+with+Western+Digital%2C+Foxconn+about+chip+unit+sale+-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
     <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-USLegal"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Russia;United States;David Watkins;Don McGahn;Donald Trump;Emmet Flood;Jay Sekulow;John Dowd;John Huang;Lindsay Walters;Marc Kasowitz;Mary McCarthy;Michael Bowe;Robert Mueller;Ty Cobb;William Burck;USA;TRUMP/RUSSIA;LAWYER;Americas;United States"/>
-    <cse:Attribute name="revision_date" value="Mon Jul 03 19:16:36 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Taiwan;United States;TOSHIBA;ACCOUNTING/ (UPDATE 1;PIX);Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Taiwan;Japan;Semiconductors and Semiconductor Equipment (TRBC);Industrial Goods (TRBC);Computers and Office Equipment (TRBC);Semiconductors (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Major News;Restructuring / Reorganization;Industrials (TRBC);Machinery : Equipment and Components (TRBC);Deals;United States;Computer Hardware (TRBC);Americas;Funds;Company News;South Korea;Financials (TRBC);Financials (Legacy);Corporate Events;Technology (TRBC);Corporate Governance;Electrical Components and Equipment (TRBC);Banking and Investment Services (TRBC);Industrial Conglomerates (TRBC);Technology Equipment (TRBC);Technology / Media / Telecoms;Emerging Market Countries;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Tue Jul 11 10:57:02 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-03T19:16:36+0000"/>
-    <cse:Attribute name="sailthru.title" value="Trump considering lawyer for White House Russia role -sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-11T10:57:02+0000"/>
+    <cse:Attribute name="sailthru.title" value="UPDATE 1-Toshiba talking with Western Digital, Foxconn about chip unit sale -sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Trump considering lawyer for White House Russia role -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/usa-trump-russia-lawyer-idUSL1N1JU190"/>
+    <cse:Attribute name="og:title" value="UPDATE 1-Toshiba talking with Western Digital, Foxconn about chip unit sale -sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/toshiba-accounting-idUSL4N1K23MH"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="President Donald Trump is considering adding aveteran Washington lawyer to the White House counsel&apos;s office todeal with Russia-related issues, people familiar with the mattersaid."/>
+    <cse:Attribute name="og:description" value="sources(Writes through and adds Toshiba comment)"/>
     <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-03T19:16:36+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-03T19:16:36+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-11T10:57:02+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-11T10:57:02+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Russia,United States,David Watkins,Don McGahn,Donald Trump,Emmet Flood,Jay Sekulow,John Dowd,John Huang,Lindsay Walters,Marc Kasowitz,Mary McCarthy,Michael Bowe,Robert Mueller,Ty Cobb,William Burck,USA,TRUMP/RUSSIA,LAWYER,Americas,United States"/>
+    <cse:Attribute name="og:article:tag" value="Taiwan,United States,TOSHIBA,ACCOUNTING/ (UPDATE 1,PIX),Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Taiwan,Japan,Semiconductors and Semiconductor Equipment (TRBC),Industrial Goods (TRBC),Computers and Office Equipment (TRBC),Semiconductors (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Major News,Restructuring / Reorganization,Industrials (TRBC),Machinery : Equipment and Components (TRBC),Deals,United States,Computer Hardware (TRBC),Americas,Funds,Company News,South Korea,Financials (TRBC),Financials (Legacy),Corporate Events,Technology (TRBC),Corporate Governance,Electrical Components and Equipment (TRBC),Banking and Investment Services (TRBC),Industrial Conglomerates (TRBC),Technology Equipment (TRBC),Technology / Media / Telecoms,Emerging Market Countries,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Trump considering lawyer for White House Russia role -sources"/>
-    <cse:Attribute name="twitter:description" value="President Donald Trump is considering adding aveteran Washington lawyer to the White House counsel&apos;s office todeal with Russia-related issues, people familiar with the mattersaid."/>
+    <cse:Attribute name="twitter:title" value="UPDATE 1-Toshiba talking with Western Digital, Foxconn about chip unit sale -sources"/>
+    <cse:Attribute name="twitter:description" value="sources(Writes through and adds Toshiba comment)"/>
     <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/legal"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Markets"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -211,188 +290,216 @@ turned down joining Trump&amp;#39;s outside legal team, citing conflicts at thei
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-canada-guantanamo-khadr-idUSKBN19P203</id>
-  <updated>1970-01-18T08:33:07.332Z</updated>
-  <title type="html">Canada to compensate ex-Guantanamo inmate, apologize: sources ...</title>
-  <link href="http://www.reuters.com/article/us-canada-guantanamo-khadr-idUSKBN19P203" title="www.reuters.com"/>
-  <summary type="html">... and pay him around C$10 million ($7.7 million) to compensate him for the &lt;br&gt;
-abuse he suffered in detention, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on &lt;br&gt;
-Tuesday.</summary>
-  <cse:cacheId>MLSKlAum3LUJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-canada-guantanamo-khadr-idUSKBN19P203</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-roku-ipo-idUSKBN19Y2RX</id>
+  <updated>1970-01-18T08:42:52.053Z</updated>
+  <title type="html">Internet TV company Roku hires banks for 2017 IPO: sources</title>
+  <link href="http://www.reuters.com/article/us-roku-ipo-idUSKBN19Y2RX" title="www.reuters.com"/>
+  <summary type="html">... banks to lead an initial public offering that could come later this year as it aims &lt;br&gt;
+for a valuation of more than $1 billion, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>AAUyjWDAh2sJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-roku-ipo-idUSKBN19Y2RX</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="worldNews;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Canada+to+compensate+ex-Guantanamo+inmate%2C+apologize%3A+sources"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationIntellectualProperty"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationIntellectualProperty;innovation;technologyNews;media-industry;innovationNews;bank-news;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Internet+TV+company+Roku+hires+banks+for+2017+IPO%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="David Ljunggren"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
-    <cse:Attribute name="author" value="David Ljunggren"/>
-    <cse:Attribute name="news_keywords" value="Afghanistan;Canada;Cuba;Republic of Ireland;United States;Ihsaan Gardee;Jody Wilson;Raybould;Justin Trudeau;Omar Khadr;US;CANADA;GUANTANAMO;KHADR;Crime / Law / Justice;Americas;Afghanistan;South America / Central America;Judicial Process / Court Cases / Court Decisions;Diplomacy / Foreign Policy;Government / Politics;General News;Cuba;Asia / Pacific;Human Rights / Civil Rights;International / National Security;Conflicts / War / Peace;Canada;United States"/>
-    <cse:Attribute name="revision_date" value="Tue Jul 04 15:51:38 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="David Ljunggren"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-04T15:51:38+0000"/>
-    <cse:Attribute name="sailthru.title" value="Canada to compensate ex-Guantanamo inmate, apologize: sources"/>
+    <cse:Attribute name="dcsext.rauthor" value="Lauren Hirsch and Liana B. Baker"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationIntellectualProperty"/>
+    <cse:Attribute name="author" value="Lauren Hirsch and Liana B. Baker"/>
+    <cse:Attribute name="news_keywords" value="Mexico;United States;Anthony Wood;US;ROKU;IPO;Wealth Management;Banks (TRBC);Computer and Electronics Retailers (TRBC);Company News;Initial Public Offerings;Arts / Culture / Entertainment;Media and Publishing (TRBC);Software (TRBC);Corporate Events;Investment Banking and Brokerage Services (TRBC);Internet / World Wide Web;Science;Media / Publishing (Legacy);Banking Services (Legacy);United States;Computer Hardware (TRBC);IT Services and Consulting (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Thu Jul 13 21:02:44 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Lauren Hirsch and Liana B. Baker"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-13T21:02:44+0000"/>
+    <cse:Attribute name="sailthru.title" value="Internet TV company Roku hires banks for 2017 IPO: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Canada to compensate ex-Guantanamo inmate, apologize: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-canada-guantanamo-khadr-idUSKBN19P203"/>
+    <cse:Attribute name="og:title" value="Internet TV company Roku hires banks for 2017 IPO: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-roku-ipo-idUSKBN19Y2RX"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The Canadian government will apologize to former Guantanamo Bay inmate Omar Khadr and pay him around C$10 million ($7.7 million) to compensate him for the abuse he suffered in detention, two sources familiar with the matter said on Tuesday."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170704&amp;t=2&amp;i=1191597609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6313Y"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-04T15:51:38+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-04T15:51:38+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
-    <cse:Attribute name="og:article:author" value="David Ljunggren"/>
-    <cse:Attribute name="og:article:tag" value="Afghanistan,Canada,Cuba,Republic of Ireland,United States,Ihsaan Gardee,Jody Wilson,Raybould,Justin Trudeau,Omar Khadr,US,CANADA,GUANTANAMO,KHADR,Crime / Law / Justice,Americas,Afghanistan,South America / Central America,Judicial Process / Court Cases / Court Decisions,Diplomacy / Foreign Policy,Government / Politics,General News,Cuba,Asia / Pacific,Human Rights / Civil Rights,International / National Security,Conflicts / War / Peace,Canada,United States"/>
+    <cse:Attribute name="og:description" value="Internet television company Roku has hired investment banks to lead an initial public offering that could come later this year as it aims for a valuation of more than $1 billion, sources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-13T21:02:44+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-13T21:02:44+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Lauren Hirsch and Liana B. Baker"/>
+    <cse:Attribute name="og:article:tag" value="Mexico,United States,Anthony Wood,US,ROKU,IPO,Wealth Management,Banks (TRBC),Computer and Electronics Retailers (TRBC),Company News,Initial Public Offerings,Arts / Culture / Entertainment,Media and Publishing (TRBC),Software (TRBC),Corporate Events,Investment Banking and Brokerage Services (TRBC),Internet / World Wide Web,Science,Media / Publishing (Legacy),Banking Services (Legacy),United States,Computer Hardware (TRBC),IT Services and Consulting (TRBC)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Canada to compensate ex-Guantanamo inmate, apologize: sources"/>
-    <cse:Attribute name="twitter:description" value="The Canadian government will apologize to former Guantanamo Bay inmate Omar Khadr and pay him around C$10 million ($7.7 million) to compensate him for the abuse he suffered in detention, two sources familiar with the matter said on Tuesday."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170704&amp;t=2&amp;i=1191597609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6313Y"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170704&amp;t=2&amp;i=1191597609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6313Y"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Internet TV company Roku hires banks for 2017 IPO: sources"/>
+    <cse:Attribute name="twitter:description" value="Internet television company Roku has hired investment banks to lead an initial public offering that could come later this year as it aims for a valuation of more than $1 billion, sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/innovation/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Innovation and Intellectual Property"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170704&amp;t=2&amp;i=1191597609&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6313Y"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="273"/>
-    <cse:Attribute name="height" value="185"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1xT11yR053ymcFnXCPHCpnIMJUwNqvv6E--elmmzTMehmC2uagqazbw"/>
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ</id>
-  <updated>1970-01-18T08:33:07.332Z</updated>
-  <title type="html">Indian e-commerce firm Snapdeal rejects rival Flipkart&amp;#39;s initial bid ...</title>
-  <link href="https://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ" title="www.reuters.com"/>
-  <summary type="html">The Snapdeal board rejected the bid as it was below a valuation of $1 billion &lt;br&gt;
-indicated earlier by Flipkart, two &lt;b&gt;sources familiar with&lt;/b&gt; the negotiations said.</summary>
-  <cse:cacheId>sn__mrVgKe8J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-snapdeal-m-a-flipkart-idUSKBN19P2BQ</cse:formattedUrl>
+  <id>https://www.yahoo.com/news/sources-trump-lawyers-knew-russia-emails-back-june-000320831.html</id>
+  <updated>1970-01-18T08:42:52.053Z</updated>
+  <title type="html">Sources: Trump lawyers knew of Russia emails three weeks ago</title>
+  <link href="https://www.yahoo.com/news/sources-trump-lawyers-knew-russia-emails-back-june-000320831.html" title="www.yahoo.com"/>
+  <summary type="html">... a June 2016 meeting between his son Donald Jr. and a Kremlin-connected &lt;br&gt;
+lawyer, two &lt;b&gt;sources familiar with&lt;/b&gt; the handling of the matter told Yahoo News.</summary>
+  <cse:cacheId>TFDInDcZ4FUJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.yahoo.com/.../sources-trump-lawyers-knew-russia-emails-back- june-000320831.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
+    <cse:Attribute name="referrer" value="origin"/>
+    <cse:Attribute name="theme-color" value="#400090"/>
+    <cse:Attribute name="twitter:dnt" value="on"/>
+    <cse:Attribute name="twitter:site" value="@YahooNews"/>
+    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
+    <cse:Attribute name="news_keywords" value="President Trump, Jared Kushner, Russia, White House, Donald Jr, the Trump Organization, security clearance"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=b1a7a1a9-8857-37ab-bb00-85abbd5e73a1&amp;src=web"/>
+    <cse:Attribute name="twitter:creator" value="@isikoff"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="The sources&apos; assertion contradicts the president&apos;s comment to reporters Wednesday about the Trump Jr. emails: “I only heard about it two or three days ago,”"/>
+    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/yUrfiY3w7pCVPUbyPLVX8Q--/aD0zNDM7dz03MjA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/9d845b41d1d2f956abbfc66937c427ff"/>
+    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/yUrfiY3w7pCVPUbyPLVX8Q--/aD0zNDM7dz03MjA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/9d845b41d1d2f956abbfc66937c427ff"/>
+    <cse:Attribute name="twitter:title" value="Sources: Trump lawyers knew of Russia emails three weeks ago"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="fb:app_id" value="90376669494"/>
+    <cse:Attribute name="al:android:app_name" value="Yahoo"/>
+    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
+    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=b1a7a1a9-8857-37ab-bb00-85abbd5e73a1&amp;src=web"/>
+    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
+    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
+    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=b1a7a1a9-8857-37ab-bb00-85abbd5e73a1&amp;src=web"/>
+    <cse:Attribute name="og:image:width" value="720"/>
+    <cse:Attribute name="og:image:height" value="343"/>
+    <cse:Attribute name="og:description" value="The sources&apos; assertion contradicts the president&apos;s comment to reporters Wednesday about the Trump Jr. emails: “I only heard about it two or three days ago,”"/>
+    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/yUrfiY3w7pCVPUbyPLVX8Q--/aD0zNDM7dz03MjA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/9d845b41d1d2f956abbfc66937c427ff"/>
+    <cse:Attribute name="og:title" value="Sources: Trump lawyers knew of Russia emails three weeks ago"/>
+    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/sources-trump-lawyers-knew-russia-emails-back-june-000320831.html"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Sources: Trump lawyers knew of Russia emails three weeks ago"/>
+    <cse:Attribute name="datepublished" value="2017-07-14T00:03:20.000Z"/>
+    <cse:Attribute name="description" value="The sources&apos; assertion contradicts the president&apos;s comment to reporters Wednesday about the Trump Jr. emails: “I only heard about it two or three days ago,”"/>
+    <cse:Attribute name="articlesection" value="Politics &amp; Government"/>
+    <cse:Attribute name="genre" value="Politics &amp; Government"/>
+    <cse:Attribute name="thumbnailurl" value="https://s.yimg.com/uu/api/res/1.2/yUrfiY3w7pCVPUbyPLVX8Q--/aD0zNDM7dz03MjA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/9d845b41d1d2f956abbfc66937c427ff"/>
+    <cse:Attribute name="keywords" value="President Trump, Jared Kushner, Russia, White House, Donald Jr, the Trump Organization, security clearance"/>
+    <cse:Attribute name="url" value="https://www.yahoo.com/news/sources-trump-lawyers-knew-russia-emails-back-june-000320831.html"/>
+    <cse:Attribute name="articlebody" value="President Trump and son Donald Trump Jr. (Photo illustration: Yahoo News; photos: Alex Brandon/AP, Matt York/AP)MoreWASHINGTON — President Trump’s legal team was informed more than three..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Michael Isikoff"/>
+    <cse:Attribute name="jobtitle" value="Chief Investigative Correspondent"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="Yahoo News"/>
+    <cse:Attribute name="url" value="Yahoo News"/>
+    <cse:Attribute name="logo" value="https://s.yimg.com/ny/api/res/1.2/8lT_ir835uOUfiJQCOWnmQ--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODQ7aD04NDtpbD1wbGFuZQ--/https://media.zenfs.com/creatr-images/GLB/2016-10-18/9197dca0-94e1-11e6-9718-4d4a4a2e45f0_US-News.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="height" value="343"/>
+    <cse:Attribute name="width" value="720"/>
+    <cse:Attribute name="url" value="https://s.yimg.com/ny/api/res/1.2/D.BHfeyYgz3xnXt6jq6RWA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NzIwO2g9MzQz/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/9d845b41d1d2f956abbfc66937c427ff"/>
+    <cse:Attribute name="caption" value="President Trump and son Donald Trump Jr. (Photo illustration: Yahoo News; photos: Alex Brandon/AP, Matt York/AP)More"/>
+    <cse:Attribute name="description" value="President Trump and son Donald Trump Jr. (Photo illustration: Yahoo News; photos: Alex Brandon/AP, Matt York/AP)More"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/yUrfiY3w7pCVPUbyPLVX8Q--/aD0zNDM7dz03MjA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/9d845b41d1d2f956abbfc66937c427ff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="325"/>
+    <cse:Attribute name="height" value="155"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7zse6k_zydjs6NjHdvFPjwFkBJ6k3xhYTfqWIzHN2oUAyvLaX8i8OvoU"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-corsair-lbo-idUSKBN19Y1WE</id>
+  <updated>1970-01-18T08:42:52.053Z</updated>
+  <title type="html">LPC: EagleTree to buy video game gear maker Corsair - sources</title>
+  <link href="http://www.reuters.com/article/us-corsair-lbo-idUSKBN19Y1WE" title="www.reuters.com"/>
+  <summary type="html">... peripherals and hardware geared toward the professional gaming market, for &lt;br&gt;
+more than $500 million, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Thursday.</summary>
+  <cse:cacheId>kAfEFAeBj58J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-corsair-lbo-idUSKBN19Y1WE</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
     <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;media-industry;innovationNews;africa-news;retail;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Indian+e-commerce+firm+Snapdeal+rejects+rival+Flipkart%27s+initial+bid%3A+sources"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;innovationNews;bank-news;digital-future;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="LPC%3A+EagleTree+to+buy+video+game+gear+maker+Corsair+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Sankalp Phartiyal"/>
+    <cse:Attribute name="dcsext.rauthor" value="Andrew  Berlin and Liana B. Baker"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Sankalp Phartiyal"/>
-    <cse:Attribute name="news_keywords" value="India;Japan;China;India;Japan;Snapdeal;US;SNAPDEAL;M;A;FLIPKART;Germany;Mergers / Acquisitions / Takeovers;Japan;Diversified Trading and Distributing (TRBC);Equity Financing;Media and Publishing (TRBC);Equity Investments;Africa;Divestitures / Spin;Offs;Asia / Pacific;Major News;Department Stores (TRBC);Pictures;Media / Publishing (Legacy);All Retail;United States;IT Services and Consulting (TRBC);Company News;India;South Africa;Software and IT Services (TRBC);China (PRC);Wireless Telecommunications Services (TRBC);Corporate Events;Internet / World Wide Web;Europe;Science;Technology / Media / Telecoms;Emerging Market Countries;Industrial Machinery / Equipment (Legacy);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Wed Jul 05 10:36:20 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Sankalp Phartiyal"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-05T10:36:20+0000"/>
-    <cse:Attribute name="sailthru.title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
+    <cse:Attribute name="author" value="Andrew  Berlin and Liana B. Baker"/>
+    <cse:Attribute name="news_keywords" value="United States;Andrew J. Paul;US;CORSAIR;LBO;Investment Banking and Investment Services (TRBC);Banks (TRBC);Mergers / Acquisitions / Takeovers;Company News;Credit and Corporate Debt;Corporate Events;Corporate Debt;Semiconductors (TRBC);Investment Banking and Brokerage Services (TRBC);Debt / Fixed Income Markets;Science;New York;Banking Services (Legacy);United States;Loans"/>
+    <cse:Attribute name="revision_date" value="Thu Jul 13 15:12:38 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Andrew  Berlin and Liana B. Baker"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-13T15:12:38+0000"/>
+    <cse:Attribute name="sailthru.title" value="LPC: EagleTree to buy video game gear maker Corsair - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN19P2BQ"/>
+    <cse:Attribute name="og:title" value="LPC: EagleTree to buy video game gear maker Corsair - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-corsair-lbo-idUSKBN19Y1WE"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="India&apos;s No. 3 e-commerce firm Snapdeal has rejected an initial takeover offer from its larger rival Flipkart, but talks between the two camps that have been working on forging a deal for months continue, sources close to the matter said."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-05T10:36:20+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-05T10:36:20+0000"/>
+    <cse:Attribute name="og:description" value="Middle market private equity firm EagleTree Capital is in advanced discussions to acquire Corsair Components, a U.S. manufacturer of computer peripherals and hardware geared toward the professional gaming market, for more than $500 million, two sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-13T15:12:38+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-13T15:12:38+0000"/>
     <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Sankalp Phartiyal"/>
-    <cse:Attribute name="og:article:tag" value="India,Japan,China,India,Japan,Snapdeal,US,SNAPDEAL,M,A,FLIPKART,Germany,Mergers / Acquisitions / Takeovers,Japan,Diversified Trading and Distributing (TRBC),Equity Financing,Media and Publishing (TRBC),Equity Investments,Africa,Divestitures / Spin,Offs,Asia / Pacific,Major News,Department Stores (TRBC),Pictures,Media / Publishing (Legacy),All Retail,United States,IT Services and Consulting (TRBC),Company News,India,South Africa,Software and IT Services (TRBC),China (PRC),Wireless Telecommunications Services (TRBC),Corporate Events,Internet / World Wide Web,Europe,Science,Technology / Media / Telecoms,Emerging Market Countries,Industrial Machinery / Equipment (Legacy),Private Equity Funds"/>
+    <cse:Attribute name="og:article:author" value="Andrew  Berlin and Liana B. Baker"/>
+    <cse:Attribute name="og:article:tag" value="United States,Andrew J. Paul,US,CORSAIR,LBO,Investment Banking and Investment Services (TRBC),Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Credit and Corporate Debt,Corporate Events,Corporate Debt,Semiconductors (TRBC),Investment Banking and Brokerage Services (TRBC),Debt / Fixed Income Markets,Science,New York,Banking Services (Legacy),United States,Loans"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Indian e-commerce firm Snapdeal rejects rival Flipkart&apos;s initial bid: sources"/>
-    <cse:Attribute name="twitter:description" value="India&apos;s No. 3 e-commerce firm Snapdeal has rejected an initial takeover offer from its larger rival Flipkart, but talks between the two camps that have been working on forging a deal for months continue, sources close to the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="LPC: EagleTree to buy video game gear maker Corsair - sources"/>
+    <cse:Attribute name="twitter:description" value="Middle market private equity firm EagleTree Capital is in advanced discussions to acquire Corsair Components, a U.S. manufacturer of computer peripherals and hardware geared toward the professional gaming market, for more than $500 million, two sources familiar with the matter said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
     <cse:Attribute name="wt.cg_n" value="Technology"/>
     <cse:Attribute name="wt.cg_s" value="Technology"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170705&amp;t=2&amp;i=1191667410&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED631A5"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="279"/>
-    <cse:Attribute name="height" value="181"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgg7Bvl3rIGK2dMmrRZZsWfgeeK99NK0YXyTChgHvWYuAwjylhfmLdBQtT"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/dana-gas-sukuk-court-idUSL8N1JW5GB</id>
-  <updated>1970-01-18T08:33:07.332Z</updated>
-  <title type="html">UPDATE 1-London court to hear Dana Gas sukuk case in September</title>
-  <link href="https://www.reuters.com/article/dana-gas-sukuk-court-idUSL8N1JW5GB" title="www.reuters.com"/>
-  <summary type="html">... hearing in September on efforts by AbuDhabi-listed Dana Gas to restructure &lt;br&gt;
-$700 million ofits Islamic bonds, &lt;b&gt;sources familiar with&lt;/b&gt; the case said &lt;br&gt;
-onWednesday.</summary>
-  <cse:cacheId>KaExdD9bGqcJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../dana-gas-sukuk-court-idUSL8N1JW5GB</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="marketsNews;energy-environment-economy;bondsNews;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="UPDATE+1-London+court+to+hear+Dana+Gas+sukuk+case+in+September"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United Arab Emirates;Dana Gas;DANA GAS;SUKUK/COURT (UPDATE 1);Crime / Law / Justice;Investment Banking and Investment Services (TRBC);Germany;Performance / Results / Earnings;Islamic Finance;Western Europe;Judicial Process / Court Cases / Court Decisions;Credit and Corporate Debt;Central / Eastern Europe;Corporate Debt;Asia / Pacific;Major News;Restructuring / Reorganization;Government Borrowing Requirement;Debt / Fixed Income Markets;Middle East;United Kingdom;Banking Services (TRBC);Banks (TRBC);Corporate Debt Renegotiation;United Arab Emirates;Company News;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Corporate Events;Economic Events;Euro Zone;Dividends;Oil and Gas (TRBC);General News;Integrated Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Energy (TRBC);Europe;Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Wed Jul 05 19:04:16 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-05T19:04:16+0000"/>
-    <cse:Attribute name="sailthru.title" value="UPDATE 1-London court to hear Dana Gas sukuk case in September"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="UPDATE 1-London court to hear Dana Gas sukuk case in September"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/dana-gas-sukuk-court-idUSL8N1JW5GB"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="London&apos;s High Court plansto hold a full hearing in September on efforts by AbuDhabi-listed Dana Gas to restructure $700 million ofits Islamic bonds, sources familiar with the case said onWednesday."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-05T19:04:16+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-05T19:04:16+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United Arab Emirates,Dana Gas,DANA GAS,SUKUK/COURT (UPDATE 1),Crime / Law / Justice,Investment Banking and Investment Services (TRBC),Germany,Performance / Results / Earnings,Islamic Finance,Western Europe,Judicial Process / Court Cases / Court Decisions,Credit and Corporate Debt,Central / Eastern Europe,Corporate Debt,Asia / Pacific,Major News,Restructuring / Reorganization,Government Borrowing Requirement,Debt / Fixed Income Markets,Middle East,United Kingdom,Banking Services (TRBC),Banks (TRBC),Corporate Debt Renegotiation,United Arab Emirates,Company News,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Corporate Events,Economic Events,Euro Zone,Dividends,Oil and Gas (TRBC),General News,Integrated Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Energy (TRBC),Europe,Emerging Market Countries,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="UPDATE 1-London court to hear Dana Gas sukuk case in September"/>
-    <cse:Attribute name="twitter:description" value="London&apos;s High Court plansto hold a full hearing in September on efforts by AbuDhabi-listed Dana Gas to restructure $700 million ofits Islamic bonds, sources familiar with the case said onWednesday."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -405,20 +512,144 @@ onWednesday.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/japan-economy-boj-idUSL3N1JW1FI</id>
-  <updated>1970-01-18T08:33:07.332Z</updated>
-  <title type="html">BOJ to cut inflation forecasts, hold off on easing - sources | Reuters</title>
-  <link href="https://www.reuters.com/article/japan-economy-boj-idUSL3N1JW1FI" title="www.reuters.com"/>
-  <summary type="html">... and offer a more upbeat assessment of the economy than it did in June to say it &lt;br&gt;
-is expanding moderately, said &lt;b&gt;sources familiar with&lt;/b&gt; the central bank&amp;#39;s thinking.</summary>
-  <cse:cacheId>d-GWPqcFilsJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/japan-economy-boj-idUSL3N1JW1FI</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-paipartners-adbsafegate-idUSKBN1A00MG</id>
+  <updated>1970-01-18T08:42:52.053Z</updated>
+  <title type="html">Carlyle to buy airfield lighting group ADB Safegate: sources</title>
+  <link href="https://www.reuters.com/article/us-paipartners-adbsafegate-idUSKBN1A00MG" title="www.reuters.com"/>
+  <summary type="html">... has agreed to buy airfield lighting group ADB Safegate at a valuation of about &lt;br&gt;
+900 million euros ($1 billion) including debt, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>VpX3fcrMcKwJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-paipartners-adbsafegate-idUSKBN1A00MG</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;innovationNews;businessNews;bank-news;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Carlyle+to+buy+airfield+lighting+group+ADB+Safegate%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Dasha Afanasieva and Arno Schuetze"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Dasha Afanasieva and Arno Schuetze"/>
+    <cse:Attribute name="news_keywords" value="Adrien;Montagu;US;PAIPARTNERS;ADBSAFEGATE;Germany;Banks (TRBC);Mergers / Acquisitions / Takeovers;Company News;Western Europe;Corporate Events;Divestitures / Spin;Offs;Europe;Airport Services (TRBC);Science;Deals;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Sat Jul 15 16:38:27 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Dasha Afanasieva and Arno Schuetze"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-15T16:38:27+0000"/>
+    <cse:Attribute name="sailthru.title" value="Carlyle to buy airfield lighting group ADB Safegate: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Carlyle to buy airfield lighting group ADB Safegate: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-paipartners-adbsafegate-idUSKBN1A00MG"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Buyout group Carlyle has agreed to buy airfield lighting group ADB Safegate at a valuation of about 900 million euros ($1 billion) including debt, sources familiar with the matter said."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170715&amp;t=2&amp;i=1193115551&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6E0IC"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-15T16:38:27+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-15T16:38:27+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Dasha Afanasieva and Arno Schuetze"/>
+    <cse:Attribute name="og:article:tag" value="Adrien,Montagu,US,PAIPARTNERS,ADBSAFEGATE,Germany,Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Western Europe,Corporate Events,Divestitures / Spin,Offs,Europe,Airport Services (TRBC),Science,Deals,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Carlyle to buy airfield lighting group ADB Safegate: sources"/>
+    <cse:Attribute name="twitter:description" value="Buyout group Carlyle has agreed to buy airfield lighting group ADB Safegate at a valuation of about 900 million euros ($1 billion) including debt, sources familiar with the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170715&amp;t=2&amp;i=1193115551&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6E0IC"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170715&amp;t=2&amp;i=1193115551&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6E0IC"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="wt.cg_n" value="Technology"/>
+    <cse:Attribute name="wt.cg_s" value="Technology"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://pictures.reuters.com/Doc/RTR/Media/TR3_UNWATERMARKED/f/8/5/c/RTX37MHO.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAVVjoAcYJ01YgnFJajaw1aN163e5pw6wdtgbw3c6xWSJjosDZRs4iRlgh"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.vox.com/policy-and-politics/2017/7/10/15947880/trump-oust-jeff-flake-primary</id>
+  <updated>1970-01-18T08:42:52.053Z</updated>
+  <title type="html">Trump reportedly floated spending $10 million to oust a critical ...</title>
+  <link href="https://www.vox.com/policy-and-politics/2017/7/10/15947880/trump-oust-jeff-flake-primary" title="www.vox.com"/>
+  <summary type="html">... $10 million out of his own pocket to defeat an incumbent senator of his own &lt;br&gt;
+party, Jeff Flake of Arizona, according to two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+conversation&amp;nbsp;...</summary>
+  <cse:cacheId>I2lCxNn6Yn8J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.vox.com/policy-and.../trump-oust-jeff-flake-primary</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <cse:Attribute name="style-tools" value="https://www.vox.com/style/community/441/5eb3ab1b575ff2edfacbf398be2f28b0/tools.css"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Vox"/>
+    <cse:Attribute name="author" value="Tara Golshan"/>
+    <cse:Attribute name="article:published_time" value="2017-07-10T14:30:01-04:00"/>
+    <cse:Attribute name="og:description" value="Trump likes loyalty. Sen. Jeff Flake, the incumbent in a vulnerable seat, likes to be outspoken."/>
+    <cse:Attribute name="fb:app_id" value="549923288395304"/>
+    <cse:Attribute name="og:image" value="https://cdn.vox-cdn.com/thumbor/bbEhaHZL-sUoRUGN8HFCzPkXLAg=/0x0:3000x1667/1080x600/cdn.vox-cdn.com/uploads/chorus_image/image/55646009/681617418.0.jpg"/>
+    <cse:Attribute name="og:image:height" value="600"/>
+    <cse:Attribute name="og:image:width" value="1080"/>
+    <cse:Attribute name="og:site_name" value="Vox"/>
+    <cse:Attribute name="og:title" value="Trump reportedly floated spending $10 million to oust a critical Republican senator"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="https://www.vox.com/policy-and-politics/2017/7/10/15947880/trump-oust-jeff-flake-primary"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:url" value="https://www.vox.com/policy-and-politics/2017/7/10/15947880/trump-oust-jeff-flake-primary"/>
+    <cse:Attribute name="twitter:title" value="Trump reportedly floated spending $10 million to oust a critical Republican senator"/>
+    <cse:Attribute name="twitter:description" value="Trump likes loyalty. Sen. Jeff Flake, the incumbent in a vulnerable seat, likes to be outspoken."/>
+    <cse:Attribute name="twitter:image" value="https://cdn.vox-cdn.com/thumbor/bbEhaHZL-sUoRUGN8HFCzPkXLAg=/0x0:3000x1667/1080x600/cdn.vox-cdn.com/uploads/chorus_image/image/55646009/681617418.0.jpg"/>
+    <cse:Attribute name="twitter:site" value="voxdotcom"/>
+    <cse:Attribute name="sailthru.title" value="Trump reportedly floated spending $10 million to oust a critical Republican senator"/>
+    <cse:Attribute name="sailthru.tags" value="general,vox"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-10"/>
+    <cse:Attribute name="sailthru.description" value="Trump likes loyalty. Sen. Jeff Flake, the incumbent in a vulnerable seat, likes to be outspoken."/>
+    <cse:Attribute name="p:domain_verify" value="d4410485bd6277c2bf2ce0f277819dc6"/>
+    <cse:Attribute name="msvalidate.01" value="D385D0326A3AE144205C298DB34B4E94"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://cdn0.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_ipad_retina_1000_yellow.755.png"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#4f7177"/>
+    <cse:Attribute name="outbrainsection" value="latest-news"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://cdn.vox-cdn.com/thumbor/bbEhaHZL-sUoRUGN8HFCzPkXLAg=/0x0:3000x1667/1080x600/cdn.vox-cdn.com/uploads/chorus_image/image/55646009/681617418.0.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="301"/>
+    <cse:Attribute name="height" value="167"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkQkZ25CZeCFUzmFkppw9bCYAJEIY2MEeIBzOWYpnbUcmv03OpAgfDst3"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/glp-ma-talks-idUSL4N1K41J5</id>
+  <updated>1970-01-18T08:42:52.053Z</updated>
+  <title type="html">REFILE-Bid target Global Logistic properties selects Chinese group ...</title>
+  <link href="https://www.reuters.com/article/glp-ma-talks-idUSL4N1K41J5" title="www.reuters.com"/>
+  <summary type="html">... Properties , the subject of a bidding war, has decided to hold final talks with a &lt;br&gt;
+Chinese group this week, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Thursday.</summary>
+  <cse:cacheId>A5ntlJ6EoyIJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/glp-ma-talks-idUSL4N1K41J5</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
     <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="marketsNews;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="BOJ+to+cut+inflation+forecasts%2C+hold+off+on+easing+-+sources"/>
+    <cse:Attribute name="dcsext.channellist" value="marketsNews;fundsFundsNews"/>
+    <cse:Attribute name="dcsext.contentheadline" value="REFILE-Bid+target+Global+Logistic+properties+selects+Chinese+group+for+final+talks+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
@@ -426,30 +657,30 @@ is expanding moderately, said &lt;b&gt;sources familiar with&lt;/b&gt; the centr
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
     <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
     <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Haruhiko Kuroda;JAPAN;ECONOMY/BOJ (URGENT;PIX);Japan;Inflation;Central Banks / Central Bank Events;Corporate Events;Interest Rates / Policy;Economic Events;Mining;Asia / Pacific;Major News;Monetary / Fiscal Policy / Policy Makers;Bank of Japan"/>
-    <cse:Attribute name="revision_date" value="Wed Jul 05 06:00:01 UTC 2017"/>
+    <cse:Attribute name="news_keywords" value="Singapore;GLP;MandA/TALKS (CORRECTED;URGENT);Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Asia / Pacific;Singapore;Major News;Deals;United States;Americas;Real Estate Development and Operations (TRBC);Funds;Company News;Financials (TRBC);Financials (Legacy);China (PRC);Corporate Events;Real Estate (Legacy);Real Estate Operations (TRBC);Banking and Investment Services (TRBC);Real Estate (TRBC);ASEAN Countries;Emerging Market Countries;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Thu Jul 13 03:11:33 UTC 2017"/>
     <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-05T06:00:01+0000"/>
-    <cse:Attribute name="sailthru.title" value="BOJ to cut inflation forecasts, hold off on easing - sources"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-13T03:11:33+0000"/>
+    <cse:Attribute name="sailthru.title" value="REFILE-Bid target Global Logistic properties selects Chinese group for final talks - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="BOJ to cut inflation forecasts, hold off on easing - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/japan-economy-boj-idUSL3N1JW1FI"/>
+    <cse:Attribute name="og:title" value="REFILE-Bid target Global Logistic properties selects Chinese group for final talks - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/glp-ma-talks-idUSL4N1K41J5"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Japan&apos;s central bank will cut itsinflation forecasts but hold off expanding stimulus this month,people familiar with the matter say, in another sign the bank isretreating from Governor Haruhiko Kuroda&apos;s initial pledge to dowhatever it takes to achieve his ambitious inflation target."/>
+    <cse:Attribute name="og:description" value="Global Logistic Properties, the subject of a bidding war, has decided to holdfinal talks with a Chinese group this week, two sources familiarwith the matter said on Thursday."/>
     <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-05T06:00:01+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-05T06:00:01+0000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-13T03:11:33+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-13T03:11:33+0000"/>
     <cse:Attribute name="og:article:section" value="Markets"/>
     <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Haruhiko Kuroda,JAPAN,ECONOMY/BOJ (URGENT,PIX),Japan,Inflation,Central Banks / Central Bank Events,Corporate Events,Interest Rates / Policy,Economic Events,Mining,Asia / Pacific,Major News,Monetary / Fiscal Policy / Policy Makers,Bank of Japan"/>
+    <cse:Attribute name="og:article:tag" value="Singapore,GLP,MandA/TALKS (CORRECTED,URGENT),Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Asia / Pacific,Singapore,Major News,Deals,United States,Americas,Real Estate Development and Operations (TRBC),Funds,Company News,Financials (TRBC),Financials (Legacy),China (PRC),Corporate Events,Real Estate (Legacy),Real Estate Operations (TRBC),Banking and Investment Services (TRBC),Real Estate (TRBC),ASEAN Countries,Emerging Market Countries,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="BOJ to cut inflation forecasts, hold off on easing - sources"/>
-    <cse:Attribute name="twitter:description" value="Japan&apos;s central bank will cut itsinflation forecasts but hold off expanding stimulus this month,people familiar with the matter say, in another sign the bank isretreating from Governor Haruhiko Kuroda&apos;s initial pledge to dowhatever it takes to achieve his ambitious inflation target."/>
+    <cse:Attribute name="twitter:title" value="REFILE-Bid target Global Logistic properties selects Chinese group for final talks - sources"/>
+    <cse:Attribute name="twitter:description" value="Global Logistic Properties, the subject of a bidding war, has decided to holdfinal talks with a Chinese group this week, two sources familiarwith the matter said on Thursday."/>
     <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
@@ -457,6 +688,14 @@ is expanding moderately, said &lt;b&gt;sources familiar with&lt;/b&gt; the centr
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
     <cse:Attribute name="wt.cg_n" value="Markets"/>
     <cse:Attribute name="wt.cg_s" value="Markets"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
@@ -465,215 +704,6 @@ is expanding moderately, said &lt;b&gt;sources familiar with&lt;/b&gt; the centr
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/toshiba-accounting-idUSL3N1JU297</id>
-  <updated>1970-01-18T08:33:07.332Z</updated>
-  <title type="html">SK Hynix proposes financing Toshiba chip deal via convertible ...</title>
-  <link href="https://www.reuters.com/article/toshiba-accounting-idUSL3N1JU297" title="www.reuters.com"/>
-  <summary type="html">... Corp&amp;#39;s chip unit be done throughconvertible bonds, two &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-the matter said,potentially allowing it to have an equity interest in theworld&amp;#39;s No.</summary>
-  <cse:cacheId>7QfLl64g-9kJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/toshiba-accounting-idUSL3N1JU297</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="marketsNews;fundsFundsNews;bondsNews;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="SK+Hynix+proposes+financing+Toshiba+chip+deal+via+convertible+bonds+-sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Japan;Joyce Lee;Kentaro Hamada;Makiko Yamazaki;Satoshi Tsunakawa;Se Young Lee;TOSHIBA;ACCOUNTING/ (PIX);Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Japan;Semiconductors and Semiconductor Equipment (TRBC);Industrial Goods (TRBC);Credit and Corporate Debt;Corporate Debt;Computers and Office Equipment (TRBC);Semiconductors (TRBC);Asia / Pacific;Major News;Restructuring / Reorganization;Industrials (TRBC);Debt / Fixed Income Markets;Equity;Linked Bonds;Machinery : Equipment and Components (TRBC);Deals;United States;Computer Hardware (TRBC);Americas;Funds;Company News;South Korea;Financials (TRBC);Financials (Legacy);Corporate Events;Monopolies / Antitrust Issues;Technology (TRBC);Corporate Governance;Electrical Components and Equipment (TRBC);Banking and Investment Services (TRBC);Regulation;Industrial Conglomerates (TRBC);Technology Equipment (TRBC);Technology / Media / Telecoms;Emerging Market Countries;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Mon Jul 03 07:12:38 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-03T07:12:38+0000"/>
-    <cse:Attribute name="sailthru.title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/toshiba-accounting-idUSL3N1JU297"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="SK Hynix Inc hasproposed that its financing for a Japan government-led groupbidding for Toshiba Corp&apos;s chip unit be done throughconvertible bonds, two sources familiar with the matter said,potentially allowing it to have an equity interest in theworld&apos;s No. 2 NAND chip maker."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-03T07:12:38+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-03T07:12:38+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Japan,Joyce Lee,Kentaro Hamada,Makiko Yamazaki,Satoshi Tsunakawa,Se Young Lee,TOSHIBA,ACCOUNTING/ (PIX),Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Japan,Semiconductors and Semiconductor Equipment (TRBC),Industrial Goods (TRBC),Credit and Corporate Debt,Corporate Debt,Computers and Office Equipment (TRBC),Semiconductors (TRBC),Asia / Pacific,Major News,Restructuring / Reorganization,Industrials (TRBC),Debt / Fixed Income Markets,Equity,Linked Bonds,Machinery : Equipment and Components (TRBC),Deals,United States,Computer Hardware (TRBC),Americas,Funds,Company News,South Korea,Financials (TRBC),Financials (Legacy),Corporate Events,Monopolies / Antitrust Issues,Technology (TRBC),Corporate Governance,Electrical Components and Equipment (TRBC),Banking and Investment Services (TRBC),Regulation,Industrial Conglomerates (TRBC),Technology Equipment (TRBC),Technology / Media / Telecoms,Emerging Market Countries,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="SK Hynix proposes financing Toshiba chip deal via convertible bonds -sources"/>
-    <cse:Attribute name="twitter:description" value="SK Hynix Inc hasproposed that its financing for a Japan government-led groupbidding for Toshiba Corp&apos;s chip unit be done throughconvertible bonds, two sources familiar with the matter said,potentially allowing it to have an equity interest in theworld&apos;s No. 2 NAND chip maker."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.politico.com/states/new-jersey/story/2017/07/03/budget-deal-in-the-works-lawmakers-told-to-be-on-standby-113205</id>
-  <updated>1970-01-18T08:33:07.332Z</updated>
-  <title type="html">Sources: Deal in the works to end budget standoff, shutdown</title>
-  <link href="http://www.politico.com/states/new-jersey/story/2017/07/03/budget-deal-in-the-works-lawmakers-told-to-be-on-standby-113205" title="www.politico.com"/>
-  <summary type="html">TRENTON - A deal to end the budget impasses, which has shutdown state &lt;br&gt;
-government for three days, is in the works, according to three &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;with&lt;/b&gt; the&amp;nbsp;...</summary>
-  <cse:cacheId>XK6Mb5zcWg8J</cse:cacheId>
-  <cse:formattedUrl type="html">www.politico.com/.../budget-deal-in-the-works-lawmakers-told-to-be-on- standby-113205</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Ryan Hutchins"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/ryan-hutchins"/>
-    <cse:Attribute name="url_text" value="Ryan Hutchins"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/56bf120/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-187951.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Matt Friedman"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/matt-friedman"/>
-    <cse:Attribute name="url_text" value="Matt Friedman"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/8f94569/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F32%2Fa2%2F0d9ddf574a4fadbf443c4503ff4a%2Fmatt-friedman-staff-photo-2017.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="David Giambusso"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-york/staff/david-giambusso"/>
-    <cse:Attribute name="url_text" value="David Giambusso"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/2c0604e/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-188039.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Katie Jennings"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/katie-jennings"/>
-    <cse:Attribute name="url_text" value="Katie Jennings"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/884e0d3/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F7d%2Fd8%2F72287de841429e46667b3687e2ab%2Fkatie-jennings-staff-photo-2017.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Katherine Landergan"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/katherine-landergan"/>
-    <cse:Attribute name="url_text" value="Katherine Landergan"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/fcf69a1/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-193181.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Linh Tat"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/linh-tat"/>
-    <cse:Attribute name="url_text" value="Linh Tat"/>
-    <cse:Attribute name="photo" value="http://static.politico.com/dims4/default/e7cc519/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcapny%2Fsites%2Fdefault%2Ffiles%2Fpictures%2Fpicture-192922.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Katie Jennings"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/katie-jennings"/>
-    <cse:Attribute name="url_text" value="Katie Jennings"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Katie Jennings"/>
-    <cse:Attribute name="url" value="http://www.politico.com/states/new-jersey/staff/katie-jennings"/>
-    <cse:Attribute name="url_text" value="Katie Jennings"/>
-   </cse:DataObject>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="og:title" value="Sources: Deal in the works to end budget standoff, shutdown"/>
-    <cse:Attribute name="og:description" value="&lt;p&gt;TRENTON - A deal to end the budget impasses, which has shutdown state government for three days, is in the works, according to three sources familiar with the negotiations. &lt;/p&gt;"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://politi.co/2taVwwi"/>
-    <cse:Attribute name="og:site_name" value="Politico PRO"/>
-    <cse:Attribute name="og:image" value="http://static.politico.com/92/3b/92db533e42f1946316ce165c3ec4/170601-vincent-prieto-ap.jpg"/>
-    <cse:Attribute name="host" value="www.politico.com"/>
-    <cse:Attribute name="build" value="release/2017-irma 1802dd7 2017-06-28T15:15:32Z"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="headline" value="Sources: Deal in the works to end budget standoff, shutdown"/>
-    <cse:Attribute name="datepublished" value="2017-07-03 19:21:56"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="url" value="http://www.politico.com/"/>
-    <cse:Attribute name="name" value="POLITICO"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="http://static.politico.com/92/3b/92db533e42f1946316ce165c3ec4/170601-vincent-prieto-ap.jpg"/>
-    <cse:Attribute name="width" value="1160"/>
-    <cse:Attribute name="height" value="550"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Katie Jennings"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://static.politico.com/92/3b/92db533e42f1946316ce165c3ec4/170601-vincent-prieto-ap.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="305"/>
-    <cse:Attribute name="height" value="165"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP9lAbATysAdn2Pq0u-1s3J7vB_ET33F9AUymqZqQ9Ep_eWnKuNntNtac"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.latimes.com/business/hollywood/la-fi-ct-charles-payne-fox-business-20170706-story.html</id>
-  <updated>1970-01-18T08:33:07.332Z</updated>
-  <title type="html">Fox suspends business news host Charles Payne amid sexual ...</title>
-  <link href="http://www.latimes.com/business/hollywood/la-fi-ct-charles-payne-fox-business-20170706-story.html" title="www.latimes.com"/>
-  <summary type="html">... the network after she ended the affair in 2015 and tried to report Payne to top &lt;br&gt;
-executives at Fox News, according to two &lt;b&gt;sources familiar with&lt;/b&gt; her complaint.</summary>
-  <cse:cacheId>tIwfFtMPlGsJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.latimes.com/.../la-fi-ct-charles-payne-fox-business-20170706-story. html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i13prod-9fbd517-0-251.1"/>
-    <cse:Attribute name="author" value="Stephen Battaglio"/>
-    <cse:Attribute name="date" value="2017-07-06"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 Los Angeles Times"/>
-    <cse:Attribute name="news_keywords" value="Charles Payne, Fox, Roger Ailes, sex, harassment"/>
-    <cse:Attribute name="fb_title" value="Fox suspends business news host Charles Payne amid sexual harassment allegations"/>
-    <cse:Attribute name="og:title" value="Fox suspends business news host Charles Payne amid sexual harassment allegations"/>
-    <cse:Attribute name="og:description" value="The law firm investigating sexual harassment claims at 21st Century Fox is reviewing new allegations against a Fox Business News anchor Charles Payne."/>
-    <cse:Attribute name="fb:page_id" value="5863113009"/>
-    <cse:Attribute name="fb:admins" value="100000786395051"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.latimes.com/business/hollywood/la-fi-ct-charles-payne-fox-business-20170706-story.html"/>
-    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-595fa0ed/turbine/la-fi-ct-charles-payne-fox-business-20170706"/>
-    <cse:Attribute name="og:site_name" value="latimes.com"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:site" value="@latimes"/>
-    <cse:Attribute name="y_key" value="cee2fe4077f8d050"/>
-    <cse:Attribute name="msvalidate.01" value="AAC9C18F70AC386BC4DCF4DDF9BF1786"/>
-    <cse:Attribute name="googlebot-news" value="index"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=373238146, app-argument=http://www.latimes.com/deeplinkid/94012305"/>
-    <cse:Attribute name="so:status" value="5,1"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="articlesection" value="BUSINESS"/>
-    <cse:Attribute name="headline" value="Fox suspends business news host Charles Payne amid sexual harassment allegations"/>
-    <cse:Attribute name="author" value="Stephen Battaglio"/>
-    <cse:Attribute name="datepublished" value="2017-07-06T18:00:00PDT"/>
-    <cse:Attribute name="articlebody" value="Fox Business Network host Charles Payne has been suspended while 21st Century Fox investigates sexual harassment allegations made against him, the company confirmed Thursday night.Payne’s..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.trbimg.com/img-595fa0ed/turbine/la-fi-ct-charles-payne-fox-business-20170706"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYtsGxv-8KZrgKtfMDNiq0zgDbDIuY4NC7CaPP1VQe7E3QeWuSEZ19foM"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
