@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T08:49:10.305Z</updated>
+ <updated>1970-01-18T08:50:38.220Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14700" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="14700" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>14700</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a source close to&quot;" totalResults="18000" searchTerms="&quot;a source close to&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;a source close to&quot;" totalResults="18000" searchTerms="&quot;a source close to&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>18000</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.303922</cse:searchTime>
-  <cse:formattedSearchTime>0.30</cse:formattedSearchTime>
-  <cse:totalResults>14700</cse:totalResults>
-  <cse:formattedTotalResults>14,700</cse:formattedTotalResults>
+  <cse:searchTime>0.265081</cse:searchTime>
+  <cse:formattedSearchTime>0.27</cse:formattedSearchTime>
+  <cse:totalResults>18000</cse:totalResults>
+  <cse:formattedTotalResults>18,000</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-saudi-palace-coup-idUSKBN1A41IS</id>
-  <updated>1970-01-18T08:49:10.305Z</updated>
+  <updated>1970-01-18T08:50:38.220Z</updated>
   <title type="html">Addiction and intrigue: Inside the Saudi palace coup</title>
   <link href="https://www.reuters.com/article/us-saudi-palace-coup-idUSKBN1A41IS" title="www.reuters.com"/>
   <summary type="html">There, according to &lt;b&gt;a source close to&lt;/b&gt; MbN, as he is known, the king ordered him &lt;br&gt;
@@ -95,7 +95,7 @@ to step aside in favour of the king&amp;#39;s favourite son, Mohammed bin Salman
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.washingtonexaminer.com/growing-list-of-defense-industry-executives-tapped-for-pentagon-posts-could-create-complications/article/2629092</id>
-  <updated>1970-01-18T08:49:10.305Z</updated>
+  <updated>1970-01-18T08:50:38.220Z</updated>
   <title type="html">Growing list of defense industry executives tapped for Pentagon ...</title>
   <link href="http://www.washingtonexaminer.com/growing-list-of-defense-industry-executives-tapped-for-pentagon-posts-could-create-complications/article/2629092" title="www.washingtonexaminer.com"/>
   <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the White House noted Esper&amp;#39;s nomination could create a &amp;quot;very &lt;br&gt;
@@ -147,15 +147,15 @@ interesting&amp;quot; situation given that his position would require him to sit
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/oman-oil-loan-idUSL5N1KA1UU</id>
-  <updated>1970-01-18T08:49:10.305Z</updated>
+  <id>http://www.reuters.com/article/us-oman-oil-loan-idUSKBN1A40Q8</id>
+  <updated>1970-01-18T08:50:38.220Z</updated>
   <title type="html">Oman Oil to close $1 billion PXF loan imminently: source</title>
-  <link href="http://www.reuters.com/article/oman-oil-loan-idUSL5N1KA1UU" title="www.reuters.com"/>
+  <link href="http://www.reuters.com/article/us-oman-oil-loan-idUSKBN1A40Q8" title="www.reuters.com"/>
   <summary type="html">State-owned Oman Oil expects to close imminently, within two months at the &lt;br&gt;
 latest, a pre-export financing (PXF) loan of around $1 billion, &lt;b&gt;a source close to&lt;/b&gt; &lt;br&gt;
 the&amp;nbsp;...</summary>
-  <cse:cacheId>QCkm-g0YoGAJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/oman-oil-loan-idUSL5N1KA1UU</cse:formattedUrl>
+  <cse:cacheId>hD91FOa2CxYJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-oman-oil-loan-idUSKBN1A40Q8</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
@@ -220,59 +220,59 @@ the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-altice-bank-idUSKBN19Y0WU</id>
-  <updated>1970-01-18T08:49:10.305Z</updated>
-  <title type="html">Telecoms group Altice to launch online bank in Europe: source</title>
-  <link href="http://www.reuters.com/article/us-altice-bank-idUSKBN19Y0WU" title="www.reuters.com"/>
-  <summary type="html">... launch an online bank by early 2019 in the European countries where his &lt;br&gt;
-telecoms and cable firm Altice operates, &lt;b&gt;a source close to&lt;/b&gt; the matter said on &lt;br&gt;
-Thursday.</summary>
-  <cse:cacheId>VLfr5vntjioJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-altice-bank-idUSKBN19Y0WU</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-whole-foods-m-a-amazon-ftc-idUSKBN1A52R5</id>
+  <updated>1970-01-18T08:50:38.220Z</updated>
+  <title type="html">FTC probing allegations of Amazon&amp;#39;s deceptive discounting</title>
+  <link href="http://www.reuters.com/article/us-whole-foods-m-a-amazon-ftc-idUSKBN1A52R5" title="www.reuters.com"/>
+  <summary type="html">... the Federal Trade Commission is looking into allegations that Amazon &lt;br&gt;
+misleads customers about its pricing discounts, according to &lt;b&gt;a source close to&lt;/b&gt; the &lt;br&gt;
+probe.</summary>
+  <cse:cacheId>PIPLN4QxPQgJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-whole-foods-m-a-amazon-ftc-idUSKBN1A52R5</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;bank-news;digital-future;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Telecoms+group+Altice+to+launch+online+bank+in+Europe%3A+source"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="marketing-advertising;media-industry;innovationNews;businessNews;retail;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="FTC+probing+allegations+of+Amazon%27s+deceptive+discounting"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Mathieu Rosemain and Maya Nikolaeva"/>
+    <cse:Attribute name="dcsext.rauthor" value="Diane Bartz"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Mathieu Rosemain and Maya Nikolaeva"/>
-    <cse:Attribute name="news_keywords" value="Belgium;France;Luxembourg;Netherlands;Portugal;Switzerland;United States;Julien Maldonato;Patrick Drahi;US;ALTICE;BANK;Chemicals (Legacy);Germany;Mergers / Acquisitions / Takeovers;Western Europe;France;United States;Banking Services (TRBC);Banks (TRBC);Switzerland;Company News;European Central Bank;Financials (TRBC);Financials (Legacy);Telecommunications Services (TRBC);Central Banks / Central Bank Events;Corporate Events;Economic Events;Euro Zone;Integrated Telecommunications Services (TRBC);Internet / World Wide Web;Europe;Science;Banking Services (Legacy);Netherlands"/>
-    <cse:Attribute name="revision_date" value="Thu Jul 13 14:21:06 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Mathieu Rosemain and Maya Nikolaeva"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-13T14:21:06+0000"/>
-    <cse:Attribute name="sailthru.title" value="Telecoms group Altice to launch online bank in Europe: source"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Diane Bartz"/>
+    <cse:Attribute name="news_keywords" value="US;WHOLE;FOODS;M;A;AMAZON;FTC;Mergers / Acquisitions / Takeovers;Company News;Corporate Events;Monopolies / Antitrust Issues;Food Distribution and Convenience Stores (TRBC);Internet / World Wide Web;US Government News;Science;Regulation;Department Stores (TRBC);All Retail;United States;Advertising and Marketing (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Fri Jul 21 02:36:58 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Diane Bartz"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-21T02:36:58+0000"/>
+    <cse:Attribute name="sailthru.title" value="FTC probing allegations of Amazon&apos;s deceptive discounting"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Telecoms group Altice to launch online bank in Europe: source"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-altice-bank-idUSKBN19Y0WU"/>
+    <cse:Attribute name="og:title" value="FTC probing allegations of Amazon&apos;s deceptive discounting"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-whole-foods-m-a-amazon-ftc-idUSKBN1A52R5"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="French billionaire Patrick Drahi plans to launch an online bank by early 2019 in the European countries where his telecoms and cable firm Altice operates, a source close to the matter said on Thursday."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170713&amp;t=2&amp;i=1192796101&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6C0KX"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-13T14:21:06+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-13T14:21:06+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Mathieu Rosemain and Maya Nikolaeva"/>
-    <cse:Attribute name="og:article:tag" value="Belgium,France,Luxembourg,Netherlands,Portugal,Switzerland,United States,Julien Maldonato,Patrick Drahi,US,ALTICE,BANK,Chemicals (Legacy),Germany,Mergers / Acquisitions / Takeovers,Western Europe,France,United States,Banking Services (TRBC),Banks (TRBC),Switzerland,Company News,European Central Bank,Financials (TRBC),Financials (Legacy),Telecommunications Services (TRBC),Central Banks / Central Bank Events,Corporate Events,Economic Events,Euro Zone,Integrated Telecommunications Services (TRBC),Internet / World Wide Web,Europe,Science,Banking Services (Legacy),Netherlands"/>
+    <cse:Attribute name="og:description" value="As part of its review of Amazon&apos;s agreement to buy Whole Foods, the Federal Trade Commission is looking into allegations that Amazon misleads customers about its pricing discounts, according to a source close to the probe."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193802292&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1R3"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-21T02:36:58+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-21T02:36:58+0000"/>
+    <cse:Attribute name="og:article:section" value="Subjects"/>
+    <cse:Attribute name="og:article:author" value="Diane Bartz"/>
+    <cse:Attribute name="og:article:tag" value="US,WHOLE,FOODS,M,A,AMAZON,FTC,Mergers / Acquisitions / Takeovers,Company News,Corporate Events,Monopolies / Antitrust Issues,Food Distribution and Convenience Stores (TRBC),Internet / World Wide Web,US Government News,Science,Regulation,Department Stores (TRBC),All Retail,United States,Advertising and Marketing (TRBC)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Telecoms group Altice to launch online bank in Europe: source"/>
-    <cse:Attribute name="twitter:description" value="French billionaire Patrick Drahi plans to launch an online bank by early 2019 in the European countries where his telecoms and cable firm Altice operates, a source close to the matter said on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170713&amp;t=2&amp;i=1192796101&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6C0KX"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170713&amp;t=2&amp;i=1192796101&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6C0KX"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="twitter:title" value="FTC probing allegations of Amazon&apos;s deceptive discounting"/>
+    <cse:Attribute name="twitter:description" value="As part of its review of Amazon&apos;s agreement to buy Whole Foods, the Federal Trade Commission is looking into allegations that Amazon misleads customers about its pricing discounts, according to a source close to the probe."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193802292&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1R3"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193802292&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1R3"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/marketing/article"/>
+    <cse:Attribute name="wt.cg_n" value="Subjects"/>
+    <cse:Attribute name="wt.cg_s" value="Marketing and Advertising"/>
     <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
     <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
     <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
@@ -283,18 +283,18 @@ Thursday.</summary>
     <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170713&amp;t=2&amp;i=1192796101&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6C0KX"/>
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193802292&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1R3"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9EwN_XlhZOJTYoApm5ERZgDriulP1C3gHQplyRNZRgmhwN3f2jXwqrqo"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLf_KW_nMqHCtgMR5ZxAeNtdtbtZd7tztdWToc9abaW1FtKXoTUVAn0nY"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.foxnews.com/politics/2017/07/17/more-obama-officials-scrutinized-in-unmasking-probe.html</id>
-  <updated>1970-01-18T08:49:10.305Z</updated>
+  <updated>1970-01-18T08:50:38.220Z</updated>
   <title type="html">More Obama officials scrutinized in &amp;#39;unmasking&amp;#39; probe | Fox News</title>
   <link href="http://www.foxnews.com/politics/2017/07/17/more-obama-officials-scrutinized-in-unmasking-probe.html" title="www.foxnews.com"/>
   <summary type="html">... to be involved in the alleged “unmasking” of American citizens under the &lt;br&gt;
@@ -339,19 +339,401 @@ House&amp;nbsp;...</summary>
     <cse:Attribute name="dc.language" value="en-US"/>
     <cse:Attribute name="pagetype" value="article"/>
    </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="mamita1"/>
+    <cse:Attribute name="datecreated" value="2017-07-20T01:24:04.000Z"/>
+    <cse:Attribute name="text" value="Wonderful use of her english language! &quot;I leaked nothing to nobody&quot; She lied over and over and over. Will she now say that was fake news?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="chitownaj"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T17:36:05.000Z"/>
+    <cse:Attribute name="text" value="ALL involved should be fried. Period. But WE must KNOW and remember the d-RAT party is aaaka communist party. They feel Constitution is bendable and it is FINE for d-RATS to &quot;cherry pick&quot; what..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="guicatteyver"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T06:10:18.000Z"/>
+    <cse:Attribute name="text" value="Hi boys.. Fancy find a reliable, creative, affectionate, smart, girl? See here right now _ x11.pw/3nte Find name anabescar"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="FREEPPV"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T02:17:48.000Z"/>
+    <cse:Attribute name="text" value="Nothing would be finer than to see these liberal liar loser corrupticrats end up in GITMO."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="dennisca"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T01:44:08.000Z"/>
+    <cse:Attribute name="text" value="Hilly to Susan Rice on Nov 7, 2016: Don&apos;t worry, after tomorrow, we will bury all of this oops"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="billthecat62"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T01:42:08.000Z"/>
+    <cse:Attribute name="text" value="We can&apos;t trust the swamp to investigate the swamp. They all know the truth will be the end of their careers. There&apos;s no way that someone like Hillary or obama will go down without dragging..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="RodgerKShull"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T02:52:40.000Z"/>
+    <cse:Attribute name="text" value="@billthecat62 I would love to see those 2 drag the rest down with them to the boat to GITMO, an all of those people will see that what a lie those 2 are an were."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="NorthEasternWind"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T00:28:15.000Z"/>
+    <cse:Attribute name="text" value="More red herrings from Fox in an attempt to change the subject from the Trump&apos;s family felonies onto an Obama administration that was pretty much immune from controversy."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="JasonKolakowski"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T00:54:59.000Z"/>
+    <cse:Attribute name="text" value="&quot;immune to controversy&quot; because the media worships at the cult of Obama. Not because he didn&apos;t do anything controversial, like assainatate a US citizen without a trial, start wars without congressi..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="NorthEasternWind"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T01:08:57.000Z"/>
+    <cse:Attribute name="text" value="@JasonKolakowski I am afraid that if a US citizen is armed and obviously aligned with a terrorist organization on foreign soil he should not be immune to retribution. What wars has Obama started?..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="billthecat62"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T01:43:51.000Z"/>
+    <cse:Attribute name="text" value="@northleftardwindYour supposed to drink the coolaid, not shoot up with it."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="robbiel1"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T04:27:39.000Z"/>
+    <cse:Attribute name="text" value="@NorthEasternWind Really? Tax cuts for American&apos;s, first raise for military is 9 years, international leaders who like our Country again, a President who does not call us American&apos;s lazy, working..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="chitownaj"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T17:43:07.000Z"/>
+    <cse:Attribute name="text" value="@NorthEasternWind &quot;if you like your DR...... Quit &quot;inhaling&quot; and try to escape the &quot;twilight zone&quot; you inhabit.."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="litmus13"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T22:43:12.000Z"/>
+    <cse:Attribute name="text" value="We can&apos;t believe that Rice and the Obama administration have been getting a pass on these crimes,....Hillary too. It is time that justice was blind and objective again, instead of selective,..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="IndyQ"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T23:00:08.000Z"/>
+    <cse:Attribute name="text" value="@litmus13 What crime was that?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="califruitcakes"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T23:12:57.000Z"/>
+    <cse:Attribute name="text" value="@IndyQ @litmus13 USSID 18 provides a legal process that delineates how security officials should handle what happens when U.S. citizens are inadvertently picked up during lawful intercepts..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Gypsy613"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:49:09.000Z"/>
+    <cse:Attribute name="text" value="Republicans need to grow a spine. Play hard ball. Quit letting Dems drive investigations and narrative. Even gowdy talks tough but doesn&apos;t bring substance at the end of the day.SadLol"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Oregonus Maximus"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:49:53.000Z"/>
+    <cse:Attribute name="text" value="@Gypsy613 It is a sad game, and many of these people know how to play it very well."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Gypsy613"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:56:26.000Z"/>
+    <cse:Attribute name="text" value="I know. Chaffetz, Nunez, gowdy, present this big hope and loud noise, but then stop. It is sad. Dems pop up the next day claiming nothing came out. Doj should tear up all immunity agreements..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="IndyQ"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T23:01:53.000Z"/>
+    <cse:Attribute name="text" value="@Gypsy613 News flash genius. The republicans are controlling the investigations because they chair all the committees due to their legislative majorities. At least have some clue about the..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Rational American"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T01:20:06.000Z"/>
+    <cse:Attribute name="text" value="@IndyQ @Gypsy613 Investigations without charges are fruitless"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Oregonus Maximus"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:44:05.000Z"/>
+    <cse:Attribute name="text" value="Does anyone realistically believe we&apos;ll get any straight or honest answers from Rice or any of the others who have first hand knowledge of what was going on? Not likely. These people are True..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Gypsy613"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:42:57.000Z"/>
+    <cse:Attribute name="text" value="Kind of like saying agency heads have all the raw intelligence go across their desk. There are layers between targeting and collecting before stuff even gets to analysts, let alone management!"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Oregonus Maximus"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:49:02.000Z"/>
+    <cse:Attribute name="text" value="@Gypsy613 Yet if one of these agency heads, or a top level person in the White House, IS getting access to certain types of raw intelligence because they&apos;re asking for it, and then they&apos;re..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Gypsy613"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:58:43.000Z"/>
+    <cse:Attribute name="text" value="That is my point. Agency heads aren&apos;t investigators. Period."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="JasonKolakowski"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T00:57:11.000Z"/>
+    <cse:Attribute name="text" value="Perhaps, but the decision to unmask is not made at those lower levels."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="drbob01"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:40:18.000Z"/>
+    <cse:Attribute name="text" value="Way back when; in the old days, criminals used to be prosecuted for criminal activity. Would like to start seeing it happen again."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="fendermender"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:44:01.000Z"/>
+    <cse:Attribute name="text" value="Way back then Americans didn&apos;t elect criminals for the highest of the land either ."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="dennisca"/>
+    <cse:Attribute name="datecreated" value="2017-07-19T01:34:50.000Z"/>
+    <cse:Attribute name="text" value="@fendermender Hillary lost"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="deerhunterbow1"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:39:04.000Z"/>
+    <cse:Attribute name="text" value="I wonder if she has to shave that muffstache every day. I bet she&apos;s totes twice the amount of testosterone that O&apos;Blowhole is."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="RWonder777"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:31:26.000Z"/>
+    <cse:Attribute name="text" value="These committees are a total waste of time!The prior administration and their lackey&apos;s will continue to deflect and lie about what really happened!Why did Rice who was asked in March 2017 about..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="ShortDangerousBook"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:26:18.000Z"/>
+    <cse:Attribute name="text" value="It&apos;s like midnight at the costume ball. Unmask and see the DC Red Death - Russia :-)"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="fendermender"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:30:15.000Z"/>
+    <cse:Attribute name="text" value="Russia did not commit these crimes .Obama , Rice and the other criminals employed by Brock did .You should know that ."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="ShortDangerousBook"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:33:08.000Z"/>
+    <cse:Attribute name="text" value="@fendermender It&apos;s a joke. You young have lost your sense of irony and therefore humor. It&apos;s why Seinfeld and Chris Rock won&apos;t work colleges.See, it&apos;s a reference to Poe, and Russia is Red,..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="fendermender"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:38:36.000Z"/>
+    <cse:Attribute name="text" value="I&apos;m with you on the Russian nonsense and unfortunately the liberal moron problem we suffer in America too .My apology."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="LaughingDragon"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:19:52.000Z"/>
+    <cse:Attribute name="text" value="Posted twice...my bad."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Gypsy613"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:16:36.000Z"/>
+    <cse:Attribute name="text" value="I wonder how many will pull the Clinton &quot;bumped her head and can&apos;t remember&quot;?"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="joe40637"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:20:58.000Z"/>
+    <cse:Attribute name="text" value="@Gypsy613 All of them unless they&apos;re required to make a deal."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="ElConquistidor"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:14:41.000Z"/>
+    <cse:Attribute name="text" value="Sooo.... It&apos;s OK for the tRumps to collude with the Russian government to rig the election; but, Clinton can&apos;t even have a shot of vodka without the cornflakes going batcrap crazy with calls..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="fendermender"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:17:02.000Z"/>
+    <cse:Attribute name="text" value="Check your spelling Dopey , its pathetic....."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="proudvet1"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:31:24.000Z"/>
+    <cse:Attribute name="text" value="@fendermender OK INBRED!"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="fendermender"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:34:00.000Z"/>
+    <cse:Attribute name="text" value="I&apos;m not gay Gayboy but you&apos;ll find a few here for sure ..Thanks ."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="Gypsy613"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:18:25.000Z"/>
+    <cse:Attribute name="text" value="Lol. They could all retire and make $500k speeches and donate to Canada based Clinton foundation! Oh wait, she lost. They closed the doors! Ooops"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="ShortDangerousBook"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:28:06.000Z"/>
+    <cse:Attribute name="text" value="@ElConquistidor HA HA, loser. Read Clinton Cash. Russians BRIBED the Clintons.Collusion is NOT a crime says Alan Dershowitz, and FBI only investigates crimes. Mueller can&apos;t do anything about..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="proudvet1"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:34:16.000Z"/>
+    <cse:Attribute name="text" value="@ShortDangerousBook @ElConquistidor Another totally ignorant Trump Chump lacking any gray cells. I guess it&apos;s only right to pity this mentally challenged imbecile."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="fendermender"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:36:01.000Z"/>
+    <cse:Attribute name="text" value="My guess is you&apos;re just another liberal piece of trash ...."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="IndyQ"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T23:04:26.000Z"/>
+    <cse:Attribute name="text" value="@fendermender Pot meet kettle."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="deerhunterbow1"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:32:32.000Z"/>
+    <cse:Attribute name="text" value="@ElConquistidor Joto"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="joe40637"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:13:23.000Z"/>
+    <cse:Attribute name="text" value="How about how Susan Rice having a net worth of over 50 million when she&apos;s only served as an assistant in our government??!!! The top yearly she&apos;s ever made was 175K. Anyone care to chime in..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="LeftiesRHotter"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:14:52.000Z"/>
+    <cse:Attribute name="text" value="@joe40637 What? An African-American woman can&apos;t have a solid net worth??? Your filthy white, male privilege is showing. CHECK IT!"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="joe40637"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:19:45.000Z"/>
+    <cse:Attribute name="text" value="@LeftiesRHotter Hey you racist POS. I understand that you didn&apos;t do so well in school, more than likely didn&apos;t even finish 8th grade, but no where did I mention about her race you moron! I..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="proudvet1"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:37:57.000Z"/>
+    <cse:Attribute name="text" value="@joe40637 @LeftiesRHotter You stated African American woman instead of just woman punk so that alone shows you&apos;re a racist. Lowlife inbred waste!!"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="LeftiesRHotter"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:43:14.000Z"/>
+    <cse:Attribute name="text" value="@joe40637 I hope you do not own guns, you sound ready to implode and possibly hurt people, perhaps the FBI should ask you a few questions."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="fendermender"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:49:29.000Z"/>
+    <cse:Attribute name="text" value="I hope you don&apos;t own guns ..... What a stupid statement.I hope he owns more than you ."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="IndyQ"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T23:06:25.000Z"/>
+    <cse:Attribute name="text" value="q"/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="ShortDangerousBook"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:30:43.000Z"/>
+    <cse:Attribute name="text" value="@LeftiesRHotter @joe40637 Bernie has three houses. Maxine Waters owns a $4M house. They did NOTHING in life, had $170K a year income, live in expensive DC. HOW DO THEY DO IT? Answer: Dems are..."/>
+   </cse:DataObject>
+   <cse:DataObject type="comment">
+    <cse:Attribute name="author" value="deerhunterbow1"/>
+    <cse:Attribute name="datecreated" value="2017-07-18T21:33:31.000Z"/>
+    <cse:Attribute name="text" value="@LeftiesRHotter @joe40637 White privilege is a fine tooth comb."/>
+   </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/07/17/696/392/694940094001_5510833009001_5510811037001-vs.jpg?ve=1&amp;tl=1"/>
+    <cse:Attribute name="src" value="http://img1.zergnet.com/1882452_180.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuLK5O9udz7Kg2PMSN4pNJAiCiL3iGe39gHI5ewzkZrkam7vauN1PTCo"/>
+    <cse:Attribute name="width" value="180"/>
+    <cse:Attribute name="height" value="180"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwMtJwevoWcUfKXBUXBQ0KTD8N33G6tlIcTCJC7ZSZhog1EuB3kKhYG34K"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.telegraph.co.uk/news/2017/07/16/charlie-gards-parents-angry-babys-lawyeris-head-charity-backs/</id>
+  <updated>1970-01-18T08:50:38.220Z</updated>
+  <title type="html">Charlie Gard&amp;#39;s parents angry that baby&amp;#39;s lawyer is head of charity ...</title>
+  <link href="http://www.telegraph.co.uk/news/2017/07/16/charlie-gards-parents-angry-babys-lawyeris-head-charity-backs/" title="www.telegraph.co.uk"/>
+  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; the parents told The Daily Telegraph: “The family find it &lt;br&gt;
+astonishing that the quango that appointed the barrister to act in the interests of &lt;br&gt;
+Charlie&amp;nbsp;...</summary>
+  <cse:cacheId>gzYwZq1VsbwJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.telegraph.co.uk/.../charlie-gards-parents-angry-babys-lawyeris-head- charity-backs/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msapplication-tilecolor" value="#2c769d"/>
+    <cse:Attribute name="msapplication-tileimage" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-tooltip" value="The Telegraph"/>
+    <cse:Attribute name="msapplication-config" value="/etc/designs/telegraph/core/clientlibs/core/icons/browserconfig.xml"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-70x70.png"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=yes"/>
+    <cse:Attribute name="tmgads.channel" value="news"/>
+    <cse:Attribute name="tmgads.section" value="news-2017"/>
+    <cse:Attribute name="tmgads.zone" value="news.2017.07.16"/>
+    <cse:Attribute name="tmgads.articleid" value="ApJWZvxn4kML"/>
+    <cse:Attribute name="tmgads.pagetype" value="story"/>
+    <cse:Attribute name="tmgads.level" value="5"/>
+    <cse:Attribute name="tmgads.geo" value="US"/>
+    <cse:Attribute name="tmgads.keywords" value="News,Charlie Gard,Standard,Child health,UK News,Law and order"/>
+    <cse:Attribute name="dcsext.channel" value="news"/>
+    <cse:Attribute name="dcsext.category" value="2017"/>
+    <cse:Attribute name="dcsext.genre" value="07"/>
+    <cse:Attribute name="dcsext.mlc" value="/news/2017/07/16"/>
+    <cse:Attribute name="dcsext.articleid" value="ApJWZvxn4kML"/>
+    <cse:Attribute name="dcsext.content_type" value="story"/>
+    <cse:Attribute name="dcsext.level" value="5"/>
+    <cse:Attribute name="dcsext.author" value="Robert Mendick"/>
+    <cse:Attribute name="dcsext.articlefirstpublished" value="2017-07-16 21:52"/>
+    <cse:Attribute name="dcsext.cf" value="1"/>
+    <cse:Attribute name="dcsext.cd" value="0"/>
+    <cse:Attribute name="dcsext.cn" value="0"/>
+    <cse:Attribute name="dcsext.pd" value="1"/>
+    <cse:Attribute name="og:title" value="Charlie Gard&apos;s parents angry that baby&apos;s lawyer is head of charity that backs assisted dying"/>
+    <cse:Attribute name="og:description" value="Charlie Gard&apos;s parents have privately expressed their concern after discovering that the lawyer appointed to represent their 11-month-old son in court heads a charity that backs assisted dying."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="The Telegraph"/>
+    <cse:Attribute name="og:url" value="http://www.telegraph.co.uk/news/2017/07/16/charlie-gards-parents-angry-babys-lawyeris-head-charity-backs/"/>
+    <cse:Attribute name="og:image" value="http://www.telegraph.co.uk/content/dam/news/2017/07/13/TELEMMGLPICT000134578085-xlarge_trans_NvBQzQNjv4Bqp2HdEvMdCw5n3XrRYSzui-7tnq6jFlkwE8egd43KZ18.jpeg"/>
+    <cse:Attribute name="twitter:title" value="Charlie Gard&apos;s parents angry that baby&apos;s lawyer is head of charity that backs assisted dying"/>
+    <cse:Attribute name="twitter:url" value="http://www.telegraph.co.uk/news/2017/07/16/charlie-gards-parents-angry-babys-lawyeris-head-charity-backs/"/>
+    <cse:Attribute name="twitter:image" value="http://www.telegraph.co.uk/content/dam/news/2017/07/13/TELEMMGLPICT000134578085-xlarge_trans_NvBQzQNjv4Bqp2HdEvMdCw5n3XrRYSzui-7tnq6jFlkwE8egd43KZ18.jpeg"/>
+    <cse:Attribute name="twitter:site" value="@TelegraphNews"/>
+    <cse:Attribute name="twitter:description" value="Charlie Gard&apos;s parents have privately expressed their concern after discovering that the lawyer appointed to represent their 11-month-old son in court heads a charity that backs assisted dying."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="tmgads.businesssegment" value="news"/>
+    <cse:Attribute name="tmg.premium.override" value="false"/>
+    <cse:Attribute name="tmg.premium.state" value="false"/>
+    <cse:Attribute name="premiumcontentonfirstpublish" value="false"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Charlie Gard&apos;s parents angry that baby&apos;s lawyer is head of charity that backs assisted dying"/>
+    <cse:Attribute name="name" value="Charlie Gard&apos;s parents angry that baby&apos;s lawyer is head of charity that backs assisted dying"/>
+    <cse:Attribute name="datepublished" value="2017-07-18T10:03+0100"/>
+    <cse:Attribute name="articlebody" value="Charlie Gard&apos;s parents have privately expressed their concern after discovering that the lawyer appointed to represent their 11-month-old son in court heads a charity that backs assisted dying...."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="width" value="1280"/>
+    <cse:Attribute name="height" value="799"/>
+    <cse:Attribute name="url" value="http://www.telegraph.co.uk/content/dam/news/2017/07/13/TELEMMGLPICT000134578085-xlarge_trans_NvBQzQNjv4Bqp2HdEvMdCw5n3XrRYSzui-7tnq6jFlkwE8egd43KZ18.jpeg"/>
+    <cse:Attribute name="caption" value="Charlie Gard&apos;s parents have been in court this week over their son&apos;s medical treatment"/>
+    <cse:Attribute name="copyrightholder" value="Credit: Jonathan Brady/PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Robert Mendick"/>
+    <cse:Attribute name="jobtitle" value="Chief Reporter"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="Charlie Gard suffers from a rare condition"/>
+    <cse:Attribute name="copyrightholder" value="Credit: PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="caption" value="Charlie Gard is being cared for at Great Ormond Street Hospital"/>
+    <cse:Attribute name="copyrightholder" value="Credit: PA"/>
+   </cse:DataObject>
+   <cse:DataObject type="rating">
+    <cse:Attribute name="ratingvalue" value="4"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://www.telegraph.co.uk/content/dam/news/2017/07/13/TELEMMGLPICT000134578085-xlarge_trans_NvBQzQNjv4Bqp2HdEvMdCw5n3XrRYSzui-7tnq6jFlkwE8egd43KZ18.jpeg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="177"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE-rkuudFXRPPb78pSWGxtgCIBacqICA_qUf2DQXYiRfAnj5RvSovEUUZs"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://nypost.com/2017/07/17/investors-have-a-plan-to-save-iheart-from-bankruptcy/</id>
-  <updated>1970-01-18T08:49:10.305Z</updated>
+  <updated>1970-01-18T08:50:38.220Z</updated>
   <title type="html">Investors have a plan to save iHeart from bankruptcy | New York Post</title>
   <link href="http://nypost.com/2017/07/17/investors-have-a-plan-to-save-iheart-from-bankruptcy/" title="nypost.com"/>
   <summary type="html">However, the lenders, led by Symphony Asset Management, will not sign the &lt;br&gt;
@@ -405,7 +787,7 @@ deal unless Franklin ultimately agrees to the terms, &lt;b&gt;a source close to&
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/hungary-china-bonds-idUSL3N1KA1WB</id>
-  <updated>1970-01-18T08:49:10.305Z</updated>
+  <updated>1970-01-18T08:50:38.220Z</updated>
   <title type="html">Hungary hires banks to sell yuan-denominated &amp;quot;Panda&amp;quot; bonds ...</title>
   <link href="http://www.reuters.com/article/hungary-china-bonds-idUSL3N1KA1WB" title="www.reuters.com"/>
   <summary type="html">Hungary has hired Bank ofChina and HSBC to conduct a sale of yuan-&lt;br&gt;
@@ -477,66 +859,58 @@ saidon&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
-  <updated>1970-01-18T08:49:10.305Z</updated>
-  <title type="html">Le&amp;#39;Veon Bell is facing a four-game suspension</title>
-  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
-  <summary type="html"/>
-  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-china-rights-idUSKBN19Z0AW</id>
-  <updated>1970-01-18T08:49:10.305Z</updated>
-  <title type="html">Attention turns to freedom of Liu Xiaobo&amp;#39;s widow after Chinese ...</title>
-  <link href="http://www.reuters.com/article/us-china-rights-idUSKBN19Z0AW" title="www.reuters.com"/>
-  <summary type="html">Liu&amp;#39;s remains were taken to Shenyang&amp;#39;s Xiheyuan funeral parlor, &lt;b&gt;a source close&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;to&lt;/b&gt; the family said, but a Reuters reporter was turned away on Friday. Shenyang&amp;nbsp;...</summary>
-  <cse:cacheId>36hz-i9GbFEJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-china-rights-idUSKBN19Z0AW</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-volvo-divestiture-idUSKBN1A21FG</id>
+  <updated>1970-01-18T08:50:38.220Z</updated>
+  <title type="html">Volvo attracts KNDS, CMI bids for Renault Trucks Defence: sources ...</title>
+  <link href="https://www.reuters.com/article/us-volvo-divestiture-idUSKBN1A21FG" title="www.reuters.com"/>
+  <summary type="html">The French government favors an industrial buyer rather than a financial investor, &lt;br&gt;
+&lt;b&gt;a source close to&lt;/b&gt; the defense ministry told Reuters last month. Volvo, KNDS&amp;nbsp;...</summary>
+  <cse:cacheId>SPCvt1PJ0MgJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-volvo-divestiture-idUSKBN1A21FG</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="worldNews;china;africa-news;bank-news;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Attention+turns+to+freedom+of+Liu+Xiaobo%27s+widow+after+Chinese+dissident%27s+death"/>
+    <cse:Attribute name="dcsext.contentchannel" value="autos"/>
+    <cse:Attribute name="dcsext.channellist" value="autos;autos-news;aerospace-defense;innovationNews;businessNews;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Volvo+attracts+KNDS%2C+CMI+bids+for+Renault+Trucks+Defence%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="3"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Christian Shepherd and Philip Wen"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow-Video"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
-    <cse:Attribute name="author" value="Christian Shepherd and Philip Wen"/>
-    <cse:Attribute name="news_keywords" value="China;Germany;Taiwan;United States;Al Hussein;Berit Reiss;Andersen;Carrie Lam;Chen Jinxue;Geng Shuang;Hu Jia;Julie Bishop;Li Yu;Liu Hui;Liu Xia;Liu Xiaobo;Mo Shaoping;Wen Kejian;Ye Du;US;CHINA;RIGHTS;Germany;Norway;Hong Kong;Taiwan;Western Europe;Picture available;Arts / Culture / Entertainment;Retirement / Old Age;Africa;Video;Asia / Pacific;Major News;Human Rights / Civil Rights;Pictures;Conflicts / War / Peace;United States;Pollution;Health / Medicine;Diplomacy / Foreign Policy;China (PRC);Government / Politics;Corporate Events;Disasters / Accidents;Fundamental Rights / Civil Liberties;General News;Banking and Investment Services (TRBC);Europe;Non;Governmental Organizations;Nigeria;United Nations;Healthcare (TRBC);Emerging Market Countries;Civil Unrest"/>
-    <cse:Attribute name="revision_date" value="Fri Jul 14 13:53:26 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Christian Shepherd and Philip Wen"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-14T13:53:26+0000"/>
-    <cse:Attribute name="sailthru.title" value="Attention turns to freedom of Liu Xiaobo&apos;s widow after Chinese dissident&apos;s death"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-autos"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Belgium;France;Bernard Sarin;US;VOLVO;DIVESTITURE;Germany;Belgium;Mergers / Acquisitions / Takeovers;Defense;Company News;Auto and Truck Manufacturers (TRBC);Heavy Machinery and Vehicles (TRBC);Western Europe;France;Aerospace / Defense (Legacy);Corporate Events;Economic Events;Sweden;Divestitures / Spin;Offs;Market Events;Europe;Aerospace and Defense (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Mon Jul 17 13:52:00 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-17T13:52:00+0000"/>
+    <cse:Attribute name="sailthru.title" value="Volvo attracts KNDS, CMI bids for Renault Trucks Defence: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Attention turns to freedom of Liu Xiaobo&apos;s widow after Chinese dissident&apos;s death"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-china-rights-idUSKBN19Z0AW"/>
+    <cse:Attribute name="og:title" value="Volvo attracts KNDS, CMI bids for Renault Trucks Defence: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-volvo-divestiture-idUSKBN1A21FG"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Friends of China&apos;s Nobel Peace Prize-winning dissident Liu Xiaobo, who died of liver cancer in custody, said on Friday they were unable to contact his widow, Liu Xia, and that ensuring her freedom was now a top priority."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170714&amp;t=2&amp;i=1192989773&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6D0VI"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-14T13:53:26+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-14T13:53:26+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
-    <cse:Attribute name="og:article:author" value="Christian Shepherd and Philip Wen"/>
-    <cse:Attribute name="og:article:tag" value="China,Germany,Taiwan,United States,Al Hussein,Berit Reiss,Andersen,Carrie Lam,Chen Jinxue,Geng Shuang,Hu Jia,Julie Bishop,Li Yu,Liu Hui,Liu Xia,Liu Xiaobo,Mo Shaoping,Wen Kejian,Ye Du,US,CHINA,RIGHTS,Germany,Norway,Hong Kong,Taiwan,Western Europe,Picture available,Arts / Culture / Entertainment,Retirement / Old Age,Africa,Video,Asia / Pacific,Major News,Human Rights / Civil Rights,Pictures,Conflicts / War / Peace,United States,Pollution,Health / Medicine,Diplomacy / Foreign Policy,China (PRC),Government / Politics,Corporate Events,Disasters / Accidents,Fundamental Rights / Civil Liberties,General News,Banking and Investment Services (TRBC),Europe,Non,Governmental Organizations,Nigeria,United Nations,Healthcare (TRBC),Emerging Market Countries,Civil Unrest"/>
+    <cse:Attribute name="og:description" value="Swedish truck maker Volvo (VOLVb.ST) has attracted two bidders for its armored vehicles maker Renault Trucks Defence (RTD) worth roughly 500 million euros ($573 million), people close to the matter said."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170717&amp;t=2&amp;i=1193291061&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6G0UE"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-17T13:52:00+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-17T13:52:00+0000"/>
+    <cse:Attribute name="og:article:section" value="Unknown"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Belgium,France,Bernard Sarin,US,VOLVO,DIVESTITURE,Germany,Belgium,Mergers / Acquisitions / Takeovers,Defense,Company News,Auto and Truck Manufacturers (TRBC),Heavy Machinery and Vehicles (TRBC),Western Europe,France,Aerospace / Defense (Legacy),Corporate Events,Economic Events,Sweden,Divestitures / Spin,Offs,Market Events,Europe,Aerospace and Defense (TRBC)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Attention turns to freedom of Liu Xiaobo&apos;s widow after Chinese dissident&apos;s death"/>
-    <cse:Attribute name="twitter:description" value="Friends of China&apos;s Nobel Peace Prize-winning dissident Liu Xiaobo, who died of liver cancer in custody, said on Friday they were unable to contact his widow, Liu Xia, and that ensuring her freedom was now a top priority."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170714&amp;t=2&amp;i=1192989773&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6D0VI"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170714&amp;t=2&amp;i=1192989773&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6D0VI"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="twitter:title" value="Volvo attracts KNDS, CMI bids for Renault Trucks Defence: sources"/>
+    <cse:Attribute name="twitter:description" value="Swedish truck maker Volvo (VOLVb.ST) has attracted two bidders for its armored vehicles maker Renault Trucks Defence (RTD) worth roughly 500 million euros ($573 million), people close to the matter said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170717&amp;t=2&amp;i=1193291061&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6G0UE"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170717&amp;t=2&amp;i=1193291061&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6G0UE"/>
+    <cse:Attribute name="dcsext.rchannel" value="Unknown"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/autos/article"/>
+    <cse:Attribute name="wt.cg_n" value="Unknown"/>
+    <cse:Attribute name="wt.cg_s" value="autos"/>
     <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
     <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
     <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
@@ -547,81 +921,21 @@ saidon&amp;nbsp;...</summary>
     <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170714&amp;t=2&amp;i=1192989773&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6D0VI"/>
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170717&amp;t=2&amp;i=1193291061&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6G0UE"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6yTgq7Eqev4eRPenvqtLla_CKwM_VMeyFpd_gDUiHCIz2kl7OyurFcSM"/>
+    <cse:Attribute name="width" value="274"/>
+    <cse:Attribute name="height" value="184"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj4Gc1W2t2xPY16YXwkpyWks2JHJDIYD1jQbFLy3EZ2gt5o9i6ytwNipv0"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.nydailynews.com/news/politics/airbnb-fights-back-lobby-groups-demands-funding-info-article-1.3331714</id>
-  <updated>1970-01-18T08:49:10.305Z</updated>
-  <title type="html">Airbnb fights back against lobby groups, demands funding info - NY ...</title>
-  <link href="http://www.nydailynews.com/news/politics/airbnb-fights-back-lobby-groups-demands-funding-info-article-1.3331714" title="www.nydailynews.com"/>
-  <summary type="html">&lt;b&gt;A source close to&lt;/b&gt; ShareBetter said the three entities that provide the bulk of the &lt;br&gt;
-funding, including the city hotel association and the hotel and motel workers&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">www.nydailynews.com/.../airbnb-fights-back-lobby-groups-demands- funding-info-article-1.3331714</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="nydn_section" value="Politics"/>
-    <cse:Attribute name="fb:app_id" value="107464888913"/>
-    <cse:Attribute name="fb:admins" value="1594068001"/>
-    <cse:Attribute name="fb:pages" value="268914272540"/>
-    <cse:Attribute name="og:site_name" value="NY Daily News"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/NYDailyNews/"/>
-    <cse:Attribute name="msvalidate.01" value="02916AAC0DA8B068EFE01D721E03ED7E"/>
-    <cse:Attribute name="p:domain_verify" value="78efe4f5c9935744af497772f68a0ee7"/>
-    <cse:Attribute name="viewport" value="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="@nydailynews"/>
-    <cse:Attribute name="twitter:url" value="http://www.nydailynews.com/news/politics/airbnb-fights-back-lobby-groups-demands-funding-info-article-1.3331714"/>
-    <cse:Attribute name="twitter:title" value="Airbnb fights back against lobby groups, demands funding info"/>
-    <cse:Attribute name="twitter:description" value="The battle between Airbnb and its critics continues to escalate."/>
-    <cse:Attribute name="og:title" value="Airbnb fights back against lobby groups, demands funding info"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.nydailynews.com/news/politics/airbnb-fights-back-lobby-groups-demands-funding-info-article-1.3331714"/>
-    <cse:Attribute name="news_keywords" value="Airbnb, ShareBetter, David Grandeau, Linda Rosenthal, Joint Commission on Public Ethics, lobbying groups,"/>
-    <cse:Attribute name="og:image" value="http://assets.nydailynews.com/polopoly_fs/1.3331713.1500275295!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/child-victims-act-presser.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://assets.nydailynews.com/polopoly_fs/1.3331713.1500275295!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/child-victims-act-presser.jpg"/>
-    <cse:Attribute name="og:description" value="The battle between Airbnb and its critics continues to escalate."/>
-    <cse:Attribute name="nydn_tags" value="airbnb, upstate new york, linda rosenthal"/>
-    <cse:Attribute name="nydn_byline" value="Kenneth Lovett"/>
-    <cse:Attribute name="parsely-title" value="Airbnb fights back against lobby groups, demands funding info"/>
-    <cse:Attribute name="parsely-link" value="http://www.nydailynews.com/news/politics/airbnb-fights-back-lobby-groups-demands-funding-info-article-1.3331714"/>
-    <cse:Attribute name="parsely-type" value="article"/>
-    <cse:Attribute name="parsely-image-url" value="http://assets.nydailynews.com/polopoly_fs/1.3331713.1500275295!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/child-victims-act-presser.jpg"/>
-    <cse:Attribute name="parsely-pub-date" value="2017-07-17T08:00:18"/>
-    <cse:Attribute name="parsely-section" value="Politics"/>
-    <cse:Attribute name="parsely-author" value="Kenneth Lovett"/>
-    <cse:Attribute name="parsely-tags" value="airbnb, upstate new york, linda rosenthal"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Airbnb fights back against lobby groups, demands info on their funding sources"/>
-    <cse:Attribute name="name" value="Airbnb fights back against lobby groups, demands info on their funding sources"/>
-    <cse:Attribute name="datepublished" value="2017-07-17T04:00:18"/>
-    <cse:Attribute name="articlebody" value="ALBANY — The battle between Airbnb and its critics continues to escalate. The online home-sharing site on Monday will file a formal complaint with a state ethics panel charging that a coalition..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Kenneth Lovett"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="description" value="Democratic Assemblymember Linda Rosenthal is &quot;confident that all of ShareBetter’s reporting requirements have been handled properly.&quot;"/>
-    <cse:Attribute name="copyrightholder" value="(Anthony DelMundo/New York Daily News)"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Kenneth Lovett"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://assets.nydailynews.com/polopoly_fs/1.3331713.1500275295!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/child-victims-act-presser.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzNPM4Sjf2_BleSCONwTw-nmzElareayB3g1uxjto17vpvM549PemoK4Qk"/>
-   </cse:DataObject>
-  </cse:PageMap>
+  <id>http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public</id>
+  <updated>1970-01-18T08:50:38.220Z</updated>
+  <title type="html">Le&amp;#39;Veon Bell is facing a four-game suspension</title>
+  <link href="http://espn.go.com/nfl/story/_/id/17124034/pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban-missed-drug-test?ex_cid=espnapi_public" title="espn.go.com"/>
+  <summary type="html"/>
+  <cse:formattedUrl type="html">espn.go.com/.../pittsburgh-steelers-rb-leveon-bell-facing-four-game-ban- missed-drug-test?...</cse:formattedUrl>
  </entry>
 </feed>
