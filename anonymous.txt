@@ -5,97 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T08:52:21.300Z</updated>
+ <updated>1970-01-18T08:53:31.391Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>12000</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10600" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="10600" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>10600</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.312905</cse:searchTime>
-  <cse:formattedSearchTime>0.31</cse:formattedSearchTime>
-  <cse:totalResults>12000</cse:totalResults>
-  <cse:formattedTotalResults>12,000</cse:formattedTotalResults>
+  <cse:searchTime>0.209868</cse:searchTime>
+  <cse:formattedSearchTime>0.21</cse:formattedSearchTime>
+  <cse:totalResults>10600</cse:totalResults>
+  <cse:formattedTotalResults>10,600</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/brief-discovery-communications-scripps-n-idUSFWN1K90TL</id>
-  <updated>1970-01-18T08:52:21.300Z</updated>
-  <title type="html">BRIEF-Discovery Communications &amp;amp; Scripps Networks are in talks ...</title>
-  <link href="https://www.reuters.com/article/brief-discovery-communications-scripps-n-idUSFWN1K90TL" title="www.reuters.com"/>
-  <summary type="html">July 18 (Reuters) -. * Discovery Communications &amp;amp; Scripps Networks are in talks &lt;br&gt;
-to combine – &lt;b&gt;sources familiar with&lt;/b&gt; the matter Further company coverage:&amp;nbsp;...</summary>
-  <cse:cacheId>Bq-tguz9XkcJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../brief-discovery-communications-scripps-n- idUSFWN1K90TL</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="marketsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="marketsNews"/>
-    <cse:Attribute name="dcsext.contentheadline" value="BRIEF-Discovery+Communications+%26+Scripps+Networks+are+in+talks+to+combine+%E2%80%93+sources+familiar+with+the+matter"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-marketsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="BRIEF;Discovery Communications and Scripps Networks are in talks t;Americas;Mergers / Acquisitions / Takeovers;Company News;Content produced in Bangalore;Media and Publishing (TRBC);Corporate Events;Technology (TRBC);Divestitures / Spin;Offs;Major News;Cyclical Consumer Goods and Services (TRBC);Technology Equipment (TRBC);Technology / Media / Telecoms;Cyclical Consumer Services (TRBC);Deals;Media / Publishing (Legacy);Broadcasting (TRBC);United States"/>
-    <cse:Attribute name="revision_date" value="Tue Jul 18 22:34:00 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-18T22:34:00+0000"/>
-    <cse:Attribute name="sailthru.title" value="BRIEF-Discovery Communications &amp; Scripps Networks are in talks to combine – sources familiar with the matter"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="BRIEF-Discovery Communications &amp; Scripps Networks are in talks to combine – sources familiar with the matter"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/brief-discovery-communications-scripps-n-idUSFWN1K90TL"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="July 18 (Reuters) -* Discovery Communications &amp; Scripps Networks are in talks to combine – sources familiarwith the matterFurther company coverage:"/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-18T22:34:00+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-18T22:34:00+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="BRIEF,Discovery Communications and Scripps Networks are in talks t,Americas,Mergers / Acquisitions / Takeovers,Company News,Content produced in Bangalore,Media and Publishing (TRBC),Corporate Events,Technology (TRBC),Divestitures / Spin,Offs,Major News,Cyclical Consumer Goods and Services (TRBC),Technology Equipment (TRBC),Technology / Media / Telecoms,Cyclical Consumer Services (TRBC),Deals,Media / Publishing (Legacy),Broadcasting (TRBC),United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="BRIEF-Discovery Communications &amp; Scripps Networks are in talks to combine – sources familiar with the matter"/>
-    <cse:Attribute name="twitter:description" value="July 18 (Reuters) -* Discovery Communications &amp; Scripps Networks are in talks to combine – sources familiarwith the matterFurther company coverage:"/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-globalblue-m-a-exclusive-idUSKBN1A4213?il=0</id>
-  <updated>1970-01-18T08:52:21.300Z</updated>
+  <updated>1970-01-18T08:53:31.391Z</updated>
   <title type="html">Exclusive: Swiss payment firm Global Blue to hire banks for 2018 ...</title>
   <link href="http://www.reuters.com/article/us-globalblue-m-a-exclusive-idUSKBN1A4213?il=0" title="www.reuters.com"/>
   <summary type="html">... held talks with investment banks over the past two days to choose advisers for &lt;br&gt;
@@ -167,7 +95,7 @@ a possible share sale next year, &lt;b&gt;sources familiar with&lt;/b&gt; the ma
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-hedgefunds-blackstone-idUSKBN1A42ES</id>
-  <updated>1970-01-18T08:52:21.300Z</updated>
+  <updated>1970-01-18T08:53:31.391Z</updated>
   <title type="html">Blackstone backs ex-TPG-Axon executive&amp;#39;s new fund with seed ...</title>
   <link href="http://www.reuters.com/article/us-hedgefunds-blackstone-idUSKBN1A42ES" title="www.reuters.com"/>
   <summary type="html">BOSTON (Reuters) - Blackstone Group has written the first check from its latest &lt;br&gt;
@@ -239,7 +167,7 @@ seeding fund, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said this week
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN1A309F</id>
-  <updated>1970-01-18T08:52:21.300Z</updated>
+  <updated>1970-01-18T08:53:31.391Z</updated>
   <title type="html">Indian e-tailer Flipkart ups odds of buying Snapdeal with raised bid ...</title>
   <link href="http://www.reuters.com/article/us-snapdeal-m-a-flipkart-idUSKBN1A309F" title="www.reuters.com"/>
   <summary type="html">... has improved the chances of a deal between the two rivals, though some &lt;br&gt;
@@ -312,7 +240,7 @@ sticking points are still being hashed out, two &lt;b&gt;sources familiar with&l
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-envirotainer-aac-sale-idUSKBN1A31TV</id>
-  <updated>1970-01-18T08:52:21.300Z</updated>
+  <updated>1970-01-18T08:53:31.391Z</updated>
   <title type="html">Owner of Swedish cold containers firm Envirotainer seeks $1 billion ...</title>
   <link href="http://www.reuters.com/article/us-envirotainer-aac-sale-idUSKBN1A31TV" title="www.reuters.com"/>
   <summary type="html">... to sell Envirotainer, a Swedish company renting cold containers for shipping &lt;br&gt;
@@ -384,7 +312,7 @@ temperature-sensitive healthcare products, &lt;b&gt;sources familiar with&lt;/b&
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-emirates-adnoc-moelis-idUSKBN1A31BC</id>
-  <updated>1970-01-18T08:52:21.300Z</updated>
+  <updated>1970-01-18T08:53:31.391Z</updated>
   <title type="html">Abu Dhabi&amp;#39;s state oil firm hires U.S. investment bank Moelis: sources</title>
   <link href="http://www.reuters.com/article/us-emirates-adnoc-moelis-idUSKBN1A31BC" title="www.reuters.com"/>
   <summary type="html">... to attract billions of dollars in investments through joint ventures and prepares &lt;br&gt;
@@ -455,80 +383,8 @@ to publicly list shares in some units, three &lt;b&gt;sources familiar with&lt;/
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-paipartners-adbsafegate-idUSKBN1A00MG</id>
-  <updated>1970-01-18T08:52:21.300Z</updated>
-  <title type="html">Carlyle to buy airfield lighting group ADB Safegate: sources</title>
-  <link href="http://www.reuters.com/article/us-paipartners-adbsafegate-idUSKBN1A00MG" title="www.reuters.com"/>
-  <summary type="html">... has agreed to buy airfield lighting group ADB Safegate at a valuation of about &lt;br&gt;
-900 million euros ($1 billion) including debt, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>x3jzguwColEJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-paipartners-adbsafegate-idUSKBN1A00MG</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;innovationNews;businessNews;bank-news;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Carlyle+to+buy+airfield+lighting+group+ADB+Safegate%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Dasha Afanasieva and Arno Schuetze"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Dasha Afanasieva and Arno Schuetze"/>
-    <cse:Attribute name="news_keywords" value="Adrien;Montagu;US;PAIPARTNERS;ADBSAFEGATE;Germany;Banks (TRBC);Mergers / Acquisitions / Takeovers;Company News;Western Europe;Corporate Events;Divestitures / Spin;Offs;Europe;Airport Services (TRBC);Science;Deals;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
-    <cse:Attribute name="revision_date" value="Sat Jul 15 16:38:27 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Dasha Afanasieva and Arno Schuetze"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-15T16:38:27+0000"/>
-    <cse:Attribute name="sailthru.title" value="Carlyle to buy airfield lighting group ADB Safegate: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Carlyle to buy airfield lighting group ADB Safegate: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-paipartners-adbsafegate-idUSKBN1A00MG"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Buyout group Carlyle has agreed to buy airfield lighting group ADB Safegate at a valuation of about 900 million euros ($1 billion) including debt, sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170715&amp;t=2&amp;i=1193115551&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6E0IC"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-15T16:38:27+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-15T16:38:27+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Dasha Afanasieva and Arno Schuetze"/>
-    <cse:Attribute name="og:article:tag" value="Adrien,Montagu,US,PAIPARTNERS,ADBSAFEGATE,Germany,Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Western Europe,Corporate Events,Divestitures / Spin,Offs,Europe,Airport Services (TRBC),Science,Deals,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Carlyle to buy airfield lighting group ADB Safegate: sources"/>
-    <cse:Attribute name="twitter:description" value="Buyout group Carlyle has agreed to buy airfield lighting group ADB Safegate at a valuation of about 900 million euros ($1 billion) including debt, sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170715&amp;t=2&amp;i=1193115551&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6E0IC"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170715&amp;t=2&amp;i=1193115551&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6E0IC"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170715&amp;t=2&amp;i=1193115551&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6E0IC"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT70ffkSGupDZ3DYiAlZ8pHUQOMiFYOHqyUacK58VqjdEjz6W0rtpzCPSU"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2017/07/17/politics/samantha-power-testify-house-intelligence-committee/index.html</id>
-  <updated>1970-01-18T08:52:21.300Z</updated>
+  <updated>1970-01-18T08:53:31.391Z</updated>
   <title type="html">Samantha Power agrees to meet with House Intel; Susan Rice ...</title>
   <link href="http://www.cnn.com/2017/07/17/politics/samantha-power-testify-house-intelligence-committee/index.html" title="www.cnn.com"/>
   <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the matter, Rice had been scheduled to speak &lt;br&gt;
@@ -589,58 +445,58 @@ to the panel Tuesday, but the committee has delayed her testimony for a later&am
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-adt-corp-ipo-idUSKBN1A52QD</id>
-  <updated>1970-01-18T08:52:21.300Z</updated>
-  <title type="html">Apollo prepares 2018 IPO for ADT Corp: sources</title>
-  <link href="http://www.reuters.com/article/us-adt-corp-ipo-idUSKBN1A52QD" title="www.reuters.com"/>
-  <summary type="html">N) is preparing to take U.S. security company ADT Corp public at a $15 billion &lt;br&gt;
-plus valuation, just over a year after buying it, &lt;b&gt;sources familiar with&lt;/b&gt; the situation&amp;nbsp;...</summary>
-  <cse:cacheId>_6fyRcxSFwoJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-adt-corp-ipo-idUSKBN1A52QD</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-globalblue-m-a-exclusive-idUSKBN1A4213</id>
+  <updated>1970-01-18T08:53:31.391Z</updated>
+  <title type="html">Swiss payment firm Global Blue to hire banks for 2018 listing - sources</title>
+  <link href="https://www.reuters.com/article/us-globalblue-m-a-exclusive-idUSKBN1A4213" title="www.reuters.com"/>
+  <summary type="html">... held talks with investment banks over the past two days to choose advisers for &lt;br&gt;
+a possible share sale next year, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
+  <cse:cacheId>QTRhV5QmnPMJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-globalblue-m-a-exclusive-idUSKBN1A4213</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Apollo+prepares+2018+IPO+for+ADT+Corp%3A+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="RCOMUS_Fintech"/>
+    <cse:Attribute name="dcsext.channellist" value="RCOMUS_Fintech;RCOM-fintech-extended;innovationNews;ousivMolt;bank-news;retail;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Swiss+payment+firm+Global+Blue+to+hire+banks+for+2018+listing+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Greg Roumeliotis"/>
+    <cse:Attribute name="dcsext.rauthor" value="Kane Wu, Pamela Barbaglia and Dasha Afanasieva"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Greg Roumeliotis"/>
-    <cse:Attribute name="news_keywords" value="United States;US;ADT;CORP;IPO;Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Funds;Home Improvement Products and Services Retailers (TRBC);Company News;Initial Public Offerings;New Issues;Equity Financing;Corporate Events;Technology (TRBC);Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
-    <cse:Attribute name="revision_date" value="Thu Jul 20 20:24:21 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Greg Roumeliotis"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-20T20:24:21+0000"/>
-    <cse:Attribute name="sailthru.title" value="Apollo prepares 2018 IPO for ADT Corp: sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-RCOMUS_Fintech"/>
+    <cse:Attribute name="author" value="Kane Wu, Pamela Barbaglia and Dasha Afanasieva"/>
+    <cse:Attribute name="news_keywords" value="China;United States;US;GLOBALBLUE;M;A;EXCLUSIVE;Retailers (Legacy);Chemicals (Legacy);Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Western Europe;Exclusive;Initial Public Offerings;Taxation;Equity Financing;Retailers excl Food and Drug Specialists (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Miscellaneous Specialty Retailers (TRBC);Major News;Deals;Banks (TRBC);Funds;Switzerland;Company News;New Issues;China (PRC);Corporate Events;Economic Events;Investment Banking and Brokerage Services (TRBC);Market Events;Europe;Emerging Market Countries;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds;Tourism / Travel"/>
+    <cse:Attribute name="revision_date" value="Wed Jul 19 19:51:12 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Kane Wu, Pamela Barbaglia and Dasha Afanasieva"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-19T19:51:12+0000"/>
+    <cse:Attribute name="sailthru.title" value="Swiss payment firm Global Blue to hire banks for 2018 listing - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Apollo prepares 2018 IPO for ADT Corp: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-adt-corp-ipo-idUSKBN1A52QD"/>
+    <cse:Attribute name="og:title" value="Swiss payment firm Global Blue to hire banks for 2018 listing - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-globalblue-m-a-exclusive-idUSKBN1A4213"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Private equity firm Apollo Global Management LLC (APO.N) is preparing to take U.S. security company ADT Corp public at a $15 billion plus valuation, just over a year after buying it, sources familiar with the situation said on Thursday."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193790066&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1QB"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-20T20:24:21+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-20T20:24:21+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Greg Roumeliotis"/>
-    <cse:Attribute name="og:article:tag" value="United States,US,ADT,CORP,IPO,Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Funds,Home Improvement Products and Services Retailers (TRBC),Company News,Initial Public Offerings,New Issues,Equity Financing,Corporate Events,Technology (TRBC),Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="og:description" value="The owners of shopping tax-refund firm Global Blue have held talks with investment banks over the past two days to choose advisers for a possible share sale next year, sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170719&amp;t=2&amp;i=1193622436&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6I1O6"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-19T19:51:12+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-19T19:51:12+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Kane Wu, Pamela Barbaglia and Dasha Afanasieva"/>
+    <cse:Attribute name="og:article:tag" value="China,United States,US,GLOBALBLUE,M,A,EXCLUSIVE,Retailers (Legacy),Chemicals (Legacy),Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Western Europe,Exclusive,Initial Public Offerings,Taxation,Equity Financing,Retailers excl Food and Drug Specialists (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Miscellaneous Specialty Retailers (TRBC),Major News,Deals,Banks (TRBC),Funds,Switzerland,Company News,New Issues,China (PRC),Corporate Events,Economic Events,Investment Banking and Brokerage Services (TRBC),Market Events,Europe,Emerging Market Countries,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds,Tourism / Travel"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Apollo prepares 2018 IPO for ADT Corp: sources"/>
-    <cse:Attribute name="twitter:description" value="Private equity firm Apollo Global Management LLC (APO.N) is preparing to take U.S. security company ADT Corp public at a $15 billion plus valuation, just over a year after buying it, sources familiar with the situation said on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193790066&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1QB"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193790066&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1QB"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="twitter:title" value="Swiss payment firm Global Blue to hire banks for 2018 listing - sources"/>
+    <cse:Attribute name="twitter:description" value="The owners of shopping tax-refund firm Global Blue have held talks with investment banks over the past two days to choose advisers for a possible share sale next year, sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170719&amp;t=2&amp;i=1193622436&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6I1O6"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170719&amp;t=2&amp;i=1193622436&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6I1O6"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tentpoles/future_of_money/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
     <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
     <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
     <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
@@ -651,18 +507,18 @@ plus valuation, just over a year after buying it, &lt;b&gt;sources familiar with
     <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193790066&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1QB"/>
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170719&amp;t=2&amp;i=1193622436&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6I1O6"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgH6zaJpm6nPG19fcSUm4SFa6rXubhrZTJEZLyQoRAgjzBfin8al0Dfj8"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt0yc2lTWUxacvPSD_DrWZS_1ViTWvlXJuiO56wd4I7ms-ar_2PDL9HkY"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-siemens-bombardier-transportation-idUSKBN1A61L9</id>
-  <updated>1970-01-18T08:52:21.300Z</updated>
+  <updated>1970-01-18T08:53:31.391Z</updated>
   <title type="html">Siemens, Bombardier near deal on transportation tie-up, sources say</title>
   <link href="https://www.reuters.com/article/us-siemens-bombardier-transportation-idUSKBN1A61L9" title="www.reuters.com"/>
   <summary type="html">DE) are in the final stages of talks to combine their rail operations, several &lt;br&gt;
@@ -730,6 +586,152 @@ added&amp;nbsp;...</summary>
     <cse:Attribute name="width" value="272"/>
     <cse:Attribute name="height" value="185"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihPG2xfTOkp0FjP_CK6A0I4kxSFJbPmOfm2GIv25EtmK0a3Zaspbyc8tZ"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-toshiba-accounting-western-digital-idUSKBN1A31LA</id>
+  <updated>1970-01-18T08:53:31.391Z</updated>
+  <title type="html">Western Digital CEO meeting Japan officials over Toshiba: sources</title>
+  <link href="http://www.reuters.com/article/us-toshiba-accounting-western-digital-idUSKBN1A31LA" title="www.reuters.com"/>
+  <summary type="html">... meet government officials, aiming to resolve a dispute with Toshiba Corp over &lt;br&gt;
+the Japanese company&amp;#39;s planned sale of its chip business, &lt;b&gt;sources familiar with&lt;/b&gt;&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>llaFahYBMtoJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-toshiba-accounting-western-digital- idUSKBN1A31LA</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="reinvent-the-way-you-work;technologyNews;innovationNews;businessNews;japan;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Western+Digital+CEO+meeting+Japan+officials+over+Toshiba%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Japan;United States;Stephen D. Milligan;US;TOSHIBA;ACCOUNTING;WESTERN;DIGITAL;Key Personnel Changes;Mergers / Acquisitions / Takeovers;Company News;Japan;South Korea;Corporate Events;Technology (TRBC);Semiconductors (TRBC);Divestitures / Spin;Offs;Electrical Components and Equipment (TRBC);Asia / Pacific;Restructuring / Reorganization;Accounting Issues;Science;Industrial Conglomerates (TRBC);Company Management Issues;United States;Computer Hardware (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Tue Jul 18 15:09:40 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-18T15:09:40+0000"/>
+    <cse:Attribute name="sailthru.title" value="Western Digital CEO meeting Japan officials over Toshiba: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Western Digital CEO meeting Japan officials over Toshiba: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-toshiba-accounting-western-digital-idUSKBN1A31LA"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Western Digital Corp&apos;s top executive is in Japan to meet government officials, aiming to resolve a dispute with Toshiba Corp over the Japanese company&apos;s planned sale of its chip business, sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170718&amp;t=2&amp;i=1193439494&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6H0XD"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-18T15:09:40+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-18T15:09:40+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Japan,United States,Stephen D. Milligan,US,TOSHIBA,ACCOUNTING,WESTERN,DIGITAL,Key Personnel Changes,Mergers / Acquisitions / Takeovers,Company News,Japan,South Korea,Corporate Events,Technology (TRBC),Semiconductors (TRBC),Divestitures / Spin,Offs,Electrical Components and Equipment (TRBC),Asia / Pacific,Restructuring / Reorganization,Accounting Issues,Science,Industrial Conglomerates (TRBC),Company Management Issues,United States,Computer Hardware (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Western Digital CEO meeting Japan officials over Toshiba: sources"/>
+    <cse:Attribute name="twitter:description" value="Western Digital Corp&apos;s top executive is in Japan to meet government officials, aiming to resolve a dispute with Toshiba Corp over the Japanese company&apos;s planned sale of its chip business, sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170718&amp;t=2&amp;i=1193439494&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6H0XD"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170718&amp;t=2&amp;i=1193439494&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6H0XD"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170718&amp;t=2&amp;i=1193439494&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6H0XD"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="268"/>
+    <cse:Attribute name="height" value="188"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQo6ct-8C5MF0tcxBje4vijeP-mp8V2bd4tcfQaw3EjLxN2RwUKTprrZcE"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-abertis-m-a-acs-es-idUSKBN1A61AZ</id>
+  <updated>1970-01-18T08:53:31.391Z</updated>
+  <title type="html">Spain&amp;#39;s ACS in talks with funds over joint counter-bid for Abertis ...</title>
+  <link href="https://www.reuters.com/article/us-abertis-m-a-acs-es-idUSKBN1A61AZ" title="www.reuters.com"/>
+  <summary type="html">MC) is in talks with various pension and infrastructure funds and private equity &lt;br&gt;
+firms on a potential counter-bid for Abertis (ABE.MC), two &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+the&amp;nbsp;...</summary>
+  <cse:cacheId>Orx10pVE450J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-abertis-m-a-acs-es-idUSKBN1A61AZ</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Spain%27s+ACS+in+talks+with+funds+over+joint+counter-bid+for+Abertis%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Jesús Aguado and Paola Arosio"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Jesús Aguado and Paola Arosio"/>
+    <cse:Attribute name="news_keywords" value="Australia;Canada;Germany;Spain;Inigo Mendez de Vigo;US;ABERTIS;M;A;ACS;ES;Germany;Mergers / Acquisitions / Takeovers;Company News;Highways and Rail Tracks (TRBC);Western Europe;Construction and Engineering (TRBC);Italy;Volatile Shares / Hot Stocks;Corporate Events;Spain;Economic Events;Corporate Debt;Divestitures / Spin;Offs;Market Events;Major News;Europe;Regulation;Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Fri Jul 21 13:09:22 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Jesús Aguado and Paola Arosio"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-21T13:09:22+0000"/>
+    <cse:Attribute name="sailthru.title" value="Spain&apos;s ACS in talks with funds over joint counter-bid for Abertis: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Spain&apos;s ACS in talks with funds over joint counter-bid for Abertis: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-abertis-m-a-acs-es-idUSKBN1A61AZ"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Spanish builder ACS (ACS.MC) is in talks with various pension and infrastructure funds and private equity firms on a potential counter-bid for Abertis (ABE.MC), two sources familiar with the matter said on Friday."/>
+    <cse:Attribute name="og:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193887331&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K0ZA"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-21T13:09:22+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-21T13:09:22+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Jesús Aguado and Paola Arosio"/>
+    <cse:Attribute name="og:article:tag" value="Australia,Canada,Germany,Spain,Inigo Mendez de Vigo,US,ABERTIS,M,A,ACS,ES,Germany,Mergers / Acquisitions / Takeovers,Company News,Highways and Rail Tracks (TRBC),Western Europe,Construction and Engineering (TRBC),Italy,Volatile Shares / Hot Stocks,Corporate Events,Spain,Economic Events,Corporate Debt,Divestitures / Spin,Offs,Market Events,Major News,Europe,Regulation,Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Spain&apos;s ACS in talks with funds over joint counter-bid for Abertis: sources"/>
+    <cse:Attribute name="twitter:description" value="Spanish builder ACS (ACS.MC) is in talks with various pension and infrastructure funds and private equity firms on a potential counter-bid for Abertis (ABE.MC), two sources familiar with the matter said on Friday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193887331&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K0ZA"/>
+    <cse:Attribute name="twitter:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193887331&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K0ZA"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193887331&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K0ZA"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7weKKE9gsc1tPzIzNH_uqQeDB_W8TvUtPs-HWuzhmgOof_Z5v8bhGRcAV"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
