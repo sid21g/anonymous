@@ -1,747 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "sources familiar with"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "senior administration officials said"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="senior administration officials said"&amp;cx=012091639844104041986:munhfapni70&amp;num=2&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T08:59:14.486Z</updated>
+ <updated>1970-01-18T09:01:24.822Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="14800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="14800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>14800</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;senior administration officials said&quot;" totalResults="2" searchTerms="&quot;senior administration officials said&quot;" count="2" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>2</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.195473</cse:searchTime>
-  <cse:formattedSearchTime>0.20</cse:formattedSearchTime>
-  <cse:totalResults>14800</cse:totalResults>
-  <cse:formattedTotalResults>14,800</cse:formattedTotalResults>
+  <cse:searchTime>0.251786</cse:searchTime>
+  <cse:formattedSearchTime>0.25</cse:formattedSearchTime>
+  <cse:totalResults>2</cse:totalResults>
+  <cse:formattedTotalResults>2</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-spotify-warner-music-idUSKBN1A91BL</id>
-  <updated>1970-01-18T08:59:14.486Z</updated>
-  <title type="html">Exclusive: Spotify, Warner hope to clinch royalty deal by September ...</title>
-  <link href="https://www.reuters.com/article/us-spotify-warner-music-idUSKBN1A91BL" title="www.reuters.com"/>
-  <summary type="html">... with Warner Music Inc, the last big music royalty deal it needs before pushing &lt;br&gt;
-ahead with a U.S. stock market listing, four &lt;b&gt;sources familiar with&lt;/b&gt; the situation said&lt;br&gt;
-.</summary>
-  <cse:cacheId>HCn1HfuWIvIJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-spotify-warner-music-idUSKBN1A91BL</cse:formattedUrl>
+  <id>https://www.nytimes.com/2017/07/22/us/politics/congress-sanctions-russia.html</id>
+  <updated>1970-01-18T09:01:24.822Z</updated>
+  <title type="html">Congress Reaches Deal on Russia Sanctions, Setting Up Tough ...</title>
+  <link href="https://www.nytimes.com/2017/07/22/us/politics/congress-sanctions-russia.html" title="www.nytimes.com"/>
+  <summary type="html">The White House did not respond publicly to the legislation. But two &lt;b&gt;senior&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;administration officials said&lt;/b&gt; they could not imagine Mr. Trump vetoing the &lt;br&gt;
+measure in&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">https://www.nytimes.com/2017/07/22/us/.../congress-sanctions-russia.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;media-industry;innovationNews;businessNews;retail;transportation;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Spotify%2C+Warner+hope+to+clinch+royalty+deal+by+September+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Sophie Sassard"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow-Video"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Sophie Sassard"/>
-    <cse:Attribute name="news_keywords" value="Luxembourg;Ed Sheeran;Muse;US;SPOTIFY;WARNER;MUSIC;Germany;Mergers / Acquisitions / Takeovers;Western Europe;Exclusive;Initial Public Offerings;Picture available;Arts / Culture / Entertainment;Media and Publishing (TRBC);France;Transportation (TRBC);Sweden;Major News;Department Stores (TRBC);Entertainment Production (TRBC);Pictures;Media / Publishing (Legacy);United States;Music;Company News;Corporate Events;Economic Events;Market Events;Internet / World Wide Web;Europe;Science"/>
-    <cse:Attribute name="revision_date" value="Mon Jul 24 21:27:48 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Sophie Sassard"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-24T21:27:48+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Spotify, Warner hope to clinch royalty deal by September - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Spotify, Warner hope to clinch royalty deal by September - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-spotify-warner-music-idUSKBN1A91BL"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, maximum-scale=1"/>
+    <cse:Attribute name="sourceapp" value="nyt-v5"/>
+    <cse:Attribute name="applicationname" value="article"/>
+    <cse:Attribute name="al:android:url" value="nytimes://reader/id/100000005295665"/>
+    <cse:Attribute name="al:android:package" value="com.nytimes.android"/>
+    <cse:Attribute name="al:android:app_name" value="NYTimes"/>
+    <cse:Attribute name="twitter:app:name:googleplay" value="NYTimes"/>
+    <cse:Attribute name="twitter:app:id:googleplay" value="com.nytimes.android"/>
+    <cse:Attribute name="twitter:app:url:googleplay" value="nytimes://reader/id/100000005295665"/>
+    <cse:Attribute name="al:iphone:url" value="nytimes://www.nytimes.com/2017/07/22/us/politics/congress-sanctions-russia.html"/>
+    <cse:Attribute name="al:iphone:app_store_id" value="284862083"/>
+    <cse:Attribute name="al:iphone:app_name" value="NYTimes"/>
+    <cse:Attribute name="al:ipad:url" value="nytimes://www.nytimes.com/2017/07/22/us/politics/congress-sanctions-russia.html"/>
+    <cse:Attribute name="al:ipad:app_store_id" value="357066198"/>
+    <cse:Attribute name="al:ipad:app_name" value="NYTimes"/>
+    <cse:Attribute name="hdl_p" value="As Congress Aims To Punish Russia,  Trump Faces Bind"/>
+    <cse:Attribute name="genre" value="News"/>
+    <cse:Attribute name="articleid" value="100000005295665"/>
+    <cse:Attribute name="usageterms" value="https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html"/>
+    <cse:Attribute name="hdl" value="Congress Reaches Deal on Russia Sanctions, Setting Up Tough Choice for Trump"/>
+    <cse:Attribute name="pdate" value="20170722"/>
+    <cse:Attribute name="utime" value="20170723190021"/>
+    <cse:Attribute name="ptime" value="20170722144258"/>
+    <cse:Attribute name="displaydate" value="July 22, 2017"/>
+    <cse:Attribute name="dat" value="July 22, 2017"/>
+    <cse:Attribute name="lp" value="White House officials acknowledge that the president would all but have to sign legislation punishing Russia for its election interference."/>
+    <cse:Attribute name="msapplication-starturl" value="http://www.nytimes.com"/>
+    <cse:Attribute name="cre" value="The New York Times"/>
+    <cse:Attribute name="slug" value="23dc-sanctions"/>
+    <cse:Attribute name="article:collection" value="https://static01.nyt.com/services/json/sectionfronts/politics/index.jsonp"/>
+    <cse:Attribute name="sectionfront_jsonp" value="https://static01.nyt.com/services/json/sectionfronts/politics/index.jsonp"/>
+    <cse:Attribute name="og:url" value="https://www.nytimes.com/2017/07/22/us/politics/congress-sanctions-russia.html"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Music streaming company Spotify is close to agreeing a new licensing pact with Warner Music Inc, the last big music royalty deal it needs before pushing ahead with a U.S. stock market listing, four sources familiar with the situation said."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170724&amp;t=2&amp;i=1194180966&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6N0VU"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-24T21:27:48+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-24T21:27:48+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Sophie Sassard"/>
-    <cse:Attribute name="og:article:tag" value="Luxembourg,Ed Sheeran,Muse,US,SPOTIFY,WARNER,MUSIC,Germany,Mergers / Acquisitions / Takeovers,Western Europe,Exclusive,Initial Public Offerings,Picture available,Arts / Culture / Entertainment,Media and Publishing (TRBC),France,Transportation (TRBC),Sweden,Major News,Department Stores (TRBC),Entertainment Production (TRBC),Pictures,Media / Publishing (Legacy),United States,Music,Company News,Corporate Events,Economic Events,Market Events,Internet / World Wide Web,Europe,Science"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Spotify, Warner hope to clinch royalty deal by September - sources"/>
-    <cse:Attribute name="twitter:description" value="Music streaming company Spotify is close to agreeing a new licensing pact with Warner Music Inc, the last big music royalty deal it needs before pushing ahead with a U.S. stock market listing, four sources familiar with the situation said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170724&amp;t=2&amp;i=1194180966&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6N0VU"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170724&amp;t=2&amp;i=1194180966&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6N0VU"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
+    <cse:Attribute name="og:title" value="Congress Reaches Deal on Russia Sanctions, Setting Up Tough Choice for Trump"/>
+    <cse:Attribute name="og:description" value="White House officials acknowledge that the president would all but have to sign legislation punishing Russia for its election interference."/>
+    <cse:Attribute name="article:published" value="2017-07-22T14:42:58-04:00"/>
+    <cse:Attribute name="article:modified" value="2017-07-23T19:00:21-04:00"/>
+    <cse:Attribute name="article:section" value="Politics"/>
+    <cse:Attribute name="article:section-taxonomy-id" value="23FD6C8B-62D5-4CEA-A331-6C2A9A1223BE"/>
+    <cse:Attribute name="article:section_url" value="https://www.nytimes.com/section/us"/>
+    <cse:Attribute name="article:top-level-section" value="us"/>
+    <cse:Attribute name="fb:app_id" value="9869919170"/>
+    <cse:Attribute name="twitter:url" value="https://www.nytimes.com/2017/07/22/us/politics/congress-sanctions-russia.html"/>
+    <cse:Attribute name="twitter:title" value="Congress Reaches Deal on Russia Sanctions, Setting Up Tough Choice for Trump"/>
+    <cse:Attribute name="twitter:description" value="White House officials acknowledge that the president would all but have to sign legislation punishing Russia for its election interference."/>
+    <cse:Attribute name="author" value="Matt Flegenheimer and David E. Sanger"/>
+    <cse:Attribute name="tone" value="news"/>
+    <cse:Attribute name="byl" value="By MATT FLEGENHEIMER and DAVID E. SANGER"/>
+    <cse:Attribute name="pt" value="article"/>
+    <cse:Attribute name="cg" value="us"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="alternativeheadline" value="As Congress Aims To Punish Russia, Trump Faces Bind"/>
+    <cse:Attribute name="description" value="White House officials acknowledge that the president would all but have to sign legislation punishing Russia for its election interference."/>
+    <cse:Attribute name="genre" value="News"/>
+    <cse:Attribute name="identifier" value="100000005295665"/>
+    <cse:Attribute name="usageterms" value="https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html"/>
+    <cse:Attribute name="inlanguage" value="en-US"/>
+    <cse:Attribute name="datepublished" value="2017-07-22T14:42:58-04:00"/>
+    <cse:Attribute name="datemodified" value="2017-07-23T19:00:21-04:00"/>
+    <cse:Attribute name="articlesection" value="Politics"/>
+    <cse:Attribute name="thumbnailurl" value="https://static01.nyt.com/images/2017/07/24/us/24sanctions/23sanctions-thumbStandard-v2.jpg"/>
+    <cse:Attribute name="headline" value="Congress Reaches Deal on Russia Sanctions, Setting Up Tough Choice for Trump"/>
+    <cse:Attribute name="printedition" value="New York edition"/>
+    <cse:Attribute name="copyrightnotice" value="© 2017 The New York Times Company"/>
+    <cse:Attribute name="copyrightyear" value="2017"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="MATT FLEGENHEIMER"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="DAVID E. SANGER"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="https://static01.nyt.com/images/2017/07/24/us/24sanctions/23sanctions-master768-v3.jpg"/>
+    <cse:Attribute name="height" value="512"/>
+    <cse:Attribute name="width" value="768"/>
+    <cse:Attribute name="caption" value="Senator Benjamin L. Cardin, Democrat of Maryland, praised a House bill that would impose new sanctions on Russia, Iran and North Korea. Credit J. Scott Applewhite/Associated Press"/>
+    <cse:Attribute name="description" value="Senator Benjamin L. Cardin, Democrat of Maryland, praised a House bill that would impose new sanctions on Russia, Iran and North Korea. Credit J. Scott Applewhite/Associated Press"/>
+    <cse:Attribute name="copyrightholder" value="Credit J. Scott Applewhite/Associated Press"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="The New York Times Company"/>
+    <cse:Attribute name="tickersymbol" value="NYSE NYT"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170724&amp;t=2&amp;i=1194180966&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6N0VU"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="277"/>
-    <cse:Attribute name="height" value="182"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqgTyuLu46Qez69eD3SN0CkriHLemN9KBQMg7tPizLu5Chyxf_Fe28Gss"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-usa-trump-australia-refugees-idUSKBN1AA0NO</id>
-  <updated>1970-01-18T08:59:14.486Z</updated>
-  <title type="html">Exclusive: Australia to accept first Central American refugees under ...</title>
-  <link href="https://www.reuters.com/article/us-usa-trump-australia-refugees-idUSKBN1AA0NO" title="www.reuters.com"/>
-  <summary type="html">Australia will accept several dozen Central American refugees within the next few &lt;br&gt;
-months, two &lt;b&gt;sources familiar with&lt;/b&gt; the process told Reuters, the first transfers&amp;nbsp;...</summary>
-  <cse:cacheId>SI8Ys9LU-6YJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-usa-trump-australia-refugees- idUSKBN1AA0NO</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
-    <cse:Attribute name="dcsext.channellist" value="worldNews;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Australia+to+accept+first+Central+American+refugees+under+U.S.+deal+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Colin Packham"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-worldNews"/>
-    <cse:Attribute name="author" value="Colin Packham"/>
-    <cse:Attribute name="news_keywords" value="Australia;Costa Rica;El Salvador;Nauru;Papua New Guinea;United States;Barack Obama;Donald J. Trump;Julia Gillard;Kevin Rudd;Malcolm Turnbull;Obama;Peter Dutton;Sean Kelly;US;USA;TRUMP;AUSTRALIA;REFUGEES;Nauru;Exclusive;Asia / Pacific;Major News;Human Rights / Civil Rights;United States;Myanmar;Americas;El Salvador;South America / Central America;Asylum / Immigration / Refugees;Diplomacy / Foreign Policy;Government / Politics;Costa Rica;Fundamental Rights / Civil Liberties;Australia;Papua New Guinea;Washington;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Tue Jul 25 14:50:20 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Colin Packham"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-25T14:50:20+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Australia to accept first Central American refugees under U.S. deal - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Australia to accept first Central American refugees under U.S. deal - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-usa-trump-australia-refugees-idUSKBN1AA0NO"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Australia will accept several dozen Central American refugees within the next few months, two sources familiar with the process told Reuters, the first transfers under a controversial refugee swap arrangement agreed with the United States."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170725&amp;t=2&amp;i=1194289681&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6O0BK"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-25T14:50:20+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-25T14:50:20+0000"/>
-    <cse:Attribute name="og:article:section" value="World"/>
-    <cse:Attribute name="og:article:author" value="Colin Packham"/>
-    <cse:Attribute name="og:article:tag" value="Australia,Costa Rica,El Salvador,Nauru,Papua New Guinea,United States,Barack Obama,Donald J. Trump,Julia Gillard,Kevin Rudd,Malcolm Turnbull,Obama,Peter Dutton,Sean Kelly,US,USA,TRUMP,AUSTRALIA,REFUGEES,Nauru,Exclusive,Asia / Pacific,Major News,Human Rights / Civil Rights,United States,Myanmar,Americas,El Salvador,South America / Central America,Asylum / Immigration / Refugees,Diplomacy / Foreign Policy,Government / Politics,Costa Rica,Fundamental Rights / Civil Liberties,Australia,Papua New Guinea,Washington,Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Australia to accept first Central American refugees under U.S. deal - sources"/>
-    <cse:Attribute name="twitter:description" value="Australia will accept several dozen Central American refugees within the next few months, two sources familiar with the process told Reuters, the first transfers under a controversial refugee swap arrangement agreed with the United States."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170725&amp;t=2&amp;i=1194289681&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6O0BK"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170725&amp;t=2&amp;i=1194289681&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6O0BK"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
-    <cse:Attribute name="wt.cg_n" value="World"/>
-    <cse:Attribute name="wt.cg_s" value="World"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170725&amp;t=2&amp;i=1194289681&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6O0BK"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ99u13wbq0vJXzRvSZV_jRcjXnt8Fi0LU6vNoqWBBo23_QCvPvBbscKUS5"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-hightimes-ipo-exclusive-idUSKBN1AC1G8</id>
-  <updated>1970-01-18T08:59:14.486Z</updated>
-  <title type="html">Exclusive: &amp;#39;High Times&amp;#39; ready to roll with public offering - sources</title>
-  <link href="https://www.reuters.com/article/us-hightimes-ipo-exclusive-idUSKBN1AC1G8" title="www.reuters.com"/>
-  <summary type="html">The publisher of iconic marijuana enthusiast magazine, &amp;quot;High Times,&amp;quot; plans to &lt;br&gt;
-take the company public in the fall, two &lt;b&gt;sources familiar with&lt;/b&gt; the situation told&amp;nbsp;...</summary>
-  <cse:cacheId>DQnduqbCxgwJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-hightimes-ipo-exclusive-idUSKBN1AC1G8</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="media-industry;innovationNews;businessNews;digital-future;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+%27High+Times%27+ready+to+roll+with+public+offering+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Jessica Toonkel"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Jessica Toonkel"/>
-    <cse:Attribute name="news_keywords" value="United States;Troy Dayton;US;HIGHTIMES;IPO;EXCLUSIVE;Mergers / Acquisitions / Takeovers;Exclusive;Initial Public Offerings;Picture available;Media and Publishing (TRBC);Corporate Events;Video;Publishing (TRBC);Major News;Technology / Media / Telecoms;Pictures;Media / Publishing (Legacy);United States"/>
-    <cse:Attribute name="revision_date" value="Thu Jul 27 10:52:04 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Jessica Toonkel"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-27T10:52:04+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: &apos;High Times&apos; ready to roll with public offering - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: &apos;High Times&apos; ready to roll with public offering - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-hightimes-ipo-exclusive-idUSKBN1AC1G8"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The publisher of iconic marijuana enthusiast magazine, &quot;High Times,&quot; plans to take the company public in the fall, two sources familiar with the situation told Reuters this week, as an increasing number of U.S. states legalize the drug."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194664906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q0TC"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-27T10:52:04+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-27T10:52:04+0000"/>
-    <cse:Attribute name="og:article:section" value="Subjects"/>
-    <cse:Attribute name="og:article:author" value="Jessica Toonkel"/>
-    <cse:Attribute name="og:article:tag" value="United States,Troy Dayton,US,HIGHTIMES,IPO,EXCLUSIVE,Mergers / Acquisitions / Takeovers,Exclusive,Initial Public Offerings,Picture available,Media and Publishing (TRBC),Corporate Events,Video,Publishing (TRBC),Major News,Technology / Media / Telecoms,Pictures,Media / Publishing (Legacy),United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: &apos;High Times&apos; ready to roll with public offering - sources"/>
-    <cse:Attribute name="twitter:description" value="The publisher of iconic marijuana enthusiast magazine, &quot;High Times,&quot; plans to take the company public in the fall, two sources familiar with the situation told Reuters this week, as an increasing number of U.S. states legalize the drug."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194664906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q0TC"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194664906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q0TC"/>
-    <cse:Attribute name="dcsext.rchannel" value="News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/media/article"/>
-    <cse:Attribute name="wt.cg_n" value="Subjects"/>
-    <cse:Attribute name="wt.cg_s" value="Media Industry"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://pictures.reuters.com/Doc/RTR/Media/TR3_UNWATERMARKED/d/e/8/4/RTX3D1XN.jpg"/>
+    <cse:Attribute name="src" value="https://static01.nyt.com/images/2017/07/24/us/24sanctions/23sanctions-master768-v3.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlZeq9S4BCwrrfoQCaT-dOl0TzcGs6nOLQTnzsiQUKjCoXR59NohePmQfi"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZws3Ax7ny53qAKkCS7pZOCIm1mw-kA6o7ab9P7Wv8_sTzwpd_nymqvwA"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-siemens-bombardier-transportation-idUSKBN1A61L9</id>
-  <updated>1970-01-18T08:59:14.486Z</updated>
-  <title type="html">Siemens, Bombardier near deal on transportation tie-up, sources say</title>
-  <link href="http://www.reuters.com/article/us-siemens-bombardier-transportation-idUSKBN1A61L9" title="www.reuters.com"/>
-  <summary type="html">DE) are in the final stages of talks to combine their rail operations, several &lt;br&gt;
-&lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Friday, in a deal that would give the two &lt;br&gt;
-added&amp;nbsp;...</summary>
-  <cse:cacheId>Y7xY0hBfu6oJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-siemens-bombardier-transportation- idUSKBN1A61L9</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;transportation;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Siemens%2C+Bombardier+near+deal+on+transportation+tie-up%2C+sources+say"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Arno Schuetze and Allison Lampert"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Arno Schuetze and Allison Lampert"/>
-    <cse:Attribute name="news_keywords" value="Canada;China;Michael J. Sabia;US;SIEMENS;BOMBARDIER;TRANSPORTATION;Germany;Mergers / Acquisitions / Takeovers;Company News;Heavy Machinery and Vehicles (TRBC);Highways and Rail Tracks (TRBC);Western Europe;Picture available;Transportation : Ground (TRBC);China (PRC);Transportation (TRBC);Corporate Events;Divestitures / Spin;Offs;Asia / Pacific;Major News;Europe;Heavy Electrical Equipment (TRBC);Industrial Conglomerates (TRBC);Pictures;Canada"/>
-    <cse:Attribute name="revision_date" value="Fri Jul 21 18:58:17 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Arno Schuetze and Allison Lampert"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-21T18:58:17+0000"/>
-    <cse:Attribute name="sailthru.title" value="Siemens, Bombardier near deal on transportation tie-up, sources say"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Siemens, Bombardier near deal on transportation tie-up, sources say"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-siemens-bombardier-transportation-idUSKBN1A61L9"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Canada&apos;s Bombardier (BBDb.TO) and Germany&apos;s Siemens (SIEGn.DE) are in the final stages of talks to combine their rail operations, several sources familiar with the matter said on Friday, in a deal that would give the two added heft to compete against Chinese rail giant CRRC (601766.SS)."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193895483&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K13D"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-21T18:58:17+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-21T18:58:17+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Arno Schuetze and Allison Lampert"/>
-    <cse:Attribute name="og:article:tag" value="Canada,China,Michael J. Sabia,US,SIEMENS,BOMBARDIER,TRANSPORTATION,Germany,Mergers / Acquisitions / Takeovers,Company News,Heavy Machinery and Vehicles (TRBC),Highways and Rail Tracks (TRBC),Western Europe,Picture available,Transportation : Ground (TRBC),China (PRC),Transportation (TRBC),Corporate Events,Divestitures / Spin,Offs,Asia / Pacific,Major News,Europe,Heavy Electrical Equipment (TRBC),Industrial Conglomerates (TRBC),Pictures,Canada"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Siemens, Bombardier near deal on transportation tie-up, sources say"/>
-    <cse:Attribute name="twitter:description" value="Canada&apos;s Bombardier (BBDb.TO) and Germany&apos;s Siemens (SIEGn.DE) are in the final stages of talks to combine their rail operations, several sources familiar with the matter said on Friday, in a deal that would give the two added heft to compete against Chinese rail giant CRRC (601766.SS)."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193895483&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K13D"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193895483&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K13D"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193895483&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K13D"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="272"/>
-    <cse:Attribute name="height" value="185"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihPG2xfTOkp0FjP_CK6A0I4kxSFJbPmOfm2GIv25EtmK0a3Zaspbyc8tZ"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-hna-group-pactera-idUSKBN1AA0X9</id>
-  <updated>1970-01-18T08:59:14.486Z</updated>
-  <title type="html">Brushing off bank worries, HNA taps Goldman for unit Pactera&amp;#39;s IPO ...</title>
-  <link href="https://www.reuters.com/article/us-hna-group-pactera-idUSKBN1AA0X9" title="www.reuters.com"/>
-  <summary type="html">... Goldman Sachs (GS.N) to list Pactera, the Beijing-based IT outsourcing firm it &lt;br&gt;
-bought from private equity firm Blackstone, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>29b7rX3zBkUJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-hna-group-pactera-idUSKBN1AA0X9</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="banks"/>
-    <cse:Attribute name="dcsext.channellist" value="banks;innovationNews;businessNews;bank-news;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Brushing+off+bank+worries%2C+HNA+taps+Goldman+for+unit+Pactera%27s+IPO%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Kane Wu and Julie  Zhu"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-banks"/>
-    <cse:Attribute name="author" value="Kane Wu and Julie  Zhu"/>
-    <cse:Attribute name="news_keywords" value="China;United States;Adam Tan;Anthony Scaramucci;Donald Trump;US;HNA;GROUP;PACTERA;Hong Kong;Initial Public Offerings;Equity Financing;Asia / Pacific;Major News;Pictures;United States;IT Services and Consulting (TRBC);Banks (TRBC);Funds;Company News;New Issues;China (PRC);Information Technologies / Computer Sciences;Government / Politics;Corporate Events;Investment Banking and Brokerage Services (TRBC);Science;Regulation;Emerging Market Countries;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Tue Jul 25 10:35:56 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Kane Wu and Julie  Zhu"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-25T10:35:56+0000"/>
-    <cse:Attribute name="sailthru.title" value="Brushing off bank worries, HNA taps Goldman for unit Pactera&apos;s IPO: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Brushing off bank worries, HNA taps Goldman for unit Pactera&apos;s IPO: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-hna-group-pactera-idUSKBN1AA0X9"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="HNA Group, the Chinese airline-to-banking conglomerate, has tapped investment bank Goldman Sachs (GS.N) to list Pactera, the Beijing-based IT outsourcing firm it bought from private equity firm Blackstone, sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170725&amp;t=2&amp;i=1194300596&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6O0GM"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-25T10:35:56+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-25T10:35:56+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Kane Wu and Julie  Zhu"/>
-    <cse:Attribute name="og:article:tag" value="China,United States,Adam Tan,Anthony Scaramucci,Donald Trump,US,HNA,GROUP,PACTERA,Hong Kong,Initial Public Offerings,Equity Financing,Asia / Pacific,Major News,Pictures,United States,IT Services and Consulting (TRBC),Banks (TRBC),Funds,Company News,New Issues,China (PRC),Information Technologies / Computer Sciences,Government / Politics,Corporate Events,Investment Banking and Brokerage Services (TRBC),Science,Regulation,Emerging Market Countries,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Brushing off bank worries, HNA taps Goldman for unit Pactera&apos;s IPO: sources"/>
-    <cse:Attribute name="twitter:description" value="HNA Group, the Chinese airline-to-banking conglomerate, has tapped investment bank Goldman Sachs (GS.N) to list Pactera, the Beijing-based IT outsourcing firm it bought from private equity firm Blackstone, sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170725&amp;t=2&amp;i=1194300596&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6O0GM"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170725&amp;t=2&amp;i=1194300596&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6O0GM"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/banks/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170725&amp;t=2&amp;i=1194300596&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6O0GM"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbOs14qPmelGugmTVXbcwJ0X2aSAxx80hJSjV0rF42aoUdb3CSiWcpyhg"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX</id>
-  <updated>1970-01-18T08:59:14.486Z</updated>
-  <title type="html">UAE buys first U.S. oil cargo to replace Qatar condensate: sources</title>
-  <link href="https://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX" title="www.reuters.com"/>
-  <summary type="html">The United Arab Emirates will import the country&amp;#39;s first oil cargo from the United &lt;br&gt;
-States, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, as the OPEC producer sought&amp;nbsp;...</summary>
-  <cse:cacheId>Ht4U0AiYs50J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="GCA-Commodities;energy-news;middle-east-full-coverage;oil;power;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="UAE+buys+first+U.S.+oil+cargo+to+replace+Qatar+condensate%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Florence Tan and Jessica Jaganathan"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Florence Tan and Jessica Jaganathan"/>
-    <cse:Attribute name="news_keywords" value="Bahrain;Egypt;Indonesia;Qatar;Saudi Arabia;South Korea;United Arab Emirates;United States;US;EMIRATES;CRUDE;Asia (Energy);Energy Markets;Liquefied Natural Gas;Crude Oil;Energy (Legacy);Saudi Arabia;Qatar;Oil and Gas Refining and Marketing (TRBC);Asia / Pacific;Middle East;Marine Services (TRBC);United States;United Arab Emirates;Company News;Corporate Events;Oil and Gas (TRBC);Europe / Middle East / Africa (Energy);Natural Gas Liquids;Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Energy (TRBC);Natural Gas;Naphtha;US Crudes;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Wed Jul 26 09:11:39 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Florence Tan and Jessica Jaganathan"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-26T09:11:39+0000"/>
-    <cse:Attribute name="sailthru.title" value="UAE buys first U.S. oil cargo to replace Qatar condensate: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="UAE buys first U.S. oil cargo to replace Qatar condensate: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The United Arab Emirates will import the country&apos;s first oil cargo from the United States, two sources familiar with the matter said, as the OPEC producer sought substitutes to replace Qatari condensate supplies after a diplomatic row."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-26T09:11:39+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-26T09:11:39+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Florence Tan and Jessica Jaganathan"/>
-    <cse:Attribute name="og:article:tag" value="Bahrain,Egypt,Indonesia,Qatar,Saudi Arabia,South Korea,United Arab Emirates,United States,US,EMIRATES,CRUDE,Asia (Energy),Energy Markets,Liquefied Natural Gas,Crude Oil,Energy (Legacy),Saudi Arabia,Qatar,Oil and Gas Refining and Marketing (TRBC),Asia / Pacific,Middle East,Marine Services (TRBC),United States,United Arab Emirates,Company News,Corporate Events,Oil and Gas (TRBC),Europe / Middle East / Africa (Energy),Natural Gas Liquids,Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Energy (TRBC),Natural Gas,Naphtha,US Crudes,Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="UAE buys first U.S. oil cargo to replace Qatar condensate: sources"/>
-    <cse:Attribute name="twitter:description" value="The United Arab Emirates will import the country&apos;s first oil cargo from the United States, two sources familiar with the matter said, as the OPEC producer sought substitutes to replace Qatari condensate supplies after a diplomatic row."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="287"/>
-    <cse:Attribute name="height" value="176"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRw2UpC9A4yejok4s7DOF6Df0cbKoWJlLFbIeaEDw1fEPhT6MG7jeH0_xk"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-telecomitalia-ceo-idUSKBN1A91DK?il=0</id>
-  <updated>1970-01-18T08:59:14.486Z</updated>
-  <title type="html">Telecom Italia puts broadband plan for rural areas on hold: sources</title>
-  <link href="http://www.reuters.com/article/us-telecomitalia-ceo-idUSKBN1A91DK?il=0" title="www.reuters.com"/>
-  <summary type="html">MILAN (Reuters) - Telecom Italia has put a plan to roll out ultrafast broadband in &lt;br&gt;
-rural areas of Italy on hold, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, suspending&lt;br&gt;
+  <id>https://www.bostonglobe.com/news/nation/2017/07/22/trump-manafort-may-interviewed-privately-senators/XpHKhiud2xHMRYOHrOKBLN/story.html</id>
+  <updated>1970-01-18T09:01:24.822Z</updated>
+  <title type="html">Trump Jr., Manafort may be interviewed privately by senators - The ...</title>
+  <link href="https://www.bostonglobe.com/news/nation/2017/07/22/trump-manafort-may-interviewed-privately-senators/XpHKhiud2xHMRYOHrOKBLN/story.html" title="www.bostonglobe.com"/>
+  <summary type="html">The White House has not publicly spoken about the compromise legislation. But &lt;br&gt;
+two &lt;b&gt;senior administration officials said&lt;/b&gt; they could not imagine Trump vetoing the&lt;br&gt;
 &amp;nbsp;...</summary>
-  <cse:cacheId>bRDDMZ9RpFEJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-telecomitalia-ceo-idUSKBN1A91DK?il...</cse:formattedUrl>
+  <cse:formattedUrl type="html">https://www.bostonglobe.com/news/nation/2017/07/22/.../story.html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
-    <cse:Attribute name="dcsext.channellist" value="technologyNews;media-industry;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Telecom+Italia+puts+broadband+plan+for+rural+areas+on+hold%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Stefano Rebaudo"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-technologyNews"/>
-    <cse:Attribute name="author" value="Stefano Rebaudo"/>
-    <cse:Attribute name="news_keywords" value="Brazil;Italy;Amos Genish;Flavio Cattaneo;US;TELECOMITALIA;CEO;Key Personnel Changes;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Picture available;Italy;France;Corporate Events;Spain;Integrated Telecommunications Services (TRBC);Major News;Europe;Science;Regulation;Deals;Company Management Issues;Entertainment Production (TRBC);Pictures"/>
-    <cse:Attribute name="revision_date" value="Mon Jul 24 15:27:57 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Stefano Rebaudo"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-24T15:27:57+0000"/>
-    <cse:Attribute name="sailthru.title" value="Telecom Italia puts broadband plan for rural areas on hold: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Telecom Italia puts broadband plan for rural areas on hold: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-telecomitalia-ceo-idUSKBN1A91DK"/>
+    <cse:Attribute name="eomportal-instanceid" value="212"/>
+    <cse:Attribute name="eomportal-id" value="1134848"/>
+    <cse:Attribute name="eomportal-loid" value="4.3.3467689486"/>
+    <cse:Attribute name="eomportal-uuid" value="4811b06c-6f22-11e7-948b-2aabc5768571"/>
+    <cse:Attribute name="eomportal-lastupdate" value="Mon Jul 24 23:08:53 EDT 2017"/>
+    <cse:Attribute name="og:city" value="Washington"/>
+    <cse:Attribute name="og:state" value="District of Columbia"/>
+    <cse:Attribute name="og:country" value="United States"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Telecom Italia has put a plan to roll out ultrafast broadband in rural areas of Italy on hold, two sources familiar with the matter said, suspending a project that triggered a row with the government and contributed to the imminent departure of its CEO."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170724&amp;t=2&amp;i=1194200474&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6N0PN"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-24T15:27:57+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-24T15:27:57+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Stefano Rebaudo"/>
-    <cse:Attribute name="og:article:tag" value="Brazil,Italy,Amos Genish,Flavio Cattaneo,US,TELECOMITALIA,CEO,Key Personnel Changes,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Picture available,Italy,France,Corporate Events,Spain,Integrated Telecommunications Services (TRBC),Major News,Europe,Science,Regulation,Deals,Company Management Issues,Entertainment Production (TRBC),Pictures"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Telecom Italia puts broadband plan for rural areas on hold: sources"/>
-    <cse:Attribute name="twitter:description" value="Telecom Italia has put a plan to roll out ultrafast broadband in rural areas of Italy on hold, two sources familiar with the matter said, suspending a project that triggered a row with the government and contributed to the imminent departure of its CEO."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170724&amp;t=2&amp;i=1194200474&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6N0PN"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170724&amp;t=2&amp;i=1194200474&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6N0PN"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
-    <cse:Attribute name="wt.cg_n" value="Technology"/>
-    <cse:Attribute name="wt.cg_s" value="Technology"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="og:description" value="President Trump’s eldest son and his former campaign chairman won’t be forced to testify publicly."/>
+    <cse:Attribute name="og:title" value="Trump Jr., Manafort may be interviewed privately by senators - The Boston Globe"/>
+    <cse:Attribute name="og:site_name" value="BostonGlobe.com"/>
+    <cse:Attribute name="fb:admins" value="100001044693856"/>
+    <cse:Attribute name="fb:app_id" value="103933749691726"/>
+    <cse:Attribute name="fb:pages" value="5637143257"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/globe"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ffffff"/>
+    <cse:Attribute name="msapplication-tileimage" value="//c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/bg-images/png/favicon/mstile-144x144.png"/>
     <cse:Attribute name="theme-color" value="#ffffff"/>
+    <cse:Attribute name="twitter:account_id" value="95431448"/>
+    <cse:Attribute name="news_keywords" value="US,Trump,Russia Probe,Government and politics,Judicial elections,Judiciary,Elections,Classified information,Political issues,Legislature"/>
+    <cse:Attribute name="og:url" value="https://www.bostonglobe.com/news/nation/2017/07/22/trump-manafort-may-interviewed-privately-senators/XpHKhiud2xHMRYOHrOKBLN/story.html"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="BostonGlobe"/>
+    <cse:Attribute name="og:image" value="http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2017/07/22/BostonGlobe.com/National/Images/29717fce5e9f4084afce84a4ef0925ab-29717fce5e9f4084afce84a4ef0925ab-0.jpg"/>
+    <cse:Attribute name="viewport" value="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="inlanguage" value="en-US"/>
+    <cse:Attribute name="genre" value="news"/>
+    <cse:Attribute name="articlesection" value="Nation"/>
+    <cse:Attribute name="headline" value="Congress reaches deal on Russia sanctions, creating bleak choice for Trump"/>
+    <cse:Attribute name="datepublished" value="2017-07-22 19:33"/>
+    <cse:Attribute name="articlebody" value="WASHINGTON — Congressional leaders have reached an agreement on sweeping sanctions legislation to punish Russia for its election-meddling and aggression toward its neighbors, they said Saturday.T..."/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="contenturl" value="https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2017/07/22/BostonGlobe.com/National/Images/29717fce5e9f4084afce84a4ef0925ab-29717fce5e9f4084afce84a4ef0925ab-0.jpg"/>
+    <cse:Attribute name="creator" value="Carolyn Kaster"/>
+    <cse:Attribute name="description" value="Congressional leaders announced Saturday that their agreement on sanctions directed toward Russia include limits on President Trump’s ability to suspend or terminate the sanctions."/>
+    <cse:Attribute name="caption" value="Congressional leaders announced Saturday that their agreement on sanctions directed toward Russia include limits on President Trump’s ability to suspend or terminate the sanctions."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170724&amp;t=2&amp;i=1194200474&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6N0PN"/>
+    <cse:Attribute name="src" value="http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2017/07/22/BostonGlobe.com/National/Images/29717fce5e9f4084afce84a4ef0925ab-29717fce5e9f4084afce84a4ef0925ab-0.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="276"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv77jtW4pD7al1kGoQhUwFglHWW8GMTfhp-Nx_HCvgV1x_QrNp3Mr6NuQ"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-scripps-net-int-viacom-m-a-idUSKBN1AA2XW</id>
-  <updated>1970-01-18T08:59:14.486Z</updated>
-  <title type="html">Exclusive: Viacom willing to make an all-cash deal to buy Scripps ...</title>
-  <link href="http://www.reuters.com/article/us-scripps-net-int-viacom-m-a-idUSKBN1AA2XW" title="www.reuters.com"/>
-  <summary type="html">Viacom Inc has informed Scripps Networks Interactive it is willing to pay all cash &lt;br&gt;
-to acquire the U.S. TV network operator, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on&amp;nbsp;...</summary>
-  <cse:cacheId>FgGBZgt8inwJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../us-scripps-net-int-viacom-m-a-idUSKBN1AA2XW</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="media-industry;innovationNews;businessNews;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Viacom+willing+to+make+an+all-cash+deal+to+buy+Scripps+Networks+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Jessica Toonkel"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Jessica Toonkel"/>
-    <cse:Attribute name="news_keywords" value="Robert M. Bakish;US;SCRIPPS;NET;INT;VIACOM;M;A;Mergers / Acquisitions / Takeovers;Company News;Western Europe;Exclusive;Arts / Culture / Entertainment;Corporate Events;Corporate Debt;Technology (TRBC);Divestitures / Spin;Offs;Major News;Government Borrowing Requirement;Europe;United Kingdom;Entertainment Production (TRBC);Broadcasting (TRBC);United States"/>
-    <cse:Attribute name="revision_date" value="Wed Jul 26 00:34:50 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Jessica Toonkel"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-26T00:34:50+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Viacom willing to make an all-cash deal to buy Scripps Networks - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Viacom willing to make an all-cash deal to buy Scripps Networks - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-scripps-net-int-viacom-m-a-idUSKBN1AA2XW"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Viacom Inc has informed Scripps Networks Interactive it is willing to pay all cash to acquire the U.S. TV network operator, sources familiar with the matter said on Tuesday."/>
-    <cse:Attribute name="og:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194415149&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P001"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-26T00:34:50+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-26T00:34:50+0000"/>
-    <cse:Attribute name="og:article:section" value="Subjects"/>
-    <cse:Attribute name="og:article:author" value="Jessica Toonkel"/>
-    <cse:Attribute name="og:article:tag" value="Robert M. Bakish,US,SCRIPPS,NET,INT,VIACOM,M,A,Mergers / Acquisitions / Takeovers,Company News,Western Europe,Exclusive,Arts / Culture / Entertainment,Corporate Events,Corporate Debt,Technology (TRBC),Divestitures / Spin,Offs,Major News,Government Borrowing Requirement,Europe,United Kingdom,Entertainment Production (TRBC),Broadcasting (TRBC),United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Viacom willing to make an all-cash deal to buy Scripps Networks - sources"/>
-    <cse:Attribute name="twitter:description" value="Viacom Inc has informed Scripps Networks Interactive it is willing to pay all cash to acquire the U.S. TV network operator, sources familiar with the matter said on Tuesday."/>
-    <cse:Attribute name="twitter:image:src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194415149&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P001"/>
-    <cse:Attribute name="twitter:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194415149&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P001"/>
-    <cse:Attribute name="dcsext.rchannel" value="News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/media/article"/>
-    <cse:Attribute name="wt.cg_n" value="Subjects"/>
-    <cse:Attribute name="wt.cg_s" value="Media Industry"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194415149&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P001"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVOTnmWWEEJRmtP7KXx0FcD6exY_v7X3Ae8U9RXDVYnyAe2KwJPBq7i3s"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-abertis-m-a-acs-es-idUSKBN1A61AZ</id>
-  <updated>1970-01-18T08:59:14.486Z</updated>
-  <title type="html">Spain&amp;#39;s ACS in talks with funds over joint counter-bid for Abertis ...</title>
-  <link href="http://www.reuters.com/article/us-abertis-m-a-acs-es-idUSKBN1A61AZ" title="www.reuters.com"/>
-  <summary type="html">MC) is in talks with various pension and infrastructure funds and private equity &lt;br&gt;
-firms on a potential counter-bid for Abertis (ABE.MC), two &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-the&amp;nbsp;...</summary>
-  <cse:cacheId>zs6fjs5hgUcJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-abertis-m-a-acs-es-idUSKBN1A61AZ</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Spain%27s+ACS+in+talks+with+funds+over+joint+counter-bid+for+Abertis%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Jesús Aguado and Paola Arosio"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Jesús Aguado and Paola Arosio"/>
-    <cse:Attribute name="news_keywords" value="Australia;Canada;Germany;Spain;Inigo Mendez de Vigo;US;ABERTIS;M;A;ACS;ES;Germany;Mergers / Acquisitions / Takeovers;Company News;Highways and Rail Tracks (TRBC);Western Europe;Construction and Engineering (TRBC);Italy;Volatile Shares / Hot Stocks;Corporate Events;Spain;Economic Events;Corporate Debt;Divestitures / Spin;Offs;Market Events;Major News;Europe;Regulation;Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Fri Jul 21 13:09:22 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Jesús Aguado and Paola Arosio"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-21T13:09:22+0000"/>
-    <cse:Attribute name="sailthru.title" value="Spain&apos;s ACS in talks with funds over joint counter-bid for Abertis: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Spain&apos;s ACS in talks with funds over joint counter-bid for Abertis: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-abertis-m-a-acs-es-idUSKBN1A61AZ"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Spanish builder ACS (ACS.MC) is in talks with various pension and infrastructure funds and private equity firms on a potential counter-bid for Abertis (ABE.MC), two sources familiar with the matter said on Friday."/>
-    <cse:Attribute name="og:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193887331&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K0ZA"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-21T13:09:22+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-21T13:09:22+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Jesús Aguado and Paola Arosio"/>
-    <cse:Attribute name="og:article:tag" value="Australia,Canada,Germany,Spain,Inigo Mendez de Vigo,US,ABERTIS,M,A,ACS,ES,Germany,Mergers / Acquisitions / Takeovers,Company News,Highways and Rail Tracks (TRBC),Western Europe,Construction and Engineering (TRBC),Italy,Volatile Shares / Hot Stocks,Corporate Events,Spain,Economic Events,Corporate Debt,Divestitures / Spin,Offs,Market Events,Major News,Europe,Regulation,Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Spain&apos;s ACS in talks with funds over joint counter-bid for Abertis: sources"/>
-    <cse:Attribute name="twitter:description" value="Spanish builder ACS (ACS.MC) is in talks with various pension and infrastructure funds and private equity firms on a potential counter-bid for Abertis (ABE.MC), two sources familiar with the matter said on Friday."/>
-    <cse:Attribute name="twitter:image:src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193887331&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K0ZA"/>
-    <cse:Attribute name="twitter:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193887331&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K0ZA"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170721&amp;t=2&amp;i=1193887331&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6K0ZA"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7weKKE9gsc1tPzIzNH_uqQeDB_W8TvUtPs-HWuzhmgOof_Z5v8bhGRcAV"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-adt-corp-ipo-idUSKBN1A52QD</id>
-  <updated>1970-01-18T08:59:14.486Z</updated>
-  <title type="html">Apollo prepares 2018 IPO for ADT Corp: sources</title>
-  <link href="http://www.reuters.com/article/us-adt-corp-ipo-idUSKBN1A52QD" title="www.reuters.com"/>
-  <summary type="html">N) is preparing to take U.S. security company ADT Corp public at a $15 billion &lt;br&gt;
-plus valuation, just over a year after buying it, &lt;b&gt;sources familiar with&lt;/b&gt; the situation&amp;nbsp;...</summary>
-  <cse:cacheId>_6fyRcxSFwoJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/article/us-adt-corp-ipo-idUSKBN1A52QD</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Apollo+prepares+2018+IPO+for+ADT+Corp%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Greg Roumeliotis"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Greg Roumeliotis"/>
-    <cse:Attribute name="news_keywords" value="United States;US;ADT;CORP;IPO;Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Funds;Home Improvement Products and Services Retailers (TRBC);Company News;Initial Public Offerings;New Issues;Equity Financing;Corporate Events;Technology (TRBC);Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
-    <cse:Attribute name="revision_date" value="Thu Jul 20 20:24:21 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Greg Roumeliotis"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-20T20:24:21+0000"/>
-    <cse:Attribute name="sailthru.title" value="Apollo prepares 2018 IPO for ADT Corp: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Apollo prepares 2018 IPO for ADT Corp: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-adt-corp-ipo-idUSKBN1A52QD"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Private equity firm Apollo Global Management LLC (APO.N) is preparing to take U.S. security company ADT Corp public at a $15 billion plus valuation, just over a year after buying it, sources familiar with the situation said on Thursday."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193790066&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1QB"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-20T20:24:21+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-20T20:24:21+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Greg Roumeliotis"/>
-    <cse:Attribute name="og:article:tag" value="United States,US,ADT,CORP,IPO,Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Funds,Home Improvement Products and Services Retailers (TRBC),Company News,Initial Public Offerings,New Issues,Equity Financing,Corporate Events,Technology (TRBC),Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Apollo prepares 2018 IPO for ADT Corp: sources"/>
-    <cse:Attribute name="twitter:description" value="Private equity firm Apollo Global Management LLC (APO.N) is preparing to take U.S. security company ADT Corp public at a $15 billion plus valuation, just over a year after buying it, sources familiar with the situation said on Thursday."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193790066&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1QB"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193790066&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1QB"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170720&amp;t=2&amp;i=1193790066&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6J1QB"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgH6zaJpm6nPG19fcSUm4SFa6rXubhrZTJEZLyQoRAgjzBfin8al0Dfj8"/>
+    <cse:Attribute name="width" value="284"/>
+    <cse:Attribute name="height" value="178"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3QX8bl_KGVOWw03FWr__90qEd_aD56ErKLjZNw9kVUjyIFoYhIWOV4s"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
