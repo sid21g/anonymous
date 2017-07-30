@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T09:02:54.830Z</updated>
+ <updated>1970-01-18T09:03:39.141Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12400" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>12400</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12000" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>12000</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.272198</cse:searchTime>
-  <cse:formattedSearchTime>0.27</cse:formattedSearchTime>
-  <cse:totalResults>12400</cse:totalResults>
-  <cse:formattedTotalResults>12,400</cse:formattedTotalResults>
+  <cse:searchTime>0.299992</cse:searchTime>
+  <cse:formattedSearchTime>0.30</cse:formattedSearchTime>
+  <cse:totalResults>12000</cse:totalResults>
+  <cse:formattedTotalResults>12,000</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN1AC2GM</id>
-  <updated>1970-01-18T09:02:54.830Z</updated>
+  <updated>1970-01-18T09:03:39.141Z</updated>
   <title type="html">Exclusive: Saudi Aramco advisers favor London for historic IPO ...</title>
   <link href="https://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN1AC2GM" title="www.reuters.com"/>
   <summary type="html">... London for the historic listing of the oil company, with U.S. disclosure rules a &lt;br&gt;
@@ -95,7 +95,7 @@ concern for Saudi authorities, &lt;b&gt;sources familiar with&lt;/b&gt; the matt
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://thehill.com/homenews/campaign/343755-clinton-book-to-double-down-on-russia-comey-message</id>
-  <updated>1970-01-18T09:02:54.830Z</updated>
+  <updated>1970-01-18T09:03:39.141Z</updated>
   <title type="html">Clinton book to double down on Russia, Comey message | TheHill</title>
   <link href="http://thehill.com/homenews/campaign/343755-clinton-book-to-double-down-on-russia-comey-message" title="thehill.com"/>
   <summary type="html">... book will double down on Russia&amp;#39;s interference and James Comey&amp;#39;s &lt;br&gt;
@@ -135,7 +135,7 @@ memoir.</summary>
    </cse:DataObject>
    <cse:DataObject type="Item">
     <cse:Attribute name="title" value="Clinton book to double down on Russia, Comey message"/>
-    <cse:Attribute name="encoded" value="Hillary ClintonHillary Rodham ClintonTrump: ‘Russia was against Trump in the 2016 election’ More than 100 conservatives sign letter supporting Sessions Sally Yates: Justice system &apos;may..."/>
+    <cse:Attribute name="encoded" value="Hillary ClintonHillary Rodham ClintonHatch: Trump’s Sessions attacks bad for presidency Timeline: Trump&apos;s relationship with Priebus Dems introduce act would authorize FBI Director to revoke..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="http://thehill.com/sites/default/files/clintonhillary_101916gn_lead.jpg"/>
@@ -149,7 +149,7 @@ memoir.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-spotify-warner-music-idUSKBN1A91BL</id>
-  <updated>1970-01-18T09:02:54.830Z</updated>
+  <updated>1970-01-18T09:03:39.141Z</updated>
   <title type="html">Exclusive: Spotify, Warner hope to clinch royalty deal by September ...</title>
   <link href="https://www.reuters.com/article/us-spotify-warner-music-idUSKBN1A91BL" title="www.reuters.com"/>
   <summary type="html">... with Warner Music Inc, the last big music royalty deal it needs before pushing &lt;br&gt;
@@ -222,7 +222,7 @@ ahead with a U.S. stock market listing, four &lt;b&gt;sources familiar with&lt;/
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-hna-group-pactera-idUSKBN1AA0X9</id>
-  <updated>1970-01-18T09:02:54.830Z</updated>
+  <updated>1970-01-18T09:03:39.141Z</updated>
   <title type="html">Brushing off bank worries, HNA taps Goldman for unit Pactera&amp;#39;s IPO ...</title>
   <link href="https://www.reuters.com/article/us-hna-group-pactera-idUSKBN1AA0X9" title="www.reuters.com"/>
   <summary type="html">... Goldman Sachs (GS.N) to list Pactera, the Beijing-based IT outsourcing firm it &lt;br&gt;
@@ -294,7 +294,7 @@ bought from private equity firm Blackstone, &lt;b&gt;sources familiar with&lt;/b
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-usa-trump-australia-refugees-idUSKBN1AA0NO</id>
-  <updated>1970-01-18T09:02:54.830Z</updated>
+  <updated>1970-01-18T09:03:39.141Z</updated>
   <title type="html">Exclusive: Australia to accept first Central American refugees under ...</title>
   <link href="https://www.reuters.com/article/us-usa-trump-australia-refugees-idUSKBN1AA0NO" title="www.reuters.com"/>
   <summary type="html">Australia will accept several dozen Central American refugees within the next few &lt;br&gt;
@@ -365,8 +365,80 @@ months, two &lt;b&gt;sources familiar with&lt;/b&gt; the process told Reuters, t
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX</id>
+  <updated>1970-01-18T09:03:39.141Z</updated>
+  <title type="html">UAE buys first U.S. oil cargo to replace Qatar condensate: sources</title>
+  <link href="https://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX" title="www.reuters.com"/>
+  <summary type="html">SINGAPORE (Reuters) - The United Arab Emirates will import the country&amp;#39;s first &lt;br&gt;
+oil cargo from the United States, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, as the&amp;nbsp;...</summary>
+  <cse:cacheId>Ht4U0AiYs50J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
+    <cse:Attribute name="dcsext.channellist" value="GCA-Commodities;energy-news;middle-east-full-coverage;oil;power;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="UAE+buys+first+U.S.+oil+cargo+to+replace+Qatar+condensate%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Florence Tan and Jessica Jaganathan"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
+    <cse:Attribute name="author" value="Florence Tan and Jessica Jaganathan"/>
+    <cse:Attribute name="news_keywords" value="Bahrain;Egypt;Indonesia;Qatar;Saudi Arabia;South Korea;United Arab Emirates;United States;US;EMIRATES;CRUDE;Asia (Energy);Energy Markets;Liquefied Natural Gas;Crude Oil;Energy (Legacy);Saudi Arabia;Qatar;Oil and Gas Refining and Marketing (TRBC);Asia / Pacific;Middle East;Marine Services (TRBC);United States;United Arab Emirates;Company News;Corporate Events;Oil and Gas (TRBC);Europe / Middle East / Africa (Energy);Natural Gas Liquids;Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Energy (TRBC);Natural Gas;Naphtha;US Crudes;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Jul 26 09:11:39 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Florence Tan and Jessica Jaganathan"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-26T09:11:39+0000"/>
+    <cse:Attribute name="sailthru.title" value="UAE buys first U.S. oil cargo to replace Qatar condensate: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="UAE buys first U.S. oil cargo to replace Qatar condensate: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The United Arab Emirates will import the country&apos;s first oil cargo from the United States, two sources familiar with the matter said, as the OPEC producer sought substitutes to replace Qatari condensate supplies after a diplomatic row."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-26T09:11:39+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-26T09:11:39+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Florence Tan and Jessica Jaganathan"/>
+    <cse:Attribute name="og:article:tag" value="Bahrain,Egypt,Indonesia,Qatar,Saudi Arabia,South Korea,United Arab Emirates,United States,US,EMIRATES,CRUDE,Asia (Energy),Energy Markets,Liquefied Natural Gas,Crude Oil,Energy (Legacy),Saudi Arabia,Qatar,Oil and Gas Refining and Marketing (TRBC),Asia / Pacific,Middle East,Marine Services (TRBC),United States,United Arab Emirates,Company News,Corporate Events,Oil and Gas (TRBC),Europe / Middle East / Africa (Energy),Natural Gas Liquids,Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Energy (TRBC),Natural Gas,Naphtha,US Crudes,Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="UAE buys first U.S. oil cargo to replace Qatar condensate: sources"/>
+    <cse:Attribute name="twitter:description" value="The United Arab Emirates will import the country&apos;s first oil cargo from the United States, two sources familiar with the matter said, as the OPEC producer sought substitutes to replace Qatari condensate supplies after a diplomatic row."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="287"/>
+    <cse:Attribute name="height" value="176"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRw2UpC9A4yejok4s7DOF6Df0cbKoWJlLFbIeaEDw1fEPhT6MG7jeH0_xk"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/charter-commns-ma-sprint-corp-idUSL1N1KJ260</id>
-  <updated>1970-01-18T09:02:54.830Z</updated>
+  <updated>1970-01-18T09:03:39.141Z</updated>
   <title type="html">Sprint seeks alternatives to a merger with T-Mobile: sources</title>
   <link href="https://www.reuters.com/article/charter-commns-ma-sprint-corp-idUSL1N1KJ260" title="www.reuters.com"/>
   <summary type="html">O) as the wireless carrier seeks an alternative to a deal with T-Mobile US Inc (&lt;br&gt;
@@ -438,80 +510,8 @@ the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX</id>
-  <updated>1970-01-18T09:02:54.830Z</updated>
-  <title type="html">UAE buys first U.S. oil cargo to replace Qatar condensate: sources</title>
-  <link href="https://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX" title="www.reuters.com"/>
-  <summary type="html">SINGAPORE (Reuters) - The United Arab Emirates will import the country&amp;#39;s first &lt;br&gt;
-oil cargo from the United States, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said, as the&amp;nbsp;...</summary>
-  <cse:cacheId>Ht4U0AiYs50J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="GCA-Commodities;energy-news;middle-east-full-coverage;oil;power;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="UAE+buys+first+U.S.+oil+cargo+to+replace+Qatar+condensate%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Florence Tan and Jessica Jaganathan"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-GCA-Commodities"/>
-    <cse:Attribute name="author" value="Florence Tan and Jessica Jaganathan"/>
-    <cse:Attribute name="news_keywords" value="Bahrain;Egypt;Indonesia;Qatar;Saudi Arabia;South Korea;United Arab Emirates;United States;US;EMIRATES;CRUDE;Asia (Energy);Energy Markets;Liquefied Natural Gas;Crude Oil;Energy (Legacy);Saudi Arabia;Qatar;Oil and Gas Refining and Marketing (TRBC);Asia / Pacific;Middle East;Marine Services (TRBC);United States;United Arab Emirates;Company News;Corporate Events;Oil and Gas (TRBC);Europe / Middle East / Africa (Energy);Natural Gas Liquids;Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Energy (TRBC);Natural Gas;Naphtha;US Crudes;Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Wed Jul 26 09:11:39 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Florence Tan and Jessica Jaganathan"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-26T09:11:39+0000"/>
-    <cse:Attribute name="sailthru.title" value="UAE buys first U.S. oil cargo to replace Qatar condensate: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="UAE buys first U.S. oil cargo to replace Qatar condensate: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-emirates-crude-idUSKBN1AB0HX"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The United Arab Emirates will import the country&apos;s first oil cargo from the United States, two sources familiar with the matter said, as the OPEC producer sought substitutes to replace Qatari condensate supplies after a diplomatic row."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-26T09:11:39+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-26T09:11:39+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Florence Tan and Jessica Jaganathan"/>
-    <cse:Attribute name="og:article:tag" value="Bahrain,Egypt,Indonesia,Qatar,Saudi Arabia,South Korea,United Arab Emirates,United States,US,EMIRATES,CRUDE,Asia (Energy),Energy Markets,Liquefied Natural Gas,Crude Oil,Energy (Legacy),Saudi Arabia,Qatar,Oil and Gas Refining and Marketing (TRBC),Asia / Pacific,Middle East,Marine Services (TRBC),United States,United Arab Emirates,Company News,Corporate Events,Oil and Gas (TRBC),Europe / Middle East / Africa (Energy),Natural Gas Liquids,Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Energy (TRBC),Natural Gas,Naphtha,US Crudes,Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="UAE buys first U.S. oil cargo to replace Qatar condensate: sources"/>
-    <cse:Attribute name="twitter:description" value="The United Arab Emirates will import the country&apos;s first oil cargo from the United States, two sources familiar with the matter said, as the OPEC producer sought substitutes to replace Qatari condensate supplies after a diplomatic row."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170726&amp;t=2&amp;i=1194443373&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6P0BM"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="287"/>
-    <cse:Attribute name="height" value="176"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRw2UpC9A4yejok4s7DOF6Df0cbKoWJlLFbIeaEDw1fEPhT6MG7jeH0_xk"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-hightimes-ipo-exclusive-idUSKBN1AC1G8</id>
-  <updated>1970-01-18T09:02:54.830Z</updated>
+  <updated>1970-01-18T09:03:39.141Z</updated>
   <title type="html">Exclusive: &amp;#39;High Times&amp;#39; ready to roll with public offering - sources</title>
   <link href="http://www.reuters.com/article/us-hightimes-ipo-exclusive-idUSKBN1AC1G8" title="www.reuters.com"/>
   <summary type="html">The publisher of iconic marijuana enthusiast magazine, &amp;quot;High Times,&amp;quot; plans to &lt;br&gt;
@@ -583,7 +583,7 @@ take the company public in the fall, two &lt;b&gt;sources familiar with&lt;/b&gt
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-telecomitalia-ceo-idUSKBN1A91DK?il=0</id>
-  <updated>1970-01-18T09:02:54.830Z</updated>
+  <updated>1970-01-18T09:03:39.141Z</updated>
   <title type="html">Telecom Italia puts broadband plan for rural areas on hold: sources</title>
   <link href="http://www.reuters.com/article/us-telecomitalia-ceo-idUSKBN1A91DK?il=0" title="www.reuters.com"/>
   <summary type="html">MILAN (Reuters) - Telecom Italia has put a plan to roll out ultrafast broadband in &lt;br&gt;
@@ -656,7 +656,7 @@ rural areas of Italy on hold, two &lt;b&gt;sources familiar with&lt;/b&gt; the m
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-scripps-net-int-viacom-m-a-idUSKBN1AA2XW</id>
-  <updated>1970-01-18T09:02:54.830Z</updated>
+  <updated>1970-01-18T09:03:39.141Z</updated>
   <title type="html">Exclusive: Viacom willing to make an all-cash deal to buy Scripps ...</title>
   <link href="http://www.reuters.com/article/us-scripps-net-int-viacom-m-a-idUSKBN1AA2XW" title="www.reuters.com"/>
   <summary type="html">Viacom Inc has informed Scripps Networks Interactive it is willing to pay all cash &lt;br&gt;
