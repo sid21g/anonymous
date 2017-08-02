@@ -1,19 +1,648 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "comment off the record"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="comment off the record"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-18T09:07:11.414Z</updated>
+ <title>Google Custom Search - "sources familiar with"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-18T09:07:53.256Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;comment off the record&quot;" totalResults="0" searchTerms="&quot;comment off the record&quot;" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12300" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12300" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>12300</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.275549</cse:searchTime>
-  <cse:formattedSearchTime>0.28</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.300181</cse:searchTime>
+  <cse:formattedSearchTime>0.30</cse:formattedSearchTime>
+  <cse:totalResults>12300</cse:totalResults>
+  <cse:formattedTotalResults>12,300</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN1AC2GM</id>
+  <updated>1970-01-18T09:07:53.256Z</updated>
+  <title type="html">Exclusive: Saudi Aramco advisers favor London for historic IPO ...</title>
+  <link href="https://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN1AC2GM" title="www.reuters.com"/>
+  <summary type="html">... London for the historic listing of the oil company, with U.S. disclosure rules a &lt;br&gt;
+concern for Saudi authorities, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
+  <cse:cacheId>gbvG_9v5PZ4J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-saudi-aramco-ipo-london-exclusive- idUSKBN1AC2GM</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;businessNews;GCA-Commodities;china;middle-east;bank-news;digital-future;energy-news;middle-east-full-coverage;power;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Saudi+Aramco+advisers+favor+London+for+historic+IPO+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Saeed Azhar, Hadeel Al Sayegh and Pamela Barbaglia"/>
+    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Saeed Azhar, Hadeel Al Sayegh and Pamela Barbaglia"/>
+    <cse:Attribute name="news_keywords" value="China;Oman;Saudi Arabia;Singapore;United States;Jay Clayton;Mohammad bin Salman;US;SAUDI;ARAMCO;IPO;LONDON;EXCLUSIVE;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Energy Markets;Hong Kong;Mergers / Acquisitions / Takeovers;Western Europe;Energy (Legacy);Exclusive;Initial Public Offerings;Picture available;Equity Financing;Saudi Arabia;Qatar;Asia / Pacific;Major News;Government Borrowing Requirement;Middle East;United Kingdom;Pictures;United States;Wealth Management;Banks (TRBC);United Arab Emirates;Funds;Company News;Financials (TRBC);Financials (Legacy);Middle East (Energy);Corporate Events;Financial and Commodity Market Operators (TRBC);Integrated Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Europe;Regulation;Sovereign Wealth Funds;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Thu Jul 27 15:44:46 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Saeed Azhar, Hadeel Al Sayegh and Pamela Barbaglia"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-27T15:44:46+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Saudi Aramco advisers favor London for historic IPO - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Saudi Aramco advisers favor London for historic IPO - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN1AC2GM"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Saudi Aramco&apos;s advisers have recommended London for the historic listing of the oil company, with U.S. disclosure rules a concern for Saudi authorities, sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194717747&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q1L6"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-27T15:44:46+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-27T15:44:46+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Saeed Azhar, Hadeel Al Sayegh and Pamela Barbaglia"/>
+    <cse:Attribute name="og:article:tag" value="China,Oman,Saudi Arabia,Singapore,United States,Jay Clayton,Mohammad bin Salman,US,SAUDI,ARAMCO,IPO,LONDON,EXCLUSIVE,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Energy Markets,Hong Kong,Mergers / Acquisitions / Takeovers,Western Europe,Energy (Legacy),Exclusive,Initial Public Offerings,Picture available,Equity Financing,Saudi Arabia,Qatar,Asia / Pacific,Major News,Government Borrowing Requirement,Middle East,United Kingdom,Pictures,United States,Wealth Management,Banks (TRBC),United Arab Emirates,Funds,Company News,Financials (TRBC),Financials (Legacy),Middle East (Energy),Corporate Events,Financial and Commodity Market Operators (TRBC),Integrated Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Europe,Regulation,Sovereign Wealth Funds,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Saudi Aramco advisers favor London for historic IPO - sources"/>
+    <cse:Attribute name="twitter:description" value="Saudi Aramco&apos;s advisers have recommended London for the historic listing of the oil company, with U.S. disclosure rules a concern for Saudi authorities, sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194717747&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q1L6"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194717747&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q1L6"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194717747&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q1L6"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCewU6qbNuspquLSUUnG7ZkSPPJTv2wJ5e4p-ZJOmHSGitWO1PU4sTU4U"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-hightimes-ipo-exclusive-idUSKBN1AC1G8</id>
+  <updated>1970-01-18T09:07:53.256Z</updated>
+  <title type="html">Exclusive: &amp;#39;High Times&amp;#39; ready to roll with public offering - sources ...</title>
+  <link href="http://www.reuters.com/article/us-hightimes-ipo-exclusive-idUSKBN1AC1G8" title="www.reuters.com"/>
+  <summary type="html">(Reuters) - The publisher of iconic marijuana enthusiast magazine, &amp;quot;High Times,&amp;quot; &lt;br&gt;
+plans to take the company public in the fall, two &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>HDhqWVDR3JUJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-hightimes-ipo-exclusive-idUSKBN1AC1G8</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="media-industry;innovationNews;businessNews;digital-future;US-The-Wire;USWire_EL"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+%27High+Times%27+ready+to+roll+with+public+offering+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Jessica Toonkel"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Jessica Toonkel"/>
+    <cse:Attribute name="news_keywords" value="United States;Troy Dayton;US;HIGHTIMES;IPO;EXCLUSIVE;Mergers / Acquisitions / Takeovers;Exclusive;Initial Public Offerings;Picture available;Media and Publishing (TRBC);Corporate Events;Video;Publishing (TRBC);Major News;Technology / Media / Telecoms;Pictures;Media / Publishing (Legacy);United States"/>
+    <cse:Attribute name="revision_date" value="Thu Jul 27 10:06:20 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Jessica Toonkel"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-27T10:06:20+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: &apos;High Times&apos; ready to roll with public offering - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: &apos;High Times&apos; ready to roll with public offering - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-hightimes-ipo-exclusive-idUSKBN1AC1G8"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The publisher of iconic marijuana enthusiast magazine, &quot;High Times,&quot; plans to take the company public in the fall, two sources familiar with the situation told Reuters this week, as an increasing number of U.S. states legalize the drug."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194657817&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q0PM"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-27T10:06:20+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-27T10:06:20+0000"/>
+    <cse:Attribute name="og:article:section" value="Subjects"/>
+    <cse:Attribute name="og:article:author" value="Jessica Toonkel"/>
+    <cse:Attribute name="og:article:tag" value="United States,Troy Dayton,US,HIGHTIMES,IPO,EXCLUSIVE,Mergers / Acquisitions / Takeovers,Exclusive,Initial Public Offerings,Picture available,Media and Publishing (TRBC),Corporate Events,Video,Publishing (TRBC),Major News,Technology / Media / Telecoms,Pictures,Media / Publishing (Legacy),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: &apos;High Times&apos; ready to roll with public offering - sources"/>
+    <cse:Attribute name="twitter:description" value="The publisher of iconic marijuana enthusiast magazine, &quot;High Times,&quot; plans to take the company public in the fall, two sources familiar with the situation told Reuters this week, as an increasing number of U.S. states legalize the drug."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194657817&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q0PM"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194657817&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q0PM"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/media/article"/>
+    <cse:Attribute name="wt.cg_n" value="Subjects"/>
+    <cse:Attribute name="wt.cg_s" value="Media Industry"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194657817&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q0PM"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShpw7VJvY1f1_XLlD_ZqhxCJrKZry8PZy243tL9KXssztqdAxA5X_Xx02k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/2017/07/31/politics/kelly-comey-phone-call-angry/index.html</id>
+  <updated>1970-01-18T09:07:53.256Z</updated>
+  <title type="html">Kelly called Comey to express anger over firing, sources say ...</title>
+  <link href="http://www.cnn.com/2017/07/31/politics/kelly-comey-phone-call-angry/index.html" title="www.cnn.com"/>
+  <summary type="html">... that Kelly called Comey afterward and said he was considering resigning, &lt;br&gt;
+according to two &lt;b&gt;sources familiar with&lt;/b&gt; a conversation between Kelly and Comey.</summary>
+  <cse:cacheId>taRYzOSzzywJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/2017/07/31/politics/kelly-comey.../index.html</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="politics"/>
+    <cse:Attribute name="og:pubdate" value="2017-07-31T18:31:30Z"/>
+    <cse:Attribute name="pubdate" value="2017-07-31T18:31:30Z"/>
+    <cse:Attribute name="lastmod" value="2017-08-01T13:52:57Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/2017/07/31/politics/kelly-comey-phone-call-angry/index.html"/>
+    <cse:Attribute name="author" value="Shimon Prokupecz and Pamela Brown, CNN"/>
+    <cse:Attribute name="og:title" value="EXCLUSIVE: Kelly called Comey to express anger over firing, sources say"/>
+    <cse:Attribute name="twitter:title" value="EXCLUSIVE: Kelly called Comey to express anger over firing, sources say"/>
+    <cse:Attribute name="og:description" value="New White House chief of staff John Kelly was so upset with how President Donald Trump handled the firing of FBI Director James Comey that Kelly called Comey afterward and said he was considering resigning, according to two sources familiar with a conversation between Kelly and Comey."/>
+    <cse:Attribute name="twitter:description" value="New White House chief of staff John Kelly was so upset with how President Donald Trump handled the firing of FBI Director James Comey that Kelly called Comey afterward and said he was considering resigning, according to two sources familiar with a conversation between Kelly and Comey."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170731122716-02-john-kelly-donald-trump-07-31-2017-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="1100"/>
+    <cse:Attribute name="og:image:height" value="619"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170731122716-02-john-kelly-donald-trump-07-31-2017-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170731122716-02-john-kelly-donald-trump-07-31-2017-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/2017/07/31/politics/kelly-comey-phone-call-angry/index.html"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="politics,art-vid-vls-col,col-gen.-john-kelly"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlesection" value="politics"/>
+    <cse:Attribute name="datecreated" value="2017-07-31T18:31:30Z"/>
+    <cse:Attribute name="datepublished" value="2017-07-31T18:31:30Z"/>
+    <cse:Attribute name="datemodified" value="2017-08-01T13:52:57Z"/>
+    <cse:Attribute name="url" value="http://www.cnn.com/2017/07/31/politics/kelly-comey-phone-call-angry/index.html"/>
+    <cse:Attribute name="author" value="Shimon Prokupecz and Pamela Brown, CNN"/>
+    <cse:Attribute name="headline" value="Kelly called Comey to express anger over firing, sources say - CNNPolitics.com"/>
+    <cse:Attribute name="description" value="New White House chief of staff John Kelly was so upset with how President Donald Trump handled the firing of FBI Director James Comey that Kelly called Comey afterward and said he was considering..."/>
+    <cse:Attribute name="keywords" value="politics, Kelly called Comey to express anger over firing, sources say - CNNPolitics.com"/>
+    <cse:Attribute name="image" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170731122716-02-john-kelly-donald-trump-07-31-2017-super-tease.jpg"/>
+    <cse:Attribute name="thumbnailurl" value="//i2.cdn.cnn.com/cnnnext/dam/assets/170731122716-02-john-kelly-donald-trump-07-31-2017-super-tease.jpg"/>
+    <cse:Attribute name="alternativeheadline" value="EXCLUSIVE: Kelly called Comey to express anger over firing, sources say"/>
+    <cse:Attribute name="articlebody" value="Washington (CNN)New White House chief of staff John Kelly was so upset with how President Donald Trump handled the firing of FBI Director James Comey that Kelly called Comey afterward and said..."/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170731122716-02-john-kelly-donald-trump-07-31-2017-super-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170731122716-02-john-kelly-donald-trump-07-31-2017-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/charter-commns-ma-sprint-corp-idUSL1N1KJ260</id>
+  <updated>1970-01-18T09:07:53.256Z</updated>
+  <title type="html">Sprint seeks alternatives to a merger with T-Mobile: sources</title>
+  <link href="https://www.reuters.com/article/charter-commns-ma-sprint-corp-idUSL1N1KJ260" title="www.reuters.com"/>
+  <summary type="html">O) as the wireless carrier seeks an alternative to a deal with T-Mobile US Inc (&lt;br&gt;
+TMUS.O) that has so far not come to fruition, according to &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
+the&amp;nbsp;...</summary>
+  <cse:cacheId>Qid2KdmugVEJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../charter-commns-ma-sprint-corp-idUSL1N1KJ260</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="media-industry;innovationNews;businessNews;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Sprint+seeks+alternatives+to+a+merger+with+T-Mobile%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Anjali Athavaley and Liana B. Baker"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Anjali Athavaley and Liana B. Baker"/>
+    <cse:Attribute name="news_keywords" value="Japan;United States;Japan;United States;John C. Malone;Masayoshi Son;Warren E. Buffett;US;CHARTER;COMMNS;M;A;SPRINT;CORP;Germany;Mergers / Acquisitions / Takeovers;Company News;Japan;Diversified Trading and Distributing (TRBC);Western Europe;Content produced in Bangalore;Telecommunications Services (TRBC);Media and Publishing (TRBC);Corporate Events;Technology (TRBC);Integrated Telecommunications Services (TRBC);Asia / Pacific;Equities Markets;Europe;Regulation;Technology Equipment (TRBC);Media / Publishing (Legacy);Broadcasting (TRBC);United States"/>
+    <cse:Attribute name="revision_date" value="Sat Jul 29 01:58:48 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Anjali Athavaley and Liana B. Baker"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-29T01:58:48+0000"/>
+    <cse:Attribute name="sailthru.title" value="Sprint seeks alternatives to a merger with T-Mobile: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Sprint seeks alternatives to a merger with T-Mobile: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-charter-commns-m-a-sprint-corp-idUSKBN1AD2SR"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Sprint Corp (S.N) has proposed a merger with Charter Communications Inc (CHTR.O) as the wireless carrier seeks an alternative to a deal with T-Mobile US Inc (TMUS.O) that has so far not come to fruition, according to sources familiar with the matter."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170729&amp;t=2&amp;i=1194943512&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6R1SW"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-29T01:58:48+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-29T01:58:48+0000"/>
+    <cse:Attribute name="og:article:section" value="Subjects"/>
+    <cse:Attribute name="og:article:author" value="Anjali Athavaley and Liana B. Baker"/>
+    <cse:Attribute name="og:article:tag" value="Japan,United States,Japan,United States,John C. Malone,Masayoshi Son,Warren E. Buffett,US,CHARTER,COMMNS,M,A,SPRINT,CORP,Germany,Mergers / Acquisitions / Takeovers,Company News,Japan,Diversified Trading and Distributing (TRBC),Western Europe,Content produced in Bangalore,Telecommunications Services (TRBC),Media and Publishing (TRBC),Corporate Events,Technology (TRBC),Integrated Telecommunications Services (TRBC),Asia / Pacific,Equities Markets,Europe,Regulation,Technology Equipment (TRBC),Media / Publishing (Legacy),Broadcasting (TRBC),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Sprint seeks alternatives to a merger with T-Mobile: sources"/>
+    <cse:Attribute name="twitter:description" value="Sprint Corp (S.N) has proposed a merger with Charter Communications Inc (CHTR.O) as the wireless carrier seeks an alternative to a deal with T-Mobile US Inc (TMUS.O) that has so far not come to fruition, according to sources familiar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170729&amp;t=2&amp;i=1194943512&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6R1SW"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170729&amp;t=2&amp;i=1194943512&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6R1SW"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/media/article"/>
+    <cse:Attribute name="wt.cg_n" value="Subjects"/>
+    <cse:Attribute name="wt.cg_s" value="Media Industry"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170729&amp;t=2&amp;i=1194943512&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6R1SW"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="270"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTG5Vkc6d1qTQEyTT_KrDMLKTgJ7QQRHS2EluhdfiwkYALT8Za2g1a7voQ"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/oman-bond-idUSL5N1KO2E0</id>
+  <updated>1970-01-18T09:07:53.256Z</updated>
+  <title type="html">Oman in talks with banks about loan and bond - sources</title>
+  <link href="http://www.reuters.com/article/oman-bond-idUSL5N1KO2E0" title="www.reuters.com"/>
+  <summary type="html">... about raising more funds through a loan and bonds as thesultanate seeks to &lt;br&gt;
+replenish budget coffers hit hard by low oilprices, &lt;b&gt;sources familiar with&lt;/b&gt; the matter&lt;br&gt;
+&amp;nbsp;...</summary>
+  <cse:cacheId>EPYezBmDqsgJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/oman-bond-idUSL5N1KO2E0</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Oman+in+talks+with+banks+about+loan+and+bond+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Oman;OMAN;BOND/;Investment Banking and Investment Services (TRBC);Islamic Finance;Credit and Corporate Debt;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Oman;Loans;Government Finances;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Government / Politics;Corporate Events;Economic Events;General News;Investment Banking and Brokerage Services (TRBC);National Government Debt;Market Events;Banking and Investment Services (TRBC);Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Aug 02 09:47:03 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-02T09:47:03+0000"/>
+    <cse:Attribute name="sailthru.title" value="Oman in talks with banks about loan and bond - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Oman in talks with banks about loan and bond - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/oman-bond-idUSL5N1KO2E0"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Oman is talking to internationalbanks about raising more funds through a loan and bonds as thesultanate seeks to replenish budget coffers hit hard by low oilprices, sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-02T09:47:03+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-02T09:47:03+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Oman,OMAN,BOND/,Investment Banking and Investment Services (TRBC),Islamic Finance,Credit and Corporate Debt,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Oman,Loans,Government Finances,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Government / Politics,Corporate Events,Economic Events,General News,Investment Banking and Brokerage Services (TRBC),National Government Debt,Market Events,Banking and Investment Services (TRBC),Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Oman in talks with banks about loan and bond - sources"/>
+    <cse:Attribute name="twitter:description" value="Oman is talking to internationalbanks about raising more funds through a loan and bonds as thesultanate seeks to replenish budget coffers hit hard by low oilprices, sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/sectors/financials/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Industries"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/senaat-sukuk-idUSL5N1KN2J6</id>
+  <updated>1970-01-18T09:07:53.256Z</updated>
+  <title type="html">Abu Dhabi&amp;#39;s Senaat asks proposals for dollar sukuk - sources</title>
+  <link href="http://www.reuters.com/article/senaat-sukuk-idUSL5N1KN2J6" title="www.reuters.com"/>
+  <summary type="html">... industrial sector, has asked banks forproposals to arrange a U.S. dollar &lt;br&gt;
+denominated sukuk, or Islamicbond, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on &lt;br&gt;
+Tuesday.</summary>
+  <cse:cacheId>d3nkHWhuOA8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/senaat-sukuk-idUSL5N1KN2J6</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="audib2b;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Abu+Dhabi%27s+Senaat+asks+proposals+for+dollar+sukuk+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="United Arab Emirates;SENAAT;SUKUK/;Investment Banking and Investment Services (TRBC);Islamic Finance;Western Europe;Credit and Corporate Debt;Corporate Debt;Asia / Pacific;Industrials (TRBC);Debt / Fixed Income Markets;Middle East;Nordic States;United Arab Emirates;Company News;Government Finances;Financials (TRBC);Sukuk;Financials (Legacy);Iceland;New Issues;Government / Politics;Corporate Events;Economic Events;General News;Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Europe;Industrial Conglomerates (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Tue Aug 01 10:17:09 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-01T10:17:09+0000"/>
+    <cse:Attribute name="sailthru.title" value="Abu Dhabi&apos;s Senaat asks proposals for dollar sukuk - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Abu Dhabi&apos;s Senaat asks proposals for dollar sukuk - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/senaat-sukuk-idUSL5N1KN2J6"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Abu Dhabi&apos;s Senaat, a state-ownedinvestor in the emirate&apos;s industrial sector, has asked banks forproposals to arrange a U.S. dollar denominated sukuk, or Islamicbond, sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-01T10:17:09+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-01T10:17:09+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="United Arab Emirates,SENAAT,SUKUK/,Investment Banking and Investment Services (TRBC),Islamic Finance,Western Europe,Credit and Corporate Debt,Corporate Debt,Asia / Pacific,Industrials (TRBC),Debt / Fixed Income Markets,Middle East,Nordic States,United Arab Emirates,Company News,Government Finances,Financials (TRBC),Sukuk,Financials (Legacy),Iceland,New Issues,Government / Politics,Corporate Events,Economic Events,General News,Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Europe,Industrial Conglomerates (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Abu Dhabi&apos;s Senaat asks proposals for dollar sukuk - sources"/>
+    <cse:Attribute name="twitter:description" value="Abu Dhabi&apos;s Senaat, a state-ownedinvestor in the emirate&apos;s industrial sector, has asked banks forproposals to arrange a U.S. dollar denominated sukuk, or Islamicbond, sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/journalists/davide-barbuscia</id>
+  <updated>1970-01-18T09:07:53.256Z</updated>
+  <title type="html">Davide Barbuscia</title>
+  <link href="https://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
+  <summary type="html">... National Oil Company (ADNOC) has picked an initial group of banks to &lt;br&gt;
+arrange a planned syndicated loan of up to $5 billion, banking &lt;b&gt;sources familiar&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>KPhuxi5T3iMJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/davide-barbuscia"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-ford-motor-ceo-idUSKBN1AG120</id>
+  <updated>1970-01-18T09:07:53.256Z</updated>
+  <title type="html">Ford CEO Hackett reviewing future products, plants, countries: sources</title>
+  <link href="https://www.reuters.com/article/us-ford-motor-ceo-idUSKBN1AG120" title="www.reuters.com"/>
+  <summary type="html">... product programs including plans to build a self-driving commercial vehicle in &lt;br&gt;
+2021, according to company officials and other &lt;b&gt;sources familiar with&lt;/b&gt; that review.</summary>
+  <cse:cacheId>a7W3s1-MI7kJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/us-ford-motor-ceo-idUSKBN1AG120</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="autos"/>
+    <cse:Attribute name="dcsext.channellist" value="reinvent-the-way-you-work;autos;autos-news;ousivMolt;businessNews;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Ford+CEO+Hackett+reviewing+future+products%2C+plants%2C+countries%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Paul Lienert and Joseph White"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-autos"/>
+    <cse:Attribute name="author" value="Paul Lienert and Joseph White"/>
+    <cse:Attribute name="news_keywords" value="China;India;Mexico;Jim Hackett;Lincoln Continental;Mark F. Fields;Robert L. Shanks;US;FORD;MOTOR;CEO;Automobiles / Auto Parts (Legacy);Americas;Company News;India;Auto and Truck Manufacturers (TRBC);South America / Central America;Western Europe;International Trade;Mexico;Corporate Events;Economic Events;Automobiles and Auto Parts (TRBC);Asia / Pacific;Deals;Emerging Market Countries;Industrial Machinery / Equipment (Legacy);United States"/>
+    <cse:Attribute name="revision_date" value="Mon Jul 31 10:08:58 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Paul Lienert and Joseph White"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-31T10:08:58+0000"/>
+    <cse:Attribute name="sailthru.title" value="Ford CEO Hackett reviewing future products, plants, countries: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Ford CEO Hackett reviewing future products, plants, countries: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-ford-motor-ceo-idUSKBN1AG120"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Ford Motor Co Chief Executive Jim Hackett is reviewing the automaker&apos;s operations in India and other markets, as well as Ford&apos;s future product programs including plans to build a self-driving commercial vehicle in 2021, according to company officials and other sources familiar with that review."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170731&amp;t=2&amp;i=1195140906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6U0LO"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-31T10:08:58+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-31T10:08:58+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Paul Lienert and Joseph White"/>
+    <cse:Attribute name="og:article:tag" value="China,India,Mexico,Jim Hackett,Lincoln Continental,Mark F. Fields,Robert L. Shanks,US,FORD,MOTOR,CEO,Automobiles / Auto Parts (Legacy),Americas,Company News,India,Auto and Truck Manufacturers (TRBC),South America / Central America,Western Europe,International Trade,Mexico,Corporate Events,Economic Events,Automobiles and Auto Parts (TRBC),Asia / Pacific,Deals,Emerging Market Countries,Industrial Machinery / Equipment (Legacy),United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Ford CEO Hackett reviewing future products, plants, countries: sources"/>
+    <cse:Attribute name="twitter:description" value="Ford Motor Co Chief Executive Jim Hackett is reviewing the automaker&apos;s operations in India and other markets, as well as Ford&apos;s future product programs including plans to build a self-driving commercial vehicle in 2021, according to company officials and other sources familiar with that review."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170731&amp;t=2&amp;i=1195140906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6U0LO"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170731&amp;t=2&amp;i=1195140906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6U0LO"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170731&amp;t=2&amp;i=1195140906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6U0LO"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="262"/>
+    <cse:Attribute name="height" value="192"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzp8RfVlYon-x2dyKOutuVIlE7y_hPxWxxSzn3OEbW4SYNpOd675gCFZQ"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/journalists/kane-wu</id>
+  <updated>1970-01-18T09:07:53.256Z</updated>
+  <title type="html">Kane Wu</title>
+  <link href="https://www.reuters.com/journalists/kane-wu" title="www.reuters.com"/>
+  <summary type="html">... bank Goldman Sachs to list Pactera, the Beijing-based IT outsourcing firm it &lt;br&gt;
+bought from private equity firm Blackstone, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
+  <cse:cacheId>_RBbHn0oG50J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/journalists/kane-wu</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/kane-wu"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/journalists/andrew-berlin</id>
+  <updated>1970-01-18T09:07:53.256Z</updated>
+  <title type="html">Andrew Berlin</title>
+  <link href="https://www.reuters.com/journalists/andrew-berlin" title="www.reuters.com"/>
+  <summary type="html">... financing for its leveraged buyout of U.S. vitamin and nutritional supplement &lt;br&gt;
+maker Nature&amp;#39;s Bounty Co, according to three &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>NzlkX-Uhya0J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/journalists/andrew-berlin</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/andrew-berlin"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
 </feed>
