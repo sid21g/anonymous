@@ -5,97 +5,98 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T09:09:21.093Z</updated>
+ <updated>1970-01-18T09:10:48.454Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="11100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>11100</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="15500" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>15500</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.301675</cse:searchTime>
+  <cse:searchTime>0.300154</cse:searchTime>
   <cse:formattedSearchTime>0.30</cse:formattedSearchTime>
-  <cse:totalResults>11100</cse:totalResults>
-  <cse:formattedTotalResults>11,100</cse:formattedTotalResults>
+  <cse:totalResults>15500</cse:totalResults>
+  <cse:formattedTotalResults>15,500</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN1AC2GM</id>
-  <updated>1970-01-18T09:09:21.093Z</updated>
-  <title type="html">Exclusive: Saudi Aramco advisers favor London for historic IPO ...</title>
-  <link href="https://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN1AC2GM" title="www.reuters.com"/>
-  <summary type="html">... London for the historic listing of the oil company, with U.S. disclosure rules a &lt;br&gt;
-concern for Saudi authorities, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
-  <cse:cacheId>gbvG_9v5PZ4J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-saudi-aramco-ipo-london-exclusive- idUSKBN1AC2GM</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-goldman-sachs-aramco-idUSKBN1AJ213</id>
+  <updated>1970-01-18T09:10:48.454Z</updated>
+  <title type="html">Exclusive: Goldman Sachs buys into Aramco $10 billion loan as it ...</title>
+  <link href="https://www.reuters.com/article/us-goldman-sachs-aramco-idUSKBN1AJ213" title="www.reuters.com"/>
+  <summary type="html">... of Saudi Aramco&amp;#39;s IPO-ARMO.SE $10 billion credit facility as it seeks a role in &lt;br&gt;
+the historic listing of the oil company, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters&lt;br&gt;
+.</summary>
+  <cse:cacheId>lXJc4wcth6wJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-goldman-sachs-aramco-idUSKBN1AJ213</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;businessNews;GCA-Commodities;china;middle-east;bank-news;digital-future;energy-news;middle-east-full-coverage;power;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Saudi+Aramco+advisers+favor+London+for+historic+IPO+-+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="banks"/>
+    <cse:Attribute name="dcsext.channellist" value="RCOM-energy-pack-all;banks;innovationNews;businessNews;GCA-Commodities;middle-east;bank-news;middle-east-full-coverage;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Exclusive%3A+Goldman+Sachs+buys+into+Aramco+%2410+billion+loan+as+it+seeks+IPO+role+-+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Saeed Azhar, Hadeel Al Sayegh and Pamela Barbaglia"/>
-    <cse:Attribute name="wt.z_inlinetype" value="Slideshow"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
-    <cse:Attribute name="author" value="Saeed Azhar, Hadeel Al Sayegh and Pamela Barbaglia"/>
-    <cse:Attribute name="news_keywords" value="China;Oman;Saudi Arabia;Singapore;United States;Jay Clayton;Mohammad bin Salman;US;SAUDI;ARAMCO;IPO;LONDON;EXCLUSIVE;Investment Banking and Investment Services (TRBC);Security Listings / Delistings;Energy Markets;Hong Kong;Mergers / Acquisitions / Takeovers;Western Europe;Energy (Legacy);Exclusive;Initial Public Offerings;Picture available;Equity Financing;Saudi Arabia;Qatar;Asia / Pacific;Major News;Government Borrowing Requirement;Middle East;United Kingdom;Pictures;United States;Wealth Management;Banks (TRBC);United Arab Emirates;Funds;Company News;Financials (TRBC);Financials (Legacy);Middle East (Energy);Corporate Events;Financial and Commodity Market Operators (TRBC);Integrated Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Europe;Regulation;Sovereign Wealth Funds;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Thu Jul 27 15:44:46 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Saeed Azhar, Hadeel Al Sayegh and Pamela Barbaglia"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-27T15:44:46+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: Saudi Aramco advisers favor London for historic IPO - sources"/>
+    <cse:Attribute name="dcsext.rauthor" value="Tom Arnold, Davide Barbuscia and Saeed Azhar"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-banks"/>
+    <cse:Attribute name="author" value="Tom Arnold, Davide Barbuscia and Saeed Azhar"/>
+    <cse:Attribute name="news_keywords" value="Australia;Saudi Arabia;US;GOLDMAN;SACHS;ARAMCO;Security Listings / Delistings;Exclusive;Initial Public Offerings;Equity Financing;Saudi Arabia;Corporate Debt;Asia / Pacific;Major News;Middle East;United States;Banking Services (TRBC);Banks (TRBC);Funds;Company News;New Issues;Corporate Events;Integrated Oil and Gas (TRBC);Investment Banking and Brokerage Services (TRBC);Australia;Banking and Investment Services (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Thu Aug 03 14:21:37 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Tom Arnold, Davide Barbuscia and Saeed Azhar"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-03T14:21:37+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Goldman Sachs buys into Aramco $10 billion loan as it seeks IPO role - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: Saudi Aramco advisers favor London for historic IPO - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-saudi-aramco-ipo-london-exclusive-idUSKBN1AC2GM"/>
+    <cse:Attribute name="og:title" value="Exclusive: Goldman Sachs buys into Aramco $10 billion loan as it seeks IPO role - sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-goldman-sachs-aramco-idUSKBN1AJ213"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Saudi Aramco&apos;s advisers have recommended London for the historic listing of the oil company, with U.S. disclosure rules a concern for Saudi authorities, sources familiar with the matter told Reuters."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194717747&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q1L6"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-27T15:44:46+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-27T15:44:46+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Saeed Azhar, Hadeel Al Sayegh and Pamela Barbaglia"/>
-    <cse:Attribute name="og:article:tag" value="China,Oman,Saudi Arabia,Singapore,United States,Jay Clayton,Mohammad bin Salman,US,SAUDI,ARAMCO,IPO,LONDON,EXCLUSIVE,Investment Banking and Investment Services (TRBC),Security Listings / Delistings,Energy Markets,Hong Kong,Mergers / Acquisitions / Takeovers,Western Europe,Energy (Legacy),Exclusive,Initial Public Offerings,Picture available,Equity Financing,Saudi Arabia,Qatar,Asia / Pacific,Major News,Government Borrowing Requirement,Middle East,United Kingdom,Pictures,United States,Wealth Management,Banks (TRBC),United Arab Emirates,Funds,Company News,Financials (TRBC),Financials (Legacy),Middle East (Energy),Corporate Events,Financial and Commodity Market Operators (TRBC),Integrated Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Europe,Regulation,Sovereign Wealth Funds,Banking Services (Legacy)"/>
+    <cse:Attribute name="og:description" value="Goldman Sachs (GS.N) has bought a slice of Saudi Aramco&apos;s IPO-ARMO.SE $10 billion credit facility as it seeks a role in the historic listing of the oil company, sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195644849&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED721B9"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-03T14:21:37+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-03T14:21:37+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Tom Arnold, Davide Barbuscia and Saeed Azhar"/>
+    <cse:Attribute name="og:article:tag" value="Australia,Saudi Arabia,US,GOLDMAN,SACHS,ARAMCO,Security Listings / Delistings,Exclusive,Initial Public Offerings,Equity Financing,Saudi Arabia,Corporate Debt,Asia / Pacific,Major News,Middle East,United States,Banking Services (TRBC),Banks (TRBC),Funds,Company News,New Issues,Corporate Events,Integrated Oil and Gas (TRBC),Investment Banking and Brokerage Services (TRBC),Australia,Banking and Investment Services (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: Saudi Aramco advisers favor London for historic IPO - sources"/>
-    <cse:Attribute name="twitter:description" value="Saudi Aramco&apos;s advisers have recommended London for the historic listing of the oil company, with U.S. disclosure rules a concern for Saudi authorities, sources familiar with the matter told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194717747&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q1L6"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194717747&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q1L6"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Goldman Sachs buys into Aramco $10 billion loan as it seeks IPO role - sources"/>
+    <cse:Attribute name="twitter:description" value="Goldman Sachs (GS.N) has bought a slice of Saudi Aramco&apos;s IPO-ARMO.SE $10 billion credit facility as it seeks a role in the historic listing of the oil company, sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195644849&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED721B9"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195644849&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED721B9"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="wt.cg_n" value="Business"/>
-    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
     <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
     <cse:Attribute name="msapplication-config" value="none"/>
     <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170727&amp;t=2&amp;i=1194717747&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6Q1L6"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195644849&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED721B9"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCewU6qbNuspquLSUUnG7ZkSPPJTv2wJ5e4p-ZJOmHSGitWO1PU4sTU4U"/>
+    <cse:Attribute name="width" value="270"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsbh1nrKqupHnQfCSTw770EqGJgQG92nwFqlFUd1M43_7r_Kmf9JRT1Wo0"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/charter-commns-ma-sprint-corp-idusl1n1kj260</id>
-  <updated>1970-01-18T09:09:21.093Z</updated>
+  <updated>1970-01-18T09:10:48.454Z</updated>
   <title type="html">Sprint seeks alternatives to a merger with T-Mobile: sources</title>
   <link href="http://www.reuters.com/article/charter-commns-ma-sprint-corp-idusl1n1kj260" title="www.reuters.com"/>
   <summary type="html">O) as the wireless carrier seeks an alternative to a deal with T-Mobile US Inc (&lt;br&gt;
@@ -167,8 +168,81 @@ the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/uk-china-economy-yuan-idUSKBN1AJ0SF</id>
+  <updated>1970-01-18T09:10:48.454Z</updated>
+  <title type="html">China eyes widening yuan band amid reform pressures: sources</title>
+  <link href="https://www.reuters.com/article/uk-china-economy-yuan-idUSKBN1AJ0SF" title="www.reuters.com"/>
+  <summary type="html">... the dollar from the daily mid-point rate set by the central bank, up from the &lt;br&gt;
+current 2 percent, according to four &lt;b&gt;sources familiar with&lt;/b&gt; internal policy &lt;br&gt;
+discussions.</summary>
+  <cse:cacheId>Ve4CtCAkj7MJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../uk-china-economy-yuan-idUSKBN1AJ0SF</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
+    <cse:Attribute name="dcsext.channellist" value="Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="China+eyes+widening+yuan+band+amid+reform+pressures%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Kevin Yao"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
+    <cse:Attribute name="author" value="Kevin Yao"/>
+    <cse:Attribute name="news_keywords" value="China;United States;UK;CHINA;ECONOMY;YUAN;People&apos;s Bank of China;China (PRC);Central Banks / Central Bank Events;Currencies / Foreign Exchange Markets;Corporate Events;Interest Rates / Policy;Economic Events;Asia / Pacific;Major News;Monetary / Fiscal Policy / Policy Makers;Regulation;Economic News (3rd Party);Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Thu Aug 03 07:15:54 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Kevin Yao"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-03T07:15:54+0000"/>
+    <cse:Attribute name="sailthru.title" value="China eyes widening yuan band amid reform pressures: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="China eyes widening yuan band amid reform pressures: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/uk-china-economy-yuan-idUSKBN1AJ0SF"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="China&apos;s central bank is considering a widening of the yuan&apos;s trading band after a major Communist party meeting this year, a largely cosmetic move that would burnish its reform credentials as official policy focuses on reducing debt."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195584805&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED720JT"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-03T07:15:54+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-03T07:15:54+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Kevin Yao"/>
+    <cse:Attribute name="og:article:tag" value="China,United States,UK,CHINA,ECONOMY,YUAN,People&apos;s Bank of China,China (PRC),Central Banks / Central Bank Events,Currencies / Foreign Exchange Markets,Corporate Events,Interest Rates / Policy,Economic Events,Asia / Pacific,Major News,Monetary / Fiscal Policy / Policy Makers,Regulation,Economic News (3rd Party),Emerging Market Countries"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="China eyes widening yuan band amid reform pressures: sources"/>
+    <cse:Attribute name="twitter:description" value="China&apos;s central bank is considering a widening of the yuan&apos;s trading band after a major Communist party meeting this year, a largely cosmetic move that would burnish its reform credentials as official policy focuses on reducing debt."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195584805&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED720JT"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195584805&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED720JT"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195584805&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED720JT"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg76diJix779q5MRknjVnEvB2NIeFnKnzFXKIE_mU9TjLiry65BPx5mg8"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2017/07/31/politics/kelly-comey-phone-call-angry/index.html</id>
-  <updated>1970-01-18T09:09:21.093Z</updated>
+  <updated>1970-01-18T09:10:48.454Z</updated>
   <title type="html">Kelly called Comey to express anger over firing, sources say ...</title>
   <link href="http://www.cnn.com/2017/07/31/politics/kelly-comey-phone-call-angry/index.html" title="www.cnn.com"/>
   <summary type="html">... that Kelly called Comey afterward and said he was considering resigning, &lt;br&gt;
@@ -229,7 +303,7 @@ according to two &lt;b&gt;sources familiar with&lt;/b&gt; a conversation between
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/oman-bond-idUSL5N1KO2E0</id>
-  <updated>1970-01-18T09:09:21.093Z</updated>
+  <updated>1970-01-18T09:10:48.454Z</updated>
   <title type="html">Oman in talks with banks about loan and bond - sources</title>
   <link href="http://www.reuters.com/article/oman-bond-idUSL5N1KO2E0" title="www.reuters.com"/>
   <summary type="html">... about raising more funds through a loan and bonds as thesultanate seeks to &lt;br&gt;
@@ -301,8 +375,80 @@ replenish budget coffers hit hard by low oilprices, &lt;b&gt;sources familiar wi
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/poland-raiffeisen-regulator-idUSL5N1KM4AF</id>
+  <updated>1970-01-18T09:10:48.454Z</updated>
+  <title type="html">Raiffeisen to meet with Polish regulator to discuss Polbank&amp;#39;s future ...</title>
+  <link href="http://www.reuters.com/article/poland-raiffeisen-regulator-idUSL5N1KM4AF" title="www.reuters.com"/>
+  <summary type="html">... will meet Polish regulator KNF on Tuesday to explain why the share market &lt;br&gt;
+flotation of its local subsidiary failed, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
+  <cse:cacheId>dHJqjmXaoksJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../poland-raiffeisen-regulator-idUSL5N1KM4AF</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
+    <cse:Attribute name="dcsext.channellist" value="Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Raiffeisen+to+meet+with+Polish+regulator+to+discuss+Polbank%27s+future+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Austria;POLAND;RAIFFEISEN/REGULATOR;Security Listings / Delistings;Western Europe;Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Deals;Automobiles / Auto Parts (Legacy);Banking Services (TRBC);Banks (TRBC);Company News;Financials (TRBC);Financials (Legacy);New Issues;Government / Politics;Corporate Events;Economic Events;Euro Zone;Austria;East European Countries;Market Events;Banking and Investment Services (TRBC);Europe;Regulation;Poland;Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Mon Jul 31 14:31:23 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-31T14:31:23+0000"/>
+    <cse:Attribute name="sailthru.title" value="Raiffeisen to meet with Polish regulator to discuss Polbank&apos;s future - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Raiffeisen to meet with Polish regulator to discuss Polbank&apos;s future - sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/poland-raiffeisen-regulator-idUSL5N1KM4AF"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Executives at Austria&apos;sRaiffeisen Bank International will meet Polishregulator KNF on Tuesday to explain why the share marketflotation of its local subsidiary failed, according to sourcesfamiliar with the matter."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-31T14:31:23+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-31T14:31:23+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Austria,POLAND,RAIFFEISEN/REGULATOR,Security Listings / Delistings,Western Europe,Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Deals,Automobiles / Auto Parts (Legacy),Banking Services (TRBC),Banks (TRBC),Company News,Financials (TRBC),Financials (Legacy),New Issues,Government / Politics,Corporate Events,Economic Events,Euro Zone,Austria,East European Countries,Market Events,Banking and Investment Services (TRBC),Europe,Regulation,Poland,Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Raiffeisen to meet with Polish regulator to discuss Polbank&apos;s future - sources"/>
+    <cse:Attribute name="twitter:description" value="Executives at Austria&apos;sRaiffeisen Bank International will meet Polishregulator KNF on Tuesday to explain why the share marketflotation of its local subsidiary failed, according to sourcesfamiliar with the matter."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
+    <cse:Attribute name="wt.cg_n" value="Homepage"/>
+    <cse:Attribute name="wt.cg_s" value="Homepage"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/senaat-sukuk-idUSL5N1KN2J6</id>
-  <updated>1970-01-18T09:09:21.093Z</updated>
+  <updated>1970-01-18T09:10:48.454Z</updated>
   <title type="html">Abu Dhabi&amp;#39;s Senaat asks proposals for dollar sukuk - sources</title>
   <link href="http://www.reuters.com/article/senaat-sukuk-idUSL5N1KN2J6" title="www.reuters.com"/>
   <summary type="html">... industrial sector, has asked banks forproposals to arrange a U.S. dollar &lt;br&gt;
@@ -374,54 +520,117 @@ Tuesday.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/poland-raiffeisen-regulator-idUSL5N1KM4AF</id>
-  <updated>1970-01-18T09:09:21.093Z</updated>
-  <title type="html">Raiffeisen to meet with Polish regulator to discuss Polbank&amp;#39;s future ...</title>
-  <link href="http://www.reuters.com/article/poland-raiffeisen-regulator-idUSL5N1KM4AF" title="www.reuters.com"/>
-  <summary type="html">... will meet Polish regulator KNF on Tuesday to explain why the share market &lt;br&gt;
-flotation of its local subsidiary failed, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>dHJqjmXaoksJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../poland-raiffeisen-regulator-idUSL5N1KM4AF</cse:formattedUrl>
+  <id>https://www.washingtonpost.com/news/sports/wp/2017/07/31/nfl-offers-to-work-with-players-union-to-study-marijuana-for-pain-management/</id>
+  <updated>1970-01-18T09:10:48.454Z</updated>
+  <title type="html">NFL offers to work with players&amp;#39; union to study marijuana for pain ...</title>
+  <link href="https://www.washingtonpost.com/news/sports/wp/2017/07/31/nfl-offers-to-work-with-players-union-to-study-marijuana-for-pain-management/" title="www.washingtonpost.com"/>
+  <summary type="html">IRVINE, Calif. — The NFL has written to the NFL Players Association offering to &lt;br&gt;
+work in tandem to study the potential use of marijuana as a pain management&amp;nbsp;...</summary>
+  <cse:formattedUrl type="html">https://www.washingtonpost.com/.../nfl-offers-to-work-with-players-union-to -study-marijuana-for-pain-management/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="object-hash" value="1501715707"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0"/>
+    <cse:Attribute name="referrer" value="unsafe-url"/>
+    <cse:Attribute name="news_keywords" value="NFL; NFL marijuana; NFL drug policy; NFL drug testing; marijuana pain management"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="Washington Post"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/washingtonpost"/>
+    <cse:Attribute name="fb:admins" value="1513210492"/>
+    <cse:Attribute name="fb:app_id" value="41245586762"/>
+    <cse:Attribute name="zeusads" value="true"/>
+    <cse:Attribute name="og:url" value="https://www.washingtonpost.com/news/sports/wp/2017/07/31/nfl-offers-to-work-with-players-union-to-study-marijuana-for-pain-management/"/>
+    <cse:Attribute name="og:image" value="https://img.washingtonpost.com/rf/image_1484w/2010-2019/Wires/Images/2014-11-19/AP/NFL_Imposing_Discipline_Football-00f19.jpg?t=20170517"/>
+    <cse:Attribute name="og:title" value="NFL offers to work with players’ union to study marijuana for pain management"/>
+    <cse:Attribute name="og:description" value="The NFLPA is studying the issue on its own and has not committed to such cooperative research."/>
+    <cse:Attribute name="theme" value="normal"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/profile.php?id=100005322646911&amp;fref=ts"/>
+    <cse:Attribute name="author" value="https://www.facebook.com/profile.php?id=100005322646911&amp;fref=ts"/>
+    <cse:Attribute name="twitter:creator" value="@MarkMaske"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="mainentityofpage" value="True"/>
+    <cse:Attribute name="url" value="https://www.washingtonpost.com/news/sports/wp/2017/07/31/nfl-offers-to-work-with-players-union-to-study-marijuana-for-pain-management/"/>
+    <cse:Attribute name="image" value="https://img.washingtonpost.com/rf/image_1484w/2010-2019/Wires/Images/2014-11-19/AP/NFL_Imposing_Discipline_Football-00f19.jpg?t=20170517"/>
+    <cse:Attribute name="description" value="The NFLPA is studying the issue on its own and has not committed to such cooperative research."/>
+    <cse:Attribute name="headline" value="NFL offers to work with players’ union to study marijuana for pain management"/>
+    <cse:Attribute name="datepublished" value="2017-07-31T09:25-500"/>
+    <cse:Attribute name="articlebody" value="NFL Comissioner Roger Goodell, left, and NFLPA Executive Director DeMaurice Smith. (Phil Long/Associated Press) IRVINE, Calif. — The NFL has written to the NFL Players Association offering..."/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="washingtonpost"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="https://www.washingtonpost.com/pb/resources/img/thewashingtonpost-white-2x.png"/>
+    <cse:Attribute name="width" value="200"/>
+    <cse:Attribute name="height" value="40"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Mark Maske"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Mark Maske"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://img.washingtonpost.com/rf/image_1484w/2010-2019/Wires/Images/2014-11-19/AP/NFL_Imposing_Discipline_Football-00f19.jpg?t=20170517"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="263"/>
+    <cse:Attribute name="height" value="192"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqFGekmHyn3-fnwGuXdEm9dB02WfK8w94pgUiIfqGxc9CQH_iesfqfT_Nv"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-ford-motor-ceo-idUSKBN1AG120</id>
+  <updated>1970-01-18T09:10:48.454Z</updated>
+  <title type="html">Ford CEO Hackett reviewing future products, plants, countries: sources</title>
+  <link href="https://www.reuters.com/article/us-ford-motor-ceo-idUSKBN1AG120" title="www.reuters.com"/>
+  <summary type="html">... product programs including plans to build a self-driving commercial vehicle in &lt;br&gt;
+2021, according to company officials and other &lt;b&gt;sources familiar with&lt;/b&gt; that review.</summary>
+  <cse:cacheId>a7W3s1-MI7kJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/article/us-ford-motor-ceo-idUSKBN1AG120</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
-    <cse:Attribute name="dcsext.channellist" value="Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Raiffeisen+to+meet+with+Polish+regulator+to+discuss+Polbank%27s+future+-+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="autos"/>
+    <cse:Attribute name="dcsext.channellist" value="reinvent-the-way-you-work;autos;autos-news;ousivMolt;businessNews;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Ford+CEO+Hackett+reviewing+future+products%2C+plants%2C+countries%3A+sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="dcsext.rauthor" value="Paul Lienert and Joseph White"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Austria;POLAND;RAIFFEISEN/REGULATOR;Security Listings / Delistings;Western Europe;Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Deals;Automobiles / Auto Parts (Legacy);Banking Services (TRBC);Banks (TRBC);Company News;Financials (TRBC);Financials (Legacy);New Issues;Government / Politics;Corporate Events;Economic Events;Euro Zone;Austria;East European Countries;Market Events;Banking and Investment Services (TRBC);Europe;Regulation;Poland;Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Mon Jul 31 14:31:23 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-31T14:31:23+0000"/>
-    <cse:Attribute name="sailthru.title" value="Raiffeisen to meet with Polish regulator to discuss Polbank&apos;s future - sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-autos"/>
+    <cse:Attribute name="author" value="Paul Lienert and Joseph White"/>
+    <cse:Attribute name="news_keywords" value="China;India;Mexico;Jim Hackett;Lincoln Continental;Mark F. Fields;Robert L. Shanks;US;FORD;MOTOR;CEO;Automobiles / Auto Parts (Legacy);Americas;Company News;India;Auto and Truck Manufacturers (TRBC);South America / Central America;Western Europe;International Trade;Mexico;Corporate Events;Economic Events;Automobiles and Auto Parts (TRBC);Asia / Pacific;Deals;Emerging Market Countries;Industrial Machinery / Equipment (Legacy);United States"/>
+    <cse:Attribute name="revision_date" value="Mon Jul 31 10:08:58 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Paul Lienert and Joseph White"/>
+    <cse:Attribute name="sailthru.date" value="2017-07-31T10:08:58+0000"/>
+    <cse:Attribute name="sailthru.title" value="Ford CEO Hackett reviewing future products, plants, countries: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Raiffeisen to meet with Polish regulator to discuss Polbank&apos;s future - sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/poland-raiffeisen-regulator-idUSL5N1KM4AF"/>
+    <cse:Attribute name="og:title" value="Ford CEO Hackett reviewing future products, plants, countries: sources"/>
+    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-ford-motor-ceo-idUSKBN1AG120"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Executives at Austria&apos;sRaiffeisen Bank International will meet Polishregulator KNF on Tuesday to explain why the share marketflotation of its local subsidiary failed, according to sourcesfamiliar with the matter."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-31T14:31:23+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-31T14:31:23+0000"/>
+    <cse:Attribute name="og:description" value="Ford Motor Co Chief Executive Jim Hackett is reviewing the automaker&apos;s operations in India and other markets, as well as Ford&apos;s future product programs including plans to build a self-driving commercial vehicle in 2021, according to company officials and other sources familiar with that review."/>
+    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170731&amp;t=2&amp;i=1195140906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6U0LO"/>
+    <cse:Attribute name="og:article:published_time" value="2017-07-31T10:08:58+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-07-31T10:08:58+0000"/>
     <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Austria,POLAND,RAIFFEISEN/REGULATOR,Security Listings / Delistings,Western Europe,Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Deals,Automobiles / Auto Parts (Legacy),Banking Services (TRBC),Banks (TRBC),Company News,Financials (TRBC),Financials (Legacy),New Issues,Government / Politics,Corporate Events,Economic Events,Euro Zone,Austria,East European Countries,Market Events,Banking and Investment Services (TRBC),Europe,Regulation,Poland,Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="og:article:author" value="Paul Lienert and Joseph White"/>
+    <cse:Attribute name="og:article:tag" value="China,India,Mexico,Jim Hackett,Lincoln Continental,Mark F. Fields,Robert L. Shanks,US,FORD,MOTOR,CEO,Automobiles / Auto Parts (Legacy),Americas,Company News,India,Auto and Truck Manufacturers (TRBC),South America / Central America,Western Europe,International Trade,Mexico,Corporate Events,Economic Events,Automobiles and Auto Parts (TRBC),Asia / Pacific,Deals,Emerging Market Countries,Industrial Machinery / Equipment (Legacy),United States"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Raiffeisen to meet with Polish regulator to discuss Polbank&apos;s future - sources"/>
-    <cse:Attribute name="twitter:description" value="Executives at Austria&apos;sRaiffeisen Bank International will meet Polishregulator KNF on Tuesday to explain why the share marketflotation of its local subsidiary failed, according to sourcesfamiliar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Ford CEO Hackett reviewing future products, plants, countries: sources"/>
+    <cse:Attribute name="twitter:description" value="Ford Motor Co Chief Executive Jim Hackett is reviewing the automaker&apos;s operations in India and other markets, as well as Ford&apos;s future product programs including plans to build a self-driving commercial vehicle in 2021, according to company officials and other sources familiar with that review."/>
+    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170731&amp;t=2&amp;i=1195140906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6U0LO"/>
+    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170731&amp;t=2&amp;i=1195140906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6U0LO"/>
+    <cse:Attribute name="dcsext.rchannel" value="News"/>
     <cse:Attribute name="dcsext.contenttype" value="Article"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
     <cse:Attribute name="wt.cg_n" value="Homepage"/>
@@ -436,18 +645,18 @@ flotation of its local subsidiary failed, according to &lt;b&gt;sources familiar
     <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170731&amp;t=2&amp;i=1195140906&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED6U0LO"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+    <cse:Attribute name="width" value="262"/>
+    <cse:Attribute name="height" value="192"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzp8RfVlYon-x2dyKOutuVIlE7y_hPxWxxSzn3OEbW4SYNpOd675gCFZQ"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/journalists/julie-zhu</id>
-  <updated>1970-01-18T09:09:21.093Z</updated>
+  <updated>1970-01-18T09:10:48.454Z</updated>
   <title type="html">Julie Zhu</title>
   <link href="https://www.reuters.com/journalists/julie-zhu" title="www.reuters.com"/>
   <summary type="html">... aims to raise $1.5 billion or more in a new yuan-denominated fund and is &lt;br&gt;
@@ -487,188 +696,6 @@ currently pitching it to prospective investors, &lt;b&gt;sources familiar with&l
     <cse:Attribute name="width" value="310"/>
     <cse:Attribute name="height" value="163"/>
     <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-scb-energy-trading-idUSKBN1AI2KK</id>
-  <updated>1970-01-18T09:09:21.093Z</updated>
-  <title type="html">Standard Chartered eyes New York energy trading, bucks Wall ...</title>
-  <link href="https://www.reuters.com/article/us-scb-energy-trading-idUSKBN1AI2KK" title="www.reuters.com"/>
-  <summary type="html">NEW YORK/SINGAPORE (Reuters) - Standard Chartered is planning to launch &lt;br&gt;
-an energy trading business in New York, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter&amp;nbsp;...</summary>
-  <cse:cacheId>d8O7G9WwKZEJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-scb-energy-trading-idUSKBN1AI2KK</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
-    <cse:Attribute name="dcsext.channellist" value="ousivMolt;GCA-Commodities;bank-news;energy-news;oil;power;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Standard+Chartered+eyes+New+York+energy+trading%2C+bucks+Wall+Street+trend%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Catherine Ngai and Florence Tan"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
-    <cse:Attribute name="author" value="Catherine Ngai and Florence Tan"/>
-    <cse:Attribute name="news_keywords" value="Singapore;United States;Cyril Youinou;Hugo Picca;Matthew Hastings;Torry J Berntsen;US;SCB;ENERGY;TRADING;Investment Banking and Investment Services (TRBC);Energy Markets;Western Europe;Crude Oil;Energy (Legacy);Asia / Pacific;Singapore;Government Borrowing Requirement;United Kingdom;United States;Banks (TRBC);Key Personnel Changes;Company News;Financials (TRBC);Financials (Legacy);Corporate Events;Oil and Gas (TRBC);Financial and Commodity Market Operators (TRBC);Refined Products;Energy (TRBC);Europe;Diversified Financial Services (TRBC);Company Management Issues;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Wed Aug 02 22:16:35 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Catherine Ngai and Florence Tan"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-02T22:16:35+0000"/>
-    <cse:Attribute name="sailthru.title" value="Standard Chartered eyes New York energy trading, bucks Wall Street trend: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Standard Chartered eyes New York energy trading, bucks Wall Street trend: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/us-scb-energy-trading-idUSKBN1AI2KK"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Standard Chartered is planning to launch an energy trading business in New York, two sources familiar with the matter said, in what appears to be the first major bank move into the sector in the United States after years of retreat on Wall Street due to cutbacks and stricter regulation."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170802&amp;t=2&amp;i=1195538847&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED711HE"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-02T22:16:35+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-02T22:16:35+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Catherine Ngai and Florence Tan"/>
-    <cse:Attribute name="og:article:tag" value="Singapore,United States,Cyril Youinou,Hugo Picca,Matthew Hastings,Torry J Berntsen,US,SCB,ENERGY,TRADING,Investment Banking and Investment Services (TRBC),Energy Markets,Western Europe,Crude Oil,Energy (Legacy),Asia / Pacific,Singapore,Government Borrowing Requirement,United Kingdom,United States,Banks (TRBC),Key Personnel Changes,Company News,Financials (TRBC),Financials (Legacy),Corporate Events,Oil and Gas (TRBC),Financial and Commodity Market Operators (TRBC),Refined Products,Energy (TRBC),Europe,Diversified Financial Services (TRBC),Company Management Issues,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Standard Chartered eyes New York energy trading, bucks Wall Street trend: sources"/>
-    <cse:Attribute name="twitter:description" value="Standard Chartered is planning to launch an energy trading business in New York, two sources familiar with the matter said, in what appears to be the first major bank move into the sector in the United States after years of retreat on Wall Street due to cutbacks and stricter regulation."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170802&amp;t=2&amp;i=1195538847&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED711HE"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170802&amp;t=2&amp;i=1195538847&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED711HE"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170802&amp;t=2&amp;i=1195538847&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED711HE"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3i6D-ohzlQZkx360ODJc_O4urnUHaGpVEmGb-xYqaE_PD-rOjtiExCTos"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/journalists/kane-wu</id>
-  <updated>1970-01-18T09:09:21.093Z</updated>
-  <title type="html">Kane Wu</title>
-  <link href="https://www.reuters.com/journalists/kane-wu" title="www.reuters.com"/>
-  <summary type="html">... bank Goldman Sachs to list Pactera, the Beijing-based IT outsourcing firm it &lt;br&gt;
-bought from private equity firm Blackstone, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>_RBbHn0oG50J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/journalists/kane-wu</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/journalists/kane-wu"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/uk-china-economy-yuan-idUSKBN1AJ0SF</id>
-  <updated>1970-01-18T09:09:21.093Z</updated>
-  <title type="html">China eyes widening yuan band amid reform pressures: sources</title>
-  <link href="https://www.reuters.com/article/uk-china-economy-yuan-idUSKBN1AJ0SF" title="www.reuters.com"/>
-  <summary type="html">... the dollar from the daily mid-point rate set by the central bank, up from the &lt;br&gt;
-current 2 percent, according to four &lt;b&gt;sources familiar with&lt;/b&gt; internal policy &lt;br&gt;
-discussions.</summary>
-  <cse:cacheId>Ve4CtCAkj7MJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../uk-china-economy-yuan-idUSKBN1AJ0SF</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
-    <cse:Attribute name="dcsext.channellist" value="Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="China+eyes+widening+yuan+band+amid+reform+pressures%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="2"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Kevin Yao"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
-    <cse:Attribute name="author" value="Kevin Yao"/>
-    <cse:Attribute name="news_keywords" value="China;United States;UK;CHINA;ECONOMY;YUAN;People&apos;s Bank of China;China (PRC);Central Banks / Central Bank Events;Currencies / Foreign Exchange Markets;Corporate Events;Interest Rates / Policy;Economic Events;Asia / Pacific;Major News;Monetary / Fiscal Policy / Policy Makers;Regulation;Economic News (3rd Party);Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Thu Aug 03 07:15:54 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Kevin Yao"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-03T07:15:54+0000"/>
-    <cse:Attribute name="sailthru.title" value="China eyes widening yuan band amid reform pressures: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="China eyes widening yuan band amid reform pressures: sources"/>
-    <cse:Attribute name="og:url" value="http://www.reuters.com/article/uk-china-economy-yuan-idUSKBN1AJ0SF"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="China&apos;s central bank is considering a widening of the yuan&apos;s trading band after a major Communist party meeting this year, a largely cosmetic move that would burnish its reform credentials as official policy focuses on reducing debt."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195584805&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED720JT"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-03T07:15:54+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-03T07:15:54+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Kevin Yao"/>
-    <cse:Attribute name="og:article:tag" value="China,United States,UK,CHINA,ECONOMY,YUAN,People&apos;s Bank of China,China (PRC),Central Banks / Central Bank Events,Currencies / Foreign Exchange Markets,Corporate Events,Interest Rates / Policy,Economic Events,Asia / Pacific,Major News,Monetary / Fiscal Policy / Policy Makers,Regulation,Economic News (3rd Party),Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="China eyes widening yuan band amid reform pressures: sources"/>
-    <cse:Attribute name="twitter:description" value="China&apos;s central bank is considering a widening of the yuan&apos;s trading band after a major Communist party meeting this year, a largely cosmetic move that would burnish its reform credentials as official policy focuses on reducing debt."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195584805&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED720JT"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195584805&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED720JT"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="//s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="//s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170803&amp;t=2&amp;i=1195584805&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXMPED720JT"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg76diJix779q5MRknjVnEvB2NIeFnKnzFXKIE_mU9TjLiry65BPx5mg8"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
