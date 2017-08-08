@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T09:14:18.989Z</updated>
+ <updated>1970-01-18T09:15:55.032Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12600" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12600" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>12600</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12900" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="12900" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>12900</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.333487</cse:searchTime>
-  <cse:formattedSearchTime>0.33</cse:formattedSearchTime>
-  <cse:totalResults>12600</cse:totalResults>
-  <cse:formattedTotalResults>12,600</cse:formattedTotalResults>
+  <cse:searchTime>0.291291</cse:searchTime>
+  <cse:formattedSearchTime>0.29</cse:formattedSearchTime>
+  <cse:totalResults>12900</cse:totalResults>
+  <cse:formattedTotalResults>12,900</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-goldman-sachs-aramco-idUSKBN1AJ213</id>
-  <updated>1970-01-18T09:14:18.989Z</updated>
+  <updated>1970-01-18T09:15:55.032Z</updated>
   <title type="html">Exclusive: Goldman Sachs buys into Aramco $10 billion loan as it ...</title>
   <link href="https://www.reuters.com/article/us-goldman-sachs-aramco-idUSKBN1AJ213" title="www.reuters.com"/>
   <summary type="html">... of Saudi Aramco&amp;#39;s IPO-ARMO.SE $10 billion credit facility as it seeks a role in &lt;br&gt;
@@ -95,71 +95,8 @@ the historic listing of the oil company, &lt;b&gt;sources familiar with&lt;/b&gt
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.washingtonpost.com/news/sports/wp/2017/07/31/nfl-offers-to-work-with-players-union-to-study-marijuana-for-pain-management/</id>
-  <updated>1970-01-18T09:14:18.989Z</updated>
-  <title type="html">NFL offers to work with players&amp;#39; union to study marijuana for pain ...</title>
-  <link href="https://www.washingtonpost.com/news/sports/wp/2017/07/31/nfl-offers-to-work-with-players-union-to-study-marijuana-for-pain-management/" title="www.washingtonpost.com"/>
-  <summary type="html">IRVINE, Calif. — The NFL has written to the NFL Players Association offering to &lt;br&gt;
-work in tandem to study the potential use of marijuana as a pain management&amp;nbsp;...</summary>
-  <cse:formattedUrl type="html">https://www.washingtonpost.com/.../nfl-offers-to-work-with-players-union-to -study-marijuana-for-pain-management/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="object-hash" value="1501877108"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0"/>
-    <cse:Attribute name="referrer" value="unsafe-url"/>
-    <cse:Attribute name="news_keywords" value="NFL; NFL marijuana; NFL drug policy; NFL drug testing; marijuana pain management"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="Washington Post"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/washingtonpost"/>
-    <cse:Attribute name="fb:admins" value="1513210492"/>
-    <cse:Attribute name="fb:app_id" value="41245586762"/>
-    <cse:Attribute name="zeusads" value="true"/>
-    <cse:Attribute name="og:url" value="https://www.washingtonpost.com/news/sports/wp/2017/07/31/nfl-offers-to-work-with-players-union-to-study-marijuana-for-pain-management/"/>
-    <cse:Attribute name="og:image" value="https://img.washingtonpost.com/rf/image_1484w/2010-2019/Wires/Images/2014-11-19/AP/NFL_Imposing_Discipline_Football-00f19.jpg?t=20170517"/>
-    <cse:Attribute name="og:title" value="NFL offers to work with players’ union to study marijuana for pain management"/>
-    <cse:Attribute name="og:description" value="The NFLPA is studying the issue on its own and has not committed to such cooperative research."/>
-    <cse:Attribute name="theme" value="normal"/>
-    <cse:Attribute name="article:author" value="https://www.facebook.com/profile.php?id=100005322646911&amp;fref=ts"/>
-    <cse:Attribute name="author" value="https://www.facebook.com/profile.php?id=100005322646911&amp;fref=ts"/>
-    <cse:Attribute name="twitter:creator" value="@MarkMaske"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="mainentityofpage" value="True"/>
-    <cse:Attribute name="url" value="https://www.washingtonpost.com/news/sports/wp/2017/07/31/nfl-offers-to-work-with-players-union-to-study-marijuana-for-pain-management/"/>
-    <cse:Attribute name="image" value="https://img.washingtonpost.com/rf/image_1484w/2010-2019/Wires/Images/2014-11-19/AP/NFL_Imposing_Discipline_Football-00f19.jpg?t=20170517"/>
-    <cse:Attribute name="description" value="The NFLPA is studying the issue on its own and has not committed to such cooperative research."/>
-    <cse:Attribute name="headline" value="NFL offers to work with players’ union to study marijuana for pain management"/>
-    <cse:Attribute name="datepublished" value="2017-07-31T09:25-500"/>
-    <cse:Attribute name="articlebody" value="NFL Comissioner Roger Goodell, left, and NFLPA Executive Director DeMaurice Smith. (Phil Long/Associated Press) IRVINE, Calif. — The NFL has written to the NFL Players Association offering..."/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="washingtonpost"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="url" value="https://www.washingtonpost.com/pb/resources/img/thewashingtonpost-white-2x.png"/>
-    <cse:Attribute name="width" value="200"/>
-    <cse:Attribute name="height" value="40"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Mark Maske"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Mark Maske"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img.washingtonpost.com/rf/image_1484w/2010-2019/Wires/Images/2014-11-19/AP/NFL_Imposing_Discipline_Football-00f19.jpg?t=20170517"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="263"/>
-    <cse:Attribute name="height" value="192"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqFGekmHyn3-fnwGuXdEm9dB02WfK8w94pgUiIfqGxc9CQH_iesfqfT_Nv"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/uk-china-economy-yuan-idUSKBN1AJ0SF</id>
-  <updated>1970-01-18T09:14:18.989Z</updated>
+  <updated>1970-01-18T09:15:55.032Z</updated>
   <title type="html">China eyes widening yuan band amid reform pressures: sources</title>
   <link href="https://www.reuters.com/article/uk-china-economy-yuan-idUSKBN1AJ0SF" title="www.reuters.com"/>
   <summary type="html">... the dollar from the daily mid-point rate set by the central bank, up from the &lt;br&gt;
@@ -232,7 +169,7 @@ discussions.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.nytimes.com/reuters/2017/08/04/business/04reuters-germany-emissions-cartel.html</id>
-  <updated>1970-01-18T09:14:18.989Z</updated>
+  <updated>1970-01-18T09:15:55.032Z</updated>
   <title type="html">BMW Reassured Top Staff About Cartel Allegations: Sources - The ...</title>
   <link href="https://www.nytimes.com/reuters/2017/08/04/business/04reuters-germany-emissions-cartel.html" title="www.nytimes.com"/>
   <summary type="html">... top managers that regulators probing reports of collusion among German &lt;br&gt;
@@ -325,7 +262,7 @@ matter&amp;nbsp;...</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/oman-bond-idUSL5N1KO2E0</id>
-  <updated>1970-01-18T09:14:18.989Z</updated>
+  <updated>1970-01-18T09:15:55.032Z</updated>
   <title type="html">Oman in talks with banks about loan and bond - sources</title>
   <link href="https://www.reuters.com/article/oman-bond-idUSL5N1KO2E0" title="www.reuters.com"/>
   <summary type="html">... about raising more funds through a loan and bonds as thesultanate seeks to &lt;br&gt;
@@ -398,7 +335,7 @@ replenish budget coffers hit hard by low oilprices, &lt;b&gt;sources familiar wi
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2017/07/31/politics/kelly-comey-phone-call-angry/index.html</id>
-  <updated>1970-01-18T09:14:18.989Z</updated>
+  <updated>1970-01-18T09:15:55.032Z</updated>
   <title type="html">Kelly called Comey to express anger over firing, sources say ...</title>
   <link href="http://www.cnn.com/2017/07/31/politics/kelly-comey-phone-call-angry/index.html" title="www.cnn.com"/>
   <summary type="html">... that Kelly called Comey afterward and said he was considering resigning, &lt;br&gt;
@@ -458,76 +395,8 @@ according to two &lt;b&gt;sources familiar with&lt;/b&gt; a conversation between
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/poland-raiffeisen-regulator-idUSL5N1KM4AF</id>
-  <updated>1970-01-18T09:14:18.989Z</updated>
-  <title type="html">Raiffeisen to meet with Polish regulator to discuss Polbank&amp;#39;s future ...</title>
-  <link href="http://www.reuters.com/article/poland-raiffeisen-regulator-idUSL5N1KM4AF" title="www.reuters.com"/>
-  <summary type="html">... will meet Polish regulator KNF on Tuesday to explain why the share market &lt;br&gt;
-flotation of its local subsidiary failed, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>dHJqjmXaoksJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../poland-raiffeisen-regulator-idUSL5N1KM4AF</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
-    <cse:Attribute name="dcsext.channellist" value="Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Raiffeisen+to+meet+with+Polish+regulator+to+discuss+Polbank%27s+future+-+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Austria;POLAND;RAIFFEISEN/REGULATOR;Security Listings / Delistings;Western Europe;Initial Public Offerings;Equity Financing;Central / Eastern Europe;Divestitures / Spin;Offs;Deals;Automobiles / Auto Parts (Legacy);Banking Services (TRBC);Banks (TRBC);Company News;Financials (TRBC);Financials (Legacy);New Issues;Government / Politics;Corporate Events;Economic Events;Euro Zone;Austria;East European Countries;Market Events;Banking and Investment Services (TRBC);Europe;Regulation;Poland;Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Mon Jul 31 14:31:23 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-07-31T14:31:23+0000"/>
-    <cse:Attribute name="sailthru.title" value="Raiffeisen to meet with Polish regulator to discuss Polbank&apos;s future - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Raiffeisen to meet with Polish regulator to discuss Polbank&apos;s future - sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/poland-raiffeisen-regulator-idUSL5N1KM4AF"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Executives at Austria&apos;sRaiffeisen Bank International will meet Polishregulator KNF on Tuesday to explain why the share marketflotation of its local subsidiary failed, according to sourcesfamiliar with the matter."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-07-31T14:31:23+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-07-31T14:31:23+0000"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Austria,POLAND,RAIFFEISEN/REGULATOR,Security Listings / Delistings,Western Europe,Initial Public Offerings,Equity Financing,Central / Eastern Europe,Divestitures / Spin,Offs,Deals,Automobiles / Auto Parts (Legacy),Banking Services (TRBC),Banks (TRBC),Company News,Financials (TRBC),Financials (Legacy),New Issues,Government / Politics,Corporate Events,Economic Events,Euro Zone,Austria,East European Countries,Market Events,Banking and Investment Services (TRBC),Europe,Regulation,Poland,Emerging Market Countries,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Raiffeisen to meet with Polish regulator to discuss Polbank&apos;s future - sources"/>
-    <cse:Attribute name="twitter:description" value="Executives at Austria&apos;sRaiffeisen Bank International will meet Polishregulator KNF on Tuesday to explain why the share marketflotation of its local subsidiary failed, according to sourcesfamiliar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/2017/08/05/politics/house-intelligence-steele-testimony/index.html</id>
-  <updated>1970-01-18T09:14:18.989Z</updated>
+  <updated>1970-01-18T09:15:55.032Z</updated>
   <title type="html">Sources: House GOP staffers fly to London to find Steele, invite to ...</title>
   <link href="http://www.cnn.com/2017/08/05/politics/house-intelligence-steele-testimony/index.html" title="www.cnn.com"/>
   <summary type="html">... containing explosive allegations about President Donald Trump and top &lt;br&gt;
@@ -589,51 +458,170 @@ told CNN.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/uk-hedgefunds-launch-idUSKBN1AK0TB</id>
-  <updated>1970-01-18T09:14:18.989Z</updated>
-  <title type="html">Ex-Millennium trader Langlois preps new hedge fund - sources</title>
-  <link href="https://www.reuters.com/article/uk-hedgefunds-launch-idUSKBN1AK0TB" title="www.reuters.com"/>
-  <summary type="html">... Asset Management trader Arnaud Langlois is preparing to launch equities &lt;br&gt;
-hedge fund Terreneuve Capital, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters.</summary>
-  <cse:cacheId>pUe6W1SYyBsJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../uk-hedgefunds-launch-idUSKBN1AK0TB</cse:formattedUrl>
+  <id>https://www.reuters.com/article/sabana-shariah-ma-esr-idUSL4N1KQ2PP</id>
+  <updated>1970-01-18T09:15:55.032Z</updated>
+  <title type="html">Warburg Pincus-backed ESR in talks to buy Singapore&amp;#39;s Sabana ...</title>
+  <link href="https://www.reuters.com/article/sabana-shariah-ma-esr-idUSL4N1KQ2PP" title="www.reuters.com"/>
+  <summary type="html">... Warburg Pincus-backed e-Shang Redwood (ESR) is in advanced talks to buy &lt;br&gt;
+struggling Sabana Shariah Compliant Industrial REIT, &lt;b&gt;sources familiar with&lt;/b&gt; the&amp;nbsp;...</summary>
+  <cse:cacheId>Zy26lq_i--IJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../sabana-shariah-ma-esr-idUSL4N1KQ2PP</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
-    <cse:Attribute name="dcsext.channellist" value="Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Ex-Millennium+trader+Langlois+preps+new+hedge+fund+-+sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
+    <cse:Attribute name="dcsext.channellist" value="fundsFundsNews;marketsNews;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Warburg+Pincus-backed+ESR+in+talks+to+buy+Singapore%27s+Sabana+REIT-sources"/>
     <cse:Attribute name="dcsext.pagenumber" value="1"/>
     <cse:Attribute name="dcsext.pagetotal" value="1"/>
     <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Maiya Keidan"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
     <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
-    <cse:Attribute name="author" value="Maiya Keidan"/>
-    <cse:Attribute name="news_keywords" value="United Kingdom;Arnaud Langlois;UK;HEDGEFUNDS;LAUNCH;Funds;Western Europe;Financials (Legacy);Corporate Events;Economic Events;Hedge Funds;Market Events;Government Borrowing Requirement;Equities Markets;Europe;United Kingdom;Investment Management and Fund Operators (TRBC)"/>
-    <cse:Attribute name="revision_date" value="Fri Aug 04 09:09:30 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Maiya Keidan"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-04T09:09:30+0000"/>
-    <cse:Attribute name="sailthru.title" value="Ex-Millennium trader Langlois preps new hedge fund - sources"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="China;Japan;Singapore;South Korea;Alan Cheong;Rachel Chua;SABANA SHARIAH;MandA/ESR (PIX);Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Islamic Finance;Asia / Pacific;Singapore;Major News;Deals;United States;Americas;Funds;Company News;Financials (TRBC);Diversified REITs (TRBC);Financials (Legacy);Commercial REITs (TRBC);Corporate Events;Real Estate (Legacy);Banking and Investment Services (TRBC);Real Estate (TRBC);Residential and Commercial REITs (TRBC);ASEAN Countries;Emerging Market Countries;Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Sun Aug 06 23:00:00 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-06T23:00:00+0000"/>
+    <cse:Attribute name="sailthru.title" value="Warburg Pincus-backed ESR in talks to buy Singapore&apos;s Sabana REIT-sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
     <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Ex-Millennium trader Langlois preps new hedge fund - sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/uk-hedgefunds-launch-idUSKBN1AK0TB"/>
+    <cse:Attribute name="og:title" value="Warburg Pincus-backed ESR in talks to buy Singapore&apos;s Sabana REIT-sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/sabana-shariah-ma-esr-idUSL4N1KQ2PP"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Former Millennium Capital Partners and Brevan Howard Asset Management trader Arnaud Langlois is preparing to launch equities hedge fund Terreneuve Capital, two sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="og:description" value="Warburg Pincus-backed e-ShangRedwood (ESR) is in advanced talks to buy struggling SabanaShariah Compliant Industrial REIT, sources familiarwith the process said, in a likely first consolidation step inSingapore&apos;s $3.5 billion mid-cap industrial trusts sector."/>
     <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-04T09:09:30+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-04T09:09:30+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Maiya Keidan"/>
-    <cse:Attribute name="og:article:tag" value="United Kingdom,Arnaud Langlois,UK,HEDGEFUNDS,LAUNCH,Funds,Western Europe,Financials (Legacy),Corporate Events,Economic Events,Hedge Funds,Market Events,Government Borrowing Requirement,Equities Markets,Europe,United Kingdom,Investment Management and Fund Operators (TRBC)"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-06T23:00:00+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-06T23:00:00+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="China,Japan,Singapore,South Korea,Alan Cheong,Rachel Chua,SABANA SHARIAH,MandA/ESR (PIX),Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Islamic Finance,Asia / Pacific,Singapore,Major News,Deals,United States,Americas,Funds,Company News,Financials (TRBC),Diversified REITs (TRBC),Financials (Legacy),Commercial REITs (TRBC),Corporate Events,Real Estate (Legacy),Banking and Investment Services (TRBC),Real Estate (TRBC),Residential and Commercial REITs (TRBC),ASEAN Countries,Emerging Market Countries,Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Ex-Millennium trader Langlois preps new hedge fund - sources"/>
-    <cse:Attribute name="twitter:description" value="Former Millennium Capital Partners and Brevan Howard Asset Management trader Arnaud Langlois is preparing to launch equities hedge fund Terreneuve Capital, two sources familiar with the matter told Reuters."/>
+    <cse:Attribute name="twitter:title" value="Warburg Pincus-backed ESR in talks to buy Singapore&apos;s Sabana REIT-sources"/>
+    <cse:Attribute name="twitter:description" value="Warburg Pincus-backed e-ShangRedwood (ESR) is in advanced talks to buy struggling SabanaShariah Compliant Industrial REIT, sources familiarwith the process said, in a likely first consolidation step inSingapore&apos;s $3.5 billion mid-cap industrial trusts sector."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
+    <cse:Attribute name="wt.cg_n" value="Markets"/>
+    <cse:Attribute name="wt.cg_s" value="Funds"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/journalists/saeed-azhar</id>
+  <updated>1970-01-18T09:15:55.032Z</updated>
+  <title type="html">Saeed Azhar</title>
+  <link href="http://www.reuters.com/journalists/saeed-azhar" title="www.reuters.com"/>
+  <summary type="html">... is exploring the sale of its 25.4 percent stake in BBK BSC, which has &lt;br&gt;
+operations in Bahrain and Kuwait, India and Dubai, &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
+matter said.</summary>
+  <cse:cacheId>88NMJhxOjZcJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/journalists/saeed-azhar</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/journalists/saeed-azhar"/>
+    <cse:Attribute name="og:type" value="section"/>
+    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
+    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
+    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
+    <cse:Attribute name="wt.cg_n" value="Blogs"/>
+    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="310"/>
+    <cse:Attribute name="height" value="163"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/senaat-sukuk-idUSL5N1KN2J6</id>
+  <updated>1970-01-18T09:15:55.032Z</updated>
+  <title type="html">Abu Dhabi&amp;#39;s Senaat asks proposals for dollar sukuk - sources</title>
+  <link href="http://www.reuters.com/article/senaat-sukuk-idUSL5N1KN2J6" title="www.reuters.com"/>
+  <summary type="html">... industrial sector, has asked banks forproposals to arrange a U.S. dollar &lt;br&gt;
+denominated sukuk, or Islamicbond, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on &lt;br&gt;
+Tuesday.</summary>
+  <cse:cacheId>d3nkHWhuOA8J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/senaat-sukuk-idUSL5N1KN2J6</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="financialsSector"/>
+    <cse:Attribute name="dcsext.channellist" value="audib2b;financialsSector"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Abu+Dhabi%27s+Senaat+asks+proposals+for+dollar+sukuk+-+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="1"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-financialsSector"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="United Arab Emirates;SENAAT;SUKUK/;Investment Banking and Investment Services (TRBC);Islamic Finance;Western Europe;Credit and Corporate Debt;Corporate Debt;Asia / Pacific;Industrials (TRBC);Debt / Fixed Income Markets;Middle East;Nordic States;United Arab Emirates;Company News;Government Finances;Financials (TRBC);Sukuk;Financials (Legacy);Iceland;New Issues;Government / Politics;Corporate Events;Economic Events;General News;Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Europe;Industrial Conglomerates (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Tue Aug 01 10:17:09 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-01T10:17:09+0000"/>
+    <cse:Attribute name="sailthru.title" value="Abu Dhabi&apos;s Senaat asks proposals for dollar sukuk - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="Reuters"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Abu Dhabi&apos;s Senaat asks proposals for dollar sukuk - sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/senaat-sukuk-idUSL5N1KN2J6"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Abu Dhabi&apos;s Senaat, a state-ownedinvestor in the emirate&apos;s industrial sector, has asked banks forproposals to arrange a U.S. dollar denominated sukuk, or Islamicbond, sources familiar with the matter said on Tuesday."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-01T10:17:09+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-01T10:17:09+0000"/>
+    <cse:Attribute name="og:article:section" value="Homepage"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="United Arab Emirates,SENAAT,SUKUK/,Investment Banking and Investment Services (TRBC),Islamic Finance,Western Europe,Credit and Corporate Debt,Corporate Debt,Asia / Pacific,Industrials (TRBC),Debt / Fixed Income Markets,Middle East,Nordic States,United Arab Emirates,Company News,Government Finances,Financials (TRBC),Sukuk,Financials (Legacy),Iceland,New Issues,Government / Politics,Corporate Events,Economic Events,General News,Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Europe,Industrial Conglomerates (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Abu Dhabi&apos;s Senaat asks proposals for dollar sukuk - sources"/>
+    <cse:Attribute name="twitter:description" value="Abu Dhabi&apos;s Senaat, a state-ownedinvestor in the emirate&apos;s industrial sector, has asked banks forproposals to arrange a U.S. dollar denominated sukuk, or Islamicbond, sources familiar with the matter said on Tuesday."/>
     <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
     <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
@@ -661,40 +649,67 @@ hedge fund Terreneuve Capital, two &lt;b&gt;sources familiar with&lt;/b&gt; the 
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/journalists/davide-barbuscia</id>
-  <updated>1970-01-18T09:14:18.989Z</updated>
-  <title type="html">Davide Barbuscia</title>
-  <link href="https://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
-  <summary type="html">... of Saudi Aramco&amp;#39;s $10 billion credit facility as it seeks a role in the historic &lt;br&gt;
-listing of the oil company, &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters. Aug 02 &lt;br&gt;
-2017&amp;nbsp;...</summary>
-  <cse:cacheId>KPhuxi5T3iMJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-sabana-shariah-m-a-esr-idUSKBN1AM0W1</id>
+  <updated>1970-01-18T09:15:55.032Z</updated>
+  <title type="html">Warburg Pincus-backed ESR in talks to buy Singapore&amp;#39;s Sabana ...</title>
+  <link href="https://www.reuters.com/article/us-sabana-shariah-m-a-esr-idUSKBN1AM0W1" title="www.reuters.com"/>
+  <summary type="html">SINGAPORE (Reuters) - Asian logistics developer e-Shang Redwood is in &lt;br&gt;
+advanced talks to buy struggling Sabana REIT, &lt;b&gt;sources familiar with&lt;/b&gt; the process &lt;br&gt;
+said,&amp;nbsp;...</summary>
+  <cse:cacheId>RTL2s3tU_yAJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-sabana-shariah-m-a-esr-idUSKBN1AM0W1</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;Intel"/>
+    <cse:Attribute name="dcsext.contentheadline" value="Warburg+Pincus-backed+ESR+in+talks+to+buy+Singapore%27s+Sabana%3A+sources"/>
+    <cse:Attribute name="dcsext.pagenumber" value="1"/>
+    <cse:Attribute name="dcsext.pagetotal" value="2"/>
+    <cse:Attribute name="dcsext.contentversion" value="original"/>
+    <cse:Attribute name="dcsext.rauthor" value="Anshuman Daga"/>
+    <cse:Attribute name="wt.z_inlinetype" value="false"/>
+    <cse:Attribute name="wt.z_navid" value="nav-Text-innovationNews"/>
+    <cse:Attribute name="author" value="Anshuman Daga"/>
+    <cse:Attribute name="news_keywords" value="China;Japan;Singapore;South Korea;China;Japan;Singapore;South Korea;Alan Cheong;Rachel Chua;Alan Cheong;Rachel Chua;US;SABANA;SHARIAH;M;A;ESR;Mergers / Acquisitions / Takeovers;Company News;Islamic Finance;Diversified REITs (TRBC);Commercial REITs (TRBC);Volatile Shares / Hot Stocks;Corporate Events;Asia / Pacific;Singapore;Major News;Residential and Commercial REITs (TRBC);ASEAN Countries;Deals;Pictures;Investment Management and Fund Operators (TRBC);Private Equity Funds;United States"/>
+    <cse:Attribute name="revision_date" value="Mon Aug 07 14:23:52 UTC 2017"/>
+    <cse:Attribute name="sailthru.author" value="Anshuman Daga"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-07T14:23:52+0000"/>
+    <cse:Attribute name="sailthru.title" value="Warburg Pincus-backed ESR in talks to buy Singapore&apos;s Sabana: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/journalists/davide-barbuscia"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="site edition" value="Reuters"/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="dcsext.rchannel" value="Landing - Blogs"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Opinion - Opinion"/>
-    <cse:Attribute name="dcsext.contenttype" value="Blogs"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="wt.cg_n" value="Blogs"/>
-    <cse:Attribute name="wt.cg_s" value="Opinion"/>
+    <cse:Attribute name="og:title" value="Warburg Pincus-backed ESR in talks to buy Singapore&apos;s Sabana: sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-sabana-shariah-m-a-esr-idUSKBN1AM0W1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Asian logistics developer e-Shang Redwood is in advanced talks to buy struggling Sabana REIT, sources familiar with the process said, as a first step in the consolidation of Singapore&apos;s $3.5 billion mid-cap industrial trusts."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-07T14:23:52+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-07T14:23:52+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Anshuman Daga"/>
+    <cse:Attribute name="og:article:tag" value="China,Japan,Singapore,South Korea,China,Japan,Singapore,South Korea,Alan Cheong,Rachel Chua,Alan Cheong,Rachel Chua,US,SABANA,SHARIAH,M,A,ESR,Mergers / Acquisitions / Takeovers,Company News,Islamic Finance,Diversified REITs (TRBC),Commercial REITs (TRBC),Volatile Shares / Hot Stocks,Corporate Events,Asia / Pacific,Singapore,Major News,Residential and Commercial REITs (TRBC),ASEAN Countries,Deals,Pictures,Investment Management and Fund Operators (TRBC),Private Equity Funds,United States"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Warburg Pincus-backed ESR in talks to buy Singapore&apos;s Sabana: sources"/>
+    <cse:Attribute name="twitter:description" value="Asian logistics developer e-Shang Redwood is in advanced talks to buy struggling Sabana REIT, sources familiar with the process said, as a first step in the consolidation of Singapore&apos;s $3.5 billion mid-cap industrial trusts."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.rchannel" value="Article - News"/>
+    <cse:Attribute name="dcsext.contenttype" value="Article"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="wt.cg_n" value="Business"/>
+    <cse:Attribute name="wt.cg_s" value="Deals"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="msapplication-config" value="none"/>
+    <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
     <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
