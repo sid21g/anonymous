@@ -1,19 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "asked to be identified only by his last name"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="asked to be identified only by his last name"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;safe=off</id>
- <updated>1970-01-18T09:18:46.120Z</updated>
+ <title>Google Custom Search - "a Senate Republican aide"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="a Senate Republican aide"&amp;cx=012091639844104041986:munhfapni70&amp;num=3&amp;start=1&amp;safe=off</id>
+ <author>
+  <name>Anonymous sources - Google Custom Search</name>
+ </author>
+ <updated>1970-01-18T09:20:10.319Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;asked to be identified only by his last name&quot;" totalResults="0" searchTerms="&quot;asked to be identified only by his last name&quot;" count="10" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>0</opensearch:totalResults>
- <cse:context/>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;a Senate Republican aide&quot;" totalResults="3" searchTerms="&quot;a Senate Republican aide&quot;" count="3" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>3</opensearch:totalResults>
+ <opensearch:startIndex>1</opensearch:startIndex>
+ <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.821055</cse:searchTime>
-  <cse:formattedSearchTime>0.82</cse:formattedSearchTime>
-  <cse:totalResults>0</cse:totalResults>
-  <cse:formattedTotalResults>0</cse:formattedTotalResults>
+  <cse:searchTime>0.450817</cse:searchTime>
+  <cse:formattedSearchTime>0.45</cse:formattedSearchTime>
+  <cse:totalResults>3</cse:totalResults>
+  <cse:formattedTotalResults>3</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.politico.com/story/2017/08/10/playbook-donald-trump-mitch-mcconnell-fight-241488</id>
+  <updated>1970-01-18T09:20:10.319Z</updated>
+  <title type="html">Unpacking the Trump vs. McConnell war of words - POLITICO</title>
+  <link href="http://www.politico.com/story/2017/08/10/playbook-donald-trump-mitch-mcconnell-fight-241488" title="www.politico.com"/>
+  <summary type="html">FROM &lt;b&gt;A SENATE REPUBLICAN AIDE&lt;/b&gt;: “This makes about as much sense as &lt;br&gt;
+sidelining Tom Brady because you didn&amp;#39;t like his answer at a news conference.</summary>
+  <cse:cacheId>CUrMyQOoh9wJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/.../playbook-donald-trump-mitch-mcconnell-fight-241488</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jack Shafer"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jack-shafer"/>
+    <cse:Attribute name="url_text" value="Jack Shafer"/>
+   </cse:DataObject>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="og:title" value="Unpacking the Trump vs. McConnell war of words"/>
+    <cse:Attribute name="og:description" value="Ultimately, nearly everyone acknowledges that the back and forth between the two Republican leaders is counterproductive to their agenda."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="fb:pages" value="62317591679"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2wxOOjK"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/07/b1/8a4629fd469d9524c83a83444287/170810-mitch-mcconnell-ap-1160.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@politico"/>
+    <cse:Attribute name="twitter:creator" value="@politico"/>
+    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
+    <cse:Attribute name="og:site_name" value="POLITICO"/>
+    <cse:Attribute name="host" value="www.politico.com"/>
+    <cse:Attribute name="build" value="release/2017-lee d8c3bfb 2017-08-09T21:13:54Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="headline" value="Unpacking the Trump vs. McConnell war of words"/>
+    <cse:Attribute name="datepublished" value="2017-08-10 13:08:36"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="url" value="http://www.politico.com/"/>
+    <cse:Attribute name="name" value="POLITICO"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://static.politico.com/07/b1/8a4629fd469d9524c83a83444287/170810-mitch-mcconnell-ap-1160.jpg"/>
+    <cse:Attribute name="width" value="1160"/>
+    <cse:Attribute name="height" value="550"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static.politico.com/07/b1/8a4629fd469d9524c83a83444287/170810-mitch-mcconnell-ap-1160.jpg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.politico.com/tipsheets/playbook-power-briefing/2017/08/10/trump-goes-after-mcconnell-again-big-shakeup-at-wells-fargo-2016-warmest-year-on-record-sam-clovis-potus-pick-for-top-ag-post-stoked-birtherism-221813</id>
+  <updated>1970-01-18T09:20:10.319Z</updated>
+  <title type="html">Playbook Power Briefing: TRUMP goes after MCCONNELL again ...</title>
+  <link href="http://www.politico.com/tipsheets/playbook-power-briefing/2017/08/10/trump-goes-after-mcconnell-again-big-shakeup-at-wells-fargo-2016-warmest-year-on-record-sam-clovis-potus-pick-for-top-ag-post-stoked-birtherism-221813" title="www.politico.com"/>
+  <summary type="html">FROM &lt;b&gt;A SENATE REPUBLICAN AIDE&lt;/b&gt;: “This makes about as much sense as &lt;br&gt;
+sidelining Tom Brady because you didn&amp;#39;t like his answer at a news conference.</summary>
+  <cse:cacheId>AUtjb6jbx98J</cse:cacheId>
+  <cse:formattedUrl type="html">www.politico.com/.../trump-goes-after-mcconnell-again-big-shakeup-at-wells -fargo-2016-warmest-year-on-record-sam-clovis-potus-pick-for-top...</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jack Shafer"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jack-shafer"/>
+    <cse:Attribute name="url_text" value="Jack Shafer"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Jake Sherman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jake-sherman"/>
+    <cse:Attribute name="url_text" value="Jake Sherman"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Anna Palmer"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/anna-palmer"/>
+    <cse:Attribute name="url_text" value="Anna Palmer"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Daniel Lippman"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/daniel-lippman"/>
+    <cse:Attribute name="url_text" value="Daniel Lippman"/>
+   </cse:DataObject>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Zach Montellaro"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/zach-montellaro"/>
+    <cse:Attribute name="url_text" value="Zach Montellaro"/>
+   </cse:DataObject>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="og:title" value="Playbook Power Briefing: TRUMP goes after MCCONNELL again"/>
+    <cse:Attribute name="og:description" value="Plus, a new international report says that 2016 is the warmest year in nearly 150 years of measuring."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1"/>
+    <cse:Attribute name="og:type" value="website"/>
+    <cse:Attribute name="fb:pages" value="62317591679"/>
+    <cse:Attribute name="og:url" value="http://politi.co/2vSSEWx"/>
+    <cse:Attribute name="article:author" value="https://www.facebook.com/Jakeshermanpolitico"/>
+    <cse:Attribute name="og:image" value="http://static.politico.com/c8/0d/7612b028495d998a98982b884257/13-donald-trump-2-gty.jpg"/>
+    <cse:Attribute name="twitter:title" value="Playbook Power Briefing: TRUMP goes after MCCONNELL again"/>
+    <cse:Attribute name="twitter:description" value="Plus, a new international report says that 2016 is the warmest year in nearly 150 years of measuring."/>
+    <cse:Attribute name="twitter:image" value="http://static.politico.com/c8/0d/7612b028495d998a98982b884257/13-donald-trump-2-gty.jpg"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="@politico"/>
+    <cse:Attribute name="twitter:creator" value="@politico"/>
+    <cse:Attribute name="og:fb_appid" value="114037015331397"/>
+    <cse:Attribute name="og:site_name" value="POLITICO"/>
+    <cse:Attribute name="host" value="www.politico.com"/>
+    <cse:Attribute name="build" value="release/2017-lee d8c3bfb 2017-08-09T21:13:54Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="TRUMP goes after MCCONNELL again -- Big shakeup at Wells Fargo -- 2016 WARMEST YEAR on record -- SAM CLOVIS, POTUS’ pick for top Ag post, stoked birtherism"/>
+    <cse:Attribute name="datepublished" value="2017-08-10 13:10:13"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="url" value="http://www.politico.com/"/>
+    <cse:Attribute name="name" value="POLITICO"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="url" value="http://static.politico.com/58/64/ea520fa041429299e31dc096179b/pb-briefing-1200.jpg"/>
+    <cse:Attribute name="width" value="50"/>
+    <cse:Attribute name="height" value="50"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Jake Sherman"/>
+    <cse:Attribute name="email" value="sherman@politico.com"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://static.politico.com/c8/0d/7612b028495d998a98982b884257/13-donald-trump-2-gty.jpg"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.bloomberg.com/news/articles/2017-08-09/trump-s-nuclear-weapons-arsenal-isn-t-any-different-than-obama-s</id>
+  <updated>1970-01-18T09:20:10.319Z</updated>
+  <title type="html">Trump&amp;#39;s Nuclear Weapons Arsenal Isn&amp;#39;t Any Different Than Obama&amp;#39;s ...</title>
+  <link href="https://www.bloomberg.com/news/articles/2017-08-09/trump-s-nuclear-weapons-arsenal-isn-t-any-different-than-obama-s" title="www.bloomberg.com"/>
+  <summary type="html">... much less the turning of wrenches to modernize it, according to &lt;b&gt;a Senate&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;Republican aide&lt;/b&gt; who requested anonymity because of the sensitivity of the issue.</summary>
+  <cse:cacheId>mS9mKStr6UkJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.bloomberg.com/.../trump-s-nuclear-weapons-arsenal-isn-t-any- different-than-obama-s</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1"/>
+    <cse:Attribute name="referrer" value="unsafe-url"/>
+    <cse:Attribute name="al:android:url" value="bloomberg://www.bloomberg.com/news/articles/2017-08-09/trump-s-nuclear-weapons-arsenal-isn-t-any-different-than-obama-s?utm_medium=applink&amp;utm_source=facebook"/>
+    <cse:Attribute name="al:android:package" value="com.bloomberg.android.plus"/>
+    <cse:Attribute name="al:android:app_name" value="Bloomberg"/>
+    <cse:Attribute name="og:description" value="President Donald Trump says the U.S. nuclear arsenal has been beefed up since he took office in January. Not quite."/>
+    <cse:Attribute name="og:image" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuHFlOeH_dRo/v0/1200x864.jpg"/>
+    <cse:Attribute name="og:site_name" value="Bloomberg.com"/>
+    <cse:Attribute name="og:title" value="Trump’s Nuclear Weapons Arsenal Isn’t Any Different Than Obama’s"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:url" value="https://www.bloomberg.com/news/articles/2017-08-09/trump-s-nuclear-weapons-arsenal-isn-t-any-different-than-obama-s"/>
+    <cse:Attribute name="fb:status" value="President Donald Trump says the U.S. nuclear arsenal has been beefed up since he took office in January. Not quite."/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:description" value="President Donald Trump says the U.S. nuclear arsenal has been beefed up since he took office in January. Not quite."/>
+    <cse:Attribute name="twitter:image" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuHFlOeH_dRo/v0/1200x864.jpg"/>
+    <cse:Attribute name="twitter:site" value="@bpolitics"/>
+    <cse:Attribute name="twitter:title" value="Trump’s Nuclear Weapons Arsenal Isn’t Any Different Than Obama’s"/>
+    <cse:Attribute name="parsely-title" value="Trump’s Nuclear Weapons Arsenal Isn’t Any Different Than Obama’s"/>
+    <cse:Attribute name="parsely-link" value="https://www.bloomberg.com/news/articles/2017-08-09/trump-s-nuclear-weapons-arsenal-isn-t-any-different-than-obama-s"/>
+    <cse:Attribute name="parsely-type" value="post"/>
+    <cse:Attribute name="parsely-image-url" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuHFlOeH_dRo/v0/1200x864.jpg"/>
+    <cse:Attribute name="parsely-pub-date" value="2017-08-09T18:32:10.085Z"/>
+    <cse:Attribute name="parsely-section" value="politics"/>
+    <cse:Attribute name="parsely-tags" value="Donald John Trump,Barack Obama,North Korea,Military,Air Force,NORTHROP GRUMMAN CORP,United States,U.S. Republicans,ARMS CONTROL ASSOCIATION,Aerospace Industry,Secondary Brand: politics,Region: Global,Page: article"/>
+    <cse:Attribute name="parsely-post-id" value="OUFGHJ6TTDS101"/>
+    <cse:Attribute name="parsely-author" value="Nafeesa Syeed"/>
+    <cse:Attribute name="apple-mobile-web-app-capable" value="no"/>
+    <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=281941097, affiliate-data=ct=smartbanner_mobileweb&amp;pt=8949&amp;utm_source=smart_banner"/>
+    <cse:Attribute name="sailthru.title" value="Trump’s Nuclear Weapons Arsenal Isn’t Any Different Than Obama’s"/>
+    <cse:Attribute name="sailthru.author" value="Nafeesa Syeed"/>
+    <cse:Attribute name="sailthru.description" value="President Donald Trump says the U.S. nuclear arsenal has been beefed up since he took office in January. Not quite."/>
+    <cse:Attribute name="sailthru.date" value="2017-08-09T18:32:10.085Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="article">
+    <cse:Attribute name="datepublished" value="2017-08-09T18:32:10.085Z"/>
+    <cse:Attribute name="datemodified" value="2017-08-10T00:32:16.487Z"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuHFlOeH_dRo/v0/1200x864.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="265"/>
+    <cse:Attribute name="height" value="190"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZjav9Prx4BKuugBhqsVUxwF8y0UvwCn6MmWbiKgY_sklNMFSZxyxz7ZI"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
 </feed>
