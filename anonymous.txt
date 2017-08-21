@@ -1,641 +1,292 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "sources familiar with"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="sources familiar with"&amp;cx=012091639844104041986:munhfapni70&amp;num=10&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "refused to be named"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="refused to be named"&amp;cx=012091639844104041986:munhfapni70&amp;num=5&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T09:33:47.300Z</updated>
+ <updated>1970-01-18T09:35:17.634Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="4350" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="4350" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>4350</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;refused to be named&quot;" totalResults="5" searchTerms="&quot;refused to be named&quot;" count="5" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>5</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.196378</cse:searchTime>
-  <cse:formattedSearchTime>0.20</cse:formattedSearchTime>
-  <cse:totalResults>4350</cse:totalResults>
-  <cse:formattedTotalResults>4,350</cse:formattedTotalResults>
+  <cse:searchTime>0.28341</cse:searchTime>
+  <cse:formattedSearchTime>0.28</cse:formattedSearchTime>
+  <cse:totalResults>5</cse:totalResults>
+  <cse:formattedTotalResults>5</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>http://www.chicagotribune.com/news/local/breaking/ct-teamsters-boss-extortion-cinespace-studios-met-20170817-story.html</id>
-  <updated>1970-01-18T09:33:47.300Z</updated>
-  <title type="html">Sources: Feds made recordings at Cinespace Chicago studios in ...</title>
-  <link href="http://www.chicagotribune.com/news/local/breaking/ct-teamsters-boss-extortion-cinespace-studios-met-20170817-story.html" title="www.chicagotribune.com"/>
-  <summary type="html">Recording equipment was used in the West Side facility to surreptitiously capture &lt;br&gt;
-conversations there, according to &lt;b&gt;sources familiar with&lt;/b&gt; the matter. The sources&amp;nbsp;...</summary>
-  <cse:cacheId>81Kf5z5Gws4J</cse:cacheId>
-  <cse:formattedUrl type="html">www.chicagotribune.com/.../ct-teamsters-boss-extortion-cinespace-studios- met-20170817-story.html</cse:formattedUrl>
+  <id>https://www.msn.com/en-ie/news/world/families-torn-apart-after-spains-twin-attacks/ar-AAqjsoB</id>
+  <updated>1970-01-18T09:35:17.634Z</updated>
+  <title type="html">Families torn apart after Spain&amp;#39;s twin attacks</title>
+  <link href="https://www.msn.com/en-ie/news/world/families-torn-apart-after-spains-twin-attacks/ar-AAqjsoB" title="www.msn.com"/>
+  <summary type="html">In another tragic story, a source from Barcelona&amp;#39;s city hall, who &lt;b&gt;refused to be&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;named&lt;/b&gt;, said a Belgian family had also been torn apart. &amp;quot;The father and two &lt;br&gt;
+children&amp;nbsp;...</summary>
+  <cse:cacheId>DNbhSc8pLW0J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.msn.com/en-ie/news/world/families.../ar-AAqjsoB</cse:formattedUrl>
   <cse:PageMap>
+   <cse:DataObject type="hcard">
+    <cse:Attribute name="fn" value="Alfons LUNA"/>
+   </cse:DataObject>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="author" value="Jeff Coen, Jason Meisner, Dan Hinkel"/>
-    <cse:Attribute name="date" value="2017-08-17"/>
-    <cse:Attribute name="copyright" value="Copyright (c) 2017 Chicago Tribune"/>
-    <cse:Attribute name="news_keywords" value="Cinespace, Teamsters, recordings, FBI, John Coli, Chicago Fire, Chicago P.D. tv show, Rahm Emanuel,"/>
-    <cse:Attribute name="fb_title" value="Sources: Feds made recordings at Cinespace Chicago studios in probe of Teamsters boss"/>
-    <cse:Attribute name="og:title" value="Sources: Feds made recordings at Cinespace Chicago studios in probe of Teamsters boss"/>
-    <cse:Attribute name="og:description" value="Federal authorities made secret recordings at Cinespace Chicago Film Studios as part of an investigation into a Teamsters union boss who last month was charged"/>
-    <cse:Attribute name="fb:page_id" value="5953023255"/>
-    <cse:Attribute name="fb:app_id" value="306836229411287"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:url" value="http://www.chicagotribune.com/news/local/breaking/ct-teamsters-boss-extortion-cinespace-studios-met-20170817-story.html"/>
-    <cse:Attribute name="og:image" value="http://www.trbimg.com/img-59960470/turbine/ct-teamsters-boss-extortion-cinespace-studios-met-20170817"/>
-    <cse:Attribute name="og:site_name" value="chicagotribune.com"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:site" value="@chicagotribune"/>
-    <cse:Attribute name="googlebot-news" value="index"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/94362612"/>
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i18prod-82a33f5-10-10.1"/>
-    <cse:Attribute name="so:status" value="5,1"/>
-    <cse:Attribute name="fb:pages" value="5953023255"/>
-   </cse:DataObject>
-   <cse:DataObject type="article">
-    <cse:Attribute name="articlesection" value="News"/>
-    <cse:Attribute name="headline" value="Sources: Feds made recordings at Cinespace Chicago studios in probe of Teamsters boss"/>
-    <cse:Attribute name="author" value="Jeff Coen"/>
-    <cse:Attribute name="datepublished" value="2017-08-17T18:41:50CDT"/>
-    <cse:Attribute name="articlebody" value="Federal authorities made secret recordings at Cinespace Chicago Film Studios as part of an investigation into a Teamsters union boss who last month was charged with extorting the business,..."/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://www.trbimg.com/img-59960470/turbine/ct-teamsters-boss-extortion-cinespace-studios-met-20170817"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="300"/>
-    <cse:Attribute name="height" value="168"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSisXlSY4lqUzylgQ2Fz4Vtk20KbIBHUFI9YtHvFD_kz28SGPgzG2JGTZw"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/journalists/andrew-berlin</id>
-  <updated>1970-01-18T09:33:47.300Z</updated>
-  <title type="html">Andrew Berlin</title>
-  <link href="https://www.reuters.com/journalists/andrew-berlin" title="www.reuters.com"/>
-  <summary type="html">... about the debt financing that will support the company&amp;#39;s acquisition of &lt;br&gt;
-Symantec&amp;#39;s web certification business, according to four &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-matter.</summary>
-  <cse:cacheId>NzlkX-Uhya0J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/journalists/andrew-berlin</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Landing - Blogs"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Blogs"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Blogs - Opinion"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Blogs"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Opinion"/>
-    <cse:Attribute name="analyticsattributes.author" value="Reuters Editorial"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/journalists/andrew-berlin"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Columns | Reuters.com"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Breaking News;World News;Video news;Investing;financial information; Business News;Rueters;Roiters;Markets"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/journalists/andrew-berlin"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/jabal-omar-sukuk-idUSL8N1L013G</id>
-  <updated>1970-01-18T09:33:47.300Z</updated>
-  <title type="html">Saudi Arabian developer Jabal Omar to raise 4 billion riyals via ...</title>
-  <link href="https://www.reuters.com/article/jabal-omar-sukuk-idUSL8N1L013G" title="www.reuters.com"/>
-  <summary type="html">... one of the largest listed property developers in the country, plans to raise 4 &lt;br&gt;
-billion riyals ($1.1 billion) with local currency sukuk issues, &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-the&amp;nbsp;...</summary>
-  <cse:cacheId>NqnE82tBi44J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/jabal-omar-sukuk-idUSL8N1L013G</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
-    <cse:Attribute name="dcsext.channellist" value="Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="Saudi+Arabian+developer+Jabal+Omar+to+raise+4+billion+riyals+via+sukuk+%E2%80%93sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-Intel"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Saudi Arabia;Al Bilad;JABAL OMAR;SUKUK/;Investment Banking and Investment Services (TRBC);Islamic Finance;Credit and Corporate Debt;Saudi Arabia;Corporate Debt;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Banking Services (TRBC);Banks (TRBC);Real Estate Development and Operations (TRBC);Company News;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Corporate Events;Economic Events;Real Estate (Legacy);Real Estate Operations (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Real Estate (TRBC);Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Mon Aug 14 08:47:55 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-14T08:47:55+0000"/>
-    <cse:Attribute name="sailthru.title" value="Saudi Arabian developer Jabal Omar to raise 4 billion riyals via sukuk –sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Saudi Arabian developer Jabal Omar to raise 4 billion riyals via sukuk –sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/jabal-omar-sukuk-idUSL8N1L013G"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Saudi Arabia’s Jabal OmarDevelopment Co, one of the largest listed propertydevelopers in the country, plans to raise 4 billion riyals ($1.1billion) with local currency sukuk issues, sources familiar withthe matter said on Monday."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-14T08:47:55+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-14T08:47:55+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Saudi Arabia,Al Bilad,JABAL OMAR,SUKUK/,Investment Banking and Investment Services (TRBC),Islamic Finance,Credit and Corporate Debt,Saudi Arabia,Corporate Debt,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Banking Services (TRBC),Banks (TRBC),Real Estate Development and Operations (TRBC),Company News,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Corporate Events,Economic Events,Real Estate (Legacy),Real Estate Operations (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Real Estate (TRBC),Emerging Market Countries,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Saudi Arabian developer Jabal Omar to raise 4 billion riyals via sukuk –sources"/>
-    <cse:Attribute name="twitter:description" value="Saudi Arabia’s Jabal OmarDevelopment Co, one of the largest listed propertydevelopers in the country, plans to raise 4 billion riyals ($1.1billion) with local currency sukuk issues, sources familiar withthe matter said on Monday."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Homepage"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
-    <cse:Attribute name="wt.cg_n" value="Homepage"/>
-    <cse:Attribute name="wt.cg_s" value="Homepage"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="application-name" value="Families torn apart after Spain&apos;s twin attacks"/>
+    <cse:Attribute name="cq" value="passed"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#1e1e1e"/>
+    <cse:Attribute name="msapplication-tileimage" value="//static-entertainment-eus-s-msn-com.akamaized.net/sc/1f/08ced4.png"/>
     <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
+    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <cse:Attribute name="sharing_url" value="http://a.msn.com/01/en-ie/AAqjsoB"/>
+    <cse:Attribute name="og:url" value="https://www.msn.com/en-ie/news/world/families-torn-apart-after-spains-twin-attacks/ar-AAqjsoB"/>
+    <cse:Attribute name="og:title" value="Families torn apart after Spain&apos;s twin attacks"/>
+    <cse:Attribute name="og:description" value="&quot;Missing in Barcelona,&quot; reads a Facebook message posted by Tony Cadman, asking users to share a picture of his seven-year-old grandson who disappeared after a van ploughed into crowds in the Spanish seaside city."/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:site_name" value="MSN"/>
+    <cse:Attribute name="og:image" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAqiw5q.img"/>
+    <cse:Attribute name="fb:app_id" value="689384617806917"/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Alfons LUNA"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="articlebody" value="© Provided by AFP There are at least 34 nationalities among the dead and injured in Spain&apos;s twin attacks &quot;Missing in Barcelona,&quot; reads a Facebook message posted by Tony Cadman, asking users..."/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAqiw5q.img"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
+    <cse:Attribute name="width" value="274"/>
+    <cse:Attribute name="height" value="184"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjXkLdGfzf1vRIHfArEa87Niy3RMIE1a33zwP8dHFBUxLvStpN6qkwedX"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-ecb-policy-draghi-idUSKCN1AW0LF</id>
-  <updated>1970-01-18T09:33:47.300Z</updated>
-  <title type="html">ECB&amp;#39;s Draghi will not deliver fresh policy steer at Jackson Hole ...</title>
-  <link href="https://www.reuters.com/article/us-ecb-policy-draghi-idUSKCN1AW0LF" title="www.reuters.com"/>
-  <summary type="html">... not deliver a new policy message at the U.S. Federal Reserve&amp;#39;s Jackson Hole &lt;br&gt;
-conference, two &lt;b&gt;sources familiar with&lt;/b&gt; the situation said, tempering expectations&amp;nbsp;...</summary>
-  <cse:cacheId>Ox_jbZhA8oYJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-ecb-policy-draghi-idUSKCN1AW0LF</cse:formattedUrl>
+  <id>https://www.vice.com/en_au/article/7bdnqe/gangs-south-africa-cape-flats-metro-police</id>
+  <updated>1970-01-18T09:35:17.634Z</updated>
+  <title type="html">Patrolling One of the World&amp;#39;s Deadliest Drug Zones with Its Anti ...</title>
+  <link href="https://www.vice.com/en_au/article/7bdnqe/gangs-south-africa-cape-flats-metro-police" title="www.vice.com"/>
+  <summary type="html">The officers we accompanied &lt;b&gt;refused to be named&lt;/b&gt; for fear of gang retaliation, but &lt;br&gt;
+they all share a kind of beleaguered inevitability. The night&amp;#39;s report ends with a&amp;nbsp;...</summary>
+  <cse:cacheId>VCx6mBLuneIJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.vice.com/en.../gangs-south-africa-cape-flats-metro-police</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
-    <cse:Attribute name="dcsext.channellist" value="ousivMolt;bank-news;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="ECB%27s+Draghi+will+not+deliver+fresh+policy+steer+at+Jackson+Hole%3A+sources"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Balazs Koranyi"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-ousivMolt"/>
-    <cse:Attribute name="author" value="Balazs Koranyi"/>
-    <cse:Attribute name="news_keywords" value="Portugal;Mario Draghi;US;ECB;POLICY;DRAGHI;Germany;Western Europe;Inflation;Interest Rates / Policy;Asset;Backed Securities;Major News;Debt / Fixed Income Markets;Monetary / Fiscal Policy / Policy Makers;Labour / Personnel;Economic News (3rd Party);United States;Banks (TRBC);US Federal Reserve;European Central Bank;Central Banks / Central Bank Events;Corporate Events;Economic Events;European Union;National Government Debt;Euro Zone as a Whole;Money Markets;Europe;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Wed Aug 16 07:57:19 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Balazs Koranyi"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-16T07:57:19+0000"/>
-    <cse:Attribute name="sailthru.title" value="ECB&apos;s Draghi will not deliver fresh policy steer at Jackson Hole: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="ECB&apos;s Draghi will not deliver fresh policy steer at Jackson Hole: sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-ecb-policy-draghi-idUSKCN1AW0LF"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="European Central Bank President Mario Draghi will not deliver a new policy message at the U.S. Federal Reserve&apos;s Jackson Hole conference, two sources familiar with the situation said, tempering expectations for the bank to start charting the course out of stimulus."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170816&amp;t=2&amp;i=1197301660&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7F0B4"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-16T07:57:19+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-16T07:57:19+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Balazs Koranyi"/>
-    <cse:Attribute name="og:article:tag" value="Portugal,Mario Draghi,US,ECB,POLICY,DRAGHI,Germany,Western Europe,Inflation,Interest Rates / Policy,Asset,Backed Securities,Major News,Debt / Fixed Income Markets,Monetary / Fiscal Policy / Policy Makers,Labour / Personnel,Economic News (3rd Party),United States,Banks (TRBC),US Federal Reserve,European Central Bank,Central Banks / Central Bank Events,Corporate Events,Economic Events,European Union,National Government Debt,Euro Zone as a Whole,Money Markets,Europe,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="news_keywords" value="culture, news, lgbtq, politics, journalism, video, documentary, sex, drugs, film, tv, entertainment, travel, crime,South Africa,CRIME,gangs,murder,shootings,Vice Blog,cape flats,Karl Kemp,Shaun Swingler,The Metro Police"/>
+    <cse:Attribute name="thumbnail" value="https://images.vice.com/vice/images/articles/meta/2016/02/15/gangs-south-africa-cape-flats-metro-police-1455536142.jpg"/>
+    <cse:Attribute name="fb:app_id" value="213518685373476"/>
+    <cse:Attribute name="og:site_name" value="Vice"/>
+    <cse:Attribute name="og:title" value="Patrolling One of the World&apos;s Deadliest Drug Zones with Its Anti-Gang Cops"/>
+    <cse:Attribute name="og:image" value="https://images.vice.com/vice/images/articles/meta/2016/02/15/gangs-south-africa-cape-flats-metro-police-1455536142.jpg"/>
+    <cse:Attribute name="og:image:type" value="image/jpeg"/>
+    <cse:Attribute name="og:locale" value="en_us"/>
+    <cse:Attribute name="og:url" value="https://www.vice.com/en_au/article/7bdnqe/gangs-south-africa-cape-flats-metro-police"/>
+    <cse:Attribute name="og:description" value="Policing the gangs of South Africa&apos;s Cape Flats is as much of a nightmare on a political level as it is on the ground."/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="ECB&apos;s Draghi will not deliver fresh policy steer at Jackson Hole: sources"/>
-    <cse:Attribute name="twitter:description" value="European Central Bank President Mario Draghi will not deliver a new policy message at the U.S. Federal Reserve&apos;s Jackson Hole conference, two sources familiar with the situation said, tempering expectations for the bank to start charting the course out of stimulus."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170816&amp;t=2&amp;i=1197301660&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7F0B4"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170816&amp;t=2&amp;i=1197301660&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7F0B4"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Markets"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
+    <cse:Attribute name="twitter:site" value="VICEAU"/>
+    <cse:Attribute name="twitter:title" value="Patrolling One of the World&apos;s Deadliest Drug Zones with Its Anti-Gang Cops"/>
+    <cse:Attribute name="twitter:description" value="Policing the gangs of South Africa&apos;s Cape Flats is as much of a nightmare on a political level as it is on the ground."/>
+    <cse:Attribute name="mobile-web-app-capable" value="yes"/>
+    <cse:Attribute name="theme-color" value="#fff"/>
+    <cse:Attribute name="application-name" value="vice"/>
+    <cse:Attribute name="apple-mobile-web-app-capable" value="yes"/>
+    <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black-translucent"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="vice"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#fff"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://vice-web-statics-cdn.vice.com/favicons/vice/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-config" value="https://vice-web-statics-cdn.vice.com/favicons/vice/browserconfig.xml"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=591496838"/>
+    <cse:Attribute name="datepublished" value="2016-02-15T16:00:00-08:00"/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2016/02/15/gangs-south-africa-cape-flats-metro-police-1455536142.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170816&amp;t=2&amp;i=1197301660&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7F0B4"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="279"/>
-    <cse:Attribute name="height" value="181"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvXEbRdr5vFOrFcIfmGs1TOj82DAlctskY3tdZ_DeLNHgDlBf8gUv6BENY"/>
+    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2016/02/15/gangs-south-africa-cape-flats-metro-police-1455536142.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="275"/>
+    <cse:Attribute name="height" value="183"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/digicert-ma-idUSL2N1L118Z</id>
-  <updated>1970-01-18T09:33:47.300Z</updated>
-  <title type="html">LPC: DigiCert to back Symantec unit buy with US$1.59bn loan ...</title>
-  <link href="https://www.reuters.com/article/digicert-ma-idUSL2N1L118Z" title="www.reuters.com"/>
-  <summary type="html">... the debt financing that will support the company&amp;#39;sacquisition of Symantec&amp;#39;s &lt;br&gt;
-web certification business, accordingto four &lt;b&gt;sources familiar with&lt;/b&gt; the matter.</summary>
-  <cse:cacheId>RtU_JYBJGWgJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/digicert-ma-idUSL2N1L118Z</cse:formattedUrl>
+  <id>https://www.yahoo.com/news/search-loved-ones-spains-twin-attacks-152136337.html</id>
+  <updated>1970-01-18T09:35:17.634Z</updated>
+  <title type="html">Families torn apart after Spain&amp;#39;s twin attacks</title>
+  <link href="https://www.yahoo.com/news/search-loved-ones-spains-twin-attacks-152136337.html" title="www.yahoo.com"/>
+  <summary type="html">In another tragic story, a source from Barcelona&amp;#39;s city hall, who &lt;b&gt;refused to be&lt;/b&gt; &lt;br&gt;
+&lt;b&gt;named&lt;/b&gt;, said a Belgian family had also been torn apart. &amp;quot;The father and two &lt;br&gt;
+children&amp;nbsp;...</summary>
+  <cse:cacheId>ngyGj1D3Hw0J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.yahoo.com/.../search-loved-ones-spains-twin-attacks-152136337 .html</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="fundsFundsNews"/>
-    <cse:Attribute name="dcsext.channellist" value="fundsFundsNews;marketsNews;bondsNews;Intel"/>
-    <cse:Attribute name="dcsext.contentheadline" value="LPC%3A+DigiCert+to+back+Symantec+unit+buy+with+US%241.59bn+loan"/>
-    <cse:Attribute name="dcsext.pagenumber" value="1"/>
-    <cse:Attribute name="dcsext.pagetotal" value="1"/>
-    <cse:Attribute name="dcsext.contentversion" value="original"/>
-    <cse:Attribute name="dcsext.rauthor" value="Reuters Editorial"/>
-    <cse:Attribute name="wt.z_inlinetype" value="false"/>
-    <cse:Attribute name="wt.z_navid" value="nav-Text-fundsFundsNews"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="United States;DIGICERT;MandA/;Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Software (TRBC);Credit and Corporate Debt;Corporate Debt;Debt / Fixed Income Markets;Deals;United States;Loans;Banking Services (TRBC);Americas;Banks (TRBC);Funds;Company News;Financials (TRBC);Software and IT Services (TRBC);Financials (Legacy);New Issues;Corporate Events;Economic Events;Technology (TRBC);Investment Banking and Brokerage Services (TRBC);Market Events;Banking and Investment Services (TRBC);Technology / Media / Telecoms;New York;Banking Services (Legacy);Investment Management and Fund Operators (TRBC);Private Equity Funds"/>
-    <cse:Attribute name="revision_date" value="Tue Aug 15 17:59:58 UTC 2017"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-15T17:59:58+0000"/>
-    <cse:Attribute name="sailthru.title" value="LPC: DigiCert to back Symantec unit buy with US$1.59bn loan"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="Reuters"/>
-    <cse:Attribute name="site edition" value="Reuters"/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="LPC: DigiCert to back Symantec unit buy with US$1.59bn loan"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/digicert-ma-idUSL2N1L118Z"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="US internet security companyDigiCert&apos;s banks have begun sounding out prospective investorsabout the debt financing that will support the company&apos;sacquisition of Symantec’s web certification business, accordingto four sources familiar with the matter."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-15T17:59:58+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-15T17:59:58+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="United States,DIGICERT,MandA/,Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Software (TRBC),Credit and Corporate Debt,Corporate Debt,Debt / Fixed Income Markets,Deals,United States,Loans,Banking Services (TRBC),Americas,Banks (TRBC),Funds,Company News,Financials (TRBC),Software and IT Services (TRBC),Financials (Legacy),New Issues,Corporate Events,Economic Events,Technology (TRBC),Investment Banking and Brokerage Services (TRBC),Market Events,Banking and Investment Services (TRBC),Technology / Media / Telecoms,New York,Banking Services (Legacy),Investment Management and Fund Operators (TRBC),Private Equity Funds"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="LPC: DigiCert to back Symantec unit buy with US$1.59bn loan"/>
-    <cse:Attribute name="twitter:description" value="US internet security companyDigiCert&apos;s banks have begun sounding out prospective investorsabout the debt financing that will support the company&apos;sacquisition of Symantec’s web certification business, accordingto four sources familiar with the matter."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.rchannel" value="Article - Markets"/>
-    <cse:Attribute name="dcsext.contenttype" value="Article"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/funds/article"/>
-    <cse:Attribute name="wt.cg_n" value="Markets"/>
-    <cse:Attribute name="wt.cg_s" value="Funds"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/jordan-bonds-idUSL5N1KZ0B6</id>
-  <updated>1970-01-18T09:33:47.300Z</updated>
-  <title type="html">Jordan approaches banks for dollar bond or sukuk issue -sources ...</title>
-  <link href="https://www.reuters.com/article/jordan-bonds-idUSL5N1KZ0B6" title="www.reuters.com"/>
-  <summary type="html">The government of Jordan has askedbanks to submit proposals to arrange a U.S. &lt;br&gt;
-dollar conventionalor Islamic bond issue, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said&amp;nbsp;...</summary>
-  <cse:cacheId>Dp4CwnXrd34J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/jordan-bonds-idUSL5N1KZ0B6</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="Intel"/>
-    <cse:Attribute name="dcsext.channellist" value="Intel"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Jordan;Syria;United States;JORDAN;BONDS/;Investment Banking and Investment Services (TRBC);Jordan;Islamic Finance;Credit and Corporate Debt;Asia / Pacific;Debt / Fixed Income Markets;Middle East;Company News;Government Finances;Financials (TRBC);Sukuk;Financials (Legacy);New Issues;Government / Politics;Corporate Events;Economic Events;General News;Investment Banking and Brokerage Services (TRBC);National Government Debt;Market Events;Banking and Investment Services (TRBC);Emerging Market Countries"/>
-    <cse:Attribute name="revision_date" value="Sun Aug 13 11:28:42 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-13T11:28:42+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Reuters Editorial"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/jordan-bonds-idUSL5N1KZ0B6"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Jordan approaches banks for dollar bond or sukuk issue -sources"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="Jordan,Syria,United States,JORDAN,BONDS/,Investment Banking and Investment Services (TRBC),Jordan,Islamic Finance,Credit and Corporate Debt,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Company News,Government Finances,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Government / Politics,Corporate Events,Economic Events,General News,Investment Banking and Brokerage Services (TRBC),National Government Debt,Market Events,Banking and Investment Services (TRBC),Emerging Market Countries"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="JORDAN-BONDS/"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="Jordan approaches banks for dollar bond or sukuk issue -sources"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-13T11:28:42+0000"/>
-    <cse:Attribute name="sailthru.title" value="Jordan approaches banks for dollar bond or sukuk issue -sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Jordan approaches banks for dollar bond or sukuk issue -sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/jordan-bonds-idUSL5N1KZ0B6"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The government of Jordan has askedbanks to submit proposals to arrange a U.S. dollar conventionalor Islamic bond issue, sources familiar with the matter said onSunday."/>
-    <cse:Attribute name="og:image" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-13T11:28:42+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-13T11:28:42+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Jordan,Syria,United States,JORDAN,BONDS/,Investment Banking and Investment Services (TRBC),Jordan,Islamic Finance,Credit and Corporate Debt,Asia / Pacific,Debt / Fixed Income Markets,Middle East,Company News,Government Finances,Financials (TRBC),Sukuk,Financials (Legacy),New Issues,Government / Politics,Corporate Events,Economic Events,General News,Investment Banking and Brokerage Services (TRBC),National Government Debt,Market Events,Banking and Investment Services (TRBC),Emerging Market Countries"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Jordan approaches banks for dollar bond or sukuk issue -sources"/>
-    <cse:Attribute name="twitter:description" value="The government of Jordan has askedbanks to submit proposals to arrange a U.S. dollar conventionalor Islamic bond issue, sources familiar with the matter said onSunday."/>
-    <cse:Attribute name="twitter:image:src" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/home"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Homepage"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Homepage - Homepage"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Homepage"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Homepage"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-anglogold-ashnti-m-a-idUSKCN1AY0ZC</id>
-  <updated>1970-01-18T09:33:47.300Z</updated>
-  <title type="html">Exclusive: AngloGold Ashanti revives plans to spin off South Africa ...</title>
-  <link href="https://www.reuters.com/article/us-anglogold-ashnti-m-a-idUSKCN1AY0ZC" title="www.reuters.com"/>
-  <summary type="html">AngloGold Ashanti is considering separating its South African assets from the &lt;br&gt;
-rest of its portfolio, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters, three years&amp;nbsp;...</summary>
-  <cse:cacheId>Ku1Ve4TmwsoJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-anglogold-ashnti-m-a-idUSKCN1AY0ZC</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="GCA-Commodities;africa-news;metals-news;Intel"/>
-    <cse:Attribute name="author" value="Zandi Shabalala and Clara Denina"/>
-    <cse:Attribute name="news_keywords" value="Australia;Brazil;Ghana;Mali;South Africa;Tanzania;US;ANGLOGOLD;ASHNTI;M;A;Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Company News;Gold;Precious Metals and Minerals (TRBC);Precious Metals;Coal (TRBC);South Africa;Exclusive;Africa;Corporate Events;Specialty Mining and Metals (TRBC);Divestitures / Spin;Offs;English;Metals Markets;Major News;Energy (TRBC);Commodities News (3rd Party);Deals"/>
-    <cse:Attribute name="revision_date" value="Fri Aug 18 10:07:56 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-18T10:07:56+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Zandi Shabalala and Clara Denina"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-anglogold-ashnti-m-a-idUSKCN1AY0ZC"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Exclusive: AngloGold Ashanti revives plans to spin off South Africa mines - sources"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="Australia,Brazil,Ghana,Mali,South Africa,Tanzania,US,ANGLOGOLD,ASHNTI,M,A,Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Company News,Gold,Precious Metals and Minerals (TRBC),Precious Metals,Coal (TRBC),South Africa,Exclusive,Africa,Corporate Events,Specialty Mining and Metals (TRBC),Divestitures / Spin,Offs,English,Metals Markets,Major News,Energy (TRBC),Commodities News (3rd Party),Deals"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="US-ANGLOGOLD-ASHNTI-M-A"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="Exclusive: AngloGold Ashanti revives plans to spin off South Africa mines - sources"/>
-    <cse:Attribute name="sailthru.author" value="Zandi Shabalala and Clara Denina"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-18T10:07:56+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: AngloGold Ashanti revives plans to spin off South Africa mines - sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: AngloGold Ashanti revives plans to spin off South Africa mines - sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-anglogold-ashnti-m-a-idUSKCN1AY0ZC"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="AngloGold Ashanti is considering separating its South African assets from the rest of its portfolio, two sources familiar with the matter told Reuters, three years after shareholders revolted against a similar effort."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170818&amp;t=2&amp;i=1197630461&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7H0JK"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-18T10:07:56+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-18T10:07:56+0000"/>
-    <cse:Attribute name="og:article:section" value="Homepage"/>
-    <cse:Attribute name="og:article:author" value="Zandi Shabalala and Clara Denina"/>
-    <cse:Attribute name="og:article:tag" value="Australia,Brazil,Ghana,Mali,South Africa,Tanzania,US,ANGLOGOLD,ASHNTI,M,A,Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Company News,Gold,Precious Metals and Minerals (TRBC),Precious Metals,Coal (TRBC),South Africa,Exclusive,Africa,Corporate Events,Specialty Mining and Metals (TRBC),Divestitures / Spin,Offs,English,Metals Markets,Major News,Energy (TRBC),Commodities News (3rd Party),Deals"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
+    <cse:Attribute name="referrer" value="origin"/>
+    <cse:Attribute name="theme-color" value="#400090"/>
+    <cse:Attribute name="twitter:dnt" value="on"/>
+    <cse:Attribute name="twitter:site" value="@YahooNews"/>
+    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
+    <cse:Attribute name="news_keywords" value="Barcelona, Las Ramblas"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=6c6c0a6a-7563-35b5-9cde-a55f24475908&amp;src=web"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: AngloGold Ashanti revives plans to spin off South Africa mines - sources"/>
-    <cse:Attribute name="twitter:description" value="AngloGold Ashanti is considering separating its South African assets from the rest of its portfolio, two sources familiar with the matter told Reuters, three years after shareholders revolted against a similar effort."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170818&amp;t=2&amp;i=1197630461&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7H0JK"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170818&amp;t=2&amp;i=1197630461&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7H0JK"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Homepage"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Homepage - Homepage"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Homepage"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Homepage"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="twitter:description" value="Barcelona (AFP) - &quot;Missing in Barcelona,&quot; reads a Facebook message posted by Tony Cadman, asking users to share a picture of his seven-year-old grandson who disappeared after a van ploughed into crowds in the Spanish seaside city.  &quot;Please like and share,&quot; he writes above a photo"/>
+    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/t72da5Ec1foQPrGMy.qnAQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
+    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/t72da5Ec1foQPrGMy.qnAQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
+    <cse:Attribute name="twitter:title" value="Families torn apart after Spain&apos;s twin attacks"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="fb:app_id" value="90376669494"/>
+    <cse:Attribute name="al:android:app_name" value="Yahoo"/>
+    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
+    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=6c6c0a6a-7563-35b5-9cde-a55f24475908&amp;src=web"/>
+    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
+    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
+    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=6c6c0a6a-7563-35b5-9cde-a55f24475908&amp;src=web"/>
+    <cse:Attribute name="og:image:width" value="1024"/>
+    <cse:Attribute name="og:image:height" value="690"/>
+    <cse:Attribute name="og:description" value="Barcelona (AFP) - &quot;Missing in Barcelona,&quot; reads a Facebook message posted by Tony Cadman, asking users to share a picture of his seven-year-old grandson who disappeared after a van ploughed into crowds in the Spanish seaside city.  &quot;Please like and share,&quot; he writes above a photo"/>
+    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/t72da5Ec1foQPrGMy.qnAQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
+    <cse:Attribute name="og:title" value="Families torn apart after Spain&apos;s twin attacks"/>
+    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/search-loved-ones-spains-twin-attacks-152136337.html"/>
+   </cse:DataObject>
+   <cse:DataObject type="newsarticle">
+    <cse:Attribute name="headline" value="Families torn apart after Spain&apos;s twin attacks"/>
+    <cse:Attribute name="datepublished" value="2017-08-18T16:22:00.000Z"/>
+    <cse:Attribute name="description" value="Barcelona (AFP) - &quot;Missing in Barcelona,&quot; reads a Facebook message posted by Tony Cadman, asking users to share a picture of his seven-year-old grandson who disappeared after a van ploughed..."/>
+    <cse:Attribute name="articlesection" value="Family &amp; Relationships"/>
+    <cse:Attribute name="genre" value="Family &amp; Relationships"/>
+    <cse:Attribute name="thumbnailurl" value="https://s.yimg.com/uu/api/res/1.2/t72da5Ec1foQPrGMy.qnAQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
+    <cse:Attribute name="keywords" value="Barcelona, Las Ramblas"/>
+    <cse:Attribute name="url" value="https://www.yahoo.com/news/search-loved-ones-spains-twin-attacks-152136337.html"/>
+    <cse:Attribute name="articlebody" value="There are at least 34 nationalities among the dead and injured in Spain&apos;s twin attacks (AFP Photo/Pascal GUYOT)MoreBarcelona (AFP) - &quot;Missing in Barcelona,&quot; reads a Facebook message posted..."/>
+   </cse:DataObject>
+   <cse:DataObject type="person">
+    <cse:Attribute name="name" value="Alfons LUNA"/>
+   </cse:DataObject>
+   <cse:DataObject type="organization">
+    <cse:Attribute name="name" value="AFP"/>
+    <cse:Attribute name="url" value="AFP"/>
+    <cse:Attribute name="logo" value="https://s.yimg.com/ny/api/res/1.2/Dlb3nB8ZXKEdy730I.rOmg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODQ7aD04NA--/https://media.zenfs.com/creatr-images/GLB/2016-10-05/04fa4660-8b0f-11e6-8636-cbc0321bcf4b_AFP-logo.jpeg"/>
+   </cse:DataObject>
+   <cse:DataObject type="imageobject">
+    <cse:Attribute name="height" value="539"/>
+    <cse:Attribute name="width" value="800"/>
+    <cse:Attribute name="url" value="https://s.yimg.com/ny/api/res/1.2/986UBXhDg087_pqfNLbX_Q--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAwO2lsPXBsYW5l/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
+    <cse:Attribute name="caption" value="There are at least 34 nationalities among the dead and injured in Spain&apos;s twin attacks (AFP Photo/Pascal GUYOT)More"/>
+    <cse:Attribute name="description" value="There are at least 34 nationalities among the dead and injured in Spain&apos;s twin attacks (AFP Photo/Pascal GUYOT)More"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170818&amp;t=2&amp;i=1197630461&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7H0JK"/>
+    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/t72da5Ec1foQPrGMy.qnAQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="250"/>
-    <cse:Attribute name="height" value="201"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7gwE0q28KvWyAxUu8X3w-kIs4RxnGSoWHcN4Luzye3MQCLLZgmKc63ISn"/>
+    <cse:Attribute name="width" value="274"/>
+    <cse:Attribute name="height" value="184"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKdnP09MRiSvowwWOKu3Xv3jP68CAjl2KNAfg3Z8aqT16bcX-jrrxvlka4"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/journalists/davide-barbuscia</id>
-  <updated>1970-01-18T09:33:47.300Z</updated>
-  <title type="html">Davide Barbuscia</title>
-  <link href="https://www.reuters.com/journalists/davide-barbuscia" title="www.reuters.com"/>
-  <summary type="html">DUBAI, Aug 8 Bahrain&amp;#39;s government has hired banks for a planned U.S. dollar-&lt;br&gt;
-denominated bond issue, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Tuesday.</summary>
-  <cse:cacheId>KPhuxi5T3iMJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/journalists/davide-barbuscia</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Landing - Blogs"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Blogs"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Blogs - Opinion"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Blogs"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Opinion"/>
-    <cse:Attribute name="analyticsattributes.author" value="Reuters Editorial"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/journalists/davide-barbuscia"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Columns | Reuters.com"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Breaking News;World News;Video news;Investing;financial information; Business News;Rueters;Roiters;Markets"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/journalists/davide-barbuscia"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/journalists/karen-freifeld</id>
-  <updated>1970-01-18T09:33:47.300Z</updated>
-  <title type="html">Karen Freifeld</title>
-  <link href="https://www.reuters.com/journalists/karen-freifeld" title="www.reuters.com"/>
-  <summary type="html">... possible ties between the campaign and Russia is intensifying and focused on &lt;br&gt;
-the financial dealings of Trump associates, &lt;b&gt;sources familiar with&lt;/b&gt; the probe said.</summary>
-  <cse:cacheId>QFRUW00a5nYJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/journalists/karen-freifeld</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msvalidate.01" value="2055F771212E9574BFD5AF29D47FBA04"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/opinion/home"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Landing - Blogs"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Blogs"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Blogs - Opinion"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Blogs"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Opinion"/>
-    <cse:Attribute name="analyticsattributes.author" value="Reuters Editorial"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/journalists/karen-freifeld"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Columns | Reuters.com"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Breaking News;World News;Video news;Investing;financial information; Business News;Rueters;Roiters;Markets"/>
-    <cse:Attribute name="og:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="og:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="og:type" value="section"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/journalists/karen-freifeld"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures."/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:title" value="Columns | Reuters.com"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J</id>
-  <updated>1970-01-18T09:33:47.300Z</updated>
-  <title type="html">Shell Deer Park crude unit to shut at least a week: sources | Reuters</title>
-  <link href="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J" title="www.reuters.com"/>
-  <summary type="html">... (bpd) joint-venture Deer Park, Texas, refinery to be shut for at least a week of &lt;br&gt;
-repairs following a Thursday fire, said &lt;b&gt;sources familiar with&lt;/b&gt; plant operations.</summary>
-  <cse:cacheId>BoepWxaiyBEJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-refinery-operations-shell-deerpark-cl- idUSKCN1AY02J</cse:formattedUrl>
+  <id>https://www.vice.com/en_us/article/xd4yq3/arborcide-in-brooklyn</id>
+  <updated>1970-01-18T09:35:17.634Z</updated>
+  <title type="html">Arborcide in Brooklyn - VICE</title>
+  <link href="https://www.vice.com/en_us/article/xd4yq3/arborcide-in-brooklyn" title="www.vice.com"/>
+  <summary type="html">But, according to Mike Fagan and one other key player who &lt;b&gt;refused to be named&lt;/b&gt;, &lt;br&gt;
+it was elaborately planned. Fagan told me that he and five others on the&amp;nbsp;...</summary>
+  <cse:cacheId>82d7ZhAfpAoJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.vice.com/en_us/article/xd4yq3/arborcide-in-brooklyn</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="environmentNews"/>
-    <cse:Attribute name="dcsext.channellist" value="environmentNews;GCA-Commodities;energy-news;power"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="US;REFINERY;OPERATIONS;SHELL;DEERPARK;CLOSURE;Energy Markets;Energy (Legacy);Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Government Borrowing Requirement;United Kingdom;United States;Gasoline;Company News;South America / Central America;Gulf Coast (PADD III);Mexico;North America (Energy);Corporate Events;Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;English;Europe;Science;Commodities News (3rd Party);Reports"/>
-    <cse:Attribute name="revision_date" value="Fri Aug 18 00:40:27 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-18T00:40:27+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Reuters Editorial"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Shell Deer Park crude unit to shut at least a week: sources"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="US,REFINERY,OPERATIONS,SHELL,DEERPARK,CLOSURE,Energy Markets,Energy (Legacy),Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,English,Europe,Science,Commodities News (3rd Party),Reports"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="US-REFINERY-OPERATIONS-SHELL-DEERPARK-CLOSURE"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-18T00:40:27+0000"/>
-    <cse:Attribute name="sailthru.title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Royal Dutch Shell Plc expects the large crude unit at its 325,700-barrel-per-day (bpd) joint-venture Deer Park, Texas, refinery to be shut for at least a week of repairs following a Thursday fire, said sources familiar with plant operations."/>
-    <cse:Attribute name="og:image" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-18T00:40:27+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-18T00:40:27+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="US,REFINERY,OPERATIONS,SHELL,DEERPARK,CLOSURE,Energy Markets,Energy (Legacy),Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,English,Europe,Science,Commodities News (3rd Party),Reports"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
-    <cse:Attribute name="twitter:description" value="Royal Dutch Shell Plc expects the large crude unit at its 325,700-barrel-per-day (bpd) joint-venture Deer Park, Texas, refinery to be shut for at least a week of repairs following a Thursday fire, said sources familiar with plant operations."/>
-    <cse:Attribute name="twitter:image:src" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/environment/article"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Technology - Green Business"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Technology"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Green Business"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+    <cse:Attribute name="news_keywords" value="culture, news, lgbtq, politics, journalism, video, documentary, sex, drugs, film, tv, entertainment, travel, crime,Vice Blog"/>
+    <cse:Attribute name="thumbnail" value="https://images.vice.com/vice/images/articles/meta/2012/01/26/arborcide-in-brooklyn-1413422424509.jpeg"/>
+    <cse:Attribute name="fb:app_id" value="213518685373476"/>
+    <cse:Attribute name="og:site_name" value="Vice"/>
+    <cse:Attribute name="og:title" value="Arborcide in Brooklyn"/>
+    <cse:Attribute name="og:image" value="https://images.vice.com/vice/images/articles/meta/2012/01/26/arborcide-in-brooklyn-1413422424509.jpeg"/>
+    <cse:Attribute name="og:image:type" value="image/jpeg"/>
+    <cse:Attribute name="og:locale" value="en_us"/>
+    <cse:Attribute name="og:url" value="https://www.vice.com/en_us/article/xd4yq3/arborcide-in-brooklyn"/>
+    <cse:Attribute name="og:description" value="Somewhere along the line, Steve Maynard lost control. He used to live a normal life. He was a husband and a father employed as a construction worker in New Jersey. Then tragedy struck--schizophrenia zeroed in on his mind like a shot out of the sky, and..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="vice"/>
+    <cse:Attribute name="twitter:title" value="Arborcide in Brooklyn"/>
+    <cse:Attribute name="twitter:description" value="Somewhere along the line, Steve Maynard lost control. He used to live a normal life. He was a husband and a father employed as a construction worker in New Jersey. Then tragedy struck--schizophrenia zeroed in on his mind like a shot out of the sky, and..."/>
+    <cse:Attribute name="mobile-web-app-capable" value="yes"/>
+    <cse:Attribute name="theme-color" value="#fff"/>
+    <cse:Attribute name="application-name" value="vice"/>
+    <cse:Attribute name="apple-mobile-web-app-capable" value="yes"/>
+    <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black-translucent"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="vice"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#fff"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://vice-web-statics-cdn.vice.com/favicons/vice/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-config" value="https://vice-web-statics-cdn.vice.com/favicons/vice/browserconfig.xml"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=591496838"/>
+    <cse:Attribute name="datepublished" value="2011-06-20T12:00:00-07:00"/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2012/01/26/arborcide-in-brooklyn-1413422424509.jpeg"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2012/01/26/arborcide-in-brooklyn-1413422424509.jpeg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="258"/>
+    <cse:Attribute name="height" value="195"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.vice.com/gr/article/8gv773/the-delusions-of-assad-0000445-v19n11</id>
+  <updated>1970-01-18T09:35:17.634Z</updated>
+  <title type="html">The Delusions of Assad - VICE</title>
+  <link href="https://www.vice.com/gr/article/8gv773/the-delusions-of-assad-0000445-v19n11" title="www.vice.com"/>
+  <summary type="html">The family portraits and icons of a man who &lt;b&gt;refused to be named&lt;/b&gt; who lives in Ma&amp;#39;&lt;br&gt;
+loula. An elderly man walks through a cut in the rocks beside Saint Thecla&amp;nbsp;...</summary>
+  <cse:cacheId>pK13cgEY68wJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.vice.com/gr/.../the-delusions-of-assad-0000445-v19n11</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="news_keywords" value="culture, κουλτούρα, ειδήσεις, lgbtq, πολιτική, δημοσιογραφία, βίντεο, ντοκιμαντέρ, sex, drugs, ναρκωτικά, ταινίες, τηλεόραση, διασκέδαση, ταξίδια, film, tv, entertainment, travel, crime, εγκλήματα,,Vice Blog"/>
+    <cse:Attribute name="thumbnail" value="https://images.vice.com/vice/images/articles/meta/2013/01/10/the-delusions-of-assad-1413326223381.jpeg"/>
+    <cse:Attribute name="fb:app_id" value="213518685373476"/>
+    <cse:Attribute name="og:site_name" value="Vice"/>
+    <cse:Attribute name="og:title" value="The Delusions of Assad"/>
+    <cse:Attribute name="og:image" value="https://images.vice.com/vice/images/articles/meta/2013/01/10/the-delusions-of-assad-1413326223381.jpeg"/>
+    <cse:Attribute name="og:image:type" value="image/jpeg"/>
+    <cse:Attribute name="og:locale" value="en_us"/>
+    <cse:Attribute name="og:url" value="https://www.vice.com/gr/article/8gv773/the-delusions-of-assad-0000445-v19n11"/>
+    <cse:Attribute name="og:description" value="In my experience, when Assad supporters are asked about reports of the state officials torturing activists or the overwhelming use of indiscriminate force on civilian populations, they say either that these claims are exaggerations, if not fabrications..."/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:site" value="vice_gr"/>
+    <cse:Attribute name="twitter:title" value="The Delusions of Assad"/>
+    <cse:Attribute name="twitter:description" value="In my experience, when Assad supporters are asked about reports of the state officials torturing activists or the overwhelming use of indiscriminate force on civilian populations, they say either that these claims are exaggerations, if not fabrications..."/>
+    <cse:Attribute name="mobile-web-app-capable" value="yes"/>
+    <cse:Attribute name="theme-color" value="#fff"/>
+    <cse:Attribute name="application-name" value="vice"/>
+    <cse:Attribute name="apple-mobile-web-app-capable" value="yes"/>
+    <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black-translucent"/>
+    <cse:Attribute name="apple-mobile-web-app-title" value="vice"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#fff"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://vice-web-statics-cdn.vice.com/favicons/vice/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-config" value="https://vice-web-statics-cdn.vice.com/favicons/vice/browserconfig.xml"/>
+    <cse:Attribute name="apple-itunes-app" value="app-id=591496838"/>
+    <cse:Attribute name="datepublished" value="2012-11-29T16:00:00-08:00"/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2013/01/10/the-delusions-of-assad-1413326223381.jpeg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2013/01/10/the-delusions-of-assad-1413326223381.jpeg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="276"/>
+    <cse:Attribute name="height" value="183"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
