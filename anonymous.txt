@@ -1,292 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed gd:kind="customsearch#search" xmlns="http://www.w3.org/2005/Atom" xmlns:cse="http://schemas.google.com/cseapi/2010" xmlns:gd="http://schemas.google.com/g/2005" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
- <title>Google Custom Search - "refused to be named"</title>
- <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="refused to be named"&amp;cx=012091639844104041986:munhfapni70&amp;num=5&amp;start=1&amp;safe=off</id>
+ <title>Google Custom Search - "source briefed on the matter"</title>
+ <id>tag:www.googleapis.com,2010-09-29:/customsearch/v1?q="source briefed on the matter"&amp;cx=012091639844104041986:munhfapni70&amp;num=1&amp;start=1&amp;safe=off</id>
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T09:35:17.634Z</updated>
+ <updated>1970-01-18T09:37:24.703Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;refused to be named&quot;" totalResults="5" searchTerms="&quot;refused to be named&quot;" count="5" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>5</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;source briefed on the matter&quot;" totalResults="1" searchTerms="&quot;source briefed on the matter&quot;" count="1" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>1</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.28341</cse:searchTime>
-  <cse:formattedSearchTime>0.28</cse:formattedSearchTime>
-  <cse:totalResults>5</cse:totalResults>
-  <cse:formattedTotalResults>5</cse:formattedTotalResults>
+  <cse:searchTime>0.681455</cse:searchTime>
+  <cse:formattedSearchTime>0.68</cse:formattedSearchTime>
+  <cse:totalResults>1</cse:totalResults>
+  <cse:formattedTotalResults>1</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
-  <id>https://www.msn.com/en-ie/news/world/families-torn-apart-after-spains-twin-attacks/ar-AAqjsoB</id>
-  <updated>1970-01-18T09:35:17.634Z</updated>
-  <title type="html">Families torn apart after Spain&amp;#39;s twin attacks</title>
-  <link href="https://www.msn.com/en-ie/news/world/families-torn-apart-after-spains-twin-attacks/ar-AAqjsoB" title="www.msn.com"/>
-  <summary type="html">In another tragic story, a source from Barcelona&amp;#39;s city hall, who &lt;b&gt;refused to be&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;named&lt;/b&gt;, said a Belgian family had also been torn apart. &amp;quot;The father and two &lt;br&gt;
-children&amp;nbsp;...</summary>
-  <cse:cacheId>DNbhSc8pLW0J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.msn.com/en-ie/news/world/families.../ar-AAqjsoB</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-rosneft-m-a-china-idUSKCN1AX1CP?il=0</id>
+  <updated>1970-01-18T09:37:24.703Z</updated>
+  <title type="html">Exclusive: China&amp;#39;s CEFC in early talks to buy Rosneft stake - sources</title>
+  <link href="http://www.reuters.com/article/us-rosneft-m-a-china-idUSKCN1AX1CP?il=0" title="www.reuters.com"/>
+  <summary type="html">... in Russian oilfields to oil trade, but only recently did Rosneft initiate the idea of &lt;br&gt;
+a stake investment, said another senior Chinese &lt;b&gt;source briefed on the matter&lt;/b&gt;.</summary>
+  <cse:cacheId>KAiwp10TpLsJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/article/us-rosneft-m-a-china-idUSKCN1AX1CP?il...</cse:formattedUrl>
   <cse:PageMap>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Alfons LUNA"/>
-   </cse:DataObject>
    <cse:DataObject type="metatags">
-    <cse:Attribute name="application-name" value="Families torn apart after Spain&apos;s twin attacks"/>
-    <cse:Attribute name="cq" value="passed"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#1e1e1e"/>
-    <cse:Attribute name="msapplication-tileimage" value="//static-entertainment-eus-s-msn-com.akamaized.net/sc/1f/08ced4.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="viewport" value="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
-    <cse:Attribute name="sharing_url" value="http://a.msn.com/01/en-ie/AAqjsoB"/>
-    <cse:Attribute name="og:url" value="https://www.msn.com/en-ie/news/world/families-torn-apart-after-spains-twin-attacks/ar-AAqjsoB"/>
-    <cse:Attribute name="og:title" value="Families torn apart after Spain&apos;s twin attacks"/>
-    <cse:Attribute name="og:description" value="&quot;Missing in Barcelona,&quot; reads a Facebook message posted by Tony Cadman, asking users to share a picture of his seven-year-old grandson who disappeared after a van ploughed into crowds in the Spanish seaside city."/>
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationNews;businessNews;GCA-Commodities;china;russia;bank-news;digital-future;energy-news;middle-east-full-coverage;oil;power;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="author" value="Kane Wu and Chen Aizhu"/>
+    <cse:Attribute name="news_keywords" value="China;Qatar;Russia;Saudi Arabia;Ukraine;United States;Igor Sechin;Vladimir Putin;Ye Jianmin;US;ROSNEFT;M;A;CHINA;Chemicals (Legacy);Energy Markets;Hong Kong;Mergers / Acquisitions / Takeovers;Russia;Coal (TRBC);Energy (Legacy);Exclusive;Equity Investments;Oil and Gas Exploration and Production (TRBC);Specialty Mining and Metals (TRBC);Qatar;Oil and Gas Refining and Marketing (TRBC);Oil and Gas Drilling (TRBC);Asia / Pacific;Major News;Government Borrowing Requirement;Middle East;United Kingdom;Banks (TRBC);Switzerland;Company News;Financials (TRBC);Financials (Legacy);China (PRC);Food Processing (TRBC);Government / Politics;Corporate Events;Kazakhstan;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Europe;Emerging Market Countries;Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Fri Aug 18 01:02:28 UTC 2017"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-18T01:02:28+0000"/>
+    <cse:Attribute name="analyticsattributes.author" value="Kane Wu and Chen Aizhu"/>
+    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-rosneft-m-a-china-idUSKCN1AX1CP"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="Exclusive: China&apos;s CEFC in early talks to buy Rosneft stake - sources"/>
+    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
+    <cse:Attribute name="analyticsattributes.keywords" value="China,Qatar,Russia,Saudi Arabia,Ukraine,United States,Igor Sechin,Vladimir Putin,Ye Jianmin,US,ROSNEFT,M,A,CHINA,Chemicals (Legacy),Energy Markets,Hong Kong,Mergers / Acquisitions / Takeovers,Russia,Coal (TRBC),Energy (Legacy),Exclusive,Equity Investments,Oil and Gas Exploration and Production (TRBC),Specialty Mining and Metals (TRBC),Qatar,Oil and Gas Refining and Marketing (TRBC),Oil and Gas Drilling (TRBC),Asia / Pacific,Major News,Government Borrowing Requirement,Middle East,United Kingdom,Banks (TRBC),Switzerland,Company News,Financials (TRBC),Financials (Legacy),China (PRC),Food Processing (TRBC),Government / Politics,Corporate Events,Kazakhstan,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Europe,Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="analyticsattributes.keywordslug" value="US-ROSNEFT-M-A-CHINA"/>
+    <cse:Attribute name="analyticsattributes.inlinetype" value="Slideshow"/>
+    <cse:Attribute name="analyticsattributes.title" value="Exclusive: China&apos;s CEFC in early talks to buy Rosneft stake - sources"/>
+    <cse:Attribute name="sailthru.author" value="Kane Wu and Chen Aizhu"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-18T01:02:28+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: China&apos;s CEFC in early talks to buy Rosneft stake - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="U.S."/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: China&apos;s CEFC in early talks to buy Rosneft stake - sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-rosneft-m-a-china-idUSKCN1AX1CP"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:site_name" value="MSN"/>
-    <cse:Attribute name="og:image" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAqiw5q.img"/>
-    <cse:Attribute name="fb:app_id" value="689384617806917"/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Alfons LUNA"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="articlebody" value="© Provided by AFP There are at least 34 nationalities among the dead and injured in Spain&apos;s twin attacks &quot;Missing in Barcelona,&quot; reads a Facebook message posted by Tony Cadman, asking users..."/>
+    <cse:Attribute name="og:description" value="CEFC China Energy, which has grown from a niche oil trader to a sprawling energy conglomerate, is in talks to acquire a stake in Russian state oil giant Rosneft (ROSN.MM), three people with direct knowledge of the discussions said."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170817&amp;t=2&amp;i=1197488676&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7G0WV"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-18T01:02:28+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-18T01:02:28+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Kane Wu and Chen Aizhu"/>
+    <cse:Attribute name="og:article:tag" value="China,Qatar,Russia,Saudi Arabia,Ukraine,United States,Igor Sechin,Vladimir Putin,Ye Jianmin,US,ROSNEFT,M,A,CHINA,Chemicals (Legacy),Energy Markets,Hong Kong,Mergers / Acquisitions / Takeovers,Russia,Coal (TRBC),Energy (Legacy),Exclusive,Equity Investments,Oil and Gas Exploration and Production (TRBC),Specialty Mining and Metals (TRBC),Qatar,Oil and Gas Refining and Marketing (TRBC),Oil and Gas Drilling (TRBC),Asia / Pacific,Major News,Government Borrowing Requirement,Middle East,United Kingdom,Banks (TRBC),Switzerland,Company News,Financials (TRBC),Financials (Legacy),China (PRC),Food Processing (TRBC),Government / Politics,Corporate Events,Kazakhstan,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Europe,Emerging Market Countries,Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: China&apos;s CEFC in early talks to buy Rosneft stake - sources"/>
+    <cse:Attribute name="twitter:description" value="CEFC China Energy, which has grown from a niche oil trader to a sprawling energy conglomerate, is in talks to acquire a stake in Russian state oil giant Rosneft (ROSN.MM), three people with direct knowledge of the discussions said."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170817&amp;t=2&amp;i=1197488676&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7G0WV"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170817&amp;t=2&amp;i=1197488676&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7G0WV"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
+    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
+    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
+    <cse:Attribute name="analyticsattributes.contentchannel" value="Business - Deals"/>
+    <cse:Attribute name="analyticsattributes.topicchannel" value="Business"/>
+    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Deals"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAqiw5q.img"/>
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170817&amp;t=2&amp;i=1197488676&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7G0WV"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="274"/>
-    <cse:Attribute name="height" value="184"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjXkLdGfzf1vRIHfArEa87Niy3RMIE1a33zwP8dHFBUxLvStpN6qkwedX"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.vice.com/en_au/article/7bdnqe/gangs-south-africa-cape-flats-metro-police</id>
-  <updated>1970-01-18T09:35:17.634Z</updated>
-  <title type="html">Patrolling One of the World&amp;#39;s Deadliest Drug Zones with Its Anti ...</title>
-  <link href="https://www.vice.com/en_au/article/7bdnqe/gangs-south-africa-cape-flats-metro-police" title="www.vice.com"/>
-  <summary type="html">The officers we accompanied &lt;b&gt;refused to be named&lt;/b&gt; for fear of gang retaliation, but &lt;br&gt;
-they all share a kind of beleaguered inevitability. The night&amp;#39;s report ends with a&amp;nbsp;...</summary>
-  <cse:cacheId>VCx6mBLuneIJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.vice.com/en.../gangs-south-africa-cape-flats-metro-police</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="news_keywords" value="culture, news, lgbtq, politics, journalism, video, documentary, sex, drugs, film, tv, entertainment, travel, crime,South Africa,CRIME,gangs,murder,shootings,Vice Blog,cape flats,Karl Kemp,Shaun Swingler,The Metro Police"/>
-    <cse:Attribute name="thumbnail" value="https://images.vice.com/vice/images/articles/meta/2016/02/15/gangs-south-africa-cape-flats-metro-police-1455536142.jpg"/>
-    <cse:Attribute name="fb:app_id" value="213518685373476"/>
-    <cse:Attribute name="og:site_name" value="Vice"/>
-    <cse:Attribute name="og:title" value="Patrolling One of the World&apos;s Deadliest Drug Zones with Its Anti-Gang Cops"/>
-    <cse:Attribute name="og:image" value="https://images.vice.com/vice/images/articles/meta/2016/02/15/gangs-south-africa-cape-flats-metro-police-1455536142.jpg"/>
-    <cse:Attribute name="og:image:type" value="image/jpeg"/>
-    <cse:Attribute name="og:locale" value="en_us"/>
-    <cse:Attribute name="og:url" value="https://www.vice.com/en_au/article/7bdnqe/gangs-south-africa-cape-flats-metro-police"/>
-    <cse:Attribute name="og:description" value="Policing the gangs of South Africa&apos;s Cape Flats is as much of a nightmare on a political level as it is on the ground."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="VICEAU"/>
-    <cse:Attribute name="twitter:title" value="Patrolling One of the World&apos;s Deadliest Drug Zones with Its Anti-Gang Cops"/>
-    <cse:Attribute name="twitter:description" value="Policing the gangs of South Africa&apos;s Cape Flats is as much of a nightmare on a political level as it is on the ground."/>
-    <cse:Attribute name="mobile-web-app-capable" value="yes"/>
-    <cse:Attribute name="theme-color" value="#fff"/>
-    <cse:Attribute name="application-name" value="vice"/>
-    <cse:Attribute name="apple-mobile-web-app-capable" value="yes"/>
-    <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black-translucent"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="vice"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#fff"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://vice-web-statics-cdn.vice.com/favicons/vice/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-config" value="https://vice-web-statics-cdn.vice.com/favicons/vice/browserconfig.xml"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=591496838"/>
-    <cse:Attribute name="datepublished" value="2016-02-15T16:00:00-08:00"/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2016/02/15/gangs-south-africa-cape-flats-metro-police-1455536142.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2016/02/15/gangs-south-africa-cape-flats-metro-police-1455536142.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="275"/>
-    <cse:Attribute name="height" value="183"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.yahoo.com/news/search-loved-ones-spains-twin-attacks-152136337.html</id>
-  <updated>1970-01-18T09:35:17.634Z</updated>
-  <title type="html">Families torn apart after Spain&amp;#39;s twin attacks</title>
-  <link href="https://www.yahoo.com/news/search-loved-ones-spains-twin-attacks-152136337.html" title="www.yahoo.com"/>
-  <summary type="html">In another tragic story, a source from Barcelona&amp;#39;s city hall, who &lt;b&gt;refused to be&lt;/b&gt; &lt;br&gt;
-&lt;b&gt;named&lt;/b&gt;, said a Belgian family had also been torn apart. &amp;quot;The father and two &lt;br&gt;
-children&amp;nbsp;...</summary>
-  <cse:cacheId>ngyGj1D3Hw0J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.yahoo.com/.../search-loved-ones-spains-twin-attacks-152136337 .html</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="msapplication-tilecolor" value="#6e329d"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
-    <cse:Attribute name="referrer" value="origin"/>
-    <cse:Attribute name="theme-color" value="#400090"/>
-    <cse:Attribute name="twitter:dnt" value="on"/>
-    <cse:Attribute name="twitter:site" value="@YahooNews"/>
-    <cse:Attribute name="application-name" value="Yahoo News - Latest News &amp; Headlines"/>
-    <cse:Attribute name="news_keywords" value="Barcelona, Las Ramblas"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=304158842,app-argument=yahoo://article/view?uuid=6c6c0a6a-7563-35b5-9cde-a55f24475908&amp;src=web"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:description" value="Barcelona (AFP) - &quot;Missing in Barcelona,&quot; reads a Facebook message posted by Tony Cadman, asking users to share a picture of his seven-year-old grandson who disappeared after a van ploughed into crowds in the Spanish seaside city.  &quot;Please like and share,&quot; he writes above a photo"/>
-    <cse:Attribute name="twitter:image" value="https://s.yimg.com/uu/api/res/1.2/t72da5Ec1foQPrGMy.qnAQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
-    <cse:Attribute name="twitter:image:src" value="https://s.yimg.com/uu/api/res/1.2/t72da5Ec1foQPrGMy.qnAQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
-    <cse:Attribute name="twitter:title" value="Families torn apart after Spain&apos;s twin attacks"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="fb:app_id" value="90376669494"/>
-    <cse:Attribute name="al:android:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:android:package" value="com.yahoo.mobile.client.android.yahoo"/>
-    <cse:Attribute name="al:android:url" value="yahoo://article/view?uuid=6c6c0a6a-7563-35b5-9cde-a55f24475908&amp;src=web"/>
-    <cse:Attribute name="al:ios:app_name" value="Yahoo"/>
-    <cse:Attribute name="al:ios:app_store_id" value="304158842"/>
-    <cse:Attribute name="al:ios:url" value="yahoo://article/view?uuid=6c6c0a6a-7563-35b5-9cde-a55f24475908&amp;src=web"/>
-    <cse:Attribute name="og:image:width" value="1024"/>
-    <cse:Attribute name="og:image:height" value="690"/>
-    <cse:Attribute name="og:description" value="Barcelona (AFP) - &quot;Missing in Barcelona,&quot; reads a Facebook message posted by Tony Cadman, asking users to share a picture of his seven-year-old grandson who disappeared after a van ploughed into crowds in the Spanish seaside city.  &quot;Please like and share,&quot; he writes above a photo"/>
-    <cse:Attribute name="og:image" value="https://s.yimg.com/uu/api/res/1.2/t72da5Ec1foQPrGMy.qnAQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
-    <cse:Attribute name="og:title" value="Families torn apart after Spain&apos;s twin attacks"/>
-    <cse:Attribute name="og:url" value="https://www.yahoo.com/news/search-loved-ones-spains-twin-attacks-152136337.html"/>
-   </cse:DataObject>
-   <cse:DataObject type="newsarticle">
-    <cse:Attribute name="headline" value="Families torn apart after Spain&apos;s twin attacks"/>
-    <cse:Attribute name="datepublished" value="2017-08-18T16:22:00.000Z"/>
-    <cse:Attribute name="description" value="Barcelona (AFP) - &quot;Missing in Barcelona,&quot; reads a Facebook message posted by Tony Cadman, asking users to share a picture of his seven-year-old grandson who disappeared after a van ploughed..."/>
-    <cse:Attribute name="articlesection" value="Family &amp; Relationships"/>
-    <cse:Attribute name="genre" value="Family &amp; Relationships"/>
-    <cse:Attribute name="thumbnailurl" value="https://s.yimg.com/uu/api/res/1.2/t72da5Ec1foQPrGMy.qnAQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
-    <cse:Attribute name="keywords" value="Barcelona, Las Ramblas"/>
-    <cse:Attribute name="url" value="https://www.yahoo.com/news/search-loved-ones-spains-twin-attacks-152136337.html"/>
-    <cse:Attribute name="articlebody" value="There are at least 34 nationalities among the dead and injured in Spain&apos;s twin attacks (AFP Photo/Pascal GUYOT)MoreBarcelona (AFP) - &quot;Missing in Barcelona,&quot; reads a Facebook message posted..."/>
-   </cse:DataObject>
-   <cse:DataObject type="person">
-    <cse:Attribute name="name" value="Alfons LUNA"/>
-   </cse:DataObject>
-   <cse:DataObject type="organization">
-    <cse:Attribute name="name" value="AFP"/>
-    <cse:Attribute name="url" value="AFP"/>
-    <cse:Attribute name="logo" value="https://s.yimg.com/ny/api/res/1.2/Dlb3nB8ZXKEdy730I.rOmg--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODQ7aD04NA--/https://media.zenfs.com/creatr-images/GLB/2016-10-05/04fa4660-8b0f-11e6-8636-cbc0321bcf4b_AFP-logo.jpeg"/>
-   </cse:DataObject>
-   <cse:DataObject type="imageobject">
-    <cse:Attribute name="height" value="539"/>
-    <cse:Attribute name="width" value="800"/>
-    <cse:Attribute name="url" value="https://s.yimg.com/ny/api/res/1.2/986UBXhDg087_pqfNLbX_Q--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAwO2lsPXBsYW5l/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
-    <cse:Attribute name="caption" value="There are at least 34 nationalities among the dead and injured in Spain&apos;s twin attacks (AFP Photo/Pascal GUYOT)More"/>
-    <cse:Attribute name="description" value="There are at least 34 nationalities among the dead and injured in Spain&apos;s twin attacks (AFP Photo/Pascal GUYOT)More"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s.yimg.com/uu/api/res/1.2/t72da5Ec1foQPrGMy.qnAQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/dfa467bd77022ae0a39b38eda39d3a6e8cb401c2.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="274"/>
-    <cse:Attribute name="height" value="184"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKdnP09MRiSvowwWOKu3Xv3jP68CAjl2KNAfg3Z8aqT16bcX-jrrxvlka4"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.vice.com/en_us/article/xd4yq3/arborcide-in-brooklyn</id>
-  <updated>1970-01-18T09:35:17.634Z</updated>
-  <title type="html">Arborcide in Brooklyn - VICE</title>
-  <link href="https://www.vice.com/en_us/article/xd4yq3/arborcide-in-brooklyn" title="www.vice.com"/>
-  <summary type="html">But, according to Mike Fagan and one other key player who &lt;b&gt;refused to be named&lt;/b&gt;, &lt;br&gt;
-it was elaborately planned. Fagan told me that he and five others on the&amp;nbsp;...</summary>
-  <cse:cacheId>82d7ZhAfpAoJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.vice.com/en_us/article/xd4yq3/arborcide-in-brooklyn</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="news_keywords" value="culture, news, lgbtq, politics, journalism, video, documentary, sex, drugs, film, tv, entertainment, travel, crime,Vice Blog"/>
-    <cse:Attribute name="thumbnail" value="https://images.vice.com/vice/images/articles/meta/2012/01/26/arborcide-in-brooklyn-1413422424509.jpeg"/>
-    <cse:Attribute name="fb:app_id" value="213518685373476"/>
-    <cse:Attribute name="og:site_name" value="Vice"/>
-    <cse:Attribute name="og:title" value="Arborcide in Brooklyn"/>
-    <cse:Attribute name="og:image" value="https://images.vice.com/vice/images/articles/meta/2012/01/26/arborcide-in-brooklyn-1413422424509.jpeg"/>
-    <cse:Attribute name="og:image:type" value="image/jpeg"/>
-    <cse:Attribute name="og:locale" value="en_us"/>
-    <cse:Attribute name="og:url" value="https://www.vice.com/en_us/article/xd4yq3/arborcide-in-brooklyn"/>
-    <cse:Attribute name="og:description" value="Somewhere along the line, Steve Maynard lost control. He used to live a normal life. He was a husband and a father employed as a construction worker in New Jersey. Then tragedy struck--schizophrenia zeroed in on his mind like a shot out of the sky, and..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="vice"/>
-    <cse:Attribute name="twitter:title" value="Arborcide in Brooklyn"/>
-    <cse:Attribute name="twitter:description" value="Somewhere along the line, Steve Maynard lost control. He used to live a normal life. He was a husband and a father employed as a construction worker in New Jersey. Then tragedy struck--schizophrenia zeroed in on his mind like a shot out of the sky, and..."/>
-    <cse:Attribute name="mobile-web-app-capable" value="yes"/>
-    <cse:Attribute name="theme-color" value="#fff"/>
-    <cse:Attribute name="application-name" value="vice"/>
-    <cse:Attribute name="apple-mobile-web-app-capable" value="yes"/>
-    <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black-translucent"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="vice"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#fff"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://vice-web-statics-cdn.vice.com/favicons/vice/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-config" value="https://vice-web-statics-cdn.vice.com/favicons/vice/browserconfig.xml"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=591496838"/>
-    <cse:Attribute name="datepublished" value="2011-06-20T12:00:00-07:00"/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2012/01/26/arborcide-in-brooklyn-1413422424509.jpeg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2012/01/26/arborcide-in-brooklyn-1413422424509.jpeg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="258"/>
-    <cse:Attribute name="height" value="195"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.vice.com/gr/article/8gv773/the-delusions-of-assad-0000445-v19n11</id>
-  <updated>1970-01-18T09:35:17.634Z</updated>
-  <title type="html">The Delusions of Assad - VICE</title>
-  <link href="https://www.vice.com/gr/article/8gv773/the-delusions-of-assad-0000445-v19n11" title="www.vice.com"/>
-  <summary type="html">The family portraits and icons of a man who &lt;b&gt;refused to be named&lt;/b&gt; who lives in Ma&amp;#39;&lt;br&gt;
-loula. An elderly man walks through a cut in the rocks beside Saint Thecla&amp;nbsp;...</summary>
-  <cse:cacheId>pK13cgEY68wJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.vice.com/gr/.../the-delusions-of-assad-0000445-v19n11</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="news_keywords" value="culture, κουλτούρα, ειδήσεις, lgbtq, πολιτική, δημοσιογραφία, βίντεο, ντοκιμαντέρ, sex, drugs, ναρκωτικά, ταινίες, τηλεόραση, διασκέδαση, ταξίδια, film, tv, entertainment, travel, crime, εγκλήματα,,Vice Blog"/>
-    <cse:Attribute name="thumbnail" value="https://images.vice.com/vice/images/articles/meta/2013/01/10/the-delusions-of-assad-1413326223381.jpeg"/>
-    <cse:Attribute name="fb:app_id" value="213518685373476"/>
-    <cse:Attribute name="og:site_name" value="Vice"/>
-    <cse:Attribute name="og:title" value="The Delusions of Assad"/>
-    <cse:Attribute name="og:image" value="https://images.vice.com/vice/images/articles/meta/2013/01/10/the-delusions-of-assad-1413326223381.jpeg"/>
-    <cse:Attribute name="og:image:type" value="image/jpeg"/>
-    <cse:Attribute name="og:locale" value="en_us"/>
-    <cse:Attribute name="og:url" value="https://www.vice.com/gr/article/8gv773/the-delusions-of-assad-0000445-v19n11"/>
-    <cse:Attribute name="og:description" value="In my experience, when Assad supporters are asked about reports of the state officials torturing activists or the overwhelming use of indiscriminate force on civilian populations, they say either that these claims are exaggerations, if not fabrications..."/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:site" value="vice_gr"/>
-    <cse:Attribute name="twitter:title" value="The Delusions of Assad"/>
-    <cse:Attribute name="twitter:description" value="In my experience, when Assad supporters are asked about reports of the state officials torturing activists or the overwhelming use of indiscriminate force on civilian populations, they say either that these claims are exaggerations, if not fabrications..."/>
-    <cse:Attribute name="mobile-web-app-capable" value="yes"/>
-    <cse:Attribute name="theme-color" value="#fff"/>
-    <cse:Attribute name="application-name" value="vice"/>
-    <cse:Attribute name="apple-mobile-web-app-capable" value="yes"/>
-    <cse:Attribute name="apple-mobile-web-app-status-bar-style" value="black-translucent"/>
-    <cse:Attribute name="apple-mobile-web-app-title" value="vice"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#fff"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://vice-web-statics-cdn.vice.com/favicons/vice/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-config" value="https://vice-web-statics-cdn.vice.com/favicons/vice/browserconfig.xml"/>
-    <cse:Attribute name="apple-itunes-app" value="app-id=591496838"/>
-    <cse:Attribute name="datepublished" value="2012-11-29T16:00:00-08:00"/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2013/01/10/the-delusions-of-assad-1413326223381.jpeg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://images.vice.com/vice/images/articles/meta/2013/01/10/the-delusions-of-assad-1413326223381.jpeg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="276"/>
-    <cse:Attribute name="height" value="183"/>
+    <cse:Attribute name="width" value="269"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-Itbw11SB7S48DR--3SH1xQIP8MPw8ZRUVZsXgQ2EgHICDhijm1LebhY"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
