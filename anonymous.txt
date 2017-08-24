@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T09:38:06.984Z</updated>
+ <updated>1970-01-18T09:39:33.722Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="7470" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="7470" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>7470</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8290" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="8290" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>8290</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.30111</cse:searchTime>
-  <cse:formattedSearchTime>0.30</cse:formattedSearchTime>
-  <cse:totalResults>7470</cse:totalResults>
-  <cse:formattedTotalResults>7,470</cse:formattedTotalResults>
+  <cse:searchTime>0.210047</cse:searchTime>
+  <cse:formattedSearchTime>0.21</cse:formattedSearchTime>
+  <cse:totalResults>8290</cse:totalResults>
+  <cse:formattedTotalResults>8,290</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.slate.com/articles/news_and_politics/politics/2017/08/the_sources_say_twitter_meme_is_a_delightful_outlet_for_liberal_anxiety.html</id>
-  <updated>1970-01-18T09:38:06.984Z</updated>
+  <updated>1970-01-18T09:39:33.722Z</updated>
   <title type="html">The “sources say” Twitter meme is a delightful outlet for liberal ...</title>
   <link href="http://www.slate.com/articles/news_and_politics/politics/2017/08/the_sources_say_twitter_meme_is_a_delightful_outlet_for_liberal_anxiety.html" title="www.slate.com"/>
   <summary type="html">Judd Legum (@JuddLegum) August 21, 2017. Ivanka &amp;amp; Jared tried to negotiate a &lt;br&gt;
@@ -59,8 +59,80 @@ full eclipse for every American, according to &lt;b&gt;sources familiar with&lt;
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-toshiba-accounting-idUSKCN1B22LE</id>
+  <updated>1970-01-18T09:39:33.722Z</updated>
+  <title type="html">Toshiba prioritizes talks with Western Digital on chip business sale ...</title>
+  <link href="https://www.reuters.com/article/us-toshiba-accounting-idUSKCN1B22LE" title="www.reuters.com"/>
+  <summary type="html">... with Western Digital to sell its memory chip business after talks stalled with a &lt;br&gt;
+previously preferred bidder, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday.</summary>
+  <cse:cacheId>N_qJz4kv-eYJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-toshiba-accounting-idUSKCN1B22LE</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="technologyNews"/>
+    <cse:Attribute name="dcsext.channellist" value="technologyNews;innovationNews;businessNews;japan;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="author" value="Taro Fuse"/>
+    <cse:Attribute name="news_keywords" value="Japan;United States;Japan;Taiwan;United States;Satoshi Tsunakawa;Satoshi Tsunakawa;US;TOSHIBA;ACCOUNTING;Mergers / Acquisitions / Takeovers;Taiwan;Japan;Semiconductors (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Major News;Pictures;United States;Computer Hardware (TRBC);Company News;South Korea;China (PRC);Corporate Events;Technology (TRBC);Electrical Components and Equipment (TRBC);Science;Industrial Conglomerates (TRBC);Emerging Market Countries;Private Equity Funds"/>
+    <cse:Attribute name="revision_date" value="Wed Aug 23 15:56:21 UTC 2017"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-23T15:56:21+0000"/>
+    <cse:Attribute name="analyticsattributes.author" value="Taro Fuse"/>
+    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-toshiba-accounting-idUSKCN1B22LE"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="Toshiba prioritizes talks with Western Digital on chip business sale: sources"/>
+    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
+    <cse:Attribute name="analyticsattributes.keywords" value="Japan,United States,Japan,Taiwan,United States,Satoshi Tsunakawa,Satoshi Tsunakawa,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Taiwan,Japan,Semiconductors (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Major News,Pictures,United States,Computer Hardware (TRBC),Company News,South Korea,China (PRC),Corporate Events,Technology (TRBC),Electrical Components and Equipment (TRBC),Science,Industrial Conglomerates (TRBC),Emerging Market Countries,Private Equity Funds"/>
+    <cse:Attribute name="analyticsattributes.keywordslug" value="US-TOSHIBA-ACCOUNTING"/>
+    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
+    <cse:Attribute name="analyticsattributes.title" value="Toshiba prioritizes talks with Western Digital on chip business sale: sources"/>
+    <cse:Attribute name="sailthru.author" value="Taro Fuse"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-23T15:56:21+0000"/>
+    <cse:Attribute name="sailthru.title" value="Toshiba prioritizes talks with Western Digital on chip business sale: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="U.S."/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Toshiba prioritizes talks with Western Digital on chip business sale: sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-toshiba-accounting-idUSKCN1B22LE"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Japan&apos;s Toshiba Corp is prioritizing negotiations with Western Digital to sell its memory chip business after talks stalled with a previously preferred bidder, sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170822&amp;t=2&amp;i=1198165325&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7L1NI"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-23T15:56:21+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-23T15:56:21+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Taro Fuse"/>
+    <cse:Attribute name="og:article:tag" value="Japan,United States,Japan,Taiwan,United States,Satoshi Tsunakawa,Satoshi Tsunakawa,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Taiwan,Japan,Semiconductors (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Major News,Pictures,United States,Computer Hardware (TRBC),Company News,South Korea,China (PRC),Corporate Events,Technology (TRBC),Electrical Components and Equipment (TRBC),Science,Industrial Conglomerates (TRBC),Emerging Market Countries,Private Equity Funds"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Toshiba prioritizes talks with Western Digital on chip business sale: sources"/>
+    <cse:Attribute name="twitter:description" value="Japan&apos;s Toshiba Corp is prioritizing negotiations with Western Digital to sell its memory chip business after talks stalled with a previously preferred bidder, sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170822&amp;t=2&amp;i=1198165325&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7L1NI"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170822&amp;t=2&amp;i=1198165325&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7L1NI"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/article"/>
+    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
+    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
+    <cse:Attribute name="analyticsattributes.contentchannel" value="Technology - Technology"/>
+    <cse:Attribute name="analyticsattributes.topicchannel" value="Technology"/>
+    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Technology"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170822&amp;t=2&amp;i=1198165325&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7L1NI"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="287"/>
+    <cse:Attribute name="height" value="175"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR88_FQjQKOwrF0iC3_WeCXlrl8mkISNcMuxZbisL5OxLIkDO_DXSVh54Y"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.chicagotribune.com/news/local/breaking/ct-teamsters-boss-extortion-cinespace-studios-met-20170817-story.html</id>
-  <updated>1970-01-18T09:38:06.984Z</updated>
+  <updated>1970-01-18T09:39:33.722Z</updated>
   <title type="html">Sources: Feds made recordings at Cinespace Chicago studios in ...</title>
   <link href="http://www.chicagotribune.com/news/local/breaking/ct-teamsters-boss-extortion-cinespace-studios-met-20170817-story.html" title="www.chicagotribune.com"/>
   <summary type="html">Recording equipment was used in the West Side facility to surreptitiously capture &lt;br&gt;
@@ -87,7 +159,7 @@ conversations there, according to &lt;b&gt;sources familiar with&lt;/b&gt; the m
     <cse:Attribute name="googlebot-news" value="index"/>
     <cse:Attribute name="apple-itunes-app" value="app-id=383137151, app-argument=http://www.chicagotribune.com/deeplinkid/94362612"/>
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
-    <cse:Attribute name="x-servername" value="i18prod-82a33f5-13-120.1"/>
+    <cse:Attribute name="x-servername" value="i18prod-28b7065-0-163.1"/>
     <cse:Attribute name="so:status" value="5,1"/>
     <cse:Attribute name="fb:pages" value="5953023255"/>
    </cse:DataObject>
@@ -109,14 +181,14 @@ conversations there, according to &lt;b&gt;sources familiar with&lt;/b&gt; the m
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/ladbrokes-coral-ma-gvc-idUSL8N1L84YA</id>
-  <updated>1970-01-18T09:38:06.984Z</updated>
+  <id>https://www.reuters.com/article/us-ladbrokes-coral-m-a-gvc-idUSKCN1B2202</id>
+  <updated>1970-01-18T09:39:33.722Z</updated>
   <title type="html">Gaming group GVC held takeover talks with Ladbrokes Coral: sources</title>
-  <link href="https://www.reuters.com/article/ladbrokes-coral-ma-gvc-idUSL8N1L84YA" title="www.reuters.com"/>
+  <link href="https://www.reuters.com/article/us-ladbrokes-coral-m-a-gvc-idUSKCN1B2202" title="www.reuters.com"/>
   <summary type="html">L) recently held talks about a takeover of bookmaker Ladbrokes Coral (LCL.L) &lt;br&gt;
 but discussions ended without a deal, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>hUTYfYZWKBIJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../ladbrokes-coral-ma-gvc-idUSL8N1L84YA</cse:formattedUrl>
+  <cse:cacheId>dyzoaJZ0-ZMJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-ladbrokes-coral-m-a-gvc-idUSKCN1B2202</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
@@ -171,88 +243,157 @@ but discussions ended without a deal, two &lt;b&gt;sources familiar with&lt;/b&g
     <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://pictures.reuters.com/Doc/RTR/Media/TR3_UNWATERMARKED/0/0/6/5/RTR1Z1LU.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="269"/>
-    <cse:Attribute name="height" value="187"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLvUzEIIW5qKKQbrkLA6AxwlbYSTox7OhpIuYBotK1j-dGUN5dEToX4Y"/>
+    <cse:Attribute name="src" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKCN1AZ004</id>
-  <updated>1970-01-18T09:38:06.984Z</updated>
-  <title type="html">Shell&amp;#39;s Deer Park, Texas crude unit shut up to two weeks - sources</title>
-  <link href="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKCN1AZ004" title="www.reuters.com"/>
-  <summary type="html">... joint-venture Deer Park, Texas, refinery may be shut for up to two weeks of &lt;br&gt;
-repairs from a Thursday fire, &lt;b&gt;sources familiar with&lt;/b&gt; plant operations said on Friday.</summary>
-  <cse:cacheId>YJQb6ih7I04J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-refinery-operations-shell-deerpark- idUSKCN1AZ004</cse:formattedUrl>
+  <id>http://www.reuters.com/article/us-canada-politics-trudeau-idUSKCN1B32CO?il=0</id>
+  <updated>1970-01-18T09:39:33.722Z</updated>
+  <title type="html">Canada frets over possible huge surge in asylum-seekers: sources</title>
+  <link href="http://www.reuters.com/article/us-canada-politics-trudeau-idUSKCN1B32CO?il=0" title="www.reuters.com"/>
+  <summary type="html">Two &lt;b&gt;sources familiar with&lt;/b&gt; Canadian government thinking said citizens from El &lt;br&gt;
+Salvador, Nicaragua and Honduras, who are slated to lose their U.S. protected&amp;nbsp;...</summary>
+  <cse:cacheId>yZ2apoUGmx4J</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../us-canada-politics-trudeau-idUSKCN1B32CO?il...</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="GCA-Commodities;energy-news;oil;power;Intel"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="Mexico;Ray Fisher;US;REFINERY;OPERATIONS;SHELL;DEERPARK;Energy Markets;Western Europe;Crude Oil;Energy (Legacy);Heating Oil / Gasoil;Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Government Borrowing Requirement;United Kingdom;United States;Gasoline;Company News;South America / Central America;Gulf Coast (PADD III);Mexico;North America (Energy);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Production Status Changes;English;Europe;Commodities News (3rd Party);Reports"/>
-    <cse:Attribute name="revision_date" value="Sat Aug 19 00:01:42 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-19T00:01:42+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Reuters Editorial"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKCN1AZ004"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Shell&apos;s Deer Park, Texas crude unit shut up to two weeks - sources"/>
+    <cse:Attribute name="dcsext.contentchannel" value="worldNews"/>
+    <cse:Attribute name="dcsext.channellist" value="worldNews;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="author" value="David Ljunggren"/>
+    <cse:Attribute name="news_keywords" value="Canada;El Salvador;Honduras;Nicaragua;United States;Cameron Ahmad;Christian Bourque;Donald Trump;Justin Trudeau;Michelle Rempel;US;CANADA;POLITICS;TRUDEAU;Crime / Law / Justice;Honduras;Picture available;Crime;Haiti;Major News;Human Rights / Civil Rights;Pictures;Conflicts / War / Peace;Canada;United States;Americas;El Salvador;South America / Central America;Asylum / Immigration / Refugees;Diplomacy / Foreign Policy;Government / Politics;General News;Regulation;Nicaragua;Emerging Market Countries"/>
+    <cse:Attribute name="revision_date" value="Wed Aug 23 21:36:31 UTC 2017"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-23T21:36:31+0000"/>
+    <cse:Attribute name="analyticsattributes.author" value="David Ljunggren"/>
+    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-canada-politics-trudeau-idUSKCN1B32CO"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="Canada frets over possible huge surge in asylum-seekers: sources"/>
     <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="Mexico,Ray Fisher,US,REFINERY,OPERATIONS,SHELL,DEERPARK,Energy Markets,Western Europe,Crude Oil,Energy (Legacy),Heating Oil / Gasoil,Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,English,Europe,Commodities News (3rd Party),Reports"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="US-REFINERY-OPERATIONS-SHELL-DEERPARK"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="Shell&apos;s Deer Park, Texas crude unit shut up to two weeks - sources"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-19T00:01:42+0000"/>
-    <cse:Attribute name="sailthru.title" value="Shell&apos;s Deer Park, Texas crude unit shut up to two weeks - sources"/>
+    <cse:Attribute name="analyticsattributes.keywords" value="Canada,El Salvador,Honduras,Nicaragua,United States,Cameron Ahmad,Christian Bourque,Donald Trump,Justin Trudeau,Michelle Rempel,US,CANADA,POLITICS,TRUDEAU,Crime / Law / Justice,Honduras,Picture available,Crime,Haiti,Major News,Human Rights / Civil Rights,Pictures,Conflicts / War / Peace,Canada,United States,Americas,El Salvador,South America / Central America,Asylum / Immigration / Refugees,Diplomacy / Foreign Policy,Government / Politics,General News,Regulation,Nicaragua,Emerging Market Countries"/>
+    <cse:Attribute name="analyticsattributes.keywordslug" value="US-CANADA-POLITICS-TRUDEAU"/>
+    <cse:Attribute name="analyticsattributes.inlinetype" value="Slideshow-Video"/>
+    <cse:Attribute name="analyticsattributes.title" value="Canada frets over possible huge surge in asylum-seekers: sources"/>
+    <cse:Attribute name="sailthru.author" value="David Ljunggren"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-23T21:36:31+0000"/>
+    <cse:Attribute name="sailthru.title" value="Canada frets over possible huge surge in asylum-seekers: sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="U.S."/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Shell&apos;s Deer Park, Texas crude unit shut up to two weeks - sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKCN1AZ004"/>
+    <cse:Attribute name="og:title" value="Canada frets over possible huge surge in asylum-seekers: sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-canada-politics-trudeau-idUSKCN1B32CO"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The large crude distillation unit at Royal Dutch Shell Plc&apos;s 325,700 barrel per day (bpd) joint-venture Deer Park, Texas, refinery may be shut for up to two weeks of repairs from a Thursday fire, sources familiar with plant operations said on Friday."/>
-    <cse:Attribute name="og:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170819&amp;t=2&amp;i=1197723106&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7I000"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-19T00:01:42+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-19T00:01:42+0000"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="Mexico,Ray Fisher,US,REFINERY,OPERATIONS,SHELL,DEERPARK,Energy Markets,Western Europe,Crude Oil,Energy (Legacy),Heating Oil / Gasoil,Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,English,Europe,Commodities News (3rd Party),Reports"/>
+    <cse:Attribute name="og:description" value="Canada fears a huge surge in asylum seekers crossing the border from the United States, putting political pressure on Prime Minister Justin Trudeau ahead of a 2019 election, sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="og:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170823&amp;t=2&amp;i=1198306614&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7M1UA"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-23T21:36:31+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-23T21:36:31+0000"/>
+    <cse:Attribute name="og:article:section" value="World"/>
+    <cse:Attribute name="og:article:author" value="David Ljunggren"/>
+    <cse:Attribute name="og:article:tag" value="Canada,El Salvador,Honduras,Nicaragua,United States,Cameron Ahmad,Christian Bourque,Donald Trump,Justin Trudeau,Michelle Rempel,US,CANADA,POLITICS,TRUDEAU,Crime / Law / Justice,Honduras,Picture available,Crime,Haiti,Major News,Human Rights / Civil Rights,Pictures,Conflicts / War / Peace,Canada,United States,Americas,El Salvador,South America / Central America,Asylum / Immigration / Refugees,Diplomacy / Foreign Policy,Government / Politics,General News,Regulation,Nicaragua,Emerging Market Countries"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Shell&apos;s Deer Park, Texas crude unit shut up to two weeks - sources"/>
-    <cse:Attribute name="twitter:description" value="The large crude distillation unit at Royal Dutch Shell Plc&apos;s 325,700 barrel per day (bpd) joint-venture Deer Park, Texas, refinery may be shut for up to two weeks of repairs from a Thursday fire, sources familiar with plant operations said on Friday."/>
-    <cse:Attribute name="twitter:image:src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170819&amp;t=2&amp;i=1197723106&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7I000"/>
-    <cse:Attribute name="twitter:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170819&amp;t=2&amp;i=1197723106&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7I000"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
+    <cse:Attribute name="twitter:title" value="Canada frets over possible huge surge in asylum-seekers: sources"/>
+    <cse:Attribute name="twitter:description" value="Canada fears a huge surge in asylum seekers crossing the border from the United States, putting political pressure on Prime Minister Justin Trudeau ahead of a 2019 election, sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170823&amp;t=2&amp;i=1198306614&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7M1UA"/>
+    <cse:Attribute name="twitter:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170823&amp;t=2&amp;i=1198306614&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7M1UA"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/world/article"/>
+    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
     <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="-"/>
+    <cse:Attribute name="analyticsattributes.contentchannel" value="World - World"/>
+    <cse:Attribute name="analyticsattributes.topicchannel" value="World"/>
+    <cse:Attribute name="analyticsattributes.topicsubchannel" value="World"/>
     <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
     <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
     <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
     <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
     <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
     <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170819&amp;t=2&amp;i=1197723106&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7I000"/>
+    <cse:Attribute name="src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170823&amp;t=2&amp;i=1198306614&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7M1UA"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="271"/>
-    <cse:Attribute name="height" value="186"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX_e3OHCv4WQqE1z3GyzR1M8gqxT-bE7soFusWUjdBGr6D7td_low92KM"/>
+    <cse:Attribute name="width" value="270"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDhaxGm7QHvTLNs4v-E4GeQ14ha_lhLbcF02Zdcd-poFTiBJYag5FQec4"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-toshiba-accounting-idUSKCN1B40WF</id>
+  <updated>1970-01-18T09:39:33.722Z</updated>
+  <title type="html">Western Digital group to offer 1.9 trillion yen for Toshiba&amp;#39;s chip unit ...</title>
+  <link href="https://www.reuters.com/article/us-toshiba-accounting-idUSKCN1B40WF" title="www.reuters.com"/>
+  <summary type="html">Western Digital is set to offer 150 billion yen through convertible bonds and will &lt;br&gt;
+not seek voting rights in the business, &lt;b&gt;sources familiar with&lt;/b&gt; the deal said,&amp;nbsp;...</summary>
+  <cse:cacheId>i9H9mYTxWnEJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-toshiba-accounting-idUSKCN1B40WF</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="innovationIntellectualProperty"/>
+    <cse:Attribute name="dcsext.channellist" value="innovationIntellectualProperty;innovation;top-100-innovators;technologyNews;innovationNews;businessNews;japan;US-The-Wire;USWire_EL"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Japan;United States;US;TOSHIBA;ACCOUNTING;Mergers / Acquisitions / Takeovers;Company News;Japan;Corporate Events;Semiconductors (TRBC);Divestitures / Spin;Offs;Asia / Pacific;Major News;Science;Industrial Conglomerates (TRBC);Deals;Investment Management and Fund Operators (TRBC);Private Equity Funds;United States;Computer Hardware (TRBC)"/>
+    <cse:Attribute name="revision_date" value="Thu Aug 24 09:25:00 UTC 2017"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-24T09:25:00+0000"/>
+    <cse:Attribute name="analyticsattributes.author" value="Reuters Editorial"/>
+    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-toshiba-accounting-idUSKCN1B40WF"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="Western Digital group to offer 1.9 trillion yen for Toshiba&apos;s chip unit: sources"/>
+    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
+    <cse:Attribute name="analyticsattributes.keywords" value="Japan,United States,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Company News,Japan,Corporate Events,Semiconductors (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Major News,Science,Industrial Conglomerates (TRBC),Deals,Investment Management and Fund Operators (TRBC),Private Equity Funds,United States,Computer Hardware (TRBC)"/>
+    <cse:Attribute name="analyticsattributes.keywordslug" value="US-TOSHIBA-ACCOUNTING"/>
+    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
+    <cse:Attribute name="analyticsattributes.title" value="Western Digital group to offer 1.9 trillion yen for Toshiba&apos;s chip unit: sources"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-24T09:25:00+0000"/>
+    <cse:Attribute name="sailthru.title" value="Western Digital group to offer 1.9 trillion yen for Toshiba&apos;s chip unit: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="U.S."/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Western Digital group to offer 1.9 trillion yen for Toshiba&apos;s chip unit: sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-toshiba-accounting-idUSKCN1B40WF"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="A consortium that includes Western Digital (WDC.O) is offering 1.9 trillion yen ($17.4 billion) for Toshiba Corp&apos;s (6502.T) memory chip business, which the Japanese conglomerate is trying to sell to cover losses from its U.S. nuclear business, sources said on Thursday."/>
+    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170824&amp;t=2&amp;i=1198369032&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7N0K3"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-24T09:25:00+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-24T09:25:00+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Japan,United States,US,TOSHIBA,ACCOUNTING,Mergers / Acquisitions / Takeovers,Company News,Japan,Corporate Events,Semiconductors (TRBC),Divestitures / Spin,Offs,Asia / Pacific,Major News,Science,Industrial Conglomerates (TRBC),Deals,Investment Management and Fund Operators (TRBC),Private Equity Funds,United States,Computer Hardware (TRBC)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Western Digital group to offer 1.9 trillion yen for Toshiba&apos;s chip unit: sources"/>
+    <cse:Attribute name="twitter:description" value="A consortium that includes Western Digital (WDC.O) is offering 1.9 trillion yen ($17.4 billion) for Toshiba Corp&apos;s (6502.T) memory chip business, which the Japanese conglomerate is trying to sell to cover losses from its U.S. nuclear business, sources said on Thursday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170824&amp;t=2&amp;i=1198369032&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7N0K3"/>
+    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170824&amp;t=2&amp;i=1198369032&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7N0K3"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/innovation/article"/>
+    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
+    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
+    <cse:Attribute name="analyticsattributes.contentchannel" value="Technology - Innovation and Intellectual Property"/>
+    <cse:Attribute name="analyticsattributes.topicchannel" value="Technology"/>
+    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Innovation and Intellectual Property"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170824&amp;t=2&amp;i=1198369032&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7N0K3"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="265"/>
+    <cse:Attribute name="height" value="190"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHDpkDI-yamhOz0PAV2PH7KlDujzspRj2UTYssHUpB59oNZ2lH6xfX14t5"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-usa-egypt-exclusive-idUSKCN1B225F</id>
-  <updated>1970-01-18T09:38:06.984Z</updated>
+  <updated>1970-01-18T09:39:33.722Z</updated>
   <title type="html">Exclusive: U.S. to withhold up to $290 million in Egypt aid</title>
   <link href="https://www.reuters.com/article/us-usa-egypt-exclusive-idUSKCN1B225F" title="www.reuters.com"/>
   <summary type="html">... $195 million because of its failure to make progress on respecting human &lt;br&gt;
@@ -324,53 +465,53 @@ Tuesday.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-anglogold-ashnti-m-a-idUSKCN1AY0ZC</id>
-  <updated>1970-01-18T09:38:06.984Z</updated>
-  <title type="html">Exclusive: AngloGold Ashanti revives plans to spin off South Africa ...</title>
-  <link href="https://www.reuters.com/article/us-anglogold-ashnti-m-a-idUSKCN1AY0ZC" title="www.reuters.com"/>
-  <summary type="html">AngloGold Ashanti is considering separating its South African assets from the &lt;br&gt;
-rest of its portfolio, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters, three years&amp;nbsp;...</summary>
-  <cse:cacheId>Ku1Ve4TmwsoJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-anglogold-ashnti-m-a-idUSKCN1AY0ZC</cse:formattedUrl>
+  <id>https://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKCN1AZ004</id>
+  <updated>1970-01-18T09:39:33.722Z</updated>
+  <title type="html">Shell&amp;#39;s Deer Park, Texas crude unit shut up to two weeks - sources</title>
+  <link href="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKCN1AZ004" title="www.reuters.com"/>
+  <summary type="html">... joint-venture Deer Park, Texas, refinery may be shut for up to two weeks of &lt;br&gt;
+repairs from a Thursday fire, &lt;b&gt;sources familiar with&lt;/b&gt; plant operations said on Friday.</summary>
+  <cse:cacheId>YJQb6ih7I04J</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-refinery-operations-shell-deerpark- idUSKCN1AZ004</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
     <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="GCA-Commodities;africa-news;metals-news;Intel"/>
-    <cse:Attribute name="author" value="Zandi Shabalala and Clara Denina"/>
-    <cse:Attribute name="news_keywords" value="Australia;Brazil;Ghana;Mali;South Africa;Tanzania;US;ANGLOGOLD;ASHNTI;M;A;Security Listings / Delistings;Mergers / Acquisitions / Takeovers;Company News;Gold;Precious Metals and Minerals (TRBC);Precious Metals;Coal (TRBC);South Africa;Exclusive;Africa;Corporate Events;Specialty Mining and Metals (TRBC);Divestitures / Spin;Offs;English;Metals Markets;Major News;Energy (TRBC);Commodities News (3rd Party);Deals"/>
-    <cse:Attribute name="revision_date" value="Fri Aug 18 10:07:56 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-18T10:07:56+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Zandi Shabalala and Clara Denina"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-anglogold-ashnti-m-a-idUSKCN1AY0ZC"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Exclusive: AngloGold Ashanti revives plans to spin off South Africa mines - sources"/>
+    <cse:Attribute name="dcsext.channellist" value="GCA-Commodities;energy-news;oil;power;Intel"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="Mexico;Ray Fisher;US;REFINERY;OPERATIONS;SHELL;DEERPARK;Energy Markets;Western Europe;Crude Oil;Energy (Legacy);Heating Oil / Gasoil;Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Government Borrowing Requirement;United Kingdom;United States;Gasoline;Company News;South America / Central America;Gulf Coast (PADD III);Mexico;North America (Energy);Corporate Events;Oil and Gas (TRBC);Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;Production Status Changes;English;Europe;Commodities News (3rd Party);Reports"/>
+    <cse:Attribute name="revision_date" value="Sat Aug 19 00:01:42 UTC 2017"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-19T00:01:42+0000"/>
+    <cse:Attribute name="analyticsattributes.author" value="Reuters Editorial"/>
+    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKCN1AZ004"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="Shell&apos;s Deer Park, Texas crude unit shut up to two weeks - sources"/>
     <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="Australia,Brazil,Ghana,Mali,South Africa,Tanzania,US,ANGLOGOLD,ASHNTI,M,A,Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Company News,Gold,Precious Metals and Minerals (TRBC),Precious Metals,Coal (TRBC),South Africa,Exclusive,Africa,Corporate Events,Specialty Mining and Metals (TRBC),Divestitures / Spin,Offs,English,Metals Markets,Major News,Energy (TRBC),Commodities News (3rd Party),Deals"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="US-ANGLOGOLD-ASHNTI-M-A"/>
+    <cse:Attribute name="analyticsattributes.keywords" value="Mexico,Ray Fisher,US,REFINERY,OPERATIONS,SHELL,DEERPARK,Energy Markets,Western Europe,Crude Oil,Energy (Legacy),Heating Oil / Gasoil,Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,English,Europe,Commodities News (3rd Party),Reports"/>
+    <cse:Attribute name="analyticsattributes.keywordslug" value="US-REFINERY-OPERATIONS-SHELL-DEERPARK"/>
     <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="Exclusive: AngloGold Ashanti revives plans to spin off South Africa mines - sources"/>
-    <cse:Attribute name="sailthru.author" value="Zandi Shabalala and Clara Denina"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-18T10:07:56+0000"/>
-    <cse:Attribute name="sailthru.title" value="Exclusive: AngloGold Ashanti revives plans to spin off South Africa mines - sources"/>
+    <cse:Attribute name="analyticsattributes.title" value="Shell&apos;s Deer Park, Texas crude unit shut up to two weeks - sources"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-19T00:01:42+0000"/>
+    <cse:Attribute name="sailthru.title" value="Shell&apos;s Deer Park, Texas crude unit shut up to two weeks - sources"/>
     <cse:Attribute name="og:locale" value="en_US"/>
     <cse:Attribute name="og:site_name" value="U.S."/>
     <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Exclusive: AngloGold Ashanti revives plans to spin off South Africa mines - sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-anglogold-ashnti-m-a-idUSKCN1AY0ZC"/>
+    <cse:Attribute name="og:title" value="Shell&apos;s Deer Park, Texas crude unit shut up to two weeks - sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-idUSKCN1AZ004"/>
     <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="AngloGold Ashanti is considering separating its South African assets from the rest of its portfolio, two sources familiar with the matter told Reuters, three years after shareholders revolted against a similar effort."/>
-    <cse:Attribute name="og:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170818&amp;t=2&amp;i=1197630461&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7H0JK"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-18T10:07:56+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-18T10:07:56+0000"/>
-    <cse:Attribute name="og:article:author" value="Zandi Shabalala and Clara Denina"/>
-    <cse:Attribute name="og:article:tag" value="Australia,Brazil,Ghana,Mali,South Africa,Tanzania,US,ANGLOGOLD,ASHNTI,M,A,Security Listings / Delistings,Mergers / Acquisitions / Takeovers,Company News,Gold,Precious Metals and Minerals (TRBC),Precious Metals,Coal (TRBC),South Africa,Exclusive,Africa,Corporate Events,Specialty Mining and Metals (TRBC),Divestitures / Spin,Offs,English,Metals Markets,Major News,Energy (TRBC),Commodities News (3rd Party),Deals"/>
+    <cse:Attribute name="og:description" value="The large crude distillation unit at Royal Dutch Shell Plc&apos;s 325,700 barrel per day (bpd) joint-venture Deer Park, Texas, refinery may be shut for up to two weeks of repairs from a Thursday fire, sources familiar with plant operations said on Friday."/>
+    <cse:Attribute name="og:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170819&amp;t=2&amp;i=1197723106&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7I000"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-19T00:01:42+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-19T00:01:42+0000"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="Mexico,Ray Fisher,US,REFINERY,OPERATIONS,SHELL,DEERPARK,Energy Markets,Western Europe,Crude Oil,Energy (Legacy),Heating Oil / Gasoil,Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Oil and Gas (TRBC),Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,Production Status Changes,English,Europe,Commodities News (3rd Party),Reports"/>
     <cse:Attribute name="twitter:site" value="@Reuters"/>
     <cse:Attribute name="twitter:creator" value="@Reuters"/>
     <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Exclusive: AngloGold Ashanti revives plans to spin off South Africa mines - sources"/>
-    <cse:Attribute name="twitter:description" value="AngloGold Ashanti is considering separating its South African assets from the rest of its portfolio, two sources familiar with the matter told Reuters, three years after shareholders revolted against a similar effort."/>
-    <cse:Attribute name="twitter:image:src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170818&amp;t=2&amp;i=1197630461&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7H0JK"/>
-    <cse:Attribute name="twitter:image" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170818&amp;t=2&amp;i=1197630461&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7H0JK"/>
+    <cse:Attribute name="twitter:title" value="Shell&apos;s Deer Park, Texas crude unit shut up to two weeks - sources"/>
+    <cse:Attribute name="twitter:description" value="The large crude distillation unit at Royal Dutch Shell Plc&apos;s 325,700 barrel per day (bpd) joint-venture Deer Park, Texas, refinery may be shut for up to two weeks of repairs from a Thursday fire, sources familiar with plant operations said on Friday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170819&amp;t=2&amp;i=1197723106&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7I000"/>
+    <cse:Attribute name="twitter:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170819&amp;t=2&amp;i=1197723106&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7I000"/>
     <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
     <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
     <cse:Attribute name="analyticsattributes.contentchannel" value="-"/>
@@ -384,18 +525,85 @@ rest of its portfolio, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter t
     <cse:Attribute name="theme-color" value="#ffffff"/>
    </cse:DataObject>
    <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s3.reutersmedia.net/resources/r/?m=02&amp;d=20170818&amp;t=2&amp;i=1197630461&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7H0JK"/>
+    <cse:Attribute name="src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170819&amp;t=2&amp;i=1197723106&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7I000"/>
    </cse:DataObject>
    <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="250"/>
-    <cse:Attribute name="height" value="201"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7gwE0q28KvWyAxUu8X3w-kIs4RxnGSoWHcN4Luzye3MQCLLZgmKc63ISn"/>
+    <cse:Attribute name="width" value="271"/>
+    <cse:Attribute name="height" value="186"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX_e3OHCv4WQqE1z3GyzR1M8gqxT-bE7soFusWUjdBGr6D7td_low92KM"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J</id>
+  <updated>1970-01-18T09:39:33.722Z</updated>
+  <title type="html">Shell Deer Park crude unit to shut at least a week: sources</title>
+  <link href="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J" title="www.reuters.com"/>
+  <summary type="html">... (bpd) joint-venture Deer Park, Texas, refinery to be shut for at least a week of &lt;br&gt;
+repairs following a Thursday fire, said &lt;b&gt;sources familiar with&lt;/b&gt; plant operations.</summary>
+  <cse:cacheId>BoepWxaiyBEJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../us-refinery-operations-shell-deerpark-cl- idUSKCN1AY02J</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="environmentNews"/>
+    <cse:Attribute name="dcsext.channellist" value="environmentNews;GCA-Commodities;energy-news;power"/>
+    <cse:Attribute name="author" value="Reuters Editorial"/>
+    <cse:Attribute name="news_keywords" value="US;REFINERY;OPERATIONS;SHELL;DEERPARK;CLOSURE;Energy Markets;Energy (Legacy);Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Government Borrowing Requirement;United Kingdom;United States;Gasoline;Company News;South America / Central America;Gulf Coast (PADD III);Mexico;North America (Energy);Corporate Events;Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;English;Europe;Science;Commodities News (3rd Party);Reports"/>
+    <cse:Attribute name="revision_date" value="Fri Aug 18 00:40:27 UTC 2017"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-18T00:40:27+0000"/>
+    <cse:Attribute name="analyticsattributes.author" value="Reuters Editorial"/>
+    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="Shell Deer Park crude unit to shut at least a week: sources"/>
+    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
+    <cse:Attribute name="analyticsattributes.keywords" value="US,REFINERY,OPERATIONS,SHELL,DEERPARK,CLOSURE,Energy Markets,Energy (Legacy),Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,English,Europe,Science,Commodities News (3rd Party),Reports"/>
+    <cse:Attribute name="analyticsattributes.keywordslug" value="US-REFINERY-OPERATIONS-SHELL-DEERPARK-CLOSURE"/>
+    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
+    <cse:Attribute name="analyticsattributes.title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
+    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-18T00:40:27+0000"/>
+    <cse:Attribute name="sailthru.title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="U.S."/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Royal Dutch Shell Plc expects the large crude unit at its 325,700-barrel-per-day (bpd) joint-venture Deer Park, Texas, refinery to be shut for at least a week of repairs following a Thursday fire, said sources familiar with plant operations."/>
+    <cse:Attribute name="og:image" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-18T00:40:27+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-18T00:40:27+0000"/>
+    <cse:Attribute name="og:article:section" value="Technology"/>
+    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
+    <cse:Attribute name="og:article:tag" value="US,REFINERY,OPERATIONS,SHELL,DEERPARK,CLOSURE,Energy Markets,Energy (Legacy),Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,English,Europe,Science,Commodities News (3rd Party),Reports"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary"/>
+    <cse:Attribute name="twitter:title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
+    <cse:Attribute name="twitter:description" value="Royal Dutch Shell Plc expects the large crude unit at its 325,700-barrel-per-day (bpd) joint-venture Deer Park, Texas, refinery to be shut for at least a week of repairs following a Thursday fire, said sources familiar with plant operations."/>
+    <cse:Attribute name="twitter:image:src" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="twitter:image" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/environment/article"/>
+    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
+    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
+    <cse:Attribute name="analyticsattributes.contentchannel" value="Technology - Green Business"/>
+    <cse:Attribute name="analyticsattributes.topicchannel" value="Technology"/>
+    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Green Business"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/turkey-sok-ipo-idUSL8N1L72WK</id>
-  <updated>1970-01-18T09:38:06.984Z</updated>
+  <updated>1970-01-18T09:39:33.722Z</updated>
   <title type="html">UPDATE 2-Turkish discount retailer Sok plans 2018 IPO - sources</title>
   <link href="https://www.reuters.com/article/turkey-sok-ipo-idUSL8N1L72WK" title="www.reuters.com"/>
   <summary type="html">ISTANBUL, Aug 21 (Reuters) - Turkish discount retailer Sok is planning an initial &lt;br&gt;
@@ -462,217 +670,6 @@ public offering in 2018, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter
     <cse:Attribute name="width" value="275"/>
     <cse:Attribute name="height" value="183"/>
     <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_MtMEuOxRs79piKnMnwP7aB0yScbiO8ixPrNnlu0supMx-EE72qzcgg"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J</id>
-  <updated>1970-01-18T09:38:06.984Z</updated>
-  <title type="html">Shell Deer Park crude unit to shut at least a week: sources</title>
-  <link href="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J" title="www.reuters.com"/>
-  <summary type="html">... (bpd) joint-venture Deer Park, Texas, refinery to be shut for at least a week of &lt;br&gt;
-repairs following a Thursday fire, said &lt;b&gt;sources familiar with&lt;/b&gt; plant operations.</summary>
-  <cse:cacheId>BoepWxaiyBEJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-refinery-operations-shell-deerpark-cl- idUSKCN1AY02J</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="environmentNews"/>
-    <cse:Attribute name="dcsext.channellist" value="environmentNews;GCA-Commodities;energy-news;power"/>
-    <cse:Attribute name="author" value="Reuters Editorial"/>
-    <cse:Attribute name="news_keywords" value="US;REFINERY;OPERATIONS;SHELL;DEERPARK;CLOSURE;Energy Markets;Energy (Legacy);Oil and Gas Refining and Marketing (TRBC);Exclude story from RNP;Government Borrowing Requirement;United Kingdom;United States;Gasoline;Company News;South America / Central America;Gulf Coast (PADD III);Mexico;North America (Energy);Corporate Events;Integrated Oil and Gas (TRBC);Refined Products;Oil Refineries;English;Europe;Science;Commodities News (3rd Party);Reports"/>
-    <cse:Attribute name="revision_date" value="Fri Aug 18 00:40:27 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-18T00:40:27+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Reuters Editorial"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Shell Deer Park crude unit to shut at least a week: sources"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="US,REFINERY,OPERATIONS,SHELL,DEERPARK,CLOSURE,Energy Markets,Energy (Legacy),Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,English,Europe,Science,Commodities News (3rd Party),Reports"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="US-REFINERY-OPERATIONS-SHELL-DEERPARK-CLOSURE"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
-    <cse:Attribute name="sailthru.author" value="Reuters Editorial"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-18T00:40:27+0000"/>
-    <cse:Attribute name="sailthru.title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-refinery-operations-shell-deerpark-cl-idUSKCN1AY02J"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Royal Dutch Shell Plc expects the large crude unit at its 325,700-barrel-per-day (bpd) joint-venture Deer Park, Texas, refinery to be shut for at least a week of repairs following a Thursday fire, said sources familiar with plant operations."/>
-    <cse:Attribute name="og:image" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-18T00:40:27+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-18T00:40:27+0000"/>
-    <cse:Attribute name="og:article:section" value="Technology"/>
-    <cse:Attribute name="og:article:author" value="Reuters Editorial"/>
-    <cse:Attribute name="og:article:tag" value="US,REFINERY,OPERATIONS,SHELL,DEERPARK,CLOSURE,Energy Markets,Energy (Legacy),Oil and Gas Refining and Marketing (TRBC),Exclude story from RNP,Government Borrowing Requirement,United Kingdom,United States,Gasoline,Company News,South America / Central America,Gulf Coast (PADD III),Mexico,North America (Energy),Corporate Events,Integrated Oil and Gas (TRBC),Refined Products,Oil Refineries,English,Europe,Science,Commodities News (3rd Party),Reports"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Shell Deer Park crude unit to shut at least a week: sources"/>
-    <cse:Attribute name="twitter:description" value="Royal Dutch Shell Plc expects the large crude unit at its 325,700-barrel-per-day (bpd) joint-venture Deer Park, Texas, refinery to be shut for at least a week of repairs following a Thursday fire, said sources familiar with plant operations."/>
-    <cse:Attribute name="twitter:image:src" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/tech/environment/article"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Technology - Green Business"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Technology"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Green Business"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https:https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-ambank-m-a-anz-bank-idUSKCN1B30ID</id>
-  <updated>1970-01-18T09:38:06.984Z</updated>
-  <title type="html">Sale of ANZ stake in Malaysia&amp;#39;s AmBank scrapped as RHB deal ...</title>
-  <link href="https://www.reuters.com/article/us-ambank-m-a-anz-bank-idUSKCN1B30ID" title="www.reuters.com"/>
-  <summary type="html">KL) have fallen through after a proposed acquisition of the Malaysian lender by a &lt;br&gt;
-domestic rival was scrapped, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said.</summary>
-  <cse:cacheId>CnaIf_cpVj0J</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-ambank-m-a-anz-bank-idUSKCN1B30ID</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;ousivMolt;bank-news;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="author" value="Liz Lee and Anshuman Daga"/>
-    <cse:Attribute name="news_keywords" value="Australia;Malaysia;Singapore;Khairul Azizi Kairudin;Najib Razak;US;AMBANK;M;A;ANZ;BANK;Banks (TRBC);Mergers / Acquisitions / Takeovers;Company News;Equity Investments;Malaysia;New Zealand;Corporate Events;Divestitures / Spin;Offs;Asia / Pacific;Australia;Singapore;Major News;Pictures;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Wed Aug 23 09:28:55 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-23T09:28:55+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Liz Lee and Anshuman Daga"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-ambank-m-a-anz-bank-idUSKCN1B30ID"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Sale of ANZ stake in Malaysia&apos;s AmBank scrapped as RHB deal collapses: sources"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="Australia,Malaysia,Singapore,Khairul Azizi Kairudin,Najib Razak,US,AMBANK,M,A,ANZ,BANK,Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Equity Investments,Malaysia,New Zealand,Corporate Events,Divestitures / Spin,Offs,Asia / Pacific,Australia,Singapore,Major News,Pictures,Banking Services (Legacy)"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="US-AMBANK-M-A-ANZ-BANK"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="Sale of ANZ stake in Malaysia&apos;s AmBank scrapped as RHB deal collapses: sources"/>
-    <cse:Attribute name="sailthru.author" value="Liz Lee and Anshuman Daga"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-23T09:28:55+0000"/>
-    <cse:Attribute name="sailthru.title" value="Sale of ANZ stake in Malaysia&apos;s AmBank scrapped as RHB deal collapses: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Sale of ANZ stake in Malaysia&apos;s AmBank scrapped as RHB deal collapses: sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-ambank-m-a-anz-bank-idUSKCN1B30ID"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Australia and New Zealand Banking Group Ltd&apos;s (ANZ.AX) plans to sell its stake in AMMB Holdings (AmBank) Bhd (AMMB.KL) have fallen through after a proposed acquisition of the Malaysian lender by a domestic rival was scrapped, sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170823&amp;t=2&amp;i=1198223186&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7M0ME"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-23T09:28:55+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-23T09:28:55+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Liz Lee and Anshuman Daga"/>
-    <cse:Attribute name="og:article:tag" value="Australia,Malaysia,Singapore,Khairul Azizi Kairudin,Najib Razak,US,AMBANK,M,A,ANZ,BANK,Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Equity Investments,Malaysia,New Zealand,Corporate Events,Divestitures / Spin,Offs,Asia / Pacific,Australia,Singapore,Major News,Pictures,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Sale of ANZ stake in Malaysia&apos;s AmBank scrapped as RHB deal collapses: sources"/>
-    <cse:Attribute name="twitter:description" value="Australia and New Zealand Banking Group Ltd&apos;s (ANZ.AX) plans to sell its stake in AMMB Holdings (AmBank) Bhd (AMMB.KL) have fallen through after a proposed acquisition of the Malaysian lender by a domestic rival was scrapped, sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170823&amp;t=2&amp;i=1198223186&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7M0ME"/>
-    <cse:Attribute name="twitter:image" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170823&amp;t=2&amp;i=1198223186&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7M0ME"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Business - Deals"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Business"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Deals"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s2.reutersmedia.net/resources/r/?m=02&amp;d=20170823&amp;t=2&amp;i=1198223186&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7M0ME"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="282"/>
-    <cse:Attribute name="height" value="179"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRb8R9iyxKu2yriPaU_Amr0qZka8_5XetA0WM6xJc0RSWK8Q36CkEFLFQGV"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-ambank-m-a-rhb-bank-idUSKCN1B2162</id>
-  <updated>1970-01-18T09:38:06.984Z</updated>
-  <title type="html">Malaysia&amp;#39;s RHB Bank and AmBank likely to ditch merger plans ...</title>
-  <link href="https://www.reuters.com/article/us-ambank-m-a-rhb-bank-idUSKCN1B2162" title="www.reuters.com"/>
-  <summary type="html">KL) and AMMB Holdings (AmBank) (AMMB.KL) are likely to abandon their &lt;br&gt;
-planned merger, three &lt;b&gt;sources familiar with&lt;/b&gt; the matter told Reuters on Tuesday.</summary>
-  <cse:cacheId>st2rvDafuvIJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-ambank-m-a-rhb-bank-idUSKCN1B2162</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="innovationNews"/>
-    <cse:Attribute name="dcsext.channellist" value="innovationNews;bank-news;Intel"/>
-    <cse:Attribute name="author" value="Liz Lee"/>
-    <cse:Attribute name="news_keywords" value="Malaysia;US;AMBANK;M;A;RHB;BANK;Banks (TRBC);Mergers / Acquisitions / Takeovers;Company News;Financials (TRBC);Financials (Legacy);Malaysia;Corporate Events;Asia / Pacific;ASEAN Countries;Deals;Emerging Market Countries;Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Tue Aug 22 12:26:29 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-22T12:26:29+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Liz Lee"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-ambank-m-a-rhb-bank-idUSKCN1B2162"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Malaysia&apos;s RHB Bank and AmBank likely to ditch merger plans: sources"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="Malaysia,US,AMBANK,M,A,RHB,BANK,Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Financials (TRBC),Financials (Legacy),Malaysia,Corporate Events,Asia / Pacific,ASEAN Countries,Deals,Emerging Market Countries,Banking Services (Legacy)"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="US-AMBANK-M-A-RHB-BANK"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="Malaysia&apos;s RHB Bank and AmBank likely to ditch merger plans: sources"/>
-    <cse:Attribute name="sailthru.author" value="Liz Lee"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-22T12:26:29+0000"/>
-    <cse:Attribute name="sailthru.title" value="Malaysia&apos;s RHB Bank and AmBank likely to ditch merger plans: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Malaysia&apos;s RHB Bank and AmBank likely to ditch merger plans: sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-ambank-m-a-rhb-bank-idUSKCN1B2162"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Malaysia&apos;s RHB Bank (RHBC.KL) and AMMB Holdings (AmBank) (AMMB.KL) are likely to abandon their planned merger, three sources familiar with the matter told Reuters on Tuesday."/>
-    <cse:Attribute name="og:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170822&amp;t=2&amp;i=1198080632&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7L0N0"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-22T12:26:29+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-22T12:26:29+0000"/>
-    <cse:Attribute name="og:article:section" value="Business"/>
-    <cse:Attribute name="og:article:author" value="Liz Lee"/>
-    <cse:Attribute name="og:article:tag" value="Malaysia,US,AMBANK,M,A,RHB,BANK,Banks (TRBC),Mergers / Acquisitions / Takeovers,Company News,Financials (TRBC),Financials (Legacy),Malaysia,Corporate Events,Asia / Pacific,ASEAN Countries,Deals,Emerging Market Countries,Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Malaysia&apos;s RHB Bank and AmBank likely to ditch merger plans: sources"/>
-    <cse:Attribute name="twitter:description" value="Malaysia&apos;s RHB Bank (RHBC.KL) and AMMB Holdings (AmBank) (AMMB.KL) are likely to abandon their planned merger, three sources familiar with the matter told Reuters on Tuesday."/>
-    <cse:Attribute name="twitter:image:src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170822&amp;t=2&amp;i=1198080632&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7L0N0"/>
-    <cse:Attribute name="twitter:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170822&amp;t=2&amp;i=1198080632&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7L0N0"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/deals/article"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Business - Deals"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Business"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Deals"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170822&amp;t=2&amp;i=1198080632&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7L0N0"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="265"/>
-    <cse:Attribute name="height" value="190"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPdexwKKLx7LDinERYI-MfLEhlrXfyXuff7d9vHUG4t6j8WrEzxj_9Iso"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
