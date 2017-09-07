@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T09:59:20.538Z</updated>
+ <updated>1970-01-18T09:59:31.296Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>16100</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16800" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>16800</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.365287</cse:searchTime>
-  <cse:formattedSearchTime>0.37</cse:formattedSearchTime>
-  <cse:totalResults>16100</cse:totalResults>
-  <cse:formattedTotalResults>16,100</cse:formattedTotalResults>
+  <cse:searchTime>0.286858</cse:searchTime>
+  <cse:formattedSearchTime>0.29</cse:formattedSearchTime>
+  <cse:totalResults>16800</cse:totalResults>
+  <cse:formattedTotalResults>16,800</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.thedailybeast.com/exclusive-mueller-enlists-the-irs-for-his-trump-russia-investigation</id>
-  <updated>1970-01-18T09:59:20.538Z</updated>
+  <updated>1970-01-18T09:59:31.296Z</updated>
   <title type="html">Exclusive: Mueller Enlists the IRS for His Trump-Russia Investigation</title>
   <link href="http://www.thedailybeast.com/exclusive-mueller-enlists-the-irs-for-his-trump-russia-investigation" title="www.thedailybeast.com"/>
   <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; his investigation into alleged Russian election &lt;br&gt;
@@ -75,7 +75,7 @@ interference, his probe has enlisted the help of agents from the IRS&amp;#39; Cr
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/story/2017/09/03/trump-dreamers-immigration-daca-immigrants-242301</id>
-  <updated>1970-01-18T09:59:20.538Z</updated>
+  <updated>1970-01-18T09:59:31.296Z</updated>
   <title type="html">Trump has decided to end DACA, with 6-month delay - POLITICO</title>
   <link href="http://www.politico.com/story/2017/09/03/trump-dreamers-immigration-daca-immigrants-242301" title="www.politico.com"/>
   <summary type="html">... program that grants work permits to undocumented immigrants who arrived in &lt;br&gt;
@@ -84,9 +84,9 @@ the country as children, according to two &lt;b&gt;sources familiar with&lt;/b&g
   <cse:formattedUrl type="html">www.politico.com/.../trump-dreamers-immigration-daca-immigrants-242301</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Edward-Isaac Dovere"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/edward-isaac-dovere"/>
-    <cse:Attribute name="url_text" value="Edward-Isaac Dovere"/>
+    <cse:Attribute name="fn" value="Jack Shafer"/>
+    <cse:Attribute name="url" value="http://www.politico.com/staff/jack-shafer"/>
+    <cse:Attribute name="url_text" value="Jack Shafer"/>
    </cse:DataObject>
    <cse:DataObject type="hcard">
     <cse:Attribute name="fn" value="Michael Grunwald"/>
@@ -148,7 +148,7 @@ the country as children, according to two &lt;b&gt;sources familiar with&lt;/b&g
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/videos/politics/2017/09/01/keith-schiller-white-house-bash-lead-sot.cnn</id>
-  <updated>1970-01-18T09:59:20.538Z</updated>
+  <updated>1970-01-18T09:59:31.296Z</updated>
   <title type="html">Sources: Schiller leaving White House - CNN Video</title>
   <link href="http://www.cnn.com/videos/politics/2017/09/01/keith-schiller-white-house-bash-lead-sot.cnn" title="www.cnn.com"/>
   <summary type="html">... current director of Oval Office operations Keith Schiller has told people he &lt;br&gt;
@@ -194,7 +194,7 @@ CNN.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.msn.com/en-us/news/world/trump-expected-to-end-daca-program/vi-AAreAMz</id>
-  <updated>1970-01-18T09:59:20.538Z</updated>
+  <updated>1970-01-18T09:59:31.296Z</updated>
   <title type="html">Trump expected to end DACA program</title>
   <link href="http://www.msn.com/en-us/news/world/trump-expected-to-end-daca-program/vi-AAreAMz" title="www.msn.com"/>
   <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the decision, President Donald Trump is &lt;br&gt;
@@ -228,7 +228,7 @@ to the&amp;nbsp;...</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-ecb-policy/ecb-unease-over-firmer-euro-risks-slowing-asset-purchase-exit-sources-idUSKCN1BB15J</id>
-  <updated>1970-01-18T09:59:20.538Z</updated>
+  <updated>1970-01-18T09:59:31.296Z</updated>
   <title type="html">ECB unease over firmer euro risks slowing asset purchase exit ...</title>
   <link href="https://www.reuters.com/article/us-ecb-policy/ecb-unease-over-firmer-euro-risks-slowing-asset-purchase-exit-sources-idUSKCN1BB15J" title="www.reuters.com"/>
   <summary type="html">... number of policymakers at the ECB, raising the chance its asset purchases will &lt;br&gt;
@@ -300,7 +300,7 @@ be phased out only slowly, three &lt;b&gt;sources familiar with&lt;/b&gt; discus
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-britain-eu-companies/britain-asks-companies-to-publicly-back-brexit-strategy-sources-idUSKCN1BH25X?il=0</id>
-  <updated>1970-01-18T09:59:20.538Z</updated>
+  <updated>1970-01-18T09:59:31.296Z</updated>
   <title type="html">Britain asks companies to publicly back Brexit strategy: sources</title>
   <link href="http://www.reuters.com/article/us-britain-eu-companies/britain-asks-companies-to-publicly-back-brexit-strategy-sources-idUSKCN1BH25X?il=0" title="www.reuters.com"/>
   <summary type="html">The British government has asked FTSE 100 companies to sign a public letter &lt;br&gt;
@@ -372,7 +372,7 @@ endorsing its Brexit strategy, four &lt;b&gt;sources familiar with&lt;/b&gt; the
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-maaden-loan-exclusive/exclusive-saudi-arabias-maaden-asks-banks-to-refinance-nearly-3-billion-of-debt-sources-idUSKCN1BH1WG</id>
-  <updated>1970-01-18T09:59:20.538Z</updated>
+  <updated>1970-01-18T09:59:31.296Z</updated>
   <title type="html">Exclusive: Saudi Arabia&amp;#39;s Ma&amp;#39;aden asks banks to refinance nearly ...</title>
   <link href="https://www.reuters.com/article/us-maaden-loan-exclusive/exclusive-saudi-arabias-maaden-asks-banks-to-refinance-nearly-3-billion-of-debt-sources-idUSKCN1BH1WG" title="www.reuters.com"/>
   <summary type="html">... has asked banks to submit proposals for a loan which would refinance some &lt;br&gt;
@@ -444,7 +444,7 @@ $2.88 billion of existing debt, &lt;b&gt;sources familiar with&lt;/b&gt; the mat
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-china-corruption-defence/senior-chinese-military-officer-questioned-over-suspected-graft-sources-idUSKCN1BF0Z6?il=0</id>
-  <updated>1970-01-18T09:59:20.538Z</updated>
+  <updated>1970-01-18T09:59:31.296Z</updated>
   <title type="html">Senior Chinese military officer questioned over suspected graft ...</title>
   <link href="http://www.reuters.com/article/us-china-corruption-defence/senior-chinese-military-officer-questioned-over-suspected-graft-sources-idUSKCN1BF0Z6?il=0" title="www.reuters.com"/>
   <summary type="html">... Military Commission, which is headed by President Xi Jinping, is being &lt;br&gt;
@@ -517,7 +517,7 @@ said.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>https://www.reuters.com/article/us-toshiba-accounting/western-digital-offers-to-exit-toshiba-chip-bid-for-better-jv-terms-sources-idUSKCN1BG1E2</id>
-  <updated>1970-01-18T09:59:20.538Z</updated>
+  <updated>1970-01-18T09:59:31.296Z</updated>
   <title type="html">Exclusive: Western Digital offers to exit Toshiba chip bid for better JV ...</title>
   <link href="https://www.reuters.com/article/us-toshiba-accounting/western-digital-offers-to-exit-toshiba-chip-bid-for-better-jv-terms-sources-idUSKCN1BG1E2" title="www.reuters.com"/>
   <summary type="html">... for Toshiba&amp;#39;s coveted flash memory chip business to take a stronger position in &lt;br&gt;
@@ -589,7 +589,7 @@ their joint venture instead, two &lt;b&gt;sources familiar with&lt;/b&gt; the ma
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/videos/us/2017/09/04/trump-to-end-daca-program-allen-live.cnn/video/playlists/atv-road-to-the-white-house-automated/</id>
-  <updated>1970-01-18T09:59:20.538Z</updated>
+  <updated>1970-01-18T09:59:31.296Z</updated>
   <title type="html">Trump expected to end DACA program - CNN Video</title>
   <link href="http://www.cnn.com/videos/us/2017/09/04/trump-to-end-daca-program-allen-live.cnn/video/playlists/atv-road-to-the-white-house-automated/" title="www.cnn.com"/>
   <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the decision, President Donald Trump is &lt;br&gt;
