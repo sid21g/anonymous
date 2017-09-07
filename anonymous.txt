@@ -5,25 +5,25 @@
  <author>
   <name>Anonymous sources - Google Custom Search</name>
  </author>
- <updated>1970-01-18T09:57:35.488Z</updated>
+ <updated>1970-01-18T09:59:20.538Z</updated>
  <opensearch:Url type="application/atom+xml" template="https://www.googleapis.com/customsearch/v1?q={searchTerms}&amp;num={count?}&amp;start={startIndex?}&amp;lr={language?}&amp;safe={cse:safe?}&amp;cx={cse:cx?}&amp;sort={cse:sort?}&amp;filter={cse:filter?}&amp;gl={cse:gl?}&amp;cr={cse:cr?}}&amp;googlehost={cse:googleHost?}&amp;c2coff={?cse:disableCnTwTranslation}&amp;hq={cse:hq?}&amp;hl={cse:hl?}&amp;siteSearch={cse:siteSearch?}&amp;siteSearchFilter={cse:siteSearchFilter?}&amp;exactTerms={cse:exactTerms?}&amp;excludeTerms={cse:excludeTerms?}&amp;linkSite={cse:linkSite?}&amp;orTerms={cse:orTerms?}&amp;relatedSite={cse:relatedSite?}&amp;dateRestrict={cse:dateRestrict?}&amp;lowRange={cse:lowRange?}&amp;highRange={cse:highRange?}&amp;searchType={cse:searchType?}&amp;fileType={cse:fileType?}&amp;rights={cse:rights?}&amp;imgsz={cse:imgsz?}&amp;imgtype={cse:imgtype?}&amp;imgc={cse:imgc?}&amp;imgcolor={cse:imgcolor?}&amp;alt=atom"/>
- <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16900" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16900" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
- <opensearch:totalResults>16900</opensearch:totalResults>
+ <opensearch:Query role="request" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="1" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:Query role="cse:nextPage" title="Google Custom Search - &quot;sources familiar with&quot;" totalResults="16100" searchTerms="&quot;sources familiar with&quot;" count="10" startIndex="11" inputEncoding="utf8" outputEncoding="utf8" cse:safe="off" cse:cx="012091639844104041986:munhfapni70" cse:hl="en" cse:dateRestrict="w1"/>
+ <opensearch:totalResults>16100</opensearch:totalResults>
  <opensearch:startIndex>1</opensearch:startIndex>
  <cse:context title="Anonymous sources"/>
  <cse:searchInformation>
-  <cse:searchTime>0.251212</cse:searchTime>
-  <cse:formattedSearchTime>0.25</cse:formattedSearchTime>
-  <cse:totalResults>16900</cse:totalResults>
-  <cse:formattedTotalResults>16,900</cse:formattedTotalResults>
+  <cse:searchTime>0.365287</cse:searchTime>
+  <cse:formattedSearchTime>0.37</cse:formattedSearchTime>
+  <cse:totalResults>16100</cse:totalResults>
+  <cse:formattedTotalResults>16,100</cse:formattedTotalResults>
  </cse:searchInformation>
  <cse:spelling>
   <cse:correctedQuery type="html"/>
  </cse:spelling>
  <entry gd:kind="customsearch#result">
   <id>http://www.thedailybeast.com/exclusive-mueller-enlists-the-irs-for-his-trump-russia-investigation</id>
-  <updated>1970-01-18T09:57:35.488Z</updated>
+  <updated>1970-01-18T09:59:20.538Z</updated>
   <title type="html">Exclusive: Mueller Enlists the IRS for His Trump-Russia Investigation</title>
   <link href="http://www.thedailybeast.com/exclusive-mueller-enlists-the-irs-for-his-trump-russia-investigation" title="www.thedailybeast.com"/>
   <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; his investigation into alleged Russian election &lt;br&gt;
@@ -75,7 +75,7 @@ interference, his probe has enlisted the help of agents from the IRS&amp;#39; Cr
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.politico.com/story/2017/09/03/trump-dreamers-immigration-daca-immigrants-242301</id>
-  <updated>1970-01-18T09:57:35.488Z</updated>
+  <updated>1970-01-18T09:59:20.538Z</updated>
   <title type="html">Trump has decided to end DACA, with 6-month delay - POLITICO</title>
   <link href="http://www.politico.com/story/2017/09/03/trump-dreamers-immigration-daca-immigrants-242301" title="www.politico.com"/>
   <summary type="html">... program that grants work permits to undocumented immigrants who arrived in &lt;br&gt;
@@ -87,11 +87,6 @@ the country as children, according to two &lt;b&gt;sources familiar with&lt;/b&g
     <cse:Attribute name="fn" value="Edward-Isaac Dovere"/>
     <cse:Attribute name="url" value="http://www.politico.com/staff/edward-isaac-dovere"/>
     <cse:Attribute name="url_text" value="Edward-Isaac Dovere"/>
-   </cse:DataObject>
-   <cse:DataObject type="hcard">
-    <cse:Attribute name="fn" value="Michael Crowley"/>
-    <cse:Attribute name="url" value="http://www.politico.com/staff/michael-crowley"/>
-    <cse:Attribute name="url_text" value="Michael Crowley"/>
    </cse:DataObject>
    <cse:DataObject type="hcard">
     <cse:Attribute name="fn" value="Michael Grunwald"/>
@@ -153,7 +148,7 @@ the country as children, according to two &lt;b&gt;sources familiar with&lt;/b&g
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.cnn.com/videos/politics/2017/09/01/keith-schiller-white-house-bash-lead-sot.cnn</id>
-  <updated>1970-01-18T09:57:35.488Z</updated>
+  <updated>1970-01-18T09:59:20.538Z</updated>
   <title type="html">Sources: Schiller leaving White House - CNN Video</title>
   <link href="http://www.cnn.com/videos/politics/2017/09/01/keith-schiller-white-house-bash-lead-sot.cnn" title="www.cnn.com"/>
   <summary type="html">... current director of Oval Office operations Keith Schiller has told people he &lt;br&gt;
@@ -199,7 +194,7 @@ CNN.</summary>
  </entry>
  <entry gd:kind="customsearch#result">
   <id>http://www.msn.com/en-us/news/world/trump-expected-to-end-daca-program/vi-AAreAMz</id>
-  <updated>1970-01-18T09:57:35.488Z</updated>
+  <updated>1970-01-18T09:59:20.538Z</updated>
   <title type="html">Trump expected to end DACA program</title>
   <link href="http://www.msn.com/en-us/news/world/trump-expected-to-end-daca-program/vi-AAreAMz" title="www.msn.com"/>
   <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the decision, President Donald Trump is &lt;br&gt;
@@ -232,8 +227,224 @@ to the&amp;nbsp;...</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-ecb-policy/ecb-unease-over-firmer-euro-risks-slowing-asset-purchase-exit-sources-idUSKCN1BB15J</id>
+  <updated>1970-01-18T09:59:20.538Z</updated>
+  <title type="html">ECB unease over firmer euro risks slowing asset purchase exit ...</title>
+  <link href="https://www.reuters.com/article/us-ecb-policy/ecb-unease-over-firmer-euro-risks-slowing-asset-purchase-exit-sources-idUSKCN1BB15J" title="www.reuters.com"/>
+  <summary type="html">... number of policymakers at the ECB, raising the chance its asset purchases will &lt;br&gt;
+be phased out only slowly, three &lt;b&gt;sources familiar with&lt;/b&gt; discussions told Reuters.</summary>
+  <cse:cacheId>qIhszZwKUOIJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../ecb-unease-over-firmer-euro-risks-slowing-asset- purchase-exit-sources-idUSKCN1BB15J</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
+    <cse:Attribute name="dcsext.channellist" value="ousivMolt;bank-news;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="author" value="Balazs Koranyi and Francesco Canepa"/>
+    <cse:Attribute name="news_keywords" value="Jens Weidmann;Mario Draghi;US;ECB;POLICY;Germany;Banks (TRBC);European Central Bank;Western Europe;Central Banks / Central Bank Events;Currencies / Foreign Exchange Markets;Corporate Events;Interest Rates / Policy;Economic Events;Euro Zone;European Union;National Government Debt;Euro Zone as a Whole;Money Markets;Major News;Debt / Fixed Income Markets;Europe;Monetary / Fiscal Policy / Policy Makers;Economic News (3rd Party);Banking Services (Legacy)"/>
+    <cse:Attribute name="revision_date" value="Thu Aug 31 10:33:39 UTC 2017"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-31T10:33:39+0000"/>
+    <cse:Attribute name="analyticsattributes.author" value="Balazs Koranyi and Francesco Canepa"/>
+    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-ecb-policy/ecb-unease-over-firmer-euro-risks-slowing-asset-purchase-exit-sources-idUSKCN1BB15J"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="ECB unease over firmer euro risks slowing asset purchase exit: sources"/>
+    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
+    <cse:Attribute name="analyticsattributes.keywords" value="Jens Weidmann,Mario Draghi,US,ECB,POLICY,Germany,Banks (TRBC),European Central Bank,Western Europe,Central Banks / Central Bank Events,Currencies / Foreign Exchange Markets,Corporate Events,Interest Rates / Policy,Economic Events,Euro Zone,European Union,National Government Debt,Euro Zone as a Whole,Money Markets,Major News,Debt / Fixed Income Markets,Europe,Monetary / Fiscal Policy / Policy Makers,Economic News (3rd Party),Banking Services (Legacy)"/>
+    <cse:Attribute name="analyticsattributes.keywordslug" value="US-ECB-POLICY"/>
+    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
+    <cse:Attribute name="analyticsattributes.title" value="ECB unease over firmer euro risks slowing asset purchase exit: sources"/>
+    <cse:Attribute name="sailthru.author" value="Balazs Koranyi and Francesco Canepa"/>
+    <cse:Attribute name="sailthru.date" value="2017-08-31T10:33:39+0000"/>
+    <cse:Attribute name="sailthru.title" value="ECB unease over firmer euro risks slowing asset purchase exit: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="U.S."/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="ECB unease over firmer euro risks slowing asset purchase exit: sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-ecb-policy/ecb-unease-over-firmer-euro-risks-slowing-asset-purchase-exit-sources-idUSKCN1BB15J"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Rapid gains by the euro against the dollar are worrying a growing number of policymakers at the ECB, raising the chance its asset purchases will be phased out only slowly, three sources familiar with discussions told Reuters."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170831&amp;t=2&amp;i=1199382761&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7U0PY"/>
+    <cse:Attribute name="og:article:published_time" value="2017-08-31T10:33:39+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-08-31T10:33:39+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Balazs Koranyi and Francesco Canepa"/>
+    <cse:Attribute name="og:article:tag" value="Jens Weidmann,Mario Draghi,US,ECB,POLICY,Germany,Banks (TRBC),European Central Bank,Western Europe,Central Banks / Central Bank Events,Currencies / Foreign Exchange Markets,Corporate Events,Interest Rates / Policy,Economic Events,Euro Zone,European Union,National Government Debt,Euro Zone as a Whole,Money Markets,Major News,Debt / Fixed Income Markets,Europe,Monetary / Fiscal Policy / Policy Makers,Economic News (3rd Party),Banking Services (Legacy)"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="ECB unease over firmer euro risks slowing asset purchase exit: sources"/>
+    <cse:Attribute name="twitter:description" value="Rapid gains by the euro against the dollar are worrying a growing number of policymakers at the ECB, raising the chance its asset purchases will be phased out only slowly, three sources familiar with discussions told Reuters."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170831&amp;t=2&amp;i=1199382761&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7U0PY"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170831&amp;t=2&amp;i=1199382761&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7U0PY"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="analyticsattributes.channel" value="Article - Markets"/>
+    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
+    <cse:Attribute name="analyticsattributes.contentchannel" value="Markets - Markets"/>
+    <cse:Attribute name="analyticsattributes.topicchannel" value="Markets"/>
+    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Markets"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170831&amp;t=2&amp;i=1199382761&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7U0PY"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="277"/>
+    <cse:Attribute name="height" value="182"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpNPF_T8qKLQmKOVuU8PQAm4ncoa4IgNojr-vSdpDCqj8QqsU3MOR27Xh_"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.reuters.com/article/us-britain-eu-companies/britain-asks-companies-to-publicly-back-brexit-strategy-sources-idUSKCN1BH25X?il=0</id>
+  <updated>1970-01-18T09:59:20.538Z</updated>
+  <title type="html">Britain asks companies to publicly back Brexit strategy: sources</title>
+  <link href="http://www.reuters.com/article/us-britain-eu-companies/britain-asks-companies-to-publicly-back-brexit-strategy-sources-idUSKCN1BH25X?il=0" title="www.reuters.com"/>
+  <summary type="html">The British government has asked FTSE 100 companies to sign a public letter &lt;br&gt;
+endorsing its Brexit strategy, four &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on&amp;nbsp;...</summary>
+  <cse:cacheId>1I25aKM0XhkJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.reuters.com/.../britain-asks-companies-to-publicly-back-brexit-strategy- sources-idUSKCN1BH25X?...</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
+    <cse:Attribute name="dcsext.channellist" value="ousivMolt;euro-zone;brexit;brexit-full;britain-referendum;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="author" value="Kate Holton and Andrew MacAskill"/>
+    <cse:Attribute name="news_keywords" value="United Kingdom;David Cameron;Jonathan Reynolds;Theresa May;US;BRITAIN;EU;COMPANIES;Company News;Western Europe;International Trade;Asylum / Immigration / Refugees;Diplomacy / Foreign Policy;Government / Politics;Corporate Events;Economic Events;European Union;Major News;Government Borrowing Requirement;Europe;Monetary / Fiscal Policy / Policy Makers;Regulation;United Kingdom;Labour / Personnel"/>
+    <cse:Attribute name="revision_date" value="Wed Sep 06 18:07:21 UTC 2017"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="2017-09-06T18:07:21+0000"/>
+    <cse:Attribute name="analyticsattributes.author" value="Kate Holton and Andrew MacAskill"/>
+    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-britain-eu-companies/britain-asks-companies-to-publicly-back-brexit-strategy-sources-idUSKCN1BH25X"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="Britain asks companies to publicly back Brexit strategy: sources"/>
+    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
+    <cse:Attribute name="analyticsattributes.keywords" value="United Kingdom,David Cameron,Jonathan Reynolds,Theresa May,US,BRITAIN,EU,COMPANIES,Company News,Western Europe,International Trade,Asylum / Immigration / Refugees,Diplomacy / Foreign Policy,Government / Politics,Corporate Events,Economic Events,European Union,Major News,Government Borrowing Requirement,Europe,Monetary / Fiscal Policy / Policy Makers,Regulation,United Kingdom,Labour / Personnel"/>
+    <cse:Attribute name="analyticsattributes.keywordslug" value="US-BRITAIN-EU-COMPANIES"/>
+    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
+    <cse:Attribute name="analyticsattributes.title" value="Britain asks companies to publicly back Brexit strategy: sources"/>
+    <cse:Attribute name="sailthru.author" value="Kate Holton and Andrew MacAskill"/>
+    <cse:Attribute name="sailthru.date" value="2017-09-06T18:07:21+0000"/>
+    <cse:Attribute name="sailthru.title" value="Britain asks companies to publicly back Brexit strategy: sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="U.S."/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Britain asks companies to publicly back Brexit strategy: sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-britain-eu-companies/britain-asks-companies-to-publicly-back-brexit-strategy-sources-idUSKCN1BH25X"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="The British government has asked FTSE 100 companies to sign a public letter endorsing its Brexit strategy, four sources familiar with the matter said on Wednesday, risking further strains with firms who are reluctant to agree."/>
+    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170906&amp;t=2&amp;i=1200231699&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED851IT"/>
+    <cse:Attribute name="og:article:published_time" value="2017-09-06T18:07:21+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-09-06T18:07:21+0000"/>
+    <cse:Attribute name="og:article:section" value="Markets"/>
+    <cse:Attribute name="og:article:author" value="Kate Holton and Andrew MacAskill"/>
+    <cse:Attribute name="og:article:tag" value="United Kingdom,David Cameron,Jonathan Reynolds,Theresa May,US,BRITAIN,EU,COMPANIES,Company News,Western Europe,International Trade,Asylum / Immigration / Refugees,Diplomacy / Foreign Policy,Government / Politics,Corporate Events,Economic Events,European Union,Major News,Government Borrowing Requirement,Europe,Monetary / Fiscal Policy / Policy Makers,Regulation,United Kingdom,Labour / Personnel"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Britain asks companies to publicly back Brexit strategy: sources"/>
+    <cse:Attribute name="twitter:description" value="The British government has asked FTSE 100 companies to sign a public letter endorsing its Brexit strategy, four sources familiar with the matter said on Wednesday, risking further strains with firms who are reluctant to agree."/>
+    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170906&amp;t=2&amp;i=1200231699&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED851IT"/>
+    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170906&amp;t=2&amp;i=1200231699&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED851IT"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="analyticsattributes.channel" value="Article - Markets"/>
+    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
+    <cse:Attribute name="analyticsattributes.contentchannel" value="Markets - Markets"/>
+    <cse:Attribute name="analyticsattributes.topicchannel" value="Markets"/>
+    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Markets"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170906&amp;t=2&amp;i=1200231699&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED851IT"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="271"/>
+    <cse:Attribute name="height" value="186"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-pRbS3u0gHS25OjdfURa1ZqMTTA0VMFRyP2GULdiMgOjEcNf1mhJy-os"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>https://www.reuters.com/article/us-maaden-loan-exclusive/exclusive-saudi-arabias-maaden-asks-banks-to-refinance-nearly-3-billion-of-debt-sources-idUSKCN1BH1WG</id>
+  <updated>1970-01-18T09:59:20.538Z</updated>
+  <title type="html">Exclusive: Saudi Arabia&amp;#39;s Ma&amp;#39;aden asks banks to refinance nearly ...</title>
+  <link href="https://www.reuters.com/article/us-maaden-loan-exclusive/exclusive-saudi-arabias-maaden-asks-banks-to-refinance-nearly-3-billion-of-debt-sources-idUSKCN1BH1WG" title="www.reuters.com"/>
+  <summary type="html">... has asked banks to submit proposals for a loan which would refinance some &lt;br&gt;
+$2.88 billion of existing debt, &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Wednesday.</summary>
+  <cse:cacheId>FDJpVkQZZqwJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../exclusive-saudi-arabias-maaden-asks-banks-to- refinance-nearly-3-billion-of-debt-sources-idUSKCN1BH1WG</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
+    <cse:Attribute name="dcsext.contentchannel" value="businessNews"/>
+    <cse:Attribute name="dcsext.channellist" value="businessNews;GCA-Commodities;middle-east;middle-east-full-coverage;US-The-Wire;USWire_EL;Intel"/>
+    <cse:Attribute name="author" value="Davide Barbuscia and Katie Paul"/>
+    <cse:Attribute name="news_keywords" value="France;Saudi Arabia;United States;US;MAADEN;LOAN;EXCLUSIVE;Investment Banking and Investment Services (TRBC);Mergers / Acquisitions / Takeovers;Company News;Precious Metals and Minerals (TRBC);Exclusive;Base Metals;Corporate Events;Saudi Arabia;Corporate Debt;Investment Banking and Brokerage Services (TRBC);Major News;Debt / Fixed Income Markets;Middle East;Aluminum (TRBC);Economic News (3rd Party);Emerging Market Countries;United States;Loans"/>
+    <cse:Attribute name="revision_date" value="Wed Sep 06 14:01:31 UTC 2017"/>
+    <cse:Attribute name="analyticsattributes.articledate" value="2017-09-06T14:01:31+0000"/>
+    <cse:Attribute name="analyticsattributes.author" value="Davide Barbuscia and Katie Paul"/>
+    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-maaden-loan-exclusive/exclusive-saudi-arabias-maaden-asks-banks-to-refinance-nearly-3-billion-of-debt-sources-idUSKCN1BH1WG"/>
+    <cse:Attribute name="analyticsattributes.contenttitle" value="Exclusive: Saudi Arabia&apos;s Ma&apos;aden asks banks to refinance nearly $3 billion of debt - sources"/>
+    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
+    <cse:Attribute name="analyticsattributes.keywords" value="France,Saudi Arabia,United States,US,MAADEN,LOAN,EXCLUSIVE,Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Company News,Precious Metals and Minerals (TRBC),Exclusive,Base Metals,Corporate Events,Saudi Arabia,Corporate Debt,Investment Banking and Brokerage Services (TRBC),Major News,Debt / Fixed Income Markets,Middle East,Aluminum (TRBC),Economic News (3rd Party),Emerging Market Countries,United States,Loans"/>
+    <cse:Attribute name="analyticsattributes.keywordslug" value="US-MAADEN-LOAN-EXCLUSIVE"/>
+    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
+    <cse:Attribute name="analyticsattributes.title" value="Exclusive: Saudi Arabia&apos;s Ma&apos;aden asks banks to refinance nearly $3 billion of debt - sources"/>
+    <cse:Attribute name="sailthru.author" value="Davide Barbuscia and Katie Paul"/>
+    <cse:Attribute name="sailthru.date" value="2017-09-06T14:01:31+0000"/>
+    <cse:Attribute name="sailthru.title" value="Exclusive: Saudi Arabia&apos;s Ma&apos;aden asks banks to refinance nearly $3 billion of debt - sources"/>
+    <cse:Attribute name="og:locale" value="en_US"/>
+    <cse:Attribute name="og:site_name" value="U.S."/>
+    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
+    <cse:Attribute name="og:title" value="Exclusive: Saudi Arabia&apos;s Ma&apos;aden asks banks to refinance nearly $3 billion of debt - sources"/>
+    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-maaden-loan-exclusive/exclusive-saudi-arabias-maaden-asks-banks-to-refinance-nearly-3-billion-of-debt-sources-idUSKCN1BH1WG"/>
+    <cse:Attribute name="og:type" value="article"/>
+    <cse:Attribute name="og:description" value="Saudi Arabian Mining Co (Ma’aden) 1211.SE, the Gulf&apos;s largest mining company, has asked banks to submit proposals for a loan which would refinance some $2.88 billion of existing debt, sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="og:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170906&amp;t=2&amp;i=1200220301&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED851D2"/>
+    <cse:Attribute name="og:article:published_time" value="2017-09-06T14:01:31+0000"/>
+    <cse:Attribute name="og:article:modified_time" value="2017-09-06T14:01:31+0000"/>
+    <cse:Attribute name="og:article:section" value="Business"/>
+    <cse:Attribute name="og:article:author" value="Davide Barbuscia and Katie Paul"/>
+    <cse:Attribute name="og:article:tag" value="France,Saudi Arabia,United States,US,MAADEN,LOAN,EXCLUSIVE,Investment Banking and Investment Services (TRBC),Mergers / Acquisitions / Takeovers,Company News,Precious Metals and Minerals (TRBC),Exclusive,Base Metals,Corporate Events,Saudi Arabia,Corporate Debt,Investment Banking and Brokerage Services (TRBC),Major News,Debt / Fixed Income Markets,Middle East,Aluminum (TRBC),Economic News (3rd Party),Emerging Market Countries,United States,Loans"/>
+    <cse:Attribute name="twitter:site" value="@Reuters"/>
+    <cse:Attribute name="twitter:creator" value="@Reuters"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="twitter:title" value="Exclusive: Saudi Arabia&apos;s Ma&apos;aden asks banks to refinance nearly $3 billion of debt - sources"/>
+    <cse:Attribute name="twitter:description" value="Saudi Arabian Mining Co (Ma’aden) 1211.SE, the Gulf&apos;s largest mining company, has asked banks to submit proposals for a loan which would refinance some $2.88 billion of existing debt, sources familiar with the matter said on Wednesday."/>
+    <cse:Attribute name="twitter:image:src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170906&amp;t=2&amp;i=1200220301&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED851D2"/>
+    <cse:Attribute name="twitter:image" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170906&amp;t=2&amp;i=1200220301&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED851D2"/>
+    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
+    <cse:Attribute name="analyticsattributes.channel" value="Article - News"/>
+    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
+    <cse:Attribute name="analyticsattributes.contentchannel" value="Business - Business"/>
+    <cse:Attribute name="analyticsattributes.topicchannel" value="Business"/>
+    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Business"/>
+    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
+    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
+    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
+    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
+    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
+    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="https://s1.reutersmedia.net/resources/r/?m=02&amp;d=20170906&amp;t=2&amp;i=1200220301&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED851D2"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_thumbnail">
+    <cse:Attribute name="width" value="270"/>
+    <cse:Attribute name="height" value="187"/>
+    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd40-nfleLW3uznc0CXinKzTDqHCHoClUkjiDxK7axoaMmIDEknkTMTtDN"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
   <id>http://www.reuters.com/article/us-china-corruption-defence/senior-chinese-military-officer-questioned-over-suspected-graft-sources-idUSKCN1BF0Z6?il=0</id>
-  <updated>1970-01-18T09:57:35.488Z</updated>
+  <updated>1970-01-18T09:59:20.538Z</updated>
   <title type="html">Senior Chinese military officer questioned over suspected graft ...</title>
   <link href="http://www.reuters.com/article/us-china-corruption-defence/senior-chinese-military-officer-questioned-over-suspected-graft-sources-idUSKCN1BF0Z6?il=0" title="www.reuters.com"/>
   <summary type="html">... Military Commission, which is headed by President Xi Jinping, is being &lt;br&gt;
@@ -305,275 +516,14 @@ said.</summary>
   </cse:PageMap>
  </entry>
  <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-ecb-policy-idUSKCN1BB15J</id>
-  <updated>1970-01-18T09:57:35.488Z</updated>
-  <title type="html">ECB unease over firmer euro risks slowing asset purchase exit ...</title>
-  <link href="https://www.reuters.com/article/us-ecb-policy-idUSKCN1BB15J" title="www.reuters.com"/>
-  <summary type="html">... number of policymakers at the ECB, raising the chance its asset purchases will &lt;br&gt;
-be phased out only slowly, three &lt;b&gt;sources familiar with&lt;/b&gt; discussions told Reuters.</summary>
-  <cse:cacheId>YJ8oNIcuDgYJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/article/us-ecb-policy-idUSKCN1BB15J</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="ousivMolt"/>
-    <cse:Attribute name="dcsext.channellist" value="ousivMolt;bank-news;US-The-Wire;USWire_EL;Intel"/>
-    <cse:Attribute name="author" value="Balazs Koranyi and Francesco Canepa"/>
-    <cse:Attribute name="news_keywords" value="Jens Weidmann;Mario Draghi;US;ECB;POLICY;Germany;Banks (TRBC);European Central Bank;Western Europe;Central Banks / Central Bank Events;Currencies / Foreign Exchange Markets;Corporate Events;Interest Rates / Policy;Economic Events;Euro Zone;European Union;National Government Debt;Euro Zone as a Whole;Money Markets;Major News;Debt / Fixed Income Markets;Europe;Monetary / Fiscal Policy / Policy Makers;Economic News (3rd Party);Banking Services (Legacy)"/>
-    <cse:Attribute name="revision_date" value="Thu Aug 31 10:33:39 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-31T10:33:39+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Balazs Koranyi and Francesco Canepa"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-ecb-policy/ecb-unease-over-firmer-euro-risks-slowing-asset-purchase-exit-sources-idUSKCN1BB15J"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="ECB unease over firmer euro risks slowing asset purchase exit: sources"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="Jens Weidmann,Mario Draghi,US,ECB,POLICY,Germany,Banks (TRBC),European Central Bank,Western Europe,Central Banks / Central Bank Events,Currencies / Foreign Exchange Markets,Corporate Events,Interest Rates / Policy,Economic Events,Euro Zone,European Union,National Government Debt,Euro Zone as a Whole,Money Markets,Major News,Debt / Fixed Income Markets,Europe,Monetary / Fiscal Policy / Policy Makers,Economic News (3rd Party),Banking Services (Legacy)"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="US-ECB-POLICY"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="ECB unease over firmer euro risks slowing asset purchase exit: sources"/>
-    <cse:Attribute name="sailthru.author" value="Balazs Koranyi and Francesco Canepa"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-31T10:33:39+0000"/>
-    <cse:Attribute name="sailthru.title" value="ECB unease over firmer euro risks slowing asset purchase exit: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="ECB unease over firmer euro risks slowing asset purchase exit: sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-ecb-policy/ecb-unease-over-firmer-euro-risks-slowing-asset-purchase-exit-sources-idUSKCN1BB15J"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Rapid gains by the euro against the dollar are worrying a growing number of policymakers at the ECB, raising the chance its asset purchases will be phased out only slowly, three sources familiar with discussions told Reuters."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170831&amp;t=2&amp;i=1199382761&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7U0PY"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-31T10:33:39+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-31T10:33:39+0000"/>
-    <cse:Attribute name="og:article:section" value="Markets"/>
-    <cse:Attribute name="og:article:author" value="Balazs Koranyi and Francesco Canepa"/>
-    <cse:Attribute name="og:article:tag" value="Jens Weidmann,Mario Draghi,US,ECB,POLICY,Germany,Banks (TRBC),European Central Bank,Western Europe,Central Banks / Central Bank Events,Currencies / Foreign Exchange Markets,Corporate Events,Interest Rates / Policy,Economic Events,Euro Zone,European Union,National Government Debt,Euro Zone as a Whole,Money Markets,Major News,Debt / Fixed Income Markets,Europe,Monetary / Fiscal Policy / Policy Makers,Economic News (3rd Party),Banking Services (Legacy)"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="ECB unease over firmer euro risks slowing asset purchase exit: sources"/>
-    <cse:Attribute name="twitter:description" value="Rapid gains by the euro against the dollar are worrying a growing number of policymakers at the ECB, raising the chance its asset purchases will be phased out only slowly, three sources familiar with discussions told Reuters."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170831&amp;t=2&amp;i=1199382761&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7U0PY"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170831&amp;t=2&amp;i=1199382761&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7U0PY"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/business/article"/>
-    <cse:Attribute name="analyticsattributes.channel" value="Article - Markets"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="Markets - Markets"/>
-    <cse:Attribute name="analyticsattributes.topicchannel" value="Markets"/>
-    <cse:Attribute name="analyticsattributes.topicsubchannel" value="Markets"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170831&amp;t=2&amp;i=1199382761&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED7U0PY"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="277"/>
-    <cse:Attribute name="height" value="182"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpNPF_T8qKLQmKOVuU8PQAm4ncoa4IgNojr-vSdpDCqj8QqsU3MOR27Xh_"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.cnn.com/videos/us/2017/09/04/trump-to-end-daca-program-allen-live.cnn/video/playlists/atv-road-to-the-white-house-automated/</id>
-  <updated>1970-01-18T09:57:35.488Z</updated>
-  <title type="html">Trump expected to end DACA program - CNN Video</title>
-  <link href="http://www.cnn.com/videos/us/2017/09/04/trump-to-end-daca-program-allen-live.cnn/video/playlists/atv-road-to-the-white-house-automated/" title="www.cnn.com"/>
-  <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the decision, President Donald Trump is &lt;br&gt;
-expected to end a program that protected undocumented immigrants who came &lt;br&gt;
-to the&amp;nbsp;...</summary>
-  <cse:cacheId>1kOVL6pTMsgJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.cnn.com/...to.../atv-road-to-the-white-house-automated/</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-    <cse:Attribute name="section" value="us"/>
-    <cse:Attribute name="og:pubdate" value="2017-09-04T04:44:54Z"/>
-    <cse:Attribute name="pubdate" value="2017-09-04T04:44:54Z"/>
-    <cse:Attribute name="lastmod" value="2017-09-04T04:44:54Z"/>
-    <cse:Attribute name="og:url" value="http://www.cnn.com/videos/us/2017/09/04/trump-to-end-daca-program-allen-live.cnn"/>
-    <cse:Attribute name="og:title" value="Trump expected to end DACA program - CNN Video"/>
-    <cse:Attribute name="twitter:title" value="Trump expected to end DACA program - CNN Video"/>
-    <cse:Attribute name="og:description" value="According to sources familiar with the decision, President Donald Trump is expected to end a program that protected undocumented immigrants who came to the US as children from deportation."/>
-    <cse:Attribute name="twitter:description" value="According to sources familiar with the decision, President Donald Trump is expected to end a program that protected undocumented immigrants who came to the US as children from deportation."/>
-    <cse:Attribute name="og:site_name" value="CNN"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="og:type" value="video.other"/>
-    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170831125710-daca-super-tease.jpg"/>
-    <cse:Attribute name="og:image:width" value="0"/>
-    <cse:Attribute name="og:image:height" value="0"/>
-    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170831125710-daca-super-tease.jpg"/>
-    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170831125710-daca-super-tease.jpg"/>
-    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/videos/us/2017/09/04/trump-to-end-daca-program-allen-live.cnn"/>
-    <cse:Attribute name="fb:app_id" value="80401312489"/>
-    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
-    <cse:Attribute name="template-top" value="us,videos,video,vid-vid-vls-col,col-road-to-the-white-house"/>
-   </cse:DataObject>
-   <cse:DataObject type="thumbnail">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170831125710-daca-super-tease.jpg"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170831125710-daca-super-tease.jpg"/>
-    <cse:Attribute name="type" value="1"/>
-    <cse:Attribute name="width" value="299"/>
-    <cse:Attribute name="height" value="168"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>http://www.reuters.com/article/us-indonesia-gasoil/potential-exports-of-indonesias-pertamina-gasoil-likely-to-be-high-sulfur-sources-idUSKCN1BG1AT?rpc=401&amp;</id>
-  <updated>1970-01-18T09:57:35.488Z</updated>
-  <title type="html">Potential exports of Indonesia&amp;#39;s Pertamina gasoil likely to be high ...</title>
-  <link href="http://www.reuters.com/article/us-indonesia-gasoil/potential-exports-of-indonesias-pertamina-gasoil-likely-to-be-high-sulfur-sources-idUSKCN1BG1AT?rpc=401&amp;" title="www.reuters.com"/>
-  <summary type="html">Potential exports of gasoil from Indonesia&amp;#39;s state-owned refiner Pertamina [&lt;br&gt;
-PERTM.UL] are likely to be of a high sulfur grade, two &lt;b&gt;sources familiar with&lt;/b&gt; the &lt;br&gt;
-matter&amp;nbsp;...</summary>
-  <cse:cacheId>Ffqt1aYEb4cJ</cse:cacheId>
-  <cse:formattedUrl type="html">www.reuters.com/.../potential-exports-of-indonesias-pertamina-gasoil-likely- to-be-high-sulfur-sources-idUSKCN1BG1AT?...</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="GCA-Commodities"/>
-    <cse:Attribute name="dcsext.channellist" value="GCA-Commodities;energy-news;oil;power;Intel"/>
-    <cse:Attribute name="author" value="Jessica Jaganathan"/>
-    <cse:Attribute name="news_keywords" value="Indonesia;United States;Nevyn Nah;US;INDONESIA;GASOIL;Asia (Energy);Energy Markets;Company News;Energy (Legacy);Heating Oil / Gasoil;Corporate Events;Oil and Gas (TRBC);Oil and Gas Refining and Marketing (TRBC);Integrated Data Network;Refined Products;Middle Distillates;Asia / Pacific;English;Singapore;Energy (TRBC);Jet Fuel / Kerosene;Regulation;Indonesia"/>
-    <cse:Attribute name="revision_date" value="Tue Sep 05 10:14:45 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-09-05T10:14:45+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Jessica Jaganathan"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-indonesia-gasoil/potential-exports-of-indonesias-pertamina-gasoil-likely-to-be-high-sulfur-sources-idUSKCN1BG1AT"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Potential exports of Indonesia&apos;s Pertamina gasoil likely to be high sulfur: sources"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="Indonesia,United States,Nevyn Nah,US,INDONESIA,GASOIL,Asia (Energy),Energy Markets,Company News,Energy (Legacy),Heating Oil / Gasoil,Corporate Events,Oil and Gas (TRBC),Oil and Gas Refining and Marketing (TRBC),Integrated Data Network,Refined Products,Middle Distillates,Asia / Pacific,English,Singapore,Energy (TRBC),Jet Fuel / Kerosene,Regulation,Indonesia"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="US-INDONESIA-GASOIL"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="Potential exports of Indonesia&apos;s Pertamina gasoil likely to be high sulfur: sources"/>
-    <cse:Attribute name="sailthru.author" value="Jessica Jaganathan"/>
-    <cse:Attribute name="sailthru.date" value="2017-09-05T10:14:45+0000"/>
-    <cse:Attribute name="sailthru.title" value="Potential exports of Indonesia&apos;s Pertamina gasoil likely to be high sulfur: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Potential exports of Indonesia&apos;s Pertamina gasoil likely to be high sulfur: sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-indonesia-gasoil/potential-exports-of-indonesias-pertamina-gasoil-likely-to-be-high-sulfur-sources-idUSKCN1BG1AT"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="Potential exports of gasoil from Indonesia&apos;s state-owned refiner Pertamina [PERTM.UL] are likely to be of a high sulfur grade, two sources familiar with the matter said."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170905&amp;t=2&amp;i=1200017240&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED840U9"/>
-    <cse:Attribute name="og:article:published_time" value="2017-09-05T10:14:45+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-09-05T10:14:45+0000"/>
-    <cse:Attribute name="og:article:author" value="Jessica Jaganathan"/>
-    <cse:Attribute name="og:article:tag" value="Indonesia,United States,Nevyn Nah,US,INDONESIA,GASOIL,Asia (Energy),Energy Markets,Company News,Energy (Legacy),Heating Oil / Gasoil,Corporate Events,Oil and Gas (TRBC),Oil and Gas Refining and Marketing (TRBC),Integrated Data Network,Refined Products,Middle Distillates,Asia / Pacific,English,Singapore,Energy (TRBC),Jet Fuel / Kerosene,Regulation,Indonesia"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary_large_image"/>
-    <cse:Attribute name="twitter:title" value="Potential exports of Indonesia&apos;s Pertamina gasoil likely to be high sulfur: sources"/>
-    <cse:Attribute name="twitter:description" value="Potential exports of gasoil from Indonesia&apos;s state-owned refiner Pertamina [PERTM.UL] are likely to be of a high sulfur grade, two sources familiar with the matter said."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170905&amp;t=2&amp;i=1200017240&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED840U9"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170905&amp;t=2&amp;i=1200017240&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED840U9"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters/markets/commodities/article"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="-"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources/r/?m=02&amp;d=20170905&amp;t=2&amp;i=1200017240&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPED840U9"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="272"/>
-    <cse:Attribute name="height" value="185"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSa1dhla0S_JyqJ92gSKFcFyzD5ENczi24-DXGoy2Mt1aPt95YtNbQ6Ak77"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-storm-harvey-motiva-portarthur-idUSKCN1B92LK</id>
-  <updated>1970-01-18T09:57:35.488Z</updated>
-  <title type="html">Largest U.S. crude refinery shutting due to Harvey: sources</title>
-  <link href="https://www.reuters.com/article/us-storm-harvey-motiva-portarthur-idUSKCN1B92LK" title="www.reuters.com"/>
-  <summary type="html">... on Tuesday night due to flooding from Tropical Storm Harvey in its 603000 &lt;br&gt;
-barrel-per-day (bpd) Port Arthur, Texas, plant, said &lt;b&gt;sources familiar with&lt;/b&gt; &lt;br&gt;
-operations.</summary>
-  <cse:cacheId>Em6rPb7aIkMJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../us-storm-harvey-motiva-portarthur- idUSKCN1B92LK</cse:formattedUrl>
-  <cse:PageMap>
-   <cse:DataObject type="metatags">
-    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
-    <cse:Attribute name="dcsext.contentchannel" value="environmentNews"/>
-    <cse:Attribute name="dcsext.channellist" value="hurricane-harvey;RCOM-energy-pack-all;environmentNews;businessNews;GCA-Commodities;energy-news;oil;power;storms;US-The-Wire;USWire_EL"/>
-    <cse:Attribute name="author" value="Erwin Seba"/>
-    <cse:Attribute name="news_keywords" value="United States;United States;US;STORM;HARVEY;MOTIVA;PORTARTHUR;Energy Markets;Gasoline;Company News;Crude Oil;Gulf Coast (PADD III);Energy (Legacy);North America (Energy);Wind / Hurricanes / Typhoons / Tornadoes;Corporate Events;Disasters / Accidents;Oil and Gas (TRBC);Oil and Gas Refining and Marketing (TRBC);Refined Products;Oil Refineries;Production Status Changes;English;Science;Commodities News (3rd Party);Reports;United States"/>
-    <cse:Attribute name="revision_date" value="Wed Aug 30 00:56:36 UTC 2017"/>
-    <cse:Attribute name="analyticsattributes.articledate" value="2017-08-30T00:56:36+0000"/>
-    <cse:Attribute name="analyticsattributes.author" value="Erwin Seba"/>
-    <cse:Attribute name="analyticsattributes.canonicalurl" value="https://www.reuters.com/article/us-storm-harvey-motiva-portarthur/motiva-port-arthur-refinery-preparing-to-shut-down-sources-idUSKCN1B92LK"/>
-    <cse:Attribute name="analyticsattributes.contenttitle" value="Largest U.S. crude refinery shutting due to Harvey: sources"/>
-    <cse:Attribute name="analyticsattributes.edition" value="U.S."/>
-    <cse:Attribute name="analyticsattributes.keywords" value="United States,United States,US,STORM,HARVEY,MOTIVA,PORTARTHUR,Energy Markets,Gasoline,Company News,Crude Oil,Gulf Coast (PADD III),Energy (Legacy),North America (Energy),Wind / Hurricanes / Typhoons / Tornadoes,Corporate Events,Disasters / Accidents,Oil and Gas (TRBC),Oil and Gas Refining and Marketing (TRBC),Refined Products,Oil Refineries,Production Status Changes,English,Science,Commodities News (3rd Party),Reports,United States"/>
-    <cse:Attribute name="analyticsattributes.keywordslug" value="US-STORM-HARVEY-MOTIVA-PORTARTHUR"/>
-    <cse:Attribute name="analyticsattributes.inlinetype" value="false"/>
-    <cse:Attribute name="analyticsattributes.title" value="Largest U.S. crude refinery shutting due to Harvey: sources"/>
-    <cse:Attribute name="sailthru.author" value="Erwin Seba"/>
-    <cse:Attribute name="sailthru.date" value="2017-08-30T00:56:36+0000"/>
-    <cse:Attribute name="sailthru.title" value="Largest U.S. crude refinery shutting due to Harvey: sources"/>
-    <cse:Attribute name="og:locale" value="en_US"/>
-    <cse:Attribute name="og:site_name" value="U.S."/>
-    <cse:Attribute name="article:publisher" value="https://www.facebook.com/Reuters"/>
-    <cse:Attribute name="og:title" value="Largest U.S. crude refinery shutting due to Harvey: sources"/>
-    <cse:Attribute name="og:url" value="https://www.reuters.com/article/us-storm-harvey-motiva-portarthur/motiva-port-arthur-refinery-preparing-to-shut-down-sources-idUSKCN1B92LK"/>
-    <cse:Attribute name="og:type" value="article"/>
-    <cse:Attribute name="og:description" value="The largest crude oil refinery in the United States was shutting down on Tuesday night due to flooding from Tropical Storm Harvey in its 603,000 barrel-per-day (bpd) Port Arthur, Texas, plant, said sources familiar with operations."/>
-    <cse:Attribute name="og:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="og:article:published_time" value="2017-08-30T00:56:36+0000"/>
-    <cse:Attribute name="og:article:modified_time" value="2017-08-30T00:56:36+0000"/>
-    <cse:Attribute name="og:article:author" value="Erwin Seba"/>
-    <cse:Attribute name="og:article:tag" value="United States,United States,US,STORM,HARVEY,MOTIVA,PORTARTHUR,Energy Markets,Gasoline,Company News,Crude Oil,Gulf Coast (PADD III),Energy (Legacy),North America (Energy),Wind / Hurricanes / Typhoons / Tornadoes,Corporate Events,Disasters / Accidents,Oil and Gas (TRBC),Oil and Gas Refining and Marketing (TRBC),Refined Products,Oil Refineries,Production Status Changes,English,Science,Commodities News (3rd Party),Reports,United States"/>
-    <cse:Attribute name="twitter:site" value="@Reuters"/>
-    <cse:Attribute name="twitter:creator" value="@Reuters"/>
-    <cse:Attribute name="twitter:card" value="summary"/>
-    <cse:Attribute name="twitter:title" value="Largest U.S. crude refinery shutting due to Harvey: sources"/>
-    <cse:Attribute name="twitter:description" value="The largest crude oil refinery in the United States was shutting down on Tuesday night due to flooding from Tropical Storm Harvey in its 603,000 barrel-per-day (bpd) Port Arthur, Texas, plant, said sources familiar with operations."/>
-    <cse:Attribute name="twitter:image:src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="twitter:image" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-    <cse:Attribute name="dcsext.dartzone" value="us.reuters"/>
-    <cse:Attribute name="analyticsattributes.channel" value="News"/>
-    <cse:Attribute name="analyticsattributes.contenttype" value="Article"/>
-    <cse:Attribute name="analyticsattributes.contentchannel" value="-"/>
-    <cse:Attribute name="msapplication-tilecolor" value="#ff8000"/>
-    <cse:Attribute name="msapplication-tileimage" value="https://s2.reutersmedia.net/resources_v2/images/mstile-144x144.png"/>
-    <cse:Attribute name="msapplication-square70x70logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-70x70.png"/>
-    <cse:Attribute name="msapplication-square150x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-150x150.png"/>
-    <cse:Attribute name="msapplication-wide310x150logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x150.png"/>
-    <cse:Attribute name="msapplication-square310x310logo" value="https://s1.reutersmedia.net/resources_v2/images/mstile-310x310.png"/>
-    <cse:Attribute name="msapplication-config" value="none"/>
-    <cse:Attribute name="theme-color" value="#ffffff"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_image">
-    <cse:Attribute name="src" value="https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"/>
-   </cse:DataObject>
-   <cse:DataObject type="cse_thumbnail">
-    <cse:Attribute name="width" value="310"/>
-    <cse:Attribute name="height" value="163"/>
-    <cse:Attribute name="src" value="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZMeC6T4GSaqGlrQLIyJ920gq1Ry7xQfDD2eEvuXyC0MF7EHD85Sva9k"/>
-   </cse:DataObject>
-  </cse:PageMap>
- </entry>
- <entry gd:kind="customsearch#result">
-  <id>https://www.reuters.com/article/us-toshiba-accounting-exclusive/exclusive-western-digital-offers-to-exit-toshiba-chip-bid-for-better-jv-terms-idUSKCN1BG1E2</id>
-  <updated>1970-01-18T09:57:35.488Z</updated>
+  <id>https://www.reuters.com/article/us-toshiba-accounting/western-digital-offers-to-exit-toshiba-chip-bid-for-better-jv-terms-sources-idUSKCN1BG1E2</id>
+  <updated>1970-01-18T09:59:20.538Z</updated>
   <title type="html">Exclusive: Western Digital offers to exit Toshiba chip bid for better JV ...</title>
-  <link href="https://www.reuters.com/article/us-toshiba-accounting-exclusive/exclusive-western-digital-offers-to-exit-toshiba-chip-bid-for-better-jv-terms-idUSKCN1BG1E2" title="www.reuters.com"/>
+  <link href="https://www.reuters.com/article/us-toshiba-accounting/western-digital-offers-to-exit-toshiba-chip-bid-for-better-jv-terms-sources-idUSKCN1BG1E2" title="www.reuters.com"/>
   <summary type="html">... for Toshiba&amp;#39;s coveted flash memory chip business to take a stronger position in &lt;br&gt;
 their joint venture instead, two &lt;b&gt;sources familiar with&lt;/b&gt; the matter said on Tuesday.</summary>
-  <cse:cacheId>FkJbJmL1bOYJ</cse:cacheId>
-  <cse:formattedUrl type="html">https://www.reuters.com/.../exclusive-western-digital-offers-to-exit-toshiba- chip-bid-for-better-jv-terms-idUSKCN1BG1E2</cse:formattedUrl>
+  <cse:cacheId>-moHTB-IhUQJ</cse:cacheId>
+  <cse:formattedUrl type="html">https://www.reuters.com/.../western-digital-offers-to-exit-toshiba-chip-bid-for -better-jv-terms-sources-idUSKCN1BG1E2</cse:formattedUrl>
   <cse:PageMap>
    <cse:DataObject type="metatags">
     <cse:Attribute name="viewport" value="width=device-width, initial-scale=1, user-scalable=no"/>
@@ -634,6 +584,52 @@ their joint venture instead, two &lt;b&gt;sources familiar with&lt;/b&gt; the ma
     <cse:Attribute name="width" value="266"/>
     <cse:Attribute name="height" value="189"/>
     <cse:Attribute name="src" value="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSR-sQPgtnv9Z6FVcIjYScacVQ_w3Y01kcImbs0-Gz9dbDXe74VNyXRkcs"/>
+   </cse:DataObject>
+  </cse:PageMap>
+ </entry>
+ <entry gd:kind="customsearch#result">
+  <id>http://www.cnn.com/videos/us/2017/09/04/trump-to-end-daca-program-allen-live.cnn/video/playlists/atv-road-to-the-white-house-automated/</id>
+  <updated>1970-01-18T09:59:20.538Z</updated>
+  <title type="html">Trump expected to end DACA program - CNN Video</title>
+  <link href="http://www.cnn.com/videos/us/2017/09/04/trump-to-end-daca-program-allen-live.cnn/video/playlists/atv-road-to-the-white-house-automated/" title="www.cnn.com"/>
+  <summary type="html">According to &lt;b&gt;sources familiar with&lt;/b&gt; the decision, President Donald Trump is &lt;br&gt;
+expected to end a program that protected undocumented immigrants who came &lt;br&gt;
+to the&amp;nbsp;...</summary>
+  <cse:cacheId>1kOVL6pTMsgJ</cse:cacheId>
+  <cse:formattedUrl type="html">www.cnn.com/...to.../atv-road-to-the-white-house-automated/</cse:formattedUrl>
+  <cse:PageMap>
+   <cse:DataObject type="metatags">
+    <cse:Attribute name="viewport" value="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    <cse:Attribute name="section" value="us"/>
+    <cse:Attribute name="og:pubdate" value="2017-09-04T04:44:54Z"/>
+    <cse:Attribute name="pubdate" value="2017-09-04T04:44:54Z"/>
+    <cse:Attribute name="lastmod" value="2017-09-04T04:44:54Z"/>
+    <cse:Attribute name="og:url" value="http://www.cnn.com/videos/us/2017/09/04/trump-to-end-daca-program-allen-live.cnn"/>
+    <cse:Attribute name="og:title" value="Trump expected to end DACA program - CNN Video"/>
+    <cse:Attribute name="twitter:title" value="Trump expected to end DACA program - CNN Video"/>
+    <cse:Attribute name="og:description" value="According to sources familiar with the decision, President Donald Trump is expected to end a program that protected undocumented immigrants who came to the US as children from deportation."/>
+    <cse:Attribute name="twitter:description" value="According to sources familiar with the decision, President Donald Trump is expected to end a program that protected undocumented immigrants who came to the US as children from deportation."/>
+    <cse:Attribute name="og:site_name" value="CNN"/>
+    <cse:Attribute name="twitter:card" value="summary_large_image"/>
+    <cse:Attribute name="og:type" value="video.other"/>
+    <cse:Attribute name="og:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170831125710-daca-super-tease.jpg"/>
+    <cse:Attribute name="og:image:width" value="0"/>
+    <cse:Attribute name="og:image:height" value="0"/>
+    <cse:Attribute name="thumbnail" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170831125710-daca-super-tease.jpg"/>
+    <cse:Attribute name="twitter:image" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170831125710-daca-super-tease.jpg"/>
+    <cse:Attribute name="vr:canonical" value="http://www.cnn.com/videos/us/2017/09/04/trump-to-end-daca-program-allen-live.cnn"/>
+    <cse:Attribute name="fb:app_id" value="80401312489"/>
+    <cse:Attribute name="fb:pages" value="5550296508,18793419640"/>
+    <cse:Attribute name="template-top" value="us,videos,video,vid-vid-vls-col,col-road-to-the-white-house"/>
+   </cse:DataObject>
+   <cse:DataObject type="thumbnail">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170831125710-daca-super-tease.jpg"/>
+   </cse:DataObject>
+   <cse:DataObject type="cse_image">
+    <cse:Attribute name="src" value="http://i2.cdn.cnn.com/cnnnext/dam/assets/170831125710-daca-super-tease.jpg"/>
+    <cse:Attribute name="type" value="1"/>
+    <cse:Attribute name="width" value="299"/>
+    <cse:Attribute name="height" value="168"/>
    </cse:DataObject>
   </cse:PageMap>
  </entry>
