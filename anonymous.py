@@ -52,9 +52,6 @@ for phrase in phrases:
     with open(local_file, encoding='utf8') as f:
         json_string = json.load(f)
 
-    # with open('C:/OneDrive/Projects/Code/Anonymous3/cse-json-response.json', encoding='utf8') as f:
-    #     json_string = json.load(f)
-
     try:
         item_count = json_string["queries"]["request"][0]["count"]
     except Exception:
