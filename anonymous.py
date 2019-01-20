@@ -1,42 +1,37 @@
-import json
-import html
 from urllib import parse
 from urllib import request
+from xml.etree import ElementTree
+from sqlite3 import connect
+from sqlite3 import Error
 import configparser
 from datetime import date
 import re
-from sqlite3 import connect
-from sqlite3 import Error
-from random import randint
-from time import sleep
+from dupes import deletedupes
+from csvwriter import writecsvfile
+from fulltext import getfulltext
 
 config = configparser.ConfigParser()
-config.read("c:/Bin/config.ini")
+config.read("config.ini")
 YOUR_ID = config.get("Configuration", "id")
 YOUR_KEY = config.get("Configuration", "key")
 
 conn = connect(r"anon.db")
 curs = conn.cursor()
+phrases = open("anonymous-phrases.txt")
 today = date.today()
-# We split phrase file in two to stay under 100 a day free limit
-if today.day % 2 == 0:
-    # Even
-    phrases = open("anonymous-phrases-even.txt")
-else:
-    # Odd
-    phrases = open("anonymous-phrases-odd.txt")
 bold_tag = re.compile(r"<b>", re.MULTILINE)
 
 for phrase in phrases:
     query = phrase.strip()
     query = parse.quote_plus(query)
+
     base = 'https://www.googleapis.com/customsearch/v1?q='
     google_id = YOUR_ID
     restrict = "&dateRestrict=w1"
     exact = "&" + query
     language = "&hl=en"
     google_key = YOUR_KEY
-    alt = "&alt=json"
+    alt = "&alt=atom"
     url = (base +
            query +
            google_id +
@@ -45,42 +40,48 @@ for phrase in phrases:
            language +
            google_key +
            alt)
-    # Delay queries randomly to avoid being blocked
-    sleep(randint(10, 100))
-    anon_file = "anonymous.json"
+    anon_file = "anonymous.txt"
     local_file, headers = request.urlretrieve(url, anon_file)
-    with open(local_file, encoding='utf8') as f:
-        json_string = json.load(f)
+    tree = ElementTree.parse(local_file)
+    root = tree.getroot()
+    entries = root.findall('{http://www.w3.org/2005/Atom}entry')
 
+<<<<<<< HEAD
     try:
         item_count = json_string["queries"]["request"][0]["count"]
     except Exception:
         item_count = 0
-
-    for i in range(item_count):
-        try:
-            item_title = json_string["items"][i]["title"]
-            item_link = json_string["items"][i]["link"]
-            item_snippet = html.unescape(json_string["items"][i]["htmlSnippet"])
-            item_source = json_string["items"][i]["displayLink"]
-        except Exception:
-            continue
-        # Not all items have keywords
-        try:
-            item_keywords = json_string["items"][i]["pagemap"]["metatags"][0]["news_keywords"]
-        except Exception:
-            item_keywords = ''
-
-        insert_values = [item_source,
+=======
+    for entry in entries:
+        title = entry.find('{http://www.w3.org/2005/Atom}title')
+        link = entry.find('{http://www.w3.org/2005/Atom}link')
+        source = link.attrib['title']
+        summary = entry.find('{http://www.w3.org/2005/Atom}summary')
+        insert_values = [source,
                          phrase.strip(),
-                         item_title,
-                         item_link,
-                         item_snippet,
+                         title.text,
+                         link.attrib['href'],
+                         summary.text,
                          today]
-        try:
-            curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
-                         insert_values)
-            conn.commit()
-            print("New entry")
-        except Error as e:
-            print("Oops: ", e.args[0])
+        match = re.search(
+            bold_tag,
+            summary.text)  # Skip entries with no phrase in summary
+        if match:
+            try:
+                curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
+                             insert_values)
+                conn.commit()
+                print("New entry")
+            except Error as e:
+                print("Oops: ", e.args[0])
+        else:
+            print("No phrase in entry")
+
+conn.close()
+>>>>>>> parent of 947560a... Switch to JSON from discontinued Atom.
+
+deletedupes()
+
+writecsvfile()
+
+getfulltext()
