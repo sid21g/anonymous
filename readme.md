@@ -1,6 +1,12 @@
 
 # Anonymous Source Tracker
 
-The Anonymous Source Tracker, which used to be at http://schaver.com/anonymous/, leveraged [Google Custom Search](https://cse.google.com/) to find examples of anonymous sources used by online, English-language media organizations popular in the United States.  Every day it searched those news outlets for [phrases commonly used to identify anonymous sources](https://github.com/markschaver/anonymous/blob/master/anonymous-phrases.txt).  Examples were stored in [a SQLite database](https://github.com/markschaver/anonymous/blob/master/anon.db) and [a csv file](https://github.com/markschaver/anonymous/blob/master/anon.csv). 
+Tracks use of anonymous sources by select English-language media outlets.
 
+## Weaknesses
+
+- Some articles are duplicates, typically from wire services, that appear on multiple websites.
+- It searches for commonly used phrases used to identify anonymous sources so misses anonymously sourced articles that don't use those phrases.
+- Some articles refer to anonymous sources but are not themselves anonymously sourced.
+- It does not distinguish between good use and misuse of anonymous sources.
 
