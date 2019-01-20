@@ -31,7 +31,7 @@ for phrase in phrases:
     exact = "&" + query
     language = "&hl=en"
     google_key = YOUR_KEY
-    alt = "&alt=atom"
+    alt = "&alt=json"
     url = (base +
            query +
            google_id +
@@ -41,12 +41,17 @@ for phrase in phrases:
            google_key +
            alt)
     anon_file = "anonymous.txt"
+    # Delay queries randomly to avoid being blocked
+    sleep(randint(10, 100))
+    anon_file = "anonymous.json"
     local_file, headers = request.urlretrieve(url, anon_file)
     tree = ElementTree.parse(local_file)
     root = tree.getroot()
     entries = root.findall('{http://www.w3.org/2005/Atom}entry')
 
-<<<<<<< HEAD
+    # with open('C:/OneDrive/Projects/Code/Anonymous3/cse-json-response.json', encoding='utf8') as f:
+    #     json_string = json.load(f)
+
     try:
         item_count = json_string["queries"]["request"][0]["count"]
     except Exception:
@@ -58,10 +63,29 @@ for phrase in phrases:
         source = link.attrib['title']
         summary = entry.find('{http://www.w3.org/2005/Atom}summary')
         insert_values = [source,
+
+    for i in range(item_count):
+        try:
+            item_title = json_string["items"][i]["title"]
+            item_link = json_string["items"][i]["link"]
+            item_snippet = html.unescape(json_string["items"][i]["htmlSnippet"])
+            item_source = json_string["items"][i]["displayLink"]
+        except Exception:
+            continue
+        # Not all items have keywords
+        try:
+            item_keywords = json_string["items"][i]["pagemap"]["metatags"][0]["news_keywords"]
+        except Exception:
+            item_keywords = ''
+
+        insert_values = [item_source,
                          phrase.strip(),
                          title.text,
                          link.attrib['href'],
                          summary.text,
+                         item_title,
+                         item_link,
+                         item_snippet,
                          today]
         match = re.search(
             bold_tag,
@@ -85,3 +109,10 @@ deletedupes()
 writecsvfile()
 
 getfulltext()
+        try:
+            curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
+                         insert_values)
+            conn.commit()
+            print("New entry")
+        except Error as e:
+            print("Oops: ", e.args[0])
