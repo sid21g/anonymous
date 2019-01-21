@@ -22,14 +22,17 @@ today = date.today()
 if today.day % 2 == 0:
     # Even
     phrases = open("anonymous-phrases-even.txt")
+    print("It's an even day.")
 else:
     # Odd
     phrases = open("anonymous-phrases-odd.txt")
+    print("It's an odd day.")
 bold_tag = re.compile(r"<b>", re.MULTILINE)
 
 for phrase in phrases:
     query = phrase.strip()
     query = parse.quote_plus(query)
+    print("This is the encoded query phrase: " + query)
     base = 'https://www.googleapis.com/customsearch/v1?q='
     google_id = YOUR_ID
     restrict = "&dateRestrict=w1"
@@ -48,16 +51,15 @@ for phrase in phrases:
     # Delay queries randomly to avoid being blocked
     sleep(randint(10, 100))
     anon_file = "anonymous.json"
+    print("This is the request url: " + url)
     local_file, headers = request.urlretrieve(url, anon_file)
     with open(local_file, encoding='utf8') as f:
         json_string = json.load(f)
 
-    # with open('C:/OneDrive/Projects/Code/Anonymous3/cse-json-response.json', encoding='utf8') as f:
-    #     json_string = json.load(f)
-
     try:
         item_count = json_string["queries"]["request"][0]["count"]
     except Exception:
+        print("This query did not return an item count.")
         item_count = 0
 
     for i in range(item_count):
@@ -80,10 +82,18 @@ for phrase in phrases:
                          item_link,
                          item_snippet,
                          today]
-        try:
-            curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
-                         insert_values)
-            conn.commit()
-            print("New entry")
-        except Error as e:
-            print("Oops: ", e.args[0])
+        match = re.search(
+            bold_tag,
+            item_snippet)  # Skip entries with no phrase in summary
+        if match:
+            try:
+                curs.execute("INSERT INTO anon VALUES (?, ?, ?, ?, ?, ?)",
+                             insert_values)
+                conn.commit()
+                print("Made a new entry in the database.")
+            except Error as e:
+                print("Oops: ", e.args[0])
+        else:
+            print("Skipping. No anonymous phrase in the entry.")
+
+conn.close()
