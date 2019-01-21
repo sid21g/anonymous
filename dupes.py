@@ -47,3 +47,6 @@ def deletedupes():
         print("Oops, duplicate link deletion didn't work: ", e.args[0])
 
     conn.close()
+
+
+deletedupes()
