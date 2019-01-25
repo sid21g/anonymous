@@ -1,15 +1,10 @@
-import json
+import os
 import html
-from urllib import parse
-from urllib import request
 import configparser
 from datetime import date
 import re
 from sqlite3 import connect
 from sqlite3 import Error
-from random import randint
-from time import sleep
-
 
 config = configparser.ConfigParser()
 config.read("c:/bin/config.ini")
@@ -18,56 +13,9 @@ YOUR_KEY = config.get("Configuration", "key")
 
 conn = connect(r"anon.db")
 curs = conn.cursor()
-
 today = date.today()
 
-# We split the phrase file in two to stay under 100 a day free limit
-if today.day % 2 == 0:
-    # Even
-    phrases = open("anonymous-phrases-even.txt")
-    print("It's an even day.")
-else:
-    # Odd
-    phrases = open("anonymous-phrases-odd.txt")
-    print("It's an odd day.")
-
 bold_tag = re.compile(r"<b>", re.MULTILINE)
-
-
-def encode_phrase(unencoded_phrase):
-    unencoded_phrase = unencoded_phrase.strip()
-    encoded_phrase = parse.quote_plus(unencoded_phrase)
-    print("Encoded phrase: " + encoded_phrase)
-    return encoded_phrase
-
-
-def get_url(query):
-    base = 'https://www.googleapis.com/customsearch/v1?q='
-    google_id = YOUR_ID
-    restrict = "&dateRestrict=w1"
-    exact = "&" + query
-    language = "&hl=en"
-    google_key = YOUR_KEY
-    alt = "&alt=json"
-    request_url = (base +
-                   query +
-                   google_id +
-                   restrict +
-                   exact +
-                   language +
-                   google_key +
-                   alt)
-    print("Request url: " + request_url)
-    return request_url
-
-
-def get_json(search_url):
-    anon_file = "anonymous.json"
-    local_file, headers = request.urlretrieve(search_url, anon_file)
-    with open(local_file, encoding='utf8') as f:
-        json_string = json.load(f)
-    # TODO: Save every JSON file to disk here
-    return json_string
 
 
 def update_database(results_json):
@@ -115,18 +63,8 @@ def process_search_results(results_json, item_phrase):
         update_database(db_fields)
 
 
-def pause_search():
-    # Delay queries randomly to avoid being blocked
-    print("Sleeping...")
-    sleep(randint(10, 100))
+dir_files = os.listdir(os.getcwd())
+for file in dir_files:
+    process_search_results(file)
 
-
-for phrase in phrases:
-    phrase = encode_phrase(phrase)
-    url = get_url(phrase)
-    pause_search()
-    google_json = get_json(url)
-    process_search_results(google_json, phrase)
-
-
-conn.close()
+# conn.close()
