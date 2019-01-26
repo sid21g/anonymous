@@ -1,3 +1,4 @@
+import json
 import os
 import html
 import configparser
@@ -14,6 +15,8 @@ YOUR_KEY = config.get("Configuration", "key")
 conn = connect(r"anon.db")
 curs = conn.cursor()
 today = date.today()
+dir = "C:/Temp/Anonymous/"
+
 
 bold_tag = re.compile(r"<b>", re.MULTILINE)
 
@@ -45,7 +48,8 @@ def update_database(results_json):
         print("Skipping. No anonymous phrase in the entry.")
 
 
-def process_search_results(results_json, item_phrase):
+def process_search_results(results_json):
+    item_phrase = results_json["queries"]["request"][0]["searchTerms"]
     try:
         item_count = results_json["queries"]["request"][0]["count"]
     except Exception:
@@ -63,8 +67,10 @@ def process_search_results(results_json, item_phrase):
         update_database(db_fields)
 
 
-dir_files = os.listdir(os.getcwd())
+dir_files = os.listdir(dir)
 for file in dir_files:
-    process_search_results(file)
+    with open(dir + file, encoding="utf8") as f:
+        json_string = json.load(f)
+    process_search_results(json_string)
 
-# conn.close()
+conn.close()
