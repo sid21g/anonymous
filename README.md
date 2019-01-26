@@ -10,4 +10,4 @@ Tracks use of anonymous sources by select English-language media outlets.
 - The tracker searches for commonly used phrases used to identify anonymous sources so misses anonymously sourced articles that don't use those phrases.
 - Some articles refer to anonymous sources but are not themselves anonymously sourced.
 - The tracker does not distinguish between good use and misuse of anonymous sources.
-- The date listed is the date the article was scraped, not the publication date.
+
