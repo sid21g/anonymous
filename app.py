@@ -202,7 +202,7 @@ def index():
                        'anon.title, '
                        'anon.link, '
                        'anon.content, '
-                       'anon.date_entered '
+                       'anon.date_published '
                        'FROM '
                        'anon '
                        'LEFT OUTER JOIN '
@@ -210,7 +210,7 @@ def index():
                        'ON '
                        'anon.source = outlets.url '
                        'ORDER BY '
-                       'date_entered DESC '
+                       'date_published DESC '
                        'LIMIT ?, ?', (offset, per_page))
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
@@ -250,7 +250,7 @@ def index_pages(page):
                        'anon.title, '
                        'anon.link, '
                        'anon.content, '
-                       'anon.date_entered '
+                       'anon.date_published '
                        'FROM '
                        'anon '
                        'LEFT OUTER JOIN '
@@ -258,7 +258,7 @@ def index_pages(page):
                        'ON '
                        'anon.source = outlets.url '
                        'ORDER BY '
-                       'date_entered DESC '
+                       'date_published DESC '
                        'LIMIT ?, ?', (offset, per_page))
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
@@ -301,13 +301,13 @@ def outlet(outlet_name):
                        "anon.phrase, "
                        "anon.title, "
                        "anon.content, "
-                       "anon.date_entered "
+                       "anon.date_published "
                        "FROM "
                        "anon "
                        "LEFT OUTER JOIN outlets "
                        "ON anon.source = outlets.url "
                        "WHERE anon.source = ? "
-                       "ORDER BY anon.date_entered DESC "
+                       "ORDER BY anon.date_published DESC "
                        "LIMIT ?, ?", (outlet_url, offset, per_page))
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
@@ -356,13 +356,13 @@ def outlet_pages(outlet_name, page):
                        "anon.phrase, "
                        "anon.title, "
                        "anon.content, "
-                       "anon.date_entered "
+                       "anon.date_published "
                        "FROM "
                        "anon "
                        "LEFT OUTER JOIN outlets "
                        "ON anon.source = outlets.url "
                        "WHERE anon.source = ? "
-                       "ORDER BY anon.date_entered DESC "
+                       "ORDER BY anon.date_published DESC "
                        "LIMIT ?, ?", (outlet_url, offset, per_page))
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "

@@ -23,7 +23,7 @@
                 <hr>
                 {{ entry.content|clean_content|safe }}
                 <br><br>
-                <div class="timestamp">{{ entry.name|safe }}&nbsp;&mdash;&nbsp;{{ entry.date_entered | datetimeformat | safe }}</div>
+                <div class="timestamp">{{ entry.name|safe }}&nbsp;&mdash;&nbsp;{{ entry.date_published | datetimeformat | safe }}</div>
                 <br>
                 <br>
                 {% endfor %}
