@@ -15,7 +15,7 @@ YOUR_KEY = config.get("Configuration", "key")
 conn = connect(r"anon.db")
 curs = conn.cursor()
 today = date.today()
-dir = "C:/Temp/Anonymous/"
+output_dir = "C:/Temp/Anonymous/"
 
 
 bold_tag = re.compile(r"<b>", re.MULTILINE)
@@ -71,9 +71,9 @@ def process_search_results(results_json):
         update_database(db_fields)
 
 
-dir_files = os.listdir(dir)
+dir_files = os.listdir(output_dir)
 for file in dir_files:
-    with open(dir + file, encoding="utf8") as f:
+    with open(output_dir + file, encoding="utf8") as f:
         json_string = json.load(f)
     process_search_results(json_string)
 
