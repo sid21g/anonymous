@@ -19,7 +19,7 @@ dir = "C:/Temp/Anonymous/"
 
 
 bold_tag = re.compile(r"<b>", re.MULTILINE)
-# regex_date = re.compile(r"\d\d\d\d-\d\d-\d\d")
+
 
 def update_database(results_json):
     item_source = results_json[0]
@@ -64,7 +64,7 @@ def process_search_results(results_json):
             item_link = results_json["items"][i]["link"]
             item_snippet = html.unescape(results_json["items"][i]["htmlSnippet"])
             item_published = results_json['items'][i]['pagemap']['newsarticle'][0]['datepublished']
-            publish_date_parsed = re.sub(r'(\d\d\d\d-\d\d-\d\d).*',r'\1',item_published)
+            publish_date_parsed = re.sub(r'(\d\d\d\d-\d\d-\d\d).*', r'\1', item_published)
         except Exception:
             continue
         db_fields = [item_source, item_phrase, item_title, item_link, item_snippet, publish_date_parsed]
