@@ -53,22 +53,21 @@ def update_database(results_json):
 def process_search_results(results_json):
     try:
         item_count = results_json["queries"]["request"][0]["count"]
-    except Exception:
-        print("This query did not return an item count.")
-        item_count = 0
-    for i in range(item_count):
-        try:
-            item_source = results_json["items"][i]["displayLink"]
-            item_phrase = results_json["queries"]["request"][0]["searchTerms"]
-            item_title = results_json["items"][i]["title"]
-            item_link = results_json["items"][i]["link"]
-            item_snippet = html.unescape(results_json["items"][i]["htmlSnippet"])
-            item_published = results_json['items'][i]['pagemap']['newsarticle'][0]['datepublished']
-            publish_date_parsed = re.sub(r'(\d\d\d\d-\d\d-\d\d).*', r'\1', item_published)
-            db_fields = [item_source, item_phrase, item_title, item_link, item_snippet, publish_date_parsed]
-            update_database(db_fields)
-        except KeyError:
-            continue
+        for i in range(item_count):
+            try:
+                item_source = results_json["items"][i]["displayLink"]
+                item_phrase = results_json["queries"]["request"][0]["searchTerms"]
+                item_title = results_json["items"][i]["title"]
+                item_link = results_json["items"][i]["link"]
+                item_snippet = html.unescape(results_json["items"][i]["htmlSnippet"])
+                item_published = results_json['items'][i]['pagemap']['newsarticle'][0]['datepublished']
+                publish_date_parsed = re.sub(r'(\d\d\d\d-\d\d-\d\d).*', r'\1', item_published)
+                db_fields = [item_source, item_phrase, item_title, item_link, item_snippet, publish_date_parsed]
+                update_database(db_fields)
+            except KeyError:
+                continue
+    except:
+        print("There were no matches in this query.")
 
 
 dir_files = os.listdir(input_dir)
