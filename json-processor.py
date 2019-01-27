@@ -66,7 +66,7 @@ def process_search_results(results_json):
                 update_database(db_fields)
             except KeyError:
                 continue
-    except:
+    except Exception:
         print("There were no matches in this query.")
 
 
