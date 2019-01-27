@@ -19,6 +19,11 @@ FREEZER_DESTINATION = config.get("Configuration", "destination")
 PER_PAGE = config.get("Configuration", "per_page")
 PER_PAGE = int(PER_PAGE)
 
+# FREEZER_DESTINATION = "/"
+# PER_PAGE = 50
+# PER_PAGE = int(PER_PAGE)
+
+
 app = Flask(__name__)
 app.config['FREEZER_DESTINATION'] = FREEZER_DESTINATION
 app.config.from_object(__name__)
