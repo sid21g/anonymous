@@ -15,7 +15,7 @@ YOUR_KEY = config.get("Configuration", "key")
 conn = connect(r"anon.db")
 curs = conn.cursor()
 today = date.today()
-output_dir = "C:/Temp/Anonymous/"
+input_dir = "C:/Temp/Anonymous/"
 
 
 bold_tag = re.compile(r"<b>", re.MULTILINE)
@@ -65,15 +65,15 @@ def process_search_results(results_json):
             item_snippet = html.unescape(results_json["items"][i]["htmlSnippet"])
             item_published = results_json['items'][i]['pagemap']['newsarticle'][0]['datepublished']
             publish_date_parsed = re.sub(r'(\d\d\d\d-\d\d-\d\d).*', r'\1', item_published)
-        except Exception:
+            db_fields = [item_source, item_phrase, item_title, item_link, item_snippet, publish_date_parsed]
+            update_database(db_fields)
+        except KeyError:
             continue
-        db_fields = [item_source, item_phrase, item_title, item_link, item_snippet, publish_date_parsed]
-        update_database(db_fields)
 
 
-dir_files = os.listdir(output_dir)
+dir_files = os.listdir(input_dir)
 for file in dir_files:
-    with open(output_dir + file, encoding="utf8") as f:
+    with open(input_dir + file, encoding="utf8") as f:
         json_string = json.load(f)
     process_search_results(json_string)
 
