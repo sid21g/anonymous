@@ -72,4 +72,4 @@ for phrase in phrases:
     phrase = encode_phrase(phrase)
     url = get_url(phrase)
     pause_search()
-    google_json = get_json(url)
+    get_json(url)
