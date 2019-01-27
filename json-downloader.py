@@ -12,7 +12,7 @@ config.read("c:/bin/config.ini")
 YOUR_ID = config.get("Configuration", "id")
 YOUR_KEY = config.get("Configuration", "key")
 
-dir = 'C:/Temp/Anonymous/'
+output_dir = 'C:/Temp/Anonymous/'
 
 today = date.today()
 
@@ -54,7 +54,7 @@ def get_url(query):
 
 
 def get_json(search_url):
-    filename = dir + time.strftime("%Y%m%d-%H%M%S") + ".json"
+    filename = output_dir + time.strftime("%Y%m%d-%H%M%S") + ".json"
     r = requests.get(search_url)
     f = open(filename, "w")
     json_str = json.dumps(r.json())
