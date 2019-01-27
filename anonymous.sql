@@ -1,7 +1,7 @@
 SELECT *
 FROM anon;
 
-SELECT date_entered
+SELECT date_published
 FROM anon;
 
 SELECT count(*)
@@ -16,11 +16,11 @@ ORDER BY count(source)
   DESC;
 
 SELECT
-  date_entered,
-  count(date_entered)
+  date_published,
+  count(date_published)
 FROM anon
-GROUP BY date_entered
-ORDER BY date_entered
+GROUP BY date_published
+ORDER BY date_published
   DESC;
 
 SELECT
@@ -29,9 +29,9 @@ SELECT
   phrase,
   title,
   content,
-  date_entered
+  date_published
 FROM anon
-ORDER BY date_entered
+ORDER BY date_published
   DESC
 LIMIT 100;
 
@@ -44,7 +44,7 @@ CREATE TABLE anon (
   title,
   link PRIMARY KEY ON CONFLICT IGNORE,
   content,
-  date_entered DATE
+  date_published DATE
 );
 
 SELECT outlets.name
@@ -58,7 +58,7 @@ SELECT
   anon.title,
   anon.link,
   anon.content,
-  anon.date_entered
+  anon.date_published
 FROM anon
   LEFT OUTER JOIN outlets ON anon.source = outlets.url;
 
@@ -135,7 +135,7 @@ GROUP BY source, title;
 
 SELECT link
 FROM anon
-WHERE date_entered = '2016-06-20';
+WHERE date_published = '2016-06-20';
 
 SELECT *
 FROM anon;
@@ -147,10 +147,10 @@ SELECT
   anon.title,
   anon.link,
   anon.content,
-  anon.date_entered
+  anon.date_published
 FROM anon
   LEFT OUTER JOIN outlets ON anon.source = outlets.url
-ORDER BY date_entered
+ORDER BY date_published
   DESC
 LIMIT 100, 10;
 
