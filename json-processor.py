@@ -50,7 +50,6 @@ def update_database(results_json):
         print("Skipping. No anonymous phrase in the entry.")
 
 
-# TODO: Washington Post, USA Today don't have pub date but date is embedded in URL
 def process_search_results(results_json):
     try:
         item_count = results_json["queries"]["request"][0]["count"]
@@ -61,22 +60,49 @@ def process_search_results(results_json):
                 item_title = results_json["items"][i]["title"]
                 item_link = results_json["items"][i]["link"]
                 item_snippet = html.unescape(results_json["items"][i]["htmlSnippet"])
-                # item_published = results_json['items'][i]['pagemap']['newsarticle'][0]['datepublished']
-                # item_published = results_json['items'][i]['pagemap']['metatags'][0]['article:published']
-                # item_published = results_json['items'][i]['pagemap']['article'][0]['datepublished']
-                # item_published = results_json['items'][i]['pagemap']['metatags'][0]['date']
-                # item_published = results_json['items'][i]['pagemap']['metatags'][0]['iso-8601-publish-date']
-                # item_published = results_json['items'][i]['pagemap']['metatags'][0]['analyticsattributes.articledate']
-                # item_published = results_json['items'][i]['pagemap']['metatags'][0]['sailthru.date']
-                # item_published = results_json['items'][i]['pagemap']['metatags'][0]['article:published_time']
-                # item_published = results_json['items'][i]['pagemap']['metatags'][0]['dc.date']
+                try:
+                    item_published = results_json['items'][i]['pagemap']['newsarticle'][0]['datepublished']
+                except KeyError:
+                    pass
+                try:
+                    item_published = results_json['items'][i]['pagemap']['metatags'][0]['article:published']
+                except KeyError:
+                    pass
+                try:
+                    item_published = results_json['items'][i]['pagemap']['article'][0]['datepublished']
+                except KeyError:
+                    pass
+                try:
+                    item_published = results_json['items'][i]['pagemap']['metatags'][0]['date']
+                except KeyError:
+                    pass
+                try:
+                    item_published = results_json['items'][i]['pagemap']['metatags'][0]['iso-8601-publish-date']
+                except KeyError:
+                    pass
+                try:
+                    item_published = results_json['items'][i]['pagemap']['metatags'][0]['analyticsattributes.articledate']
+                except KeyError:
+                    pass
+                try:
+                    item_published = results_json['items'][i]['pagemap']['metatags'][0]['sailthru.date']
+                except KeyError:
+                    pass
+                try:
+                    item_published = results_json['items'][i]['pagemap']['metatags'][0]['article:published_time']
+                except KeyError:
+                    pass
+                try:
+                    item_published = results_json['items'][i]['pagemap']['metatags'][0]['dc.date']
+                except KeyError:
+                    pass
                 if 'washingtonpost' in item_link:
                     item_published = re.sub(r'.*(\d\d\d\d)\/(\d\d)\/(\d\d).*', r'\1-\2-\3', item_link)
                 elif 'usatoday' in item_link:
                     item_published = re.sub(r'.*(\d\d\d\d)\/(\d\d)\/(\d\d).*', r'\1-\2-\3', item_link)
                 publish_date_parsed = re.sub(r'(\d\d\d\d-\d\d-\d\d).*', r'\1', item_published)
                 db_fields = [item_source, item_phrase, item_title, item_link, item_snippet, publish_date_parsed]
-                update_database(db_fields)
+                print(db_fields)
             except KeyError:
                 continue
     except Exception:
