@@ -13,16 +13,15 @@ import math
 # -----------------------------------------------------------------------------
 # CONFIGURATION
 # -----------------------------------------------------------------------------
-# config = configparser.ConfigParser()
-# config.read("c:/bin/config.ini")
-# FREEZER_DESTINATION = config.get("Configuration", "destination")
-# PER_PAGE = config.get("Configuration", "per_page")
-# PER_PAGE = int(PER_PAGE)
-
-FREEZER_DESTINATION = "/"
-PER_PAGE = 50
+config = configparser.ConfigParser()
+config.read("c:/bin/config.ini")
+FREEZER_DESTINATION = config.get("Configuration", "destination")
+PER_PAGE = config.get("Configuration", "per_page")
 PER_PAGE = int(PER_PAGE)
 
+# FREEZER_DESTINATION = "/"
+# PER_PAGE = 50
+# PER_PAGE = int(PER_PAGE)
 
 app = Flask(__name__)
 app.config['FREEZER_DESTINATION'] = FREEZER_DESTINATION
@@ -402,4 +401,4 @@ if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == "build":
         freezer.freeze()
     else:
-        app.run(debug=True)
+        app.run(debug=False)

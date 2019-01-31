@@ -12,7 +12,7 @@ config.read("c:/bin/config.ini")
 YOUR_ID = config.get("Configuration", "id")
 YOUR_KEY = config.get("Configuration", "key")
 
-output_dir = 'C:/Temp/Anonymous/'
+output_dir = 'json/'
 
 today = date.today()
 

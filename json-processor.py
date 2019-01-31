@@ -15,7 +15,7 @@ YOUR_KEY = config.get("Configuration", "key")
 conn = connect(r"anon.db")
 curs = conn.cursor()
 today = date.today()
-input_dir = "C:/Temp/Anonymous/"
+input_dir = "json/"
 
 
 bold_tag = re.compile(r"<b>", re.MULTILINE)
