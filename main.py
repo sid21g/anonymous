@@ -27,6 +27,7 @@ app = Flask(__name__)
 app.config['FREEZER_DESTINATION'] = FREEZER_DESTINATION
 app.config.from_object(__name__)
 app.config['FREEZER_RELATIVE_URLS'] = True
+app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 freezer = Freezer(app)
 extra_bold = re.compile(r"</b>.*?<b>", re.MULTILINE)
 
