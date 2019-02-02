@@ -11,6 +11,10 @@ h3 {
     font-weight: bold;
 }
 
+h4 {
+    text-decoration: underline;
+}
+
 a {
     text-decoration: none;
     color: black;
@@ -70,8 +74,8 @@ a:hover#masthed {
 .pagination-page-info b {
     color: black;
     background: white;
-    padding-left: 2px;
-    padding: .1em .25em;
+    /*padding-left: 2px;*/
+    /*padding: .1em .25em;*/
     font-size: 150%;
 }
 

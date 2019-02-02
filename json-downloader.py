@@ -16,6 +16,7 @@ output_dir = 'json/'
 
 today = date.today()
 
+# Divide phrases into two days to stay under Google's 100 free queries a day limit
 if today.day % 2 == 0:
     # Even
     phrases = open("anonymous-phrases-even.txt")
