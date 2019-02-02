@@ -37,7 +37,7 @@ def encode_phrase(unencoded_phrase):
 def get_url(query):
     base = 'https://www.googleapis.com/customsearch/v1?q='
     google_id = YOUR_ID
-    restrict = "&dateRestrict=w1"
+    restrict = "&dateRestrict=m3"
     exact = "&" + query
     language = "&hl=en"
     google_key = YOUR_KEY
