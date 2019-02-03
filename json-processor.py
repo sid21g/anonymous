@@ -57,6 +57,8 @@ def process_search_results(results_json):
         for i in range(item_count):
             try:
                 item_source = results_json["items"][i]["displayLink"]
+                if item_source == 'apnews.com':
+                    item_source = re.sub('apnews.com', 'www.apnews.com', item_source)
                 item_phrase = results_json["queries"]["request"][0]["searchTerms"]
                 item_title = results_json["items"][i]["title"]
                 item_link = results_json["items"][i]["link"]
