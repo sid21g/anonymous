@@ -105,7 +105,6 @@ def process_search_results(results_json):
                         item_link)
                     if pub_match:
                         item_published = pub_match[1] + '-' + pub_match[2] + '-' + pub_match[3]
-                        # item_published = re.sub(r'.*(\d\d\d\d)/(\d\d)/(\d\d).*', r'\1-\2-\3', item_link)
                     else:
                         pass
                 if 'usatoday' in item_link:
@@ -114,10 +113,8 @@ def process_search_results(results_json):
                         item_link)
                     if pub_match:
                         item_published = pub_match[1] + '-' + pub_match[2] + '-' + pub_match[3]
-                        # item_published = re.sub(r'.*(\d\d\d\d)/(\d\d)/(\d\d).*', r'\1-\2-\3', item_link)
                     else:
                         pass
-                    # item_published = re.sub(r'.*(\d\d\d\d)/(\d\d)/(\d\d).*', r'\1-\2-\3', item_link)
                 publish_date_parsed = re.sub(r'(\d\d\d\d-\d\d-\d\d).*', r'\1', item_published)
                 db_fields = [item_source, item_phrase, item_title, item_link, item_snippet, publish_date_parsed]
                 update_database(db_fields)
