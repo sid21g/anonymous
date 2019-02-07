@@ -69,9 +69,10 @@ def deletedupes():
 
     for statement in SQL_statements:
         curs.execute(statement)
+        conn.commit()
         print("Executed!")
 
-        conn.close()
+    conn.close()
 
 
 deletedupes()
