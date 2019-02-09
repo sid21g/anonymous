@@ -288,9 +288,8 @@ def index_pages(page):
                            pagination=pagination)
 
 
-@app.route('/article/<art_link>/')
-def article(art_link):
-    decoded_url = parse.unquote_plus(art_link)
+@app.route('/article/<art_id>')
+def article(art_id):
     results = query_db("SELECT anon.link, "
                        "outlets.name, "
                        "anon.source, "
@@ -300,8 +299,8 @@ def article(art_link):
                        "FROM anon "
                        "LEFT OUTER JOIN outlets "
                        "ON anon.source = outlets.url "
-                       "WHERE anon.link = ?",
-                       (decoded_url))
+                       "WHERE anon.ROWID = ?",
+                       (art_id))
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
                        "outlets.url "
@@ -310,11 +309,7 @@ def article(art_link):
                        "ON outlets.url = anon.source "
                        "ORDER BY outlets.name")
     return render_template('article.html',
-                           outlet_url=results[1],
-                           art_link=results[0],
-                           art_title=results[4],
-                           masthead='This is the masthead',
-                           outlets=outlets)
+                           results=results)
 
 
 @app.route('/outlet/<outlet_name>/')
