@@ -288,6 +288,35 @@ def index_pages(page):
                            pagination=pagination)
 
 
+@app.route('/article/<art_link>/')
+def article(art_link):
+    decoded_url = parse.unquote_plus(art_link)
+    results = query_db("SELECT anon.link, "
+                       "outlets.name, "
+                       "anon.source, "
+                       "anon.phrase, "
+                       "anon.title, "
+                       "anon.content "
+                       "FROM anon "
+                       "LEFT OUTER JOIN outlets "
+                       "ON anon.source = outlets.url "
+                       "WHERE anon.link = ?",
+                       (decoded_url))
+    outlets = query_db("SELECT DISTINCT "
+                       "outlets.name, "
+                       "outlets.url "
+                       "FROM outlets "
+                       "JOIN anon "
+                       "ON outlets.url = anon.source "
+                       "ORDER BY outlets.name")
+    return render_template('article.html',
+                           outlet_url=results[1],
+                           art_link=results[0],
+                           art_title=results[4],
+                           masthead='This is the masthead',
+                           outlets=outlets)
+
+
 @app.route('/outlet/<outlet_name>/')
 def outlet(outlet_name):
     masthead = parse.unquote_plus(outlet_name)
