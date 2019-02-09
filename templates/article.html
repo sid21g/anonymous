@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Anonymous Source Tracker</title>
+    <meta name="description" content="Anonymous Source Tracker: Daily examples of the media's use of anonymous sources." />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='custom.css') }}">
+
+    <script src="{{ url_for('static', filename='bootstrap.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='jquery-3.3.1.slim.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='popper.min.js') }}"></script>
+
+</head>
+<body>
+    <div class="jumbotron">
+        <div class="container">
+        <h4><a href="/">Schaver.com</a></h4>
+        <h1><a href="/anonymous" id="masthed">{{ art_title }}</a></h1>
+        <h2>{{ masthead|safe }}</h2><br>
+        </div>
+        <hr>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-9">
+                <b><a href="{{ entries }}">{{ art_outlet }}</a></b>
+                <hr>
+                {{ entries['content'] }}
+                <br><br>
+                <div class="timestamp">{{ entries.name|safe }}&nbsp;&mdash;&nbsp;{{ entries.date_published }}</div>
+                <br>
+                <br>
+            </div>
+            <div class="col-sm-3">
+                <h3>Media tracked*</h3>
+                <p>Click&nbsp;to view outlet</p>
+                <ul>
+                {% for outlet in outlets %}
+                <li><a href="{{ url_for('outlet', outlet_name='%s' % (outlet.name|plus_for_spaces)) }}">{{ outlet.name|safe }}</a></li>
+                {% endfor %}
+                </ul>
+                <br>
+                <p><b>*</b>&nbsp;An outlet that published an anonymously sourced story isn't necessarily the outlet that produced it. Some stories are wire service stories published by multiple outlets.</p>
+                <br>
+                <h3>About this:</h3>
+                <ul>
+                <li>Learn more about the tracker and check out the code to see how it works <span style="text-decoration: underline;"><a href="https://github.com/markschaver/anonymous">on Github</a></span>.</li>
+                <li>Read <span style="text-decoration: underline;"><a href="/anonymous/mentions">what's been said about it</a></span> elsewhere .</li>
+                </ul>
+                <br>
+                <br>
+            </div>
+        </div><!-- row -->
+    </div> <!-- container -->
+</body>
+</html>
+
+
+
