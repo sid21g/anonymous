@@ -1,4 +1,5 @@
 from flask import Flask, render_template, g, current_app, request
+from flask import Flask, render_template, g, current_app, request
 from flask_paginate import Pagination
 from sqlite3 import connect
 from datetime import datetime
@@ -19,9 +20,6 @@ FREEZER_DESTINATION = config.get("Configuration", "destination")
 PER_PAGE = config.get("Configuration", "per_page")
 PER_PAGE = int(PER_PAGE)
 
-# FREEZER_DESTINATION = "/"
-# PER_PAGE = 50
-# PER_PAGE = int(PER_PAGE)
 
 app = Flask(__name__)
 app.config['FREEZER_DESTINATION'] = FREEZER_DESTINATION
@@ -77,6 +75,13 @@ def get_outlet_name(outlet_url):
     name = plus_for_spaces(name)
     g.db.close()
     return name
+
+
+def get_page_info(row_id):
+    results = query_db(
+        "SELECT source, title, link, content, date_published FROM anon WHERE ROWID = ?",
+        (row_id,), one=True)
+    return results
 
 
 def get_outlet_urls():
@@ -287,20 +292,12 @@ def index_pages(page):
                            outlets=outlets,
                            pagination=pagination)
 
-
-@app.route('/article/<art_id>')
-def article(art_id):
-    results = query_db("SELECT anon.link, "
-                       "outlets.name, "
-                       "anon.source, "
-                       "anon.phrase, "
-                       "anon.title, "
-                       "anon.content "
-                       "FROM anon "
-                       "LEFT OUTER JOIN outlets "
-                       "ON anon.source = outlets.url "
-                       "WHERE anon.ROWID = ?",
-                       (art_id))
+# TODO: Fix function so outlet name has to match
+# TODO: Try doing search on parameters without article ID
+@app.route('/<string:outlet_name>/article/<int:art_id>/')
+def article(outlet_name, art_id):
+    results = get_page_info(art_id)
+    masthead = parse.unquote_plus(outlet_name)
     outlets = query_db("SELECT DISTINCT "
                        "outlets.name, "
                        "outlets.url "
@@ -309,6 +306,8 @@ def article(art_id):
                        "ON outlets.url = anon.source "
                        "ORDER BY outlets.name")
     return render_template('article.html',
+                           masthead=masthead,
+                           outlets=outlets,
                            results=results)
 
 
