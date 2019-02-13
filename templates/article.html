@@ -17,7 +17,7 @@
         <div class="container">
         <h4><a href="/">Schaver.com</a></h4>
         <h1>{{ masthead|safe }}</h1>
-        <h2><a href="/anonymous" id="masthed">Anonymous Source Tracker</a></h2>
+        <h2><a href="{{ url_for('index') }}" id="masthed">Anonymous Source Tracker</a></h2>
         </div>
         <hr>
     </div>
@@ -47,7 +47,7 @@
                 <h3>About this:</h3>
                 <ul>
                 <li>Learn more about the tracker and check out the code to see how it works <span style="text-decoration: underline;"><a href="https://github.com/markschaver/anonymous">on Github</a></span>.</li>
-                <li>Read <span style="text-decoration: underline;"><a href="/anonymous/mentions">what's been said about it</a></span> elsewhere .</li>
+                <li>Read <span style="text-decoration: underline;"><a href="{{ url_for('mentions') }}">what's been said about it</a></span> elsewhere .</li>
                 </ul>
                 <br>
                 <br>

@@ -235,7 +235,7 @@ def index():
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href='/anonymous/page/{0}/'
+                                href='/page/{0}/'
                                 )
     return render_template('index.html',
                            entries=results,
@@ -283,7 +283,7 @@ def index_pages(page):
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href='/anonymous/page/{0}/'
+                                href='/page/{0}/'
                                 )
     return render_template('index.html',
                            entries=results,
@@ -350,7 +350,7 @@ def outlet(outlet_name):
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href="/anonymous/outlet/" + outlet_name + "/page/{0}/"
+                                href="/outlet/" + outlet_name + "/page/{0}/"
                                 )
     return render_template('outlet.html',
                            entries=results,
@@ -405,7 +405,7 @@ def outlet_pages(outlet_name, page):
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href="/anonymous/outlet/" + outlet_name + "/page/{0}/"
+                                href="/outlet/" + outlet_name + "/page/{0}/"
                                 )
     return render_template('outlet.html',
                            entries=results,
