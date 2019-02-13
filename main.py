@@ -1,5 +1,4 @@
 from flask import Flask, render_template, g, current_app, request
-from flask import Flask, render_template, g, current_app, request
 from flask_paginate import Pagination
 from sqlite3 import connect
 from datetime import datetime
