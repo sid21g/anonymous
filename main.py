@@ -76,10 +76,10 @@ def get_outlet_name(outlet_url):
     return name
 
 
-def get_page_info(row_id):
+def get_page_info(source, pub_date, title):
     results = query_db(
-        "SELECT source, title, link, content, date_published FROM anon WHERE ROWID = ?",
-        (row_id,), one=True)
+        "SELECT source, title, link, content, date_published FROM anon WHERE source = ? AND title = ? AND date_published = ?",
+        (source, title, pub_date), one=True)
     return results
 
 
@@ -293,20 +293,14 @@ def index_pages(page):
 
 # TODO: Fix function so outlet name has to match
 # TODO: Try doing search on parameters without article ID
-@app.route('/<string:outlet_name>/article/<int:art_id>/')
-def article(outlet_name, art_id):
-    results = get_page_info(art_id)
-    masthead = parse.unquote_plus(outlet_name)
-    outlets = query_db("SELECT DISTINCT "
-                       "outlets.name, "
-                       "outlets.url "
-                       "FROM outlets "
-                       "JOIN anon "
-                       "ON outlets.url = anon.source "
-                       "ORDER BY outlets.name")
+@app.route('/<string:outlet>/<pub_date>/<title>/')
+def article(outlet, pub_date, title):
+    outlet_url = get_outlet_url(outlet)
+    title = parse.unquote_plus(title)
+    results = get_page_info(outlet_url, pub_date, title)
+    masthead = parse.unquote_plus(outlet)
     return render_template('article.html',
                            masthead=masthead,
-                           outlets=outlets,
                            results=results)
 
 
