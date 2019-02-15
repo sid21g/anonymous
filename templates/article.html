@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Anonymous Source Tracker</title>
+    <meta name="description" content="Anonymous Source Tracker: Daily examples of the media's use of anonymous sources." />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='custom.css') }}">
+
+    <script src="{{ url_for('static', filename='bootstrap.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='jquery-3.3.1.slim.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='popper.min.js') }}"></script>
+
+</head>
+<body>
+    <div class="jumbotron">
+        <div class="container">
+        <h4><a href="/">Schaver.com</a></h4>
+        <h1>{{ masthead|safe }}</h1>
+        <h2><a href="{{ url_for('index') }}" id="masthed">Anonymous Source Tracker</a></h2>
+        </div>
+        <hr>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <b><a href="{{ results.link }}">{{ results.title|safe}}</a></b>
+                <hr>
+                {{ results.content|clean_content|safe }}
+                <br><br>
+                <div class="timestamp">{{ results.date_published | datetimeformat | safe }}</div>
+                <br>
+                <br>
+            </div>
+        </div><!-- row -->
+    </div> <!-- container -->
+</body>
+</html>
+
+
+

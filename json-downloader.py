@@ -66,7 +66,7 @@ def get_json(search_url):
 def pause_search():
     # Delay queries randomly to avoid being blocked
     print("Sleeping...")
-    sleep(randint(10, 50))
+    sleep(randint(10, 100))
 
 
 for phrase in phrases:

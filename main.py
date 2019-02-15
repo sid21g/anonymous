@@ -19,9 +19,6 @@ FREEZER_DESTINATION = config.get("Configuration", "destination")
 PER_PAGE = config.get("Configuration", "per_page")
 PER_PAGE = int(PER_PAGE)
 
-# FREEZER_DESTINATION = "/"
-# PER_PAGE = 50
-# PER_PAGE = int(PER_PAGE)
 
 app = Flask(__name__)
 app.config['FREEZER_DESTINATION'] = FREEZER_DESTINATION
@@ -77,6 +74,13 @@ def get_outlet_name(outlet_url):
     name = plus_for_spaces(name)
     g.db.close()
     return name
+
+
+def get_page_info(source, pub_date, title):
+    results = query_db(
+        "SELECT source, title, link, content, date_published FROM anon WHERE source = ? AND title = ? AND date_published = ?",
+        (source, title, pub_date), one=True)
+    return results
 
 
 def get_outlet_urls():
@@ -230,7 +234,7 @@ def index():
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href='/anonymous/page/{0}/'
+                                href='/page/{0}/'
                                 )
     return render_template('index.html',
                            entries=results,
@@ -278,7 +282,7 @@ def index_pages(page):
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href='/anonymous/page/{0}/'
+                                href='/page/{0}/'
                                 )
     return render_template('index.html',
                            entries=results,
@@ -286,6 +290,18 @@ def index_pages(page):
                            per_page=per_page,
                            outlets=outlets,
                            pagination=pagination)
+
+# TODO: Fix function so outlet name has to match
+# TODO: Try doing search on parameters without article ID
+@app.route('/<string:outlet>/<pub_date>/<title>/')
+def article(outlet, pub_date, title):
+    outlet_url = get_outlet_url(outlet)
+    title = parse.unquote_plus(title)
+    results = get_page_info(outlet_url, pub_date, title)
+    masthead = parse.unquote_plus(outlet)
+    return render_template('article.html',
+                           masthead=masthead,
+                           results=results)
 
 
 @app.route('/outlet/<outlet_name>/')
@@ -327,7 +343,7 @@ def outlet(outlet_name):
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href="/anonymous/outlet/" + outlet_name + "/page/{0}/"
+                                href="/outlet/" + outlet_name + "/page/{0}/"
                                 )
     return render_template('outlet.html',
                            entries=results,
@@ -382,7 +398,7 @@ def outlet_pages(outlet_name, page):
                                 format_total=True,
                                 format_number=True,
                                 display_msg='',
-                                href="/anonymous/outlet/" + outlet_name + "/page/{0}/"
+                                href="/outlet/" + outlet_name + "/page/{0}/"
                                 )
     return render_template('outlet.html',
                            entries=results,
