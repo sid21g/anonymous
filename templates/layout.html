@@ -29,7 +29,7 @@
                 <hr>
                 {{ entry.content|clean_content|safe }}
                 <br><br>
-                <div class="timestamp">{{ entry.name|safe }}&nbsp;&mdash;&nbsp;{{ entry.date_published | datetimeformat | safe }}</div>
+                    <div class="timestamp">{{ entry.name|safe }}&nbsp;&mdash;&nbsp;<a href="/{{ entry.name }}/{{ entry.date_published }}/{{ entry.title }}" title="Permalink">{{ entry.date_published | datetimeformat | safe }}</a></div>
                 <br>
                 <br>
                 {% endfor %}
