@@ -14,7 +14,7 @@ import math
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 config = configparser.ConfigParser()
-config.read("c:/bin/config.ini")
+config.read("config.ini")
 FREEZER_DESTINATION = config.get("Configuration", "destination")
 PER_PAGE = config.get("Configuration", "per_page")
 PER_PAGE = int(PER_PAGE)
@@ -103,6 +103,7 @@ def get_total_anon_pages():
     total = int(next(iter(results.values())))
     num_pages = total / PER_PAGE
     num_pages = math.ceil(num_pages)
+    g.db.close()
     return num_pages
 
 
@@ -114,6 +115,13 @@ def get_total_outlet_pages(outlet_url):
     num_pages = math.ceil(num_pages)
     g.db.close()
     return num_pages
+
+
+def get_articles():
+    g.db = connect_db()
+    results = query_db("SELECT source, date_published, title FROM anon")
+    g.db.close()
+    return results
 
 
 # -----------------------------------------------------------------------------
@@ -196,6 +204,15 @@ def outlet_pages():
         for page in range(1, int(pages) + 1):
             page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
             yield page_url
+
+
+# @freezer.register_generator
+# def article_pages():
+#     articles = get_articles()
+#     for article_page in articles:
+#         outlet_name = get_outlet_name(article_page['source'])
+#         article_url = '/article/' + outlet_name + '/' + article_page['date_published'] + '/' + parse.quote_plus(article_page['title']) + '/'
+#         yield article_url
 
 
 # -----------------------------------------------------------------------------
@@ -293,7 +310,7 @@ def index_pages(page):
 
 # TODO: Fix function so outlet name has to match
 # TODO: Try doing search on parameters without article ID
-@app.route('/<string:outlet>/<pub_date>/<title>/')
+@app.route('/article/<string:outlet>/<pub_date>/<title>/')
 def article(outlet, pub_date, title):
     outlet_url = get_outlet_url(outlet)
     title = parse.unquote_plus(title)
