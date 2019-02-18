@@ -35,6 +35,10 @@ div .timestamp a {
     color: #696969;
 }
 
+div.timestamp a:hover {
+    text-decoration: underline; color: #E00000;
+}
+
 .jumbotron {
     padding-top: 15px;
     padding-bottom: 15px;
