@@ -31,6 +31,10 @@ hr + b {
     float: right;
 }
 
+div .timestamp a {
+    color: #696969;
+}
+
 .jumbotron {
     padding-top: 15px;
     padding-bottom: 15px;
