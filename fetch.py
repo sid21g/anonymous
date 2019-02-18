@@ -1,4 +1,4 @@
-#!/var/www/html/anonymous/venv/bin/python3
+#!/usr/bin
 import json
 import time
 from datetime import date
@@ -14,7 +14,7 @@ from sqlite3 import connect
 from sqlite3 import Error
 
 config = configparser.ConfigParser()
-config.read("config.ini")
+config.read("/var/www/html/anonymous/config.ini")
 YOUR_ID = config.get("Configuration", "id")
 YOUR_KEY = config.get("Configuration", "key")
 
@@ -22,17 +22,17 @@ conn = connect(r"anon.db")
 curs = conn.cursor()
 today = date.today()
 
-input_dir = 'json/'
-output_dir = 'json/'
+input_dir = '/var/www/html/anonymous/json/'
+output_dir = '/var/www/html/anonymous/json/'
 
 # Divide phrases into two days to stay under Google's 100 free queries a day limit
 if today.day % 2 == 0:
     # Even
-    phrases = open("anonymous-phrases-even.txt")
+    phrases = open("/var/www/html/anonymous/anonymous-phrases-even.txt")
     print("It's an even day.")
 else:
     # Odd
-    phrases = open("anonymous-phrases-odd.txt")
+    phrases = open("/var/www/html/anonymous/anonymous-phrases-odd.txt")
     print("It's an odd day.")
 
 
