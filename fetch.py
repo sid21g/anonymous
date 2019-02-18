@@ -1,3 +1,4 @@
+#!/var/www/html/anonymous/venv/bin/python3
 import json
 import time
 from datetime import date
@@ -11,7 +12,6 @@ import html
 import re
 from sqlite3 import connect
 from sqlite3 import Error
-
 
 config = configparser.ConfigParser()
 config.read("config.ini")
