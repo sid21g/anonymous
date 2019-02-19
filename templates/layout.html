@@ -16,7 +16,6 @@
 <body>
     <div class="jumbotron">
         <div class="container">
-        <h4><a href="/">Schaver.com</a></h4>
         {% block masthead %}{% endblock %}
         {% block content %}{% endblock %}
         </div>
@@ -37,15 +36,15 @@
                 <div align="right">{{ pagination.links }}</div>
             </div>
             <div class="col-sm-3">
-                <h3>Media tracked*</h3>
-                <p>Click on the name to view anonymous sources published by that news site</p>
+                <h3>Media tracked</h3>
+                <p>Click on the name below to view anonymous sources published by that news site*</p>
                 <ul>
                 {% for outlet in outlets %}
                 <li><a href="{{ url_for('outlet', outlet_name='%s' % (outlet.name|plus_for_spaces)) }}">{{ outlet.name|safe }}</a></li>
                 {% endfor %}
                 </ul>
                 <br>
-                <p><b>*</b>&nbsp;An outlet that published an anonymously sourced story isn't necessarily the outlet that produced it. Some stories are wire service stories published by multiple outlets.</p>
+                <p><b>*</b>&nbsp;A news site that published an anonymously sourced story isn't necessarily the news site that produced it. Some stories are wire service stories published by multiple websites.</p>
                 <br>
                 <h3>About this:</h3>
                 <ul>

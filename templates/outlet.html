@@ -1,5 +1,62 @@
-    {% extends "layout.html" %}
-    {% block head %}<title>Anonymous Source Tracker | {{ masthead|safe }}</title>{% endblock %}
-    {% block content %}<h2><a href="/anonymous" id="masthed">Anonymous Source Tracker</a></h2>{% endblock %}
-    {% block masthead %}<p><h1>{{ masthead|safe }}</h1></p>{% endblock %}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Anonymous Source Tracker | {{ masthead|safe }}</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Anonymous Source Tracker: Daily examples of the media's use of anonymous sources." />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='custom.css') }}">
+
+    <script src="{{ url_for('static', filename='bootstrap.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='jquery-3.3.1.slim.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='popper.min.js') }}"></script>
+
+</head>
+<body>
+    <div class="jumbotron">
+        <div class="container">
+        <h2><a href="/anonymous" id="masthed">Anonymous Source Tracker</a></h2>
+        <p><h1>{{ masthead|safe }}</h1></p>
+        </div>
+        <hr>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-9">
+                {% for entry in entries %}
+                <b><a href="{{ entry.link }}">{{ entry.title|safe}}</a></b>
+                <hr>
+                {{ entry.content|clean_content|safe }}
+                <br><br>
+                    <div class="timestamp">{{ entry.name|safe }}&nbsp;&mdash;&nbsp;<a href="/anonymous/article/{{ entry.name }}/{{ entry.date_published }}/{{ entry.title }}" title="Permalink">{{ entry.date_published | datetimeformat | safe }}</a></div>
+                <br>
+                <br>
+                {% endfor %}
+                <div align="right">{{ pagination.links }}</div>
+            </div>
+            <div class="col-sm-3">
+                <h3>Media tracked</h3>
+                <p>Click on the name below to view anonymous sources published by that news site*</p>
+                <ul>
+                {% for outlet in outlets %}
+                <li><a href="{{ url_for('outlet', outlet_name='%s' % (outlet.name|plus_for_spaces)) }}">{{ outlet.name|safe }}</a></li>
+                {% endfor %}
+                </ul>
+                <br>
+                <p><b>*</b>&nbsp;A news site that published an anonymously sourced story isn't necessarily the news site that produced it. Some stories are wire service stories published by multiple websites.</p>
+                <br>
+                <h3>About this:</h3>
+                <ul>
+                <li>Learn more about the tracker and check out the code to see how it works <span style="text-decoration: underline;"><a href="https://github.com/markschaver/anonymous">on Github</a></span>.</li>
+                <li>Read <span style="text-decoration: underline;"><a href="/anonymous/mentions">what's been said about it</a></span> elsewhere .</li>
+                </ul>
+                <br>
+                <br>
+            </div>
+        </div><!-- row -->
+    </div> <!-- container -->
+</body>
+</html>
 
