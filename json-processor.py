@@ -12,7 +12,7 @@ config.read("config.ini")
 YOUR_ID = config.get("Configuration", "id")
 YOUR_KEY = config.get("Configuration", "key")
 
-conn = connect(r"anon.db")
+conn = connect(r"/var/www/html/anonymous/anon.db")
 curs = conn.cursor()
 today = date.today()
 input_dir = "json/"
