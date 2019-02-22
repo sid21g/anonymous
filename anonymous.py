@@ -1,4 +1,4 @@
-from flask import Flask, render_template, g, current_app, request
+from flask import Flask, render_template, g, current_app, request, abort
 from flask_paginate import Pagination
 from sqlite3 import connect
 from datetime import datetime
@@ -129,18 +129,24 @@ def get_articles():
 # -----------------------------------------------------------------------------
 @app.template_filter('datetimeformat')
 def datetimeformat(value, date_format='%B %e, %Y'):
-    d = datetime.strptime(value, '%Y-%m-%d')
-    return d.strftime(date_format)
+    if(value):
+        d = datetime.strptime(value, '%Y-%m-%d')
+        return d.strftime(date_format)
+    else:
+        return abort(404)
 
 
 @app.template_filter('clean_content')
 def clean_content(content):
-    content = content.strip()
-    content = content.replace('\n', ' ').replace('\r', '')
-    content = content.replace('<b>...</b>', '...')
-    content = content.replace('<br>', '')
-    content = re.sub(extra_bold, "\1 ", content)
-    return content
+    if(content):
+        content = content.strip()
+        content = content.replace('\n', ' ').replace('\r', '')
+        content = content.replace('<b>...</b>', '...')
+        content = content.replace('<br>', '')
+        content = re.sub(extra_bold, "\1 ", content)
+        return content
+    else:
+        return abort(404)
 
 
 @app.template_filter('plus_for_spaces')
@@ -204,16 +210,6 @@ def outlet_pages():
         for page in range(1, int(pages) + 1):
             page_url = '/outlet/' + outlet_name + '/page/' + str(page) + '/'
             yield page_url
-
-
-# @freezer.register_generator
-# def article_pages():
-#     articles = get_articles()
-#     for article_page in articles:
-#         outlet_name = get_outlet_name(article_page['source'])
-#         article_url = '/article/' + outlet_name + '/' + article_page['date_published'] + '/' + parse.quote_plus(article_page['title']) + '/'
-#         yield article_url
-
 
 # -----------------------------------------------------------------------------
 # ROUTES
