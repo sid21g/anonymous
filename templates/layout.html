@@ -29,7 +29,7 @@
                 <hr>
                 {{ entry.content|clean_content|safe }}
                 <br><br>
-                    <div class="timestamp">{{ entry.name|safe }}&nbsp;&nbsp;<a href="/anonymous/article/{{ entry.name }}/{{ entry.date_published }}/{{ entry.title | plus_for_spaces }}" title="Permalink"><svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" stroke-linejoin="arcs"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a>&nbsp;&nbsp;{{ entry.date_published | datetimeformat | safe }}</div>
+                    <div class="timestamp">{{ entry.name|safe }}&nbsp;&nbsp;<a href="/anonymous/article/{{ entry.name | plus_for_spaces }}/{{ entry.date_published }}/{{ entry.title | plus_for_spaces }}" title="Permalink"><svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" stroke-linejoin="arcs"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a>&nbsp;&nbsp;{{ entry.date_published | datetimeformat | safe }}</div>
                 <br>
                 <br>
                 {% endfor %}
