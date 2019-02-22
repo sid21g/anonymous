@@ -2,7 +2,7 @@ from sqlite3 import connect
 from sqlite3 import Error
 
 
-conn = connect(r"anon.db")
+conn = connect(r"/var/www/html/anonymous/anon.db")
 curs = conn.cursor()
 
 try:
@@ -59,10 +59,10 @@ SQL_statements = ["DELETE FROM anon WHERE link LIKE '%http://www.nytimes.com/by/
                   "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/newsletters/%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/states/new-york/newsletters/%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.reuters.com/entity?%';",
-                  "DELETE FROM anon WHERE link = 'https://www.reuters.com/finance/deals';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.reuters.com/finance/stocks/%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.reuters.com/journalists/%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.reuters.com/news/archive/%';",
+                  "DELETE FROM anon WHERE link LIKE '%https://www.reuters.com/journalists%';",
+                  "DELETE FROM anon WHERE link LIKE '%https://www.reuters.com/news/archive%';",
+                  "DELETE FROM anon WHERE link LIKE '%https://www.reuters.com/finance/deals%';",
                   "DELETE FROM anon WHERE link = '%https://www.washingtonpost.com/people/%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.wsj.com/livecoverage/%';"]
 
