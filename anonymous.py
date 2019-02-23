@@ -14,7 +14,7 @@ import math
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 config = configparser.ConfigParser()
-config.read("config.ini")
+config.read("/var/www/html/anonymous/config.ini")
 FREEZER_DESTINATION = config.get("Configuration", "destination")
 PER_PAGE = config.get("Configuration", "per_page")
 PER_PAGE = int(PER_PAGE)
@@ -33,7 +33,7 @@ extra_bold = re.compile(r"</b>.*?<b>", re.MULTILINE)
 # DATABASE
 # -----------------------------------------------------------------------------
 def connect_db():
-    return connect("anon.db")
+    return connect("/var/www/html/anonymous/anon.db")
 
 
 @app.before_request
