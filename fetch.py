@@ -239,7 +239,6 @@ except Error as e:
 
 SQL_statements = ["DELETE FROM anon WHERE link LIKE '%http://www.nytimes.com/by/%';",
                   "DELETE FROM anon WHERE link LIKE '%https://apnews.com/RogerStone%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.axios.com/authors/%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.cnn.com/videos/%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.nytimes.com/search%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.nytimes.com/reuters%';",
