@@ -24,16 +24,7 @@ today = date.today()
 
 input_dir = '/var/www/html/anonymous/json/'
 output_dir = '/var/www/html/anonymous/json/'
-
-# Divide phrases into two days to stay under Google's 100 free queries a day limit
-if today.day % 2 == 0:
-    # Even
-    phrases = open("/var/www/html/anonymous/anonymous-phrases-even.txt")
-    print("It's an even day.")
-else:
-    # Odd
-    phrases = open("/var/www/html/anonymous/anonymous-phrases-odd.txt")
-    print("It's an odd day.")
+phrases = open("/var/www/html/anonymous/phrases.txt")
 
 
 def encode_phrase(unencoded_phrase):
@@ -75,7 +66,7 @@ def get_json(search_url):
 def pause_search():
     # Delay queries randomly to avoid being blocked
     print("Sleeping...")
-    sleep(randint(10, 100))
+    sleep(randint(10, 20))
 
 
 for phrase in phrases:
@@ -237,26 +228,26 @@ try:
 except Error as e:
     print("Oops, duplicate link deletion didn't work: ", e.args[0])
 
-SQL_statements = ["DELETE FROM anon WHERE link LIKE '%http://www.nytimes.com/by/%';",
+SQL_statements = ["DELETE FROM anon WHERE link LIKE '%http://www.nytimes.com/by%';",
                   "DELETE FROM anon WHERE link LIKE '%https://apnews.com/RogerStone%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.axios.com/authors/%';",
+                  "DELETE FROM anon WHERE link LIKE '%https://www.axios.com/authors%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.cnn.com/videos/%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.nytimes.com/search%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.nytimes.com/reuters%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.nytimes.com/aponline%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/morningeducation/%';",
+                  "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/morningeducation%';",
                   "DELETE FROM anon WHERE link LIKE '%https://abcnews.go.com/WN%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/morningtax/%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/morningtech/%';",
+                  "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/morningtax%';",
+                  "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/morningtech%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/newsletters%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/states/new-york/newsletters%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.cnbc.com/vladimir-putin%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.cnbc.com/mario-draghi/%';",
+                  "DELETE FROM anon WHERE link LIKE '%https://www.cnbc.com/mario-draghi%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.cnbc.com/private-equity-and-hedge-funds%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.cnbc.com/biotech-and-pharmaceuticals%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.cnbc.com/ipos%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.washingtonpost.com/people/%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.wsj.com/livecoverage/%';"]
+                  "DELETE FROM anon WHERE link LIKE '%https://www.washingtonpost.com/people%';",
+                  "DELETE FROM anon WHERE link LIKE '%https://www.wsj.com/livecoverage%';"]
 
 
 for statement in SQL_statements:
