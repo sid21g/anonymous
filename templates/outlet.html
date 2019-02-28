@@ -38,18 +38,28 @@
             </div>
             <div class="col-sm-3">
                 <h3>Media tracked</h3>
-                <p>Click on the name below to view anonymous sources published by that news site*</p>
+                <p>Click on the name below to view anonymous sources published by that news site</p>
                 <ul>
                 {% for outlet in outlets %}
                 <li><a href="{{ url_for('outlet', outlet_name='%s' % (outlet.name|plus_for_spaces)) }}">{{ outlet.name|safe }}</a></li>
                 {% endfor %}
                 </ul>
                 <br>
-                <p><b>*</b>&nbsp;A news site that published an anonymously sourced story isn't necessarily the news site that produced it. Some stories are wire service stories published by multiple websites.</p>
+                <p><h3>Cautions</h3>
+                    <ul>
+                        <li>The tracker searches for commonly used phrases used to identify anonymous sources so misses anonymously sourced articles that do not use those phrases.</li>
+                        <li>Some matches are false and the article is not anonymously sourced.</li>
+                        <li>Some entries are duplicates because an article appeared on multiple news sites. These are typically from wire services.</li>
+                        <li>Some articles are duplicates because they have different urls but come from the same news site.</li>
+                        <li>Some articles refer to anonymous sources but are not themselves anonymously sourced.</li>
+                        <li>Articles that do not have a publication date in the Google search results or the URL are not included.</li>
+                        <li>The tracker does not distinguish between good use and misuse of anonymous sources.</li>
+                    </ul>
+                </p>
                 <br>
-                <h3>About this:</h3>
+                <h3>More about this</h3>
                 <ul>
-                <li>Learn more about the tracker and check out the code to see how it works <span style="text-decoration: underline;"><a href="https://github.com/markschaver/anonymous">on Github</a></span>.</li>
+                <li>Check out the code <span style="text-decoration: underline;"><a href="https://github.com/markschaver/anonymous">on Github</a></span>.</li>
                 <li>Read <span style="text-decoration: underline;"><a href="/anonymous/mentions">what's been said about it</a></span> elsewhere .</li>
                 </ul>
                 <br>
