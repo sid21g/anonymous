@@ -233,8 +233,6 @@ SQL_statements = ["DELETE FROM anon WHERE link LIKE '%http://www.nytimes.com/by%
                   "DELETE FROM anon WHERE link LIKE '%https://www.axios.com/authors%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.cnn.com/videos/%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.nytimes.com/search%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.nytimes.com/reuters%';",
-                  "DELETE FROM anon WHERE link LIKE '%https://www.nytimes.com/aponline%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/morningeducation%';",
                   "DELETE FROM anon WHERE link LIKE '%https://abcnews.go.com/WN%';",
                   "DELETE FROM anon WHERE link LIKE '%https://www.politico.com/morningtax%';",
