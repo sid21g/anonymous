@@ -23,7 +23,7 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-sm-9">
+            <div class="col-sm-8">
                 {% for entry in entries %}
                 <b><a href="{{ entry.link }}">{{ entry.title|safe}}</a></b>
                 <hr>
@@ -35,7 +35,7 @@
                 {% endfor %}
                 <div align="right">{{ pagination.links }}</div>
             </div>
-            <div class="col-sm-3">
+            <div class="col-sm-4">
                 <h3>Media tracked</h3>
                 <p>Click on the name below to view anonymous sources published by that news site</p>
                 <ul>
