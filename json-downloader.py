@@ -8,7 +8,7 @@ import requests
 from urllib import parse
 
 config = configparser.ConfigParser()
-config.read("config.ini")
+config.read("c:/bin/config.ini")
 YOUR_ID = config.get("Configuration", "id")
 YOUR_KEY = config.get("Configuration", "key")
 
